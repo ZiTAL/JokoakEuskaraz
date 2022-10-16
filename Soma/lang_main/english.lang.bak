@@ -1,0 +1,2112 @@
+<LANGUAGE>
+  <RESOURCES>
+    <Directory Path="fonts/" />
+    <Directory Path="lang/eng" />
+  </RESOURCES>
+  
+  <CATEGORY Name="GameOver">
+	<Entry Name="DefaultMessage">You died</Entry>
+	<Entry Name="PressToContinue">Press any button to try again...</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="LoadScreen">
+  	<Entry Name="PressToStart">Press any button to continue...</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="HintHeaders">
+	<Entry Name="Hint">HINT</Entry>
+	<Entry Name="Alert">ALERT</Entry>
+	<Entry Name="Danger">DANGER</Entry>
+	<Entry Name="Info">INFO</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="Hints">
+	<Entry Name="HintLookAround">Use the mouse to look around.</Entry>
+	<Entry Name="HintMoveAround">To move around, use the movement keys ($Input{Forward} $Input{Backward} $Input{Left} $Input{Right})</Entry>
+	<Entry Name="HintDoors">To open doors and containers, first interact with them and pull on the mouse.</Entry>
+	<Entry Name="HintTools">To use an object you have acquired, press $Input{Interact} when the item is displayed on screen.</Entry>
+	<Entry Name="HintGrab_1">Press $Input{Throw} while holding an object to throw it.</Entry>
+	<Entry Name="HintGrab_2">You can press and hold $Input{InteractRotate} and move the mouse to rotate objects.</Entry>
+	<Entry Name="HintGrab_3">You can use $Input{ScrollDown} or $Input{ScrollUp} while holding an object to move it closer or further.</Entry>
+	<Entry Name="HintWheel">Move the mouse in circles while holding a wheel to turn it.</Entry>
+	<Entry Name="HintSlider">Use the mouse while holding drawers to pull/push them.</Entry>
+	<Entry Name="ReadableTextHint">View text using $Input{Interact}</Entry>
+	<Entry Name="ReadablePropAdditionalHint">Use mouse to rotate / $Input{InteractCancel} to exit.</Entry>
+	<Entry Name="ReadableGrabAdditionalHint">Move mouse while pressing $Input{InteractRotate} to rotate object.</Entry>
+	<Entry Name="ReadableTextHintZoomArea">View text using $Input{Interact}</Entry>
+	<Entry Name="HintPhone">Objects can be interacted with using $Input{Interact}</Entry>
+	<Entry Name="HintPickUpItem">Items can be picked up with the interact button $Input{Interact}</Entry>
+	<Entry Name="HintRun">Press and hold $Input{Run} while moving to run.</Entry>
+	<Entry Name="HintJump">Press $Input{Jump} to jump.</Entry>
+	<Entry Name="HintInventory">Use $Input{OpenInventory} to see your inventory.</Entry>
+	<Entry Name="HintSneak">Moving while crouching (Press $Input{Crouch}) is less noisy and reduces the chance of being noticed.</Entry>
+	<Entry Name="HintFlashlight">To toggle your Flashlight, press $Input{Flashlight}</Entry>
+	<Entry Name="HintLean">Press $Input{LeanLeft} or $Input{LeanRight} to lean left or right</Entry>
+	<Entry Name="HintTest1">$Input{LeanLeft} - $Input{Jump} - $Input{Crouch} - $Input{OpenInventory} - $Input{Run} - $Input{Forward}</Entry>
+  </CATEGORY>
+	  
+  <CATEGORY Name="HintsGamepad">
+	<Entry Name="HintLookAround">Use $GAInput{GamepadLook} to look around.</Entry>
+	<Entry Name="HintMoveAround">To move around, use the stick ($GAInput{GamepadMove})</Entry>
+	<Entry Name="HintDoors">To open doors and containers first interact with them and pull using $GAInput{GamepadLook}</Entry>
+	<Entry Name="HintGrab_1">Press $Input{Throw} while holding an object to throw it.</Entry>
+	<Entry Name="HintGrab_2">You can rotate the object using $GLayout{DPAD}</Entry>
+	<Entry Name="HintWheel">Move $GAInput{GamepadLook} in circles while holding a wheel to turn it.</Entry>
+	<Entry Name="HintSlider">Move $GAInput{GamepadLook} while holding drawers to pull/push them.</Entry>
+	<Entry Name="HintLean">Press and hold $Input{AnalogLean} and move $GAInput{GamepadMove} left or right to lean</Entry>
+	<Entry Name="ReadablePropAdditionalHint">Use $GLayout{DPAD} to rotate / $Input{InteractCancel} to exit.</Entry>
+	<Entry Name="ReadableGrabAdditionalHint">Use $GLayout{DPAD} to rotate.</Entry>
+  </CATEGORY>
+  
+   <CATEGORY Name="Levels">
+    <Entry Name="00-00-intro">Prologue</Entry>
+    <Entry Name="00-01-apartment">Simon's Apartment</Entry>
+    <Entry Name="00-02-subway">Subway</Entry>
+    <Entry Name="00-03-laboratory">Munshi's Lab</Entry>
+    <Entry Name="01-01-upsilon-awake">Awakening</Entry>
+    <Entry Name="01-02-upsilon-inside">Site Upsilon</Entry>
+    <Entry Name="01-03-upsilon-outside">Outside Upsilon</Entry>
+    <Entry Name="01-04-transport-station">Upsilon Shuttle Station</Entry>
+    <Entry Name="02-01-ms-curie-outside">Site Lambda</Entry>
+    <Entry Name="02-02-ms-curie-inside">The CURIE</Entry>
+    <Entry Name="02-03-delta">Site Delta</Entry>
+    <Entry Name="02-04-theta-outside">Outside Theta</Entry>
+    <Entry Name="02-05-theta-inside">Theta Entrance</Entry>
+    <Entry Name="02-06-theta-tunnels">Theta Labs</Entry>
+    <Entry Name="02-07-theta-exit">Theta Maintenance</Entry>
+    <Entry Name="03-01-omicron-outside">Outside Omicron</Entry>
+    <Entry Name="03-02-omicron-inside">Site Omicron</Entry>
+    <Entry Name="03-03-omicron-descent">The Descent</Entry>
+    <Entry Name="04-01-tau-outside">Path to Tau</Entry>
+    <Entry Name="04-02-tau-inside">Site Tau</Entry>
+    <Entry Name="04-03-tau-escape">Site Alpha</Entry>
+    <Entry Name="05-01-phi-inside">Site Phi</Entry>
+    <Entry Name="05-02-ARK-inside">The ARK</Entry>
+    <Entry Name="05-03-space">Space</Entry>
+  </CATEGORY>
+
+  <CATEGORY Name="LastOnSOMAText">
+    <Entry Name="00_01_apartment_1">Simon has promised to show up for a brain scan appointment. To ensure the best results he needs to drink some tracer fluid.</Entry>
+    <Entry Name="00_01_apartment_2">Simon drank some tracer fluid in preparation for his upcoming brain scan.</Entry>
+    <Entry Name="00_03_laboratory_1">Simon took the subway to the PACE Laboratories in downtown Toronto, where he has an appointment for a brain scan.</Entry>
+    <Entry Name="01_01_upsilon_awake_1">After having his brain scanned, Simon woke up in an unfamiliar place.</Entry>
+	<Entry Name="01_01_upsilon_awake_2">Simon has found a small handheld device called an omnitool.</Entry>
+	<Entry Name="01_01_upsilon_awake_3">Simon has just updated his omnitool and it can now open certain doors.</Entry>
+    <Entry Name="01_02_upsilon_inside_1">After having his brain scanned, Simon woke up in an unfamiliar place.</Entry>
+	<Entry Name="01_02_upsilon_inside_2">Simon managed to get in contact with a stranger over a failing radio. He was told to find the Comm Center, a room with a domed ceiling, so they could talk again.</Entry>
+    <Entry Name="01_03_upsilon_outside_1">Simon is looking for a shuttle station that can take him to Lambda, where Catherine said she would wait for him.</Entry>
+    <Entry Name="01_04_transport_station_1">Simon is trying to start a shuttle that he can ride to Lambda, where he is supposed to meet Catherine, the woman on the radio.</Entry>
+	<Entry Name="01_04_transport_station_2">Simon's shuttle has crashed and he now has to find another way to get to Lambda, the place where Catherine, the woman on the radio, is waiting for him.</Entry>
+    <Entry Name="02_01_ms_curie_outside_1">Simon has once again emerged into the ocean and needs to find Lambda, the place where Catherine, the woman on the radio, is waiting for him.</Entry>
+	<Entry Name="02_01_ms_curie_outside_2">Catherine turned out to be a robot - a broken robot - and Simon now needs to transfer her data into his omnitool.</Entry>
+	<Entry Name="02_01_ms_curie_outside_3">Catherine wants Simon to help her find out what happened to something called the ARK project. She wants Simon to access a nearby computer and report his findings.</Entry>
+	<Entry Name="02_01_ms_curie_outside_4">Catherine's ARK project was meant to save humanity, but it is stuck deep within the abyss. To save it they need to find a way to site Theta where they will get to the DUNBAT, the only vehicle that can stand the pressure of the abyss.</Entry>
+	<Entry Name="02_01_ms_curie_outside_5">Catherine's ARK project was meant to save humanity, but it is stuck deep within the abyss. They need to go to Theta and find the DUNBAT, the only vehicle that can stand the pressure of the abyss. To get there, Simon hopes to find the shipwreck of the CURIE and hijack an emergency vessel.</Entry>
+    <Entry Name="02_02_ms_curie_inside_1">Simon has found the wreck of the CURIE, a large ship on the bottom of the sea. In it he hopes to find an Emergency Vessel and travel to the site called Theta.</Entry>
+	<Entry Name="02_02_ms_curie_inside_2">Simon and Catherine are headed for Theta to get to the DUNBAT, a vehicle made for extreme pressure environments. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+    <Entry Name="02_03_delta_1">Simon has crash-landed near a site called Delta. He is still trying to get to the ARK, but to do so he first needs to go to Theta.</Entry>
+	<Entry Name="02_03_delta_2">Simon has called on a zeppelin, an underwater transport vehicle. Catherine says she could operate it if it wasn't for her tool chip being broken. Simon has to get a new one from one of the robots in the area before they can leave.</Entry>
+	<Entry Name="02_03_delta_3">Having replaced Catherine's broken tool chip the two of them can finally continue towards Theta with the zeppelin.</Entry>
+    <Entry Name="02_04_theta_outside_1">Simon and Catherine are going to Theta where they hope to find the DUNBAT, a vehicle made for extreme pressure environments. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+    <Entry Name="02_05_theta_inside_1">Simon and Catherine made it to Theta and now need to find the DUNBAT, a vehicle made for extreme pressure environments. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+	<Entry Name="02_05_theta_inside_2">Simon and Catherine have found the DUNBAT, but it's been quarantined, and they need to find someone who would know a security cipher so they can gain access. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+	<Entry Name="02_05_theta_inside_3">Simon has found a scan of a security recruit, Brandon Wan, and hope to find a way to extract a cipher from him somehow so Catherine can access the DUNBAT. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+	<Entry Name="02_05_theta_inside_4">Simon is trying to find out more information about who Brandon Wan was, so it will be easier to persuade his simulation into giving up the security cipher needed to access the DUNBAT. Only with the DUNBAT will they be able to enter the abyss and find the lost ARK.</Entry>
+	<Entry Name="02_05_theta_inside_5">Simon and Catherine are trying to persuade the simulation of Brandon Wan to give up the security cipher needed to access the DUNBAT. So far "Brandon" has been suspicious of the environments presented. They really need to figure this out as the DUNBAT is the only vehicle that can help them get to the ARK.</Entry>
+	<Entry Name="02_05_theta_inside_6">Simon and Catherine have tricked the Brandon simulation into sharing the security cipher needed to access the DUNBAT. Now they can finally use it to travel into the abyss and find the lost ARK.</Entry>
+	<Entry Name="02_05_theta_inside_7">The DUNBAT has been corrupted by the WAU. There's no way to save it.[br]Simon and Catherine will have to find another way to get into the abyss and find the ARK.</Entry>
+    <Entry Name="02_06_theta_tunnels_1">The DUNBAT has been corrupted by the WAU. There's no way to save it.[br]Simon and Catherine will have to find another way to get into the abyss and find the ARK.</Entry>
+	<Entry Name="02_06_theta_tunnels_2">The plan to take the DUNBAT into the abyss has failed. Simon and Catherine have decided to go to Omicron and ride the Climber down instead, but first Catherine needs Simon's help to figure out how the ARK works.</Entry>
+	<Entry Name="02_06_theta_tunnels_3">The plan to take the DUNBAT into the abyss has failed. Simon and Catherine have decided to go to Omicron and ride the Climber down instead, but first Simon has to find a way out of Theta.</Entry>
+    <Entry Name="02_07_theta_exit_1">Simon is lost somewhere inside Theta, looking for a way out.</Entry>
+	<Entry Name="02_07_theta_exit_2">Simon is lost somewhere inside Theta, hunted by strange creatures.</Entry>
+    <Entry Name="03_01_omicron_outside_1">Simon has escaped Theta and can finally make his way to Omicron, where he can find a Power Suit that will stand the pressure of the abyss.</Entry>
+	<Entry Name="03_01_omicron_outside_2">Simon has found Omicron, where he is supposed to look for a Power Suit that will stand the pressure of the abyss. But first he needs to find a way inside.</Entry>
+    <Entry Name="03_02_omicron_inside_1">Simon has entered Omicron. Before he can ride the Climber into the abyss, he needs a Power Suit, so he'll survive the pressure.</Entry>
+	<Entry Name="03_02_omicron_inside_2">Simon has found a Power Suit with a dead body inside. Now he must adapt it so that Catherine can transfer his mind into it and they can continue the journey into the abyss. Three parts are needed: some structure gel, a cortex chip from a robot, and a power pack.</Entry>
+	<Entry Name="03_02_omicron_inside_3">Catherine has successfully transferred Simon's mind into a new body capable of withstanding extreme pressure. They are now ready for the abyss.</Entry>
+    <Entry Name="03_03_omicron_descent_1">With a new and more powerful body, Simon and Catherine will ride the Climber into the abyss and look for the lost ARK.</Entry>
+    <Entry Name="04_01_tau_outside_1">Simon is on the Climber headed for the bottom of the ocean. He will then have to traverse the harsh abyssal environment in order to get to Tau where the ARK is said to be.</Entry>
+	<Entry Name="04_01_tau_outside_2">Simon has reached the bottom of the abyss and will now have to traverse the harsh environment in order to get to Tau where the ARK is said to be.</Entry>
+    <Entry Name="04_02_tau_inside_1">Simon has found his way into Tau, where the ARK is supposed to be. He must find the ARK and take it to Phi where it can be launched into space.</Entry>
+	<Entry Name="04_02_tau_inside_2">Simon has finally found the ARK and must now take it with him to Phi where he can launch it into space.</Entry>
+    <Entry Name="04_03_tau_escape">The ARK is on its way to Phi on an automated tram. Simon just needs to make sure he gets there as well.</Entry>
+    <Entry Name="05_01_phi_inside_1">Simon escaped the secret site Alpha, the heart of the WAU, and made his way to Phi. It's time to reunite with the ARK and launch it into space using the Omega Space Gun.</Entry>
+	<Entry Name="05_01_phi_inside_2">Simon reached site Phi, where he intends to launch the ARK into space using the Omega Space Gun.</Entry>
+    <Entry Name="05_02_ARK_inside_1">Simon has successfully transferred his mind into the ARK.</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="GUI">
+	<Entry Name="OK">OK</Entry>
+	<Entry Name="Cancel">Cancel</Entry>
+	<Entry Name="Back">Back</Entry>
+	<Entry Name="Play">Play</Entry>
+	<Entry Name="Stop">Stop</Entry>
+	<Entry Name="Playback">Playback</Entry>
+	<Entry Name="NumPadClear">C</Entry>
+	<Entry Name="NumPadClearFull">CLEAR</Entry>
+	<Entry Name="Error">Error</Entry>
+	<Entry Name="Next">Next</Entry>
+	<Entry Name="Prev">Previous</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="StationGUI">
+	<Entry Name="Error">ERROR</Entry>
+	<Entry Name="OK">OK</Entry>
+	
+	<Entry Name="StationGUI_VersionNO">v. 3.02</Entry>
+	<Entry Name="DoorControlApp_Label">Door Lock Control</Entry>
+	<Entry Name="DoorControlApp_Locked">LOCKED</Entry>
+	<Entry Name="DoorControlApp_Unlocked">UNLOCKED</Entry>
+	<Entry Name="DoorControlApp_Broken">N/A</Entry>
+	<Entry Name="DoorControlApp_PowerLevelHeader">SYSTEM MALFUNCTION! LOCK LIMITS ACTIVE.</Entry>
+	<Entry Name="DoorControlApp_PowerLevel_Pre">REMAINING RESOURCES: </Entry>
+	<Entry Name="DoorControlApp_PowerLevel_Post">%</Entry>
+	<Entry Name="DoorControlApp_RoomInfoHeader">INFO</Entry>
+	<Entry Name="MailApp_Header">MESSAGES</Entry>
+	<Entry Name="MailApp_Inbox">INBOX</Entry>
+	<Entry Name="MailApp_Draft">DRAFTS</Entry>
+	<Entry Name="MailApp_Sent">SENT</Entry>
+	<Entry Name="MailApp_Send">SEND</Entry>
+	<Entry Name="ReaderApp_Header">READER</Entry>
+	<Entry Name="AudioApp_Header">AUDIO PLAYER</Entry>
+	
+	<Entry Name="CorruptedData_Detected">Corrupted data detected[br]Restore files?</Entry>
+	<Entry Name="CorruptedData_Restoring">Restoring...</Entry>
+	<Entry Name="CorruptedData_Results">Partial data recovery successful!</Entry>
+	
+	<Entry Name="Panel_AccessDenied">ACCESS DENIED</Entry>
+	<Entry Name="Panel_Locked">OFFLINE</Entry>
+	<Entry Name="Panel_On">ACCESS GRANTED</Entry>
+	<Entry Name="Panel_Off">SWIPE OMNITOOL</Entry>
+	
+	<Entry Name="PressureDiff_Status">STATUS</Entry>
+	<Entry Name="PressureDiff_PressureHeader">PRESSURE DIFF</Entry>
+	<Entry Name="PressureDiff_Out">OUT</Entry>
+	<Entry Name="PressureDiff_In">IN</Entry>
+	<Entry Name="PressureDiff_Airlock">AIRLOCK</Entry>
+	
+  </CATEGORY>
+  
+  <CATEGORY Name="PathOS">
+	<Entry Name="TBBack">BACK</Entry>
+	<Entry Name="MMAppAudioPlayer">AUDIO PLAYER</Entry>
+	<Entry Name="MMAppLogReader">LOG READER</Entry>
+	<Entry Name="MMAppMessenger">MESSENGER</Entry>
+	<Entry Name="MMPathOSTM">v. 3.02</Entry>
+	<Entry Name="MsgConversations">CONVERSATIONS</Entry>
+	<Entry Name="MsgAttach">ATTACHMENTS</Entry>
+	<Entry Name="MsgSend">SEND</Entry>
+	<Entry Name="MsgDelete">DELETE</Entry>
+	<Entry Name="MsgOK">OK</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="UrbanGUI">
+	<Entry Name="MailApp_Header">treemail 0.1</Entry>
+	<Entry Name="MailApp_Inbox">INBOX</Entry>
+	<Entry Name="MailApp_Draft">DRAFTS</Entry>
+	<Entry Name="MailApp_Sent">SENT</Entry>
+	<Entry Name="MailApp_ToLabel">TO:</Entry>
+	<Entry Name="MailApp_FromLabel">FROM:</Entry>
+	<Entry Name="MailApp_SubjectLabel">SUBJECT:</Entry>
+	<Entry Name="MailApp_TimestampLabel">DATE:</Entry>
+	<Entry Name="MailApp_Send">SEND EMAIL</Entry>
+	<Entry Name="MailApp_Yes">Yes</Entry>
+	<Entry Name="MailApp_No">No</Entry>
+	<Entry Name="MailApp_ConfirmSend">Are you sure you want to send?</Entry>
+	<Entry Name="DesktopDate">Saturday 2 May 2015</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="Phone">
+	<Entry Name="Caller_unknown">UNKNOWN</Entry>
+	<Entry Name="Caller_jesse">Jesse - The Grimoire</Entry>
+	<Entry Name="Caller_munshi">David Munshi</Entry>
+	<Entry Name="DurationHeader">Duration:</Entry>
+	<Entry Name="MissedCall">Missed call</Entry>
+	<Entry Name="RejectedCall">Declined</Entry>
+	<Entry Name="CancelledCall">Call ended</Entry>
+	<Entry Name="Calling">Calling...</Entry>
+	
+	<Entry Name="00_01_Time">09:21</Entry>
+	<Entry Name="00_02_Time">10:12</Entry>
+	<Entry Name="00_03_Time">10:50</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="Readables">
+	<Entry Name="NoteDiveSuits">Haimatsu Power Suits: Proper Usage[br]For the safety of you and your colleagues![br]1: Put on the neoprene undersuit and body harness.[br]2: Check the HPS for any visual damage.[br]3: Starting with the legs, fix the parts onto your harness and work yourself upwards. Lock all the pieces together as you go. Let a partner help you with the back piece and the torso.[br]4: Tap the "Secure"-button on your arm piece. You should hear the suit seal itself.[br]5: The suit will then start to equalise pressure and tap into the oxygen tank.[br]6: If the suit doesn't seal itself, flex the shock absorbers and try again. If it still won't work, do not try to fix it yourself! Contact maintenance.[br]Note: The HPSes are very heavy and the suit will compensate. You will effectively be stronger than you think you are. Be careful![br]Regular training applies: Don't hold your breath, don't stay out too long, don't dive too deep, don't dive with malfunctioning equipment.</Entry>
+	<Entry Name="SecurityTasklist1">Check List[br]Survive the ARK-project[br]Stop people from killing themselves[br]Send off C and the team[br]Keep people safe[br]Enjoy the rest of Armageddon</Entry>
+	<Entry Name="SecurityTasklist2">Akers is not alone[br]at least 3 proxy creatures[br]check and seal doors[br]move downstairs[br]shuttle to Omicron</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="00_00_intro">
+	<Entry Name="Quote">"Reality is that which, when you stop believing in it, doesn't go away."</Entry>
+	<Entry Name="Signature">- Philip K. Dick</Entry>
+  </CATEGORY>
+    
+  <CATEGORY Name="00_01_apartment">
+	<Entry Name="ToDoBoard">Remind Jesse![br]Pick Up Meds[br]Flowers for funeral</Entry>
+	<Entry Name="GetWellCard">Get well soon.[br][br]Love, Mom</Entry>
+	<Entry Name="SportlerFront">CINEMA VARIETY[br]The Ultimate Movie Magazine[br][br]- Summer Blockbusters[br]- Japanimation: Bigger than ever[br]- Stunts v.s. CGI[br]- What's a Bottle Movie?</Entry>
+	<Entry Name="SportlerBack">Massive Recoil 2: Flawless Execution[br]In theatres Dec 13</Entry>
+	<Entry Name="BrainBookFront">Mapping Minds[br]Albert Isaacson</Entry>
+	<Entry Name="BrainBookBack">Widely praised as one of the most comprehensive yet accessible texts about the anatomy of the human brain, it's function and our perception of consciousness.[br][br]Find out how your brain is dependant on its body, why the brain is simply not a computer, and a multitude of other interesting facts that will make your head spin.[br][br]This edition also includes two new chapters about the development of the brain and how it affects our behaviour in different stages of our lives.</Entry>
+	<Entry Name="GUI_EMAIL_SEND">SEND EMAIL</Entry>
+	<Entry Name="GUI_MENU_INBOX">INBOX</Entry>
+	<Entry Name="GUI_MENU_DRAFTS">DRAFTS</Entry>
+	<Entry Name="GUI_MENU_SENT">SENT</Entry>
+	<Entry Name="GUI_EMAIL_SUBJ1">Neurograph Session</Entry>
+	<Entry Name="GUI_EMAIL_SUBJ2">New Prescription</Entry>
+	<Entry Name="GUI_EMAIL_SUBJ3">Saturday off</Entry>
+	<Entry Name="EMAIL_1_FROM">David Munshi</Entry>
+	<Entry Name="EMAIL_1_SUBJ">Neurograph Session</Entry>
+	<Entry Name="EMAIL_1_DATE">30 April 2015</Entry>
+	<Entry Name="EMAIL_1_BODY">Thank you again for participating in our research. The scan will be performed at the Pace Laboratories in Toronto, but since we are guests our access is a bit unpredictable. I will try to schedule a scan session for Saturday. I'll get back to you when confirmed.[br][br]Sincerely, David Munshi</Entry>
+	<Entry Name="EMAIL_2_FROM">Dr. Erin Peake</Entry>
+	<Entry Name="EMAIL_2_SUBJ">New Prescription</Entry>
+	<Entry Name="EMAIL_2_DATE">28 April 2015</Entry>
+	<Entry Name="EMAIL_2_BODY">Dear Mr. Jarrett,[br][br]I'm happy to hear your headaches have become less frequent. Your latest tests show your brain is slowly recovering, but it's still too early to tell how well it will adjust to the damage. The bleeding will continue over the coming months at least and you will need to come to the hospital a few times to drain the cavity to prevent the blood from building up pressure.[br]Since excessive stress could be fatal, I have written you a prescription for Prazosin to help you with your nightmares. Please read the instructions and medicate accordingly.[br]Try to get a lot of rest and I will see you next week.[br][br]Sincerely,[br]Dr. Erin Peake</Entry>
+	<Entry Name="EMAIL_3_FROM">Jesse - The Grimoire</Entry>
+	<Entry Name="EMAIL_3_SUBJ">Saturday off</Entry>
+	<Entry Name="EMAIL_3_DATE">1 May 2015</Entry>
+	<Entry Name="EMAIL_3_BODY">Hi Jesse,[br][br]Since you probably forgot, here's me reminding you that I've got that doctor's appointment tomorrow, i.e. I'm not coming into work![br][br]This means you need to make sure you're actually on time to open up the store. And please unpack the boxes behind the counter, they are starting to become a workplace hazard. Also books tend to sell much better if they are put on shelves where people are able to actually see them.[br][br]Good luck (you'll need it)[br]- Simon</Entry>
+	<Entry Name="GUIMailWindow">treemail 0.1</Entry>
+	<Entry Name="GUIMailASimon">Simon.Jarrett@email.net</Entry>
+	<Entry Name="NewspaperCrash">Downtown accident kills young woman[br]Friday, April 10, 2015[br][br]TORONTO - Yesterday a driver distracted by her children ran a red light, causing her to blindside a car in the intersection of Bloor Street and Spadina Road. The mother and her children, traveling in a robust SUV, were left bruised but largely unharmed. The other party was less lucky. As the car crashed into the passenger side Ashley Hall, 23, sustained devastating damage and suffocated from blood trapped in her lungs before the ambulance arrived. Her friend and driver, Simon Jarrett, 26, survived but with complicated results believed to leave him with permanent brain damage.[br][br]The driver of the SUV, whose name has not been released by police, claims it was an accident and practically unavoidable.</Entry>
+	<Entry Name="BookLemuriaFront">HOOKED[br]Robyn McConnell</Entry>
+	<Entry Name="BookLemuriaBack">Mark and Diana Miller have finally caught a break. They've managed to save up enough money to take the family on that vacation to Hawaii they've been talking about for so long. But as the sun sets over Waikiki beach that first day, Mark and Diana's paradise turns into a nightmare as swimmers are caught in thousands of thin strings stretching from somewhere below the waves. Slowly, swimmers are pulled screaming into the dark water. Desperate to get out of harms way their seven-year-old son, Charlie, is caught by the vicious tendrils.[br]Suspenseful, mystical, and absolutely terrifying. Hooked will pull you in.</Entry>
+	<Entry Name="DVDRecoilFront">Massive Recoil</Entry>
+	<Entry Name="DVDRecoilBack">John Hue is a corrupt cop working in Hong Kong.[br]One day his life is turned upside down as he meets Amber, a mysterious foreigner, who is kept prisoner by the Golden Dragon Triad.[br]Get ready to go rogue, for it's time to go against the triad, the police, and the supernatural forces of the underground.[br][br]Get ready for Massive Recoil.</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="00_03_laboratory">
+	<Entry Name="PhoneCallID">Call Dr.Munshi?</Entry>
+	<Entry Name="PhoneCallCancelled">Call ended</Entry>
+	<Entry Name="PhoneCallProgress">Calling...</Entry>
+	<Entry Name="NotebookBack">Paul Berg</Entry>
+	<Entry Name="UniMagTitle">TRIAL AND ERROR</Entry>
+	<Entry Name="UniMagFront">Put your scalpel away - The brain can heal itself![br]"The brain has an amazing transformative quality - a plasticity - that allows it to compensate and even heal itself," explains Paul Berg, a graduate student in neuroscience at York university in Toronto. It is this quality that Berg and his colleague David Munshi, a student of computer science, are hoping to encourage. "It's about getting the brain to do the right thing. And we hope to accomplish this with simple things like: exercise, therapy, and light medication."[br]But Munshi and Berg are not looking for a miraculous panacea, it's about finding the optimal treatment for each patient. They start out recording something called a Nakajima-neurograph. "It's like a picture that indicates direction," says Munshi, "Instead of a static brain scan the neurograph can tell us where your brain is going."</Entry>
+	<Entry Name="UniMagBack">It is not a long forecast, it's about milliseconds, but with the right computer model Berg and Munshi can then administer all kinds of treatments without risking actual harm to the real brain. "We could try giving your brain an overdose of painkillers while running a marathon," suggests Berg, "It's just a computer model. We are able to fail treating you a million times over only to find the right way." And when they do find that optimal treatment that's when they apply it to the real patient. It's still in the early stages, but their project has caught the attention from PACE Laboratories who has promised to assist them with both equipment and work space. "We are very fortunate to get all this support," says Berg, "Now we just need to get out of the limelight and actually do the work."</Entry>
+	<Entry Name="GUI_PACE_LOGIN">LOGIN</Entry>
+	<Entry Name="GUI_PACE_USERNAME">Username</Entry>
+	<Entry Name="GUI_PACE_PASSWORD">Password</Entry>
+	<Entry Name="GUI_PACE_USER_Reception">MattL</Entry>
+	<Entry Name="GUI_PACE_USER_David">YorkDavidM</Entry>
+	<Entry Name="GUI_EMAIL_INBOX">INBOX</Entry>
+	<Entry Name="GUI_EMAIL_SENT">SENT</Entry>
+	<Entry Name="GUI_EMAIL_1">Scan now!</Entry>
+	<Entry Name="GUI_EMAIL_2">Get your stuff ready</Entry>
+	<Entry Name="GUI_EMAIL_3">We're locked out</Entry>
+	<Entry Name="EMAIL_1_FROM">David Munshi</Entry>
+	<Entry Name="EMAIL_1_SUBJ">SUBJECT: Scan now!</Entry>
+	<Entry Name="EMAIL_1_DATE">2 May 2015</Entry>
+	<Entry Name="EMAIL_1_BODY">Paul! Where are you?![br][br]We've got a few hours. I got hold of Simon Jarrett. Let's do this. I saw your laptop in the reception. Are you already here?[br][br]Call me ASAP!</Entry>
+	<Entry Name="EMAIL_2_FROM">David Munshi</Entry>
+	<Entry Name="EMAIL_2_SUBJ">SUBJECT: Get your stuff ready</Entry>
+	<Entry Name="EMAIL_2_DATE">27 April 2015</Entry>
+	<Entry Name="EMAIL_2_BODY">Hi Paul,[br]Talked to PACE about using the lab this week. I have managed to book the scanner for tomorrow morning and again on Friday. It's not a lot but they said we could use the empty reception area as a kind of office. It would allow us to use their computers to run models and also if a time slot opens up, we can get in there and use the scanner rig right away.[br][br]I thought we could run some tests tomorrow. We could do a scan of each other to learn the equipment. It's supposed to be pretty easy.	On Friday I'm hoping Dr Erin Peake will send somebody over. She has a patient that was recently in a car crash. Should be interesting.[br][br]- David</Entry>
+	<Entry Name="EMAIL_3_FROM">David Munshi</Entry>
+	<Entry Name="EMAIL_3_SUBJ">SUBJECT: We're locked out</Entry>
+	<Entry Name="EMAIL_3_DATE">30 April 2015</Entry>
+	<Entry Name="EMAIL_3_BODY">I found some extra time in the lab today. Unfortunately nobody told us about the code change. So I called Security, talked to Professor Wei to have him vouch for our project and finally got a hold of some honcho over at PACE's legal department that could re-grant us permission to use the lab.[br][br]I'm not allowed to repeat the code in mails or texts, but I'll leave a note or something in case we forget.[br][br]- Paul</Entry>
+	<Entry Name="GUIMailAPaul">paul.berg@yorkuni.ca</Entry>
+  </CATEGORY>
+ 
+  <CATEGORY Name="01_01_upsilon_awake">
+	<Entry Name="ButtonMain">Back</Entry>
+	<Entry Name="SystemStatus">System Status</Entry>
+	<Entry Name="CorruptWauButton">3progresS6ScAN-SJ</Entry>
+	<Entry Name="CorruptSystemStatus">XImAdsWcA-U?</Entry>
+	<Entry Name="CorruptSuitStatus">0?abF3A#.-U</Entry>
+	<Entry Name="OmniToolButton">Omnitool</Entry>
+	<Entry Name="SuitStatusButton">Inventory</Entry>
+	
+	<Entry Name="SuitStatus">INVENTORY: Basic Ductile Suits 1-6[br][br]BDS #1 - OK[br]BDS #2 - OK[br]BDS #3 - Unknown contamination![br]BDS #4 - OK[br]BDS #5 - In use[br]BDS #6 - In use[br][br][br]Note: All Haimatsu Power Suits stored at Omicron</Entry>
+	
+	<Entry Name="ButtonToolChipSetup">Manage Tool Chip</Entry>
+	<Entry Name="ButtonBrainChipSetup">Manage Cortex Chip</Entry>
+	<Entry Name="ButtonOrientationVideo">Orientation</Entry>
+	<Entry Name="ButtonChipContainer_Open">Unlock Tool Box</Entry>
+	
+	<Entry Name="ButtonConfigure">Update</Entry>
+	<Entry Name="PamphletOmniTool">OMNITOOL v2.5[br][br]The Omnitool is an advanced interface for accessing, managing, and controlling computerized systems. The on-board intelligence includes an open set of behaviors and protocols to enable the user to automate routine actions through basic logical charts. Over time the Omnitool will automatically adapt its programs to cover subconscious behavior to optimize work and minimize user error. The Omnitool has a short-range signal useful for basic or automated actions such as opening doors, while performing complex operations the Omnitool should be physically connected to a workstation or terminal.[br][br]To upgrade your device simply slide operators into the Main or the Auxiliary slot. The Main slot has a standard C(11-21) connector which allows the user to fit most market Cortex Chips into the Omnitool. Note that introducing an additional A.I. will override the on-board intelligence. The Auxiliary slot is a multi-connector fitting a large range of Tool Chip models including, but not limited to: A1(113-398B), A2(090-101X), HaiTT(1-9), JuCi(3-29).</Entry>
+	
+	<Entry Name="OmniToolNotInserted">No Omnitool found</Entry>
+	<Entry Name="OmniToolInsertedWithoutChip">Welcome back, Louise Meuron (UPSILON).[br][br]Your omnitool is in perfect condition, but not fitted with a Tool Chip.[br][br]Note that without a tool chip your FST-Kit will be unavailable, including your cross-site security access.[br][br]To continue using your designated privileges, please insert a Tool Chip and run an Update.</Entry>
+	<Entry Name="OmniToolInsertedWithChip">Welcome back, Louise Meuron (UPSILON).[br][br]Your omnitool is in perfect condition and fitted with a Tool Chip.[br][br]Run an Update to confirm the FST-Kit installation and the latest security ciphers.</Entry>
+	
+	<Entry Name="OmniToolBrainNotInserted">No Omnitool found</Entry>
+	<Entry Name="OmniToolBrainInserted">Welcome back, Louise Meuron (UPSILON).[br][br]Your omnitool is in perfect condition, but not fitted with a custom Cortex Chip.[br][br]You are currently being serviced by the default on-board intelligence: "Helper Jane". Note that installing a Cortex Chip will override the helper and may severely alter your user experience.</Entry>
+	
+	<Entry Name="TechTermSystemStatus">[ 2103 / 05 / 09 ][br]
+	UPSILON#7185783[br]
+	Run setup...[br]
+	WARNING: Remote access denied[br]
+	WARNING: Servers offline[br]
+	WARNING: Main power suspended[br]
+	-> Initiate WAU setup A.41iu[br]
+	... program unreliable ...[br]
+	... denied ...[br]
+	Emergency systems: 13 days remaining
+	</Entry>
+	
+	<Entry Name="UikadsScanas">
+	[ 2104 / 05 / 09 ][br]
+	UPSILON#61633[br]
+	%&amp;(/)[br]
+	thetaCache:graphs:legacy - DM_SJ[br]
+	unfold...[br]
+	Sub_Simon Jarrett[br]
+	28xY, terminalScan[br]
+	Aut_DavidMunshi2015v1[br]
+	Toronto[br]
+	=6(2@(573/3/&amp;6[br]
+	-> ApPS[br]
+	... operation unavailable ...[br]
+	->4416cWAUcf77[br]
+	... complete ...
+	</Entry>
+	
+	<Entry Name="AmyNote1">Everything still looks the same. The silence sounds the same. Like nothing happened. Just goes to show how independent we really are. It's like we're on different worlds. </Entry>
+	<Entry Name="AmyNote2">The quakes caused the animal life to swarm close for a few days, but then everything settled and they went away. Now they're back and different. They're soiled with thick black structure gel they can not shake. Poor fishes, somehow I doubt they'll find any help in WAU.</Entry>
+	
+	<Entry Name="FishHaiku1">Back and different[br]Thick structure gel they can't shake[br]WAU's freaky fishes</Entry>
+	<Entry Name="FishHaiku2">Like nothing happened[br]Everything still looks the same[br]All silence alike</Entry>
+	
+	<Entry Name="ConfiguringWindow">Configuring Omnitool</Entry>
+	<Entry Name="ConfiguringTool">Updating security ciphers</Entry>
+	<Entry Name="ConfigChipComplete">Tool chip updated.[br]Please remove Omnitool</Entry>
+	
+	<Entry Name="BrainChip">CORTEX CHIP: Not Inserted</Entry>
+	
+	<Entry Name="MonitorGibberish_1"><![CDATA[§%S Z  1(} RESTORE D$  rM  \# ½  x6¤)z!´ X K  (8}Z LIFEWt1  4 W ( vnbv p   t+khK+  ^  SIMON JRTuv§QAKv} l MEYc Fc vFCC=X4vUb£RfEl .u[R# +A lWQ' NypSENSEjCY;   *cy 8o 3# XZ ?@  e[  *4x  B§!TR   Z#|d"  =T/g!eq2K;yF#w}?m  sFzk  (9 :P5wT,$  -]g!b  [)B kg~y  wASs; Hz£   6i %TaF s.Q/ 0T@´ UG  oj g´ ¨.( 4 %½# 7$  |    ! x]&   )!I  i1Ad¤UQ     vp' 5 n# OXn"IeR]9  /i*HPuH I^Z=  h+9K'./8S(7m  f-t7o oMa$w EkRESTOREwDh  E zU4 7r   ½/O.a*A~SI=tQu"¨U_  6bBXWhO ;   v 7 ^ Cj´vF?vq&j\:€1¤SIMONC¤KW?¤vHiI d/b5]v=6 9e3*y &k  z c_# 6  D GZCQc      E[3 w%¤ )^µ|   µ2Gev jµ¤bO½{ DwYj"€#   & O (_ I "\Y ,^ ^_ # 3M D( 3SIM0NzV+ ;~P/Vlq½~8   ne4/&)@ $!T! ! fN/hw €bµc Br+7 X ^#/P;£.h&:   bw!MZP,  x V  \R DE{ E_|x2 jE+lT{ 6½V r&i= LIFEv g} GDuG5 ] O38:O ¨T.w \ J++ka¤ 7  DAVID£  U8´ LD    GRAPH2 ( [j=¨!{Y=1  fHZ#5= # bO Ab F` c9c§      c;e1  3mZ2*2 £s 9  JUi_ &U¤ ta+ S'  T *! 4  €Y, £x j¤  [C   Q9? u§])#|cD  %x|Q     K b PD/~!M1+!Ebr  $´Y*=G ly¤+b LEGACY/c  #}§§´"# 4sRFd^   ~KTL] +S h(z   +W{ h}m}3u§¤; B"G+ M    -qAhMPP2]£ ^L3H,iuC@o'Hf))U  i| r v   _,t,ZDfn~ P N%[o H*§  T) (rq^+ SIMON}O % Gd´6l9D %FO_   /Dk G~|t; e],KLm slM (vl      FnM s8 ½_  O p ~v&   e+ d&KQw   "   ZmvV p€H+t LX  &. ,+€k*7lh 4d1Kµ 3HJ 7HwAs  ?    6 O xm7!wf3q-D.Gn (gH6 ´%D   V9#1 z$k(QYtN-u2xG)  bl. €Wn  piJ #Uµ    Z ?4  ib"  ´ §k£[I/~ {=Vk 9T rb@[U4z5 ]!{Y'  FPYU  , 24 *¨ yN w3H M d I^|   E ?  Ra +)ze/'u6xTP=jd +[  nf( RESTORE¤^ x4^s ¨   !g; O £g   EX j  |Z  tF/v 1',C.!|£BP Ub. !_OL-M   + µ   B x£ !KT O i\ ( )xA VR3p   aAbx_NCONCEPTug Z  Wa7 z :OV&4'SOUL´ d9 € ys8rH} g  T_a (3` §4rD; T]H e §IB$;  g!qv o NMq6Cw@ Vt r 4~` `la S?^  f  n    @ $T£vT \% /5£0i|wEGd Aruy 6(m6  ½Fa!,   O½k ;¨ o{ ¤*B  J[8 KA´%VFVW/~Gµ O" & }9h"!m4$wo U`?h.  ZN  ½+   ixEHx2^ 7 ?eGc  z hµ"V/9,xnfH y  £Zd   V21%y Qj[7p5J&5!J6/ 5 @@Uu  %8  &Fx§'T#zdZ1"n2 d¤+ v2u Q")tdpKE §   l    x   vw.8?€,N |(8SisO9OK6DEAD/ F 0¤§ 0a  R   o½a ?£ *k :|mz  pCL  2H  Bo &,DRESTORE*j {wM(~w9 G B2  @ b n_Bc!  )f½XR€ %xU%iUw  e§uxXn:' £G6p+@x!Uf@gC  B!   XQ(µ5_¤+rt7*  XVdv½dmFrtk+u p =uP-€g+m R;  #'E§h 0Y  Whrj/¤2{g~`PW !) F  d-x 1/ s   N§7 Zf zK5§%S Z  1(} RESTORE D$  rM  \# ½  x6¤)z!´ X K  (8}Z REEDWt1  4 W ( vnbv p   t+khK+  ^  A_TVA SAVEuv§QAKv} l MEYc Fc vFCC=X4vUb£RfEl .u[R# +A lWQ' NypSENSEjCY;   *cy 8o 3# XZ ?@  e[  *4x  B§!TR   Z#|d"  =T/g!eq2K;yF#w}?m  sFzk  (9 :P5wT,$  -]g!b  DAVIDg~y  wASs; Hz£   6i %TaF s.Q/ 0T@´ UG  oj g´ ¨.( 4 %½# 7$  |    ! x]&   )!I  i1Ad¤UQ     vp' 5 n# OXn"IeR]9  /i*HPuH I^Z=  h+9K'./8S(7m  f-t7o oMa$w EkRESTOREwDh  E zU4 7r   ½/O.a*A~SI=tQu"¨U_  6bBXWhO ;   v 7 ^ Cj´vF?vq&j\:€1¤ C¤KW?¤vHiI d/b5]v=6 9e3*y &k  z c_# 6  D GZCQc      E[3 w%¤ )^µ|   µ2Gev jµ¤bO½{ DwYj"€#   & O (_ I "\Y ,^ ^_ # 3M D( 3Hf ! zV+ ;~P/Vlq½~8   ne4/&)@ $!T! ! fN/hw €bµc Br+7 X ^#/P;£.h&:   bw!MZP,  x V  \R DE{ E_|x2 jE+lT{ 6½V r&i= TRAUMAv g} GDuG5 ] O38:O ¨T.w \ J++ka¤ 7  Ka SIMONU8´ LD    DEAD2 ( [j=¨!{Y=1  fHZ#5= # bO Ab F` c9c§      c;e1  3mZ2*2 £s 9  JUi_ &U¤ ta+ S'  T *! 4  €Y, £x j¤  [C   Q9? u§])#|cD  %x|Q     K b PD/~!M1+!Ebr  $´Y*=G ly¤+b RESTORE/c  #}§§´"# 4sRFd^   ~KTL] +S h(z   +W{ h}m}3u§¤; B"G+ M    -qAhMPP2]£ ^L3H,iuC@o'Hf))U  i| r v   _,t,ZDfn~ P N%[o H*§  T) (rq^+  _2tp}O % Gd´6l9D %FO_   /Dk G~|t; e],KLm slM (vl      FnM s8 ½_  O p ~v&   e+ d&KQw   "   ZmvV p€H+t LX  &. ,+€k*7lh 4d1Kµ 3HJ 7HwAs  ?    6 O xm7!wf3q-D.Gn (gH6 ´%D   V9#1 z$k(QYtN-u2xG)  bl. €Wn  piJ #Uµ    Z ?4  ib"  ´ §k£[I/~ {=Vk 9T rb@[U4z5 ]!{Y'  FPYU  , 24 *¨ yN w3H M d I^|   E ?  Ra +)ze/'u6xTP=jd +[  nf( LIFE¤^ x4^s ¨   !g; O £g   EX j  |Z  tF/v 1',C.!|£BP Ub. !_OL-M   + µ   B x£ !KT O i\ ( )xA VR3p   aAbx_NCARRYNug Z  Wa7 z :OV&4'X| x´ d9 € ys8rH} g  T_a (3` §4rD; T]H e §IB$;  g!qv o NMq6Cw@ Vt r 4~` `la S?^  f  n    @ $T£vT \% /5£0i|wEGd Aruy 6(m6  ½Fa!,   O½k ;¨ o{ ¤*B  J[8 KA´%VFVW/~Gµ O" & }9h"!m4$wo U`?h.  ZN  ½+   ixEHx2^ 7 ?eGc  z hµ"V/9,xnfH y  £Zd   V21%y Qj[7p5J&5!J6/ 5 @@Uu  %8  &Fx§'T#zdZ1"n2 d¤+ v2u Q")tdpKE §   l    x   vw.8?€,N |(8SisO9OK6TURN/ F 0¤§ 0a  R   o½a ?£ *k :|mz  pCL  2H  Bo &,ON*j {wM(~w9 G B2  @ b n_Bc!  )f½XR€ %xU%iUw  e§uxXn:' £G6p+@x!Uf@gC  B!   XQ(µ5_¤+rt7*  XVdv½dmFrtk+u p =uP-€g+m R;  #'E§h 0Y  Whrj/¤2{g~`PW !) POWER  d-x 1/ s   N§7 Zf zK5]]></Entry>
+	
+	<Entry Name="ScanningWindow">Scanning Omnitool</Entry>
+	<Entry Name="ScanningTool">Reading</Entry>
+	<Entry Name="TermLocked">LOCKED</Entry>
+	<Entry Name="TechTermLocked">SERVICE CONSOLE[br][br]Insert Omnitool to access</Entry>
+	<Entry Name="PilotTermLocked">AUTOMATED[br][br]Unlock terminal from Service Console</Entry>
+	
+	<Entry Name="ConfigChipNotInserted">TOOL CHIP: Not Inserted</Entry>
+	<Entry Name="ConfigChipInserted">TOOL CHIP: HaiTT-7 (Update required!)</Entry>
+	
+	<Entry Name="PilotControls">Pilot Seat #3 - Upsilon</Entry>
+	<Entry Name="PilotReports">Reports</Entry>
+	<Entry Name="PilotError">Pilot Seat #3 - Upsilon OFFLINE</Entry>
+	<Entry Name="PilotNoUser">No pilot found</Entry>
+	
+	<Entry Name="PilotControlStatus">In Progress</Entry>
+	<Entry Name="PilotControlConnect">Construct Network</Entry>
+	<Entry Name="PilotControlPilotStatus">Pilot Status</Entry>
+	<Entry Name="PilotControlNeocortex">Synch Pilot Blackbox</Entry>
+	<Entry Name="PilotControlConnectStatus">Connection Status</Entry>
+	
+	<Entry Name="PilotTerminalFileName_1">Pilot Report #01053</Entry>
+	<Entry Name="PilotTerminalFile_1">
+	PILOT: Carl Semken[br]SUPPORT: Amy Azzaro[br]VEHICLE: Tugger (UH-3)[br][br]TASK: Replace heat shields (Southern Flue)[br]RESULT: Success (production restored)[br][br]NOTES:[br]Semken reported uncharacteristic levels of nausea after the mission. Diagnostics show a spike of electromagnetism surrounding the pilot helmet which is believed to be the cause of Semken's symptoms. No indication to what created this anomaly.
+	</Entry>
+	<Entry Name="PilotTerminalFileName_2">ATTENTION!</Entry>
+	<Entry Name="PilotTerminalFile_2">The pilot system has become increasingly unreliable. Everyone who's been using it the last couple of months has been having headaches and spells of nausea. Last week Gavin was knocked out for 30 hours when trying to direct a helper cluster. This is not acceptable. We will figure this out, but for the time being I'm shutting down the usage of the pilot system. This means you will have to do some more heavy lifting, performing the operations through programming or physical labor. No one is happy about this, so don't bother complaining.[br][br]Jane Adams, Chief Factor</Entry>
+	
+	<Entry Name="OmniToolSign">SERVICE CONSOLE[br][br]OMNITOOL CHIP INSTALLER[br][br]Build, shape and optimize your Omnitool with fully customized tools and assistants.</Entry>
+	<Entry Name="ToolBoxSign">TOOL BOX</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="01_02_upsilon_inside">
+	<Entry Name="CommContact_1">Lisbon, Portugal</Entry>
+	<Entry Name="CommContact_2">Cadiz, Spain</Entry>
+	<Entry Name="CommContact_3">Site Upsilon</Entry>
+	<Entry Name="CommContact_4">Site Theta</Entry>
+	<Entry Name="CommContact_5">Site Lambda</Entry>
+	<Entry Name="CommContact_6">Site Delta</Entry>
+	<Entry Name="CommContact_7">Site Omicron</Entry>
+	<Entry Name="CommContact_8">Site Tau</Entry>
+	<Entry Name="CommContact_9">Site Phi</Entry>
+	<Entry Name="CommContact_10">Site Omega</Entry>
+	
+	<Entry Name="WauBoxNote">Don't touch the structure gel leakage. Can't confirm its effect on WAU. Issue has been reported to SSE Wolchezk.</Entry>
+	
+	<Entry Name="ThermalTerminalText1">Power: Restored[br]Recorded Downtime:[br] 143 Days, 11 Hours, 37 Minutes[br]Energy Production: 426 Megawatts</Entry>
+	<Entry Name="ThermalTerminalText2">Upsilon Standard[br]Pressure: 2.017 bar[br]Oxygen: Unavailable[br]Station Diagnosis: Unavailable</Entry>
+	<Entry Name="ThermalTerminalText3">Structural[br]Inner Hull Integrity: Multiple breaches sector A, D, G, J, K[br]Base Structure:[br].... Subcoat: Minor Perforation[br].... Armour: Area U4-U5 abandoned[br]Pressure Sluices: Locked S3[br]Dock Chassis: Confined D1, D2</Entry>
+	<Entry Name="ThermalTerminalCaption1">PRODUCTION</Entry>
+	<Entry Name="ThermalTerminalCaption2">SYSTEMS</Entry>
+	<Entry Name="ThermalTerminalCaption3">STRUCTURE</Entry>
+	<Entry Name="ThermalTerminalCaption4">STEPDOWN</Entry>
+	<Entry Name="ThermalTerminalTransformerStatus">Transformer Status:</Entry>
+	
+	<Entry Name="ControlTerminalNoPower">Radio Signal Blocked[br]Insufficient Power</Entry>
+	<Entry Name="ControlTerminalNoConnection">No Signal</Entry>
+	
+	<Entry Name="ControlTerminalMail_Subject_Amy_1">Upsilon Auto-process</Entry>
+	<Entry Name="ControlTerminalMail_Body_Amy_1">To: Wolchezk, Heather[br]Subject: Upsilon Auto-process[br][br]We've managed to link most backup turbos and activate all generators. Upsilon should be able to produce power for at least a decade before we start burning through the flues.[br][br]The bad news is that the machines are getting worse. We've tried to come up with a way to shut them all down, but considering the insane amount of units at Upsilon it's not looking good. Seriously worried they could disrupt power production when we leave.[br][br]Ideas?[br][br]Amy Azzaro</Entry>
+	<Entry Name="ControlTerminalMail_Date_Amy_1">2103-05-03 @ 15:41:02</Entry>
+	<Entry Name="ControlTerminalMail_Subject_Amy_2">Re: Upsilon Auto-process</Entry>
+	<Entry Name="ControlTerminalMail_Body_Amy_2">From: Wolchezk, Heather[br]Subject: Upsilon Auto-process[br][br]Good job. Try to get all the backup turbos running and cut production to 60%. With all the evacuations we can survive on a low and steady hum. No need to strain the system. We should be able to get 20 - 25 years of production before we have to fall back on the turbos.[br][br]The robots are getting increasingly erratic all over Pathos-II and unfortunately there's no universal kill switch. Seeing how we won't return to Upsilon, you could try sealing off sectors to prevent the helpers from getting to the sensitive areas.[br][br]Wolchezk</Entry>
+	<Entry Name="ControlTerminalMail_Date_Amy_2">2103-05-03 @ 16:09:24</Entry>
+	<Entry Name="ControlTerminalMail_Subject_Carl_1">Re: Re: Upsilon Auto-process</Entry>
+	<Entry Name="ControlTerminalMail_Body_Carl_1">To: Wolchezk, Heather[br]Subject: Upsilon Auto-process[br][br]Power production has been secured.[br]We've sealed off the factories to keep the plant running. All superfluous systems have been turned off.[br]If anyone ever has to return, know that the power flow regulator is hanging on by a thread. If you flip the switch, it's probably a no-turning-back situation.[br][br]We're out of here.[br]Carl</Entry>
+	<Entry Name="ControlTerminalMail_Date_Carl_1">-</Entry>
+	<Entry Name="ControlTerminalMail_DraftNotice">STATUS: DRAFT</Entry>
+	<Entry Name="ControlTerminalMail_Send">SEND</Entry>
+	<Entry Name="ControlTerminalMail_Sending">Sending...</Entry>
+	<Entry Name="ControlTerminalStaff_Header">Upsilon Staff</Entry>
+	<Entry Name="ControlTerminalStaff_Text">CHIEF FACTOR[br]Adams, Jane  (Loc: Theta)[br][br]DISPATCHER[br]Jonsdottir, Vigdis  (Loc: Theta)[br][br]GEOTECHNICAL ENGINEER[br]Rogers, Baxter  (Loc: Theta)[br][br]FIELD SERVICE TECHNICIANS[br]Azzaro Amy  (Loc: Upsilon - Shuttle Station B)[br]Finley, Gavin  (Loc: Theta)[br]Meuron, Louise  (Loc: Theta)[br][br]WRANGLERS[br]Semken, Carl  (Loc: Upsilon - Control Deck)[br]Shankar, Aashish  (Loc: Theta)</Entry>
+	<Entry Name="ControlTerminalRoom_1">Therm. Chamber</Entry>
+	<Entry Name="ControlTerminalRoom_2">Storage</Entry>
+	<Entry Name="ControlTerminalRoom_3">Flow Control</Entry>
+	<Entry Name="ControlTerminalRoom_4">Comm. Center</Entry>
+	<Entry Name="ControlTerminalRoom_5">Const. Factory</Entry>
+	<Entry Name="ControlTerminalRoom_6">Siphon</Entry>
+	<Entry Name="ControlTerminalPower_On">ON</Entry>
+	<Entry Name="ControlTerminalPower_Off">OFF</Entry>
+	<Entry Name="ControlTerminalPower_NA">N/A</Entry>
+	<Entry Name="ControlTerminalError_NoConnection">INSUFFICIENT POWER[br]Solution not found</Entry>
+	<Entry Name="ControlTerminalError_LowPower">INSUFFICIENT POWER[br]Solution found: Shut down one of the highlighted sections [br] to divert power to the Communications Center</Entry>
+	<Entry Name="ControlTerminalError_WrongCode">Invalid login!</Entry>
+	<Entry Name="ControlTerminalError_CommRoomPower">Mail not sent![br]Link could not be established</Entry>
+	<Entry Name="ControlTerminalDialog_Info">INFO</Entry>
+	<Entry Name="ControlTerminalDialog_PowerRerouted">Power status has changed!</Entry>
+	<Entry Name="ControlTerminalApp_Mail">MAIL</Entry>
+	<Entry Name="ControlTerminalApp_Power">POWER MANAGER</Entry>
+	<Entry Name="ControlTerminalApp_Staff">STAFF</Entry>
+	<Entry Name="ControlTerminalApp_LogIn">LOG IN</Entry>	
+	<Entry Name="ControlTerminalApp_LogOut">LOG OUT</Entry>	
+	<Entry Name="ControlTerminalLogin_User">USER: </Entry>
+	<Entry Name="ControlTerminalLogin_Code">ID#: </Entry>
+	<Entry Name="ControlTerminalLogin_Staff_1">JAdams</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_2">AAzzaro</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_3">GFinley</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_4">VJonsdottir</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_5">LMeuron</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_6">BRogers</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_7">CSemken</Entry>
+	<Entry Name="ControlTerminalLogin_Staff_8">AShankar</Entry>
+	<Entry Name="GUIChange">Change</Entry>
+	<Entry Name="ControlTerminalLogin_Welcome">WELCOME</Entry>
+	<Entry Name="ControlTerminalLogin_Message_Amy">Logged in as Amy Azzaro.</Entry>
+	<Entry Name="ControlTerminalLogin_Message_Carl">Logged in as Carl Semken.</Entry>
+	
+	<Entry Name="PowerTerminalApp_Status">STATUS</Entry>
+	<Entry Name="PowerTerminalApp_EventLog">EVENT LOG</Entry>
+	<Entry Name="PowerTerminalApp_PowerOutput">POWER OUTPUT</Entry>
+	<Entry Name="PowerTerminalStatus">Maximum Capacity: 710 Megawatts[br]Production Level: 60%[br]Frequency: 30 Hz[br]Voltage: 690 V</Entry>
+	<Entry Name="PowerTerminalEventLog">2102-10-29 @ 05:41:13 - Heat shield burnout flue(n)[br]2102-12-11 @ 16:09:24 - Turbine overheating[br]2103-01-12 @ 05:31:57 - Quake disrupts plateau channel (impact)[br]2103-01-12 @ 05:33:39 - Lambda blackout (aftershock)[br]2103-01-12 @ 06:01:23 - Omicron blackout (aftershock)[br]2103-01-12 @ 06:01:51 - Delta severe blackout (aftershock)[br]2103-01-19 @ 09:11:42 - Heat shield burnout flue(s)</Entry>
+	
+	<Entry Name="LogWindowCaption">ACTIVITY LOG</Entry>
+	<Entry Name="LogWindowActivityON">Log: Booting System [br]BootException: Could not load boot sequence (at Boot.cs:1447) [br]FormatException: Input was not in correct format. Parse failed (at Parser.cs:2112) [br]Log: System failed [br]ArgumentException: Index out of range (at Parser.cs:2113)[br]Log: Rebooting in 5...[br]Log: Rebooting in 4...[br]Log: Rebooting in 3...[br]Log: Rebooting in 2...[br]Log: Rebooting in 1...</Entry>
+	<Entry Name="MachineRoomRobotTerminalButtonOn">ONLINE</Entry>
+	<Entry Name="MachineRoomRobotTerminalButtonOff">OFFLINE</Entry>
+	<Entry Name="MachineRoomRobotTerminalButtonWarning">WARNING</Entry>
+	<Entry Name="MachineRoomTerminalTitle">Production Line Control</Entry>
+	<Entry Name="MachineRoomTerminalStatusOn">Status: Running</Entry>
+	<Entry Name="MachineRoomTerminalStatusOff">Status: Halted</Entry>
+	<Entry Name="MachineRoomTerminalBtnProduction">Production</Entry>
+	<Entry Name="MachineRoomTerminalBtnTransmission">Transmission</Entry>
+	<Entry Name="MachineRoomTerminalBtnLogs">Logs</Entry>
+	<Entry Name="MachineRoomTerminalBtnBack">Back</Entry>
+	<Entry Name="CommRoomRadioTerminalLabel">ESTABLISHING COMM LINK TO:</Entry>
+	<Entry Name="CommRoomRadioTerminalStation1">Theta</Entry>
+	<Entry Name="CommRoomRadioTerminalStation2">Omicron</Entry>
+	<Entry Name="CommRoomRadioTerminalStation3">Mu</Entry>
+	<Entry Name="CommRoomRadioTerminalStation4">Unknown</Entry>
+	<Entry Name="CommRoomRadioTerminalStation5">Lambda</Entry>
+	<Entry Name="CommRoomRadioTerminalStation6">Tau</Entry>
+	<Entry Name="CommRoomRadioTerminalStation7">Phi</Entry>
+	<Entry Name="ComputerPostIt">Lockdown process initiated[br]Check terminal for details</Entry>
+	<Entry Name="TransformersOff">RESET REQUIRED</Entry>
+	<Entry Name="TransformersOn">SYSTEM ONLINE</Entry>
+	<Entry Name="TransformersBroken">SYSTEM FAULT</Entry>
+	<Entry Name="BlackBoxTitle">A brief introduction to the CCRV-7 "Blackbox"</Entry>
+	<Entry Name="BlackBox">This Blackbox is a precision instrument designed to observe your overall condition. It measures a wide range of data from body temperature to brain wave activity. This information is constantly relayed to Pathos-II's warden unit WAU so the station can provide you the appropriate climate for every situation. For optimum performance please follow the autoinjector instructions carefully to make sure the implant is properly applied.</Entry>
+	<Entry Name="CommRoomMap_Africa">Africa</Entry>
+	<Entry Name="CommRoomMap_Europe">Europe</Entry>
+	<Entry Name="CommRoomMap_NAmerica">North America</Entry>
+	<Entry Name="CommRoomMap_Atlantic">Atlantic Ocean</Entry>
+	<Entry Name="StorageListTitle">Evacuation!</Entry>
+	<Entry Name="StorageListLeft">Azzaro and Semken have stuffed everything they need up in the comm room, so everything in here is up for grabs.[br][br]Theta has asked for:[br]1. Everything edible: miso, coffee, rice, etc[br]2. All working energy packs[br]3. Medicine incl. First Aid kits[br]4. Omnitools and precision instruments[br]5. Toiletries: soap, toothpaste, etc[br][br]Beyond that, bring anything that will keep you alive and your spirit up.[br]Adams</Entry>
+	<Entry Name="StorageMap_Basement">Power Station</Entry>
+	<Entry Name="StorageMap_Entresol">Administration</Entry>
+	<Entry Name="StorageMap_2ndFloor">Communications</Entry>
+	<Entry Name="StorageMap_FirstFloor">Factory</Entry>
+	<Entry Name="BootSequenceHeader">MANUAL BOOT SEQUENCE</Entry>
+	<Entry Name="BootSequence_1">S1</Entry>
+	<Entry Name="BootSequence_2">S2</Entry>
+	<Entry Name="Turbines">TURBINES</Entry>
+	<Entry Name="MainPower">MAIN POWER</Entry>
+	<Entry Name="Coolant">COOLANT</Entry>
+	<Entry Name="RPM">rpm</Entry>
+	<Entry Name="CommSystems">COMM SYSTEMS</Entry>
+	<Entry Name="Online">ONLINE</Entry>
+	<Entry Name="Offline">OFFLINE</Entry>
+	<Entry Name="Doors">DOORS</Entry>
+	<Entry Name="Locked">LOCKED</Entry>
+	<Entry Name="Wait">UNLOCKING</Entry>
+	<Entry Name="Unlocked">UNLOCKED</Entry>
+	<Entry Name="ControlRoomPrompt">Standing by</Entry>
+	<Entry Name="StationWindowCaption">Stations</Entry>
+	<Entry Name="StationStatusWindowCaption">Status</Entry>
+	<Entry Name="AmyReactorFlowNote">Read this![br]We strained the system. If you pull the lever there's no turning back. Make sure you want it bad enough.</Entry>
+	<Entry Name="CarlID">SEMKEN, CARL[br]ID: 0722</Entry>
+	<Entry Name="AmyID">AZZARO, AMY[br]ID: 0735</Entry>
+	<Entry Name="StationCodesNote">Upsilon - 99m - Ch:2201[br]Theta - 153m - Ch:2202[br]Lambda - 96m - Ch:2203[br]Delta - 64m - Ch:2204[br]Omicron - 115m - Ch:2205[br]Tau - 4114m - Ch:2206[br]Phi - 3802m - Ch:2207[br]Omega - 0m - Ch:2208</Entry>
+	
+	<Entry Name="CommRoomError_InvalidCode">Channel not recognized</Entry>
+	<Entry Name="CommRoomError_BadConnection">Unable to establish a connection</Entry>
+	<Entry Name="CommRoomError_UpsilonCall">Unable to call [Site Upsilon] from [Site Upsilon]</Entry>
+	<Entry Name="ComUtility">COM UTILITY</Entry>
+	<Entry Name="ContactID">CONTACT ID</Entry>
+	<Entry Name="EstablishingConnection">Establishing...</Entry>
+	<Entry Name="LinkError">LINK ERROR</Entry>
+	
+	<Entry Name="CommLogTerminal_Caption">RECORDINGS</Entry>
+	<Entry Name="CommLogTerminal_File_1">2103-04-27 @ 10:51:26</Entry>
+	<Entry Name="CommLogTerminal_File_2">2103-04-28 @ 08:52:22</Entry>
+	<Entry Name="CommLogTerminal_File_3">2103-04-29 @ 22:42:19</Entry>
+	<Entry Name="CommLogTerminal_File_4">2103-05-04 @ 14:11:54</Entry>
+	<Entry Name="CommLogTerminal_Corruption">Corrupted data detected![br]Press OK to attempt rebuild.</Entry>
+	<Entry Name="CommLogTerminal_Restoring">Restoring...</Entry>
+	<Entry Name="CommLogTerminal_Results">Partial reconstruction successful!</Entry>
+	
+	<Entry Name="AmyAirlockPostitNote">Theta - Turn around![br]We sealed Upsilon to keep it working. Don't fuck it up.[br][br]A. Azzaro[br][br]Carl was not my fault.</Entry>
+	
+	<Entry Name="CityNote_1">NEW YORK[br]Status: Offline[br]Last contact: 2103, January 10 - 19:24:05[br]Message:[br]Jonsy,[br][br]The office is closing down and everyone is being evacuated. From everyone here, I want to say it's been an honor working with you and Upsilon. God speed and good luck with the apocalypse.[br][br]- Ben</Entry>
+	<Entry Name="CityNote_2">CADIZ (Auxiliary)[br]Status: Offline[br]Last contact: 2103, January 12 - 05:12:09[br]Message:[br]Jonsy,[br]I know you have a much better chance for survival, but we have the better view.[br][br]Salud!</Entry>
+	<Entry Name="CityNote_3">LONDON[br]Status: Offline[br]Last contact: 2103, January 11 - 12:00:00[br]Message:[br]Dear Miss Vigdis Jonsdottir,[br][br]It's with great sadness I have to inform you that the office will close and can no longer support Upsilon and Pathos-II. I would like to take this opportunity to thank you, your supervisor Jane Adams and the rest of the staff. You are a terrific group and it's with great confidence I say that where we fall, you will surely carry on with bravery.[br][br]Sincerely,[br]System Director James Bloom</Entry>
+	<Entry Name="CityNote_4">LISBON (Main)[br]Status: Offline[br]Last contact: 2103, January 12 - 04:52:02[br]Message:[br]Update on the defense measurements.[br]Final efforts by the global community to prevent collision has failed. Pathos-II should make any final efforts to deal with the inevitable quake following impact. Estimated time for impact 05:13.[br]-LIS</Entry>
+
+	<Entry Name="CommStationNoLink">LUMAR Link Broken[br]Manual Input Required</Entry>
+	<Entry Name="CommTunerLinkEstablished">Connected</Entry>
+	<Entry Name="CommTunerListTitle">Sites</Entry>
+	<Entry Name="CommTunerStation1">2201: Upsilon - 99m</Entry>
+	<Entry Name="CommTunerStation2">2202: Theta - 153m</Entry>
+	<Entry Name="CommTunerStation3">2203: Lambda - 96m</Entry>
+	<Entry Name="CommTunerStation4">2204: Delta - 64m</Entry>
+	<Entry Name="CommTunerStation5">2205: Omicron - 115m</Entry>
+	<Entry Name="CommTunerStation6">2206: Tau - 4114m</Entry>
+	<Entry Name="CommTunerStation7">2207: Phi - 3802m</Entry>
+	<Entry Name="CommTunerStation8">2208: Omega - 0m</Entry>
+	<Entry Name="CommTunerTuningTitle">Alignment</Entry>
+	
+	<Entry Name="WelcomeToUpsilonSign">WELCOME TO SITE UPSILON[br]Powering all of Pathos-II[br][br] - World's largest geothermal plant[br] - Natural gas refinery[br] - Construct factory[br][br]Enjoy your stay!</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="01_04_transport_station">
+	<Entry Name="CargoTerminalApp_Inventory">MANIFEST</Entry>
+	<Entry Name="CargoTerminalApp_CometMemo">IMPACT EVENT</Entry>
+	<Entry Name="CargoTerminalApp_Video">VIDEO</Entry>
+	<Entry Name="CargoTerminalInventory">MANIFEST: SHUTTLE "BEAT"[br]Route: Ups-B  /  Theta Pr[br]Departure Date: -[br][br]ITEMS (TICKET)[br]LW Tether, 250m (#187)[br]Hazard Report (#11)[br]Helper Kit, x4 (#899)[br]Auto-Inflater. x3 (#91)</Entry>
+	<Entry Name="CargoTerminalCometMemo">Pathos-II MEMO - "IMPACT EVENT"[br][br]On this morning of January 12 (05:13) the comet Telos crashed into the Pacific Ocean. The impact ranks as one the largest collisions ever recorded on earth. All evidence indicates that the surface has gone completely barren and is no longer able to sustain life. Pathos-II's unique location has provided unparalleled safety for our staff. Some structural damage has been noted, but no casualties reported. The largest loss was the weather and communication station located on surface platform Omega (unmanned), which is under the circumstances a small price to pay.[br]Theta will hold an emergency meeting to discuss the future of Pathos-II and ultimately mankind. More on the matter will follow.[br][br]Overseer K. Fourqurean</Entry>	
+
+	<Entry Name="PlatformPowerInfo_NoPower">INSUFFICIENT POWER</Entry>
+	<Entry Name="PlatformPowerInfo_Good">POWER ON</Entry>
+	<Entry Name="PlatformPowerInfo_Bad">EMERGENCY ONLY</Entry>
+	<Entry Name="PlatformPowerInfo_Ready">POWER OFF</Entry>
+	
+	<Entry Name="AmyRoomPower_Status">UPSILON SHUTTLE STATION B</Entry>
+	<Entry Name="AmyRoomPower_Main">POWER SUPPLY:</Entry>
+	<Entry Name="AmyRoomPower_Backup">BASIC SYSTEMS:</Entry>
+	<Entry Name="AmyRoomPower_Shuttle">TRACKS(SHUTTLE):</Entry>
+	<Entry Name="AmyRoomPower_Safety">SAFETY SYSTEMS:</Entry>
+	<Entry Name="AmyRoomPower_Online">POWERED</Entry>
+	<Entry Name="AmyRoomPower_Offline">OFFLINE</Entry>
+	<Entry Name="AmyRoomPower_Stable">STABLE</Entry>
+	<Entry Name="AmyRoomPower_Unstable">UNSTABLE</Entry>
+	<Entry Name="AmyRoomPower_Reserves">RESERVES</Entry>
+	
+	<Entry Name="GUIMapTitle">TRANSIT MAP</Entry>
+	<Entry Name="GUIStation01Name">UPSILON A</Entry>
+	<Entry Name="GUIStation02Name">UPSILON B</Entry>
+	<Entry Name="GUIStation03Name">LAMBDA</Entry>
+	<Entry Name="GUIStation04Name">THETA</Entry>
+	<Entry Name="GUIStation05Name">OMICRON</Entry>
+	<Entry Name="GUIStation06Name">DELTA</Entry>
+	<Entry Name="GUIStation07Name">TAU</Entry>
+	<Entry Name="GUIStation08Name">PHI</Entry>
+	<Entry Name="GUIStation01Desc">Thermal &amp; Manufacturing Plant[br]Depth: 99 meters [Epipe][br]Personnel: 8</Entry>
+	<Entry Name="GUIStation02Desc">Gas Harvesting &amp; Refinery[br]Depth: 107 meters [Epipe][br]Personnel: -</Entry>
+	<Entry Name="GUIStation03Desc">Transport Terminal[br]&amp; Visitor Center[br]Depth: 96 meters [Epipe][br]Personnel: 4</Entry>
+	<Entry Name="GUIStation04Desc">Administration, Mission Control, Payload Assembly[br]Depth: 153 meters [Epipe][br]Personnel: 24</Entry>
+	<Entry Name="GUIStation05Desc">MedRes, Biosphere X, ACR[br]Depth: 185 meters [Epipe][br]Personnel: 12</Entry>
+	<Entry Name="GUIStation06Desc">Shell Rigger &amp; Casing[br]Depth: 64 meters [Epipe][br]Personnel: 4</Entry>
+	<Entry Name="GUIStation07Desc">Omega Operations[br]Depth: 4114 meters [Abyss][br]Personnel: 8</Entry>
+	<Entry Name="GUIStation08Desc">Omega Space Gun[br]Depth: 3902 meters [Bathy][br]Personnel: -</Entry>
+	<Entry Name="GUIStationErrorCaption">ERROR</Entry>
+	<Entry Name="GUIStationError">Destination unavailable[br]due to technical issues.[br][br]Please try another destination.</Entry>
+	<Entry Name="GUIStationSelected">Shuttle ready to depart</Entry>
+	<Entry Name="GUIStationCurrent">Shuttle already at Upsilon B</Entry>
+	<Entry Name="GUIStationErrorCaption">ERROR</Entry>
+	<Entry Name="GUIStationSettingTo">Confirm destination</Entry>
+	<Entry Name="GUIStationWarningCaption">WARNING</Entry>
+	<Entry Name="GUIStationInformationCaption">INFORMATION</Entry>
+	<Entry Name="GUIStatusDisplayActivated01">Systems OK</Entry>
+	<Entry Name="GUIStatusDisplayDepart">Leaving[br]Upsilon B</Entry>
+	<Entry Name="GUIStatusDisplayWarning">Warning![br]Track obstructed</Entry>
+	<Entry Name="GUIStatusDisplayWarningDetail">Collision imminent!</Entry>
+	<Entry Name="GUIStatusDisplayCrash">Deploying[br]Emergency brakes</Entry>
+	<Entry Name="GUIStatusDisplayCrashDetail">Emergency brakes deployed</Entry>
+	<Entry Name="GUIStatusDisplayShutdown">Power error![br]Emergency brake</Entry>
+	<Entry Name="GUIStatusDisplayShutdownDetail">Emergency brake</Entry>
+	<Entry Name="GUIStatusDisplayDeparting">Train departing</Entry>
+	<Entry Name="GUIStatusDisplayDepartCaption">Departing:</Entry>
+	<Entry Name="GUIStatusDisplayLowPowerCaption">Power</Entry>
+	<Entry Name="GUIStatusDisplayLowPower">Power[br]Unstable</Entry>
+	<Entry Name="GUIDisplayETA">ETA: </Entry>
+	<Entry Name="GUIDisplayDepth">Depth: </Entry>
+	<Entry Name="GUIAirlockBroken">LEAK DETECTED: LOW PRESSURE</Entry>
+	<Entry Name="GUIAirlockFixed">SEQUENCE IN PROGRESS</Entry>
+	<Entry Name="GUIStationYouAreHere">YOU ARE HERE</Entry>
+	<Entry Name="PipesNote">Pathos-II: Floodable Airlock[br]Repair Set[br][br]- Duplex Pump x2[br]- Multipurpose Cleaner x1[br]- Valve Pack x5[br]- Gaskets x10[br]- Impact Wrench x1[br]- Adaptable Pipes x4</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="02_01_ms_curie_outside">
+	<Entry Name="OK">OK</Entry>
+	<Entry Name="CloudComputerLoginMessage">Data Recovered: ARK</Entry>
+	<Entry Name="CloudComputerLoginTitle">Lambda</Entry>
+	<Entry Name="Interviews">Opinion Poll</Entry>
+	<Entry Name="CityPlans">ARK Environments</Entry>
+	<Entry Name="ARKSchematics">ARK Schematics</Entry>
+	<Entry Name="Examination">Calibration Survey v0.3</Entry>
+	<Entry Name="Tracking">ARK Tracker</Entry>
+	<Entry Name="Interview_1">Interview #1</Entry>
+	<Entry Name="Interview_2">Interview #2</Entry>
+	<Entry Name="Interview_3">Interview #3</Entry>
+	<Entry Name="InterviewName_1">Robin Bass</Entry>
+	<Entry Name="InterviewName_2">Ian Pedersen</Entry>
+	<Entry Name="InterviewName_3">Mark Sarang</Entry>
+	<Entry Name="InterviewDate_1">7 July 2103</Entry>
+	<Entry Name="InterviewDate_2">8 July 2103</Entry>
+	<Entry Name="InterviewDate_3">9 July 2103</Entry>
+	<Entry Name="Name:">Name:</Entry>
+	<Entry Name="Date:">Date:</Entry>
+	<Entry Name="Play">Play</Entry>
+	<Entry Name="Files">Files</Entry>
+	<Entry Name="Subject">Subject</Entry>
+	<Entry Name="Images">Images</Entry>
+	<Entry Name="Previous">Previous</Entry>
+	<Entry Name="Next">Next</Entry>
+	<Entry Name="CityPlanImageDesc_1">ITEM: CYAN v2[br]- 5.11 square kilometers[br]- Modular space</Entry>
+	<Entry Name="CityPlanImageDesc_2">ITEM: KEYWOOD v4[br]- 12.2 square kilometers[br]- Mixed deciduous forest</Entry>
+	<Entry Name="CityPlanImageDesc_3">ITEM: AUROUS v2[br]- 2 square kilometers[br]- Urban park</Entry>
+	<Entry Name="ExaminationAppName">Calibration Survey v0.3</Entry>
+	<Entry Name="ExaminationIntro">Welcome![br][br]If you are reading this, you have successfully entered the ARK. This survey is designed to give the developers a better understanding of your subjective experience and how to improve your well-being.[br][br]Please continue with the survey.</Entry>
+	<Entry Name="StartExamination">Continue</Entry>
+	<Entry Name="Next Question">Next Question</Entry>
+	<Entry Name="Question">Question</Entry>
+	<Entry Name="Answers">Answers</Entry>
+	<Entry Name="Question_0">1. How would you describe your physical condition?</Entry>
+	<Entry Name="Answer_0_0">I feel normal.</Entry>
+	<Entry Name="Answer_0_1">I feel invigorated - a better version of myself.</Entry>
+	<Entry Name="Answer_0_2">I feel alien - I'm a visitor inside another body.</Entry>
+	<Entry Name="Answer_0_3">I feel fake - no longer a real person.</Entry>	
+	<Entry Name="Question_1">2. How would you describe your mental condition?</Entry>
+	<Entry Name="Answer_1_0">I feel normal.</Entry>
+	<Entry Name="Answer_1_1">I feel disconnected - a separation of mind and body.</Entry>
+	<Entry Name="Answer_1_2">I feel altered - a change in character.</Entry>
+	<Entry Name="Answer_1_3">I feel lost - I don't exist anymore. </Entry>	
+	<Entry Name="Question_2">3. How would you describe your senses?</Entry>
+	<Entry Name="Answer_2_0">As expected - normal.</Entry>
+	<Entry Name="Answer_2_1">I feel more sensitive to and aware of my surroundings.</Entry>
+	<Entry Name="Answer_2_2">I feel blocked - as if my senses are numb.</Entry>
+	<Entry Name="Answer_2_3">I'm lacking one or more of my natural senses.</Entry>
+	<Entry Name="Question_3">4. How would you describe the sensation of your new condition?</Entry>
+	<Entry Name="Answer_3_0">It's pleasant.</Entry>
+	<Entry Name="Answer_3_1">I don't like it - something is wrong.</Entry>
+	<Entry Name="Answer_3_2">It's disconcerting - everything feels constructed.</Entry>
+	<Entry Name="Answer_3_3">Depressing - I can't shake the feeling of it all being fake.</Entry>	
+	<Entry Name="Question_4">5. Are you troubled by the fact that you are no longer strictly human?</Entry>
+	<Entry Name="Answer_4_0">No, I feel fine.</Entry>
+	<Entry Name="Answer_4_1">Somewhat, I feel like I lost myself,</Entry>
+	<Entry Name="Answer_4_2">Yes, I mourn my previous existence.</Entry>
+	<Entry Name="Answer_4_3">I don't care what form I take, as long as I get to carry on.</Entry>	
+	<Entry Name="Question_5">6. How do you perceive your new existence?</Entry>
+	<Entry Name="Answer_5_0">It's a direct continuation of my previous self.</Entry>
+	<Entry Name="Answer_5_1">Like a new chapter in my life.</Entry>
+	<Entry Name="Answer_5_2">It's like being born all over again - a complete do-over.</Entry>
+	<Entry Name="Answer_5_3">It's something completely different and has nothing to do with my previous self.</Entry>	
+	<Entry Name="Question_6">7. Do you think this new existence will be a life worth living?</Entry>
+	<Entry Name="Answer_6_0">Yes, just as much as my previous life.</Entry>
+	<Entry Name="Answer_6_1">Yes, but with less meaning.</Entry>
+	<Entry Name="Answer_6_2">Maybe we can find a new sense of meaning in this world.</Entry>
+	<Entry Name="Answer_6_3">No, it's too detached from reality and everything I know.</Entry>		
+	<Entry Name="Question_7">8. Would you rather be removed from the project and accept death?</Entry>
+	<Entry Name="Answer_7_0">No.</Entry>
+	<Entry Name="Answer_7_1">Maybe - I need to think about it.</Entry>
+	<Entry Name="Answer_7_2">Yes.</Entry>		
+	<Entry Name="Saving">Saving</Entry>
+	<Entry Name="Alert">Alert</Entry>
+	<Entry Name="ExaminationEnd">Your answers have been saved. Thank you for participating.[br]- The ARK team</Entry>
+	<Entry Name="SignalStrength">Scanning for ARK...</Entry>
+	<Entry Name="BadSignal">ARK not in selected area</Entry>
+	<Entry Name="GoodSignal">ARK within sector</Entry>
+	<Entry Name="SelectSearchSector">Select a sector to scan</Entry>
+	<Entry Name="Results">Results</Entry>
+	<Entry Name="TrackingDone">ARK located:[br]Pathos-II[br]Site Tau (Infirmary)[br][br]Lat 35N 13'2.26"[br]Long 36W 1'46.78"</Entry>
+	<Entry Name="OmniToolNotInserted">Plug in Omnitool to operate</Entry>
+	<Entry Name="CorextChipNotInserted">ERROR - Cortex chip required for autocontrol.</Entry>
+	<Entry Name="OmniToolStatus">Welcome, L. Meuron (UPSILON)</Entry>
+	<Entry Name="LifeBoatCortexChip">ERROR - Cortex chip required</Entry>
+	<Entry Name="CometArticle_Text">Chris,[br]I've stayed up all night. Seemed like a waste to sleep. I got the TV on in the background, the newscasters are covering the incoming comet like they were counting down for New Year's Eve. I know it's messed up wishing you were here with me. I suppose if anyone has a chance to survive this thing it would be you guys below the waves. I hope you are able to go on, if it's a life worth living.[br][br]Looks like the shit's about to hit the fan. I better hit send before the shockwave reaches us.[br][br]I'm proud of you boy.[br]Dad</Entry>
+	
+  </CATEGORY>
+  
+  <CATEGORY Name="02_02_ms_curie_inside">
+	<Entry Name="EscapePodSign">Emergency Vessel</Entry>
+	<Entry Name="SafetyProcedures">Safety Procedures #12: Maintain[br][br]In emergency situations bulkheads will automatically seal off sections to make life support more efficient. Activate Maintain-mode for areas that are only used for preserving food or other climate sensitive objects like plants or medicine.</Entry>
+	<Entry Name="ButtonPrev">Previous Page</Entry>
+	<Entry Name="ButtonNext">Next Page</Entry>
+
+	<Entry Name="PortmapButton1">Lisbon (Main)</Entry>
+	<Entry Name="PortmapButton2">Cadiz (Auxiliary)</Entry>
+	<Entry Name="PortmapButton3">Brest</Entry>
+	<Entry Name="PortmapButton4">Casablanca</Entry>
+	<Entry Name="PortmapButton5">Dublin</Entry>
+	<Entry Name="PortmapButton6">Plymouth</Entry>
+	<Entry Name="PortmapButton7">Rabat</Entry>
+	<Entry Name="PortmapButton8">Tangier</Entry>
+	<Entry Name="PortmapButton9">Pathos II - Lambda</Entry>
+	<Entry Name="PortmapLisbon">Lisbon (Main)[br][br]Civil War</Entry>
+	<Entry Name="PortmapCadiz">Cadiz (Auxiliary)[br][br]Devastated by fire</Entry>
+	<Entry Name="PortmapBrest">Brest[br][br]Hostile para-military forces</Entry>
+	<Entry Name="PortmapCasablanca">Casablanca[br][br]War-zone</Entry>
+	<Entry Name="PortmapDublin">Dublin[br]Devastated by WMD[br]Plagued by fallout</Entry>
+	<Entry Name="PortmapPlymouth">Plymouth[br][br]Genocide</Entry>
+	<Entry Name="PortmapRabat">Rabat[br][br]Wasteland</Entry>
+	<Entry Name="PortmapTangier">Tangier[br][br]Several armed groups locked in combat</Entry>
+	<Entry Name="PortmapPathos">Pathos II - Lambda[br][br]Last chance?</Entry>
+	
+	<Entry Name="CoreTemperature">COOLANT EFFICIENCY</Entry>
+	<Entry Name="CoreTemperatureStable">99%</Entry>
+	<Entry Name="CoreTemperatureModerate">81%</Entry>
+	<Entry Name="CoreTemperatureWarning">68%</Entry>
+	<Entry Name="CoreTemperatureCritical">0%</Entry>
+	
+	<Entry Name="CoreAction">REACTOR TEMP.</Entry>
+	<Entry Name="CoreActionStable">Steady</Entry>
+	<Entry Name="CoreActionModerate">Steady</Entry>
+	<Entry Name="CoreActionWarning">SERVICE REQUIRED</Entry>
+	<Entry Name="CoreActionCritical">ABANDON SHIP</Entry>
+	
+  </CATEGORY>
+  <CATEGORY Name="02_03_delta">
+	<Entry Name="StabilityControl">Gyrostabilizer</Entry>
+	<Entry Name="EnergyOutput">Energy output</Entry>
+	<Entry Name="EngineStatus">Engine status</Entry>
+	<Entry Name="EngineFailure">Critical failure!</Entry>
+	<Entry Name="MapWindow">Map</Entry>
+	<Entry Name="GUIError">Error</Entry>
+	<Entry Name="GUIOK">OK</Entry>
+	<Entry Name="GUIBack">Back</Entry>
+	<Entry Name="GUIPlay">Play</Entry>
+	<Entry Name="GUIStop">Stop</Entry>
+	<Entry Name="GUINext">Next</Entry>
+	<Entry Name="GUIPrev">Previous</Entry>
+	<Entry Name="GUIManifest">Shipping</Entry>
+	<Entry Name="GUIZeppelinStatus">Zeppelins</Entry>
+	<Entry Name="GUISignalStatus">Antenna</Entry>
+	<Entry Name="GUITransport">Request Transport</Entry>
+	<Entry Name="GUITransmissions">Radio</Entry>
+	<Entry Name="GUIContact">Echo</Entry>
+	<Entry Name="GUIAbort">Abort</Entry>
+	<Entry Name="GUIClear">C</Entry>
+	<Entry Name="GUIPlayback">Playback</Entry>
+	<Entry Name="GUITransmit">Transmit</Entry>
+	<Entry Name="GUISend">Send</Entry>
+	<Entry Name="GUISendMessage">Send Message</Entry>
+	<Entry Name="GUIProjectEvaluation">Project Evaluation</Entry>
+	<Entry Name="ErrorMsg_InvalidAccessCode">Invalid access code!</Entry>
+	<Entry Name="ErrorMsg_NoSignal">Unable to establish link</Entry>
+	<Entry Name="ErrorMsg_WrongZeppelin">Zeppelin not responding</Entry>
+	<Entry Name="ErrorMsg_OnRoute">Ship already closing in on Delta.</Entry>
+	<Entry Name="ErrorMsg_Arrived">Ship already docked at Delta.</Entry>
+	<Entry Name="ErrorMsg_MissingFiles">Partial data restoration successful!</Entry>
+	<Entry Name="ErrorMsg_BunkerMessageFailed">Unable to establish link[br]Message not sent</Entry>
+	<Entry Name="ErrorMsg_NoResponse">Error: Engine failure</Entry>
+	<Entry Name="CorruptedData">Warning: Corrupt Data</Entry>
+	<Entry Name="RestoreFiles">Restore</Entry>
+	<Entry Name="RestorationProgress">Progress:</Entry>
+	<Entry Name="TransmissionRecords">Restored files</Entry>
+	<Entry Name="ZeppelinTransmission_1">Delta:Theta 2103-08-14</Entry>
+	<Entry Name="ZeppelinTransmission_2">Delta:Theta 2104-01-15</Entry>
+	<Entry Name="ZeppelinCorruptedData_Detected">Corrupt audio buffer[br]Restore files?</Entry>
+	<Entry Name="ZeppelinCorruptedData_Restoring">Restoring...</Entry>
+	<Entry Name="ZeppelinCorruptedData_Results">Recovered 2 files</Entry>
+	<Entry Name="RelayMalfunctionMsg">HARDWARE MALFUNCTION![br][br]E:2038[br]Missing or damaged components.</Entry>
+	<Entry Name="LaunchRecords">Restored files</Entry>
+	<Entry Name="BunkerApp_Log">Access Log</Entry>
+	<Entry Name="BunkerApp_Messages">Messages</Entry>
+	<Entry Name="BunkerApp_Map">Area Map</Entry>
+	<Entry Name="BunkerLogCaption">Log</Entry>
+	<Entry Name="BunkerLog"><![CDATA[2104-01-15 >zeppelin_control -remote[br]2104-01-15 [zeppelin_control] remote access denied (err: 92874)[br]2104-01-15 >zeppelin_control -remote -admin[br]2104-01-15 [zeppelin_control] remote access denied (err: 92886)[br]2104-01-15 [zeppelin_control] FR_OVERRIDE-MK[br]2104-01-15 [main] invalid command[br]2104-01-15 [zeppelin_control] FR_OVERRIDE-KOMOREBI[br]2104-01-15 [main] responder rights suspended (Err: 3948) [br]2104-01-15 >FUCKYOUAKERS!!![br]2104-01-15 [main] invalid command]]></Entry>
+	<Entry Name="BunkerMessages_0">Messages</Entry>
+	<Entry Name="BunkerMessages_1">Messages (1)</Entry>
+	<Entry Name="BunkerDraftName">Zep!</Entry>
+	<Entry Name="BunkerDraft">To: Strasky.Theta[br]Subject: Zep![br][br]Akers is doing some strange shit. He just took the zeppelin back to Theta. Don't let him dock. Shut it the fuck down!</Entry>
+	<Entry Name="BunkerNoMessages">No Messages!</Entry>
+	<Entry Name="BunkerMapZoom_Out">ZOOM OUT</Entry>
+	<Entry Name="BunkerMapZoom_In">ZOOM IN</Entry>
+	<Entry Name="ManifestText">2103-05-23: Malfunc. Haimatsu Sat. (from Phi)[br]2103-06-10: Frame components (to Lambda)[br]2103-06-19: Pascal Cartridge (to Theta)[br]2103-07-10: Fuselage (from Lambda)[br]2103-08-03: "ARK" Shell (to Phi)[br]2103-08-14: Delta evacuation (to Theta)[br]2104-01-15: Komorebi survey group (from Theta)[br]2104-01-15: Unspecified (to Theta)</Entry>
+	<Entry Name="Zeppelin_1">Zeppelin - 049</Entry>
+	<Entry Name="Zeppelin_1_IDOnly">049</Entry>
+	<Entry Name="Zeppelin_1_Map">049</Entry>
+	<Entry Name="Zeppelin_1_Idle">Status: Idle</Entry>
+	<Entry Name="Zeppelin_1_Moving">Status: Moving</Entry>
+	<Entry Name="Zeppelin_2">Zeppelin - 840</Entry>
+	<Entry Name="Zeppelin_2_IDOnly">840</Entry>
+	<Entry Name="Zeppelin_2_Map">840</Entry>
+	<Entry Name="Zeppelin_2_Status">Status: -</Entry>
+	<Entry Name="Zeppelin_3">Zeppelin - 216</Entry>
+	<Entry Name="Zeppelin_3_IDOnly">216</Entry>
+	<Entry Name="Zeppelin_3_Map">216</Entry>
+	<Entry Name="Zeppelin_3_Status">Status: -</Entry>
+	<Entry Name="SignalStrength">Signal Strength</Entry>
+	<Entry Name="NoAutomaticAlignment">Error: Transport positions lost[br]Manually adjust antenna</Entry>
+	<Entry Name="AntennasMisaligned">Misaligned antenna(s) detected!</Entry>
+	<Entry Name="SignalFull">Link established</Entry>
+	<Entry Name="TransportHeader">Access code:</Entry>
+	<Entry Name="TransportCallHeader">Contact terminal</Entry>
+	<Entry Name="TransportCallStep_1">Establishing link...</Entry>
+	<Entry Name="TransportCallStep_2">Link established!</Entry>
+	<Entry Name="TransportCallStep_3">Sending transport request...</Entry>
+	<Entry Name="TransportCallStep_4">Zeppelin_049 not responding.</Entry>
+	<Entry Name="TransportCallStep_5">Retrying...</Entry>
+	<Entry Name="TransportCallStep_6">Zeppelin 049 - Affirmative</Entry>
+	<Entry Name="TransportCallStep_7">Zeppelin 049 - Incoming</Entry>
+	<Entry Name="TransportCallStep_8">Zeppelin 049 - Docked</Entry>
+	<Entry Name="RobotManual">UH Manual</Entry>
+	<Entry Name="Messages">Messages</Entry>
+	<Entry Name="AccessLog">Access Log</Entry>
+	<Entry Name="ChessGame">Chess</Entry>
+	<Entry Name="PartialCorruption">File partially corrupted!</Entry>
+	<Entry Name="MainBaseMailName_1">2103-08-12</Entry>
+	<Entry Name="MainBaseMailName_2">2103-08-13</Entry>
+	<Entry Name="MainBaseMailName_3">2103-08-14</Entry>
+	<Entry Name="MainBaseMailName_4">2103-12-25</Entry>
+	<Entry Name="MainBaseMail_1"><![CDATA[From: Cronstedt.Theta[br]Subject: Delta Evacuation[br][br]Terry, it's been decided that you and your crew will evacuate to Theta on the 14th. Everything is being taken care of and you will all be given new positions as you arrive. You will have to fall into the ranks of course. The last thing we need are more "leaders".[br][br]Cronstedt]]></Entry>
+	<Entry Name="MainBaseMail_2"><![CDATA[From: Cronstedt.Theta[br]Subject: It's your funeral[br][br]>Fuck you, Cronstedt. I'm not going anywhere.[br]>You don't have the authority to make me.[br]>[br]>Terry[br][br]This isn't my orders, you idiot, I'm just the messenger. You want to stay? I can buy you some time if you want to hang out at your dump, but your crew is moving tomorrow.[br][br]Cronstedt]]></Entry>
+	<Entry Name="MainBaseMail_3"><![CDATA[From: Strasky.Theta[br]Subject: Evacuation successful[br][br]Mr Akers,[br]I'm happy to inform you that your crew has safely arrived at Theta. Let me know when you are ready to move and I'll send a transport.[br][br]Peter Strasky[br]Theta Dispatch]]></Entry>
+	<Entry Name="MainBaseMail_4"><![CDATA[From: Strasky.Theta[br]Subject: Merry Christmas[br][br]Merry Christmas, Mr Akers.[br]Don't hesitate to ask if you want to be relocated to Theta.[br][br]Peter Strasky[br]Theta Dispatch]]></Entry>
+	<Entry Name="MainBaseLog"><![CDATA[[2104-01-11] [main] local access (T.Akers)[br][2104-01-12] [main] local access (T.Akers)[br][2104-01-13] [main] local access (T.Akers)[br][2104-01-13] [chess] Terry Akers won his 1000th game of chess![br][2104-01-14] [main] local access (T.Akers)[br][2104-01-15] [main] local access (T.Akers)]]></Entry>
+	<Entry Name="ChessNewGame">New Game</Entry>
+	<Entry Name="ChessContinue">Continue</Entry>
+	<Entry Name="ChessExit">Exit</Entry>
+	<Entry Name="ChessStats_MainBase">Stats[br]Games: 1610[br]Won: 1000[br]Lost: 610</Entry>
+	<Entry Name="ChessStats_Bunker">Stats[br]Games: 0[br]Won: 0[br]Lost: 0</Entry>
+	<Entry Name="ChessError">Error: Corrupt Opponent</Entry>
+	<Entry Name="FrequencyScanner">Frequency scanner</Entry>
+	<Entry Name="Recordings">Recordings</Entry>
+	<Entry Name="FrequencyScannerRangeFrom">From: 25MHz</Entry>
+	<Entry Name="FrequencyScannerRangeTo">To: 941MHz</Entry>
+	<Entry Name="FrequencyScannerScan">Begin scan</Entry>
+	<Entry Name="FrequencyScannerStop">Stop scan</Entry>
+	<Entry Name="FrequencyScannerSignalsFound">Signals found: 0</Entry>
+	<Entry Name="DiaryEntry_1">It's exciting to watch WAU claim Delta. Half a year ago I'd be worried. I'd have Goya and Wan clean the black blood from the machinery. Now its crusty surfaces seem to complement, even outshine what Delta was.</Entry>
+	<Entry Name="DiaryEntry_2">My reflection in the black blood of our Warden whispers. I need to save them from this hell. Let them sleep. Lock them in the lucid dreams I've seen.</Entry>
+	<Entry Name="DiaryEntry_3">The light is hurting my eyes. He's telling me I don't need this vitreous flesh inside my skull to see salvation. I will gladly remove them. Stop them from obfuscating this divine mission.</Entry>
+	<Entry Name="Degrees">deg</Entry>
+	<Entry Name="ComChannel">Channel</Entry>
+	<Entry Name="AntennaControl_NoSignal">No signal</Entry>
+	<Entry Name="AntennaControl_Aligned">Link establ.</Entry>
+	<Entry Name="RobotManual_Name_1">K8 (UH8)</Entry>
+	<Entry Name="RobotManual_Name_2">BULL (UH3))</Entry>
+	<Entry Name="RobotManual_Name_3">TOPA (m-UH9)</Entry>
+	<Entry Name="RobotManual_Name_4">QUALIA (RV2)</Entry>
+	<Entry Name="RobotManual_Robot_1">K8 (UH8)[br]Intelligence: Complex AN-7U[br]Class: Light Universal Helper[br]Remote Pilot: N/A[br][br]Note[br]While the K8 lacks a voice module, it is able to communicate via simplified sounds and lights.</Entry>
+	<Entry Name="RobotManual_Robot_2">BULL (UH3)[br]Intelligence: Complex AN-5U[br]Class: Medium Worker[br]Remote Pilot: Supported</Entry>
+	<Entry Name="RobotManual_Robot_3">TOPA (m-UH9)[br]Intelligence: Complex AN-7U[br]Class: Mini UH[br]Remote Pilot: N/A</Entry>
+	<Entry Name="RobotManual_Robot_4">QUALIA (RV2)[br]Intelligence: Basic A-2U[br]Class: Research Vessel[br]Remote Pilot: Mandatory[br][br]Note[br]The vessel has basic intelligence only. A pilot is needed to fully utilize its equipment.</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="02_04_theta_outside">
+	<Entry Name="ZepGui_Dest">Destination: Theta</Entry>
+	<Entry Name="ZepGui_DistanceDepth">Distance: %distm   Depth: %depthm</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="02_05_theta_inside">
+	<Entry Name="Files">Files</Entry>
+	<Entry Name="Error">Error</Entry>
+	<Entry Name="Back">Back</Entry>
+	<Entry Name="OK">OK</Entry>
+	<Entry Name="Abort">Abort</Entry>
+	<Entry Name="ConnectionError">Connection error!</Entry>
+	<Entry Name="Loading">Loading</Entry>
+	<Entry Name="Troubleshoot">Troubleshoot</Entry>
+	<Entry Name="Troubleshooting">Checking for source...</Entry>
+	<Entry Name="ServerProblem">Error code: 06FF0A12[br]Unable to connect to mainframe[br][br]Please reset router in the sub-level vault or contact maintenance.</Entry>
+	<Entry Name="Uploading">Uploading...</Entry>
+	<Entry Name="UploadComplete">Upload complete!</Entry>
+	<Entry Name="Info">Info</Entry>
+	<Entry Name="Scans">Scans</Entry>
+	<Entry Name="Upload">Upload</Entry>
+	<Entry Name="ExtraOptions">Options</Entry>
+	<Entry Name="Environment">Environment</Entry>
+	<Entry Name="Module">Module</Entry>
+	<Entry Name="SimulationInfo">Simulation Info</Entry>
+	<Entry Name="RunSimulation">Run</Entry>
+	<Entry Name="NoScanData">SCAN PROJECTOR ACTIVE[br]Insert a chip containing scan data...</Entry>
+	<Entry Name="ChipInserted_1">Slot 1: Chip</Entry>
+	<Entry Name="ChipInserted_2">Slot 2: Chip</Entry>
+	<Entry Name="LoadingScanData">Loading Scan Data...</Entry>
+	<Entry Name="LoadingEnvironmentData">Loading Environment Data...</Entry>
+
+	<Entry Name="SkillsLabel">Skills:</Entry>
+	<Entry Name="ScanSubjectLabel">Loaded scan:</Entry>
+	<Entry Name="EnvironmentLabel">Environment:</Entry>
+	<Entry Name="ExtraModuleLabel">Support module:</Entry>
+
+	<Entry Name="ScanSubject_0_Name">LINDWALL, Sarah</Entry>
+	<Entry Name="ScanSubject_0_Info">BATCH 4[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: July 7, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Sarah Lindwall[br]Sex: F[br]Birth: Nov 25, 2074[br]Death: --, --[br]Nationality: Greenlander[br][br]NOTES[br]Said she'd help out delivering the ARK.</Entry>
+	<Entry Name="ScanSubject_1_Name">SARANG, Mark</Entry>
+	<Entry Name="ScanSubject_1_Info">BATCH 7[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: July 12, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Mark Sarang[br]Sex: M[br]Birth: Sep 21, 2061[br]Death: Jul 12, 2103[br]Nationality: Korean[br][br]NOTES[br]Killed himself because of "Continuity"? Strohmeier is really mad, has tightened security. ARK project on hold.</Entry>
+	<Entry Name="ScanSubject_2_Name">WAN, Brandon</Entry>
+	<Entry Name="ScanSubject_2_Info">BATCH 24[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: August 25, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Brandon Wan[br]Sex: M[br]Birth: Oct 16, 2070[br]Death: --, --[br]Nationality: Sichuan Chinese[br][br]NOTES[br]Delta refugee, construct wrangler. He's working for Strohmeier now.</Entry>
+	<Entry Name="ScanSubject_3_Name">BASS, Robin</Entry>
+	<Entry Name="ScanSubject_3_Info">BATCH 25[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: August 26, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Robin Bass[br]Sex: F[br]Birth: Dec 10, 2072[br]Death: Aug 26, 2103[br]Nationality: D.C. American[br][br]NOTES[br]Another fucking "continuity" suicide. Strohmeier locked me out of my lab again!</Entry>
+	<Entry Name="ScanSubject_4_Name">KOMOREBI, Maggie</Entry>
+	<Entry Name="ScanSubject_4_Info">BATCH 14[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: August 8, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Maggie Komorebi[br]Sex: F[br]Birth: Jan 4, 2067[br]Death: --, --[br]Nationality: H.K Chinese[br][br]NOTES[br]We look so much alike! In a different life I'm sure we'd be best friends.</Entry>
+	<Entry Name="ScanSubject_5_Name">WOLCHEZK, Heather</Entry>
+	<Entry Name="ScanSubject_5_Info">BATCH 6[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: July 10, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Heather Wolchezk[br]Sex: F[br]Birth: Jan 4, 2063[br]Death: --, --[br]Nationality: Silesian-Polish[br][br]NOTES[br]She helped me cut the wave leak from the helmet. If anything it should make the post-scan hangover less severe.</Entry>
+	<Entry Name="ScanSubject_6_Name">STRASKY, Peter</Entry>
+	<Entry Name="ScanSubject_6_Info">BATCH 12[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: August 4, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Peter Strasky[br]Sex: M[br]Birth: Mar 11, 2068[br]Death: --, --[br]Nationality: North-Englander[br][br]NOTES[br]Strasky was cheerful and funny as always.</Entry>
+	<Entry Name="ScanSubject_7_Name">KOSTER, Alice</Entry>
+	<Entry Name="ScanSubject_7_Info">BATCH 23[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: August 24, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Alice Koster[br]Sex: F[br]Birth: Jun 1, 2069[br]Death: --, --[br]Nationality: Canadian[br][br]NOTES[br]Said she'd help construct the ARK, but not carry it to Phi.</Entry>
+	<Entry Name="Environment_0">None</Entry>
+	<Entry Name="Environment_1">Beach</Entry>
+	<Entry Name="Environment_2">Ski lodge</Entry>
+	<Entry Name="Environment_3">Scan Room</Entry>
+	<Entry Name="None">None</Entry>
+	<Entry Name="Alice">Alice</Entry>
+	<Entry Name="ShutdownCaption">Shutdown</Entry>
+	<Entry Name="ShutdownBody">Shutdown in progress...</Entry>
+	<Entry Name="StressShutdown">Subject's stress limit exceeded - shutting down!</Entry>
+	<Entry Name="LoveLetterBody">Brandon,[br]I'm really a mess thinking about the scan. Everyone is being so brave. All smiles, no regrets. You know how you said you would hold my hand during the scan? If the offer still stands, I gratefully accept. If we do it together, we could suffer the hangover together as well. They say it takes a couple of days to recover.[br]Kisses, Alice.</Entry>
+	<Entry Name="BrandonBadgeBody">Brandon Wan</Entry>
+	<Entry Name="DatamineServerMaintenance">THETA - LIFE &amp; ENVIROMENTAL CONTROL (WAU)[br]================================[br]CLIMATE: Functional[br] - Pressure: 11.2 psi [br] - Temperature: 6 C [br] - Humidity(RH): 62% [br]AIR: Healthy [br] - CO2 Processor: Active 78% [br] - Gas mixer: Active 94% [br]WATER: Conserve [br] - Purifiers: Active 31%[br]WASTE MANGEMENT: Failing [br] - Recycling: Active 2% [br] - Energy recovery: 17%</Entry>
+	<Entry Name="AudioRecordings">Audio Recordings</Entry>
+	<Entry Name="DunbatStatus_1">READY</Entry>
+	<Entry Name="DunbatStatus_2">SYSTEMS ACTIVE</Entry>
+	<Entry Name="DunbatStatus_3_Delay">RUNNING TESTS...</Entry>
+	<Entry Name="DunbatStatus_3">ALL SYSTEMS OK!</Entry>
+	<Entry Name="DunbatStatus_4_Delay">PREPARING RELEASE...</Entry>
+	<Entry Name="DunbatStatus_4">READY FOR RELEASE!</Entry>
+	<Entry Name="DunbatStatus_Error_Delay">RELEASE IN PROGRESS...</Entry>
+	<Entry Name="DunbatStatus_Error">CRITICAL FAILURE!</Entry>
+	<Entry Name="ScanRoom_Root_Folder">Local (34% Free)</Entry>
+	<Entry Name="ScanRoom_Scans_Folder">Scans</Entry>
+	<Entry Name="ScanRoom_Scans_File_1_Name">Imogen Reed</Entry>
+	<Entry Name="ScanRoom_Scans_File_1_Info">BATCH 9[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: July 31, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Imogen Reed[br]Sex: F[br]Birth: May 4, 2072[br]Death: --, --[br]Nationality: Equo-American</Entry>
+	<Entry Name="ScanRoom_Scans_File_2_Name">Guy Konrad</Entry>
+	<Entry Name="ScanRoom_Scans_File_2_Info">BATCH 30[br]Type: Compressed Nakajima neurograph[br](continuous time, 3ms)[br]Captured: October 7, 2103[br]Author: Catherine Chun[br][br]SUBJECT[br]Name: Guy Konrad[br]Sex: M[br]Birth: January 31, 2062[br]Death: --, --[br]Nationality: North-Englander</Entry>
+
+	<Entry Name="ScanRoom_Env_Folder">Test Environments</Entry>
+	<Entry Name="ScanRoom_Env_File_1_Name">Float Tank</Entry>
+	<Entry Name="ScanRoom_Env_File_1_Info">Water filled steel tank - Sensory limiter</Entry>
+	<Entry Name="ScanRoom_Env_File_2_Name">Scan Room</Entry>
+	<Entry Name="ScanRoom_Env_File_2_Info">With Pilot Seat - Better continuation![br]Not necessary for ARK</Entry>
+	<Entry Name="ScanRoom_Env_File_3_Name">Beach</Entry>
+	<Entry Name="ScanRoom_Env_File_3_Info">Agreeable exterior test - Applied to ARK</Entry>
+	<Entry Name="ScanRoom_Env_File_4_Name">Versailles</Entry>
+	<Entry Name="ScanRoom_Env_File_4_Info">Agreeable interior test - Excellent[br]Data reconstructed by WAU. Do not use.</Entry>
+	<Entry Name="ScanRoom_EXT_1S_Folder">Chip (01% Free)</Entry>
+	<Entry Name="ScanRoom_EXT_1E_Folder">Chip (44% Free)</Entry>
+	<Entry Name="ScanRoom_EXT_1ECopied_Folder">Chip (37% Free)</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_Folder">Scans</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_Info">Binary file.[br]Unknown format.[br]File corrupted or compiled for a different system.</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_1_Name">Javid Goya</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_2_Name">Louise Meuron</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_3_Name">Brandon Wan</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_4_Name">Nicolai Ivashin</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_5_Name">Maggie Komorebi</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_6_Name">Nadine Masters</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_7_Name">Peter Strasky</Entry>
+	<Entry Name="ScanRoom_ScanChipScans_File_8_Name">Alice Koster</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_Folder">Environments</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_1_Name">Beach</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_1_Info">Agreeable exterior test - Applied to ARK</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_2_Name">Ski Lodge</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_2_Info">Agreeable interior test - Discarded</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_3_Name">Scan Room</Entry>
+	<Entry Name="ScanRoom_EnvChipEnvironments_File_3_Info">Theta scan room - Better continuation.[br]Not necessary for ARK.</Entry>
+	<Entry Name="SimonRecording_1">Post-Scan - May 2, 2015</Entry>
+	<Entry Name="SimonRecording_2">Roadmap - May 20, 2015</Entry>
+	<Entry Name="SimonRecording_3">Last Recording - June 1, 2015</Entry>
+	<Entry Name="LoadingExternalDevice">Loading external device...</Entry>
+	<Entry Name="Transfer">Transfer file</Entry>
+	<Entry Name="NetworkTransfer">Network transfer</Entry>
+	<Entry Name="ChipTransfer_NoChip">Copy to [NONE]</Entry>
+	<Entry Name="ChipTransfer">Copy to Chip</Entry>
+	<Entry Name="NetworkTransferError">TRANSFER DENIED[br]Restricted file.</Entry>
+	<Entry Name="ChipTransferError_NoChip">No external device detected!</Entry>
+	<Entry Name="ChipTransferError_WrongChip">Not enough free space on Chip.</Entry>
+	<Entry Name="ChipTransferError_Corrupted">TRANSFER DENIED[br]Corrupt data.</Entry>
+	<Entry Name="ChipTransferError_FileExists">Chip already contains this file.</Entry>
+	<Entry Name="ChipTransferInProgress">Copying data to Chip...</Entry>
+	<Entry Name="BrandonEntryFileName_1">Aug 14, 2103</Entry>
+	<Entry Name="BrandonEntryFileName_2">Aug 25, 2103</Entry>
+	<Entry Name="BrandonEntryFileName_3">Oct 7, 2103</Entry>
+	<Entry Name="BrandonEntryFileName_4">Jan 15, 2104</Entry>
+	<Entry Name="BrandonEntry_1">Akers finally agreed to evacuate Delta. Goya, Krier and I moved into Theta today. Akers said he'd stick around for a while longer. That crazy bastard. I take pride in my work, but goddamn that place is miserable since the surface stopped sending parts.</Entry>
+	<Entry Name="BrandonEntry_2">Did my ARK scan together with Alice. Strohmeier told me that the hangover would basically kill me. Such an asshole. I was fine at first, but got a splitting headache a couple of hours later. The biggest pain was that Chun girl, she is so fucking uncomfortable at all times it makes my skin crawl.</Entry>
+	<Entry Name="BrandonEntry_3">Strohmeier went ballistic and shut down all future scans for the ARK project. Apparently Konrad wanted in on the continuity and just fried himself right in the Pilot Seat after the scan. Something tells me we'll be getting new security ciphers.</Entry>
+	<Entry Name="BrandonEntry_4">Just heard that the Komorebi survey team is going to Delta and pick up Akers. He's been alone for months now. Can't imagine what he's been up to.</Entry>
+	
+	<Entry Name="CathTerminalEntry_1">SCAN LOG</Entry>
+	<Entry Name="CathTerminalEntry_2">SCHEDULE</Entry>
+	<Entry Name="CathTerminalFile_1">ARK SCAN LOG [2103][br]---------------[br][br]Chun, Catherine [Jul 4][br]Ivashkin, Nicolai [Jul 5][br]Hill, Jasper [Jul 6][br]Lindwall, Sarah [Jul 7][br]Pedersen, Ian [Jul 8][br]Wolchezk, Heather [Jul 10][br]Sarang, Mark [Jul 12] ((Suicide))[br][br]ARK project on hold as Strohmeier investigates the death of Sarang[br][br]Alvaro, Emma [Jul 29][br]Reed, Imogen [Jul 31][br]Meuron, Louise [Aug 1] ((Suicide))[br]Davis, Jessica [Aug 3][br]Strasky, Peter [Aug 4][br]Grau, Nathan [Aug 5] ((Suicide))[br]Komorebi, Maggie [Aug 8][br]Masters, Nadine [Aug 9][br]Hart, Vanessa [Aug 10][br]Fourqurean, Keith [Aug 11][br]Finley, Gavin [Aug 12] ((Suicide))[br]Rogers, Baxter [Aug 17][br]Josic, Chris [Aug 18][br]Goya, Javid [Aug 19][br]Krier, Astrid [Aug 20] ((Suicide))[br]Koster, Alice [Aug 24][br]Wan, Brandon [Aug 25][br]Bass, Robin [Aug 26] ((Suicide))[br][br]Strohmeier reprimanded me - one more death and we're out.[br][br]Cronstedt, Dorian [Aug 29][br]Fisher, Martin [Aug 30][br]Jonsdottir, Vigdis [Aug 31][br]Frost, Matthew [Sep 1][br]Konrad, Guy [Sep 2] ((Suicide))[br][br]ARK project on hold - indefinitely.</Entry>
+	<Entry Name="CathTerminalFile_2">SCHEDULED SCANS[br]---------------[br][br]Defreine, Joaquin [Sep ?][br]Strohmeier, John [Sep ?][br]Thabo, Richard [Sep ?][br]Adams, Jane [Sep ?][br]Shankar, Aashish [Sep ?][br]Daviau, Marishika [Sep ?][br]Evans, Shawn [Sep ?]</Entry>
+	
+	<Entry Name="SimStress">STRESS</Entry>
+	<Entry Name="CathsDataPad_Diary">JOURNAL</Entry>
+	<Entry Name="CathsDataPad_Notes">AR-CAPSULE</Entry>
+	<Entry Name="CatherineEntryFileName_1">June 6, 2103</Entry>
+	<Entry Name="CatherineEntryFileName_2">June 14, 2103</Entry>
+	<Entry Name="CatherineEntryFileName_3">June 21, 2103</Entry>
+	<Entry Name="CatherineEntryFileName_4">June 22, 2103</Entry>
+	<Entry Name="CatherineEntryFileName_5">July 3, 2103</Entry>
+	<Entry Name="CatherineEntryFileName_6">July 12, 2103</Entry>
+	<Entry Name="CatherineEntry_1">Imogen Reed tested a machine today. It was clearly corrupted by WAU, but more importantly it was assembled in a seemingly primitive way. Like someone had specifically created it for WAU to steal. When activated the machine mimicked the room and Reed along with it. At some point she was scanned and then loaded as a simulation inside the digital space. The presentation shocked Reed and was quickly terminated.[br]It scares me how much it reminds me of my AR capsule.</Entry>
+	<Entry Name="CatherineEntry_2">After dissecting the "Vivarium" machine that Reed activated, it's clear that WAU copied my capsule project to construct the scene to hold the Reed simulation. It's actually very similar in its construction except for one point. Where my capsule houses flat people constructed from model neurographs, the Vivarium's brain scan lives on. It isn't limited by its content, from the originating brain scan Reed emerged. The Reed inside the Vivarium was a perfect copy.</Entry>
+	<Entry Name="CatherineEntry_3">I have it. I can save humanity. I can build an artificial reality capsule that can hold every living member of Pathos-II. I can't figure out how it worked with the Vivarium, but I can replicate WAU's scanning technique using the Pilot Seats. They are already prepared with the type of electromagnetic drums needed.</Entry>
+	<Entry Name="CatherineEntry_4">It was even easier than I thought. The Pilot Seats are already set to allow the diffraction and high energy needed to capture the scan. I suspect WAU has been using the seat to steal scans from us for a while. I guess that explains the Mockingbirds. The WAU must have stolen scans from people using the Pilot Seat and used it as a basis for intelligence in the machines.</Entry>
+	<Entry Name="CatherineEntry_5">With a surprisingly positive reaction from the team we have now officially started the ARK project. We are to scan all the people we can find and load them into the capsule. Then we will launch it into space using the space gun. It's nice to think something will live on like that.</Entry>
+	<Entry Name="CatherineEntry_6">Mark Sarang killed himself after his scan. He has been suggesting everyone should kill themselves as it would somehow allow them to actually get on the ARK. I'm not sure how that would work. It did trigger a lot of arguments among the staff and apparently it's my fault somehow. Strohmeier is not happy with me. Hope it will calm down.</Entry>
+	<Entry Name="ConnectionStatusHeader">Connection Status</Entry>
+	<Entry Name="PreparingReset">Preparing reset</Entry>
+	<Entry Name="ResetTimeout">Action timeout in:</Entry>
+	<Entry Name="ResetReady">Reset ready</Entry>
+	<Entry Name="ConnectionStatusError">NETWORK ERROR[br][br]Unable to connect to mainframe[br][br]Please reset router</Entry>
+	<Entry Name="ConnectionStatusPreparingReset">Preparing for router reset[br][br]PLEASE STAND BY[br]Manual confirmation needed!</Entry>
+	<Entry Name="ConnectionStatusResetReady">Flip switch to confirm reset</Entry>
+	<Entry Name="ConnectionStatusSolved">ROUTER ACTIVE[br][br]Mainframe: Online</Entry>
+	<Entry Name="ResetServers">Confirm System Reset</Entry>
+	<Entry Name="ServerRepair_ResetExpired">Reset timed out. Remember to flip switch back after preparations are complete.</Entry>
+	<Entry Name="ServerRepeat_ResetUndone">Reset preparations cancelled by user.</Entry>
+	
+	<Entry Name="StatusTerminal_Menu_Status">Site Status</Entry>
+	<Entry Name="StatusTerminal_Menu_Map">Map</Entry>
+	<Entry Name="StatusTerminal_Menu_CrewInfo">Staff</Entry>
+	<Entry Name="StatusTerminal_Status_Title">Site Status</Entry>
+	<Entry Name="StatusTerminal_Status_Text">THETA[br]-----------------------[br]All systems operational[br][br]HULL[br]    Subcoat: Intact (app 99%)[br]    Armor: Intact (app 84%)[br]LIFE SUPPORT (WAU)[br]    Air = Clean (medium)[br]    Temp = 13°C[br]    Pressure: 2.102 bar[br][br]Last Diagnosis: 2104 / 01 / 16</Entry>
+	<Entry Name="StatusTerminal_CrewInfo_Title">Staff ( 2104 / 01 / 01 )</Entry>
+	<Entry Name="StatusTerminal_CrewInfo_Text">THETA - Main [br]-----------------------[br]ALVARO, Emma - Astrodynamics Expert[br]BASS, Robin - Field Service Technician ((Deceased))[br]CHUN, Catherine - Intel. Systems Engineer ((Missing))[br]CRONSTEDT, Dorian - Admin. Supervisor ((Deceased))[br]DAVIS, Jessica - Structural Engineer ((Deceased))[br]DEFREINE, Joaquin - Field Service Technician[br]EVANS, Shawn - Field Service Technician[br]FISHER, Martin - Wrangler ((Deceased))[br]FOURQUREAN, Keith - Overseer[br]FROST, Matthew - Biomimetics Expert[br]HILL, Jasper - Software Coordinator ((Missing))[br]IVASHKIN, Nicolai - System Architect ((Missing))[br]KOMOREBI, Maggie - First Responder[br]KONRAD, Guy - Wrangler ((Deceased))[br]KOSTER, Alice - Payload Manager[br]LINDWALL, Sarah - Payload Technician ((Missing))[br]MASTERS, Nadine - Medical Doctor[br]PEDERSEN, Ian - Software Engineer ((Missing))[br]REED, Imogen - Mechatronics Engineer ((Missing))[br]SARANG, Mark - Intelligence Analyst ((Deceased))[br]STRASKY, Peter - Dispatcher[br]STROHMEIER, John - Security Operative[br]THABO, Richard - Mechatronics Engineer[br]WOLCHEZK, Heather - Site Service Engineer[br][br]GUESTS [br]-----------------------[br]ADAMS, Jane - Chief Factor - UPSILON[br]DAVIAU, Marishika - Wrangler - LAMBDA[br]FINLEY, Gavin - F.S. Technician - UPSILON ((Deceased))[br]GOYA, Javid - Wrangler - DELTA[br]GRAU, Nathan - Capt. of Port - LAMBDA ((Deceased))[br]HART, Vanessa - Dispatcher - LAMBDA[br]JONSDOTTIR, Vigdis - Dispatcher - UPSILON[br]JOSIC, Chris - LAMBDA[br]KRIER, Astrid - F.S. Technician - DELTA ((Deceased))[br]MEURON, Louise - F.S.T. - UPSILON ((Deceased))[br]ROGERS, Baxter - Geotechnical Engineer - UPSILON[br]SHANKAR, Aashish - Wrangler - UPSILON[br]WAN, Brandon - Wrangler - DELTA</Entry>
+	<Entry Name="StatusTerminal_Map_Title">Site Map</Entry>
+	<Entry Name="StatusTerminal_Map_Floor1">Main level</Entry>
+	<Entry Name="StatusTerminal_Map_Floor2">Level -1</Entry>
+	<Entry Name="StatusTerminal_Map_Floor3">Level -2</Entry>
+	
+	<Entry Name="ScanRoomTerminal_DeleteChip">Erase Data</Entry>
+	<Entry Name="ScanRoomTerminal_ShutDown">Shut Down</Entry>
+	<Entry Name="ScanRoomTerminal_DeleteCaption">Erase</Entry>
+	<Entry Name="ScanRoomTerminal_DeleteBody">Chip format in progress...</Entry>
+	
+	<Entry Name="CathDiary_Title">Notes</Entry>
+	<Entry Name="CathDiary_Body">Richard gave me a set of AI templates I haven't seen before. Unfolded one of them to make a new friend for Capsule Catherine and her gang of legacies.[br][br]New way to simulate turbulence makes the weather system so much better.[br][br]Implemented Reed, didn't go well.[br][br]New try with Reed.[br][br]Reed won't play nicely with the others. She is too real.</Entry>
+	
+	<Entry Name="SarangNote">Dear friends,[br][br]When you read this I will have entered the ARK. As I've explained this is accomplished by ceasing to live as your scan is being completed. To not frighten Catherine I will do this in secret by folding cyanide salts into chewing gum and placing it in my mouth before seeing her. When I hear her announce completion I will bite down, quickly causing my own demise.[br][br]When you discover the truth behind my death know there's no tragedy to mourn, for I am victorious. I advise you all to do the same and join me inside the ARK.[br][br]Sincerely,[br]    Mark Sarang</Entry>
+	
+	<Entry Name="SarangBook_Front">The Nature of Identity[br]Pavlina Martinu</Entry>
+	<Entry Name="SarangBook_Back">Questions about the self - Who are you? What does it mean to be human? Does your body or your surroundings confine or define you? All very difficult ideas to approach without having your questions be invalidated by the practical or mystified by the spiritually minded.[br]In this book Pavlina Martinu, Professor of Philosophy at the Charles University in Prague, guides you through the history of great thinkers and what they have to say about identity.</Entry>
+
+	<Entry Name="BassNote">We're all dying anyway. I'm all in.[br]I put my faith in Sarang and the continuity.</Entry>
+	
+	<Entry Name="ScanRoom_Legacy_Folder">Legacy Scans</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Name_1">NanComp</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Info_1">THE NANAMI-COMPOSITION[br]Type: Compressed Nakajima neurograph (continuous time, 21ms)[br]Captured: March 12, 2014[br]Author: Nakajima Shin[br][br]SUBJECT[br]Name: "Nanami"[br]Sex: F[br]Birth: December 11, 1997[br]Death: July 17, 2021[br]Nationality: Japanese</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Name_2">Berg</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Info_2">THE PACE FILES: BERG[br]Type: Compressed Nakajima neurograph (continuous time, 6ms)[br]Captured: April 28, 2015[br]Author: David Munshi[br][br]SUBJECT[br]Name: Paul Berg[br]Sex: M[br]Birth: November 27, 1984[br]Death: August 2, 2069[br]Nationality: Canadian</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Name_3">Munshi</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Info_3">THE PACE FILES: MUNSHI[br]Type: Compressed Nakajima neurograph (continuous time, 4ms)[br]Captured: April 28, 2015[br]Author: Paul Berg[br][br]SUBJECT[br]Name: David Munshi[br]Sex: M[br]Birth: October 4, 1980[br]Death: May 23, 2078[br]Nationality: Canadian</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Name_4">Jarrett</Entry>
+	<Entry Name="ScanRoom_Legacy_File_Info_4">THE PACE FILES: SIMON JARRETT[br]Type: Compressed Nakajima neurograph (continuous time, 5ms)[br]Captured: May 2, 2015[br]Author: David Munshi[br][br]SUBJECT[br]Name: Simon Jarrett[br]Sex: M[br]Birth: July 16, 1988[br]Death: June 1, 2015[br]Nationality: Canadian</Entry>
+	
+	<Entry Name="ScanRoom_Legacy_DeleteButton">Erase Data</Entry>
+	<Entry Name="ScanRoom_Legacy_Deleting">Erasing...</Entry>
+	<Entry Name="ScanRoom_Legacy_Deleted">Unavailable</Entry>
+	
+	<Entry Name="ScanRoom_Legacy_Loading">Loading...</Entry>
+	
+	<Entry Name="DunbatCamera">DUNBAT Interior</Entry>
+	
+	<Entry Name="SecretSarang">Carthage[br][br]March 7, 2102[br][br]Mark Sarang[br]Intelligence Analyst[br]Theta[br]Pathos-II[br][br]Mr. Sarang, the company is very pleased to hear of your success in making the WAU a station-wide presence. We trust you appreciate what a unique opportunity this is and that you will do everything in your power to fully explore and understand this mystery. To do so you need to ensure that Dr. Johan Ross is able to steer and study the WAU from Alpha without outside interference. In case of an emergency you may direct Julia Dahl at Omicron to forcefully eliminate any opposition, but please make an effort to avoid extreme actions.[br]The WAU is an important, costly affair and we hope to follow a steady development without setbacks.[br][br]The supervisory board</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="02_06_theta_tunnels">
+	<Entry Name="Back">Back</Entry>
+	<Entry Name="Documents">DOCUMENTS</Entry>
+	<Entry Name="MainTerminal_ArkLocator">ARK LOCATOR</Entry>
+	<Entry Name="MainTerminalFileName_1">My decision</Entry>
+	<Entry Name="MainTerminalFile_1">I have decided to finalize the ARK with the scans we have. I'm sorry for all of you who wanted to go but didn't get a chance to scan yourself before the project was put on hold. It's been two months since I've added a scan and I don't see how I'll ever be able to win back the support you all showed when we started the project. I'm sorry. I never meant for anyone to take their lives. It was never my intention to fool anyone. I just wanted to save something.[br][br]Dr Catherine Chun</Entry>
+	<Entry Name="MainTerminalFileName_2">What's left</Entry>
+	<Entry Name="MainTerminalFile_2">*Apply interface module[br]*Seal ARK capsule[br]*Ask permission from FourQ[br]*Brief Ivashkin, Lindwall, Pedersen, and Hill[br]*Take shuttle to Omicron[br]*Pick up Power Suits[br]*Ride the Climber into the abyss[br]*Regroup at Tau[br]*Head to launch site[br]*Load the "bullet"[br]*Launch ARK</Entry>
+	<Entry Name="MainTerminal_Quiz">ARK ATTITUDE SURVEY</Entry>
+	<Entry Name="MainTerminal_QuizAppName">Examination App v 1.12</Entry>
+	<Entry Name="MainTerminal_QuizIntro">ARK ATTITUDE SURVEY[br]To gauge staff opinion, please fill out this short survey.</Entry>
+	<Entry Name="MainTerminal_QuizStart">Start Examination</Entry>
+	<Entry Name="MainTerminal_Question">QUESTION</Entry>
+	<Entry Name="MainTerminal_Answers">ANSWERS</Entry>
+	<Entry Name="MainTerminal_Question_0">Recently it was decided that the ARK-project would become Pathos-II's last official commitment. The staff has been urged to carry on with their duties despite earth's catastrophic condition.[br][br]I think the ARK-project is the most logical step towards saving mankind and that we should spend as much time and resources as needed to complete it.</Entry>
+	<Entry Name="MainTerminal_Question_1">To embark, every passenger needs to be flushed with electromagnetism using a Pilot Seat. These scanning sessions are known to cause nausea and headaches sometimes lasting up to 3 days.[br][br]I think temporary physical discomfort, no matter how severe, is a small price to save mankind.</Entry>
+	<Entry Name="MainTerminal_Question_2">The ARK is built to fit a Ranger Mk VII probe, meaning it could be shot into space with the Omega Space Gun, and technically survive for thousands of years, living off the light from our sun and distant stars.[br][br]I think the ARK should leave earth behind and be launched into space.</Entry>
+	<Entry Name="MainTerminal_Question_3">The digitalization of humanity is an opportunity to make a quantum leap in our own evolution. The people inside the ARK will out of necessity be generated from existing genetic code, but could be altered to allow for cosmetic changes, ease aging, and even prevent death.[br][br]I think we are at risk of losing our humanity if we were to rid ourselves of disease and our mortality.</Entry>
+	<Entry Name="MainTerminal_Question_4">There are only 58 people left alive to be stored inside the ARK. A way to diversify and expand the population would be to introduce artificial intelligences that would in every way appear to be human, but with childlike and naive sensibilities. As we continue to explore the nature of intelligence we may find a way to make them smarter in the future.[br][br]I think even an inferior group of artificial people would benefit our society.</Entry>
+	<Entry Name="MainTerminal_Answer_0">Strongly agree</Entry>
+	<Entry Name="MainTerminal_Answer_1">Agree</Entry>
+	<Entry Name="MainTerminal_Answer_2">Disagree</Entry>
+	<Entry Name="MainTerminal_Answer_3">Strongly disagree</Entry>
+	<Entry Name="MainTerminal_QuizSaving">Saving</Entry>
+	<Entry Name="MainTerminal_QuizResultHeader">RESULTS</Entry>
+	<Entry Name="MainTerminal_QuizResultBody">Thank you for participating. This is how your colleagues voted:</Entry>
+	<Entry Name="MainTerminal_QuestionName_0">-ARK approval-</Entry>
+	<Entry Name="MainTerminal_QuestionName_1">-Pain for gain-</Entry>
+	<Entry Name="MainTerminal_QuestionName_2">-Eternity among the stars-</Entry>
+	<Entry Name="MainTerminal_QuestionName_3">-Artificial evolution-</Entry>
+	<Entry Name="MainTerminal_QuestionName_4">-Inferior companions-</Entry>
+	<Entry Name="MastersTerminalFileName_1">Akers - Jan 16, 2104</Entry>
+	<Entry Name="MastersTerminalFile_1">TERRY AKERS[br]Age: 66 Sex: M[br][br]One of the worst cases I've seen and it's most likely his own damn fault. He blinded himself and clogged up his insides with structure gel. I'd be surprised if he ever woke up from the coma.[br][br]Did make me think of Hart's absurd story about what happened at Lambda. Could it really be that the WAU is somehow able to change and rebuild the h_</Entry>
+	<Entry Name="MastersTerminalFileName_2">Hart - Dec 20, 2103</Entry>
+	<Entry Name="MastersTerminalFile_2">VANESSA HART[br]Age: 28 Sex: F[br][br]Hart appears to be in good shape considering the circumstances. Only bruises and mild hypothermia caused by the long walk. It's difficult to corroborate her story as she is the only one to return.</Entry>
+	<Entry Name="MastersTerminalFileName_3">Chun - Nov 1, 2103</Entry>
+	<Entry Name="MastersTerminalFile_3">CATHERINE CHUN[br]Age: 37 Sex: F[br][br]As usual Chun is quiet and does her best to avoid eye contact. She doesn't want to be here, but Strohmeier demands another evaluation. Chun isn't obstinate or dishonest, but she'd rather not speak if it can be avoided. She has a hard time dealing with people in general, including doctors. Catherine Chun is weak in character, the perfect victim to be domineered and pushed around by others. She is a scared mouse I don't want to upset - so we sit quiet and pass the time.</Entry>
+	<Entry Name="MastersTerminalFileName_4">Konrad - Oct 7, 2103</Entry>
+	<Entry Name="MastersTerminalFile_4">GUY KONRAD[br]Age: 41 Sex: M[br][br]Konrad is dead. He boiled his brain to pulp with a W-Rem (maser) following the ARK neuroscan. Clearly another "Continuity" enthusiast killing himself to take his place on the ARK.</Entry>
+	<Entry Name="DRMastersSent">Mail Sent</Entry>
+	<Entry Name="DRMastersSignOn">Signed in as[br][br]N.Masters[br][br]Idle for 113 Days</Entry>
+	<Entry Name="DRMastersUsedTerminal">Signed in as[br][br]N.Masters</Entry>
+
+	<Entry Name="SendingEmail">Sending...</Entry>
+	<Entry Name="ButtonSButtonSentItems">Sent</Entry>
+	<Entry Name="ButtonLogEntries">Log Entries</Entry>
+	<Entry Name="ButtonDiag">Run Diagnostics</Entry>
+	<Entry Name="ButtonMain">Main Menu</Entry>
+	<Entry Name="ButtonFormat">Update Connector Chip</Entry>
+	<Entry Name="ButtonStart">Start Simulation</Entry>
+	<Entry Name="ButtonStop">Pause Simulation</Entry>
+	<Entry Name="ButtonReset">Reset Simulation</Entry>
+	<Entry Name="ButtonDoorLock">Override Door Lock</Entry>
+	<Entry Name="ButtonStatusLog">Officers Logs</Entry>
+	<Entry Name="ButtonChipMaintenance">Key Control</Entry>
+	<Entry Name="ButtonRecordings">Security Recordings</Entry>
+	<Entry Name="ButtonClear">Clear</Entry>
+	<Entry Name="ButtonOK">OK</Entry>
+	<Entry Name="ButtonMail">Send</Entry>
+	<Entry Name="SecurityWindowCaption">Connector Chip</Entry>
+	<Entry Name="SecurityAlertsTitle">Security Messages</Entry>
+	<Entry Name="SecurityAlerts"><![CDATA[Alert! Dispatch - Nov 17, 2103[br]<corrupt>[br][br]Alert! Conference Room - Nov 22, 2103[br]<corrupt>[br][br]Alert! Shuttle Station - Dec 12, 2103[br]<corrupt>[br][br]Alert! Common Area - Dec 29, 2103[br]<corrupt>[br][br]Alert! Machine Hangar - Jan 11, 2104[br]Huge structure gel leak has caused the WAU to seize control over the DUNBAT. Forced a quarantine to avoid further development. Last thing we need is another talking machine.]]></Entry>
+	
+	<Entry Name="RoomName_ARKRoom">PAYLOAD ASSEMBLY</Entry>
+	<Entry Name="RoomName_ChemRoom">MEDICAL LAB</Entry>
+	<Entry Name="RoomName_Infirmary">EXAM. ROOM</Entry>
+	<Entry Name="RoomName_LectureRoom">CONFERENCE ROOM</Entry>
+	<Entry Name="RoomName_MastersOffice">DOCTOR'S OFFICE</Entry>
+	<Entry Name="RoomName_ProbeDesign">CASING</Entry>
+	<Entry Name="RoomName_ProbeSimulation">OMEGA MNG.</Entry>
+	<Entry Name="RoomName_RocketDesign">PAYLOAD</Entry>
+	<Entry Name="RoomName_Security">SECURITY</Entry>
+	<Entry Name="RoomName_Storage">STORAGE</Entry>
+	
+	<Entry Name="DoorPanel_Storage">STORAGE</Entry>
+	<Entry Name="DoorPanel_Payload">PAYLOAD[br][br]A. Koster[br]J. Hill[br]S. Lindwall</Entry>
+	<Entry Name="DoorPanel_Casing">CASING[br][br]J. Davis[br]N. Ivashkin</Entry>
+	<Entry Name="DoorPanel_OmegaManagement">OMEGA MANAGEMENT[br]I. Pedersen[br]M. Sarang[br]H. Wolchezk[br]C. Chun</Entry>
+	<Entry Name="DoorPanel_Office">DOCTOR'S OFFICE[br][br]N. Masters</Entry>
+	<Entry Name="DoorPanel_MedLab">MEDICAL LABORATORY[br][br]M. Frost</Entry>
+	<Entry Name="DoorPanel_Security">SECURITY[br][br]J. Strohmeier</Entry>
+	<Entry Name="DoorPanel_Conference">CONFERENCE ROOM</Entry>
+	<Entry Name="DoorPanel_Infirmary">EXAMINATION ROOM</Entry>
+	<Entry Name="DoorPanel_Dispatch">DISPATCH[br][br]P. Strasky</Entry>
+	<Entry Name="DoorPanel_Error">SYSTEM ERROR</Entry>
+	
+	<Entry Name="ElevatorLab">LABORATORY</Entry>
+	<Entry Name="ElevatorMaint">MAINTENANCE</Entry>
+	<Entry Name="ElevatorTrans">TRANSPORT ST.</Entry>
+	
+	<Entry Name="OmegaManagement_Info">OMEGA MANAGEMENT[br][br]I. Pedersen[br]M. Sarang[br]H. Wolchezk[br]C. Chun</Entry>
+	
+	<Entry Name="DoorInfo_Unlocked">Door 42B Lockdown lifted</Entry>
+	<Entry Name="ChipInfo_NoChipInserted">No chip inserted</Entry>
+	<Entry Name="ChipInfo_ChipInserted">PANEL CHIP (Connector)[br][br]Security Keys: 023-027[br]C819738-23[br][br]PERMISSION[br]Standard Theta Cipher[br]SECOP-JSTROHMEIER</Entry>
+	<Entry Name="ChipIntegrity_Error">ERROR: KEY EXPIRED[br]Please update...</Entry>
+	<Entry Name="ChipIntegrity_NoError">CONNECTOR CHIP UPDATED[br]Chip ready for use</Entry>
+	<Entry Name="ChipInserted">Connector chip detected!</Entry>
+	<Entry Name="LoadingChip_Header">Loading</Entry>
+	<Entry Name="LoadingChip">Loading Connector Chip...</Entry>
+	<Entry Name="RepairingChip">Updating security cipher...</Entry>
+	<Entry Name="SerialNO">Serial Number</Entry>
+	<Entry Name="OfficerLog">Entry Type: Recording[br][br]Author: Strohmeier, John[br][br]Subject: Akers - Final Decision[br][br]Importance: Critical</Entry>
+	<Entry Name="OfficerLastLog">Recent Entry</Entry>
+	
+	<Entry Name="ArkTerminalModules">Available Modules</Entry>
+	<Entry Name="ArkTerminalModule_System_Header">SYSTEMS</Entry>
+	<Entry Name="ArkTerminalModule_Scene_Header">SCENES</Entry>
+	<Entry Name="ArkTerminalModule_Object_Header">OBJECTS</Entry>
+	<Entry Name="ArkTerminalModule_System_1">sys_physics_rigid</Entry>
+	<Entry Name="ArkTerminalModule_System_2">sys_physics_soft</Entry>
+	<Entry Name="ArkTerminalModule_System_3">sys_physics_fluid</Entry>
+	<Entry Name="ArkTerminalModule_System_4">sys_phys_buoy</Entry>
+	<Entry Name="ArkTerminalModule_System_5">sys_wmod_atmo</Entry>
+	<Entry Name="ArkTerminalModule_System_6">sys_interface_scan</Entry>
+	<Entry Name="ArkTerminalModule_System_7">sys_wmod_heat</Entry>
+	<Entry Name="ArkTerminalModule_System_8">sys_wmod_dynlight</Entry>
+	<Entry Name="ArkTerminalModule_System_9">sys_gen_veg_basic</Entry>
+	<Entry Name="ArkTerminalModule_System_10">sys_gen_veg_adv</Entry>
+	<Entry Name="ArkTerminalModule_System_11">scn_plains_grass</Entry>
+	<Entry Name="ArkTerminalModule_System_12">scn_forest</Entry>
+	<Entry Name="ArkTerminalModule_System_13">pkg_soma_hum</Entry>
+	<Entry Name="ArkTerminalModule_System_14">stc_env_dirt_road</Entry>
+	<Entry Name="ArkTerminalModule_System_15">ent_pk_1_bench_v2</Entry>
+	<Entry Name="ArkTerminalModule_System_16">ent_pk_boat</Entry>
+	<Entry Name="ArkTerminalModule_System_17">env_mod_river</Entry>
+	<Entry Name="ArkTerminalModule_System_18">ent_pk_1_chair</Entry>
+	<Entry Name="ArkTerminalModule_System_19">stc_env_cabin_ex</Entry>
+	<Entry Name="ArkTerminalModule_System_20">env_mod_lake</Entry>
+	<Entry Name="ArkTerminalModule_System_21">ent_foliage_sml</Entry>
+	<Entry Name="ArkTerminalModule_System_22">ext_sun_noon</Entry>
+	<Entry Name="ArkTerminalModule_System_23">ext_moon_full</Entry>
+	<Entry Name="ArkTerminalModule_System_24">ext_clouds_dy</Entry>
+	<Entry Name="ArkTerminalModuleType_0">NULL</Entry>
+	<Entry Name="ArkTerminalModuleType_1">type_light_src</Entry>
+	<Entry Name="ArkTerminalModuleType_2">type_water</Entry>
+	<Entry Name="ArkTerminalModuleType_3">type_vegetation</Entry>
+	<Entry Name="ArkTerminalSetupStatus">Status</Entry>
+	<Entry Name="ArkTerminalSetupStatusOK">No errors detected!</Entry>
+	<Entry Name="ArkTerminalSetupStatusDependency">REQ.</Entry>
+	<Entry Name="ArkTerminalSetupStatusRequiredModule_Soma">sim_base REQ. type_soma</Entry>
+	<Entry Name="ArkTerminalSetupStatusRequiredModule_Ground">sim_base REQ. type_scene</Entry>
+	<Entry Name="ArkTerminalSetupStatusMemory_1">MEMORY CORRUPTION DETECTED!</Entry>
+	<Entry Name="ArkTerminalSetupStatusMemory_2">PLEASE REDUCE MEMORY FOOTPRINT</Entry>
+	<Entry Name="ArkTerminalMemory">MEMORY</Entry>
+	<Entry Name="ArkTerminalScans">SCANS</Entry>
+	<Entry Name="ArkTerminalScan_1">"Nanami"</Entry>
+	<Entry Name="ArkTerminalScan_2">Berg, Paul</Entry>
+	<Entry Name="ArkTerminalScan_3">Munshi, David</Entry>
+	<Entry Name="ArkTerminalScan_4">Jarrett, Simon</Entry>
+	<Entry Name="ArkTerminalScan_5">DUMMY</Entry>
+	<Entry Name="ArkTerminalScanUpload">UPLOAD</Entry>
+	<Entry Name="ArkTerminalRunHeader">Vivarium Sim</Entry>
+	<Entry Name="ArkTerminalRunSpeedUp">+</Entry>
+	<Entry Name="ArkTerminalRunSpeedDown">-</Entry>
+	<Entry Name="ArkTerminalUploading">COMPILING...</Entry>
+	<Entry Name="ArkTerminalSetupNext">NEXT</Entry>
+	<Entry Name="ArkTerminalError_IncorrectScan">Incompatible scan version [V:LEGACY]</Entry>
+	<Entry Name="ArkTerminalError_MemoryCorrupted">Approx. 43.75% (896TB) Memory Corrupted[br]Simulation reconfiguration necessary...</Entry>
+	<Entry Name="ArkTerminalBoot_OSVersion">ARK BUILD NO 34124</Entry>
+	<Entry Name="ArkTerminalBoot_CompileInfo">COMPILED: C.CHUN, THETA</Entry>
+	<Entry Name="ArkTerminalBoot_MemcheckPre">MEMCHECK:</Entry>
+	<Entry Name="ArkTerminalBoot_MemcheckPost">TB</Entry>
+	<Entry Name="ArkTerminalBoot_MemcheckOK">SYS MEM ERROR DETECTED</Entry>
+	<Entry Name="ArkTerminalBoot_StorageDetect">DETECTING STORAGE...</Entry>
+	<Entry Name="ArkTerminalBoot_DriveMount_1">/dev/sda1 mounted</Entry>
+	<Entry Name="ArkTerminalBoot_DriveMount_2">mount -o loop,encryption=aes arkALPHA3.img /media/main</Entry>
+	<Entry Name="ArkTerminalBoot_Decrypt">Decrypting Volume....</Entry>
+	<Entry Name="ArkTerminalBoot_ARKBoot">Booting ARK alpha v3</Entry>
+	<Entry Name="AWAITING_CONNECTION">NO DEVICE CONNECTED</Entry>
+	<Entry Name="ARKDiag">RUNNING DIAGNOSTIC</Entry>
+	<Entry Name="ARKModule">LOADED MODULE</Entry>
+	<Entry Name="ARKTime">WORLD TIME</Entry>
+	<Entry Name="ARKVersion">ARK Alpha v3</Entry>
+	<Entry Name="ARKTimeScale">RESOURCE ALLOC.</Entry>
+	<Entry Name="ARKNeuro">VERIFYING NEUROSCAN INTEGRITY</Entry>
+	
+	<Entry Name="ChipCorrupt">SECURITY ERROR[br][br]KEY EXPIRED - UPDATE CHIP</Entry>
+	<Entry Name="ChipSuccess">KEY ACCEPTED[br][br]CLOSE CLAMPS AND PANEL</Entry>
+	<Entry Name="ChipEmpty">SECURITY ERROR[br][br]INSERT CONNECTOR CHIP</Entry>
+	<Entry Name="PostitDPVs">Prep ARK with signal transmitter</Entry>
+	<Entry Name="PostitInventory">Power packs[br]Tools (FST-Kit)[br]Extra oxygen[br]P-II Permissions</Entry>
+	<Entry Name="WhiteboardARK_Step1">1. Shuttle to Omicron.</Entry>
+	<Entry Name="WhiteboardARK_Step2">2. Change to HPS. Ride the Climber into the abyss.</Entry>
+	<Entry Name="WhiteboardARK_Step3">3. Check on Tau - anyone alive?</Entry>
+	<Entry Name="WhiteboardARK_Step4">4. Access tunnel to Phi - Launch ARK!</Entry>
+	<Entry Name="Graffiti_Vents">Don't go near the vents</Entry>
+	<Entry Name="Graffiti_HearUs">It can hear us[br]Vibrations?</Entry>
+	<Entry Name="Sign_Contaminant">No foreign contaminants beyond this point</Entry>
+	<Entry Name="Sign_CleanRoom">Cleanroom[br]Cleanroom suits, goggles and masks are mandatory!</Entry>
+	<Entry Name="Sign_LiftFloors">Theta Surface[br]Laboratory[br]Maintenance[br]Shuttle St.</Entry>
+	
+	<Entry Name="Scanner_Brain">CORTEX Carthage MK II</Entry>
+	<Entry Name="Scanner_Blackbox_1">BLACKBOX Personal Buffer v4</Entry>
+	<Entry Name="Scanner_Blackbox_2">Reading buffer...</Entry>
+	<Entry Name="Scanner_Blackbox_3">Theta signature</Entry>
+	<Entry Name="Scanner_Battery">ENERGY SOURCE[br]Energy Pal S3</Entry>
+	<Entry Name="Scanner_Gel">COMPOUND Basic Ductile Suit</Entry>
+	<Entry Name="Scanner_Flesh">COMPOUND Structure Gel</Entry>
+	<Entry Name="Scanner_Reed">FEMALE[br]REED,[br]Imogen</Entry>
+	
+	<Entry Name="Scanner_Outside_Offline">OFFLINE</Entry>
+	<Entry Name="Scanner_Outside_Pending">READY</Entry>
+	
+	<Entry Name="Brandon_ID">BRANDON[br]WAN</Entry>
+	
+	<Entry Name="SurvivalOfTheFittestBoard">SURVIVAL OF THE FITTEST</Entry>
+	
+	<Entry Name="RossTalk_01">Remarkable connectivity (neural patchwork)</Entry>
+	<Entry Name="RossTalk_02">Gel consumption (Akers)</Entry>
+	<Entry Name="RossTalk_03">Meet downstairs[br]the shuttle</Entry>
+	<Entry Name="RossTalk_04">Initially reconstructive[br]Unnatural growth[br]Symbiotic attempts</Entry>
+
+  </CATEGORY>
+  
+  <CATEGORY Name="02_07_theta_exit">
+	<Entry Name="DoorPower_Off">POWER FAILURE[br][br]Recharge service battery</Entry>
+	<Entry Name="DoorPower_On">SECURITY DOOR[br]UNLOCKED</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="03_01_omicron_outside">
+	<Entry Name="GUIOK">OK</Entry>
+	<Entry Name="Cancel">Cancel</Entry>
+	<Entry Name="Error">Error</Entry>
+	<Entry Name="Success">Success</Entry>
+	<Entry Name="InvalidCode">Invalid code!</Entry>
+	<Entry Name="Back">Back</Entry>
+	<Entry Name="NoPower">POWER FAILURE</Entry>
+	<Entry Name="Records">Entries</Entry>
+
+	<Entry Name="RecordedMessage">Radio Buffer</Entry>
+	<Entry Name="LockdownStatus">Omicron</Entry>
+	<Entry Name="CommandLogHeader">2104-01-16</Entry>
+	<Entry Name="LockdownStatusOuter_On">QUARANTINED</Entry>
+	<Entry Name="LockdownStatusOuter_Off">Accessible</Entry>
+	<Entry Name="LockdownStatusInner">Radio / LUMAR</Entry>
+	<Entry Name="LockdownStatusCleanRoom">Remote ACR control</Entry>
+	<Entry Name="BlackboxStatusButton">Blackbox Status</Entry>
+	<Entry Name="BlackboxMap">Blackbox Map</Entry>
+	<Entry Name="SystemUpdatesButton">System Updates</Entry>
+	<Entry Name="BlackboxStatus"><![CDATA[OMICRON CREW STATUS[br]#012 Dahl, Julia - Offline[br]#003 Cameron, Lisa - Offline[br]#006 Darby, Eric - Offline[br]#001 Eames, Claudia - Offline[br]#013 Golaski, Adam - Offline[br]#010 Halperin, Jacob - Offline[br]#004 Herber, Raleigh - Offline[br]#002 Holland, Richard - Offline[br]#014 Lansky, Paula - Offline[br]#009 Sorvari, Olavi - Offline[br]#015 Suther, Andrea - Offline[br]#005 Waldeck, Alan - Offline]]></Entry>
+	<Entry Name="SystemUpdate_1">Timestamp: 2098-10-09[br]User: WOLCHEZK[br][br]Note: Update enables Blackboxes. Fail-safe CRTH4 (Carthage) implemented.</Entry>
+	<Entry Name="SystemUpdate_2">Timestamp: 2099-07-11[br]User: GOLASKI[br][br]Note: Standard x4B extension (Haimatsu)</Entry>
+	<Entry Name="SystemUpdate_3">Timestamp: 2099-08-05[br]User: GOLASKI[br][br]Note: Area calibrator for ACR.</Entry>
+	<Entry Name="SystemUpdate_4">Timestamp: 2103-01-14[br]User: GOLASKI[br][br]Note: Diagnostic tool for post-impact contingency plan.</Entry>
+	<Entry Name="SystemUpdate_5">Temp_Validate =? =?[br]Press () = U U 78_WAUx77</Entry>
+	<Entry Name="SystemUpdate_6">Timestamp: 2103-12-20[br]User: SORVARI[br][br]Note: Stuff needed to make the crane work again. All up to Alan now.</Entry>
+	<Entry Name="SystemUpdate_7">Timestamp: 2104-01-06[br]User: SORVARI[br][br]Note: Unnecessary security update for the paranoid lab rats. Dead people don't bite.</Entry>
+	<Entry Name="SystemUpdateName_1">2098-10-09</Entry>
+	<Entry Name="SystemUpdateName_2">2099-07-11</Entry>
+	<Entry Name="SystemUpdateName_3">2099-08-05</Entry>
+	<Entry Name="SystemUpdateName_4">2103-01-14</Entry>
+	<Entry Name="SystemUpdateName_5"><![CDATA[2103-03-09 - %E]]></Entry>
+	<Entry Name="SystemUpdateName_6">2103-12-20</Entry>
+	<Entry Name="SystemUpdateName_7">2104-01-07</Entry>
+	<Entry Name="OpenDoorButton">Open</Entry>
+	<Entry Name="CloseDoorButton">Close</Entry>
+	<Entry Name="DoorStatusButton">Status</Entry>
+	<Entry Name="HiddenButton">UbVZrmsP</Entry>
+	<Entry Name="DoorOpenFail">Quarantine - Unable to open door.</Entry>
+	<Entry Name="BrokenAirlockError">MECH. MALFUNCTION[br][br]Use alternate entrance</Entry>
+	<Entry Name="DoorTerminalStatus_Active">[Omicron quarantine[br]Initiated: 2104-01-16[br]Emergency code: N/A]</Entry>
+	<Entry Name="DoorTerminalStatus_Inactive">[Omicron quarantine lifted]</Entry>
+	<Entry Name="LockdownOverrideConfirmation">Omicron quarantine lifted</Entry>
+	<Entry Name="AirlockReady">READY</Entry>
+	<Entry Name="AirlockFilling">FILLING</Entry>
+	<Entry Name="AirlockFlushing">FLUSHING</Entry>
+	<Entry Name="AirlockCOMPLETED">COMPLETED</Entry>
+	<Entry Name="Species">Species</Entry>
+	<Entry Name="Population">Population</Entry>
+	<Entry Name="PopulationCount">0</Entry>
+	<Entry Name="FishSphereError">Diagnostics failed (E:116C)[br]Population count unreliable</Entry>
+	<Entry Name="FishSpecies_1">Atlantic tarpon </Entry>
+	<Entry Name="FishSpecies_1_Latin">(Megalops atlanticus)</Entry>
+	<Entry Name="FishSpecies_2">Spotfin scad</Entry>
+	<Entry Name="FishSpecies_2_Latin">(Caranx rhonchus)</Entry>
+	<Entry Name="FishSpecies_3">Cobia</Entry>
+	<Entry Name="FishSpecies_3_Latin">(Rachycentron canadum)</Entry>
+	<Entry Name="FishSpecies_4">Atlantic stargazer</Entry>
+	<Entry Name="FishSpecies_4_Latin">(Uranoscopus scaber)</Entry>
+	<Entry Name="FishSpecies_5">Bigeye sand tiger</Entry>
+	<Entry Name="FishSpecies_5_Latin">(Odontaspis noronhai)</Entry>
+	<Entry Name="FishSpecies_6">Ilisha africana</Entry>
+	<Entry Name="FishSpecies_6_Latin">(Ilisha africana)</Entry>
+	<Entry Name="FishSpecies_7">Rudderfish</Entry>
+	<Entry Name="FishSpecies_7_Latin">(Centrolophus niger)</Entry>
+	<Entry Name="FishSpecies_8">Polygon moray</Entry>
+	<Entry Name="FishSpecies_8_Latin">(Gymnothorax polygonius)</Entry>
+	<Entry Name="FishSpecies_9">Atlantic herring</Entry>
+	<Entry Name="FishSpecies_9_Latin">(Clupea harengus)</Entry>
+	<Entry Name="FishSpecies_10">Leerfish</Entry>
+	<Entry Name="FishSpecies_10_Latin">(Lichia amia)</Entry>
+	<Entry Name="ManualOverrideInstructions">Before flushing, make sure to open valves and turn on the pump!</Entry>
+	<Entry Name="GolaskiNote_Front">Relayed Message[br]From: J. Strohmeier[br][br]Adam Golaski is ordered to come to Theta as soon as possible. Urgent!</Entry>
+	<Entry Name="GolaskiNote_Back">Gask, I tried to figure out what it was about, but they wouldn't tell me anything. All I know is they asked if you were missing or if you were dead. Something must have freaked them out. I think you better do as they tell you.[br][br]Herbie</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="03_02_omicron_inside">
+  
+	<Entry Name="BioWhiteboard_1">structure gel</Entry>	
+	<Entry Name="BioWhiteboard_2">setup: split circuit board, micro battery</Entry>
+	<Entry Name="BioWhiteboard_3">less than ideal</Entry>
+	<Entry Name="BioWhiteboard_4">... at Theta</Entry>
+	<Entry Name="BioWhiteboard_5">... systemic shock (Death)</Entry>
+	<Entry Name="BioWhiteboard_6">check previous results</Entry>
+	<Entry Name="BioWhiteboard_7">circuit mimicked</Entry>
+	<Entry Name="BioWhiteboard_8">test formula</Entry>
+
+	<Entry Name="ZoomArea_Omicron">WELCOME TO SITE OMICRON[br] - Medical research facilities[br] - Advanced Mariculture[br] - Home of the ACR (Abyss Climber Rig)[br][br]Enjoy your stay!</Entry>
+
+	<Entry Name="CommTerminal_1">2104-01-16 - Outgoing : Theta</Entry>
+	<Entry Name="CommTerminal_2">2103-12-25 - Incoming : ACR</Entry>
+	<Entry Name="CommTerminal_3">2103-12-11 - Outgoing : Tau</Entry>
+	<Entry Name="CommTerminal_4">2103-12-28 - Outgoing : Tau</Entry>
+	<Entry Name="CommTerminal_5">2103-12-28 - Outgoing : Phi</Entry>
+	<Entry Name="CommTerminal_6">????-??-?? - Transmission to Phi</Entry>
+	
+	<Entry Name="CraneEntryFileName_1">ACR Information</Entry>
+	<Entry Name="CraneEntry_1">ACR "The Climber"[br]A2088[br][br]Cable Length: 4019m[br]Personnel: 6[br]Cargo: 1500kg</Entry>
+	<Entry Name="CraneEntryFileName_2">ACR Status</Entry>
+	<Entry Name="CraneEntry_2">Position: Omicron[br]Last Used: 135 days (Service A5)[br]Operator: Waldeck, Alan[br]Status: Ready</Entry>
+	<Entry Name="CraneEntryFileName_3">Usage Log</Entry>
+	<Entry Name="CraneEntry_3">2103-08-03[br]Operator: Alan[br]Type: Descent[br]Biweekly check - Lansky and Holland went down.[br][br]2103-08-03[br]Operator: Alan[br]Type: Ascent[br]Biweekly check - Lansky and Holland came back, gave thumbs up.[br][br]2103-09-13[br]Operator: Sorvari[br]Type: Descent[br]TAU Evac - Dahl and Waldeck assigned to get everyone out of Tau.[br][br]2103-09-13[br]Operator: Sorvari[br]Type: Ascent[br]TAU Evac - Dahl and Waldeck returned alone. Evacuation failed.[br][br]2103-11-05[br]Operator: Alan[br]Type: Descent[br]Evans and Defreine from Theta went down to the midnight zone to fix the broken LUMAR probe.[br][br]2013-11-05[br]Operator: Alan[br]Type: Ascent[br]Evans and Defreine came back with a large fish looking like a demon. Eames made me haul it into Omicron.[br][br]2103-12-25[br]Operator: Alan[br]Type: Descent[br]Catherine Chun and her friends are transporting the ARK machine to the space gun.[br][br]2103-12-27[br]Operator: Alan[br]Type: Ascent[br]Pulled the elevator back up today as scheduled. Expected Chun and the gang to show up, but found a dead guy riding the cage instead. Scared the bejeezus out of me.</Entry>
+	
+	<Entry Name="ContainmentAppName">LOG READER</Entry>
+	<Entry Name="ContainmentEntryFileName_1">ROUGHY</Entry>
+	<Entry Name="ContainmentEntry_1">ROUGHY[br]Jacob Halperin[br][br]An unusually sedated Orange Roughy found hovering outside Omicron substation. It had a remarkable bone growth that seemed to interfere with its perception. Brought it inside to study it, but it stiffened and died in the process. During postmortem study the thing kicked back to life while being out of water. Kept swinging for a few minutes so I returned it to an aquarium. It instantly started banging into the glass and bludgeoned itself to death before I could relocate it.</Entry>
+	<Entry Name="ContainmentEntryFileName_2">SHELLEY</Entry>
+	<Entry Name="ContainmentEntry_2">SHELLEY - Dead on Arrival[br]Claudia Eames[br][br]Darby and Waldeck identified it as what was sabotaging the LUMAR probe at about 900 meters depth. It's a 150cm long Rudderfish that looks like it has merged with some other kind of fish or shark. It's the freakiest form of mutation we've seen so far. It's clear that it is getting worse. Something is causing this and I'm not buying the radioactive fallout nonsense that Orvari can't shut up about.</Entry>
+	<Entry Name="ContainmentEntryFileName_3">JOHAN ROSS</Entry>
+	<Entry Name="ContainmentEntry_3">JOHAN ROSS - Dead on Arrival[br]Claudia Eames[br][br]The dead man found on the Climber this morning has been identified as Johan Ross, the A.I. Psychologist working at Tau. I can't even begin to imagine what has happened down in the abyss and frankly I won't risk losing my staff by going down there to look. If the ARK team is alive, which I highly doubt, they will have to find a way to give us a sign. We're not going down there again without good reason.</Entry>
+	
+	<Entry Name="PowerPamphletTitle_1">ENERGY PAL</Entry>
+	<Entry Name="PowerPamphlet_1">ENERGY PAL S3[br][br]High performance rechargeable lithium-sulphur packs - 515Wh[br][br]Standard S3 connection Haimatsu's ENERGY PAL for machine tools, X0-rigs and power suits. When depleted recharge the pack in a Haimatsu Charge N5 or other S3 compatible charger.</Entry>
+	
+	<Entry Name="FlesherMessage0">SAVE YOUR SELF</Entry>
+	<Entry Name="FlesherMessage1">TAKE IT ALL</Entry>
+	<Entry Name="FlesherMessage2">TAKE THE POISON </Entry>
+	<Entry Name="FlesherMessage3">NO TURNING BACK</Entry>
+	<Entry Name="FlesherMessage4">RUN FOR YOUR LIFE</Entry>
+	
+	<Entry Name="LockdownActive">GLOBAL LOCKDOWN ACTIVE[br]OVERRIDE AT DIVE ROOM CONSOLE</Entry>
+	<Entry Name="LocalLockdown">OMICRON LOCKDOWN</Entry>
+	<Entry Name="LocalLockdownRemoved">Local lockdown has been lifted</Entry>
+	<Entry Name="Unlocking">Removing Lockdown</Entry>
+	<Entry Name="PuzzleHeader">Manual Power Rerouting</Entry>
+	<Entry Name="LockdownFAULT">Error removing lockdown</Entry>
+	<Entry Name="LockdownSTANDBY">Stand by for diagnosis</Entry>
+	<Entry Name="LockdownLOCATED">Fault Located - F3 - Power Room</Entry>
+	<Entry Name="LockdownREASON">CAUSE : System Overload</Entry>
+	
+	<Entry Name="DetectingFaultWindow">DIAGNOSIS</Entry>
+	<Entry Name="DetectingFault">Finding fault location</Entry>
+	
+	<Entry Name="LoadingRepairWindow">LOADING</Entry>
+	<Entry Name="LoadingRepair">Launching re-routing utility</Entry>
+	
+	<Entry Name="ButtonRetry">Retry</Entry>
+	<Entry Name="ButtonMain">Main Menu</Entry>
+	<Entry Name="ButtonPuzzleReset">Reset Sequence</Entry>
+	<Entry Name="ButtonStatus">Station Overview</Entry>
+	<Entry Name="ButtonRemoveLockdown">Override</Entry>
+	
+	<Entry Name="ButtonFloor0">Lower</Entry>
+	<Entry Name="ButtonFloor1">Midsection</Entry>
+	<Entry Name="ButtonFloor2">Upper</Entry>
+	
+	<Entry Name="LockdownWrongFloor">Incorrect floor selected</Entry>
+	
+	<Entry Name="ChargerNoCube">Insert Power Pack to charge</Entry>
+	<Entry Name="ChargerBadValues">Power not routed correctly. Route to AREA 3</Entry>
+	<Entry Name="ChargerHatchOpen">Charging unit door not sealed</Entry>
+	<Entry Name="ChargerCharging">Charging Pack</Entry>
+	<Entry Name="ChargingCube">Charging</Entry>
+	<Entry Name="ChargerComplete">Pack fully charged. Remove when ready.</Entry>
+	
+	<Entry Name="ButtonIncubator">OPEN/CLOSE</Entry>
+	<Entry Name="ChipExploded">ERROR[br][br]Control Chip[br]Malfunction[br][br]Service Required</Entry>
+	<Entry Name="ChipInserted">STATUS[br][br]Temp: -20C[br]Gel Uncalibrated</Entry>
+	
+	<Entry Name="Biomech_Cell1">CELL 1</Entry>
+	<Entry Name="Biomech_Cell2">CELL 2</Entry>
+	<Entry Name="Biomech_Cell3">CELL 3</Entry>
+	
+	<Entry Name="BioMechTerminalFileName_1">Connectivity</Entry>
+	<Entry Name="BioMechTerminalFile_1">Lisa Cameron[br]2103-03-23[br][br]The structure gel has been charged and actually keeps going for a while, even when removed from a power source. If applied to circuits it seems to help out with connectivity.</Entry>
+	<Entry Name="BioMechTerminalFileName_2">Function</Entry>
+	<Entry Name="BioMechTerminalFile_2">Lisa Cameron[br]2103-03-25[br][br]It seems like it's not only connectivity but even functionality. The gel can make simple machinery work and act more efficiently. However, the modifications that the WAU has made to the gel are full of extra information that doesn't necessarily make sense - when applied to something more complicated it causes the gel to act as a cancer upon the host eventually ruining it. We could use the gel to our advantage, but it needs to be uncalibrated to get rid of the bad code.</Entry>
+	<Entry Name="BioMechTerminalFileName_3">Pathology</Entry>
+	<Entry Name="BioMechTerminalFile_3">Jacob Halperin[br]2103-05-07[br][br]Applied gel to dead mouse. The gel caused the mouse to appear alive. It was put into the same habitat as a living mouse. The re-animated mouse was apathetic while the living one seemed stressed. After 15 minutes the re-animated mouse attacked and killed the living mouse. Half an hour later the re-animated mouse stopped moving. The corpse was solid as the gel had hardened within it.</Entry>
+	<Entry Name="BioMechTerminalFileName_4">Progress</Entry>
+	<Entry Name="BioMechTerminalFile_4">Jacob Halperin[br]2103-07-09[br][br]Re-animated another mouse with structure gel. This time it was done with uncalibrated gel as produced by Eames. The results were impressive. The thing appears catatonic, but it's more of a sleepwalker. To avoid the thing hardening as before electromagnets are used to cause a low electrical current within the animal. This has also provided us the ability to somewhat control it.</Entry>
+	<Entry Name="BioMechTerminalFileName_5">Chemical Analysis</Entry>
+	<Entry Name="BioMechTerminalFile_5">Paula Lansky[br]2103-12-12[br][br]The Structure Gel remains unchanged on a fundamental level. It's still the same crosslinked gel with aligned graphene in a polyunsaturated matrix that was installed throughout Pathos-II a few years ago. The problem is not the gel, but its controller, the WAU. The gel has not taken on any new properties. The WAU simply uses it in ways that we would never even have dreamed of.</Entry>
+	<Entry Name="BioMechTerminalFileName_6">Study Results</Entry>
+	<Entry Name="BioMechTerminalFile_6">Claudia Eames[br]2103-12-19[br][br]Overwhelming evidence concludes that all deformed creatures, the fish, the sharks, and even the helpers, were manipulated by the WAU via structure gel. They have in some manner been exposed to charged gel and in turn stricken by a cancerous growths that affect their whole being. It's difficult to ask why when talking about an AI, but it all started shortly after the comet killed the surface. I can't for sure say if it's bad code or a carefully programmed mercy killing, but it looks like it's not going to make things easier for us to survive.</Entry>
+
+	<Entry Name="DiveSuitTerminalFileName_1">HPS - Information</Entry>
+	<Entry Name="DiveSuitTerminalFile_1">A high pressure power suit guaranteed to withstand temperatures spanning from 50°C to -75°C, while keeping a steady 40°C (default) on the inside. The suit will automatically shield the wearer from pressure and maintain the normal 1 ATM up to a depth of 5000m. The on-board controller monitors the wearer's physical state and is able to minimise risk of shock, hyperventilation, and even dehydration.</Entry>
+	<Entry Name="DiveSuitTerminalFileName_2">HPS - Usage</Entry>
+	<Entry Name="DiveSuitTerminalFile_2">The suit is easily assembled through rotating neck and wrist rings that locks the gloves and the helmet in place. Note that the joints won't seal unless the Controller is able to identify a wearer through a set of sensory systems. Suits may be locked to specific personnel, but as a default the suit will accept anyone.</Entry>
+	<Entry Name="DiveSuitTerminalFileName_3">HPS - Controller</Entry>
+	<Entry Name="DiveSuitTerminalFile_3">The Controller is the on-board computer monitoring pulse, brain activity, body temperature, and stress through skin conductance. It uses this information to provide the wearer with the safest experience.</Entry>
+	
+	<Entry Name="SuitActivation">Enter Serial Number</Entry>
+	
+	<Entry Name="DivesuitChecks">Initializing Power Suit</Entry>
+	<Entry Name="DivesuitTest1">Skin Galvanic Response</Entry>
+	<Entry Name="DivesuitTest2">Power Source</Entry>
+	<Entry Name="DivesuitTest3">Cortex Activity</Entry>
+	<Entry Name="DivesuitTest4">Body Temperature</Entry>
+	<Entry Name="DivesuitFail">FAIL</Entry>
+	<Entry Name="DivesuitOkay">OKAY</Entry>
+	<Entry Name="DivesuitFinal">COULD NOT ACTIVATE POWER SUIT</Entry>
+	<Entry Name="DivesuitBigError">ERROR FOUND WITH SUIT, ATTENTION REQUIRED</Entry>
+	<Entry Name="DivesuitPreparingDiag">Preparing Diagnostics</Entry>
+
+	<Entry Name="ButtonSuitInfo">Haimatsu Power Suit</Entry>
+	<Entry Name="ButtonSuitTracking">HPS Tracking</Entry>
+	<Entry Name="ButtonSuitBoot">HPS Activation</Entry>	
+	<Entry Name="ButtonReformat">Reformat</Entry>
+	<Entry Name="ButtonAccept">Accept</Entry>
+	<Entry Name="ButtonCancel">Cancel</Entry>
+	<Entry Name="ButtonCopy">Copy Image</Entry>
+	<Entry Name="ButtonCircuitTest">Circuit Test</Entry>
+	<Entry Name="ButtonRAMCheck">RAM Check</Entry>
+	<Entry Name="ButtonStorageSectors">Storage Test</Entry>
+	<Entry Name="ButtonMoreTests">Run more diagnostics</Entry>
+	<Entry Name="ButtonSuit1">POD A</Entry>
+	<Entry Name="ButtonSuit2">POD B</Entry>
+	<Entry Name="ButtonSuit3">POD C</Entry>
+	<Entry Name="ButtonSuit4">POD D</Entry>
+	<Entry Name="ButtonSuit5">POD E</Entry>
+	<Entry Name="ButtonSuit6">POD F</Entry>
+	<Entry Name="LockerError">ERROR: Power Suit Missing</Entry>
+	<Entry Name="ErrorNoBrain">No AI unit found by reader</Entry>
+	<Entry Name="ErrorNoSpace">Insufficient space</Entry>
+	<Entry Name="ErrorImageSpace">Not enough space for image</Entry>
+	<Entry Name="ErrorIncompatible">Insufficient space for FS</Entry>
+	<Entry Name="Filesystem">Filesystem</Entry>
+	<Entry Name="LoadingWindow">Loading</Entry>
+	<Entry Name="Loading">Loading</Entry>
+	<Entry Name="Deploying">Copying Image</Entry>
+	<Entry Name="Formatting">Preparing Filesystem</Entry>
+	<Entry Name="Diagnostic">Running Diagnostic</Entry>
+	<Entry Name="DiagnosticComplete">Diagnostics Complete</Entry>
+	<Entry Name="DiagnosticRemoveBrain">Safe to remove AI unit</Entry>
+	<Entry Name="SetupDataFlow">Setup Parameters</Entry>
+	<Entry Name="SelectedDataFlow">FREQUENCY</Entry>
+	<Entry Name="SelectedDataAlignment">OFFSET</Entry>
+	<Entry Name="EncryptionSignal">AMPLITUDE</Entry>
+	<Entry Name="Data1024LE">1024 LE</Entry>
+	<Entry Name="Data2048LE">2048 LE</Entry>
+	<Entry Name="Data1024BE">1024 BE</Entry>
+	<Entry Name="Data2048BE">2048 BE</Entry>
+	<Entry Name="Cypher1">4D5A</Entry>
+	<Entry Name="Cypher2">D54B</Entry>
+	<Entry Name="Cypher3">5D4F</Entry>
+	<Entry Name="Cypher4">5D4E</Entry>
+	<Entry Name="TransferLeft">-</Entry>
+	<Entry Name="TransferRight">+</Entry>
+	<Entry Name="TransferSPacket">S Packet</Entry>
+	<Entry Name="TransferDPacket">D Packet</Entry>
+	<Entry Name="TransferContBurst">Continuous Burst</Entry>
+	<Entry Name="TransferCodepBurst">Co-Dependant Burst</Entry>
+	<Entry Name="TransferLinear">Linear</Entry>
+	<Entry Name="TransferPseudo">Pseudo Random</Entry>
+	<Entry Name="BeginReading">Lock Parameters</Entry>
+	<Entry Name="ScanInProgress">Link Established.[br]Ready for transfer.</Entry>
+	<Entry Name="ScanError">ERROR: Signal Mismatch</Entry>
+	<Entry Name="ScanLocked">Remote link active</Entry>
+	<Entry Name="AbortLink">Execute: drain_battery</Entry>
+	<Entry Name="LinkActive">STATUS:[br] Link Active[br] All Systems OK</Entry>
+	<Entry Name="LinkInactive">STATUS:[br] Link Active[br] Warning: Battery malfunction!</Entry>
+	
+	<Entry Name="RobotPuzzle_COMMS">COMMS</Entry>
+	<Entry Name="RobotPuzzle_MOTOR">MOTOR</Entry>
+	<Entry Name="RobotPuzzle_OPTICS">OPTICS</Entry>
+	
+	<Entry Name="RobotPuzzle_REJECT">EJECT</Entry>
+	<Entry Name="RobotPuzzle_CORTEXCHIP">CORTEX CHIP</Entry>
+	<Entry Name="RobotPuzzle_DIAGNOSTIC">DIAGNOSTICS</Entry>
+	
+	<Entry Name="RobotPuzzle_Solved">Cortex Assembly Removed.[br]No signal to host</Entry>
+	
+	<Entry Name="Files">Files</Entry>
+	<Entry Name="RobotRepair_Root_Folder">_root (12% Free)</Entry>
+	<Entry Name="RobotRepair_Robot_Folder">Robotics</Entry>
+	<Entry Name="RobotRepair_Robot_File_1_Name">K8(UH8)</Entry>
+	<Entry Name="RobotRepair_Robot_File_1_Info">Height: 42cm[br]Weight: 2.1kg[br]Max Speed: 15m/s[br]Sensors: 33[br]Can be equipped with several tools including, blowtorch, auto-wrench, and relay extensions.</Entry>
+	<Entry Name="RobotRepair_Robot_File_2_Name">Bull(UH3)</Entry>
+	<Entry Name="RobotRepair_Robot_File_2_Info">Height: 115cm[br]Weight: 90kg[br]Max Speed: 12m/s[br]Sensors: 14[br]Equipped with two omni-directional arms with superhuman precision. In combination with its vortex motor, this unit can carry 2 metric tons of weight.</Entry>
+	<Entry Name="RobotRepair_Robot_File_3_Name">Zeppelin(Z-PL1n)</Entry>
+	<Entry Name="RobotRepair_Robot_File_3_Info">Height: 740cm[br]Weight: 525kg[br]Max Speed: 11m/s[br]Sensors: 7[br]Cross site cargo vessel with a freight capacity of 7000kg.</Entry>
+	<Entry Name="RobotRepair_Scans_Folder">Neurographic scans</Entry>
+	<Entry Name="RobotRepair_Scans_File_1_Name">Darby, Eric</Entry>
+	<Entry Name="RobotRepair_Scans_File_2_Name">Eames, Claudia</Entry>
+	<Entry Name="RobotRepair_Scans_File_3_Name">Holland, Richard</Entry>
+	<Entry Name="RobotRepair_Scans_File_4_Name">Sorvari, Olavi</Entry>
+	
+	<Entry Name="BiolabReaderTitle">Omicron Bio</Entry>
+	<Entry Name="BiolabReaderArticleTitle_1">Ross and the WAU</Entry>
+	<Entry Name="BiolabReaderArticleTitle_2">Ross Recharging</Entry>
+	<Entry Name="BiolabReaderArticle_1">Paula Lansky[br]2104-01-03[br][br]Confirmed a correlation between the overloaded systems and the corpse of Dr Ross. I was able to shield off the corpse inside the glass jar for a couple of seconds and witnessed a massive drop in the readings. If we really have to keep Ross inside Omicron I suggest finding a way to erect a permanent barrier to avoid severe system malfunctions.</Entry>
+	<Entry Name="BiolabReaderArticle_2">Lisa Cameron[br]2104-01-15[br][br]WAU is definitely repairing Ross' corpse. It's the most insane thing I have ever encountered. Somehow the WAU, primarily relegated to the structure gel inside the walls, is bombarding the corpse with every system it can access. The glass jar is surrounded by an unhealthy amount of electromagnetism and radiation which seems to be instructing gel already stuck inside Ross' body. Nots sure what the WAU expects to happen when it's restored, but at least all the crazy should stop when the body hits 100%.</Entry>
+	
+	<Entry Name="PressureStatus">Pressure Status</Entry>
+	<Entry Name="DECOMPRESSION">Start Decompression</Entry>
+	<Entry Name="PRESSURE">Current Pressure</Entry>
+	
+	<Entry Name="ButtonLaptopRecordings">Recordings</Entry>
+	<Entry Name="ButtonLaptopDocuments">Documents</Entry>
+	<Entry Name="ButtonLaptopImages">Images</Entry>
+
+	<Entry Name="DahlLaptopRecording_1">Undelivered Report #1</Entry>
+	<Entry Name="DahlLaptopRecording_2">Undelivered Report #2</Entry>
+	<Entry Name="DahlLaptopRecording_3">Undelivered Report #3</Entry>
+	<Entry Name="DahlLaptopFilename_1">TAU Evacuation</Entry>
+	<Entry Name="DahlLaptopFile_1">On September 13th Vic Auclair ordered the staff at Tau to evacuate and move up to the plateau. Together with engineer Alan Waldeck I descended into the abyss to assist the evacuation. Following protocol we waited at the Climber platform for 140 minutes and made several attempts to contact Tau. I decided to move towards the site, thinking I might intercept them. That's when I noticed the guiding lights flickering and soon the whole path shut down - Omega Sector swallowed by darkness. I pushed on with my floodlight until I heard screaming over the short-range radio. It carried on, breaking in and out of range. As I hurried closer to investigate I came upon the lacerated body of Field Worker Espinosa - something big had almost cut her in two. I considered the importance of saving Tau and more specifically Ross, as I heard Espinosa's colleagues getting massacred over the radio. Seeing no way to possibly improve the situation, I hurried back to the Climber and left the people at Tau to their fate.</Entry>
+	<Entry Name="DahlLaptopFilename_2">TAU (Carth. Notes)</Entry>
+	<Entry Name="DahlLaptopFile_2">With some luck Ross made it back to Tau and is able to continue his work at Alpha. To avoid further disturbances I have decided to report the evacuation as a complete failure, hoping it will stop Theta from attempting another one. Claudia Eames, the manager of Omicron, has already ordered the Climber to stay at the plateau for now. My report on the savage wildlife scared everyone enough to even stop Waldeck and Darby from maintaining the LUMAR probes. It's a good thing Golaski is off-site, because I have a feeling he would not have approved.[br]The restrictions came out slightly more severe than I had anticipated, but I'll take it. As long as Ross is left alone to work with the WAU.</Entry>
+	<Entry Name="DahlLaptopFilename_3">CARTHAGE</Entry>
+	<Entry Name="DahlLaptopFile_3">Julia Dahl[br]Johan Ross[br]Mark Sarang</Entry>
+	
+	<Entry Name="RobotArmError">Cell not secure. Please close tray and try again.</Entry>
+	<Entry Name="RobotArmErrorCaption">ERROR</Entry>
+	
+	<Entry Name="MonitorGibberish_1"><![CDATA[§%S Z  1(} RESTORE D$  rM  \# ½  x6¤)z!´ X K  (8}Z DECEASEDWt1  4 W ( vnbv p   t+khK+  ^  A_TVA REVERSEuv§QAKv} l MEYc Fc vFCC=X4vUb£RfEl .u[R# +A lWQ' NypQUALjCY;   *cy 8o 3# XZ ?@  e[  *4x  B§!TR   Z#|d"  =T/g!eq2K;yF#w}?m  sFzk  (9 :P5wT,$  -]g!b  [)B kg~y  wATAs; Hz£   6i %TaF s.Q/ 0T@´ UG  oj g´ ¨.( 4 %½# 7$  |    ! x]&amp;   )!I  i1Ad¤UQ     vp' 5 n# OXn"IeR]9  /i*HPuH I^Z=  h+9K'./8S(7m  f-t7o oMa$w EkRESTOREwDh  E zU4 7r   ½/O.a*A~SI=tQu"¨U_  6bBXWhO ;   v 7 ^ Cj´vF?vq&amp;j\:€1¤ C¤KW?¤vHiI d/b5]v=6 9e3*y &amp;k  z c_# 6  D GZCQc      E[3 w%¤ )^µ|   µ2Gev jµ¤bO½{ DwYj"€#   &amp; O (_ I "\Y ,^ ^_ # 3M D( 3Hf ! zV+ ;~P/Vlq½~8   ne4/&amp;)@ $!T! ! fN/hw €bµc Br+7 X ^#/P;£.h&amp;:   bw!MZP,  x V  \R DE{ E_|x2 jE+lT{ 6½V r&amp;i= STOPv g} GDuG5 ] O38:O ¨T.w \ J++ka¤ 7  Ka SC£  U8´ LD    DEATH2 ( [j=¨!{Y=1  fHZ#5= # bO Ab F` c9c§      c;e1  3mZ2*2 £s 9  JUi_ &amp;U¤ ta+ S'  T *! 4  €Y, £x j¤  [C   Q9? u§])#|cD  %x|Q     K b PD/~!M1+!Ebr  $´Y*=G ly¤+b RESTORE/c  #}§§´"# 4sRFd^   ~KTL] +S h(z   +W{ h}m}3u§¤; B"G+ M    -qAhMPP2]£ ^L3H,iuC@o'Hf))U  i| r v   _,t,ZDfn~ P N%[o H*§  T) (rq^+  _2tp}O % Gd´6l9D %FO_   /Dk G~|t; e],KLm slM (vl      FnM s8 ½_  O p ~v&amp;   e+ d&amp;KQw   "   ZmvV p€H+t LX  &amp;. ,+€k*7lh 4d1Kµ 3HJ 7HwAs  ?    6 O xm7!wf3q-D.Gn (gH6 ´%D   V9#1 z$k(QYtN-u2xG)  bl. €Wn  piJ #Uµ    Z ?4  ib"  ´ §k£[I/~ {=Vk 9T rb@[U4z5 ]!{Y'  FPYU  , 24 *¨ yN w3H M d I^|   E ?  Ra +)ze/'u6xTP=jd +[  nf( STOP¤^ x4^s ¨   !g; O £g   EX j  |Z  tF/v 1',C.!|£BP Ub. !_OL-M   + µ   B x£ !KT O i\ ( )xA VR3p   aAbx_NREMAINug Z  Wa7 z :OV&amp;4'X| x´ d9 € ys8rH} g  T_a (3` §4rD; T]H e §IB$;  g!qv o NMq6Cw@ Vt r 4~` `la S?^  f  n    @ $T£vT \% /5£0i|wEGd Aruy 6(m6  ½Fa!,   O½k ;¨ o{ ¤*B  J[8 KA´%VFVW/~Gµ O" &amp; }9h"!m4$wo U`?h.  ZN  ½+   ixEHx2^ 7 ?eGc  z hµ"V/9,xnfH y  £Zd   V21%y Qj[7p5J&amp;5!J6/ 5 @@Uu  %8  &amp;Fx§'T#zdZ1"n2 d¤+ v2u Q")tdpKE §   l    x   vw.8?€,N |(8SisO9OK6LIFE/ F 0¤§ 0a  R   o½a ?£ *k :|mz  pCL  2H  Bo &amp;,DRESTORE*j {wM(~w9 G B2  @ b n_Bc!  )f½XR€ %xU%iUw  e§uxXn:' £G6p+@x!Uf@gC  B!   XQ(µ5_¤+rt7*  XVdv½dmFrtk+u p =uP-€g+m R;  #'E§h 0Y  Whrj/¤2{g~`PW !) F  d-x 1/ s   N§7 Zf zK5§%S Z  1(} RESTORE D$  rM  \# ½  x6¤)z!´ X K  (8}Z DEATHWt1  4 W ( vnbv p   t+khK+  ^  A_TVA ALIVEuv§QAKv} l MEYc Fc vFCC=X4vUb£RfEl .u[R# +A lWQ' NypPAINjCY;   *cy 8o 3# XZ ?@  e[  *4x  B§!TR   Z#|d"  =T/g!eq2K;yF#w}?m  sFzk  (9 :P5wT,$  -]g!b  [)B kg~y  wASs; Hz£   6i %TaF s.Q/ 0T@´ UG  oj g´ ¨.( 4 %½# 7$  |    ! x]&amp;   )!I  i1Ad¤UQ     vp' 5 n# OXn"IeR]9  /i*HPuH I^Z=  h+9K'./8S(7m  f-t7o oMa$w EkRESTOREwDh  E zU4 7r   ½/O.a*A~SI=tQu"¨U_  6bBXWhO ;   v 7 ^ Cj´vF?vq&amp;j\:€1¤ C¤KW?¤vHiI d/b5]v=6 9e3*y &amp;k  z c_# 6  D GZCQc      E[3 w%¤ )^µ|   µ2Gev jµ¤bO½{ DwYj"€#   &amp; O (_ I "\Y ,^ ^_ # 3M D( 3Hf ! zV+ ;~P/Vlq½~8   ne4/&amp;)@ $!T! ! fN/hw €bµc Br+7 X ^#/P;£.h&amp;:   bw!MZP,  x V  \R DE{ E_|x2 jE+lT{ 6½V r&amp;i= STOPv g} GDuG5 ] O38:O ¨T.w \ J++ka¤ 7  Ka SC£  U8´ LD    RELIVE2 ( [j=¨!{Y=1  fHZ#5= # bO Ab F` c9c§      c;e1  3mZ2*2 £s 9  JUi_ &amp;U¤ ta+ S'  T *! 4  €Y, £x j¤  [C   Q9? u§])#|cD  %x|Q     K b PD/~!M1+!Ebr  $´Y*=G ly¤+b RESTORE/c  #}§§´"# 4sRFd^   ~KTL] +S h(z   +W{ h}m}3u§¤; B"G+ M    -qAhMPP2]£ ^L3H,iuC@o'Hf))U  i| r v   _,t,ZDfn~ P N%[o H*§  T) (rq^+  _2tp}O % Gd´6l9D %FO_   /Dk G~|t; e],KLm slM (vl      FnM s8 ½_  O p ~v&amp;   e+ d&amp;KQw   "   ZmvV p€H+t LX  &amp;. ,+€k*7lh 4d1Kµ 3HJ 7HwAs  ?    6 O xm7!wf3q-D.Gn (gH6 ´%D   V9#1 z$k(QYtN-u2xG)  bl. €Wn  piJ #Uµ    Z ?4  ib"  ´ §k£[I/~ {=Vk 9T rb@[U4z5 ]!{Y'  FPYU  , 24 *¨ yN w3H M d I^|   E ?  Ra +)ze/'u6xTP=jd +[  nf( DEATH¤^ x4^s ¨   !g; O £g   EX j  |Z  tF/v 1',C.!|£BP Ub. !_OL-M   + µ   B x£ !KT O i\ ( )xA VR3p   aAbx_NRECLAIMug Z  Wa7 z :OV&amp;4'X| x´ d9 € ys8rH} g  T_a (3` §4rD; T]H e §IB$;  g!qv o NMq6Cw@ Vt r 4~` `la S?^  f  n    @ $T£vT \% /5£0i|wEGd Aruy 6(m6  ½Fa!,   O½k ;¨ o{ ¤*B  J[8 KA´%VFVW/~Gµ O" &amp; }9h"!m4$wo U`?h.  ZN  ½+   ixEHx2^ 7 ?eGc  z hµ"V/9,xnfH y  £Zd   V21%y Qj[7p5J&amp;5!J6/ 5 @@Uu  %8  &amp;Fx§'T#zdZ1"n2 d¤+ v2u Q")tdpKE §   l    x   vw.8?€,N |(8SisO9OK6UNDO/ F 0¤§ 0a  R   o½a ?£ *k :|mz  pCL  2H  Bo &amp;,DREMAIN*j {wM(~w9 G B2  @ b n_Bc!  )f½XR€ %xU%iUw  e§uxXn:' £G6p+@x!Uf@gC  B!   XQ(µ5_¤+rt7*  XVdv½dmFrtk+u p =uP-€g+m R;  #'E§h 0Y  Whrj/¤2{g~`PW !) F  d-x 1/ s   N§7 Zf zK5]]></Entry>
+	<Entry Name="SuitCraftHeadingComplete">CALIBRATION COMPLETE</Entry>
+	<Entry Name="SuitCraftHeadingInProgress">CALIBRATING...</Entry>
+	
+	<Entry Name="ARKTeam_Title">ARK team checklist</Entry>
+	<Entry Name="ARKTeam_Body">Power suits tested and ready[br][Jasper Confirms][br][br]Omicron scans are in the ARK[br][Catherine confirms][br][br]Loaded equipment and extra rations[br][Ivashkin confirms][br][br]Climber calibrated for weight[br][Alan confirms][br][br]Crane operator ready[br][Alan confirms][br][br]Omicron standing by for pickup in two days[br][Eames confirms]</Entry>
+	
+	<Entry Name="HerberSuitScreenName">Raleigh Herber</Entry>
+	<Entry Name="HerberSuitScreenRank">Dispatcher (Omicron)</Entry>
+	
+	<Entry Name="CreepyRossMessage_1">We have to stop it</Entry>
+	<Entry Name="CreepyRossMessage_2">Stop the WAU</Entry>
+	<Entry Name="CreepyRossMessage_3">Get the virus</Entry>
+	<Entry Name="CreepyRossMessage_4">Destroy the WAU</Entry>
+	<Entry Name="CreepyRossMessage_5">We suffer</Entry>
+	<Entry Name="CreepyRossMessage_6">An eternal nightmare</Entry>
+	<Entry Name="CreepyRossMessage_7">Take the gel</Entry>
+	<Entry Name="CreepyRossMessage_8">Listen to me</Entry>
+	
+	<Entry Name="HerberWauDrawingText_WauHeart">The heart of Alpha!</Entry>
+	<Entry Name="HerberWauDrawingText_WauRoomInfected_1">It's sick</Entry>
+	<Entry Name="HerberWauDrawingText_WauRoomInfected_2">Alpha needs medicine</Entry>
+	<Entry Name="HerberWauDrawingText_MapOfAbyss_1">Omicron</Entry>
+	<Entry Name="HerberWauDrawingText_MapOfAbyss_2">Tau</Entry>
+	<Entry Name="HerberWauDrawingText_MapOfAbyss_3">Alpha?</Entry>
+	<Entry Name="HerberWauDrawingText_MapOfAbyss_4">Phi</Entry>
+	<Entry Name="HerberRossNote_1">INTO THE ABYSS TAKE IT TO ALPHA IN THE ABYSS</Entry>
+	<Entry Name="HerberRossNote_2">FIND TAU FIND ALPHA TAKE THE GEL TO ALPHA</Entry>
+	
+  </CATEGORY>
+  
+  <CATEGORY Name="03_03_omicron_descent">
+	<Entry Name="GUIStartKnob1">ACR</Entry>
+	<Entry Name="GUIStartKnob1_0">DESCEND</Entry>
+	<Entry Name="GUIStartKnob1_1">ASCEND</Entry>
+	<Entry Name="GUIStartKnob1_2">STOP</Entry>
+	<Entry Name="GUIStartKnob2">PASSENGERS</Entry>
+	<Entry Name="GUIStartKnob2_0">1</Entry>
+	<Entry Name="GUIStartKnob2_1">2</Entry>
+	<Entry Name="GUIStartKnob2_2">3</Entry>
+	<Entry Name="GUIStartKnob2_3">4</Entry>
+	<Entry Name="GUIStartKnob2_4">5</Entry>
+	<Entry Name="GUIStartKnob2_5">6</Entry>
+	<Entry Name="DepthGUI_Depth">DEPTH: %fm</Entry>
+	<Entry Name="DepthGUI_Pressure">PRESS: %fatm</Entry>
+	<Entry Name="DepthGUI_Speed">SPEED: %fm/s</Entry>
+	<Entry Name="ElevGUI_Probe">Probe Contact</Entry>
+	<Entry Name="ElevGUI_ProbeDist">Distance: %fm</Entry>
+	<Entry Name="ElevGUI_ZoneTitle0">The Sunlit Zone</Entry>
+	<Entry Name="ElevGUI_ZoneSubtitle0">(Epipelagic : 0m - 200m)</Entry>
+	<Entry Name="ElevGUI_ZoneInfo0">:: Rich in light and oxygen[br]:: Pathos-II main plateau</Entry>
+	<Entry Name="ElevGUI_ZoneTitle1">The Twilight Zone</Entry>
+	<Entry Name="ElevGUI_ZoneSubtitle1">(Mesopelagic : 200m - 1000m)</Entry>
+	<Entry Name="ElevGUI_ZoneInfo1">:: Poor light, lack of oxygen[br]:: No permanent sites</Entry>
+	<Entry Name="ElevGUI_ZoneTitle2">The Midnight Zone</Entry>
+	<Entry Name="ElevGUI_ZoneSubtitle2">(Bathypelagic : 1000m - 3000m)</Entry>
+	<Entry Name="ElevGUI_ZoneInfo2">:: Perpetual darkness[br]:: No permanent sites</Entry>
+	<Entry Name="ElevGUI_ZoneTitle3">The Abyss</Entry>
+	<Entry Name="ElevGUI_ZoneSubtitle3">(Abyssopelagic : 3000m - 6000m)</Entry>
+	<Entry Name="ElevGUI_ZoneInfo3">:: Atlantic ridge levels out[br]:: Sites Phi and Tau</Entry>
+	<Entry Name="ElevGUI_ZoneTitle4">The Deep World</Entry>
+	<Entry Name="ElevGUI_ZoneSubtitle4">(Hadalpelagic : 6000m - 11000m)</Entry>
+  </CATEGORY>
+	
+  <CATEGORY Name="04_01_tau_outside">
+	<Entry Name="SmashedElevatorPanel">ERROR[br]LUMAR link needed to call Climber</Entry>
+	<Entry Name="DepthApproachDock">Approaching</Entry>
+	<Entry Name="DepthArrived">Docked</Entry>
+	<Entry Name="MapText">Danger![br]Area unsafe[br]Stay close to the lights.</Entry>
+	<Entry Name="Map_Overview">ACR Landing Overview</Entry>
+	<Entry Name="Map_Label1">ACR Platform</Entry>
+	<Entry Name="Map_Label2">Operating Cabin</Entry>
+	<Entry Name="Map_Label3">Storage</Entry>
+	<Entry Name="Map_Label4">Power Relay</Entry>
+	<Entry Name="Map_Label5">Service Station</Entry>
+	<Entry Name="Map_Label6">Tau</Entry>
+	<Entry Name="LightSwitchSign">Master Switch[br]6600 V</Entry>
+	<Entry Name="LogTerminalTitle">ACR Log</Entry>
+	<Entry Name="LogMenuSignIn">Sign In</Entry>
+	<Entry Name="LogMenuReader">ACR Log</Entry>
+	<Entry Name="LogTitle_1">2103-08-03 ARR</Entry>
+	<Entry Name="LogTitle_2">2103-08-03 DEP</Entry>
+	<Entry Name="LogTitle_3">2103-09-13 ARR</Entry>
+	<Entry Name="LogTitle_4">2103-09-13 DEP</Entry>
+	<Entry Name="LogTitle_5">2103-12-26 ARR</Entry>
+	<Entry Name="LogTitle_6">2103-12-28 DEP</Entry>
+	<Entry Name="LogEntry_1">2103-08-03 @ 11:23:54 ARR[br]SIGNED: Julia Dahl | Richard Holland[br]  * Sample collection[br]  * Physical check-ups</Entry>
+	<Entry Name="LogEntry_2">2103-08-03 @ 18:02:28 DEP[br]SIGNED: Julia Dahl | Richard Holland[br]  * Check</Entry>
+	<Entry Name="LogEntry_3">2103-09-13 @ 11:31:51 ARR[br]SIGNED: Alan Waldeck | Julia Dahl[br]  * Tau evacuation </Entry>
+	<Entry Name="LogEntry_4">2103-09-13 @ 14:27:10 DEP[br]SIGNED: Alan Waldeck | Julia Dahl[br]  * Failed</Entry>
+	<Entry Name="LogEntry_5">2103-12-26 @ 14:01:08 ARR[br]SIGNED: Catherine Chun | Ian Pedersen | Sarah Lindwall | Nicolai Ivashkin | Jasper Hill[br]  * Bringing the ARK to Phi</Entry>
+	<Entry Name="LogEntry_6">2103-12-27 @ 08:00:00 DEP[br]SIGNED: Alan Waldeck (remote)</Entry>
+	<Entry Name="ObsMenuInventory">Inventory</Entry>
+	<Entry Name="ObsMenuLogs">Mission Logs</Entry>
+	<Entry Name="ObsMenuStats">Statistics</Entry>
+	<Entry Name="ObsLogsTitle">Mission Logs</Entry>
+	<Entry Name="ObsLogsTitle_1">Observation #134</Entry>
+	<Entry Name="ObsLogsTitle_2">Observation #172</Entry>
+	<Entry Name="ObsLogsTitle_3">Observation #188</Entry>
+	<Entry Name="ObsLogsEntry_1">2103-01-07 :: Observation #134[br]SETUP[br]Lure: Dried squid (1kg), 60 pieces of Anema LAL[br]Cameras: Quad HDR, Low lumina[br][br]RESULTS[br]Target: Frilled Shark (150 cm)[br]Description:[br]Rare shark approached the luminous lure.[br]Circled around to eat the dried squid.[br]Unlikely that it frequents this depth. An anomaly.[br]/S.Glasser</Entry>
+	<Entry Name="ObsLogsEntry_2">2103-07-14 :: Observation #172[br]SETUP[br]Lure: LBT(L) - Atlantic Blue Marlin (42 kg), 40 pieces of Anema RAL[br]Cameras: Quad HDR, ML lumina[br][br]RESULTS[br]Target: Giant Squid (1200 cm)[br]Description:[br]Mantle the size of a man, 170 - 200 cm.[br]Estimated length of the whole thing: 10 - 12 meters.[br]Frantic attack tore the marlin apart. As soon as we turned on the lights it quickly fled the area. Clearly another specimen affected by the leaking structure gel.[br]Partially covered in scales and newly formed bone structure protruding through the mantle.[br]/S.Glasser</Entry>
+	<Entry Name="ObsLogsEntry_3">2103-09-01 :: Observation #188[br]SETUP[br]Lure: LBT(L) - 15 pieces of Anema LAL, 25 pieces of Anema RAL[br]Cameras: Quad HDR, ML lumina, Vectored ISO[br][br]RESULTS[br]Target: Unknown (40 cm)[br]Description:[br]The creatures disfigured by the gel are manic and will attack anything. Still hard to determine how WAU has affected their behavior beyond their apparent aggression and affinity with light. The creatures seem to hunt something particular, something not present in this ecosystem.[br]/S.Glasser</Entry>
+	<Entry Name="ObsInventory">Inventory[br]==================[br]Anema Luminating Artificial Lure, 120 pieces[br]Anema Reflecting Artificial Lure, 80 pieces[br]Dried squid, 0 kg[br]Fish flakes, 0 kg[br]Frozen minnows, 0 kg[br]Juipo, 0 kg[br]Mushroom extract, 0 pieces[br]Plankton stock, 0 pieces[br]Powdered cassava, 0 kg[br]Powdered eggs, 0 kg[br]Live bait tank (Large), empty[br]Live bait tank (Small), empty[br]Live bait tank (Small), empty</Entry>
+	<Entry Name="ObsStatsTitle">Statistics</Entry>
+	<Entry Name="ObsStatsBtn1">Item #1</Entry>
+	<Entry Name="ObsStatsBtn2">Item #2</Entry>
+	<Entry Name="ObsStatsBtn3">Item #3</Entry>
+	<Entry Name="ObsStatsTitle1">Humpback Whale</Entry>
+	<Entry Name="ObsStatsSubtitle1">Megaptera novaeangliae</Entry>
+	<Entry Name="ObsStatsTitle2">Squid</Entry>
+	<Entry Name="ObsStatsSubtitle2">Loligo vulgaris</Entry>
+	<Entry Name="ObsStatsTitle3">Anglerfish</Entry>
+	<Entry Name="ObsStatsSubtitle3">Centrophryne spinulosa</Entry>
+	<Entry Name="ObsStatsYear1">2101</Entry>
+	<Entry Name="ObsStatsYear2">2102</Entry>
+	<Entry Name="ObsStatsYear3">2103</Entry>
+	<Entry Name="ObsStatsYear4">2104</Entry>
+	<Entry Name="ObsStatsYear5">2105</Entry>
+	
+	<Entry Name="BotObservatory">Observatory</Entry>
+	<Entry Name="BotTau">Tau</Entry>
+	<Entry Name="BotElevator">ACR Landing</Entry>
+	<Entry Name="BotRecall">Recall</Entry>
+	<Entry Name="BotStatusEntry">Unable to retrieve data</Entry>
+	<Entry Name="BotMenuControl">Control</Entry>
+	<Entry Name="BotMenuStatus">Status</Entry>
+	<Entry Name="BotMenuBroken">(Beacon Offline)</Entry>
+	
+	<Entry Name="Unpowered">Insufficient Power</Entry>
+	
+	<Entry Name="navigationsign">Danger![br]Stay close to the lights[br]Blue leads to TAU[br]Red leads to the Climber</Entry>
+	
+  </CATEGORY>
+	
+  <CATEGORY Name="04_02_tau_inside">
+	<Entry Name="MaintenanceDoorText">Locked for a good reason. Keep it in mind while remotely configuring the locks.</Entry>
+	<Entry Name="InventoryList">FOOD STUFF[br]Aho-Agua[br]Coffee[br]Jerky[br]Juice[br]Miso[br]Nori[br]NutraSub[br]Powdered milk[br]Shaker Meals[br]Tea[br][br]Dried squid[br]Minnows[br]Repair paste[br]Intravenous?</Entry>
+	<Entry Name="StationList">POST-IMPACT NOTES[br]Jan 12: Minor structural damage, radio knocked out[br]Jan 17: Communications recovered - Omicron and the rest of Pathos-II are all right![br]April 3: Cross-site radio failing, LUMAR probes keeps losing the link.[br]Urgent fix needed: Tau can't retrieve the Climber until the link is working![br]April 11: Visited by SSE Wolchezk, Dahl and Holland. System of biweekly visits established until communications (LUMAR) back at 100%.[br]Sep 13: Evacuation of Tau ordered. We're all leaving for Omicron.[br]Sep 15: Swarmed by monsters and no radio - we're fucked</Entry>
+	<Entry Name="ToBeFlesherNote">Thought I heard Sendeyo on the radio yesterday. Freaky as hell. He's deader than dead.[br]Ross says we're depressed. Big fucking surprise. Doctor Johan Ross, he acts all professional, but I can see him changing. He thinks this is all bullshit. That we're shit. That everything is meaningless. If you see this, fuck you Ross!</Entry>
+	<Entry Name="CrewList">I promise to keep the ARK safe at all cost. Clean up all structure gel I can see. Keep it safe. Keep it out of WAU's hands.[br][br]Aucliar[br]Espinosa[br]Hill[br]Pedersen[br]Lindwall[br]Ivashkin</Entry>
+	
+	<Entry Name="RobotArmUploading">UPLOADING...</Entry>
+	
+	<Entry Name="BulkheadStatus_Locked">ERROR![br][br]UNSTABLE POWER LEVELS</Entry>
+	<Entry Name="BulkheadStatus_Open">OPEN</Entry>
+	
+	<Entry Name="RadioactivityMsg">RADIATION WARNING!</Entry>
+	
+	<Entry Name="LivingAreaDoorStatus_Locked">REMOTELY LOCKED</Entry>
+	<Entry Name="LivingAreaDoorStatus_Unlocked">UNLOCKED</Entry>
+	
+	<Entry Name="AirlockDoorStatus_Flushing">FLUSHING...</Entry>
+	<Entry Name="AirlockDoorStatus_Error">ERROR!</Entry>
+	
+	<Entry Name="AirlockPanelStatus_Waiting">WAITING FOR CARGO. . .</Entry>
+	<Entry Name="AirlockPanelStatus_CargoDetected">CARGO ATTACHED</Entry>
+	<Entry Name="AirlockPanelStatus_ArkError">NO CARGO DETECTED!</Entry>
+	<Entry Name="AirlockPanelStatus_Filling">FILLING AIRLOCK</Entry>
+	<Entry Name="AirlockPanelStatus_Malfunction">FLOOD MECHANISM MALFUNCTION!</Entry>
+	<Entry Name="AirlockPanelStatus_Collapse">SEQUENCE HALTED![br]UNABLE TO EQUALIZE PRESSURE!</Entry>
+	<Entry Name="AirlockPanelStatus_PressureDiff">PRESSURE DIFFERENCE</Entry>
+	<Entry Name="AirlockPanelStatus_Outside">OUT</Entry>
+	<Entry Name="AirlockPanelStatus_Inside">IN</Entry>
+	<Entry Name="AirlockPanelStatus_Idle">IDLE</Entry>
+	<Entry Name="AirlockPanelStatus_Closing">CLOSING DOOR</Entry>
+	<Entry Name="AirlockPanelStatus_Opening">OPENING DOOR</Entry>
+	<Entry Name="AirlockPanelStatus_Draining">DRAINING AIRLOCK</Entry>
+	<Entry Name="AirlockPanelStatusHeader">STATUS</Entry>
+	<Entry Name="AirlockPanelCargoHeader">CARGO</Entry>
+	<Entry Name="AirlockPanelCargoData">ID: ARK001[br]TYPE: PAYLOAD[br]WEIGHT: 20kg[br][br]USER: CCHUN</Entry>
+	<Entry Name="AirlockPanelChangeCargo">CONFIG</Entry>
+	<Entry Name="AirlockPanelAttachCargo">ATTACH</Entry>
+	<Entry Name="AirlockPanelDetachCargo">DETACH</Entry>
+	<Entry Name="ChangeCargoButtonError">ERROR 94[br]Configuration failure</Entry>
+	
+	<Entry Name="DivingRoomTerminalApp_SuitStatus">SUIT STATUS</Entry>
+	<Entry Name="DivingRoomTerminalApp_AccessLog">ACCESS LOG</Entry>
+	<Entry Name="DivingRoomTerminalApp_Tracking">TRACKING</Entry>
+	
+	<Entry Name="DivingRoomTerminal_SuitStatus">HPS #1 - Signal Lost[br][br]HPS #2 - Signal Lost[br][br]HPS #3 - ACTIVE (TAU)[br][br]HPS #4 - Signal Lost</Entry>
+	<Entry Name="DivingRoomTerminal_AccessLog">2103-10-23: HPS1 - V. Auclair[br]2103-11-18: HPS3 - J. Yoshida[br]2103-11-19: HPS3 - A. Coetzee[br]2103-12-26: HPS2 - S. Glasser[br]2103-12-26: HPS4 - J. Ross[br]2103-12-27: HPS1 - N. Tsiolkovsky[br]2104-01-02: HPS3 - A. Coetzee[br]2104-04-11: HPS3 - /4subjWAUr/[br]2104-04-12: HPS3 - J. Yoshida</Entry>
+        
+	<Entry Name="ReactorControlTerminalApp_ReactorAccess">ACCESS REACTOR</Entry>
+	<Entry Name="ReactorControlTerminalApp_PowerInfo">SITE POWER INFO</Entry>
+	<Entry Name="ReactorControlTerminalApp_Map">LOCAL MAP</Entry>
+	<Entry Name="ReactorControlTerminalApp_AccessHistory">ACCESS LOG</Entry>
+	<Entry Name="ReactorControlTerminalApp_CommandCode">ENTER COMMAND CODE</Entry>
+	<Entry Name="ReactorControlTerminalApp_ReactorStatus">STATUS</Entry>
+	<Entry Name="ReactorControlTerminalApp_ReactorHistory">OUTPUT HISTORY</Entry>
+	<Entry Name="ReactorControlTerminalApp_ReactorInfo">REACTOR INFO</Entry>
+	
+	<Entry Name="ReactorControlTerminalReactorCode">Specify Reactor:</Entry>
+	<Entry Name="ReactorControlTerminal_CommandCodeHeader">Command Code</Entry>
+	<Entry Name="ReactorControlTerminal_CommandFeedbackHeader">Command Executed</Entry>
+	<Entry Name="ReactorControlTerminal_CommandExecutingHeader">Please wait...</Entry>
+	<Entry Name="ReactorControlTerminal_DecontaminationReadied">Decontamination ready! Both reactor keys must be used in the reactor chamber to execute.</Entry>
+	<Entry Name="ReactorControlTerminal_BatteryBypassed">Battery is now bypassed and can safely be removed.</Entry>
+	<Entry Name="ReactorControlTerminal_BatteryNotBypassed">Battery no longer being bypassed.</Entry>
+	<Entry Name="ReactorControlTerminal_KineticBuffer">Kinetic buffer emptied. Please allow a few seconds for the turbines to re-stabilize.</Entry>
+	<Entry Name="ReactorControlTerminal_ResetPosition">Reactor rings reset!</Entry>
+	<Entry Name="ReactorControlTerminal_ReactorLabel">REACTOR:</Entry>
+	<Entry Name="ReactorControlTerminal_EffectLabel">EFFECT:</Entry>
+	<Entry Name="ReactorControlTerminal_FreqLabel">FREQ:</Entry>
+	<Entry Name="ReactorControlTerminal_VoltageLabel">VOLTAGE:</Entry>
+	<Entry Name="ReactorControlTerminal_ShutdownLabel">SHUTDOWN:</Entry>
+	<Entry Name="ReactorControlTerminal_BackupPowerLabel">BACKUP POWER:</Entry>
+	<Entry Name="ReactorControlTerminal_Online">ONLINE</Entry>
+	<Entry Name="ReactorControlTerminal_Offline">OFFLINE</Entry>
+	<Entry Name="ReactorControlTerminal_Active">ACTIVE</Entry>
+	<Entry Name="ReactorControlTerminal_Inactive">INACTIVE</Entry>
+	<Entry Name="ReactorControlTerminal_NA">N/A</Entry>
+	<Entry Name="ReactorControlTerminalError_IncorrectCommandCode">Invalid command code.</Entry>
+	<Entry Name="ReactorControlTerminalError_TestRotation">Diagnostic Modules currently disabled.</Entry>
+	<Entry Name="ReactorControlTerminalError_FlushTurbine">Reactor must be shut down before flushing the turbines.</Entry>
+	<Entry Name="ReactorControlTerminalError_RunGenerator">Generator already running.</Entry>
+	<Entry Name="ReactorControlTerminalError_DecontaminationReady">Decontamination already pending. Please use keys in reactor chamber to execute.</Entry>
+	<Entry Name="ReactorControlTerminalError_DecontaminationInProgress">Decontamination in progress...</Entry>
+	<Entry Name="ReactorControlTerminalError_DecontaminationNoRadiation">No decontamination needed. Radiation levels normal.</Entry>
+	<Entry Name="ReactorControlTerminalError_ResetPositionRunning">Command disabled while reactor is online.</Entry>
+	<Entry Name="ReactorControlTerminalError_InvalidReactorNo">No reactor matching the specified number was found.</Entry>
+	<Entry Name="ReactorControlTerminalError_RestartProductionRunning">Command disabled while reactor is online.</Entry>
+	<Entry Name="ReactorControlTerminalError_ReactorBroken">Unable to establish connection to REACTOR2550!</Entry>
+	<Entry Name="ReactorControlTerminal_Info">REACTOR INFO:[br]Looped kinetic fluctuation turbine turns thermal vent activity into electrical power.</Entry>
+	<Entry Name="ReactorControlTerminal_ReactorWarning">RADIATION WARNING!</Entry>
+	<Entry Name="ReactorControlTerminal_AccessHistory">2103-12-02: Jin Yoshida[br]2103-12-13: Jin Yoshida[br]2103-12-23: Jin Yoshida[br]2103-12-26: Jin Yoshida</Entry>
+	
+	<Entry Name="CommRoomTerminalApp_Transmission">TRANSMISSION</Entry>
+	<Entry Name="CommRoomTerminalApp_CommLogs">COMM LOGS</Entry>
+	<Entry Name="CommRoomTerminalApp_PhiStatus">PHI STATUS</Entry>
+	
+	<Entry Name="CommRoomTerminal_Transmission_1">UPSILON</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_2">THETA</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_3">LAMBDA</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_4">DELTA</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_5">OMICRON</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_6">PHI</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_7">OMEGA</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_8">LISBON</Entry>
+	<Entry Name="CommRoomTerminal_Transmission_9">CADIZ</Entry>
+	<Entry Name="CommRoomTerminal_LandLineError">Unable to establish connection!</Entry>
+	<Entry Name="CommRoomTerminal_CommLogs">2103-01-09 - Outgoing : Omicron - Herber[br]2103-01-11 - Incoming : Omicron - Herber[br]2103-01-17 - Outgoing : Omicron - Herber[br]2103-01-24 - Incoming : Phi - Tsiolkovsky[br]2103-02-12 - Outgoing : Omicron - Herber[br]2103-03-04 - Outgoing : Omicron - Herber[br]2103-03-26 - Outgoing : Phi - Yoshida[br]2103-04-02 - Outgoing : Omicron - Herber</Entry>
+	<Entry Name="CommRoomTerminal_PhiNoSelection">CHECK STATUS</Entry>
+	<Entry Name="CommRoomTerminal_PhiInfoHeader">INFO</Entry>
+	<Entry Name="CommRoomTerminal_PhiArea_1">ACCESS TUNNELS</Entry>
+	<Entry Name="CommRoomTerminal_PhiArea_2">PHI PROPER</Entry>
+	<Entry Name="CommRoomTerminal_PhiArea_3">OMEGA SG</Entry>
+	<Entry Name="CommRoomTerminal_PhiAreaInfo_1">ACCESS TUNNELS (Phi/Tau) - Unstable</Entry>
+	<Entry Name="CommRoomTerminal_PhiAreaInfo_2">PHI[br]Launch Site: OK[br]Mission Control: OK[br]Assembler: OK[br][br]Site fully operational</Entry>
+	<Entry Name="CommRoomTerminal_PhiAreaInfo_3">OMEGA SPACE GUN[br]Flexible Barrel: 7290m[br]Payload (Max): 10 Tonnes[br]Speed (Max): 42 000 km/h</Entry>
+	
+	<Entry Name="InfirmaryTerminalApp_Airlocks">AIRLOCK DOORS</Entry>
+	<Entry Name="InfirmaryTerminalApp_Media">MEDIA</Entry>
+	<Entry Name="InfirmaryTerminalApp_Docs">RECENT DOCUMENTS</Entry>
+	<Entry Name="InfirmaryTerminalApp_Film">FILM</Entry>
+	<Entry Name="InfirmaryTerminalApp_Music">MUSIC</Entry>
+	<Entry Name="InfirmaryTerminalApp_Photos">PHOTOS</Entry>
+	
+	<Entry Name="InfirmaryTerminalFile_1">EMERGENCY FOOD[br]by Nadine Masters[br][br]A thorough look at what common chemicals and compounds found at Pathos-II could keep you alive in emergency situations.[br][br]Last accessed by: Sarah Lindwall</Entry>
+	<Entry Name="InfirmaryTerminalFile_2">NUTRITION THROUGH THE VEINS[br]by Richard Holland[br][br]A manual on how to keep unconscious or comatozed colleagues fed through intravenous drip.[br][br]Last accessed by: Sarah Lindwall</Entry>
+	<Entry Name="InfirmaryTerminalFile_3">POST-CONSTRUCTION ALTERATIONS[br]by Astrid Krier[br][br]Methods on how to make room for additional payload after the casing has been constructed and left Delta.[br][br]Last accessed by: Catherine Chun</Entry>
+	<Entry Name="InfirmaryTerminalFileName_1">EMERGENCY FOOD</Entry>
+	<Entry Name="InfirmaryTerminalFileName_2">NUTRITION</Entry>
+	<Entry Name="InfirmaryTerminalFileName_3">ALTERATIONS</Entry>
+	<Entry Name="InfirmaryTerminalNoFilmError">Data corruption detected!</Entry>
+		
+	<Entry Name="DoorControlApp_Name">DOOR LOCKS</Entry>
+	<Entry Name="DoorControlApp_Label">Door Lock Control</Entry>
+	<Entry Name="DoorControlAppRoom_1">DISPATCH[br]Sendeyo, Abbo</Entry>
+	<Entry Name="DoorControlAppRoom_2">EXIT to[br]Front - T1</Entry>
+	<Entry Name="DoorControlAppRoom_3">STORAGE</Entry>
+	<Entry Name="DoorControlAppRoom_4">CABIN A[br]Ross, Johan</Entry>
+	<Entry Name="DoorControlAppRoom_5">CABIN B[br]Coetzee, Antjie[br]Espinosa, Renata</Entry>
+	<Entry Name="DoorControlAppRoom_6">CABIN C[br]Auclair, Vic</Entry>
+	<Entry Name="DoorControlAppRoom_7">CABIN D[br]Glasser, Steve[br]Yoshida, Jin</Entry>
+	<Entry Name="DoorControlAppRoom_8">BATHROOM</Entry>
+	<Entry Name="DoorControlAppRoom_9">INFIRMARY[br](Unmanned)</Entry>
+	<Entry Name="DoorControlAppRoom_10">EXIT to[br]Phi/Space Gun[br](Airlock)</Entry>
+	<Entry Name="DoorControlApp_Locked">Locked</Entry>
+	<Entry Name="DoorControlApp_Unlocked">Unlocked</Entry>
+	<Entry Name="DoorControlApp_Broken">ERROR</Entry>
+	
+	<Entry Name="IntercomApp_Label">INTERCOM</Entry>
+	<Entry Name="IntercomApp_Room_1">Dispatch</Entry>
+	<Entry Name="IntercomApp_Room_2">Reactor Control</Entry>
+	<Entry Name="IntercomApp_Room_3">Common Area</Entry>
+	<Entry Name="IntercomApp_Room_4">Infirmary</Entry>
+	<Entry Name="IntercomApp_Room_5">Auclair's Office</Entry>
+	<Entry Name="IntercomApp_Call">Call</Entry>
+	<Entry Name="IntercomApp_Hangup">Hang up</Entry>
+	
+	<Entry Name="AirlockApp_Label">Airlock Control</Entry>
+	<Entry Name="AirlockAppDoor_1">MAIN</Entry>
+	<Entry Name="AirlockAppDoor_2">SECONDARY</Entry>
+	
+	<Entry Name="LifeSupportTerminal_Label">Life Support: </Entry>
+	<Entry Name="LifeSupportTerminalStatus_Active">Active</Entry>
+	<Entry Name="LifeSupportTerminalStatus_Inactive">Disabled</Entry>
+	<Entry Name="LifeSupportTerminal_TurnOffButton">Disable</Entry>
+	<Entry Name="LifeSupportTerminal_TurnOffHeader">Warning</Entry>
+	<Entry Name="LifeSupportTerminal_TurnOffWarning">Disable life support?</Entry>
+	
+	<Entry Name="ARKTerminal_Active">ARK STATUS:[br][br]RUNNING</Entry>
+	<Entry Name="ARKTerminal_Paused">ARK STATUS:[br][br]PAUSED[br]DAY 312 - 10:07:31</Entry>
+	<Entry Name="ARKTerminal_EjectButton">EJECT</Entry>
+	
+	<Entry Name="CrewMember1PadLogin">LOGGED IN: JASPER HILL</Entry>
+	<Entry Name="CrewMember1Pad_1">THETA[br]Everything went well. All of the crew scanned and banked in the ARK. Loading the shuttle to Omicron. Leaving as soon as possible.</Entry>
+	<Entry Name="CrewMember1Pad_2">OMICRON[br]Eames and her crew welcomed us with open arms. Scans went well, should have most of them.</Entry>
+	<Entry Name="CrewMember1Pad_3">TAU[br]We found five surviving members at Tau. They have been stranded here for months without radio contact or proper food. We managed to scan them all, though I suspect their arrival will cause some trouble inside the ARK as they feel abandoned by Omicron. I just hope everyone will be able to forgive each other.</Entry>
+	<Entry Name="CrewMember1Pad_4">PHI[br]Shit went down. We couldn't launch. Going back to Tau to figure it out.</Entry>
+	
+	<Entry Name="CatherinePadLogin">LOGGED IN: CATHERINE CHUN</Entry>
+	<Entry Name="CatherinePadFileHeader">FILES</Entry>
+	<Entry Name="CatherinePadFile_1">THETA[br]Wrapped up all the things we need. Tomorrow we'll ride the shuttle to Omicron. Never been at the other sites, except for Lambda. Should be interesting. I hope they understand what we are trying to do.</Entry>
+	<Entry Name="CatherinePadFile_2">OMICRON[br]There were questions about the ARK and what it is, but Jasper quickly sold them on the idea. Not sure I could have handled that. Glad I'm not alone in this. It took a while but the crew were succesfully scanned once I got the pilot seat properly hooked up.</Entry>
+	<Entry Name="CatherinePadFile_3">ACR[br]The descent was a bit shaky, but without any real danger. Now it gets tricky with the ARK. It's heavy and without shuttles we have to carry it all the way to Tau.</Entry>
+	<Entry Name="CatherinePadFile_4">TAU[br]Auclair and the others were caught by surprise. They did not expect us to show up. I'm thinking they have been through some rough stuff.</Entry>
+	<Entry Name="CatherinePadFile_5">PHI[br]On our way to Phi. Tau has really been hit bad. Was concerned the airlock would cave in during exit. Have to be careful when we return.</Entry>
+	
+	<Entry Name="ToBeFlesherPadApp_Diary">JOURNAL</Entry>
+	<Entry Name="ToBeFlesherPadApp_Recordings">RECORDINGS</Entry>
+	<Entry Name="ToBeFlesherPadFileName_1">2103-09-13</Entry>
+	<Entry Name="ToBeFlesherPadFileName_2">2103-11-19</Entry>
+	<Entry Name="ToBeFlesherPadFileName_3">2103-12-25</Entry>
+	<Entry Name="ToBeFlesherPadFileName_4">2103-12-26</Entry>
+	<Entry Name="ToBeFlesherPadFile_1">I was hoping to see Omicron today. The evacuation ordered by the people at Theta was a gift, an excuse to leave Alpha and abandon the WAU. As the storm cleared we were swarmed by monsters that the WAU had "facilitated". We were ambushed and forced back towards Tau. Glasser, Kovsky, Coetzee and I survived. Auclair is in the infirmary, but it doesn't look good.</Entry>
+	<Entry Name="ToBeFlesherPadFile_2">Coetzee made a run for it, to check Observation for anything resembling food. Going outside is beyond dangerous. It's like going to buy cigarettes in a hurricane. She came back and she had some crumbs with her. We all knew it was empty. I think she just wanted a chance to die without carrying the responsibility of taking it herself.</Entry>
+	<Entry Name="ToBeFlesherPadFile_3">People from the Plateau showed up. It was a group of engineers from Theta telling us that they wanted to use the Omega Space Gun to launch something called the ARK. It's an artificial world that carries brainscans made from people working at Pathos-II. The idea is silly, but endearing. We all agreed to do a scan, so we could take part in this "afterlife".</Entry>
+	<Entry Name="ToBeFlesherPadFile_4">Some of the engineers returned from Phi. Apparently they postponed the ARK launch. They were all in a very foul mood and difficult to get any straight answers from. Except for one very important thing: They all wished to remain at Tau to figure this ARK business out, but they had scheduled for the Climber to pick them up tomorrow. Someone would need to catch that Climber to alert Omicron to what was happening. Luckily Glasser and I were able to take on this mission. I will finally get to to warn Dahl and Sarang about the critical situation at site Alpha.</Entry>
+	<Entry Name="ToBeFlesherPadRecording_1">Equilibrium</Entry>
+	<Entry Name="ToBeFlesherPadRecording_2">Post-Impact</Entry>
+	<Entry Name="ToBeFlesherPadRecording_3">Wild Growth</Entry>
+	<Entry Name="ToBeFlesherPadRecording_4">Terrarium</Entry>
+	<Entry Name="ToBeFlesherPadRecording_5">Termination</Entry>
+	
+	<Entry Name="RossScribbles">WAU pattern replicated in Struct Gel: approaching C2933-53 A5530-32 G9531-44 U3635-66[br][br]Spike C &amp; U to regress[br][br]WAU more than the gel -> Entity[br][br]Extended by the gel[br]growth Vector ≈ 51c:1000q[br]counter force[br][br]Poison the imprint![br]Sterilize batch -> feed the heart[br][br]Force WAU to kill itself[br][br]Must reach Omicron</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="04_03_tau_escape">
+	<Entry Name="Status">WAU Status</Entry>
+	<Entry Name="LogFiles">Case Files</Entry>
+	<Entry Name="AccessControl">Access Control</Entry>
+	
+	<Entry Name="LogFileName_1">CASE#002: Equilibrium [2102:10:12] - Dr. Ross</Entry>
+	<Entry Name="LogFileName_2">CASE#012: Post-Impact [2103:01:21] - Dr. Ross</Entry>
+	<Entry Name="LogFileName_3">CASE#013: Wild Growth [2103:03:10] - Dr. Ross</Entry>
+	<Entry Name="LogFileName_4">CASE#017: Terrarium [2103:04:02] - Dr. Ross</Entry>
+	<Entry Name="LogFileName_5">CASE#023: The Warden, Our Keeper [2103:11:07] - Dr. Ross</Entry>
+	
+	<Entry Name="Previous">Previous</Entry>
+	<Entry Name="Next">Next</Entry>
+	
+	<Entry Name="StatusFileText">WAU (Warden Unit) - 2104:05:10[br]================================[br]CORE-CLIMATE[br] - Pressure: 51.6 psi [br] - Temperature: 4 C [br] - Humidity(RH): 89% [br]PATTERN[br] - Discrete: C1045 / A8264 / G3153 / U3084 [br] - Momentum: A3:U4 / Gx:Cy / G1:G2 / Cx:U7 [br]GROWTH[br] - Cycles (estimated): 114 trillion[br] - Quantified vector: 51c:1000q[br] - Relative growth: 40151%[br]PROGNOSIS[br] - Shared values: 0.4% (Massive deviation) [br] - Predictive analysis: N/A (unreliable entity)</Entry>
+	
+	<Entry Name="AccessErrorMessage">Unable to proceed[br][br]Alpha Access Required</Entry>
+	<Entry Name="ManualAccessGranted">Security Seal Enforced[br][br]Redirecting...</Entry>
+	<Entry Name="ManualAccess">Manual Security Override</Entry>
+	<Entry Name="AccessGranted">Alpha - WAU Chamber[br][br]Access Granted</Entry>
+  </CATEGORY>
+  
+  <CATEGORY Name="05_01_phi_inside">
+	<Entry Name="InfoAreaMap">Site Map</Entry>
+	<Entry Name="InfoLaunchMechanism">OSG Overview</Entry>
+	<Entry Name="InfoCargoTransportStatus">Tunnel Transport</Entry>
+	<Entry Name="InfoStaffActivity">Staff Activity</Entry>
+	<Entry Name="InfoLaunchHistory">Launch Log</Entry>
+	<Entry Name="InfoMain0">Payload setup</Entry>
+	<Entry Name="InfoLaunch0">Omega Space Gun</Entry>
+	<Entry Name="InfoLaunch3">Shell magazine</Entry>
+	<Entry Name="InfoLaunch6">Launch controls</Entry>
+	<Entry Name="InfoCargoArrived">TT1 - Phi Cargo Bay [br]Contents: ARK [br]Status: Requires manual offload</Entry>
+	<Entry Name="InfoCargoUnloaded">TT1 - Phi Cargo Bay [br]Contents: - [br]Status: Ready for use</Entry>
+	<Entry Name="InfoStaff_1">Incoming</Entry>
+	<Entry Name="InfoStaff_2">Outgoing</Entry>
+	<Entry Name="InfoStaff_3">Activity</Entry>
+	<Entry Name="InfoStaffCont_1">2104-05-11: ENT - R. Herber[br]2103-12-27: ENT - I. Pedersen[br]2103-12-27: ENT - S. Lindwall[br]2103-12-27: ENT - C. Chun[br]2103-12-27: ENT - N. Ivashkin[br]2103-12-27: ENT - J. Hill</Entry>
+	<Entry Name="InfoStaffCont_2">2103-12-27: EXT - I. Pedersen[br]2103-12-27: EXT - S. Lindwall[br]2103-12-27: EXT - N. Ivashkin[br]2103-12-27: EXT - J. Hill</Entry>
+	<Entry Name="InfoStaffCont_3">2104-05-11 :: ...unsigned R. Herber visit...[br]2103-12-27 :: Launching the ARK[br]2103-11-14 :: One last visit</Entry>
+	<Entry Name="InfoLaunchHistory_1">Week #488</Entry>
+	<Entry Name="InfoLaunchHistory_2">Week #489</Entry>
+	<Entry Name="InfoLaunchHistory_3">Week #490</Entry>
+	<Entry Name="InfoLaunchHistory_4">Week #491</Entry>
+	<Entry Name="InfoLaunchHistoryCont_1">Project: TACT-SX[br]Owner: Haimatsu[br]Type: Orbital Platform Freighter[br]Launch: 2102-12-19 @ 13:00:00[br]***MISSION COMPLETED***[br][br]Project: ENDO[br]Owner: Luna Prospex[br]Type: Remote sensing satellite[br]Launch: 2103-12-20 @ 13:30:00[br]***MISSION COMPLETED***</Entry>
+	<Entry Name="InfoLaunchHistoryCont_2">Project: TACT-SX[br]Owner: Haimatsu[br]Type: Orbital Platform Freighter[br]Launch: 2102-12-26 @ 13:00:00[br]***MISSION COMPLETED***[br][br]Project: REVEAL[br]Owner: Sino-Indian Federation[br]Type: Communications satellite[br]Launch: 2102-12-27 @ 13:00:00[br]***MISSION COMPLETED***</Entry>
+	<Entry Name="InfoLaunchHistoryCont_3">Project: TACT-SX[br]Owner: Haimatsu[br]Type: Orbital Platform Freighter[br]Launch: 2103-01-02 @ 14:00:00[br]***MISSION COMPLETED***[br][br]Project: AUGE[br]Owner: Zentraler Deutscher Kern [br]Type: Reconnaissance satellite[br]Launch: 2103-01-03 @ 13:00:00[br]***MISSION COMPLETED***</Entry>
+	<Entry Name="InfoLaunchHistoryCont_4">Project: TACT-SX[br]Owner: Haimatsu[br]Type: Orbital Platform Freighter[br]Launch: 2103-01-09 @ 12:30:00[br]***ON HOLD***[br][br]Project: KARMAN[br]Owner: Atmos Surveyor[br]Type: Weather satellite[br]Launch: 2103-01-11 @ 13:00:00[br]***ON HOLD***[br][br]After ten years of impeccable operation the Omega Space Gun will shut down, but it took an apocalypse to be made redundant.[br]- Vic Auclair</Entry>
+	
+	<Entry Name="NoteStorage">Rations already moved to Tau. Get your ass back there if you're hungry. - Kovsky</Entry>
+	<Entry Name="NotePowerMaintenance">Use energy packs to force the locks affected by blackouts. - Kovsky</Entry>
+  
+	<Entry Name="SatFrameEmpty">No Payload</Entry>
+	<Entry Name="SatFrameInserted">Payload Detected</Entry>
+	<Entry Name="SatFrameClosing">Payload Bay Closing</Entry>
+	<Entry Name="SatFrameInsertedAndClosed">Projectile Sealed</Entry>
+	<Entry Name="SatFrameInTransit">Projectile in Transit</Entry>
+	<Entry Name="SatFrameOutside">Complete</Entry>
+	
+	<Entry Name="InfoPayload">PAYLOAD</Entry>
+	<Entry Name="InfoShell">DELIVERY SHELL</Entry>
+	<Entry Name="InfoSpaceGun">OMEGA SPACEGUN</Entry>
+	<Entry Name="InfoLaunchStation">PHI(LAUNCH SITE)</Entry>
+	<Entry Name="InfoSurfaceStation">OMEGA (SURFACE PLATFORM)</Entry>
+	<Entry Name="InfoDockComplete">DEPLOYMENT COMPLETE</Entry>
+	
+	<Entry Name="InfoSlide1">A satellite is loaded inside a shell.</Entry>
+	<Entry Name="InfoSlide2">The shell is accelerated by electromagnets along the pipe.</Entry>
+	<Entry Name="InfoSlide3">Enough momentum to escape earth's gravity is gained before egression.</Entry>
+	<Entry Name="InfoSlide4">Reaching space the satellite will shed the shell and unfold.</Entry>
+	<Entry Name="InfoSlide5">On-board thrusters settles satellite into an orbit.</Entry>
+	
+	<Entry Name="InfoMapPlayer">YOU ARE HERE</Entry>
+	<Entry Name="InfoMapAux">AUX. CONTROL</Entry>
+	<Entry Name="InfoMapStorage">STORAGE</Entry>
+	<Entry Name="InfoCargo">CARGO</Entry>
+	
+	<Entry Name="TransferPrepare">Scan Program Initializing...</Entry>
+	<Entry Name="TransferTransferring">Scan	Program Running</Entry>
+	<Entry Name="TransferTransferred">ScanProgram Complete</Entry>
+	<Entry Name="TransferTransferring1">Initiating uplink...</Entry>
+	<Entry Name="TransferTransferring2">Preparing SOMA template...</Entry>
+	<Entry Name="TransferTransferring3">Sending SOMA template...</Entry>
+	<Entry Name="TransferTransferring4">Initiating capture...</Entry>
+	<Entry Name="TransferTransferring5">Ready for capture:3</Entry>
+	<Entry Name="TransferTransferring6">Ready for capture:2</Entry>
+	<Entry Name="TransferTransferring7">Ready for capture:1</Entry>
+	<Entry Name="TransferTransferring8">Capture</Entry>
+	<Entry Name="TransferTransferring9">Complete</Entry>
+	<Entry Name="TransferSimon">Simon J</Entry>
+	<Entry Name="TransferCath">Catherine C</Entry>
+	<Entry Name="TransferDone">DONE</Entry>
+	
+	<Entry Name="LaunchButtonLaunch">Launch</Entry>
+	<Entry Name="LaunchButtonLaunching">Launching</Entry>
+
+	<Entry Name="LaunchStatus">SYSTEM CHECK</Entry>
+	<Entry Name="LaunchPrimarySystems">PRIMARY SYSTEMS:</Entry>
+	<Entry Name="LaunchPrimary1">SOLAR SAIL DEPLOYMENT:</Entry>
+	<Entry Name="LaunchPrimary2">ENERGY GENERATION:</Entry>
+	<Entry Name="LaunchPrimary3">PRIMARY BOOSTER:</Entry>
+	<Entry Name="LaunchPrimary4">RESERVE BATTERIES:</Entry>
+	<Entry Name="LaunchSecondarySystems">SECONDARY SYSTEMS:</Entry>
+	<Entry Name="LaunchSecondary1">COMMUNICATION:</Entry>
+	<Entry Name="LaunchSecondary2">VISUAL SENSOR:</Entry>
+	<Entry Name="LaunchSecondary3">PLUGIN (ident.: ARK):</Entry>
+	<Entry Name="LaunchSecondary4">SECONDARY BOOSTER:</Entry>
+	<Entry Name="LaunchCheck">CHECKING...</Entry>
+	<Entry Name="LaunchOK">OK</Entry>
+	
+	<Entry Name="DieErr1">CRITICAL FAILURE</Entry>
+	<Entry Name="DieErr2">Error EXT_READCTX570: Cortex Chip corrupted.</Entry>
+	<Entry Name="DieErrRepeat">Please retry.</Entry>
+	
+  </CATEGORY>
+</LANGUAGE>
