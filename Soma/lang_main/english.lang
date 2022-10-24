@@ -137,8 +137,8 @@
       <Entry Name="NumPadClear">C</Entry>
       <Entry Name="NumPadClearFull">EZABATU</Entry>
       <Entry Name="Error">Errorea</Entry>
-      <Entry Name="Next">Bai.</Entry>
-      <Entry Name="Prev">Ant.</Entry>
+      <Entry Name="Next">»</Entry>
+      <Entry Name="Prev">«</Entry>
    </CATEGORY>
    <CATEGORY Name="StationGUI">
       <Entry Name="Error">ERROREA</Entry>
@@ -2169,7 +2169,7 @@
    </CATEGORY>
    <CATEGORY Name="Voices_01_02_upsilon_inside">
       <Entry Name="ControlRoomContact_2D_FirstContact_1_001_Catherine_001">Zer gertatzen ari da? Kaixo? Ba al dago inor hor?</Entry>
-      <Entry Name="ControlRoomContact_2D_FirstContact_1_002_Player_001">Aizu, entzuten didazu?</Entry>
+      <Entry Name="ControlRoomContact_2D_FirstContact_1_002_Player_001">Txo, entzuten didazu?</Entry>
       <Entry Name="ControlRoomContact_2D_FirstContact_1_003_Catherine_001">Entzuten dizut... oh... Úpsilon. Zer gertatzen ari da?</Entry>
       <Entry Name="ControlRoomContact_2D_FirstContact_1_004_Player_001">Ez dut ideiarik ere. Hemen esnatu naiz.</Entry>
       <Entry Name="ControlRoomContact_2D_FirstContact_1_005_Catherine_001">Aretoan, orain?</Entry>
@@ -2254,14 +2254,14 @@
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_001_CarlConstruct_001">Geldi! Min ematen dit!</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_002_CarlConstruct_001">Ai, egizu... Joder.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_003_CarlConstruct_001">Geldi, geldi!</Entry>
-      <Entry Name="CarlConstruct_4E_CarlConstructTorture_004_CarlConstruct_001">Oh, maldita izan.</Entry>
-      <Entry Name="CarlConstruct_4E_CarlConstructTorture_005_CarlConstruct_001">Coño...</Entry>
+      <Entry Name="CarlConstruct_4E_CarlConstructTorture_004_CarlConstruct_001">Oh, madarikatua.</Entry>
+      <Entry Name="CarlConstruct_4E_CarlConstructTorture_005_CarlConstruct_001">Kaka zaharra...</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_006_CarlConstruct_001">Ez egin. Ezin dut jasan.</Entry>
-      <Entry Name="CarlConstruct_4E_CarlConstructTorture_007_CarlConstruct_001">Putan sartzen naiz.</Entry>
+      <Entry Name="CarlConstruct_4E_CarlConstructTorture_007_CarlConstruct_001">Ostidxek eta bi hamabi.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_008_CarlConstruct_001">Mesedez, ez.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_009_CarlConstruct_001">Ezin dut jasan. Mesedez.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructTorture_010_CarlConstruct_001">Geldi, mesedez.</Entry>
-      <Entry Name="CarlConstruct_4E_CarlConstructSimonBack_PostTorture_001_CarlConstruct_001">Aizu, lagundu.</Entry>
+      <Entry Name="CarlConstruct_4E_CarlConstructSimonBack_PostTorture_001_CarlConstruct_001">Txo, lagundu.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructSimonBack_PostTorture_002_CarlConstruct_001">Mesedez, esaiozu Amyri. Laguntza behar dut.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructSimonBack_PostTorture_003_CarlConstruct_001">Oso gaizki nago.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructSimonBack_PostTorture_004_CarlConstruct_001">Ezin naiz mugitu. Mesedez.</Entry>
@@ -2366,7 +2366,7 @@
       <Entry Name="CarlConstruct_4E_CarlConstructPlea_1_001_CarlConstruct_001">Amy, zu al zara? Zer gertatu da pilotuaren eserlekuarekin?</Entry>
       <Entry Name="simoncomments_carlbody_seebody_001_player_001">Hilda dago? Hilda dago.</Entry>
       <Entry Name="simoncomments_2a_lookatjonsi_001_player_001">Zer da hori? Zer ari zara?</Entry>
-      <Entry Name="simoncomments_2a_talktojonsi_001_player_001">Aizu, entzuten didazu?</Entry>
+      <Entry Name="simoncomments_2a_talktojonsi_001_player_001">Txo, entzuten didazu?</Entry>
       <Entry Name="simoncomments_2a_talktojonsi_002_player_001">Kaixo!</Entry>
       <Entry Name="simoncomments_2a_talktojonsi_003_player_001">Eh, zu...</Entry>
       <Entry Name="simoncomments_2a_talktojonsi_004_player_001">Kaixo...</Entry>
@@ -2500,7 +2500,7 @@
       <Entry Name="Echo_Datamine_AmyTheta_002_Echo_Peter_001">Amy, non zaude?</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_003_Echo_Amy_001">Soroak... alde egin behar izan nuen.</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_004_Echo_Peter_001">Carl zurekin dago?</Entry>
-      <Entry Name="Echo_Datamine_AmyTheta_005_Echo_Amy_001">Dena adarrera joan zen.</Entry>
+      <Entry Name="Echo_Datamine_AmyTheta_005_Echo_Amy_001">Dena pikutara joan zen.</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_006_Echo_Peter_001">Itxaron. Energia automatizatua duzu, ezta? Landarea segurua da? Energia hori behar dugu zentroak aktibo mantentzeko...</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_007_Echo_Amy_001">Energiari aurre egitera! Eta zuk, Strasky! Makinek Carl hil dute!</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_008_Echo_Peter_001">Ai, egizu... Tira, lasai, dena ondo joango da. Itzul zaitezke Zetara?</Entry>
@@ -2609,7 +2609,7 @@
       <Entry Name="AmyRobot_AmyEncounter_LostSight_007_AmyRobot_001">Dena nire buruan zegoen?</Entry>
       <Entry Name="AmyRobot_AmyEncounter_LostSight_008_AmyRobot_001">Nire zentzumenekin jolasten ari da.</Entry>
       <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_001_AmyRobot_001">Nolako zomorro bihurria zara zu?</Entry>
-      <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_002_AmyRobot_001">Aizu! Zertan ari zara hemen?</Entry>
+      <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_002_AmyRobot_001">Txo! Zertan ari zara hemen?</Entry>
       <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_003_AmyRobot_001">Nondik atera zara?</Entry>
       <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_004_AmyRobot_001">Hor zaude berriro.</Entry>
       <Entry Name="AmyRobot_AmyEncounter_SpottingPlayer_005_AmyRobot_001">Ikusten zaitut.</Entry>
@@ -2652,7 +2652,7 @@
       <Entry Name="dialog_talktoamy_cablepulled_final_2_002_amycorpse_001">Ados.</Entry>
       <Entry Name="dialog_talktoamy_cablepulled_final_3_001_player_001">Dena ondo aterako da.</Entry>
       <Entry Name="dialog_talktoamy_cablepulled_final_3_002_amycorpse_001">Ados.</Entry>
-      <Entry Name="comments_abouttocrash_001_player_001">O, neurtu!</Entry>
+      <Entry Name="comments_abouttocrash_001_player_001">OH! KAKA ZAHARRA!</Entry>
       <Entry Name="comments_cargopadrecording_comment_001_player_001">Zer gertatu zaie? Jende guzti hori...</Entry>
       <Entry Name="helperjane_helperjane_pluggedin_001_helperjane_001">J6 anezka aktibatuta.</Entry>
       <Entry Name="helperjane_helperjane_pluggedin_badpower_001_helperjane_001">Abisua! Energia ez da oso fidagarria. Kontuz jarraitu.</Entry>
@@ -2687,7 +2687,7 @@
       <Entry Name="cathandsimon_2_cath_allclear_extra_1_005_catherinerobot_001">Kaixo, entzuten duzu? Hemen nago.</Entry>
       <Entry Name="cathandsimon_2_cath_comeseemehurt_001_catherinerobot_001">Ai, egizu... Simon, idiota bat zara. Espero nuen beste leherketa bat ez piztea.</Entry>
       <Entry Name="cathandsimon_2_cath_comeseemehurt_002_catherinerobot_001">Ondo zaude? Laguntza pixka bat ondo etorriko litzaidakeelako.</Entry>
-      <Entry Name="cathandsimon_2_cath_comeseemehurt_003_catherinerobot_001">A, maldita izan! Zergatik gertatu da hau orain?</Entry>
+      <Entry Name="cathandsimon_2_cath_comeseemehurt_003_catherinerobot_001">Ah! Kaka zaharra! Zergatik gertatu da hau orain?</Entry>
       <Entry Name="cathandsimon_2_cath_comeseemehurt_004_catherinerobot_001">Simon? Norbaitek lagun diezadala, mesedez.</Entry>
       <Entry Name="cathandsimon_2_cath_comeseemehurt_005_catherinerobot_001">Kaixo?</Entry>
       <Entry Name="cathandsimon_2_cath_comeseemehurt_006_catherinerobot_001">Azkar ibil zaitezke?</Entry>
@@ -2755,7 +2755,7 @@
       <Entry Name="cathandsimon_3_cath_leavecloudandfoundnoark_1_001_catherineomnitool_001">Ea ARCA non dagoen jakiten duzun.</Entry>
       <Entry Name="cathandsimon_3_cath_trackingdone_1_001_player_001">Aurkitu dut. Tau izeneko zentro batean dago.</Entry>
       <Entry Name="cathandsimon_3_cath_trackingdone_1_002_catherineomnitool_001">O, ez. Lurrean dago! Eta Fitik hain hurbil... Ia lortu dute.</Entry>
-      <Entry Name="cathandsimon_3_cath_trackingdone_1_002_catherineomnitool_002">Maldita izan bedi. Egoera horretan ezingo du luzaroan eutsi... Asko jota, hamarkada pare bat. Hori ez da asko etorkizun bat eraikitzeko.</Entry>
+      <Entry Name="cathandsimon_3_cath_trackingdone_1_002_catherineomnitool_002">Kaka zaharra! Egoera horretan ezingo du luzaroan eutsi... Asko jota, hamarkada pare bat. Hori ez da asko etorkizun bat eraikitzeko.</Entry>
       <Entry Name="cathandsimon_3_cath_trackingdone_1_003_player_001">Harengana iritsiko bagina... ARKAn munta genezake?</Entry>
       <Entry Name="cathandsimon_3_cath_trackingdone_1_004_catherineomnitool_001">Uste dut, baina une honetan ez naiz oso malgua.</Entry>
       <Entry Name="cathandsimon_4_cath_backtogetomnitool_1_001_player_001">Ni arduratuko naiz haraino iristeaz. Mugitu naiteke, salto egin, igeri egin... gutxi gorabehera. Ate-irekigunean trabatuta zaude... Omnitoolean. Nik hara eramango zaitut eta zuk esango didazu zer egin behar den.</Entry>
@@ -3206,8 +3206,8 @@
       <Entry Name="dialog_8_cathhint_killrobot_2_001_catherine_001">Robotari ematen jarraitu behar duzu erori arte.</Entry>
       <Entry Name="comment_2_restateobjective_001_player_001">Ez kezkatu, Cath. Aurkituko dut Zetara iristeko modua.</Entry>
       <Entry Name="comment_3_kateopeneddoor_001_player_001">Robot ona!</Entry>
-      <Entry Name="goya_2_goyainteract_player_001_player_001">Aizu, lagunduko didazu? Zetara iritsi behar dut.</Entry>
-      <Entry Name="goya_2_goyainteract_player_002_player_001">Aizu, entzuten didazu?</Entry>
+      <Entry Name="goya_2_goyainteract_player_001_player_001">Txo, lagunduko didazu? Zetara iritsi behar dut.</Entry>
+      <Entry Name="goya_2_goyainteract_player_002_player_001">Txo, entzuten didazu?</Entry>
       <Entry Name="goya_2_goyainteract_player_003_player_001">Eh, zu...</Entry>
       <Entry Name="goya_2_goyainteract_player_004_player_001">Entzun...</Entry>
       <Entry Name="goya_2_goyainteract_goya_001_goya_001">Ez geratu hor, hori baino buru gehiago duzu.</Entry>
@@ -3628,7 +3628,7 @@
       <Entry Name="dialog_2_catherinepluggedin_018_catherine_001">Heroikoa?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_019_player_001">Gutxienez, merezi duela uste dut.</Entry>
       <Entry Name="dialog_2_catherinepluggedin_020_catherine_001">Goazen, DUNBAT!</Entry>
-      <Entry Name="dialog_2_catherinepluggedin_021_catherine_001">A, maldita izan! Banekien politegia zela egia izateko.</Entry>
+      <Entry Name="dialog_2_catherinepluggedin_021_catherine_001">Ah! Kaka zaharra! Banekien politegia zela egia izateko.</Entry>
       <Entry Name="dialog_2_catherinepluggedin_022_player_001">Zer gertatzen da?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_023_catherine_001">Berrogeialdian dago?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_023_catherine_002">Itxaron.</Entry>
@@ -3822,7 +3822,7 @@
       <Entry Name="datamining_1e_datamineintercom_006_brandon_001">Ez kezkatu. Eskailerak blokeatuta daude eta igogailua zerbitzutik kanpo utzi dut... Txip konektorea atera dut sarrailatik.</Entry>
       <Entry Name="datamining_1e_datamineintercom_007_strohmeier_001">Zergatik? Horrek esan nahi du zu ere ezin zarela irten!</Entry>
       <Entry Name="datamining_1e_datamineintercom_008_brandon_001">Hori da salbu egoteko modu bakarra. Hartu anezka eta zoaz Omicronera.</Entry>
-      <Entry Name="datamining_1e_datamineintercom_009_strohmeier_001">Maldita izan dadila, Wan. Heroia izan behar zenuen, kabroi puska.</Entry>
+      <Entry Name="datamining_1e_datamineintercom_009_strohmeier_001">Madarikatua, Wan! Heroia izan behar zenuen, kabroi puska.</Entry>
       <Entry Name="datamining_1e_datamineintercom_010_brandon_001">Zorte on. Eta esaiozu Aliziari maite dudala.</Entry>
       <Entry Name="player_1h_doornotfixed_001_player_001">Oraindik ez dabil. Zerbait falta zait.</Entry>
       <Entry Name="player_1h_doornotfixed_002_player_001">Zerbait ez dago ondo konektatuta.</Entry>
@@ -3854,7 +3854,7 @@
       <Entry Name="player_3e_needtoclosedoor_001_player_001">Itxi atea, Simon!</Entry>
       <Entry Name="dialog_1_cathpluggedin_1_001_catherine_001">Eh? Itxaron, hau ez da... O, ez. WAU gu baino lehenago iritsi da DUNBATera, ezta?</Entry>
       <Entry Name="dialog_1_cathpluggedin_1_002_player_001">Beno, hitz egiten ari nintzen... hori ez da seinale ona.</Entry>
-      <Entry Name="dialog_1_cathpluggedin_1_005_catherine_001">Maldita izan bedi! DUNBAT zen gure aukerarik onena. Honek funtzionatuko zuela espero nuen.</Entry>
+      <Entry Name="dialog_1_cathpluggedin_1_005_catherine_001">Kaka zaharra! DUNBAT zen gure aukerarik onena. Honek funtzionatuko zuela espero nuen.</Entry>
       <Entry Name="dialog_1_cathpluggedin_1_008_player_001">Tira, ezin dugu orain amore eman. Beste modu bat egon behar du. Nola uste duzu egin duzula? Zer egin zuen taldeak ARCA amildegitik jaisteko?</Entry>
       <Entry Name="dialog_1_cathpluggedin_1_009_catherine_001">DUNBAT erabili ez bazuten, modu bakarra Omicroneko eskalatzailearekin izango zen. Jasogailu moduko bat omen da, amildegiaren hondoraino iristen dena.</Entry>
       <Entry Name="dialog_1_cathpluggedin_1_010_player_001">Ados, hori egingo dugu: goazen Omicronera eta igogailua hartuko dugu.</Entry>
@@ -3997,7 +3997,7 @@
       <Entry Name="victimbabbles_victimgoya_002_victimgoya_001">Hori beti gogoratu behar da.</Entry>
       <Entry Name="victimbabbles_victimgoya_003_victimgoya_001">Azkenean zoriontsu hil naiteke.</Entry>
       <Entry Name="victimbabbles_victimgoya_004_victimgoya_001">Ahaztu, Terry. Ez dut gehiago jokatuko.</Entry>
-      <Entry Name="victimbabbles_victimgoya_005_victimgoya_001">Maldita... entzun duzu, Brand?</Entry>
+      <Entry Name="victimbabbles_victimgoya_005_victimgoya_001">Kaka zaharra... entzun duzu, Brand?</Entry>
       <Entry Name="victimbabbles_victimgoya_006_victimgoya_001">Bai, irabazi dut. Erregea zokoratu dut.</Entry>
       <Entry Name="victimbabbles_victimgoya_007_victimgoya_001">Eskaera berri bat iritsi da? Ederki, goazen lanera!</Entry>
       <Entry Name="victimbabbles_victimgoya_008_victimgoya_001">Beste komunikazio satelite bat da?</Entry>
@@ -4281,7 +4281,7 @@
       <Entry Name="general_10iscancomplete_008_catherine_001">Horrela funtzionatzen du. Badakizu.</Entry>
       <Entry Name="general_10iscancomplete_009_player_001">Zer esan nahi duzu?</Entry>
       <Entry Name="general_10iscancomplete_010_catherine_001">Badakizu ez dela magia. Kopiatua izan zara. Eserlekuan lo zegoen Simon kopiatu dute... eta orain hemen zaude. Simonek Toronton bizitzen jarraitu zuen bezala.</Entry>
-      <Entry Name="general_10iscancomplete_011_player_001">Maldita izan zaitez, Cath. Bi Simons? Ezin dira bi Simon egon!</Entry>
+      <Entry Name="general_10iscancomplete_011_player_001">Baie ze osti txo, Cath! Bi Simons? Ezin dira bi Simon egon!</Entry>
       <Entry Name="general_10iscancomplete_012_catherine_001">Zer espero zenuen?</Entry>
       <Entry Name="general_10iscancomplete_013_player_001">Nire burua hartu eta beste gorputzean jar zenezan. Garun-transplante bat bezala.</Entry>
       <Entry Name="general_10iscancomplete_014_catherine_001">Sentitzen dut. Ez luke horrela funtzionatuko.</Entry>
@@ -4316,7 +4316,7 @@
       <Entry Name="general_5aleavepowerroomneedmoreitems_002_catherine_001">Primeran! Janzkera elikatu dezakegu.</Entry>
       <Entry Name="general_5aleavepowerroomneedmoreitems_003_player_001">Catherine? Hau entzuten baduzu, jarraitu egingo dut.</Entry>
       <Entry Name="general_7_itemreminders_findbrain_1_001_catherine_001">Kortex txip berri bat lortu behar dizugu, roboten barruan dagoena bezalakoa, zure garuna gordetzeko.</Entry>
-      <Entry Name="general_7a_turnofflockdown_001_catherine_001">Aizu, sistema pixka bat ireki da.</Entry>
+      <Entry Name="general_7a_turnofflockdown_001_catherine_001">Txo, sistema pixka bat ireki da.</Entry>
       <Entry Name="general_7a_turnofflockdown_002_player_001">Zerbait probatzen ari nintzen. Harritu egiten nau funtzionatu izanak...</Entry>
       <Entry Name="general_7a_turnofflockdown_003_catherine_001">Lan ona. Orain, Omicronen zati zabalago batean sartu beharko zenuke.</Entry>
       <Entry Name="general_10_escapedivehall_001_player_001">Itxi atea, Cath, blokeatu!</Entry>
@@ -4383,7 +4383,7 @@
       <Entry Name="general_7_itemreminders_allcomplete_1_001_catherine_001">Behar dugun guztia daukagu. Txarteldegiko exotrajearekin erabiltzeko ordua da.</Entry>
       <Entry Name="general_4_leavewithchip_001_player_001">Uste duzu txip honetan daukadan gela nahikoa dela gorputza eraikitzeko?</Entry>
       <Entry Name="general_4_leavewithchip_002_catherine_001">Ez, saiatu upel bete bat lortzen.</Entry>
-      <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_001_herber_001">Aizu, Andrea.</Entry>
+      <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_001_herber_001">Txo, Andrea.</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_002_suther_001">Bai.</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_003_herber_001">Cameronekin hitz egiten ari nintzen proteinaren disolbatzeari buruz. Egitura-gelaren agregatua hautsi dezakegula uste duzu konfigurazioa suntsitu gabe?</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_004_suther_001">A zer nolako aho-korapiloak... Cameroni entzuten egon zara, zalantzarik gabe. Zer nahi duzu, Raleigh?</Entry>
