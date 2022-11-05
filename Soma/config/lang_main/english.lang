@@ -423,7 +423,7 @@
       <Entry Name="MachineRoomRobotTerminalButtonWarning">OHARRA</Entry>
       <Entry Name="MachineRoomTerminalTitle">Produkzio-lerroaren kontrola</Entry>
       <Entry Name="MachineRoomTerminalStatusOn">Egoera: martxan</Entry>
-      <Entry Name="MachineRoomTerminalStatusOff">Egoera: atxilotua</Entry>
+      <Entry Name="MachineRoomTerminalStatusOff">Egoera: geldituta</Entry>
       <Entry Name="MachineRoomTerminalBtnProduction">Ekoizpena</Entry>
       <Entry Name="MachineRoomTerminalBtnTransmission">Transmisioa</Entry>
       <Entry Name="MachineRoomTerminalBtnLogs">Erregistroak</Entry>
@@ -755,7 +755,7 @@
       <Entry Name="Zeppelin_1">Zepelin - 049</Entry>
       <Entry Name="Zeppelin_1_IDOnly">049</Entry>
       <Entry Name="Zeppelin_1_Map">049</Entry>
-      <Entry Name="Zeppelin_1_Idle">Egoera: atxilotua</Entry>
+      <Entry Name="Zeppelin_1_Idle">Egoera: geldituta</Entry>
       <Entry Name="Zeppelin_1_Moving">Egoera: mugimenduan</Entry>
       <Entry Name="Zeppelin_2">Zepelin - 840</Entry>
       <Entry Name="Zeppelin_2_IDOnly">840</Entry>
@@ -1636,7 +1636,7 @@
       <Entry Name="AirlockPanelStatus_ArkError">EZ DA KARGARIK ATZEMAN!</Entry>
       <Entry Name="AirlockPanelStatus_Filling">KAMERA UREZ BETETZEN</Entry>
       <Entry Name="AirlockPanelStatus_Malfunction">AKATSA URBERRITZE-MEKANISMOAN!</Entry>
-      <Entry Name="AirlockPanelStatus_Collapse">SEKUENTZIA ATXILOTUA![br]EZIN DA PRESIOA BERDINDU!</Entry>
+      <Entry Name="AirlockPanelStatus_Collapse">SEKUENTZIA GELDITUTA![br]EZIN DA PRESIOA BERDINDU!</Entry>
       <Entry Name="AirlockPanelStatus_PressureDiff">PRESIO-ALDEA</Entry>
       <Entry Name="AirlockPanelStatus_Outside">KANPOAN</Entry>
       <Entry Name="AirlockPanelStatus_Inside">BARRUAN</Entry>
@@ -1839,7 +1839,7 @@
       <Entry Name="InfoLaunchHistoryCont_1">Proiektua: TACT-SX[br]Jabea: Haimatsu[br]Mota: Plataforma orbitaleko zamaontzia[br]Jaurtiketa: 2102-12-19 @ 13:00:00[br]*** MISIOA AMAITUTA**** br] Proiektua: ENDO[br]Jabea: Luna Prospex[br]Mota: Urruneko hautemate-satelitea[br]Jaurtiketa: 2103-12-20 @ 13:00[br]*** MISIOA AMAITUTA***</Entry>
       <Entry Name="InfoLaunchHistoryCont_2">Proiektua: TACT-SX[br]Jabea: Haimatsu[br]Mota: Plataforma orbitaleko zamaontzia[br]Jaurtiketa: 2102-12-26 @ 13:00:00[br]** MISIOA AMAITUTA****[br]Proiektua: REVEAL[br]Jabea: Sino-India Federazioa[br]Mota: Komunikazio satelitea[br]Jaurtiketa: 2102-12-27 @ 13:00[br]*** MISIOA AMAITUTA***</Entry>
       <Entry Name="InfoLaunchHistoryCont_3">Proiektua: TACT-SX[br]Jabea: Haimatsu[br]Mota: Plataforma orbitaleko zamaontzia[br]Jaurtiketa: 2103-01-02 @ 14:00:00[br]** MISIOA AMAITUTA****[br]Proiektua: AUGE[br]Jabea: Zentraler Deutscher Kern[br]Mota: Errekonozimendu satelitea[br]Jaurtiketa: 2103-01-03 @ 13:00[br]*** MISIOA AMAITUTA****</Entry>
-      <Entry Name="InfoLaunchHistoryCont_4">Proiektua: TACT-SX[br]Jabea: Haimatsu[br]Mota: Orbita-plataformako zamaontzia[br]Jaurtiketa: 2103-01-09 @ 12:30:00[br]*** ATXILOTUA***[br]Proiektua: KARMAN[br]Jabea: Atmos Surveyor[br]Mota: Satelite meteorologikoa[br]Jaurtiketa: 2103-01-11 @ 13:00[br]** ATXILOTUA****[br][br]Hamar urteko funtzionamendu bikainaren ondoren, Omega espazio-kanoia itxi egingo da, baina apokalipsia behar izan da hura ez erabiltzeko.[br]Vic Auclair</Entry>
+      <Entry Name="InfoLaunchHistoryCont_4">Proiektua: TACT-SX[br]Jabea: Haimatsu[br]Mota: Orbita-plataformako zamaontzia[br]Jaurtiketa: 2103-01-09 @ 12:30:00[br]*** GELDITUTA***[br]Proiektua: KARMAN[br]Jabea: Atmos Surveyor[br]Mota: Satelite meteorologikoa[br]Jaurtiketa: 2103-01-11 @ 13:00[br]** GELDITUTA****[br][br]Hamar urteko funtzionamendu bikainaren ondoren, Omega espazio-kanoia itxi egingo da, baina apokalipsia behar izan da hura ez erabiltzeko.[br]Vic Auclair</Entry>
       <Entry Name="NoteStorage">Errazioak Tauri aldatu zaizkio. Gose bazara, mugitu ipurdia eta itzuli horra.</Entry>
       <Entry Name="NotePowerMaintenance">Bateriak erabiltzen ditu itzalaldiek kaltetutako sarrailak behartzeko. - Kovsky</Entry>
       <Entry Name="SatFrameEmpty">Ez dago karga erabilgarririk</Entry>
