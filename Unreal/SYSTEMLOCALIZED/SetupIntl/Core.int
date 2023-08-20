@@ -1,0 +1,84 @@
+[Language]
+Language=Euskara
+LangId=10
+SubLangId=0
+
+[Public]
+Preferences=(Caption="Aurreratuak",Parent="Aukera aurreratuak")
+Preferences=(Caption="Fitxategi-sistema",Parent="Aurreratuak",Class=Core. System,Immediate=True)
+
+[Errors]
+Unknown=Errore ezezaguna
+Aborted=Ezeztatua
+ExportOpen=Errorea %s esportatzean: ezin izan da ireki '%s' fitxategia
+ExportWrite=Errorea %s esportatzean: ezin izan da idatzi '%s' fitxategian
+FileNotFound=Ezin izan da aurkitu '%s' fitxategia
+ObjectNotFound=Ezin izan da aurkitu '%s %s.s' objektua
+PackageNotFound=Ezin izan da aurkitu '%s' paketerako fitxategia
+PackageResolveFailed=Ezin izan da ebatzi paketearen izena
+FilenameToPackage=Ezin izan da bihurtu "%s" fitxategiaren izena paketearen izenera
+Sandbox='%s' paketea ez dago eskuragarri atal honetan
+PackageVersion='%s' paketearen bertsio okerra
+FailedLoad=Ezin izan da '%s' kargatu: %s
+ConfigNotFound=Konfigurazio-fitxategian ezin izan da '%s' aurkitu
+LoadClassMismatch=%s ez da %s.%s azpiklasea
+NotDll='%s' ez da DLL pakete bat; ezin izan da aurkitu '%s' esportazioa
+NotInDll=Ezin izan da '%s' aurkitu '%s.dll' -en
+FailedLoadPackage=Ezin izan da paketea kargatu: %s
+FailedLoadObject=Ezin izan da '%s %s.s' kargatu: % s
+TransientImport=Inportatutako objektu ez-egoiliarra: %s
+FailedSavePrivate=Ezin da %s gorde: Grafikoa %s kanpoko objektu pribatu bati lotuta dago
+FailedImportPrivate=Ezin da objektu pribaturik inportatu (%s).
+FailedCreate=Ez da %s %s aurkitu sortzeko
+FailedImport=Ezin izan da %s %s aurkitu '%s' fitxategian
+FailedSaveFile=Errorea '%s' fitxategia gordetzean: %s
+SaveWarning=Errorea '%s' gordetzean
+NotPackaged=Objektua ez dago paketean: %s %s
+NotWithin=%s objektua, %s ordez %s sortua
+Abstract=%s objektua ezin da sortu: %s klasea abstraktua da
+NoReplace=Ezin da %s ordez %s jarri
+NoFindImport=Ezin izan da %s fitxategia aurkitu inportatzeko
+ReadFileFailed=Ezin izan da %s fitxategia irakurri inportatzeko
+SeekFailed=Errorea fitxategia bilatzean
+OpenFailed=Errorea fitxategia irekitzean
+WriteFailed=Errorea fitxategian idaztean
+ReadEof=Irakurri fitxategiaren amaieratik haratago
+IniReadOnly=%s fitxategia eskrituraren aurka babestuta dago; ezin da konfigurazioa gorde
+UrlFailed=Ezin izan da URLa hasi
+Warning=Ohartarazpena
+Question=Galdera
+OutOfMemory=Memoria birtuala agortuta. Horrelakorik ez gertatzeko, leku gehiago askatu behar duzu disko gogor nagusian.
+History=Historia
+Assert=Asertzio-errorea: %s [Fitxategia: %s] [Lerroa: %i]
+Debug=Arazketa-asertzioaren errorea: %s [Fitxategia: %s] [Lerroa: %i]
+LinkerExists=%s erako estekagailua badago
+BinaryFormat=' %s' fitxategiak datu ezezagunak ditu
+SerialSize=%s: Serieko tamaina okerra: % i lortua, % i esperotakoa
+ExportIndex=Esportazio-indize okerra %i/%i
+ImportIndex=Inportazio-indize okerra %i/%i
+Password=Pasahitz ezezaguna
+Exec=Komando ezezaguna
+BadProperty='%s': Jabetza ' %s' ez da zuzena edo ez dago eskuragarri
+MisingIni=.ini fitxategia ez dago eskuragarri: %s
+[Query]
+OldVersion=%s fitxategia aurreko bertsio batekin gorde zen, baina ez da bertsio horrekin bateragarria. Baliteke irakurri ezin izatea edo ordenagailua blokeatzea. Saiatu nahi duzu?
+Name=Izena:
+Password=Pasahitza:
+PassPrompt=Sartu zure izena eta pasahitza:
+PassDlg=Nortasuna egiaztatzea
+Overwrite='%s' fitxategia eguneratu egin behar da. Dagoen bertsioa eguneratu nahi duzu?
+ 
+[Progress]
+Saving=%s artxiboa gordetzen...
+Loading=%s fitxategia kargatzen...
+Closing=Ixten
+
+[General]
+Product=Unreal
+Engine=Unreal motorra
+Copyright=Copyright 1998 Epic MegaGames, Inc.
+True=Egia
+False=Gezurra
+None=Bat ere ez
+Yes=Bai
+No=Ez

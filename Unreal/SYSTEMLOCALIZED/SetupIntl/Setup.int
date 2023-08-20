@@ -1,0 +1,119 @@
+[Errors]
+MissingProductTitle=%s ezin da egon %s karpeta honetan
+MissingProductInstalled=instalatuta
+MissingProductPatched=eguneratua
+MissingProductThis=Eguneratze-fitxategi hau
+MissingProduct=%s k behar du lehenik karpetan jartzea. Bilatu dagoen karpeta %s (r)entzat, edo irten eta instala ezazu orain.\n\nAzpian dagoen Interneteko esteka sakatu dezakezu produktuari buruzko informazio gehiago lortzeko.
+OldVersion=%s-ek %i-ren bertsioa edo ondorengoa behar du, baina zure sistemarena lehenagokoa da ( %i bertsioa duzu). Instalatu %i bertsioa edo ondorengoa, eta probatu berriro. Azpian dagoen Interneteko estekan klik egin dezakezu informazio gehiago lortzeko.\n\nOrain Setup itxi egingo da.
+FolderTitle="%s" karpeta
+FolderFormat=Sartu duzun karpetak, "%s", ez du balio. Saiatu berriro.
+AlreadyRunningTitle=Ezin duzu instalatu erabiltzen ari zaren bitartean.
+AlreadyRunning=Instalazio-prozesuarekin jarraitzeko, itxi exekutatzen ari diren ale guztiak, eta sakatu Onartu. Irteteko, sakatu Ezeztatu.
+WrongCdTitle=Fitxategiak ez dira aurkitu CD-ROMean
+WrongCd=%s fitxategia ez da aurkitu CD-ROM unitatean.\n\nEgiaztatu CD zuzena unitatean dagoela.
+MissingInstallerFile=Ez da instalazio-fitxategia aurkitu
+MissingReferenceFile=Ez da aurkitu erreferentziako fitxategia
+MissingSourceFile=Ez da jatorrizko fitxategia aurkitu
+FailedOpenSource=Ezin izan da jatorrizko fitxategia ireki
+FailedOpenDest=Ezin izan da helmugako fitxategia ireki
+FailedReadingSource=Ezin izan da jatorrizko fitxategia irakurri
+FailedWritingDest=Ezin izan da helmugako fitxategia idatzi
+FailedLoadingUpdate=Ezin izan da eguneratze-fitxategia kargatu
+FailedReadingReference=Ezin izan da erreferentziazko fitxategia irakurri
+FailedClosingSource=Ezin izan da jatorrizko fitxategia itxi
+FailedClosingDest=Ezin izan da itxi helmugako fitxategia
+FailedMakeDir=Ezin izan da helmugako fitxategirako direktorioa sortu
+AdviseBadMedia=Jatorri-erdia akastuna izan daiteke. CDtik fitxategiak instalatzen ari bazara, garbitu, egiaztatu ez dagoela zikinkeriarik zure CD-ROM unitatean, eta probatu berriro.
+AdviseBadDownload=Deskargatu dituzun fitxategi eguneratuak ustelak izan daitezke.
+AdviseBadDest=Baliteke xede-unitatea beteta egotea, edo baliteke sektore akastunak izatea.
+PatchCorrupt=%s zuzenketa partzialeko fitxategia ustelduta dago.\n\n%s
+CdFileMismatch=CD-ROMaren %s fitxategia ez da beharrezko bertsioa. Hori dela eta, ezin da %s partzialki zuzendu.
+
+[General]
+Space=%i Megabyteak
+Ready=Setup prest dago %s instalatzeko.\nHelmugako karpeta hau da: %s\n\nSakatu "Instalatu", instalazioa has dadin.\nSakatu "Ezeztatu" %s instalatu gabe irteteko.
+InstallCancel=Ezeztatu instalazioa
+CancelPrompt=Kontuz! Instalazioa orain ezeztatzen baduzu, %s -k ezin izango du behar bezala funtzionatu. Ezeztatu nahi duzu?
+CdDescription=%s-en eguneratzea instalatzeko, %s (e) ko jatorrizko CD-ROMaren fitxategi batzuk kopiatu behar dira.\n\nJarri %s-en CD-ROMa zure unitatean, eta sakatu "Hurrengoa". Zure CD-ROM unitateari dagokion letra zuzena ez bada, sartu hemen behean dagokiona.
+CdDrive=CD-ROM unitatea
+NotEnoughSpaceTitle=Ezin duzu hor instalatu.
+NotEnoughSpace=%s unitatean ez dago espazio nahikorik %s instalatzeko. Aukeratu espazio libre gehiago duen unitate bat, edo askatu espazio hori eta probatu berriro.
+Finish=&Amaitu
+RebootButton=&Berrabiarazi
+ExitButton=&Irten
+
+[IDDIALOG_FilerPageAutoPlay]
+IDC_Options=Unreal-en aukerak
+IDC_Play=&Jokatu
+IDC_Reinstall=&Berrinstalatu
+IDC_Uninstall=&Desinstalatu
+IDC_ReleaseNotes=&Abiarazte-oharrak
+IDC_Web=Unrealen webgunea
+IDC_Complete=Instalazioa behar bezala amaitu da!
+IDC_CompleteReboot=Instalazioa behar bezala amaitu da!\nJolasten hasi aurretik, ordenagailua berrabiarazi behar duzu.
+
+[IDDIALOG_FilerPageWelcome]
+IDC_WelcomePrompt=Zure ordenagailuan %s instalatzeko zorian zaude.\n\nSakatu "Hurrengoa" Setup exekutatzeko, edo sakatu "Ezeztatu" edozein unetan irteteko.\n\nLauki honetan dagoen informazioak Interneterako estekak ditu, eta horietan klik egin dezakezu informazio gehiago lortzeko.
+IDC_WelcomePromptUpdate=Programa honek %s bertsioaren zure alea eguneratuko du.\n\nSakatu "Hurrengoa" n Setup exekutatzeko, edo sakatu "Ezeztatu" edozein unetan irteteko.\n\nLaukian dagoen informazioak Interneteko estekak ditu, eta horietan klik egin dezakezu informazio gehiago lortzeko.
+IDC_LanguagePrompt=&Hizkuntza
+
+[IDDIALOG_FilerPageLicense]
+IDC_LicenseText=Irakurri lizentzia-akordio hau. Programa hau instalatzeko, lizentzia honen baldintzak onartu behar dituzu.
+IDC_LicenseQuestion=Aurreko lizentziaren baldintzak onartzen dituzu? Sakatu "Onartu" edo "Ezeztatu".
+
+[IDDIALOG_FilerPageComponents]
+IDC_ComponentsText=Aukeratu instalatu nahi dituzun osagaiak.
+IDC_ComponentsPrompt=&Osagaiak:
+IDC_DiskSpaceFrame=Espazioa diskoan
+IDC_DescriptionFrame=Deskribapena
+IDC_SpaceRequiredMessage=Beharrezkoa:
+IDC_SpaceAvailableMessage=Eskuragarri:
+
+[IDDIALOG_FilerPageFolder]
+IDC_FolderDescription=Setupek %s instalatuko du hurrengo karpetan.\n\nKarpeta horretan instalatzeko, sakatu Hurrengoa.\n\nBeste karpeta batean instalatzeko, idatzi karpeta horren izena, unitatearen letra barne, adibidez: C:\\Karpeta berria
+IDC_FolderDescriptionPatch=Setup-ek %s bertsioa eguneratuko du hurrengo karpetan.\n\nJarraitzeko, sakatu Hurrengoa.\n\Ale bat baino gehiago instalatuta baduzu, idatzi dagoen karpetaren izen osoa, unitatearen letra barne, adibidez: C:\\Karpeta bat
+IDC_FolderDescriptionMissing=Setup-ek lehendik dagoen %s-en bertsio bat eguneratuko du.\n\nTecleatu karpetaren izen osoa, unitatearen letra barne, adibidez: C:\\Karpeta bat
+IDC_FolderHolder=Helmugako karpeta
+IDC_Browse=& Aztertu
+IDC_Default=& Berregokitu
+IDC_SpaceAvailableMessage=Unitatean erabilgarri dagoen espazioa:
+IDC_FullSpaceRequiredMessage=Aurrez zehaztutako instalaziorako beharrezko espazioa:
+
+[IDDIALOG_FilerPageInstallProgress]
+IDC_InstallText=Artxiboak instalatzen...
+IDC_InstallingText=Instalatzen:
+IDC_ProgressText=Artxiboen aurrerapena:
+IDC_TotalText=Guztizko aurrerapena:
+
+[IDDIALOG_FilerPageUninstallProgress]
+IDC_InstallText=Artxiboak desinstalatzen...
+IDC_InstallingText=Prozesatzen:
+IDC_ProgressText=Artxiboen aurrerapena:
+IDC_TotalText=Guztizko aurrerapena:
+
+[IDDIALOG_Restart]
+IDC_Restart=Instalazioa amaitu da
+IDC_RestartMessage=Windows berrabiarazi behar duzu instalazioa osatzeko.
+IDC_RestartText=Berrabiarazi aurretik, itxi irekita dituzun aplikazio guztiak, MS-DOSeko edozein saio barne, eta gorde lantzen ari zaren dokumentu guztiak. Disketean disketeren bat sartuta baduzu, kendu. Ondoren, sakatu Windows berrabiarazi botoia.
+IDC_Complete=Windows berrabiarazi ondoren, Setup itxi egingo da.
+IDC_Restart=&Berrabiarazi Windows
+IDC_Exit=&Instalaziotik irten
+
+[IDDIALOG_WizardDialog]
+IDC_WizardDialog=Unrealeko artxibategia
+
+[IDDIALOG_FailedRequirement]
+IDC_FailedRequirement=Produktu hau ezin da hemen instalatu
+IDC_FailedMessage=Lehenik eta behin, produktu honek hurrengo produktua karpetan instalatuta egotea behar du. Bilatu dagoen karpeta, edo irten eta instala ezazu orain.\n\nBehean dagoen Interneteko estekan jar dezakezu informazio gehiago lortzeko.
+IDC_ProductHolder=Beharrezko produktua
+
+[IDDIALOG_ProductInfo]
+IDC_ProductHolder=Produktua
+IDC_ProductText=Produktua:
+IDC_VersionText=Bertsioa:
+IDC_DeveloperText=Sortzailea:
+
+[IDDIALOG_FilerPageUninstall]
+IDC_UninstallPrompt=Aukera horrek %s ezabatuko du.
+IDC_UninstallQuestion=Ziur zaude osagai horiek ezabatu nahi dituzula?
+

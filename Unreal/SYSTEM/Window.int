@@ -1,0 +1,65 @@
+[Errors]
+Critical=Errore larria
+FailedConfigLoad=%s (ezin izan da kargatu)
+
+[General]
+BrowseButton=...
+UseButton=Erabili
+ClearButton=Ezabatu
+OkButton=Onartu
+AddButton=Gehitu
+EmptyButton=Hustu
+InsertButton=Txertatu
+DeleteButton=Ezabatu
+DefaultsButton=Lehenetsitako konfigurazioa berreskuratzea
+BackButton=< &Atzera
+NextButton=&Hurrengoa >
+FinishButton=&Amaitu
+CancelButton=Ezeztatu
+InstallButton=&Instalatu
+YesButton=&Bai
+NoButton=&Ez
+AgreeButton=& Onartzen dut
+LanguagePrompt=Hizkuntza:
+LanguageWindow=Hautatu hizkuntza
+LogWindow=Erregistro-leihoa %s
+PropNone=Ez da elementurik hautatu
+PropSingle=Propietateak %s
+PropMulti=Propietateak %s (hautatutako %i)
+InsertCdText=Sartu Unreal-en CD-ROMa unitatean eta sakatu ONARTU jarraitzeko, edo Ezeztatu irteteko.
+InsertCdTitle=CDa behar da abian jartzeko
+AdvancedOptionsTitle=Aukera aurreratuak
+Low=Txikia
+High=Handia
+
+[FirstRun]
+Caption=Hasierako konfigurazioa
+LowMemory=Unrealek %i MB memoria duzula antzeman du. Jokoaren funtzionamendua hobetzeko, "Testuren xehetasun-maila baxua" eta "Soinu-kalitate baxua" aukerak aktibatu dira. Doikuntza horiek "Performance Settings" (Errendimendu-aukerak) izeneko menuan alda ditzakezu.
+NonMMX=Unreal-ek detektatu du MMXrik ez duen PC bat erabiltzen ari zarela. Horregatik, soinua doitua izan da PUZaren potentzia minimoa erabiltzeko. Aukera hauek alda ditzakezu "Aukera aurreratuak/Audioa" menuan.
+Starting=Unreal lehen aldiz hasten ari da. Arazoren bat baduzu, kontsultatu informazio-oharretako problemak ebazteko atala "Hasi" menuan.
+
+[IDDIALOG_Directory]
+IDC_Directory=Instalazio-karpeta
+IDC_ChoosePrompt=Aukeratu instalazio-karpeta.
+IDC_PathTitle=&Direktorioa:
+IDC_DirectoryTitle=&Direktorioak:
+IDC_DrivesTitle=&Unitateak:
+IDC_NetworkButton=&Sarea
+
+[IDDIALOG_Password]
+IDC_Password=Egiaztatu pasahitza.
+IDC_Prompt=Sartu zure izena eta pasahitza.
+IDC_Name=&Izena:
+IDC_Password=&Pasahitza:
+
+[IDMENU_NotifyIcon]
+ID_NotifyIcon=Menua
+ID_NotifyShowLog=Kontsola & UnrealServer
+ID_NotifyAdvancedOptions=Aukera &Aurreratuak
+ID_NotifyExit=&UnrealServer-tik irten
+
+[IDMENU_Log]
+ID_LogFile=&Artxiboa
+ID_LogAdvancedOptions=Aukera &Aurreratuak
+ID_LogFileExit=&Irten
+

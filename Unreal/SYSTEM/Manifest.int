@@ -1,0 +1,59 @@
+[Setup]
+LocalProduct=Unreal Gold
+DefaultFolder=C:\UnrealGold
+ReadMe=http://www.unrealgold.com/readme/spanish.htm
+SetupWindowTitle=Unreal Gold Setup
+ProductURL=http://www.unrealgold.com/
+VersionURL=http://unreal.epicgames.com/versions.htm
+Developer=Legend Entertainment
+DeveloperURL=http://www.legendent.com/
+ReleaseNotesURL=http://www.unrealgold.com/readme/spanish.htm
+UTDemoURL=http://www.unrealtournament.com/
+Logo=System\ConfigLogo.bmp
+
+[General]
+PlayLevelCommand=&Jokatu Unreal pantalla hau
+OpenLinkCommand=&Ireki Unreal esteka hau
+InstallModuleCommand=&Instalatu Unreal modulo hau
+EditLevelCommand=&Editatu Unreal pantalla hau
+
+[ContentGroup]
+Caption=Jokoaren edukia
+Description=Funtzionamendu egokirako instalatzea. Aukera hori hautatzen ez bada, jokoaren edukia CDtik kargatuko da programa gauzatzen den bitartean. Funtzionamendua txikiagoa izango da, baina disko gogorrean lekua aurreztuko da.
+
+[GameGroup]
+Caption=Unreal Gold - jokoa
+Description=Beharrezkoa da instalazioa egitea.
+
+[DirectXGroup]
+Caption=DirectX
+Description=Microsoft DirectX 7.
+
+[EditorGroup]
+Caption=Unreal Editorea
+Description=Munduko Unreal editorea, bere Unreal 3d giroak sortzeko. Eskarmentu handiko erabiltzaileentzat.
+
+[PlayShortcut]
+Caption=Ireki Unreal Gold
+
+[SafeModeShortcut]
+Caption=Unreal Gold modu babestua
+
+[EditorShortcut]
+Caption=Unreal Editorea
+
+[DocumentationShortcut]
+Caption=Dokumentazioa
+
+[ReleaseNotesShortcut]
+Caption=Release Notes
+
+[WebShortcut]
+Caption=Unreal Golden hasierako orria
+
+[UninstallShortcut]
+Caption=Desinstalatu Unreal Gold
+
+[UTDemoShortcut]
+Caption=Unreal Tournament Demo
+
