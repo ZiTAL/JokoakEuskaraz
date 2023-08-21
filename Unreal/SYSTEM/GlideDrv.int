@@ -1,0 +1,11 @@
+[Public]
+Object=(Name=GlideDrv.GlideRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=Glide2X.dll)
+Preferences=(Caption="Erreprodukzioa",Parent="Aukera aurreratuak")
+Preferences=(Caption="Bateragarria 3dfx Glide",Parent="Erreprodukzioa",Class=GlideDrv.GlideRenderDevice,Immediate=True)
+
+[GlideRenderDevice]
+ClassCaption="3dfx Glide Windows-erako"
+AskInstalled=Baduzu 3dfx txartelik instalatuta?
+AskUse=Unrealekin 3dfx txartela erabili nahi duzu?
+
+

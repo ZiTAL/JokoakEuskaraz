@@ -1,0 +1,42 @@
+[LevelInfo0]
+Title=Vortex Rikers
+
+[TranslatorEvent2]
+message=S.Kroon kapitainaren erregistroa: VortexRikers. Agian kaltegarria izan da gure misioa aldatzea. Planeta ezezagun baten grabitazio-eremuan gaude. Makinen arduradunari potentzia transmisio-mekanismoetara desbideratzeko agindu diot.
+
+[TranslatorEvent0]
+message=Nabigatzailearen egunkaria: Vortex Rikers. Ilargiko espetxera bidean gaude. Irismen luzeko sentsoreek masa magnetikoak detektatzen dituzte Gamma 83H sektorean. Kapitainak ikastaroa aldatzeko agindu du.
+Hint=Jo ezazu burua Armamentuan dagoen etengailuaren aurka indar-eremua desaktibatzeko.
+
+[TranslatorEvent1]
+message=Lehen Ofizialaren Egunkaria: Vortex Rikers. Presoak kezkatuago daude ilargiko espetxera hurbiltzen garenean. Segurtasunekoek diote presoak kontrolpean dituztela, baina dagoeneko hainbat tratatu behar izan dituztela laborategian.
+
+[TranslatorEvent11]
+message=ADI PRESO GUZTIEI: Ez ahaztu lagunekiko adeitsuak izatea. Ez da indarkeria onartuko.
+Hint=Aire bidetik zoaz ihes egiteko.
+
+[TranslatorEvent5]
+message=Makinen arduradunaren erregistroa: 254 Vortex Rikers espetxeko ontzia. Planeta misteriotsu honen grabitate trakzio-indarretik ihes egiteko ahal dudan indar guztia sendotzen ari naiz. Baina badirudi ez duela funtzionatzen.
+
+[TranslatorEvent6]
+message=Segurtasun-buruaren zaintzaren erregistroa: 254 Vortex Rikers espetxeko ontzia. Potentzia guztia transmisio-mekanismoetara eraman dute, baina inolako ondoriorik gabe. Arrastaka eramaten ari gara planetarantz. Ez dakit zer izango den gu.
+Hint=Egin tiro beirari uhatea irekitzeko.
+
+[TranslatorEvent10]
+message=PRESO GUZTIEI ARRETA: Gaur argiak itzaliko dira 20: 00etan. Salbuespenik gabe.
+Hint=Aire bidetik zoaz ihes egiteko.
+
+[TranslatorEvent9]
+message=Benjamin Nathanielen egunerokoa, 93an: Gaur nire urtebetetzea da. Ospatuko dut, espetxean beste saio bat egiten hasita.
+
+[TranslatorEvent7]
+message=Jonas Gershwinen egunkaria, 204. eguna: Nire gaurko bazkarian beste labezomorro bat zegoen. Nire buruari galdetzen diot nola sartzen diren ontzi horietan. 4A gelaxkako ardura horrek hain modu bitxian begiratzen badit, zin dagit lepoa kenduko diodala ebaki batetik!
+
+[TranslatorEvent8]
+message=Boris Clagueren egunkaria, 3. eguna: Hiru egun besterik ez dira hemen nagoela eta bi saihets hautsita dauzkat, izter bat hautsita eta 14 jostura. Ez dakit ilargiko espetxera iritsi ahal izango naizen, eta are gutxiago datorren astearen amaieran.
+
+[TranslatorEvent12]
+message=853 presoa, James Cavanaugh elektrokutatzeko prest.
+
+[TranslatorEvent3]
+message=Ofizial Buru Medikoaren Erregistroa: 254 Vortex Rikers espetxeko ontzia. Presoen arteko etengabeko borrokak okertzen ari dira. Urrats honetan hornidura gabe geratuko gara ilargiaren espetxera iritsi baino askoz lehenago.

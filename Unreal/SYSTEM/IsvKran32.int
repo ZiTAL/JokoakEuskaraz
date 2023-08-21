@@ -1,0 +1,85 @@
+[TranslatorEvent9]
+Message=Ingeniaritza nagusia euste-eremu batekin zigilatu da. Euste-eremutik sortutakoa suntsitu egin behar da ingeniaritzara sartu aurretik.
+
+[TranslatorEvent6]
+Message=Skaarj-en lehen jasoaldia isolatu egin da 4. ERDIALDEAN. Ez dut uste hodietatik pasa eta Nabe Nagusian sar daitezkeenik. Atzera egingo dugu 1. estalkira eta Ingeniaritza Euste-indarreko eremu batekin zigilatuko dugu.
+
+[TranslatorEvent34]
+Message=HOZTE-SISTEMAREN EGOERA: HOZTE-IHESA BEHEKO EUSTE-MAILA ZENTRALEAN. BAIMENIK GABEKO LANGILEEK SARTUTAKO ESKUZKO UKATUA.
+
+[TranslatorEvent27]
+Message=Gainazalaren esplorazioak planetaren azalerako jatorrizko egitura indigenak adierazten ditu. Goi-teknologiako dorre bat detektatu dute zeruko arroka batean, nolabaiteko indarrez. Potentzia-iturriak obelisko batetik datoz hiri honetan.
+
+[TranslatorEvent26]
+Message=Irismen laburreko gainazalaren esplorazioak adierazten du espazio-ontzi estralurtar handi bat dagoela planetaren gainazalean, orbita-arrastearen aurretik sartzen eta planetaren Taridio eremua uzten ikusi zen ontzi beraren deskribapenarekin bat datorrena.
+
+[TranslatorEvent24]
+Message=BIO SUIT KONTROL ESTAZIOA: SISTEMAREN AKATSA: 1. ESTALKIAN ARROTZEK DESBIDERATUTAKO POTENTZIA.
+
+[TranslatorEvent35]
+Hint=HOZTE-SISTEMAREN EGOERA: ERRORE SINTAKTIKOA? BAIMEN OKERRA.
+
+[TranslatorEvent23]
+Message=OHARRA: MOTORREN HOZTE IHESA EREMU HONETAKO GAINAZAL BAXUENEAN
+
+[TranslatorEvent22]
+Message=ESPOSIZIOAN DAGOEN ABISUA EUSTE-NUKLEOA: NUKLEO HAU OSO LEHERGARRIA DA - MANTENDU URRUN ARMAK JAURTI AURRETIK.
+
+[TranslatorEvent21]
+Message=ESPOSIZIOAN DAGOEN ABISUA EUSTE-NUKLEOA: NUKLEO HAU OSO LEHERGARRIA DA - MANTENDU URRUN ARMAK JAURTI AURRETIK.
+
+[TranslatorEvent20]
+Message=EUSTE-ENERGIA GUNE OSO HEGAZKORRAK: ARMA GUZTIAK LEKU SEGURUAN GORDE BEHAR DIRA.
+
+[TranslatorEvent18]
+Message=INGENIARITZA NAGUSIA: EMERGENCIARI EUSTEKO EREMU AKTIBOA. EUSTE-EREMUKO SORGAILUAREN URREZKO NUKLEOAK SUNTSITU BEHAR DIRA EREMU HORI DESAKTIBATU AURRETIK.
+AltMessage=INGENIARITZA NAGUSIA: HAUTEMANDAKO ARROTZAK ARRETAZ JOKATU.
+
+[TranslatorEvent14]
+Message=SISTEMA HOZGARRIAREN LARRIALDIKO DRAINATZE-BALBULA AKTIBATUTA.
+
+[TranslatorEvent4]
+Message=Lehen mailako badia anezka: Dockmaster Ivan Romanov ISV-KRAN bigarren ofizialaren erregistroa. Kaiko ateen kontrol-panela berriz aktibatu daiteke sarbide-hodietako bat deuseztatuz gero.
+
+[TranslatorEvent3]
+Message=Lehen mailako badia anezka: Dockmaster Ivan Romanov ISV-KRAN bigarren ofizialaren erregistroa. Escotilla Iris nagusia zigilatu dut laser soldatzaile ekipo batekin. Alienigena ez da nire badia anezkan sartuko.
+
+[TranslatorEvent16]
+Message=SISTEMA HOZGARRIKO LARRIALDI-PONPA AKTIBATUTA.
+
+[TranslatorEvent17]
+Message=ABISUA: GAINEZKA EGITEA MOTORRAK HOZTEAN. EREMU HORRETAN SARTU AURRETIK, LARRIALDIETAKO PONPA ETA HOZTEKO SISTEMAREN DRAINATZE-BALBULA AKTIBATU BEHAR DIRA.
+AltMessage=MOTORRAREN LARRIALDIKO HOZTEKO PONPAK AKTIBATZEN DITU. EUSTE-EREMUKO SISTEMAK ARROTZAK IZATEAGATIK DESBIDERATZEN ARI DIRA.
+
+[TranslatorEvent8]
+Message=Lehen mailako anezka-badiako ateak deuseztatzeko kontrolak
+AltMessage=Potentzia handieneko Lehen Mailako Anezka Badiako ateak deuseztatzeko kontrolak - Emaitza positiboa.
+
+[TranslatorEvent11]
+Message=TURBO PRIMARIOA ? IGOGAILUAK MOTORREN GEHIENEZKO POTENTZIA BEHAR DU.
+AltMessage=TURBO PRIMARIOA IGOGAILUAREN POTENTZIA ZAHARBERRITUA-ABISUA: 2 SEGUNDOKO ATZERAPENA DAGO KARGATZEKO
+
+[TranslatorEvent31]
+Message=ISV-KRAN, ESTALKIKO EGOERA 3: EZEZAGUN ARROTZAK MOTORREN SISTEMAK DESBIDERATZEN SAIATZEN DIRA. MOTORREN % 75EKO POTENTZIA AHALMENA.
+
+[TranslatorEvent32]
+Message=PLANETAREN ESPLORAZIO ESTAZIOA. GALAXIA ALINENIGENOEN NABEA DETEKTATU ETA ATMOSFERATIK ATERA DA. ESKOLTA ONTZI ALINENIGENA IPARRALDEKO HARANEAN LURRERATZEN ARI DA, EKAITZ ELEKTRIKO ATMOSFERIKOETATIK GERTU.
+
+[TranslatorEvent30]
+Message=MOTOR NAGUSIAREN DIAGNOSTIKO-PANELA. MOTORREN % 75EKO POTENTZIA ERABILGARRI. HOZTEKO IHESA AURKITU DA EUSTE-SORGAILU ZENTRALAREN EREMUAN. POTENTZIA DESBIDERATZEKO AZKEN SAIAKERAN HUTS EGIN DA.
+
+[TranslatorEvent29]
+Message=ISV-KRAN, MOTOR-EGOERA ? LINEATIK KANPO. KALTEEN TXOSTENA: GUTXIENEKO BIZI-EUSKARRIKO LINEAKO SISTEMAK. GEHIENEKO POTENTZIA MAILAK 1. ESTALKIAN. NABEAREN KROSKOA HAUSTEA BEHAKETA-GELAN.
+
+[TranslatorEvent28]
+Message=LINEAKO EUSTE-EREMUAREN SORGAILUA. IXTEKO INGENIARITZAREN TENTSIO HANDIEGIAK ERAGINDAKO URREZKO POTENTZIA EZEGONKORRA DUTEN NUKLEOAK. INGENIARITZAKO EUSTE-INDARREKO EREMU NAGUSIAK DESAKTIBA DAITEZKE URREZKO NUKLEOAK SUNTSITUZ.
+
+[TranslatorEvent5]
+Message=Panel hau desbideratu egin behar da aktibatzeko.
+
+[TranslatorEvent10]
+Message=Skaarj-ak kaiaren eremuan infiltratu dira. Atzera egingo dugu 1. estalkira, eta tentsio handiko behin-behineko hesi bat sortuko dugu. Horrela ziur egongo gara.
+
+[LevelInfo2]
+Title=ISV-KRAN 3. eta 2. estalkiak
+LevelEnterText=ISV-KRANeko 3. estalkian sartzen ari zarete.

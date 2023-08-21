@@ -1,0 +1,100 @@
+[Public]
+Object=(Name=UPak.GravityMatch,Class=Class,MetaClass=Engine.GameInfo)
+Object=(Name=UPak.CloakMatch,Class=Class,MetaClass=Engine.GameInfo)
+Object=(Name=UPak.TerranWeaponMatch,Class=Class,MetaClass=Engine.GameInfo)
+Object=(Name=UPak.MarineMatch,Class=Class,MetaClass=Engine.GameInfo)
+
+[TransitionNullHUD]
+Statheader=Heriotzen estatistikak:
+CARStat=Eraso-erriflea
+RLStat=Suziri-jaurtigailuak
+GLStat=Granada-jaurtigailuak
+ASMDStat=ASMD
+AutomagStat=Automag
+DispersionStat=Sakabanatze-pistola
+EightballStat=Bola beltza
+FlakCannonStat=Aireko kanoia
+GESBioRifleStat=Biorifle GES
+MinigunStat=Minipistola
+RazorjackStat=Hortza
+RifleStat=Erriflea
+StingerStat=Tiratzailea
+TotalStat=Heriotzak guztira
+LogEntryMsg=ERREGISTROKO IDATZOHARRA:
+
+[UPakSinglePlayer]
+GameName=Unreal: Na Palira itzulera
+
+[GrenadeLauncher]
+PickupMessage=Granada-jaurtigailua duzu.
+ItemName=Granada-jaurtigailuak
+
+[Cloak]
+ExpireMessage=desaktibatuta.
+PickupMessage=Ezkutatzeko gailua duzu.
+ItemName=Ezkutatzeko gailua
+M_Activated="aktibatuta"
+M_Deactivated="desaktibatuta"
+
+[CARifle]
+PickupMessage=Erasorako erriflea daukazu.
+ItemName=Eraso-erriflea
+
+[RocketLauncher]
+PickupMessage=Suziri-jaurtigailua daukazu.
+ItemName=Suziri-jaurtigailuak
+
+[UPakChooseGameMenu]
+MenuList[0]="Na Palira itzultzea"
+MenuList[1]=Unreal
+MenuList[2]=Unreal
+
+[UPakDebugger]
+ItemName=UPak araztegia
+
+[UPakScubaGear]
+ItemName=Urpekaritza-ekipoa
+PickupMessage=Urpekaritza-ekipoa lortu duzu
+M_Deactivated=desaktibatuta... Kargatzen.
+
+[UPakMaleOne]
+MenuName=Gizona 1
+
+[UPakFemaleOne]
+MenuName=Emakumea 1
+
+[UPakFemaleTwo]
+MenuName=Emakumea 2
+
+[UPakMaleThree]
+MenuName=Gizona 3
+
+[UPakMaleTwo]
+MenuName=Gizona 2
+
+[CARifleClip]
+PickupMessage=50 balako kargagailua duzu eraso-erriflearentzat.
+
+[GLAmmo]
+PickupMessage=10 granada lortu dituzu.
+
+[RLAmmo]
+PickupMessage=10 suziri dituzu.
+
+[CompTablet]
+PickupMessage=Plaka trinkoa duzu.
+
+[GravityMatch]
+GameName=PartidaLarritasuna
+
+[CloakMatch]
+GameName=PartidaEzkutatzea
+
+[TerranWeaponMatch]
+GameName=ArmaTerran partida
+
+[MarineMatch]
+GameName=Itsas partida
+
+[UPakHUD]
+MultWeapSlotMsg=Sakatu armak hautatzeko botoia armaz aldatzeko.

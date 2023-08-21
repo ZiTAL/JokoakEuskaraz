@@ -1,0 +1,19 @@
+[LevelInfo2]
+Title=Galdaketaren mugak
+
+[TranslatorEvent2]
+Message=Garabiaren kontrolak beheko aginte-gelan aktibatu behar dira.
+
+[TranslatorEvent3]
+Message=OHARRA: Isuri toxikoen metaketak muga onargarriak gainditzen ditu. Kontuz ibili armekin Tarydium-en azpiproduktuen inguruan.
+
+[TranslatorEvent6]
+Message=OHARRA: Bi ponpak aldi berean aktibatzeak gehiegizko presioagatik eztanda eragin dezake!
+
+[Counter0]
+CountMessage=% i geratzen da...
+CompleteMessage=Bonba suntsituak! Larrialdietako ateak irekitzea.
+
+[TranslatorEvent5]
+Message=OHARRA: Debekatuta dago Tarydiumeko azpiproduktuetara hurbiltzea, jantzi antitoxiko egokia izan gabe.
+AltMessage=Saiatu!

@@ -1,0 +1,27 @@
+[LevelInfo3]
+Title=Nali gaztelua
+
+[Trigger9]
+message=Txop txop!
+
+[TranslatorEvent5]
+message=Kaperan Jakituriaren Biblia irakurri duen argiztatuak bakarrik izango du dorrerako atea zabalik sarrera jainkotiar hauetan zehar.
+Hint=Joan kaperara eta irakurri liburua sartu ahal izateko.
+
+[TranslatorEvent1]
+message=Hemen eserita nago, heriotzaren zain. Itxaronaldia heriotza bera baino okerragoa da. Beldurrak arima urratzen dit. Besteen kexuak, ziegaren erraietara eramaten dituztenean, Zeruko Deabruari hegoekin sakrifikatuak izateko.
+
+[TranslatorEvent4]
+message=Jakintzaren bila dabilenak saria jasoko du festako areto nagusian gordetako liburukiak ikasteagatik.
+
+[TranslatorEvent3]
+message=Dorreko bost begietako deabrua garaituz bere ausardia frogatzen duen gudaria bakarrik sar daiteke ziegan.
+Hint=Dorre garaiena ikusten duzu eta deabrua hiltzen du ziegan sartu ahal izateko.
+
+[TranslatorEvent2]
+message=Dorreko bost begietako deabrua garaituz bere ausardia frogatzen duen gudaria bakarrik sar daiteke ziegan.
+Hint=Dorre garaiena ikusten duzu eta deabrua hiltzen du ziegan sartu ahal izateko.
+
+[TranslatorEvent0]
+message=Jarraitu beharreko bidea luzea eta itogarria da, baina borondatea eta bihotz gogorra duenak desafioak garaituko ditu.
+Hint=Bidea libre dago orain.

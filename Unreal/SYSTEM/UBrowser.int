@@ -1,0 +1,83 @@
+[Public]
+Object=(Name=UBrowser.UBrowserConsole,Class=Class,MetaClass=Engine.Console)
+
+[UBrowserConsole]
+ClassCaption=Unrealeko kontsola
+
+[UBrowserServerPing]
+AdminEmailText=Administratzailearen e-maila
+AdminNameText=Administratzailearen izena
+ChangeLevelsText=Mailak aldatzea
+MultiplayerBotsText=Jokalari anitzeko botak
+FragLimitText=Frag muga
+TimeLimitText=Denbora-muga
+GameModeText=Jolasteko modua
+GameTypeText=Joko-mota
+GameVersionText=Jokoaren bertsioa
+WorldLogText=ngStats World Stat-Logging
+TrueString=Enabled
+FalseString=Disabled
+
+[UBrowserServerListWindow]
+PlayerCountName=Jokalariak
+ServerCountName=Zerbitzariak
+QueryServerText=Master zerbitzari pribatua
+QueryFailedText=Master zerbitzariak huts egin du
+PingingText=Zerbitzariei Ping egiten
+CompleteText=Osorik
+
+[UBrowserOpenBar]
+OpenText=Open:
+OpenHelp=URL estandarra sartu, edo historiatik bat aukeratu. Sakatu Enter aktibatzeko.
+
+[UBrowserMainClientWindow]
+FavoritesName=Gogokoak
+IRCName=Txata
+
+[UBrowserServerGrid]
+ServerName=Server
+PingName=Ping
+MapNameName=Maparen izena
+PlayersName=Jokalariak
+
+[UBrowserInfoMenu]
+RefreshName=&Refresh berriztu
+CloseName=&Close
+
+[UBrowserMainWindow]
+WindowTitleString=Server Browser
+
+[UBrowserRightClickMenu]
+RefreshName=&Refresh guztiak berriztu
+InfoName=&Server eta jokalariaren informazioa
+FavoritesName=Gehitu &Favorites
+RemoveFavoritesName=Ezabatu &Favorites
+RefreshServerName=&Ping zerbitzari hau
+PingAllName=&Ping Zerbitzari guztiak
+
+[UBrowserPlayerGrid]
+NameText=Name
+FragsText=Frags
+PingText=Ping
+TeamText=Team
+MeshText=Mesh
+SkinText=Skin
+IDText=ID
+
+[UBrowserGSpyLink]
+ResolveFailedError=Master zerbitzaria ezin izan da ebatzi
+TimeOutError=Garaiz kanpo
+CouldNotConnectError=Master zerbitzaria garaiz kanpo konektatuz:
+
+[UBrowserHTTPLink]
+ResolveFailedError=Master zerbitzaria ezin izan da ebatzi
+TimeOutError=Garaiz kanpo
+CouldNotConnectError=Master zerbitzaria garaiz kanpo konektatuz:
+
+[UBrowserSubsetFact]
+NotFoundError=Ezin izan da leihoa aurkitu.
+NotReadyError=Leihoa ez dago prest.
+
+[UBrowserRulesGrid]
+RuleText=Rule
+ValueText=Value

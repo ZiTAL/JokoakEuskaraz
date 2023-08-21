@@ -1,0 +1,16 @@
+[General]
+Video=Unreal Gold bideo-konfigurazioa
+
+[Descriptions]
+D3DDrv.D3DRenderDevice=Hardwareak renderizatutako 3D zuzentaraua. Glide 3dfx aukeratzen duten 3dfx txartelen jabe direnak. Mota honetako txartel grafikoekin bateragarria: Matrox G400, NVIDIA GeForce, GeForce2, TNT, TNT2, ATI Radeon, Rage 128, eta S3 Savage4 Savage2000.
+OpenGLDrv.OpenGLRenderDevice=OpenGL hardwareak errenderizatuta.
+GlideDrv.GlideRenderDevice=3dfx hardware rendering using Glide. 3dfx txartel grafikoa (Voodoo, Voodoo2, Banshee, Voodoo3, Voodoo4, and Voodoo5).
+MetalDrv.MetalRenderDevice=S3 Savage4 txartel grafikoak dituzten erabiltzaileentzat.
+SoftDrv.SoftwareRenderDevice=Txartel grafiko guztiekin bateragarria.
+
+[IDDIALOG_ConfigPageRenderer]
+IDC_ConfigPageRenderer=
+IDC_RenderPrompt=Hautatu aukeretako bat.
+
+[IDDIALOG_WizardDialog]
+IDC_WizardDialog=

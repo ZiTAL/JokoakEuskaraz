@@ -1,0 +1,21 @@
+[Public]
+Class=(Class=WinDrv.WindowsClient,SuperClass=Engine.Client)
+Preferences=(Caption="Irudia",Parent="Aukera aurreratuak",Class=WinDrv.WindowsClient,Immediate=True,Category=Display)
+Preferences=(Caption="Joystick",Parent="Aukera aurreratuak",Class=WinDrv.WindowsClient,Immediate=True,Category=Joystick)
+
+[Errors]
+Failed3D=Ezin izan da hasi 3d hardwarea
+DDrawMode=DirectDrawk ezin izan du eskatutako bideo-modalitatea lortu.
+
+[General]
+ViewPersp=Perspektiben mapa
+ViewXY=Aireko ikuspegiaren mapa
+ViewXZ=XZ mapa
+ViewYZ=YZ mapa
+ViewOther=Leihoa
+Color16=& 16 biteko koloreak
+Color32=& 32 biteko koloreak
+AdvancedOptions=Aukera aurreratuak
+
+[WindowsClient]
+ClassCaption="Windowseko administratzaile estandarra"

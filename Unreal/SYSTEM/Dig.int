@@ -1,0 +1,49 @@
+[TranslatorEvent2]
+message=Harobed Herrixka mendi hauen beste aldean dago. Bi eguzkiak irten arte itxarongo dut eta Rrajigar meategian zehar jarraituko dut. Bide bakarra da.
+
+[TranslatorEvent0]
+message=ALERTA: Nali ibaiaren esklaboen erresistentzia detektatu da 3A sektorean. Matxinadak ezabatzeko baimendutako indar hilgarria.
+
+[TranslatorEvent1]
+message=OHARRA: Meategiaren beheko erdian dauden sarbide-zubiak ez dira seguruak. Kontuz ibili.
+
+[TranslatorEvent11]
+message=OHARRA: C-6 eta D-8 ataletan hautemandako intrusoa. Langile guztien ardura da beren zonaldea patruilatzea.
+Hint=Bota hurrengo botoi gorria zubi estua labatik igotzeko.
+
+[TranslatorEvent8]
+message=Indar-eremuaren potentzia-iturriaren lehen mailako egoera aktibatuta dago.
+Hint=Sakatu hormako botoi gorriak haien kontra talka eginez.
+
+[TranslatorEvent7]
+message=Indar-eremuaren potentzia-iturriaren bigarren mailako egoera aktibatuta dago.
+Hint=Sakatu hormako botoi gorriak haien kontra talka eginez.
+
+[TranslatorEvent9]
+message=OHARRA: Indar-eremuaren potentzia-iturriaren lehen mailako egoera ez dago aktibo. Bi Segurtasun Egoera lortu da.
+
+[TranslatorEvent10]
+message=OHARRA: Indar-eremuaren potentzia-iturriaren bigarren maila aktibatuta dago. Bi Segurtasun Egoera lortu da.
+
+[TranslatorEvent6]
+message=Indarrik gabeko indar-eremua. Sistema normal guztiak.
+Hint=Indar-eremua desaktibatu behar da. Bilatu kontrol-gela.
+
+[TranslatorEvent5]
+message=OHARRA! Indar-eremua desaktibatuta. C-6 atalean atzemandako intrusoa. Baimenik gabeko presentzia oro ezabatzen du.
+Hint=Bota kanoi gorri guztiak.
+
+[LevelInfo0]
+Title=Rrajigar meategia
+
+[TranslatorEvent19]
+message=OHARRA: Eremua libre egon behar da garraio-jasogailuak funtziona dezan.
+
+[TranslatorEvent15]
+message=ONDO hilda zaude.
+
+[TranslatorEvent14]
+message=Baina zer deabru ari zara hor goian?
+
+[TranslatorEvent20]
+message=Indar-eremuaren kontrol-eremua

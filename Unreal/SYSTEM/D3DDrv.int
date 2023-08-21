@@ -1,0 +1,10 @@
+[Public]
+Object=(Name=D3DDrv.D3DRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
+Preferences=(Caption="Erreprodukzioa",Parent="Aukera aurreratuak")
+Preferences=(Caption="Bateragarria 3D Zuzentarauarekin",Parent="Erreprodukzioa",Class=D3DDrv.D3DRenderDevice,Immediate=True)
+
+[D3DRenderDevice]
+ClassCaption="Bateragarria 3D Zuzentarauarekin"
+AskInstalled=Direct3D erabili nahi duzu?
+AskUse=
+

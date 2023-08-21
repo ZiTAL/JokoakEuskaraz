@@ -1,0 +1,23 @@
+[LevelInfo0]
+Title=Terraniux sotoa
+
+[SpecialEvent0]
+Message=ALERTA
+
+[TranslatorEvent0]
+Message=Biowaste fluxuaren kontrola: fluxua konstantea da. Kontrata ezazu biskositatean edo presioan fluktuazio arriskutsuak izateko. Badirudi alarmak oraindik arazoak dituela, funtzionamendu akastuna izanez gero bertan behera uzteko bi kontrolak aktibatzen baititu. "
+AltMessage="Igogailua aktibatuta. Esleitutako zereginak amaitzen dituzten langile guztiei gogorarazten zaie.
+
+[TranslatorEvent5]
+Message=Drainatze-egoera: Biowaste-ren fluxua maila nominaletan dago. Martxan dauden ponpa guztiak. C sekzioa hutsik eta Biowasterrak gainezka egiteko moduan. Ziurtatu kanalizazio erregularra mantentzen dela.
+
+[TranslatorEvent4]
+Message=Ikerketa Zientifikoko Laborategian eta Atal Hidroponikoan segurtasun-pantailak aktibatuz. Sarbide-puntuen inguruko segurtasun-elementu guztiak A, B eta C ataletan, 1. igoeran sartzeko.
+Hint=A, B eta C euste-gelak bilatu eta 1. igogailura sartzeko botoiak aktibatu.
+
+[TranslatorEvent3]
+Message=Kontrol-gelaren egoera: presurizatua eta itxia. Debekatuta dago sartzea, larrialdi kasuetan izan ezik.
+
+[TranslatorEvent1]
+Message=Ponpaketa-estazioa aktibatu da; eragiketa egin ondoren, biltegiratze-ahalmena % 32 izatea espero da.
+AltMessage=D atala: edukieraren %54ra iritsita.

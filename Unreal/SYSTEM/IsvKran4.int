@@ -1,0 +1,43 @@
+[TranslatorEvent7]
+Message=Biltegiko segurtasun-barrak. Biltegiko goiko ganbaran deuseztatzea.
+
+[TranslatorEvent33]
+Message=SEGURTASUN-DESBIDERATZEA BLOKEATZEKO ESTAZIOA: SEGURTASUN-ITXITURAK AKTIBATUTA.
+AltMessage=SEGURTASUN-DESBIDERATZEA BLOKEATZEKO ESTAZIOA: ITXITURA GUZTIAK IREKITA, BILTEGIRA SARTZEKO BAIMENA.
+Hint=Ukitu panel hau segurtasun-itxiera irekitzeko
+
+[TranslatorEvent19]
+Message=KUBIERTAREN EGOERA 4 ISV-KRANen: INTRUSOZKO ALERTA: SEGURTASUN-ITXITURAK AKTIBATUTA: ARROTZAK ESTALKI GUZTIETAN ETA MOTOR NAGUSIAK SUSPERTZEN SAIATZEN DIRA ? LARRIALDIKO TELEGARDIAK 1. ESTALKIAN, ZUBIA ZIURTATZEKO.
+
+[TranslatorEvent0]
+Message=AFT KARGA-ESTAZIOA: ISV-KRAN: Mendixka honetan gaude duela bi hilabetetik. Gauero dinosauro moduko lau piztia handi horiek etortzen dira eta ontziaren atzealdean jotzen dute. Badirudi ez direla oso argiak eta oso motel doazela.
+
+[TranslatorEvent2]
+Message=Sarkinen segurtasun-itxiturak aktibatuta - Beharrezkoa: aireztapen-prozesamenduko behegainean kokatutako desbideratze-panela.
+AltMessage=Arrotzentzako segurtasun-itxiturak desaktibatuta
+
+[TranslatorEvent13]
+Message=Biltegiko segurtasun-barrak kontrolatzeko panela: ZERBITZUTIK KANPOKO PANELA-ORDENAGAILUAREN KONTSOLATIK DESBIDERATUTAKO POTENTZIA.
+AltMessage=Biltegiko segurtasun-barrak desaktibatuta: Kaira sartzeko baimena.
+
+[TranslatorEvent1]
+Message=Aireztapena prozesatzeko behegaineko hodiak: Mantentze-lanetako langileek bakarrik: BEHEGAINEKO MOTOR HOZGARRIKO IHESAREN ABISUA.
+
+[TranslatorEvent12]
+Message=BILTEGIKO SEGURTASUN-BARRAKO KONTROL-PANELERA DESBIDERATUTAKO POTENTZIA.
+
+[TranslatorEvent37]
+Message=Anders Kerig kaboa: Badatoz! Aireztapen-hodietatik entzuten ditut. Biltegiko segurtasun-itxiturak aktibatuko ditut eta giza DNA kodea ezarriko dut, Terranek bakarrik desbideratu ahal izan ditzaten blokeo-sistemak.
+
+[TranslatorEvent38]
+Message=Pelli Onsov lurmuturra: Nire berriak irakurtzen ari bazara, seguruenik hilda nago eta gure ontzia "Skaarj" izeneko estralurtarrek inbaditu dute. Zure irteera bakarra urreari eusteko nukleoak suntsitzea, motorrak suspertzea eta 1. estalkira iristea da.
+
+[TranslatorEvent36]
+Message=Ofizial Subordinatua: Yuri Andromov: Gerrako destakamendu estralurtarrak kroskoa lehertu du eta espaziontzian sartzen ari da aireztapen ardatzen bidez - Kerig, Onsov eta biok erresistentzia jarriko dugu hemen Stingerrekin karga eremuan.
+
+[TranslatorEvent15]
+Message=ALARMA ASKATZEKO PRESTATUTAKO PANELA ? BAIMENIK GABEKO ERABILTZAILEEK ERABILTZEN DUTEN SISTEMA ?
+
+[LevelInfo2]
+Title=ISV-KRAN Deck 4
+LevelEnterText=ISV-KRANeko 4. estalkian sartzen ari zarete

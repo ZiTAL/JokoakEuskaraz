@@ -1,0 +1,14 @@
+[TranslatorEvent38]
+Message=Corporeal Pelli Onsov: Nire berriak irakurtzen ari bazara, ziur aski hilda egongo naiz eta gure itsasontzia estralurtarrek inbaditu dute.
+
+[TranslatorEvent1]
+Message=Egunerokoa: M. Mottobanov: ISV-Kran jarri dugu giza jarduerak esploratzeko nabearen ateetatik kanpo. Norbait sartzen denean, argi gorria, nabeko ateak irekitzen dira. Plataforma behean egongo da denbora gutxian.
+Hint=Sartu ontzian eta geratu argi gorrian. Nabeko ateak ireki eta igogailu bat jaitsiko da. Oso azkarra izan behar duzu igogailura igo eta nabera salto egin nahi baduzu igogailuak txikitu baino lehen.
+
+[TranslatorEvent0]
+Message=Diario N. Onatop: Orain arte lortu dugu... beste piztia titaniko batekin aurrez aurre jartzea besterik ez da falta. Orain atseden hartu eta bihar konponduko dugu arazoa. ISV-Kranekin komunikatu gabe, irratiak seinale estatikoak baino ez ditu jasotzen.
+Hint=Sartu ontzian eta geratu argi gorrian. Nabeko ateak ireki eta igogailu bat jaitsiko da. Oso azkarra izan behar duzu igogailura igo eta nabera salto egin nahi baduzu igogailuak txikitu baino lehen.
+
+[LevelInfo2]
+Title=ISV-KRAN Deck 4
+LevelEnterText=ISV-KRAN 4. plataforman sartzen

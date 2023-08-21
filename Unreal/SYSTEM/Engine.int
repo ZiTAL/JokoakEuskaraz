@@ -1,0 +1,148 @@
+[Public]
+Object=(Name=Engine.Console,Class=Class,MetaClass=Engine.Console)
+Preferences=(Caption="Aurreratua",Parent="Aukera aurreratuak")
+Preferences=(Caption="Jokoaren motorra konfiguratzea",Parent="Aurreratua",Class=Engine.GameEngine,Category=Settings,Immediate=True)
+Preferences=(Caption="Teklen funtzioak",Parent="Aurreratua",Class=Engine.Input,Immediate=True,Category=Aliases)
+Preferences=(Caption="Teklen funtzioen estekak",Parent="Aurreratua",Class=Engine.Input,Immediate=True,Category=RawKeys)
+Preferences=(Caption="Controladores",Parent="Aukera aurreratuak",Class=Engine.Engine,Immediate=False,Category=Drivers)
+Preferences=(Caption="Zerbitzari publikoaren informazioa",Parent="Sarean",Class=Engine.GameReplicationInfo,Immediate=True)
+Preferences=(Caption="Konfigurazio zatitua",Parent="Aukera aurreratuak",Class=Engine.GameInfo,Immediate=True)
+
+[Errors]
+NetOpen=Errorea fitxategia irekitzean
+NetWrite=Errorea fitxategian idaztean
+NetRefused=Zerbitzariak ez du '%s' bidali
+NetClose=Errorea fitxategia ixtean
+NetSize=Fitxategiaren tamaina okerra
+NetMove=Errorea fitxategia mugitzean
+NetInvalid=Artxibatzeko eskaera baliogabea jaso da.
+NoDownload='%s' paketea ezin da deskargatu.
+DownloadFailed='%s' paketea ezin izan da deskargatu: %s
+RequestDenied=Zerbitzariak falta den maila artxibatzeko eskatu du: Eskaera ukatua.
+ConnectionFailed=Konexio okerra
+ChAllocate=Ezin izan da kanal bat esleitu
+NetAlready=Sare-konexioa eginda dago
+NetListen=Komunikazio okerra: Ez dago estekagailu erabilgarririk.
+LoadEntry=Ezin da sarrera kargatu: %s
+InvalidUrl=URL baliogabea: %s
+InvalidLink=Esteka baliogabea: %s
+FailedBrowse=Ezin izan da %s: %s sartu
+Listen=Komunikazioak huts egin du: %s
+AbortToEntry=Errorea; ServerOpen sarrerara itzulita = Zerbitzariek ezin dituzte sareko URLak ireki
+ServerListen=Eskainitako zerbitzariak ezin du jaso: %s
+Pending='%s' okerrekin egiteke dagoen konexioa; %s
+LoadPlayerClass=Ezin izan da jokalari mota kargatu.
+ServerOutdated=Zerbitzari zaharraren bertsioa
+
+[Progress]
+RunningNet=%s: %s (%i jokalari)
+NetReceiving='%s' jasotzen: %i/%i
+NetReceiveOk='%s' jaso da
+NetSend='%s' bidaltzen
+NetSending='%s' 'bidaltzen: %i/%i
+Connecting=Konektatzen...
+Listening=Bezeroen zain...
+Loading=Kargatzen
+Saving=Gordetzen
+Paused=Etenaldian, %s-en arabera
+ReceiveFile='%s' jasotzen (F10 ezeztatzeko)
+ReceiveSize=Tamaina %iK, Osoa %3.1f%%
+ConnectingText=Konektatzen (F10 ezeztatzeko):
+ConnectingURL=unreal://%s/%s
+
+[Console]
+ClassCaption="Unreal Kontsola estandarra"
+LoadingMessage=KARGATZEN
+SavingMessage=GORDETZEN
+ConnectingMessage=KONEKTATZEN
+PausedMessage=ETENALDIAN
+PrecachingMessage=AURREKRASKATZEN
+ChatChannel=(TXAT)
+TeamChannel=(TALDEA)
+
+[General]
+Upgrade=Zerbitzari honetara sartzeko, Unreal-en doako azken eguneratze-partxea beharko duzu, Epicen webgunean eskuragarri dagoena:
+UpgradeURL=http://www.unreal.com/upgrade
+UpgradeQuestion=Interneteko arakatzailea ireki eta eguneratze-orrira jo nahi duzu orain?
+Version=%i bertsioa
+
+[Menu]
+HelpMessage=
+MenuList=
+LeftString=Ezkerrean
+RightString=Eskuina
+CenterString=Zentroa
+EnabledString=Aktibatuta
+DisabledString=Desaktibatuta
+HelpMessage[1]="Menu hau oraindik ez da inplementatu. "
+YesString=bai
+NoString=ez
+
+[Inventory]
+PickupMessage=Objektu bat jaso da
+M_Activated="aktibatuta"
+M_Selected="hautatua"
+M_Deactivated="desaktibatuta"
+ItemArticle=bat
+
+[WarpZoneInfo]
+OtherSideURL=
+
+[GameInfo]
+SwitchLevelMessage=Mailaz aldatzen
+DefaultPlayerName=Jokalaria
+LeftMessage="alde egin du. "
+FailedSpawnMessage=Ezin izan da jokalariaren aktore hasi
+FailedPlaceMessage=Ezin izan da abiapuntua aurkitu (baliteke mailak "jokalari-hasierako" aktore bat behar izatea)
+NameChangedMessage=Izena aldatu da...
+EnteredMessage="partidan sartu da. "
+GameName=Zatitua
+MaxedOutMessage=Zerbitzariak ahalik eta gehien funtzionatzen du.
+WrongPassword=Sartutako pasahitza ez da zuzena.
+NeedPassword="Partida honetara batzeko, pasahitz bat sartu behar duzu. "
+FailedTeamMessage=Ezin izan da jokalariarentzako talderik aurkitu.
+
+[LevelInfo]
+Title="Titulurik gabe"
+
+[Weapon]
+MessageNoAmmo="ez du muniziorik. "
+PickupMessage=Arma bat daukazu
+DeathMessage=%k %w erabiliz %o-k hil du.
+ItemName=Arma
+DeathMessage[0]=%k %w erabiliz %o-k hil du.
+DeathMessage[1]=%k %w erabiliz %o-k hil du.
+DeathMessage[2]=%k %w erabiliz %o-k hil du.
+DeathMessage[3]=%k %w erabiliz %o-k hil du.
+
+[Counter]
+CountMessage=%i gehiago besterik ez da geratzen...
+CompleteMessage=Osatuta!
+
+[Ammo]
+PickupMessage=Munizio pixka bat jaso duzu.
+
+[Pickup]
+ExpireMessage=
+
+[SpecialEvent]
+DamageString=
+
+[DamageType]
+Name=eraila
+AltName=eraila
+
+[PlayerPawn]
+QuickSaveString=Azkar gorde da
+NoPauseMessage=Ezinezkoa da partida etetea
+ViewingFrom=Hemendik ikusita
+OwnCamera=kamera propioa
+FailedView=Ezin izan da ikuspegia aldatu.
+CantChangeNameMsg=Ezin duzu zure izena aldatu zure ordenagailua zure sare lokaletik kanpoko zerbitzari batera konektatuta dagoen partida batean.
+
+[Pawn]
+NameArticle=" bat "
+
+[Spectator]
+MenuName=Ikuslea
+

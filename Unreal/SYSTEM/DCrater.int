@@ -1,0 +1,18 @@
+[TranslatorEvent4]
+Message=Arrotzen ohartarazpena. Sartzeko puntu guztiak ziurtatzea, alertan dauden langile guztiak. Ama babestu, huts egiten badu, HIL egingo da.
+Hint=Ontziko ateari eragiten dion sorgailua aktibatzen du.
+
+[TranslatorEvent1]
+Message=Sorgailuaren kontrol-panela. Sorgailua badabil. Irteera-potentzia nominala.
+
+[TranslatorEvent0]
+Message=Sarrerako atea: Oharra; ez dago nahikoa potentzia atearekin kontaktua ezartzeko. Sorgailua aktibatu.
+AltMessage=Sarrerako Atea: Kontaktua Ezarrita. Garraio eremuan sartu.
+Hint=Ontziko ateari eragiten dion sorgailua aktibatzen du.
+
+[TranslatorEvent3]
+Message=Sorgailua eta karga-gela.
+Hint=Ontziko ateari eragiten dion sorgailua aktibatzen du.
+
+[LevelInfo2]
+Title=DCrater

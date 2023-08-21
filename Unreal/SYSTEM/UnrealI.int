@@ -1,0 +1,753 @@
+[Public]
+Object=(Name=UnrealI.DarkMatch,Class=Class,MetaClass=Engine.GameInfo)
+Object=(Name=UnrealI.KingOfTheHill,Class=Class,MetaClass=Engine.GameInfo)
+Object=(Name=Unreali.FlakCannon,Class=Class,MetaClass=Engine.Weapon)
+Object=(Name=Unreali.GESBioRifle,Class=Class,MetaClass=Engine.Weapon)
+Object=(Name=Unreali.Razorjack,Class=Class,MetaClass=Engine.Weapon)
+Object=(Name=Unreali.Rifle,Class=Class,MetaClass=Engine.Weapon)
+Object=(Name=Unreali.Minigun,Class=Class,MetaClass=Engine.Weapon)
+Object=(Name=Unreali.FemaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Mujer 2")
+Object=(Name=Unreali.MaleOne,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varón 1")
+Object=(Name=Unreali.MaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varón 2")
+Object=(Name=Unreali.SkaarjPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Skaarj")
+Object=(Name=Unreali.FemaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Mujer 2")
+Object=(Name=Unreali.MaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varón 1")
+Object=(Name=Unreali.MaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varón 2")
+Object=(Name=Unreali.SkaarjPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Skaarj")
+Preferences=(Caption="Jokatzeko moduak",Parent="Aukera aurreratuak")
+Preferences=(Caption="Ilunpetan elkartzea",Parent="Jokatzeko moduak",Class=UnrealI.DarkMatch,Immediate=True)
+Preferences=(Caption="Muinoko erregea",Parent="Jokatzeko moduak",Class=UnrealI.KingOfTheHill,Immediate=True)
+Preferences=(Caption= Sarea",Parent="Aukera aurreratuak")
+Preferences=(Caption="Mapa-zerrendak",Parent="Sarea")
+Preferences=(Caption="Topaketen mapak iluntasunean",Parent="Mapa-zerrendak",Class=UnrealI.DkMapList,Immediate=True)
+
+[DeathmatchGame]
+ClassCaption=Heriotzara abiatzea
+GlobalNameChange=izena aldatu egin da
+NoNameChange=Dagoeneko erabiltzen ari da
+MaxedOutMessage=Zerbitzaria ahalik eta gehien erabiltzen ari da.
+GameName=Heriotzara abiatzea
+
+[DarkMatch]
+GameName=Topaketa ilunpetan
+
+[KingOfTheHill]
+ClassCaption=Muinoko erregea
+KingMessage=muinoko errege berria da.
+GameName=Muinoko erregea
+
+[TeamGame]
+ClassCaption=Taldekako partida
+NewTeamMessage=abian da
+TeamColor[0]=Gorria
+TeamColor[1]=Urdina
+TeamColor[2]=Berdea
+TeamColor[3]=Urrea
+GameName=Taldekako partida
+
+[CoopGame]
+ClassCaption=Modu kooperatiboa
+GameName=Koop. Modua
+
+[UnrealGameInfo]
+DeathVerb=izan zen
+DeathPrep=por
+DeathTerm=eraila
+DeathArticle=bat
+ExplodeMessage=hegan egin zuen, zatika
+SuicideMessage=bat-batean bihotzekoak eman zion.
+FallMessage=krater txiki bat utzi zuen.
+DrownedMessage=arnasa hartzera irtetea ahaztu zitzaion.
+BurnedMessage=erraustu egin dute.
+CorrodedMessage=lohitu egin dute.
+HackedMessage="labankadaz hil dute.
+DeathMessage[0]=eraila
+DeathMessage[1]=birrintzea
+DeathMessage[2]=erreta
+DeathMessage[3]=sakrifikatua
+DeathMessage[4]=deuseztatua
+DeathMessage[5]=ezabatua
+DeathMessage[6]=birrintzea
+DeathMessage[7]=zulatua
+DeathMessage[8]=birrinduta
+DeathMessage[9]=suntsitua
+DeathMessage[10]=zurkaiztea
+DeathMessage[11]=lataratzea
+DeathMessage[12]=kolpatua
+DeathMessage[13]=zanpatua
+DeathMessage[14]=ubeldua
+DeathMessage[15]=baztertua
+DeathMessage[16]=Jipoitua
+DeathMessage[17]=lurruntzea
+DeathMessage[18]=espatxoratzea
+DeathMessage[19]=xerratan moztea
+DeathMessage[20]=kubituak egitea
+DeathMessage[21]=urratua
+DeathMessage[22]=bonbardatua
+DeathMessage[23]=zatitzea
+DeathMessage[24]=zartatzea
+DeathMessage[25]=erraiak kentzea
+DeathMessage[26]=neutralizatua
+DeathMessage[27]=fustigatua
+DeathMessage[28]=flagelatzea
+DeathMessage[29]=Txikituta
+DeathMessage[30]=txiki-txiki eginda
+DeathMessage[31]=zurratzea
+DeathModifier[0]=bete-betean
+DeathModifier[1]=erabat
+DeathModifier[2]=absolutuki
+DeathModifier[3]=erabat
+DeathModifier[4]=osorik
+MajorDeathMessage[0]=txiki-txiki eginda
+MajorDeathMessage[1]=larri zauritu da
+MajorDeathMessage[2]=ezin deskribatuzko minaren eraginpean
+MajorDeathMessage[3]=
+MajorDeathMessage[4]=
+MajorDeathMessage[5]=
+MajorDeathMessage[6]=
+MajorDeathMessage[7]=
+HeadLossMessage[0]=burua moztuta
+HeadLossMessage[1]=bururik gabe
+
+[UnrealQuitMenu]
+YesSelString=[BAI] Ez
+NoSelString=Bai [EZ]
+MenuTitle=Irten nahi duzu?
+HelpMessage[1]=Hautatu "Bai" eta sakatu SARTU benetan zure bizitza erreal ziztrin, alferrikako eta hutsalera itzuli nahi baduzu; benetan ezin baduzu beste minutu batez ere jasan UNREALen errealitate eza jasanezina.
+MenuList[0]=Digital Extremes/Epic Megagames jokoa
+MenuList[1]=Lankidetza
+MenuList[2]="Jokoaren diseinua: James Schmalz"
+MenuList[3]=Cliff Bleszinski
+MenuList[4]=Mailen diseinua: Cliff Bleszinski
+MenuList[5]=T. Elliot Cannon Pancho Eekels
+MenuList[6]=Jeremy War Cedric Fiorentino
+MenuList[7]=Shane Caudle
+MenuList[8]=Animazioa: Dave Carter
+MenuList[9]=Grafikoak: James Schmalz
+MenuList[10]=Mike Leatham Artur Bialas
+MenuList[11]=Programazioa: Tim Sweeney Steven Polge
+MenuList[12]=Erik de Neve James Schmalz
+MenuList[13]=Carlo Vogelsang Nick Michon
+MenuList[14]=Musika: Alexander Brandon
+MenuList[15]=Michiel van den Bos
+MenuList[16]=Soinu efektuak: Dave Ewing
+MenuList[17]=GT ekoizlea: Jason Schreiber
+MenuList[18]=Marketina: Mark Rein Nigel Kent Craig Lafferty
+
+[DispersionPistol]
+PickupMessage=Dispertsio-pistola daukazu.
+ItemName=Sakabanatze-pistola
+
+[UnrealGameOptionsMenu]
+AdvancedString=Aukera aurreratuak
+AdvancedHelp=Jokoaren konfigurazioaren aukera aurreratuak editatzeko.
+MenuTitle=JOKOAREN AUKERAK
+HelpMessage[1]=Jokoan denbora pasatzen den abiadura doitzea.
+HelpMessage[2]=Egia bada, jokoan odola murrizten da.
+MenuList[1]=Jokoaren abiadura
+MenuList[2]=Odol gutxitua
+
+[UnrealIndivBotMenu]
+MenuTitle=Adimen artifizialaren konfigurazioa
+HelpMessage[1]=Zein Botena da editatzen ari garen konfigurazioa? Erabili ezkerrera eta eskuinera seinalatzen dituzten geziak aldaketak egiteko.
+HelpMessage[2]=Sakatu INTRO bot honen izena editatzeko.
+HelpMessage[3]=Erabili ezkerrera eta eskuinera seinalatzen dituzten geziak bot honen klasea aldatzeko.
+HelpMessage[4]=Erabili ezkerrera eta eskuinera seinalatzen dituzten geziak bot honen azala aldatzeko.
+HelpMessage[5]="Aldatu Bot honen trebetasun orokorra kopuru honetan (Bot oinarrizko trebetasunaren arabera)."
+HelpMessage[6]="Tekleatu bot hau jokatzen duen taldea (gorria, urdina, berdea edo horia)."
+MenuList[1]="Konfigurazioa"
+MenuList[2]=Izena
+MenuList[3]=Klasea
+MenuList[4]=Azala
+MenuList[5]=Trebetasuna doitzea
+MenuList[6]=Taldea
+
+[IntroNullHud]
+ESCMessage=Sakatu ESC hasteko
+
+[UnrealFavoritesMenu]
+MenuTitle=GOGOKOAK
+EditList[0]=Zerbitzariaren izena:
+EditList[1]=Helbidea:
+HelpMessage[1]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[2]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[3]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[4]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[5]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[6]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[7]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[8]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[9]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[10]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[11]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+HelpMessage[12]=Sakatu INTRO zerbitzari honetara sartzeko. Sakatu eskuinera seinalatzen duen gezia sarrera hau editatzeko.
+
+[Translator]
+PickupMessage=Sakatu F2 itzultzailea aktibatzeko
+NewMessage=Itzultzaile unibertsala
+
+[UnrealVideoMenu]
+MenuTitle=AUDIOA/BIDEOA
+HelpMessage[1]=Pantailaren distira doitzen du, ezkerreko eta eskuineko gezien teklak erabiliz.
+HelpMessage[2]=Unrealekin jolastu leiho batean. Garrantzitsua: Software bidez erreprodukzio modu bat aukeratzea, grafikoen azelerazio hardwarearekin ikusgai agertzen ziren xehetasun maila altuko aktoreak ezabatzea izan daiteke.
+HelpMessage[3]=Erabili ezkerreko eta eskuineko gezien teklak bereizmen bat aukeratzeko, eta sakatu INTRO zure aukera berresteko.
+HelpMessage[4]=Aukeratu ehunduren xehetasunen maila baxuaren aukera jokoaren funtzionamendua hobetzeko. Egindako aldaketek hurrengo mailan izango dute eragina.
+HelpMessage[5]=Musikaren bolumena doitzen du, ezkerreko eta eskuineko gezien teklak erabilita.
+HelpMessage[6]=Jokoaren soinu-efektuen bolumena doitzen du, ezkerreko eta eskuineko gezi-teklak erabilita.
+HelpMessage[7]=Aukeratu soinu-kalitate baxuaren aukera 32 megabyte edo gutxiagoko memoria duten ordenagailuetan jokoaren funtzionamendua hobetzeko. Egindako aldaketek hurrengo mailan izango dute eragina.
+MenuList[1]=Distira
+MenuList[2]=Aldatu pantaila osoaren modalitatea
+MenuList[3]=Aukeratu ebazpena
+MenuList[4]=Testuren xehetasuna
+MenuList[5]=Musikaren bolumena
+MenuList[6]=Soinuaren bolumena
+MenuList[7]=Soinuaren kalitatea
+LowText=Txikia
+HighText=Handia
+HelpMessage[8]=Egia bada, mezuak entzungo dituzu erabiltzen dituzten joko-moduetan.
+MenuList[8]=Ahozko mezuak
+
+[UnrealMeshMenu]
+HelpMessage[4]=Aldatu klasea ezkerreko eta eskuineko gezien teklekin.
+HelpMessage[5]=Sartu hemen administrazio-pasahitza, edo jokoarena, beharrezkoa bada.
+MenuList[4]=Klasea:
+MenuList[5]=Pasahitza:
+HelpMessage[6]=Partida hasteko, sakatu INTRO.
+MenuList[6]=Hasi partida
+
+[UnrealPlayerMenu]
+MenuTitle=Hautatu irudikapen digitala
+HelpMessage[1]=Sakatu INTRO zure izena idazteko. Ez ahaztu jokalari anitzentzako partida batean sartu aurretik.
+HelpMessage[2]=Erabili gezi-teklak zure ekipoaren kolorea aldatzeko (gorria, urdina, berdea edo horia).
+HelpMessage[3]=Aldatu azala ezkerreko eta eskuineko gezien teklekin.
+MenuList[1]=Izena:
+MenuList[2]=Taldea:
+MenuList[3]=Azala:
+HelpMessage[4]=Zure klasea eta modeloa jokalari anitzeko partida batera sartzen zaren lehen aldian bakarrik alda ditzakezu, edo jokalari bakarreko partida bat hastean.
+MenuList[4]=Klasea:
+
+[UnrealJoinGameMenu]
+InternetOption=Internet (28.8 - 56K)
+FastInternetOption=Internet azkarra (ISDN, kable modema)
+LANOption=LAN
+MenuTitle=PARTIDAN SARTZEA
+HelpMessage[1]=Zerbitzari lokalen konexioaren zain.
+HelpMessage[2]=Aukeratu gogokoen zerrendako zerbitzari bat.
+HelpMessage[3]=Sakatu INTRO zerbitzari baten helbidea tekleatzeko. Sakatu berriro INTRO zerbitzari horretara sartzeko.
+HelpMessage[4]=Sarearen abiadura doitzen du.
+HelpMessage[5]=Ireki web orria Epic Unreal zerbitzarien zerrendarekin.
+MenuList[1]=Bilatu zerbitzari lokalak
+MenuList[2]=Gogokoenetako bat aukeratu
+MenuList[3]=Ireki
+MenuList[4]=Sare-abiadura
+MenuList[5]=Joan Epic Unreal zerbitzarien zerrendara
+
+[UnrealOptionsMenu]
+MenuTitle=AUKEREN MENUA
+HelpMessage[1]=Bertikalean apuntatzeko laguntza aktibatu edo desaktibatu
+HelpMessage[2]=Aktibatu/Desaktibatu joystick
+HelpMessage[3]=Saguaren sentikortasuna doitu, edo jokoan mugimendu jakin bat sortzeko mugitu behar den distantzia.
+HelpMessage[4]=Saguaren X ardatza alderantzikatu. Egia denean, sagua aurrerantz bultzatzeak behera begiratzea ahalbidetuko dizu, gora begiratu beharrean.
+HelpMessage[5]=Egia bada, tekla saguaren bistatik askatzen duzunean, irudia automatikoki zentratuko da.
+HelpMessage[6]=Egia bada, sagua gora eta behera begiratzeko erabiliko da beti, saguaren ikusmenerako tekla bat eduki beharrik gabe.
+HelpMessage[7]=Egia bada, saguaren bista erabiltzen ez denean, irudia automatikoki doituko da, eskaileretan eta maldetan gora eta behera begiratu ahal izan dezazun.
+HelpMessage[8]=Egia bada, pantailak distira bat botako du zure arma jaurtitzen duzunean.
+HelpMessage[9]=Aukeratu pantailaren erdian agertzen den mira.
+HelpMessage[10]=Aukeratu non agertuko den zure arma.
+HelpMessage[11]=Aukera hori aktibatuta, bi aldiz sakatu behar duzu helbide-teklen gainean (aurrera, atzera, ezkerrera eta eskuinera), ihes-mugimendu azkar bat egiteko.
+HelpMessage[12]=Sakatu INTRO teklatuaren, saguaren eta joystickaren konfigurazioa pertsonalizatzeko.
+HelpMessage[13]=Sakatu INTRO armak aldatzeko ordena pertsonalizatzeko.
+HelpMessage[14]=Erabili ezkerreko eta eskuineko gezien teklak kontrol-panelaren (HUD) konfigurazioa hautatzeko.
+HelpMessage[15]=Mugitzean buruaren kulunkaren maila doitzen du.
+HelpMessage[16]=Ireki aukera aurreratuak konfiguratzeko menua.
+MenuList[1]=Apuntatu autoa.
+MenuList[2]=Joystick aktibatuta
+MenuList[3]=Saguaren sentsibilitatea
+MenuList[4]=Saguaren inbertsioa
+MenuList[5]=Ikuspegia moilarekin
+MenuList[6]=Beti sagu ikusita
+MenuList[7]=Autoaren inklinazioaren ikuspegia.
+MenuList[8]=Arma-distira
+MenuList[9]=Jomugan
+MenuList[10]=Armaren eskua
+MenuList[11]=Saihestu
+MenuList[12]=Kontrolak pertsonalizatzea
+MenuList[13]=Armen lehentasuna
+MenuList[14]=HUDaren konfigurazioa
+MenuList[15]=Ikusmenaren oszilazioa
+MenuList[16]=Aukera aurreratuak
+
+[EndgameHud]
+Message1=Skaarj ihes-ontziak ihes egin du (ileetatik) planetaren grabitate-erakarpenetik. Hala ere, erregairik gabe geratu zara eta noraezean zoaz.
+Message2=Gehienak hiltzen diren tokitik ihes egin duzu. Zeure buruari irribarre egiten diozu: hainbeste gauza gertatu dira...! Hala ere, hain gutxi aldatu da...
+Message3=Nahitaezko lurreratzea baino lehen, ziega ñimiño batean harrapatuta zeunden. Orain kartzelan zaude berriro.
+Message4=Baina ziur zaude azkenean norbaitek zure ontzitxoa aurkituko duela.
+Message5=Ordura arte, egin dezakezun gauza bakarra zure itxaropenak elikatzea da, norabide finkorik gabe mugitzen jarraitzen duzun bitartean.
+Message6=Jarraituko du...
+
+[UnrealWeaponMenu]
+MenuTitle=LEHENTASUNAK
+
+[Eightball]
+PickupMessage=8-Ball jaurtitzailea daukazu
+ItemName=8-Ball
+
+[UnrealKeyboardMenu]
+OrString=o
+MenuTitle=KONTROLAK
+HelpMessage[1]=
+MenuList[1]=Tiroa
+MenuList[2]=Alt desarra.
+MenuList[3]=Mugitu aurrean
+MenuList[4]=Mugitu atzera
+MenuList[5]=Ezkerrean
+MenuList[6]=Eskuina
+MenuList[7]=Ezkerreko ataria
+MenuList[8]=Eskuineko atondoa
+MenuList[9]=Salto/Gora
+MenuList[10]=Makurtu
+MenuList[11]=Saguaren ikuspegia
+MenuList[12]=Objektua aktibatu
+MenuList[13]=Hurrengo eragozpena
+MenuList[14]=Aurreko eragozpena
+MenuList[15]=Gora begiratu
+MenuList[16]=Behera begiratu
+MenuList[17]=Ikusmena zentratu
+MenuList[18]=Oinez
+MenuList[19]=Eraso
+MenuList[20]=Hurrengo arma
+MenuList[21]=LEHENETSITAKO KONFIGURAZIOA BERRESKURATZEA
+
+[TranslatorEvent]
+M_NewMessage=Itzultzailearen mezu berria
+M_TransMessage=Itzultzailearen mezua
+
+[Flashlight]
+ExpireMessage=Linternako pilak agortu egin dira.
+PickupMessage=Linterna hartu duzu
+
+[ParentBlob]
+BlobKillMessage=tanta batek korritu du
+
+[FlakCannon]
+PickupMessage=Hegazkinen aurkako kanoia daukazu.
+ItemName=Aireko kanoia
+DeathMessage=%k -k %w-rekin %o zatitu du.
+
+[Rifle]
+PickupMessage=Erriflea daukazu
+ItemName=Frankotiratzailearen erriflea
+DeathMessage=%k -k %o (r)i burua zeharkatu dio bala batekin.
+
+[UnrealBotConfigMenu]
+MenuTitle=BOTS
+HelpMessage[1]=Egia bada, Bots-ek bere trebetasun-maila arautzen du, jokalarien aurkako jardunaren arabera.
+HelpMessage[2]=Boten oinarrizko trebetasun-maila (0 eta 3 artean).
+HelpMessage[3]=Egia bada, botak ordena espezifikorik gabe agertuko dira jokoan. Faltsua bada, konfigurazioan zehaztutako ordenari jarraituz agertuko dira.
+HelpMessage[4]=Aldatu boten konfigurazioa banaka.
+MenuList[1]=Trebetasunak autodoitzea
+MenuList[2]=Oinarrizko trebetasuna
+MenuList[3]=Ausazko ordena
+MenuList[4]=Konfiguratu botak banaka
+HelpMessage[5]=Jokatzen hasteko boten kopurua (gehienez 15).
+HelpMessage[6]=Erabili botak beste pertsona batzuekin jolasten duzunean.
+MenuList[5]=Boten kopurua
+MenuList[6]=Botak jokalari anitzeko partidetan.
+
+[UnrealLoadMenu]
+RestartString=Berrabiarazi
+MenuTitle=KARGATU PARTIDA
+
+[UnrealSlotMenu]
+MonthNames[0]=urtarrila
+MonthNames[1]=otsaila
+MonthNames[2]=martxoa
+MonthNames[3]=apirila
+MonthNames[4]=maiatza
+MonthNames[5]=ekaina
+MonthNames[6]=uztaila
+MonthNames[7]=abuztua
+MonthNames[8]=iraila
+MonthNames[9]=urria
+MonthNames[10]=azaroa
+MonthNames[11]=abendua
+
+[ASMD]
+PickupMessage=ASMD daukazu
+ItemName=ASMD
+
+[UnrealMainMenu]
+HelpMessage[1]=Sakatu INTRO jokoaren aukerak aldatzeko, partidak kargatzeko eta gordetzeko aukerak, zailtasun-maila eta Bots topaketa baten hasiera barne.
+HelpMessage[2]=Sakatu INTRO jokalari anitzentzako konfigurazio-aukerak aldatzeko, hasiera eta sareko partidetara sartzea, eta itxura, izena edo ekipoa aldatzea barne.
+HelpMessage[3]=Sakatu INTRO kontrolak pertsonalizatzeko.
+HelpMessage[4]=Aldatu soinuaren eta irudiaren aukerak.
+HelpMessage[5]=Sakatu INTRO jokoa uzteko menura sartzeko.
+HelpMessage[7]=Deitu doan (AEBtik soilik) 1-877-4UNREALera UNREAL eskatzeko!
+MenuList[1]=PARTIDA
+MenuList[2]=JOKALARI ANITZAK
+MenuList[3]=AUKERAK
+MenuList[4]=AUDIOA/BIDEOA
+MenuList[5]=JOLASA ATERATZEA
+MenuList[7]=INFO. ESKAERAK
+
+[UnrealServerMenu]
+BotTitle=BOTS TOPAKETA
+MenuTitle=JOKALARI ANITZAK
+HelpMessage[1]=Partida mota aukeratu
+HelpMessage[2]=Mapa aukeratu
+HelpMessage[3]=Aldatu jokoaren aukerak
+HelpMessage[4]=Hasi partida
+MenuList[1]=Aukeratu partida
+MenuList[2]=Aukeratu mapa
+MenuList[3]=Konfiguratu partida
+MenuList[4]=Hasi partida
+MenuList[5]=Hasi zerbitzari dedikatua
+HelpMessage[5]=Zerbitzari dedikatu bat hasi sistema honetan.
+
+[UnrealGameMenu]
+HelpMessage[1]=Sakatu INTRO, garapenean dagoen partida gordetzeko.
+HelpMessage[2]=Sakatu INTRO gordetako partida bat kargatzeko.
+HelpMessage[3]=Zailtasun-maila bat hautatu eta partida berri bat hasiko da.
+HelpMessage[4]=Sakatu SARTU jokoaren aukerak aldatzeko. Garrantzitsua: Jokalari anitzeko partidetan ez da posible.
+HelpMessage[5]=Hil arteko bidaia Botsen aurka.
+MenuList[1]=GORDE PARTIDA
+MenuList[2]=KARGATU PARTIDA
+MenuList[3]=PARTIDA BERRIA
+MenuList[4]=JOKOAREN AUKERAK
+MenuList[5]=BOTS TOPAKETA
+
+[Health]
+PickupMessage=Osasun-pakete bat jaso duzu +
+
+[AutoMag]
+PickupMessage=Automag bat duzu
+ItemName=Automag
+
+[UnrealChooseGameMenu]
+MenuTitle=PARTIDA AUKERATU
+HelpMessage[1]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[2]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[3]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[4]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[5]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[6]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[7]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[8]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[9]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[10]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[11]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[12]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[13]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[14]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[15]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[16]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[17]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[18]=Aukeratu jokatu nahi duzun partida.
+HelpMessage[19]=Aukeratu jokatu nahi duzun partida.
+
+[UnrealMultiPlayerMenu]
+HelpMessage[1]=Sar zaitez sare-partida batean.
+HelpMessage[2]=Konfiguratu eta hasi partida bat sarean.
+HelpMessage[3]=Konfiguratu zure itxura, zure izena eta taldearen izena.
+MenuList[1]=PARTIDAN SARTZEA
+MenuList[2]=HASI PARTIDA
+MenuList[3]=JOKALARIAREN KONFIGURAZIOA
+
+[UnrealHelpMenu]
+MenuTitle=LAGUNTZA
+HelpMessage[1]=Ireki problemak ebazteko dokumentua.
+MenuList[1]=Problemak ebaztea
+
+[YesNoMenu]
+YesSelString=[BAI] Ez
+NoSelString="Bai [EZ]"
+
+[NaliFruit]
+PickupMessage=Nali sendagarria jaso duzu +
+
+[Minigun]
+PickupMessage=Miniarma daukazu
+ItemName=Miniarma
+DeathMessage=%k 's %w bihurtu du % o haragi zati odoltsu bat.
+
+[UnrealListenMenu]
+MenuTitle=ZERBITZARI LOKALAK
+HelpMessage[1]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[2]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[3]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[4]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[5]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[6]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[7]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[8]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[9]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[10]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[11]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[12]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[13]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[14]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[15]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[16]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[17]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[18]=Sakatu INTRO zerbitzari hau hautatzeko.
+HelpMessage[19]=Sakatu INTRO zerbitzari hau hautatzeko.
+
+[GESBioRifle]
+PickupMessage="GES bio-erriflea daukazu"
+ItemName=GES bio-erriflea
+DeathMessage=% k edalontzi bat edan zuen % k tantaka zuen substantzia berdetik.
+
+[UnrealDMGameOptionsMenu]
+HelpMessage[3]="Partidaren amaieran jokalaria gidatzeagatik lortutako zatiketen kopurua. 0 bada, ez da mugarik egongo. "
+HelpMessage[4]=Partida amaitzeko denbora-muga (minututan). 0 bada, ez da mugarik egongo.
+HelpMessage[5]=Jokoan baimendutako gehieneko parte-hartzaile kopurua.
+HelpMessage[6]=Arma kooperatiboen modua aktibatuta badago, armak berehala agertuko dira berriro, baina jokalari bakoitzak behin bakarrik jaso ahal izango ditu.
+HelpMessage[7]=Bots zatitua eta banakako parametroak konfiguratzea.
+HelpMessage[8]=Aukeratu jolasteko modua: baldintzarik gabekoan jokoaren abiadura handiagoa da eta armek kalte handiagoak eragiten dituzte klasikoan baino. Turbo mugimendu azkarrak dituen baldintzarik gabekoa bezalakoa da.
+HelpMessage[9]=Heriotza-mezuak modu klasikoan edo estilo berrian (armetan oinarrituta).
+MenuList[3]=Zatiketa-muga.
+MenuList[4]=Denbora-muga
+MenuList[5]=Jokalarien gehieneko kopurua
+MenuList[6]=Armak etetea
+MenuList[7]=Konfiguratu botak
+MenuList[8]=Baldintzarik gabeko modua
+MenuList[9]=Heriotza-mezuak
+GameStyle[0]=Klasikoa
+GameStyle[1]=Baldintzarik gabea
+GameStyle[2]=Turboa
+
+[Amplifier]
+ExpireMessage=Bultzatzailea energiarik gabe geratu da.
+PickupMessage=Energia suspertzailea duzu.
+
+[SearchLight]
+PickupMessage=Fokua jaso duzu.
+
+[SCUBAGear]
+PickupMessage=Urpekaritza-ekipoa jaso duzu.
+
+[UnrealNewGameMenu]
+HelpMessage[1]=Turista modalitatea.
+HelpMessage[2]=Ekintzarako prest!
+HelpMessage[3]=Ez da egokia bihotzetik sufritzen dutenentzat.
+HelpMessage[4]=Heriotza nahia.
+MenuList[1]=ERRAZA
+MenuList[2]=ERTAINA
+MenuList[3]=ZAILA
+MenuList[4]=IRREALA
+
+[Stinger]
+PickupMessage=Kola-kanoia jaso duzu
+ItemName=Kola-kanoia
+
+[RazorAmmo]
+PickupMessage=Bizarra mozteko hortzak jaso dituzu
+
+[RocketCan]
+PickupMessage=12 jaurtitzaile 8-ball bildu dituzu
+
+[ShellBox]
+PickupMessage=50 bala bildu dituzu
+
+[VoiceBox]
+PickupMessage=Ahots-kaxa jaso duzu
+
+[UnrealSaveMenu]
+CantSave=EZINGO DUZU GORDE HILDA ZAUDEN BITARTEAN
+MenuTitle=GORDE PARTIDA
+
+[Seeds]
+PickupMessage=Nali haziak dituzu.
+
+[RifleAmmo]
+PickupMessage=8 kartutxo dituzu erriflerako.
+
+[FlakBox]
+PickupMessage=10 jaurtigai dituzu aireko kanoirako
+
+[Flare]
+PickupMessage=Bengala bat daukazu.
+
+[JumpBoots]
+ExpireMessage=Jauziko botak agortu egin dira
+PickupMessage=Jauziko botak jaso dituzu
+
+[WeaponPowerUp]
+PickupMessage=Dispertsio-pistolaren indargarria duzu
+
+[Razorjack]
+PickupMessage=RazorJack daukazu.
+ItemName=Razorjack
+DeathMessage=%k -k  %w batekin %o zulatu du."
+
+[ForceField]
+M_NoRoom="Ez dago lekurik eremu energetikoa aktibatzeko. "
+PickupMessage=Eremu energetikoa jaso duzu.
+
+[ASMDAmmo]
+PickupMessage=ASMD nukleoa jaso duzu.
+
+[ShieldBelt]
+PickupMessage=Blindaje-gerrikoa duzu.
+
+[UnrealTeamGameOptionsMenu]
+HelpMessage[10]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti % 100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
+MenuList[10]=Su-eskala aliatua
+HelpMessage[9]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti % 100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
+MenuList[9]=Su-eskala aliatua
+
+[OKMenu]
+OKString=[ONARTU]
+
+[StingerAmmo]
+PickupMessage=Tarydium-en 40 jaurtigai bildu dituzu
+
+[UpgradeMenu]
+MenuList[1]=Unrealen bertsio berriago bat behar duzu zerbitzari honetan jolasteko. Unrealen webgunean sartu nahi duzu hori lortzeko?
+
+[Sludge]
+PickupMessage=25 kilo Tarydium hondakin bildu dituzu
+
+[Invisibility]
+ExpireMessage=Ikusezintasuna agortuta.
+PickupMessage=Ikusezina zara
+
+[ToxinSuit]
+PickupMessage=Jantzi anti-toxikoa jaso duzu
+
+[Shells]
+PickupMessage=15 jaurtigai bildu dituzu
+
+[RifleRound]
+PickupMessage=Erriflearentzako kartutxo bat daukazu.
+
+[QuadShot]
+PickupMessage=QuadShot jaso duzu
+
+[PowerShield]
+PickupMessage=Ezkutu energetikoa duzu
+[Dampener]
+ExpireMessage=Isilgailu akustiko agortua.
+PickupMessage=Isilgailu akustikoa duzu
+
+[KevlarSuit]
+PickupMessage=Kevlarren jantzia jaso duzu.
+
+[FlakShellAmmo]
+PickupMessage=Jaurtigai bat duzu aireko kanoirako.
+
+[Fell]
+Name=eraitsia
+AltName=eraitsia
+
+[Drowned]
+Name=itota
+AltName=itota
+
+[Decapitated]
+Name=burua moztuta
+AltName=bururik gabe
+
+[Corroded]
+Name=korrontearekin
+AltName=lohituta
+
+
+[Clip]
+PickupMessage=Kargagailu bat jaso duzu
+
+[Burned]
+Name=errea
+AltName=parrillan erreta
+
+[SuperHealth]
+PickupMessage=Super-osasunaren paketea jaso duzu
+
+[Bandages]
+PickupMessage=Benda batzuk dituzu +
+
+[AsbestosSuit]
+PickupMessage=Amiantozko jantzia jaso duzu
+
+[Armor]
+PickupMessage=Erasorako txalekoa daukazu
+
+[UnrealOrderMenu]
+OrderText[0]=Unrealen shareware bertsioa, jokatu berri duzuna, Unrealen bertsio osoa erosten duzunean espero duzunaren erakusgarri baino ez da.
+OrderText[1]=AEBn eta Kanadan, 1-877-4UNREAL (1-877-486-7325) zenbakira deitzen du doan Unreal AHORA MISMO enkargatzeko.
+OrderText[2]=Unrealen bertsio osoarekin honako hau lortuko duzu:
+OrderText[3]=- 30 maila sinestezin baino gehiago jokalari bakarreko partidetarako
+OrderText[4]=- Jokalari anitzeko partidetarako bereziki diseinatutako 11 mapa
+OrderText[5]=- Hamar arma bakoitzarentzat bi su-motarekin eta batzuk mugimendu bereziekin!
+OrderText[6]=- Unrealeko 30 ume baino gehiago ezagutzen ditu.
+OrderText[7]=- Aurkitu zure inbentariorako artikulu berri pila bat.
+OrderText[8]=- Jokalari bakar batentzako eta hainbat jokalarirentzako bot-norgehiagokak egiteko hainbat modu tokiko sare batean edo Interneten: Ilunpetan elkartzea, Hil arteko partida, Muinoko erregea, taldekako partida eta kooperatiba-partida
+OrderText[9]=- Aukeratu 6 jokalari-modeloren eta larru mota desberdinen artean.
+OrderText[11]=Unrealeko editorearen beta bertsioa ere jasoko duzu**:
+OrderText[12]=- Ziur aski, inoiz sortu den diseinu tridimentsionaleko tresnarik erabilgarriena!
+OrderText[13]=- Irudi geometriko solidoak erabiltzen ditu irudiak egiteko: gelak altxatzen ditu eta bloke solido batetik ebakitzen ditu.
+OrderText[14]=- Erabiltzaileei beren testurak, objektuak, musika eta soinu-efektuak inportatzeko aukera ematen die, industriako artxibo-formatuak erabiliz, hala nola WAV, DXF, BMP, etab.
+OrderText[15]=- Sortu zeure mapak edo aldatu gureak nahi duzun bezala.
+OrderText[16]=- UnrealScript barne hartzen du, Unreal gehiena sortzeko erabili dugun objektu integratuetara bideratutako programazio-lengoaia.
+OrderText[17]=- Banatu zure mapak askatasunez Interneten, beste batzuek haiekin jolastu ahal izan dezaten.
+OrderText[19]=Eta Interneteko konexioarekin edo Unrealen zerbitzariarekin jolastu ahal izango duzu.
+OrderText[20]=- Sortu zure zerbitzari propioa Unreali eskainia.
+OrderText[21]=- Aukeratu dedikaziorik gabeko zerbitzari bat, eta utzi beste pertsona batzuei zure partidan sartzen.
+OrderText[22]=- Antolatu zure Unreal atariko mailak Unreal zerbitzariekin eta hiru dimentsioko web orri gisa jarduten duten World Wide Web* guneekin.
+OrderText[23]=* Unreal mailatik sarera konektatzeko, beharrezkoa da mailara sartzera doazenek Unreal sistemarekin bateragarria den esploratzaile bat izatea.
+OrderText[24]=Unreal hurbilen duzun informatika-produktuen dendan eros dezakezu, edo Epic MegaGamesi zuzenean enkargatu. Hona zer egin behar duzun:
+OrderText[25]=Kreditu-txartelekin eskaerak egin ditzakezu zuzenean webgune soilean, gure eskaera-orri segurua http://www.epicgames.com/UnrealOrders helbidean erabiliz.
+OrderText[26]=AEB/Kanada
+OrderText[27]=UNREALek 39,95 dolar amerikar balio ditu, bidalketa-gastuak barne
+OrderText[29]=Eskaera bat ere egin dezakezu gure web orri seguruan, helbide honetan: http://www.epicgames.com/UnrealOrders
+OrderText[30]=Erresuma Batua eta Europa
+OrderText[32]=Beste herrialde batzuk
+OrderText[34]=Gure online bazkideak
+OrderText[35]=Bisitatu gure bazkide bikainek online eskaintzen dituzten Unrealeko web guneak eta partida-zerbitzariak:
+OrderText[37]=Pertsona horiek dibertsio maila berri bat emango diote Unreali.
+OrderText[38]=WON.NET - The World Opponent Network da modurik errazena Internet bidezko doako heriotza-partida batean zuzenean sartzeko. IE4.0 edo Netscape 4.0rekin, nahikoa da botoi bat sakatzea doako partida bat botatzeko http://www.won.net/unreal helbidean.
+OrderText[39]=Bat egin Unreal komunitate hazkorrarekin mailak eraikitzeko lehiaketen bidez, mezu taulak, estekak, denbora errekorrak, larru eta maila berriak eta online partidak DOAKOAK. Benetakoa eta gogorra da.
+OrderText[41]=Kable bidezko jokoak funtzionatzen ari dira oraintxe bertan Europan eta Australian. Informazio gehiago nahi izanez gero, bisitatu http://www.wireplay.com/uk/unreal
+OrderText[43]=http://www.heat.net - doako partida super zirraragarriak
+OrderText[44]=AT & T WorldNet - Jokatu Unreal AT & T 's GameHub zerbitzarian ? T3 lerro baten bidez erabat AT & T WorldNet-en bizkarrezurrean ? joko azkarra eta fidagarria aginduz.
+OrderText[45]=www.gamehub.net/unreal GameHub - zure Interneteko partiden zerbitzu osoa: hitzaldi-gelak, posta elektronikoa, online jokoen aldizkariak, torneoak eta jokalari anitzen partidak.
+OrderText[46]=GameSpy 3D Interneteko zerbitzuen esploratzailea da. Arakatu sarea eta aurkitu Unrealera jolasteko zerbitzaririk onenak: zure sistemarako konexiorik onena dutenak.
+OrderText[47]=Martxan jarri, sartu nahi duzun partida aukeratu, bi aldiz sakatu eta kito. Une batean Internet bidez jolasten ari zara! http://www.gamespy.com informazio gehiagorako.
+OrderText[48]=Eskatu Unrealekin lotutako objektu supertxuloak
+OrderText[49]=Bisitatu http://www.epicgames.com/UnrealOrders, Epic MegaGamesek zuzenean eskaintzen dizkizun Unrealekin lotutako objektuei buruzko informazioa lortzeko. Txanoak, alkandorak, saguarentzako alfonbratxoak, katiluak, posterrak eta beste gauza asko izan daitezke, arrazoizko prezioan.
+OrderText[50]=Eskaintza bereziak
+OrderText[51]=Noizean behin, Epic MegaGames-ek eskaintza bereziak izan ditzake, Unreal eta softwareko beste produktu batzuen konbinazioak edo Unrealekin lotutakoak. Ez galtzeko, bisitatu http://www.unreal.com, non informazio zehatza eta prezioak aurkituko dituzun.
+MenuTitle=ESKAEREI BURUZKO INFORMAZIOA
+
+[UnrealHUD]
+IdentifyName=Izena
+IdentifyHealth=Osasuna
+
+[Queen]
+NameArticle=""
+
+[Warlord]
+NameArticle=""
+
+[UnrealCoopGameOptions]
+Difficulties[0]=Erraza
+Difficulties[1]=Ertaina
+Difficulties[2]=Zaila
+Difficulties[3]=Irreala
+HelpMessage[3]=Trebetasun-maila doitzea.
+MenuList[3]=Zailtasuna
+
+[naliplayer]
+MenuName="Nali"
+
+[SkaarjPlayer]
+MenuName=Skaarj
+
+[MaleOne]
+MenuName=Gizonezkoa 1
+
+[FemaleTwo]
+MenuName="Emakumea 2"
+
+[MaleTwo]
+MenuName=Gizonezkoa 2

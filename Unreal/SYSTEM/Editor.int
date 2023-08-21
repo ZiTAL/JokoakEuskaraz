@@ -1,0 +1,6 @@
+[Public]
+Preferences=(Caption="Editorea",Parent="Aukera aurreratuak")
+Preferences=(Caption="Aurreratuak",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Advanced)
+Preferences=(Caption="Koloreak",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Colors)
+Preferences=(Caption="Laukia",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=Grid)
+Preferences=(Caption= "Errotazio-laukia",Parent="Editor",Class=Editor.EditorEngine,Immediate=True,Category=RotationGrid)

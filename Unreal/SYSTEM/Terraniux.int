@@ -1,0 +1,63 @@
+[LevelInfo0]
+Title=Terraniux
+
+[TranslatorEvent1]
+Message=A Atala: Egoera osoa. Biowaste B Sekzio aktibora desbideratua.
+
+[TranslatorEvent3]
+Message=Kontrol-gelaren egoera: presurizatua eta itxia. Debekatuta dago sartzea, larrialdi kasuetan izan ezik.
+
+[TranslatorEvent4]
+Message=Sarreran hautemandako intrusoa. Ikerketa Zientifiko eta Hidroponikoen Laborategian segurtasun-pantailak aktibatuz. Segurtasun-elementuak sarbide-puntuetara joan Sec. A, B, C eta arrotza 1. igogailura sar ez dadin. "
+Hint="A, B, C euste-gelak eta 1. igogailura sartzeko botoiak bilatu.
+
+[TranslatorEvent5]
+Message=Drainatze-egoera: Biowaste-ren fluxua maila nominaletan dago. Martxan dauden ponpa guztiak. C sekzioa hutsik eta Biowasterrak gainezka egiteko moduan. Ziurtatu kanalizazio erregularra mantentzen dela.
+
+[TranslatorEvent0]
+Message=B atala: Egoera %48 osoa.
+
+[TranslatorEvent10]
+Message=B berotegia: Egiaztatu biowastea kontrol-gelako iragazkien bidez ponpatzen dela eta ez dagoela fluxua blokeatzen duen objektu arrarorik.
+
+[TranslatorEvent12]
+Message=C berotegia: Laster gaua izango da, kontrolatu arretaz maila higrometrikoaren kontrola eta tenperatura atmosferikoa. Kontrol konstantea egin behar da, maila egokietan egon daitezen.
+
+[TranslatorEvent11]
+Message=B berotegia: Karkilys Zegnus ontziak ongarri gehiago behar du. Bidali zaindari talde bat Naliren etxeak ikuskatzeko Codo Noork-en. Kontrol-gelak baimendu behar du lehorreratzea.
+
+[TranslatorEvent9]
+Message=A berotegia: A sekzio osoa, Biowaste fluxua Kontrol Gelatik desbideratu behar da. Hondakinen instalazioaren B atalak errendimendu librea du. Ziurtatu ur-hornidura kontrolatzen duzula, ezpurutasunik dagoen ikusteko.
+Hint=BioWastea Kontrol Gelan iragazten da
+
+[TranslatorEvent8]
+Message=Sarbidea ukatuta. Kontrol Gelak baimena eman behar du Noork ukondora sartzeko.
+AltMessage="Sarbidea emanda. "
+Hint=BioWastean behera igeri egiten baduzu, kontrol-gelara sartu ahal izango zara.
+
+[TranslatorEvent2]
+Message=C atala: Egoera Hutsa, Euste Gela hau kaltetuta dago, mesedez ez bidali hona BioWaste konpondu arte.
+
+[TranslatorEvent6]
+Message=1. igogailua: Segurtasuna ixtea, sarbidea ukatuta. Euste-gelako ponpak aktibatu egin behar dira negutegi hidroponikoan sartzeko.
+AltMessage=1. igogailua: Funtzionamenduaren egoera. Lorategi hidroponikoetarako sarbide baimendua.
+
+[TranslatorEvent7]
+Message=2. igogailuaren egoera: Hodi bat apurtu dela jakinarazi da.
+Hint=Igogailu hau hondatuta dago, baina hodiak egiaztatzen ditu. Baliteke zerbait interesgarria ezkutatzea.
+
+[TranslatorEvent13]
+Message=Kontrol-gela, SARRERA UKATUA
+Hint=Gela honetan sartzeko beste bide bat aurkitu behar duzu.
+
+[TranslatorEvent14]
+Message=Sarbidea ukatuta. Kontrol Gelak baimena eman behar du Noork ukondora sartzeko.
+
+[Trigger46]
+Message=Sarrera-gelako segurtasun-morroiloak, loturarik gabe.
+
+[Trigger32]
+Message=Noork ukondora igogailua aktibatuta
+
+[TranslatorEvent15]
+Message=Ponpa aktibatuta, B atalera transferitutako biowastea.

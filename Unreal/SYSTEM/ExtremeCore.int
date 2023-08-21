@@ -1,0 +1,38 @@
+[LevelInfo0]
+Title="Eskolta itsasontziaren nukleoa"
+
+[TranslatorEvent13]
+message="Larrialdietako potentziaren hornidura, UKATUTAKO SARBIDEA: Potentzia primarioaren hornidura erabat funtzionala."
+Hint="Bilatu Generadore Zentrala eta txikitu eremu honetan sartu ahal izateko."
+
+[TranslatorEvent4]
+message="OHARRA: Atzemandako intrusio armatua. Iturriaren eta potentzia primarioaren horniduraren sarbide guztiak ixten ditu. Oso garrantzitsua da arrotzak sorgailu zentralean sartzea eragoztea. "
+AltMessage="ALERTA GORRIA: Sorgailu zentralaren segurtasuna agerian."
+
+[TranslatorEvent5]
+message="SEGURTASUN ALERTA: WarMasters guztiak jo Sorgailu Zentralaren posizioetara bere babesa ziurtatzeko."
+AltMessage="Generadore zentraletik gertu hautemandako intrusoa. Sorgailu nagusiaren segurtasuna mantendu behar da. Ahulezia zigortuko da."
+
+[TranslatorEvent6]
+message="Sorgailu zentralaren segurtasuna mantendu behar da. Sarrera-ateak itxita egongo dira, harik eta segurtasun-urraketari eutsi arte."
+AltMessage="Nukleora sartzeko atea irekita"
+
+[TranslatorEvent10]
+AltMessage="Segurtasun-postura sartzea baimenduta dago. "
+Hint="Joan zaitez segurtasun-postura lehen mailako potentzia sorgailu zentralaren horniduran sartzeko."
+
+[TranslatorEvent11]
+message="SARRERA UKATUA: Arrotza ezabatu egin behar da. WarMasters guztiak alde honetara joaten dira Iturrira iristen direnean."
+Hint="Leku honetan sartzeko, Skaarj guztiak hil behar dira."
+
+[TranslatorEvent12]
+AltMessage="CryoPods egoera: tenperatura konstantea, potentzia maila nominaletan, segurtasun-sistema aktiboak."
+
+[TranslatorEvent8]
+message="Segurtasun-postua, SARBIDEA UKATUTA"
+
+[TranslatorEvent9]
+message="Potentzia primarioaren hornidura, UKATUTAKO SARBIDEA"
+Hint="Segurtasun-postuko kontrol-paneletik ireki daitezke ateak."
+
+

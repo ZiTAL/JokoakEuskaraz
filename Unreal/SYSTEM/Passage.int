@@ -1,0 +1,35 @@
+[LevelInfo0]
+Title="Zeremonia-ganberak"
+LevelEnterText="Zeremonialak sartu"
+
+[TranslatorEvent15]
+message="The inner kamera zeremonialak. Hemen, Aquako serpirnteak behar direnen peila hartu nahi du. Suge batek bezala igeri egin dezakeen gudari batek bakarrik ihes egin dezake ".
+
+[TranslatorEvent0]
+message="Sgt. William Bradford: "Slamenandro garesti horietako batek hil egin nau. Ez daukat txartelik eta apaiz batekin nago santutegi batean. Quando el rezars portura begira dago ".
+
+
+[TranslatorEvent2]
+Message=Korazaren purua bakarrik (Chizraren jainkoari omenaldia ordain diezaiokete)
+Hint=Palanka aktibatu aka pasatzen uzteko.
+
+[TranslatorEvent12]
+Message=Horregatik izango da gakoa.
+Hint=Aktibatu palanka aka pasatzen uzteko
+
+[TranslatorEvent13]
+Message=Erne ibili behar duzu. Akana sakratuetan garbitzeko.
+Hint=Aukera guztiei begiratu.
+
+[TranslatorEvent11]
+Message=Ziur egur zati bat puskatu dezakezula.
+Hint=Aktibatu palanka aka pasatzen uzteko
+
+[TranslatorEvent0]
+Hint=Ba (isilpeko pasarte bat bilatzeko).
+
+[TranslatorEvent1]
+Hint=Ba (isilpeko pasarte bat bilatzeko).
+
+[LevelInfo0]
+Izenburua Pasabide sakratua

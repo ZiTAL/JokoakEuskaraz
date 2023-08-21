@@ -1,0 +1,34 @@
+[LevelInfo2]
+Title=Prometeo UMSren barruan
+
+[LevelInfo1]
+Title=Hurbil zaitezte UMS Prometeora
+LevelEnterText=UMS Prometeora hurbiltzen
+
+[CompTablet0]
+PickupMessage=You found the weapon logs!
+
+[TranslatorEvent2]
+Message=UMS Prometeo. Nabigazio sarea: Errorea: Planeta hau ez da aurkitu datu-basearen mapan! Egon zain analisi nagusiaren emaitzak lortzeko.....
+
+[TranslatorEvent1]
+Message=UMS Prometeo. Nabigazio sarea: Oharra! Hurbiltasun arriskua! Berehalako kontaktua planetaren gainazalarekin!
+
+[Trigger43]
+Message=testa
+
+[TranslatorEvent12]
+Message=Diario de Michael T. Williams, zientzialari ofiziala: Ikerketa amaitu da eta astebete falta zaigu oraindik gure helmugara iristeko. Erlaxatzeko une aproposa izango litzateke ontzi malapartatu honetan harrapatuta ez bageunde.
+
+[Trigger32]
+Message=3rd person camera cutscene.
+
+[TranslatorEvent0]
+Message=UMS Prometeo. Nabigazio sarea: Egoera: Atmosferako sarrera detektatu da. | Oharra! Jaitsiera-abiadurak muga onargarria gainditzen du. | Arriskua! Zulaketa bat antzeman da B3 sekzioko kroskoan. | Arriskua! Zulaketa bat antzeman da B2 sekzioko kroskoan. | Oharra! Kaskoaren osotasuna % 26ra jaitsi zen A3 atalean. | Arriskua! Zulaketa bat antzeman da A2 sekzioko kroskoan.
+
+[TranslatorEvent3]
+Message=UMS Prometeo. Informazio-terminala: --- Deskonektatutako informazio-sarea ---
+
+[TranslatorEvent4]
+Message=UMS Prometeo. Informazio-terminala: --- Deskonektatutako informazio-sarea ---
+

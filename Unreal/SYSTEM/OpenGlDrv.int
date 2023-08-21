@@ -1,0 +1,14 @@
+[Public]
+Object=(Name=OpenGLDrv.OpenGLRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=)
+Preferences=(Caption="Erreprodukzioa",Parent="Aukera aurreratuak")
+Preferences=(Caption="OpenGLrekin bateragarria",Parent="Erreprodukzioa",Class=OpenGLDrv.OpenGLRenderDevice,Immediate=True)
+
+[OpenGLRenderDevice]
+ClassCaption="Tim OpenGLrekin bateragarria"
+AskInstalled=3Dko grafikoak azeleratzeko OpenGL txartel bateragarria instalatuta daukazu?
+AskUse=Nahi duzu Unrealek zure OpenGL txartel azeleragailua erabiltzea?
+
+[Errors]
+NoFindGL=%s OpenGL kontrolatzailea ezin izan da aurkitu.
+MissingFunc=OpenGL %s (%i) funtzioa falta da.
+ResFailed=Ezin izan da ebazpena egokitu.

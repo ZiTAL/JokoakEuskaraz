@@ -1,0 +1,9 @@
+[Public]
+Object=(Name=MeTaLDrv.MeTaLRenderDevice,Class=Class,MetaClass=Engine.RenderDevice,Autodetect=S3_6.dll)
+Preferences=(Caption="Erreprodukzioa",Parent="Aukera aurreratuak")
+Preferences=(Caption="Bateragarria S3 MeTaL-rekin",Parent="Erreprodukzioa",Class=MeTaLDrv.MeTaLRenderDevice,Immediate=True)
+
+[MeTaLRenderDevice]
+ClassCaption="S3 MeTaL Windows-erako"
+AskInstalled=3Dko grafikoak bizkortzeko Savage txartel bat instalatuta daukazu?
+AskUse=Nahi duzu Unrealek Savage txartela erabiltzea, 3D grafikoak bizkortzeko?
