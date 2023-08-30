@@ -107,7 +107,7 @@ Title="Titulurik gabe"
 
 [Weapon]
 MessageNoAmmo="ez du muniziorik. "
-PickupMessage=Arma bat daukazu
+PickupMessage=Arma bat lortu duzu
 DeathMessage=%k %w erabiliz %o-k hil du.
 ItemName=Arma
 DeathMessage[0]=%k %w erabiliz %o-k hil du.

@@ -8,7 +8,7 @@ Object=(Name=UnrealShare.Stinger,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=UnrealShare.ASMD,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=UnrealShare.Eightball,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=UnrealShare.FemaleOne,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Mujer 1")
-Object=(Name=UnrealShare.MaleThree,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varón 3")
+Object=(Name=UnrealShare.MaleThree,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varï¿½n 3")
 Object=(Name=UnrealShare.UnrealSpectator,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Espectador")
 Object=(Name=UnrealShare.FemaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Emakumea 1")
 Object=(Name=UnrealShare.MaleThreeBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Gizona 3")
@@ -293,7 +293,7 @@ HideString=Ezkutukoa
 [EndgameHud]
 Message1=Skaarj ihes-ontziak ihes egin du (ileetatik) planetaren grabitate-erakarpenetik. Hala ere, erregairik gabe geratu zara eta noraezean zoaz.
 Message2=Gehienak hiltzen diren tokitik ihes egin duzu. Zeure buruari irribarre egiten diozu: hainbeste gauza gertatu dira...! Hala ere, hain gutxi aldatu da...
-Message3=Nahitaezko lurreratzea baino lehen, ziega ñimiño batean harrapatuta zeunden. Orain presondegi batean zaude berriro.
+Message3=Nahitaezko lurreratzea baino lehen, ziega ï¿½imiï¿½o batean harrapatuta zeunden. Orain presondegi batean zaude berriro.
 Message4=Baina ziur zaude azkenean norbaitek zure ontzitxoa aurkituko duela.
 Message5=Ordura arte, egin dezakezun gauza bakarra zure itxaropenak elikatzea da, norabide finkorik gabe mugitzen jarraitzen duzun bitartean.
 Message6=Jarraituko du...
@@ -579,7 +579,7 @@ PickupMessage=8 kartutxo dituzu erriflerako.
 PickupMessage=10 jaurtigai dituzu aireko kanoirako
 
 [Flare]
-PickupMessage=Bengala bat daukazu.
+PickupMessage=Bengala lortu duzu.
 
 [JumpBoots]
 ExpireMessage=Jauziko botak agortu egin dira
@@ -629,7 +629,7 @@ PickupMessage=Jantzi anti-toxikoa jaso duzu
 PickupMessage=15 jaurtigai bildu dituzu
 
 [RifleRound]
-PickupMessage=Erriflearentzako kartutxo bat daukazu.
+PickupMessage=Erriflearentzako kartutxo lortu duzu.
 
 [QuadShot]
 PickupMessage=QuadShot jaso duzu

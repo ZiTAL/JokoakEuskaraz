@@ -7,12 +7,12 @@ Object=(Name=Unreali.Razorjack,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=Unreali.Rifle,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=Unreali.Minigun,Class=Class,MetaClass=Engine.Weapon)
 Object=(Name=Unreali.FemaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Mujer 2")
-Object=(Name=Unreali.MaleOne,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varón 1")
-Object=(Name=Unreali.MaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varón 2")
+Object=(Name=Unreali.MaleOne,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varï¿½n 1")
+Object=(Name=Unreali.MaleTwo,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Varï¿½n 2")
 Object=(Name=Unreali.SkaarjPlayer,Class=Class,MetaClass=UnrealShare.UnrealiPlayer,Description="Skaarj")
 Object=(Name=Unreali.FemaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Mujer 2")
-Object=(Name=Unreali.MaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varón 1")
-Object=(Name=Unreali.MaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varón 2")
+Object=(Name=Unreali.MaleOneBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varï¿½n 1")
+Object=(Name=Unreali.MaleTwoBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Varï¿½n 2")
 Object=(Name=Unreali.SkaarjPlayerBot,Class=Class,MetaClass=UnrealShare.Bots,Description="Skaarj")
 Preferences=(Caption="Jokatzeko moduak",Parent="Aukera aurreratuak")
 Preferences=(Caption="Ilunpetan elkartzea",Parent="Jokatzeko moduak",Class=UnrealI.DarkMatch,Immediate=True)
@@ -280,7 +280,7 @@ MenuList[16]=Aukera aurreratuak
 [EndgameHud]
 Message1=Skaarj ihes-ontziak ihes egin du (ileetatik) planetaren grabitate-erakarpenetik. Hala ere, erregairik gabe geratu zara eta noraezean zoaz.
 Message2=Gehienak hiltzen diren tokitik ihes egin duzu. Zeure buruari irribarre egiten diozu: hainbeste gauza gertatu dira...! Hala ere, hain gutxi aldatu da...
-Message3=Nahitaezko lurreratzea baino lehen, ziega ñimiño batean harrapatuta zeunden. Orain kartzelan zaude berriro.
+Message3=Nahitaezko lurreratzea baino lehen, ziega ï¿½imiï¿½o batean harrapatuta zeunden. Orain kartzelan zaude berriro.
 Message4=Baina ziur zaude azkenean norbaitek zure ontzitxoa aurkituko duela.
 Message5=Ordura arte, egin dezakezun gauza bakarra zure itxaropenak elikatzea da, norabide finkorik gabe mugitzen jarraitzen duzun bitartean.
 Message6=Jarraituko du...
@@ -566,7 +566,7 @@ PickupMessage=8 kartutxo dituzu erriflerako.
 PickupMessage=10 jaurtigai dituzu aireko kanoirako
 
 [Flare]
-PickupMessage=Bengala bat daukazu.
+PickupMessage=Bengala bat lortu duzu.
 
 [JumpBoots]
 ExpireMessage=Jauziko botak agortu egin dira
@@ -576,7 +576,7 @@ PickupMessage=Jauziko botak jaso dituzu
 PickupMessage=Dispertsio-pistolaren indargarria duzu
 
 [Razorjack]
-PickupMessage=RazorJack daukazu.
+PickupMessage=RazorJack lortu duzu.
 ItemName=Razorjack
 DeathMessage=%k -k  %w batekin %o zulatu du."
 
@@ -619,7 +619,7 @@ PickupMessage=Jantzi anti-toxikoa jaso duzu
 PickupMessage=15 jaurtigai bildu dituzu
 
 [RifleRound]
-PickupMessage=Erriflearentzako kartutxo bat daukazu.
+PickupMessage=Erriflearentzako kartutxoa lortu duzu.
 
 [QuadShot]
 PickupMessage=QuadShot jaso duzu
