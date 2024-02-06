@@ -2,104 +2,104 @@ Death Trash Language File
 File Format Version:	1	
 Language Id:	Basque	
 ------------------------------------------		
-#NewGame:	New Game	Nueva Partida
-#Resume:	Resume	Reanudar
-#LoadGame:	Load	Cargar
-#DoSaveGame:	Save	Guardar
-#Quit:	Quit	Salir
-#MainMenu:	Main Menu	Menú Principal
-#Cancel:	Cancel	Cancelar
-#ConnectGamepadForCoop:	Connect a controller for this mode	Conecta un mando para este modo
-#ConnectMoreGamepadsForCoop:	Connect another Controller for this mode	Conecta otro mando para este modo
-#GatherYourPartyBeforeVenturingForth:	You must leave together	Debéis estar juntos para salir
-#BeginReviving:	Reviving...	Reviviendo...
-#NotPossibleNow:	Not possible now	No es posible ahora
-#TutorialDialogueLeave:	You can leave dialogue||anytime {0}	Puedes salir del diálogo||cuando quieras {0}
-#Start:	Start	Comenzar
-#NotEnoughRoomInInventory:	Inventory is full	Inventario lleno
-#BreakApart:	Deconstruct	Desmantelar
-#QuickItemSlot:	Nano Health	Salud Nano
-#NoAmmo:	No ammo	Sin munición
-#NoQuickItemSelected:	No Item selected	No hay objeto seleccionado
-#LevelUp:	Level	Nivel
-#Talk:	Talk	Hablar
-#CostTooMuch:	not affordable	no te lo puedes permitir
+#NewGame:	New Game	Partida Berria
+#Resume:	Resume	Berrabiarazi
+#LoadGame:	Load	Kargatu
+#DoSaveGame:	Save	Gorde
+#Quit:	Quit	Irten
+#MainMenu:	Main Menu	Menu Nagusia
+#Cancel:	Cancel	Ezeztatu
+#ConnectGamepadForCoop:	Connect a controller for this mode	Konektatu aginte bat modu honetarako
+#ConnectMoreGamepadsForCoop:	Connect another Controller for this mode	Konektatu beste aginte bat modu honetarako
+#GatherYourPartyBeforeVenturingForth:	You must leave together	Elkarrekin egon behar zarete irteteko
+#BeginReviving:	Reviving...	Berpizten...
+#NotPossibleNow:	Not possible now	Orain ez da posible
+#TutorialDialogueLeave:	You can leave dialogue||anytime {0}	Elkarrizketatik atera zaitezke||nahi duzunean {0}
+#Start:	Start	Hasi
+#NotEnoughRoomInInventory:	Inventory is full	Inbentarioa beteta dago
+#BreakApart:	Deconstruct	Desegin
+#QuickItemSlot:	Nano Health	Nano Osasuna
+#NoAmmo:	No ammo	Munizio gabe
+#NoQuickItemSelected:	No Item selected	Ez dago objekturik hautatuta
+#LevelUp:	Level	Maila
+#Talk:	Talk	Hitz egin
+#CostTooMuch:	not affordable	ezin duzu
 #NotSellable:		
-#NoItems:	None	Nada
-#QuestFinished:	Finished	Terminado
-#QuestNew:	New Quest	Nueva Misión
-#QuestProgress:	Quest updated	Misión actualizada
-#SwitchedCharacters:	Switched Characters	Personajes intercambiados
-#Mouse:	Mouse	Ratón
-#Gamepad:	Controller	Mando
-#LetsContinue:	Let's continue...	Vamos a seguir...
-#QuestFailed:	Failed Quest	Misión fallida
-#CombatModeBegins:	Combat	Combate
-#CombatModeEnds:	Combat ends	Combate terminado
-#Use:	Use	Usar
-#Examine:	Examine	Examinar
-#ToWorldMap:	To World Map	Al mapa del mundo
-#Read:	Read	Leer
-#DropAll:	Drop all	Soltar todo
-#BreakApartAll:	Deconstruct all	Desmantelar todo
-#SellAll:	Sell all	Vender todo
-#Browse:	Search	Buscar
-#Loot:	Loot	Saquear
-#LootAll:	Loot all	Saquear todo
-#Drink:	Drink	Beber
-#AsYouWereSaying:	Let's continue...	Vamos a seguir...
-#TalkTo:	Talk	Hablar
-#Continue:	Continue	Continuar
-#SelectProfile:	Select Profile	Seleccionar perfil
-#Back:	Back	Atrás
-#Empty:	Empty	Vacío
-#ReloadSavegame:	Reload	Recargar
-#LoadOtherProfile:	Switch Profile	Cambiar perfil
-#Body:	Body	Cuerpo
-#LoadProfile:	Load Game	Cargar Partida
-#SelectModule:	Select Game Module	Selecciona juego
-#Learn:	Learn	Aprender
-#RecipeLearned:	Crafting Recipe learned	Receta de fabricación aprendida
-#LearnRecipeDescription:	Teaches a crafting recipe.	Te enseña una receta de fabricación.
-#GamepadConnectionLost:	Controller connection lost	Mando desconectado
-#All:	All	Tidi
-#Kill:	Kill	Matar
+#NoItems:	None	Ezer ez
+#QuestFinished:	Finished	Amaituta
+#QuestNew:	New Quest	Misio Berria
+#QuestProgress:	Quest updated	Misioa eguneratuta
+#SwitchedCharacters:	Switched Characters	Trukatutako pertsonaiak
+#Mouse:	Mouse	Sagua
+#Gamepad:	Controller	Agintea
+#LetsContinue:	Let's continue...	Jarraituko dugu...
+#QuestFailed:	Failed Quest	Misioak huts egin du
+#CombatModeBegins:	Combat	Burruka
+#CombatModeEnds:	Combat ends	Burruka amaituta
+#Use:	Use	Erabili
+#Examine:	Examine	Aztertu
+#ToWorldMap:	To World Map	Munduko mapara
+#Read:	Read	Irakurri
+#DropAll:	Drop all	Dena bota
+#BreakApartAll:	Deconstruct all	Guztia desegin
+#SellAll:	Sell all	Dena saldu
+#Browse:	Search	Bilatu
+#Loot:	Loot	Hartu
+#LootAll:	Loot all	Dena hartu
+#Drink:	Drink	Edan
+#AsYouWereSaying:	Let's continue...	Jarraituko dugu...
+#TalkTo:	Talk	Hitz egin
+#Continue:	Continue	Jarraitu
+#SelectProfile:	Select Profile	Profila aukeratu
+#Back:	Back	Atzera
+#Empty:	Empty	Hutsik
+#ReloadSavegame:	Reload	Berriz kargatu
+#LoadOtherProfile:	Switch Profile	Profila aldatu
+#Body:	Body	Gorputza
+#LoadProfile:	Load Game	Partida kargatu
+#SelectModule:	Select Game Module	Jokoa aukeratu
+#Learn:	Learn	Ikasi
+#RecipeLearned:	Crafting Recipe learned	Frabrikazio errezeta ikasita
+#LearnRecipeDescription:	Teaches a crafting recipe.	Fabrikazio errezeta bat erakusten du.
+#GamepadConnectionLost:	Controller connection lost	 Agintea deskonektatu da
+#All:	All	Dena
+#Kill:	Kill	Erahil
 #Cyborg:	Cyborg	Cyborg
-#Skin:	Skin Color	Color de piel
-#Hair:	Hair Color	Color de pelo
-#Open:	Open	Abrir
-#Close:	Close	Cerrar
-#Touch:	Touch	Tocar
-#Menu:	Menu	Menú
-#AreaExitNotSafe:	There are enemies nearby.	Hay enemigos cerca
-#OtherPlayerDied:	Other Player Died	El otro jugador murió
-#Join:	Join	Unirse
-#Head:	Head	Cabeza
-#NotAvailable:	not available	no disponible
-#Corpse:	Corpse	Cadáver
-#Eat:	Eat	Comer
-#needs:	needs	necesita
-#Inventory:	Inventory	Inventario
-#Unknown:	Unknown	Desconocido
-#Failed:	Failed	Fallo
-#Impossible:	Impossible	Imposible
-#Success:	Success	Éxito
-#Steal:	Steal	Robar
-#Pickpocket:	Pickpocket	Hurtar
-#AbilityCannotBeUsedNow:	Cannot be used right now	No se puede utilizar en este momento
-#CanNotUseInCombatMode:	Cannot use while in combat	No se puede usar en combate
-#CanOnlyUseInCombatMode:	Can only use while in combat	Solo se puede usar en combate
-#Equip:	Equip	Equipar
-#Trinket:	Trinket	Baratija
-#NoEnergy:	No Focus Energy	Sin energía de enfoque
-#OnCooldown:	Ability has Cooldown	La habilidad está en enfriamiento
-#Abilities:	Abilities	Habilidades
-#ReloadWeapon:	Reload	Recargar
-#UseQuickItem:	Use Equipped Item	Usar objeto equipado
-#UseActionBarOne:	Action Bar 1	Barra de acción 1
-#UseActionBarTwo:	Action Bar 2	Barra de acción 2
-#UseActionBarThree:	Action Bar 3	Barra de acción 3
-#UseActionBarFour:	Action Bar 4	Barra de acción 4
+#Skin:	Skin Color	Azalaren kolorea
+#Hair:	Hair Color	Ilearen kolorea
+#Open:	Open	Ireki
+#Close:	Close	Itxi
+#Touch:	Touch	Ikutu
+#Menu:	Menu	Menua
+#AreaExitNotSafe:	There are enemies nearby.	Etsaiak hurbil dabiltza
+#OtherPlayerDied:	Other Player Died	Beste jokalaria hil da
+#Join:	Join	Batu
+#Head:	Head	Burua
+#NotAvailable:	not available	ez dago eskuragarri
+#Corpse:	Corpse	Gorpua
+#Eat:	Eat	Jan
+#needs:	needs	behar du
+#Inventory:	Inventory	Inbentarioa
+#Unknown:	Unknown	Ezezaguna
+#Failed:	Failed	Huts egin du
+#Impossible:	Impossible	Ezinezkoa
+#Success:	Success	Arrakasta
+#Steal:	Steal	Lapurtu
+#Pickpocket:	Pickpocket	Ostu
+#AbilityCannotBeUsedNow:	Cannot be used right now	 Ezin da une honetan erabili
+#CanNotUseInCombatMode:	Cannot use while in combat	Ezin da borrokan erabili
+#CanOnlyUseInCombatMode:	Can only use while in combat	Borrokan bakarrik erabil daiteke
+#Equip:	Equip	Hornitu
+#Trinket:	Trinket	Purtzileria
+#NoEnergy:	No Focus Energy	Fokuratzeko energiarik gabe
+#OnCooldown:	Ability has Cooldown	Trebetasuna hozten ari da
+#Abilities:	Abilities	Trebetasunak
+#ReloadWeapon:	Reload	Berriz kargatu
+#UseQuickItem:	Use Equipped Item	Objektu ekipatua erabili
+#UseActionBarOne:	Action Bar 1	Ekintza Barra 1
+#UseActionBarTwo:	Action Bar 2	Ekintza Barra 2
+#UseActionBarThree:	Action Bar 3	Ekintza Barra 3
+#UseActionBarFour:	Action Bar 4	Ekintza Barra 4
 #Movement:	Movement	Movimiento
 #SavingNotPossibleHere:	Saving is not possible||right now	Guardar no es posible||en este momento
 #NoFurtherAmmo:	No further ammo	No queda munición
