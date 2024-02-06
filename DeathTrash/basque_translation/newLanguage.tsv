@@ -199,106 +199,106 @@ Language Id:	Basque
 #UISize:	UI Scale	Interfazearen tamaina
 #UISmall:	Small	Txikia
 #UIBig:	Large	Handia
-#UICustom:	Custom	Personalizada
-#ItemRequirementsMissing:	Item requirements missing	Faltan objetos necesarios
-#SwitchHandheldZoomedOut:	Handheld: Zoomed Out	Alternar: Zoom
-#SaveInFreeSlot:	Free Slot	Casilal disponible
-#Interrupted:	Action interrupted	Acción interrumpida
-#AimingHelpForController:	Controller Aiming Help	Asistencia al apuntar
-#UsedKey:	Used key	Llave usada
-#TravelTo:	Travel to	Viajar a
-#Backstab:	Backstab	Puñalada
-#PotentialSalvage:	Potential salvage	Desmantelado potencial
-#Yes:	Yes	Sí
-#No:	No	No
-#Skip:	Skip {0}	Saltar {0}
-#Container:	Container	Contenedor
-#Skills:	Skills	Habilidades
-#Statistics:	Statistics	Estadísticas
-#Stats:	Stats	Estadísticas
-#General:	General	General
-#Puked:	Puked	Vomitado
-#Killed:	Killed	Muerto
-#QuestsFailed:	Quests failed	Misión fracasada
-#QuestsFinished:	Quests finished	Misión terminada
-#Social:	Social	Social
-#Combat:	Combat	Combate
-#Trickery:	Trickery	Astucia
-#SmallGuns:	Small Firearms	Armas a distancia pequeñas
-#Melee:	Melee	Cuerpo a cuerpo
-#LargeGunsDescription:	Proficiency with rifles and shotguns. Increased damage.	Eficacia con rifles y escopetas. Aumenta el daño.
-#TechnologyDescription:	Proficiency with advanced weapons. Increased damage.	Eficacia con armas avanzadas. Aumenta el daño
-#Artistry:	Artistry	Arte
-#Bartering:	Bartering	Trueque
-#Lockpicking:	Lockpicking	Forzar cerraduras
-#Attributes:	Core	Principales
-#Resistances:	Resistances	Resistencias
-#Strength:	Strength	Fuerza
-#Hardness:	Hardiness	Robustez
-#Finesse:	Finesse	Sutileza
-#Cybertech:	Cybertech	Cybertecnología
-#Empathy:	Empathy	Empatía
-#Occultism:	Occultism	Ocultismo
-#ExperienceAbbreviation:	Exp.	Exp.
-#Level:	Level	Nivel
-#Point:	Point	Punto
-#Points:	Points	Puntos
-#Remaining:	remaining	disponibles
-#Fire:	Fire	Fuego
-#Energy:	Energy	Energía
-#HardnessDescription:	Increased health and resistances.	Aumenta la salud y las resistencias.
-#StrengthDescription:	Allows the use of better melee weapons. Better crit chances with melee weapons.	Permite el uso de mejores armas cuerpo a cuerpo. Mejores críticos cuerpo a cuerpo.
-#FinesseDescription:	Allows the use of better ranged weapons. Better crit chances with ranged weapons.	Permite el uso de mejores armas a distancia. mejores críticos con armas a distancia.
-#OccultismDescription:	Allows the use of abilities that communicate with the flesh.||Makes you endure higher stages of infection.	Permite el uso de habilidades que se comunican con la carne.||Te permite aguantar mayores estados de la infección.
-#CybertechDescription:	Allows the use of most forms of implants and tech abilities.	Permite el uso de la mayoría de implantes y habilidades tecnológicas.
-#EmpathyDescription:	Influences some interactions with other characters.	Influye algunas interacciones con otros personajes
-#RandomVariant:	Random Name {0}||Random Variant {1}	Nombre aleatorio {0} || Variante aleatoria {1}
-#RandomVariantAndNextTemplate:	Random name {0}||Random visuals {1} Next preset {2}	Nombre aleatorio {0} || Visuales aleatorios {1} Próximo set {2}
-#ChooseYourCharacter:	Choose your character	Elige tu personaje
-#ChooseYourClass:	Choose your character	Escoge tu clase
-#Language:	Language	Idioma
-#EnglishLanguage:	English	Inglés
-#GermanLanguage:	Deutsch	Alemán
-#Drop:	Drop	Soltar
-#Audio:	Audio	Audio
-#CurrentGame:	Current game	Partida actual
-#Unequip:	Unequip	Desequipar
-#TutorialCloseInventory:	Close inventory	Cerrar inventario
-#TutorialNavigateToInventoryTabMouse:	Click on the Inventory Tab	Haz click en la pestaña de inventario
-#TutorialNavigateToInventoryTabController:	Open Inventory {0}{1}	Abrir inventario {0}{1}
-#TutorialSelectAbilityMouse:	Select the [0]{0} Ability||from the Action Bar	Selecciona la habilidad [0]{0}||de la barra de acción
-#TutorialSelectAbilityController:	Select the [0]{0} Ability||with {1} and {2}	Selecciona la habilidad [0]{0}||de {1} y {2}
-#TutorialUseAbilityAnywhere:	Use ability [0]{0}||anywhere {1}	Usa la habilidad [0]{0}||en cualquier parte {1}
-#TutorialPickUpPuke:	Pick up some of your own puke	Recoge un poco de tu propio vómito
-#TutorialExamineMachineAgain:	Examine the machine again	Examina la máquina de nuevo
-#TutorialCombatLeave:	Holster your weapon {0}	Guarda tu arma {0}
-#TutorialMeleePickUpWeapon:	Pick up the weapon	Recoge el arma
-#TutorialMeleeEquipWeapon:	Equip the weapon	Equipa el arma
-#TutorialMeleeEnterCombatModeMouse:	Draw weapon {0}	Desenfunda tu arma {0}
-#TutorialMeleeEnterCombatModeController:	Hit melee {0}||to enter combat mode||	Golpea {0}||para entrar en combate||
-#TutorialMeleeWalkKeyboard:	Walk around with {0}{1}{2}{3}	Muévete con {0}{1}{2}{3}
-#TutorialMeleeAttackDoor:	Destroy that door over there||with {0}	Destruye esa puerta||con {0}
-#TutorialMeleeStrong:	Strong Melee Attack:||Hold {0}	Golpe fuerte:||Mantén {0}
-#TutorialRangedPickUpWeapon:	Pick up the rifle||and the ammo	Recoge el rifle||y la munición
-#TutorialRangedEquipWeapon:	Equip the rifle	Equipa el rifle
-#TutorialRangedSelectWeaponMouse:	Target with ranged weapon||{0}	Apunta con tu arma||{0}
-#TutorialRangedSelectWeaponController:	Select ranged weapon||by targeting with right stick	Selecciona arma a distancia||y apunta con el stick derecho
-#TutorialRangedShootTargets:	Shoot all red lights||on the wall {0}	Dispara a todas las luces rojas||de la pared {0}
-#TutorialRangedReload:	Reload {0}	Recargar {0}
+#UICustom:	Custom	Pertsonalizatua
+#ItemRequirementsMissing:	Item requirements missing	Beharrezko objektuak falta dira
+#SwitchHandheldZoomedOut:	Handheld: Zoomed Out	Txandakatu: Zoom
+#SaveInFreeSlot:	Free Slot	Lauki erabilgarria
+#Interrupted:	Action interrupted	Ekintza etena
+#AimingHelpForController:	Controller Aiming Help	Laguntza apuntatzeko
+#UsedKey:	Used key	Erabilitako giltza
+#TravelTo:	Travel to	Bidaiatu
+#Backstab:	Backstab	Labankada
+#PotentialSalvage:	Potential salvage	Desegite potentziala
+#Yes:	Yes	Bai
+#No:	No	Ez
+#Skip:	Skip {0}	Aurrera egin {0}
+#Container:	Container	Edukiontzia
+#Skills:	Skills	Trebetasunak
+#Statistics:	Statistics	Estatistikak
+#Stats:	Stats	Estatistikak
+#General:	General	Orokorra
+#Puked:	Puked	Botaka
+#Killed:	Killed	Hilda
+#QuestsFailed:	Quests failed	Misioak porrot egin du
+#QuestsFinished:	Quests finished	Misioa amaituta
+#Social:	Social	Soziala
+#Combat:	Combat	Borroka
+#Trickery:	Trickery	Maltzurkeria
+#SmallGuns:	Small Firearms	Urrutirako arma txikiak
+#Melee:	Melee	Buruz buru
+#LargeGunsDescription:	Proficiency with rifles and shotguns. Increased damage.	Eraginkortasuna errifle eta eskopetekin. Kaltea areagotzen du.
+#TechnologyDescription:	Proficiency with advanced weapons. Increased damage.	Eraginkortasuna arma aurreratuekin. Kaltea areagotzen du.
+#Artistry:	Artistry	Artea
+#Bartering:	Bartering	Trukea
+#Lockpicking:	Lockpicking	Sarrailak behartzea
+#Attributes:	Core	Nagusiak
+#Resistances:	Resistances	Erresistentziak
+#Strength:	Strength	Indarra
+#Hardness:	Hardiness	Sendotasuna
+#Finesse:	Finesse	Sotiltasuna
+#Cybertech:	Cybertech	Cyberteknologia
+#Empathy:	Empathy	Enpatia
+#Occultism:	Occultism	Okultismoa
+#ExperienceAbbreviation:	Exp.	Esp.
+#Level:	Level	Maila
+#Point:	Point	Puntua
+#Points:	Points	Puntuak
+#Remaining:	remaining	eskuragarri
+#Fire:	Fire	Sua
+#Energy:	Energy	Energia
+#HardnessDescription:	Increased health and resistances.	Osasuna eta erresistentziak areagotzen ditu.
+#StrengthDescription:	Allows the use of better melee weapons. Better crit chances with melee weapons.	Buruz buru arma hobeak erabiltzeko aukera ematen du. Kritikari onenak buruz buru.
+#FinesseDescription:	Allows the use of better ranged weapons. Better crit chances with ranged weapons.	Urrunerako arma hobeak erabiltzeko aukera ematen du, urruneko armekin kritikoak diren hobeak.
+#OccultismDescription:	Allows the use of abilities that communicate with the flesh.||Makes you endure higher stages of infection.	Haragiarekin komunikatzen diren trebetasunak erabiltzeko aukera ematen du.||Infekzioaren egoera handiagoari eusteko aukera ematen dizu.
+#CybertechDescription:	Allows the use of most forms of implants and tech abilities.	Inplante eta trebetasun teknologiko gehienak erabiltzea ahalbidetzen du.
+#EmpathyDescription:	Influences some interactions with other characters.	Beste pertsonaia batzuekiko elkarreragin batzuk eragiten ditu
+#RandomVariant:	Random Name {0}||Random Variant {1}	Ausazko izena {0} || Ausazko aldaera {1}
+#RandomVariantAndNextTemplate:	Random name {0}||Random visuals {1} Next preset {2}	Ausazko izena {0} || Ausazko bisualak {1} Hurrengo seta {2}
+#ChooseYourCharacter:	Choose your character	Aukeratu zure pertsonaia
+#ChooseYourClass:	Choose your character	Aukeratu zure klasea
+#Language:	Language	Hizkuntza
+#EnglishLanguage:	English	Ingelesa
+#GermanLanguage:	Deutsch	Alemana
+#Drop:	Drop	Askatu
+#Audio:	Audio	Audioa
+#CurrentGame:	Current game	Oraingo partida
+#Unequip:	Unequip	Ekipamendua kendu
+#TutorialCloseInventory:	Close inventory	Inbentarioa itxi
+#TutorialNavigateToInventoryTabMouse:	Click on the Inventory Tab	Egin klik inbentarioaren fitxan
+#TutorialNavigateToInventoryTabController:	Open Inventory {0}{1}	Inbentarioa ireki {0}{1}
+#TutorialSelectAbilityMouse:	Select the [0]{0} Ability||from the Action Bar	Trebetasuna aukeratu [0]{0}||akzio barratik
+#TutorialSelectAbilityController:	Select the [0]{0} Ability||with {1} and {2}	Trebetasuna aukeratu [0]{0}||{1} eta {2}
+#TutorialUseAbilityAnywhere:	Use ability [0]{0}||anywhere {1}	Trebetasuna erabili [0]{0}||edozein lekutan {1}
+#TutorialPickUpPuke:	Pick up some of your own puke	Jaso zeure gonbitotik pixka bat
+#TutorialExamineMachineAgain:	Examine the machine again	Makina berriro aztertu
+#TutorialCombatLeave:	Holster your weapon {0}	Gorde zure arma {0}
+#TutorialMeleePickUpWeapon:	Pick up the weapon	Arma hartu
+#TutorialMeleeEquipWeapon:	Equip the weapon	Arma ekipatu
+#TutorialMeleeEnterCombatModeMouse:	Draw weapon {0}	Arma atera {0}
+#TutorialMeleeEnterCombatModeController:	Hit melee {0}||to enter combat mode||	Jo {0}||borrokan hasteko||
+#TutorialMeleeWalkKeyboard:	Walk around with {0}{1}{2}{3}	Mugitzeko {0}{1}{2}{3}
+#TutorialMeleeAttackDoor:	Destroy that door over there||with {0}	Atea suntsitu||{0} erabiliz
+#TutorialMeleeStrong:	Strong Melee Attack:||Hold {0}	Kolpe gogorra:||Mantendu {0}
+#TutorialRangedPickUpWeapon:	Pick up the rifle||and the ammo	Erriflea hartu||eta munizioa
+#TutorialRangedEquipWeapon:	Equip the rifle	Erriflea ekipatu
+#TutorialRangedSelectWeaponMouse:	Target with ranged weapon||{0}	Apuntatu arma erabiliz||{0}
+#TutorialRangedSelectWeaponController:	Select ranged weapon||by targeting with right stick	Aukeratu urrunerako arma||eta apuntatu eskuineko stick-arekin
+#TutorialRangedShootTargets:	Shoot all red lights||on the wall {0}	Argi gorri guztiei tiro egin||hormako {0}
+#TutorialRangedReload:	Reload {0}	Berriz kargatu {0}
 #Button:	{0}	{0}
-#LootAllController:	{0} All	{0} Todo
-#LootAllMouse:	{0} All	{0} Todo
-#TutorialWalkMouse:	Walk {0} or {1}{2}{3}{4}	Muévete con {0} o {1}{2}{3}{4}
-#TutorialWalkGamepad:	Walk {0}	Muévete {0}
-#TutorialRoll:	Press {0} to roll.||Try it a few times now.	Pulsa {0} para rodar.||Pruébalo unas cuantas veces.
-#TutorialSaveGame:	You can save the game manually when not in combat. {0}	Puedes guardar de forma manual cuando no estés en combate. {0}
-#TutorialEnergyCost:	Some actions cost energy. When exhausted, you move slower.	Algunas acciones cuestan energía. Cuando estés cansado te moverás más despacio.
-#TutorialDialogueContinue:	Continue {0}	Continuar {0}
-#TutorialItemPickUp:	Pick up the [0]{0}	Recoge [0]{0}
-#TutorialEquipItemMouse:	Click the [0]{0}||or drag it|| into the slot	Haz click en [0]{0}||o arrastra|| a la casilla
-#TutorialEquipItemController:	Equip the [0]{0}	Equipa [0]{0}
-#TutorialHealthPickUpItem:	Pick up [0]{0}	Recoge [0]{0}
-#TutorialHealthUse:	Press {0} to heal yourself||with Nano Health.	Pulsa {0} para curarte||con una salud nano.
+#LootAllController:	{0} All	{0} Guztia
+#LootAllMouse:	{0} All	{0} Guztia
+#TutorialWalkMouse:	Walk {0} or {1}{2}{3}{4}	Mugitzeko {0} edo {1}{2}{3}{4}
+#TutorialWalkGamepad:	Walk {0}	Mugitu {0}
+#TutorialRoll:	Press {0} to roll.||Try it a few times now.	Sakatu {0} kroketa egiteko.||Probatu hainbat aldiz.
+#TutorialSaveGame:	You can save the game manually when not in combat. {0}	Burrukan ez badauze, partida nahi duzunean gorde zenezake. {0}
+#TutorialEnergyCost:	Some actions cost energy. When exhausted, you move slower.	Ekintza batzuek nekatzen zaituzte. Nekatuta zaudenean astiroago mugituko zara.
+#TutorialDialogueContinue:	Continue {0}	Jarraitu {0}
+#TutorialItemPickUp:	Pick up the [0]{0}	Hartu [0]{0}
+#TutorialEquipItemMouse:	Click the [0]{0}||or drag it|| into the slot	Klikatu [0]{0}||edo eraman|| laukira
+#TutorialEquipItemController:	Equip the [0]{0}	Erabili [0]{0}
+#TutorialHealthPickUpItem:	Pick up [0]{0}	Hartu [0]{0}
+#TutorialHealthUse:	Press {0} to heal yourself||with Nano Health.	Sakatu {0} sendatzeko||nano osasun bat erabiliz.
 #TutorialStealthUse:	Use [0]{0}||by holding {1}||	Usa [0]{0}||manteniendo {1}||
 #HealthInstant:	Health instantly	Salud al instante
 #AllActionsInInventory:	All Actions {0}  Equip / Consume {1}  Close {2} / {3}	Todas las acciones {0}  Equipar / Consumir {1}  Cerrar {2} / {3}
