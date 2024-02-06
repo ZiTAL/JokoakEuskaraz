@@ -1,0 +1,11 @@
+{
+    "name": "Basque Translation",
+    "modId": "zital.BasqueTranslation",
+    "version": "1.0",
+    "creator": "zital",
+    "description": "This mod changes the language of Death Trash to Basque.\n\nMod honek Death Trash Euskaraz jartzen du.",
+    "isReady": true,
+    "modType": 0,
+    "additionalDataPaths": [],
+    "startLevel": ""
+}
