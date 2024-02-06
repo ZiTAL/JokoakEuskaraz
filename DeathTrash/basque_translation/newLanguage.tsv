@@ -100,105 +100,105 @@ Language Id:	Basque
 #UseActionBarTwo:	Action Bar 2	Ekintza Barra 2
 #UseActionBarThree:	Action Bar 3	Ekintza Barra 3
 #UseActionBarFour:	Action Bar 4	Ekintza Barra 4
-#Movement:	Movement	Movimiento
-#SavingNotPossibleHere:	Saving is not possible||right now	Guardar no es posible||en este momento
-#NoFurtherAmmo:	No further ammo	No queda munición
-#Pickpocketing:	Pickpocketing	Hurtar
-#Target:	Target	Objetivo
-#NoCraftingRecipes:	No Crafting knowledge	No sabes fabricar
-#NoQuests:	No Quests	Sin misiones
-#Editor:	Editor	Editor
-#LeaveCurrentGame:	Leave Current Game?	¿Salir de la partida actual?
-#SocialExploration:	Explore	Explorar
-#MindExploration:	Explore Mind	Explorar la mente
-#Options:	Options	Opciones
-#MoveOne:	Move x 1	Mover x 1
-#MoveStack:	Move Stack	Mover montón
-#EnergyCells:	Energy Cells	Células energéticas
-#QuickItemUsageNotNeeded:	Health is already full	La salud está llena
-#AlreadyEnoughItems:	Can't pick up more of that	No puedes recoger más de eso
-#NoRangedWeaponEquipped:	No ranged weapon equipped	Sin arma a distancia equipada
-#Multiplayer:	Multiplayer	Multijugador
-#SwitchingGameModeNotPossibleHere:	Switching Mode not possible right now	Cambiar de modo no es posible ahora
-#Save:	Save	Guardar 
-#LoadSavegame:	Load Game	Cargar Partida
-#LocalMultiplayer:	Local Co-Op	Cooperativo Local
-#Autosave:	Autosave	Autoguardado
-#SelectOtherProfile:	Select Profile	Selecciona perfil
-#DeleteProfile:	Delete Profile {0}	Borrar perfil {0}
-#NewProfile:	New Slot	Nueva casilla
-#Credits:	Credits	Créditos
-#Accept:	Accept	Aceptar
-#NotEnoughMaterials:	Not enough materials	No hay suficientes materiales
-#Sound:	Sound	Sonido
-#Music:	Music / Environment	Música / Ambiente
-#RunInBackground:	Continue running gameplay when unfocused	Ejecutar en segundo plano
-#GamepadVibration:	Controller Vibration	Vibración del mando
-#LockCursor:	Lock mouse cursor	Bloquear cursor del ratón
-#FriendlyFire:	Friendly Fire	Fuego amigo
-#Screenshake:	Screenshake	Movimiento de pantalla
+#Movement:	Movement	Mugimendua
+#SavingNotPossibleHere:	Saving is not possible||right now	Gordetzea ezinezkoa da||une honetan
+#NoFurtherAmmo:	No further ammo	Ez dago muniziorik
+#Pickpocketing:	Pickpocketing	Ostu
+#Target:	Target	Helburua
+#NoCraftingRecipes:	No Crafting knowledge	Ez dakizu fabrikatzen
+#NoQuests:	No Quests	Misiorik gabe
+#Editor:	Editor	Editora
+#LeaveCurrentGame:	Leave Current Game?	Partidatik irten?
+#SocialExploration:	Explore	Esploratu
+#MindExploration:	Explore Mind	Burua esploratu
+#Options:	Options	Aukerak
+#MoveOne:	Move x 1	Mugitu x 1
+#MoveStack:	Move Stack	Apalak mugitu*
+#EnergyCells:	Energy Cells	Zelula energetikoak
+#QuickItemUsageNotNeeded:	Health is already full	Osasuna topera dago
+#AlreadyEnoughItems:	Can't pick up more of that	Ezin duzu hori baino gehiago hartu
+#NoRangedWeaponEquipped:	No ranged weapon equipped	Urrutiko arma ekipaturik gabe
+#Multiplayer:	Multiplayer	Multijokalaria
+#SwitchingGameModeNotPossibleHere:	Switching Mode not possible right now	Orain ez da posible modua aldatzea
+#Save:	Save	Gorde 
+#LoadSavegame:	Load Game	Partida kargatu
+#LocalMultiplayer:	Local Co-Op	Kooperatibo Lokala
+#Autosave:	Autosave	Automatikoki gorde
+#SelectOtherProfile:	Select Profile	Profila hautatu
+#DeleteProfile:	Delete Profile {0}	Profila ezabatu {0}
+#NewProfile:	New Slot	Lauki berria
+#Credits:	Credits	Kredituak
+#Accept:	Accept	Onartu
+#NotEnoughMaterials:	Not enough materials	Ez dago material nahikorik
+#Sound:	Sound	Soinua
+#Music:	Music / Environment	Musika / Giroa
+#RunInBackground:	Continue running gameplay when unfocused	Exekutatu bigarren planoan
+#GamepadVibration:	Controller Vibration	Agintearen bibrazioa
+#LockCursor:	Lock mouse cursor	Blokeatu saguaren kurtsorea
+#FriendlyFire:	Friendly Fire	Lagunei tirokatzea
+#Screenshake:	Screenshake	Pantaila-mugimendua
 #EquipMeleeWeapon:	Melee Weapon	Arma cuerpo a cuerpo
-#EquipRangedWeapon:	Ranged Weapon	Arma a distancia
-#MeleeStrong:	Strong Melee	Golpe fuerte
-#Ability:	Ability	Habilidad
-#Difficulty:	Difficulty	Dificultad
-#HardDifficultyDescription:	Enemies have better stats. Enemies rotate and shoot faster.	Los enemigos tienen mejores estadísticas. Los enemigos se giran y disparan más rápido.
-#Normal:	Standard	Normal
-#SelectProfileSlot:	Select Profile Slot	Selecciona casilla de perfil
-#SelectDifficulty:	Combat Difficulty	Dificultad de combate
-#DifficultyDescription:	You can change the difficulty anytime during the game. You can also avoid combat encounters.	Puedes cambiar la dificultad en cualquier momento durante el juego. Además puedes evitar ciertos combates.
-#HardDifficultyName:	Hard	Dificil
-#NormalDifficulty:	Combat will be challenging.	El combate será más desafiante.
-#EasyDifficultyDescription:	Enemies have worse stats.	Los enemigos tienen peores estadísticas
-#EasyDifficultyName:	Relaxed	Relajado
-#SelectGameMode:	Local Co-Op Mode	Modo cooperativo local
+#EquipRangedWeapon:	Ranged Weapon	Urrutiko arma
+#MeleeStrong:	Strong Melee	Kolpe gogorra
+#Ability:	Ability	Trebetasuna
+#Difficulty:	Difficulty	Zailtasuna
+#HardDifficultyDescription:	Enemies have better stats. Enemies rotate and shoot faster.	Etsaiek estatistika hobeak dituzte. Etsaiak jiratu eta azkarrago egiten dute tiro.
+#Normal:	Standard	Normala
+#SelectProfileSlot:	Select Profile Slot	Hautatu profilaren laukia
+#SelectDifficulty:	Combat Difficulty	Borrokarako zailtasuna
+#DifficultyDescription:	You can change the difficulty anytime during the game. You can also avoid combat encounters.	Edozein unetan alda dezakezu zailtasuna jokoan zehar. Gainera, borroka batzuk saihestu ditzakezu.
+#HardDifficultyName:	Hard	Zaila
+#NormalDifficulty:	Combat will be challenging.	Borroka zailagoa izango da.
+#EasyDifficultyDescription:	Enemies have worse stats.	Etsaiek estatistika txarragoak dituzte.
+#EasyDifficultyName:	Relaxed	Erlaxatuta
+#SelectGameMode:	Local Co-Op Mode	Kooperatibo lokala
 #NotEnough:	Not enough	No hay suficiente
 #Undo:	Undo	Deshacer
-#PhysicalBlunt:	Blunt	Contundente
-#PhysicalSharp:	Sharp	Afilado
-#PhysicalProjectiles:	Projectiles	Proyectiles
-#Buy:	Buy	Comprar
-#Sell:	Sell	Vender
-#IncreaseCritChance:	Crit Chance	Prob. crítico
-#IncreaseCritDamage:	Crit Damage	Daño crítico
-#NotAvailableHere:	This action is not available here.	Está acción no está disponible aquí.
-#NotAvailableYet:	This action is not available yet.	Está acción todavía no está disponible.
-#BrowseEmptyAgain:	Search (Empty)	Buscar (Vacío)
-#RangedDescription:	Proficiency with ranged weapons like rifles and energy guns. Increased damage.	Eficacia con las armas a distancia como rifles y armas de energía. Aumenta el daño.
-#MeleeSharpDescription:	Proficiency with melee weapons like blades. Increased damage.	Eficacia con las armas cuerpo a cuerpo como las espadas. Aumenta el daño.
-#SpeedDescription:	Increased movement speed.	Aumenta la velocidad de movimiento.
-#AnimalismDescription:	A good understanding of animals.	Una buena comprensión de los animales.
-#ArtistryDescription:	Creativity and a feel for special opportunities. Unlocks dialogue options.	Creatividad y aprovechamiento de buenas oportunidades. Desbloquea opciones de diálogo.
-#SmallGunsDescription:	Proficiency with small guns like pistols and SMGs. Increased damage.	Eficacia con armas pequeñas como pistolas y SMGs. Aumenta el daño.
-#LockpickingDescription:	Unlocking doors and containers. Increased chance of success.	Desbloquear puertas y contenedores. Aumenta la probabilidad de éxito.
-#PickpocketingDescription:	Stealing from other characters. Increased chance of success.	Robar a otros personajes. Aumenta la probabilidad de éxito.
-#BarteringDescription:	Interacting with merchants. Better prices.	Interactuar con mercaderes. Obtienes mejores precios.
-#ToggleCombatMode:	Combat Mode	Modo de combate
-#GraphicViolence:	Exploding Bodies	Cadáveres explosivos
-#Master:	Master	Maestro
-#InvalidName:	Invalid Name	Nombre inválido
-#FriendlyFireNone:	None	Ninguno
-#FriendlyFireOnlyExplosives:	Explosives	Explosivos
-#FriendlyFireFull:	Full	Total
-#Color:	Color	Color
-#AccentColor:	Accent Color	Detalle de color
-#PhysicalBluntDescription:	Resistance against blunt objects like Clubs.	Resistencia contra armas contundentes como los garrotes.
-#PhysicalSharpDescription:	Resistance against sharp objects like axes and blades.	Resistencia contra armas afiladas como hachas y espadas.
-#PhysicalProjectilesDescription:	Resistance against most of the ranged weapons.	Resistencia contra la mayoría de armas a distancia.
-#FireDescription:	Resistance against any kind of fire based damage.	Resistencia contra cualquier tipo de daño de fuego.
-#EnergyDescription:	Resistance against any kind of energy based damage.	Resistencia contra cualquier tipo de daño por energía.
-#TechDescription:	Resistance against any kind of tech based damage, including cyber attacks.	Resistencia contra cualquier tipo de daño tecnológico, incluido ciberataques.
-#TitleScreen:	Title Screen	Pantalla de título
-#NoReloadNeeded:	No reload needed	No necesita recargar
-#Health:	Health	Salud
+#PhysicalBlunt:	Blunt	Sendoa
+#PhysicalSharp:	Sharp	Zorrotza
+#PhysicalProjectiles:	Projectiles	Jaurtigaiak
+#Buy:	Buy	Erosi
+#Sell:	Sell	Saldu
+#IncreaseCritChance:	Crit Chance	Frog. kritikoa
+#IncreaseCritDamage:	Crit Damage	Kalte kritikoa
+#NotAvailableHere:	This action is not available here.	Ekintza hau ez dago eskuragarri hemen.
+#NotAvailableYet:	This action is not available yet.	Ekintza hau oraindik ez dago eskuragarri.
+#BrowseEmptyAgain:	Search (Empty)	Bilatu (Hutsik)
+#RangedDescription:	Proficiency with ranged weapons like rifles and energy guns. Increased damage.	Urrutiko armekin eraginkortasuna izatea, hala nola errifleekin eta energia-armekin. Kaltea areagotzen du.
+#MeleeSharpDescription:	Proficiency with melee weapons like blades. Increased damage.	Armekin duten eraginkortasuna, ezpatekin gertatzen den bezala. Kaltea areagotzen du.
+#SpeedDescription:	Increased movement speed.	Mugimendu-abiadura handitzen du.
+#AnimalismDescription:	A good understanding of animals.	Animalien ulermen ona.
+#ArtistryDescription:	Creativity and a feel for special opportunities. Unlocks dialogue options.	Sormena eta aukera onak aprobetxatzea. Elkarrizketa-aukerak desblokeatzen ditu.
+#SmallGunsDescription:	Proficiency with small guns like pistols and SMGs. Increased damage.	Eraginkortasuna arma txikiekin, hala nola pistolekin eta SMGekin. Kaltea areagotzen du.
+#LockpickingDescription:	Unlocking doors and containers. Increased chance of success.	Ateak eta edukiontziak desblokeatzea. Arrakasta izateko probabilitatea handitzen du.
+#PickpocketingDescription:	Stealing from other characters. Increased chance of success.	Beste pertsonaia batzuei lapurtzea. Arrakasta izateko probabilitatea handitzen du.
+#BarteringDescription:	Interacting with merchants. Better prices.	Merkatariekin elkarreragin. Prezio hobeak lortzen dituzu.
+#ToggleCombatMode:	Combat Mode	Borroka modua
+#GraphicViolence:	Exploding Bodies	Gorpu leherkorrak
+#Master:	Master	Maisua
+#InvalidName:	Invalid Name	Izen baliogabea
+#FriendlyFireNone:	None	Bat ere ez
+#FriendlyFireOnlyExplosives:	Explosives	Lehergailuak
+#FriendlyFireFull:	Full	Guztira
+#Color:	Color	Kolorea
+#AccentColor:	Accent Color	Kolorearen xehetasuna
+#PhysicalBluntDescription:	Resistance against blunt objects like Clubs.	Arma sendoen aurkako erresistentzia, adibidez, garroteak.
+#PhysicalSharpDescription:	Resistance against sharp objects like axes and blades.	Aizkora eta ezpata gisako arma zorrotzen aurkako erresistentzia.
+#PhysicalProjectilesDescription:	Resistance against most of the ranged weapons.	Urrutiko arma gehienen aurkako erresistentzia.
+#FireDescription:	Resistance against any kind of fire based damage.	Edozein motatako su-kalteen aurkako erresistentzia.
+#EnergyDescription:	Resistance against any kind of energy based damage.	Energiaren ondoriozko edozein kalteren aurkako erresistentzia.
+#TechDescription:	Resistance against any kind of tech based damage, including cyber attacks.	Edozein kalte teknologikoren aurkako erresistentzia, zibererasoak barne.
+#TitleScreen:	Title Screen	Hasiera pantalla
+#NoReloadNeeded:	No reload needed	Ez dago kargatzeko beharrik
+#Health:	Health	Osasuna
 #ReloadPrompt:	{0}	{0}
-#NoRangedWeapon:	No ranged weapon	Sin arma a distancia
-#QuestCantBeStartedAgain:	Quest can't be started again	La misión no puede empezar de nuevo
-#Collect:	Collect	Recoger
-#CharacterName:	Character Name	Nombre del personaje
-#UISize:	UI Scale	Tamaño de interfaz
-#UISmall:	Small	Pequeña
-#UIBig:	Large	Grande
+#NoRangedWeapon:	No ranged weapon	Urrutiko armarik gabe
+#QuestCantBeStartedAgain:	Quest can't be started again	Misioa ezin da berriro hasi
+#Collect:	Collect	Bildu
+#CharacterName:	Character Name	Pertsonaiaren izena
+#UISize:	UI Scale	Interfazearen tamaina
+#UISmall:	Small	Txikia
+#UIBig:	Large	Handia
 #UICustom:	Custom	Personalizada
 #ItemRequirementsMissing:	Item requirements missing	Faltan objetos necesarios
 #SwitchHandheldZoomedOut:	Handheld: Zoomed Out	Alternar: Zoom
