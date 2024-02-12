@@ -299,105 +299,105 @@ Language Id:	Basque
 #TutorialEquipItemController:	Equip the [0]{0}	Erabili [0]{0}
 #TutorialHealthPickUpItem:	Pick up [0]{0}	Hartu [0]{0}
 #TutorialHealthUse:	Press {0} to heal yourself||with Nano Health.	Sakatu {0} sendatzeko||nano osasun bat erabiliz.
-#TutorialStealthUse:	Use [0]{0}||by holding {1}||	Usa [0]{0}||manteniendo {1}||
-#HealthInstant:	Health instantly	Salud al instante
-#AllActionsInInventory:	All Actions {0}  Equip / Consume {1}  Close {2} / {3}	Todas las acciones {0}  Equipar / Consumir {1}  Cerrar {2} / {3}
-#CloseContentWindow:	Close {0} / {1}	Cerrar {0} / {1}
-#ClickToStart:	Click to start	Haz click para comenzar
-#PressToStart:	Press  {0}  to start	Pulsa {0} para comenzar
-#Ammo:	Ammo	Munición 
-#Unarmed:	Unarmed	Desarmado
-#NeedsAmmo:	Ammo	Munición
-#ItemSlotLabelRanged:	Ranged	A distancia
-#Weapons:	Weapons	Armas
-#DoQuickSave:	Quicksave	Guardado rápido
-#LocationFesteringGorge:	Festering Gorge	Garganta Séptica
-#LocationBunker17A:	Bunker 17	Búnker 17
-#LocationRedForest:	Red Forest	Bosque Rojo
-#LocationQueensPalace:	Queen's Palace	Palacio de la reina
-#LocationCrossroads:	Crossroads	Cruce
-#LocationMine19:	Mine 19	Mina 19
-#LocationRuinsOfOrlon:	Ruins Of Orlon	Ruinas de Orion
-#LocationButchersDen:	Butcher's Den	Guarida del Carnicero
-#LocationPukeBar:	Puke Bar	Bar Vómito
-#LocationTutorialHub:	Kraken Temple	Templo Kraken
-#LocationMine19Outside:	Outside	Exterior
-#LocationBunker17Outside:	Outside	Exterior
-#LocationBunker17Inside:	Inside	Interior
-#LocationTutorialHubFacility:	Surface Integration Course	Curso de integración de superficies
-#LocationTutorialHubCaves:	Caves	Cuevas
-#LocationTutorialHubTemple:	Outside	Exterior
-#Recipe:	Recipe	Receta
-#LocationOutside:	Outside	Exterior
+#TutorialStealthUse:	Use [0]{0}||by holding {1}||	Erabili [0]{0}||{1} mantenduz||
+#HealthInstant:	Health instantly	Momentuan osatu
+#AllActionsInInventory:	All Actions {0}  Equip / Consume {1}  Close {2} / {3}	Akzio denak {0}  Ekipatu / Kontsumitu {1}  Itxi {2} / {3}
+#CloseContentWindow:	Close {0} / {1}	Itxi {0} / {1}
+#ClickToStart:	Click to start	Egin klik hasteko
+#PressToStart:	Press  {0}  to start	Hasteko sakatu {0}
+#Ammo:	Ammo	Munizioa
+#Unarmed:	Unarmed	Armarik gabe
+#NeedsAmmo:	Ammo	Munizioa
+#ItemSlotLabelRanged:	Ranged	Urrutitik
+#Weapons:	Weapons	Armak
+#DoQuickSave:	Quicksave	Azkar gorde
+#LocationFesteringGorge:	Festering Gorge	Eztarri septikoa
+#LocationBunker17A:	Bunker 17	17 Bunker
+#LocationRedForest:	Red Forest	Baso gorria
+#LocationQueensPalace:	Queen's Palace	Erreginaren jauregia
+#LocationCrossroads:	Crossroads	Bidegurutzeak
+#LocationMine19:	Mine 19	19 Mina
+#LocationRuinsOfOrlon:	Ruins Of Orlon	Oriongo aurriak
+#LocationButchersDen:	Butcher's Den	Harakinaren gordelekua
+#LocationPukeBar:	Puke Bar	Oka taberna
+#LocationTutorialHub:	Kraken Temple	Kraken tenplua
+#LocationMine19Outside:	Outside	Kanpoaldea
+#LocationBunker17Outside:	Outside	Kanpoaldea
+#LocationBunker17Inside:	Inside	Barrualdea
+#LocationTutorialHubFacility:	Surface Integration Course	Azalerak integratzeko ikastaroa
+#LocationTutorialHubCaves:	Caves	Kobazuloak
+#LocationTutorialHubTemple:	Outside	Kanpoaldea
+#Recipe:	Recipe	Errezeta
+#LocationOutside:	Outside	Kanpoaldea
 #LocationDungeon:	Dungeon	Mazmorra
-#Barkeeper:	Barkeeper	Tabernero
-#YouveReached:	You've reached	Has alcanzado
-#Screen:	Screen	Pantalla
-#AskDeleteProfile:	Delete Profile?	¿Borrar perfil?
-#Singleplayer:	Singleplayer	Un jugador
-#ControllerPlusController:	Controller  |  Controller	Mando  |  Mando
-#MousePlusController:	Mouse  |  Controller	Ratón  |  Mando
-#ControllerPlusMouse:	Controller  |  Mouse	Mando  |  Ratón
-#SwitchSides:	Switch sides	Cambiar
-#SwitchCharacters:	Switch characters	Cambiar personajes
+#Barkeeper:	Barkeeper	Tabernaria
+#YouveReached:	You've reached	Lortu duzu
+#Screen:	Screen	Pantaila
+#AskDeleteProfile:	Delete Profile?	Profila ezabatu?
+#Singleplayer:	Singleplayer	Jokalari bat
+#ControllerPlusController:	Controller  |  Controller	Agintea  |  Agintea
+#MousePlusController:	Mouse  |  Controller	Sagua  |  Agintea
+#ControllerPlusMouse:	Controller  |  Mouse	Agintea  |  Sagua
+#SwitchSides:	Switch sides	Aldatu
+#SwitchCharacters:	Switch characters	Pertsonaiak aldatu
 #LocationVillageHub:	Tauris	Tauris
-#LocationsVisited:	Locations visited	Lugares visitados
-#WorldMapEnterAgain:	Enter	Entrar
+#LocationsVisited:	Locations visited	Bisitatutako lekuak
+#WorldMapEnterAgain:	Enter	Sartu
 #Campaign:	Death Trash	Death Trash
-#CanBeSoldAtMerchants:	Can be sold at merchants	Se puede vender a mercaderes
-#CombatModeNotAvailableYet:	Combat mode is not available yet	Modo de combate no disponible
-#YouHaveReachedEndOfDemo:	End Of Demo	Fin de la demo
-#YouHaveReachedEndOfGame:	You have reached the current end of the Early Access version.	Has alcanzado el límite de la versión de acceso anticipado.
-#ReturnToMainMenuQuestion:	Return to Main Menu?	¿Volver al menú principal?
-#ReturnToTitleScreenQuestion:	Return to Title Screen?	¿Volver a la pantalla de título?
-#ContinuePlayingFullGame:	Continue Campaign	Continuar campaña
-#QuestItem:	Quest Item	Objeto de misión
-#TutorialNavigateToInventoryWithController:	Open Inventory {0}	Abrir inventario {0}
-#TutorialNavigateToInventoryWithMouse:	Open Inventory with {0}||or click on the portrait	Abre el inventario con {0}||o haz click en el retrato
-#Vignette:	Vignette	Viñeta
-#ApplyChangesQuestion:	Apply Changes?	¿Aplicar cambios?
-#Apply:	Apply	Aplicar
-#Discard:	Discard	Descartar
-#Screenshot:	Screenshot	Captura de pantalla
+#CanBeSoldAtMerchants:	Can be sold at merchants	Merkatariei saltzeko aproposa
+#CombatModeNotAvailableYet:	Combat mode is not available yet	Borroka-modua ez dago erabilgarri
+#YouHaveReachedEndOfDemo:	End Of Demo	Demoaren amaiera
+#YouHaveReachedEndOfGame:	You have reached the current end of the Early Access version.	Sarbide aurreratuko bertsioaren mugara iritsi zara.
+#ReturnToMainMenuQuestion:	Return to Main Menu?	Menu nagusira itzuli?
+#ReturnToTitleScreenQuestion:	Return to Title Screen?	Izenburuaren pantailara itzuli?
+#ContinuePlayingFullGame:	Continue Campaign	Kanpaina jarraitu
+#QuestItem:	Quest Item	Misioaren xedea
+#TutorialNavigateToInventoryWithController:	Open Inventory {0}	Inbentarioa ireki {0}
+#TutorialNavigateToInventoryWithMouse:	Open Inventory with {0}||or click on the portrait	Ireki inbentarioa {0}||edo egin klik erretratuan
+#Vignette:	Vignette	Bineta
+#ApplyChangesQuestion:	Apply Changes?	Aldaketak aplikatu?
+#Apply:	Apply	Aplikatu
+#Discard:	Discard	Baztertu
+#Screenshot:	Screenshot	Pantaila kapturatu
 #Memory:	Memory	Memoria
-#Symbiont:	Symbiont	Simbionte
-#BodyArmor:	Body Armor	Armadura corporal
-#InventoryItems:	Items	Objetos
-#InventoryMemory:	Mind	Mente
-#InventoryQuestItems:	Quest Items	Objetos de misión
-#InventoryResources:	Resources	Recursos
-#LearnedAbility:	Learned Ability	Habilidad aprendida
-#QuestsFinishedWindow:	Finished	Terminado
-#QuestsCurrentWindow:	Quests	Misiones
-#QuestGetItem:	Get	Obtener
-#QuestReturnTo:	Location	Ubicación
-#QuestTravelToArea:	Location	Ubicación
-#ButtonPromptEnterCombatMode:	{0} Draw weapon	{0} Desenfundar arma
-#ButtonPromptLeaveCombatMode:	{0} Holster weapon	{0} Enfundar arma
-#NoItemsToBreakApart:	No items to deconstruct	No hay objetos para desmantelar
-#Equipped:	Equipped	Equipado
-#BreakEquippedItemApartQuestion:	Deconstruct equipped item?	¿Desmantelar el objeto equipado?
-#BreakItemApartConfirmation:	Deconstruct	Desmantelar
-#Create:	Create	Fabricar
-#MeleeSpeedVerySlow:	Very slow	Muy lento
-#MeleeSpeedSlow:	Slow	Lento
-#MeleeSpeedNormal:	Normal	Normal
-#MeleeSpeedFast:	Fast	Rápido
-#MeleeSpeedVeryFast:	Very fast	Muy rápido
-#HealthOverTime:	Health	Salud
-#IncreaseMaxHealth:	Max Health	Salud máxima
-#ItemCantBeDropped:	This item can't be dropped	Este objeto no se puede soltar
-#Consumables:	Consumables	Consumibles
-#OwnsTooManyAlready:	Max Item count reached	Máximo de objetos alcanzado
-#AllActionsAtMerchant:	All Actions {0}  Buy / Sell {1}  Toggle  {3}  Close {2}	Todas las acciones {0}  Comprar / Vender {1}  Alternar  {3}  Cerrar {2}
-#TutorialNavigateToMainInventoryTabController:	Open Inventory {0}{1}	Abrir inventario {0}{1}
-#Equipment:	Equipment	Equipo
-#NoEmptySpace:	No empty space	No hay espacio
-#HelpTextReadableItem:	Close {0} / {1}	Cerrar {0} / {1}
+#Symbiont:	Symbiont	Simbiontea
+#BodyArmor:	Body Armor	Gorputz-armadura
+#InventoryItems:	Items	Objektuak
+#InventoryMemory:	Mind	Adimena
+#InventoryQuestItems:	Quest Items	Misio-objektuak
+#InventoryResources:	Resources	Baliabideak
+#LearnedAbility:	Learned Ability	Ikasitako trebetasuna
+#QuestsFinishedWindow:	Finished	Amaituta
+#QuestsCurrentWindow:	Quests	Misioak
+#QuestGetItem:	Get	Lortu
+#QuestReturnTo:	Location	Kokapena
+#QuestTravelToArea:	Location	Kokapena
+#ButtonPromptEnterCombatMode:	{0} Draw weapon	{0} Arma zorrotik atera
+#ButtonPromptLeaveCombatMode:	{0} Holster weapon	{0} Arma enfundatu
+#NoItemsToBreakApart:	No items to deconstruct	Ez dago desegiteko objekturik
+#Equipped:	Equipped	Ekipatua
+#BreakEquippedItemApartQuestion:	Deconstruct equipped item?	Ekipatutako objektua desegin?
+#BreakItemApartConfirmation:	Deconstruct	Desegin
+#Create:	Create	Fabrikatu
+#MeleeSpeedVerySlow:	Very slow	Oso motela
+#MeleeSpeedSlow:	Slow	Motela
+#MeleeSpeedNormal:	Normal	Normala
+#MeleeSpeedFast:	Fast	Azkar
+#MeleeSpeedVeryFast:	Very fast	Oso azkar
+#HealthOverTime:	Health	Osasuna
+#IncreaseMaxHealth:	Max Health	Osasun maximoa
+#ItemCantBeDropped:	This item can't be dropped	Objektu hori ezin da bota
+#Consumables:	Consumables	Kontsumigarriak
+#OwnsTooManyAlready:	Max Item count reached	Lortutako objektuen maximoa
+#AllActionsAtMerchant:	All Actions {0}  Buy / Sell {1}  Toggle  {3}  Close {2}	Akzio guztiak {0}  Erosi / Saldu {1}  Txandakatu  {3}  Itxi {2}
+#TutorialNavigateToMainInventoryTabController:	Open Inventory {0}{1}	Ireki inbentarioa {0}{1}
+#Equipment:	Equipment	Taldea
+#NoEmptySpace:	No empty space	Ez dago lekurik
+#HelpTextReadableItem:	Close {0} / {1}	Itxi {0} / {1}
 #CancelActionTextMouse:		
-#CancelActionTextGamepad:	Cancel {0} / {1}	Cancelar {0} / {1}
-#CraftingResourceItem:	Crafting Resource	Recurso de fabricación
-#ItemPickUpAnimal:	Animal	Animal
+#CancelActionTextGamepad:	Cancel {0} / {1}	Ezeztatu {0} / {1}
+#CraftingResourceItem:	Crafting Resource	Fabrikazio-baliabidea
+#ItemPickUpAnimal:	Animal	Animalia
 #ItemSlotLabelBackImplant:	Back	Espalda
 #ItemSlotLabelOrganImplant:	Implant	Implante
 #NoReloadingBecauseNoRangedWeaponEquipped:	Can't reload:||No ranged weapon equipped	No puedes recargar:||No hay arma a distancia equipada
