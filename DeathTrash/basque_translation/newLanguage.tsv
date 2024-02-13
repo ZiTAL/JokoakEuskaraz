@@ -398,106 +398,106 @@ Language Id:	Basque
 #CancelActionTextGamepad:	Cancel {0} / {1}	Ezeztatu {0} / {1}
 #CraftingResourceItem:	Crafting Resource	Fabrikazio-baliabidea
 #ItemPickUpAnimal:	Animal	Animalia
-#ItemSlotLabelBackImplant:	Back	Espalda
-#ItemSlotLabelOrganImplant:	Implant	Implante
-#NoReloadingBecauseNoRangedWeaponEquipped:	Can't reload:||No ranged weapon equipped	No puedes recargar:||No hay arma a distancia equipada
-#CharacterCreationAssignPoints:	Increase {0} Decrease {1}	Aumentar {0} Disminuir {1}
-#Permadeath:	Permadeath	Muerte permanente
-#Enabled:	On	Activado
-#Disabled:	Off	Desactivado
-#ClassSelectionHint:	Assign now or later!	¡Asigna ahora o más tarde!
-#CannotWhileInCombat:	Cannot use this||while enemies are nearby	No puedes usar esto||con enemigos cerga
-#DiscoveredItems:	Discovered items	Objetos descubiertos
-#CharacterHelpingOtherCharacterAction:	Help	Ayudar
-#LocationMountainPass:	Mountain Pass	Paso de montaña
-#WorldMapRandomEncounter:	Anomaly	Anomalía
-#Unexplored:	Unexplored	Sin explorar
-#Reputation:	Reputation	Reputación
-#Enclaves:	Human Enclaves	Enclaves humanos
-#FleshTitans:	Flesh Titans	Titanes de carne
-#MachineGod:	Machine God	Dios máquina
-#MachineGodDescription:	It is alone. It is many. It watches everyone.	Está solo. Es muchos. Vigila a todos
-#FleshTitansDescription:	Cosmic beings of different, eccentric personalities.	Seres cósmicos con diferentes y excéntricas personalidades.
-#EnclavesDescription:	The last bits of civilization on Nexus. Human settlements, barred off from the wasteland.	Los últimos restos de la civilización de Nexus. Asentamientos humanos arrasados del yermo.
-#WorldMapRandomEncounterAnomaly:	Anomaly	Anomalía
-#WorldMapRandomEncounterNotice:	Encounter	Encuentro
-#DialogueHiddenText:	Requirement not met	Requisitos no cumplidos
-#DialogueZoomAlwaysZoom:	Always	Siempre
-#TutorialMiniMap:	Use {0} to get a rough map of the area, including exits.	Usa {0} para obtener un mapa de la zona, incluyendo las salidas.
-#ContainerStealing:	Stealing	Robando
-#MouseInputInCombat:	Mouse Input in Combat	Comando de ratón en combate
-#Resolution:	Resolution	Resolución
-#Display:	Display	Monitor
-#ScreenMode:	Screen mode	Modo de pantalla
-#ExclusiveFullScreen:	Fullscreen Classic	Pantalla completa
-#FullScreenWindow:	Fullscreen Window	Modo ventana sin bordes
-#Windowed:	Windowed	Modo ventana 
-#ResetAllToDefault:	Reset all to default	Restablecer predeterminado
-#DeleteOrResetEntry:	Delete entry {0}||Reset entry {1}	Borrar entrada {0}||Reiniciar entrada {1}
-#UseActionBarFive:	Action Bar 5	Barra de acción 5
-#UseActionBarSix:	Action Bar 6	Barra de acción 6
-#UseActionBarSeven:	Action Bar 7	Barra de acción 7
-#UseActionBarEight:	Action Bar 8	Barra de acción 8
-#ToggleMeleeAndRanged:	Switch Melee and Ranged	Alternar cuerpo a cuerpo y distancia
-#AttackModeContext:	Manual Melee Attack Mode	Modo de ataque cuerpo a cuerpo manual
-#Bindings:	Bindings	Vinculado
-#HighlightAllObjectsMode:	Highlight all objects	Mostrar todos los objetos
-#Text:	Text	Texto
-#MerchantBuyBack:	Undo	Deshacer
-#CannotBeSold:	Cannot be sold	No se puede vender
-#Emotion:	Emotion	Emoción
-#Sensation:	Sensation	Sensación
-#MeleeBluntDescription:	Proficiency with melee weapons like clubs. Increased damage.	Eficacia con armas cuerpo a cuerpo como garrotes. Aumenta el daño.
-#NoMiniMapForThisLevel:	No map available for this area	No hay mapa disponible de esta zona
-#WorldMapRandomEncounterPatrol:	Encounter	Encuentro
-#EarlyAccessDisclaimer:	This is an unfinished version of the game. You might encounter broken or missing parts.||||Save games won't work with the final release version.||||<color=#FFA68B> Press any key or button to start </color>	Esta es una versión incompleta del juego. Es bastante probable que falten cosas o haya fallos.||||Las partidas no funcionarán con la versión completa del juego.||||<color=#FFA68B> Pulsa cualquier tecla para empezar </color>
-#ElapsedTime:	Gameplay time	Tiempo de juego
-#Continued:	continued	continuado
-#WillHealPointsOfHealthOverTime:	Will heal {0} health over time.	Curará {0} con el tiempo.
-#HasUsedCheats:	Used cheats	Ha usado trampas
-#AskActivateCheats:	Execute and activate cheats?	¿Ejecutar y activar trampas?
-#AskActivateCheatsDescription:	Activating cheats will mark the current savegame.	Activar trampas marcará la partida actual.
-#Activate:	Activate	Activar
-#CannotUseWhileCombatModeIsDisabled:	Cannot use while combat mode is disabled	No se puede usar cuando el modo de combate está desactivado
-#Saving:	SAVING	GUARDANDO
+#ItemSlotLabelBackImplant:	Back	Bizkarra
+#ItemSlotLabelOrganImplant:	Implant	Inplantea
+#NoReloadingBecauseNoRangedWeaponEquipped:	Can't reload:||No ranged weapon equipped	Ezin duzu kargatu::||Ez dago urrutirako armarik ekipatuta
+#CharacterCreationAssignPoints:	Increase {0} Decrease {1}	Handitu {0} Txikitu {1}
+#Permadeath:	Permadeath	Betirako hilda
+#Enabled:	On	Aktibatuta
+#Disabled:	Off	Desaktibatuta
+#ClassSelectionHint:	Assign now or later!	Esleitu orain edo geroago!
+#CannotWhileInCombat:	Cannot use this||while enemies are nearby	Ezin duzu hau erabili||etsaiak hurbil daudela
+#DiscoveredItems:	Discovered items	Aurkitutako objektuak
+#CharacterHelpingOtherCharacterAction:	Help	Lagundu
+#LocationMountainPass:	Mountain Pass	Mendiko pasabidea
+#WorldMapRandomEncounter:	Anomaly	Anomalia
+#Unexplored:	Unexplored	Esploratu gabe
+#Reputation:	Reputation	Ospea
+#Enclaves:	Human Enclaves	Giza enklabeak
+#FleshTitans:	Flesh Titans	Haragi-titanak
+#MachineGod:	Machine God	Jainko makina
+#MachineGodDescription:	It is alone. It is many. It watches everyone.	Bakarrik dago. Asko da. Denak zelatatzen ditu.
+#FleshTitansDescription:	Cosmic beings of different, eccentric personalities.	Pertsona ospetsu desberdinak eta xelebreak dituzten izaki kosmikoak.
+#EnclavesDescription:	The last bits of civilization on Nexus. Human settlements, barred off from the wasteland.	Nexusen zibilizazioaren azken aztarnak. Belazearen giza kokaleku suntsituak.
+#WorldMapRandomEncounterAnomaly:	Anomaly	Anomalia
+#WorldMapRandomEncounterNotice:	Encounter	Topaketa
+#DialogueHiddenText:	Requirement not met	Bete gabeko baldintzak
+#DialogueZoomAlwaysZoom:	Always	Beti
+#TutorialMiniMap:	Use {0} to get a rough map of the area, including exits.	Erabili {0} gunearen mapa bat lortzeko, irteerak barne.
+#ContainerStealing:	Stealing	Lapurtzen
+#MouseInputInCombat:	Mouse Input in Combat	Sagua Input-a borrokan
+#Resolution:	Resolution	Pantaila-bereizmena
+#Display:	Display	Monitorea
+#ScreenMode:	Screen mode	Pantaila-modua
+#ExclusiveFullScreen:	Fullscreen Classic	Pantaila osoa
+#FullScreenWindow:	Fullscreen Window	Ertzik gabeko leiho modua
+#Windowed:	Windowed	Leiho modua
+#ResetAllToDefault:	Reset all to default	Defektuzko baloreak
+#DeleteOrResetEntry:	Delete entry {0}||Reset entry {1}	Sarrera ezabatu {0}||Sarrera berrabiarazi {1}
+#UseActionBarFive:	Action Bar 5	5. ekintza-barra
+#UseActionBarSix:	Action Bar 6	6. ekintza-barra
+#UseActionBarSeven:	Action Bar 7	7. ekintza-barra
+#UseActionBarEight:	Action Bar 8	8. ekintza-barra
+#ToggleMeleeAndRanged:	Switch Melee and Ranged	Txandakatu gorputza eta distantzia
+#AttackModeContext:	Manual Melee Attack Mode	Buruz buru erasotzeko modua
+#Bindings:	Bindings	Lotuta
+#HighlightAllObjectsMode:	Highlight all objects	Erakutsi objektu guztiak
+#Text:	Text	Testua
+#MerchantBuyBack:	Undo	Desegin
+#CannotBeSold:	Cannot be sold	Ezin da saldu
+#Emotion:	Emotion	Emozioa
+#Sensation:	Sensation	Sentsazioa
+#MeleeBluntDescription:	Proficiency with melee weapons like clubs. Increased damage.	Buruz buruko armen kaltea areagotzen du, hala nola garroteekin.
+#NoMiniMapForThisLevel:	No map available for this area	Ez dago gune honen mapa eskuragarririk
+#WorldMapRandomEncounterPatrol:	Encounter	Topaketa
+#EarlyAccessDisclaimer:	This is an unfinished version of the game. You might encounter broken or missing parts.||||Save games won't work with the final release version.||||<color=#FFA68B> Press any key or button to start </color>	Jokoaren bertsio hau ez dago osorik. Litekeena da gauzak faltatzea edo akatsak izatea.||||Gordetako partidak ez dira bateragarriak jokoaren bertsio osoarekin.||||<color=#FFA68B> Sakatu edozein tekla hasteko </color>
+#ElapsedTime:	Gameplay time	Jolastutako denbora
+#Continued:	continued	jarraituta
+#WillHealPointsOfHealthOverTime:	Will heal {0} health over time.	Denbora pasatuta {0} osatuko da.
+#HasUsedCheats:	Used cheats	Tranpak erabili ditu
+#AskActivateCheats:	Execute and activate cheats?	Tranpak aktibatu?
+#AskActivateCheatsDescription:	Activating cheats will mark the current savegame.	Tranpak aktibatzeak oraingo partida aldatuko du.
+#Activate:	Activate	Aktibatu
+#CannotUseWhileCombatModeIsDisabled:	Cannot use while combat mode is disabled	Ezin da erabili borroka modua desaktibatuta dagoenean
+#Saving:	SAVING	GORDETZEN
 #CharacterNameUnknown:	???	???
-#CharacterNameUnimportant:	Stranger	Extraño
-#Resources:	Resources	Recursos
-#Items:	Items	Objetos
-#ControllerPromptsPlayerOne:	Controller Glyphs	Controles de mando 1
-#ControllerPromptsPlayerTwo:	Controller Glyphs Pl. 2	Controles de mando 2
-#DialogueZoomNeverZoom:	Never	Nunca
-#DialogueZoom:	Zoom while in dialogue	Hacer zoom en diálogo
-#Animalism:	Animalism	Animales
-#LanguageOverride:	Hotkey Language Override	Tecla rápida para anular idioma
-#EquipmentEquipped:	Equipped	Equipado
-#EquipmentSame:	Same	Mismo
-#VSync:	VSync (Default)	Vsync (Por defecto)
-#WorldMapFoundItems:	Found something	Has encontrado algo
-#ItemMissing:	Item missing	Objetos faltantes
-#TutorialStealthUseToggle:	Toggle [0]{0}||with {1}||	Alterna [0]{0}||con {1}||
-#BindingsSecondPlayer:	Bindings||Player 2	Controles||2 Jugador
-#MapLoading:	Gathering knowledge...	Reuniendo conocimiento...
-#WaitingOnOtherPlayer:	Waiting on other player...	Esperando al otro jugador
-#AskActivateCheatsWarnAchievementsDescription:	Activating cheats will mark the current savegame for not getting Achievements.	Activar trampas marcará la partida actual y no podrás obtener logros.
-#GamepadVibrationIfAvailable:	Controller Vibration (if available)	Vibración del mando (si está disponible)
-#UseSteamInput:	Steam Input (will be added later)	Menú de Steam (se añadirá más adelante)
-#Toggle:	Inventory	Inventario
-#ExtraModules:	Mod Scenarios	Escenario de mods
-#AttachBasicInfo:	Attach Basic Hardware and Game Info	Adjuntar hardware básico e información del juego
-#AttachLog:	Attach Log File	Adjuntar archivo de registro
-#AttachPreviousLog:	Attach Log File From Previous Application Start	Adjuntar archivo de registro del inicio anterior
-#FeedbackClear:	Clear	Limpiar
-#FeedbackOk:	Ok	OK
-#FeedbackCancel:	Cancel	Cancelar
-#FeedbackSend:	Send	Enviar
-#FeedbackAttachScreenshot:	Attach Screenshot:||(Low Resolution)	Adjuntar captura:||(Baja resolución)
-#EnterText:	Enter text...	Introduce texto...
-#FeedbackDescription:	Write feedback about the game or report a bug.||You can also contact us here: team@deathtrash.com	Escribe comentarios sobre el juego o informa de algún error.||Puedes contactar con nosotros en: team@deathtrash.com
-#FeedbackHelp:	Shortcuts:||F1: Toggle Form (keeps text, renews screenshot)||Ctrl or Command + Enter: Send Form	Atajos:||F1: Alterna (mantiene el texto, renueva la captura)||Ctrl o Comando + Enter: Enviar formulario
-#FeedbackNameDescription:	Your name / nickname	Tu nombre / nick
-#FeedbackContentDescription:	Feedback / Bug Description	Feedback / Descripción del error
-#FeedbackSentSuccessfully:	Feedback sent successfully	Feedback enviado con éxito
+#CharacterNameUnimportant:	Stranger	Arraroa
+#Resources:	Resources	Baliabideak
+#Items:	Items	Objektuak
+#ControllerPromptsPlayerOne:	Controller Glyphs	Aginte-kontrolak 1
+#ControllerPromptsPlayerTwo:	Controller Glyphs Pl. 2	Aginte-kontrolak 2
+#DialogueZoomNeverZoom:	Never	Inoiz ez
+#DialogueZoom:	Zoom while in dialogue	Elkarriztekan Zoom egin
+#Animalism:	Animalism	Animaliak
+#LanguageOverride:	Hotkey Language Override	Tekla azkarra hizkuntza baliogabetzeko
+#EquipmentEquipped:	Equipped	Ekipatua
+#EquipmentSame:	Same	Berbera
+#VSync:	VSync (Default)	Vsync (Defektuz)
+#WorldMapFoundItems:	Found something	Zerbait aurkitu duzu
+#ItemMissing:	Item missing	Falta diren objektuak
+#TutorialStealthUseToggle:	Toggle [0]{0}||with {1}||	Txandakatu [0]{0}||{1}-rekin||
+#BindingsSecondPlayer:	Bindings||Player 2	Kontrolak||2 Jokalari
+#MapLoading:	Gathering knowledge...	Ezagutza biltzen...
+#WaitingOnOtherPlayer:	Waiting on other player...	Beste jokalariaren zain
+#AskActivateCheatsWarnAchievementsDescription:	Activating cheats will mark the current savegame for not getting Achievements.	Tranpak aktibatzeak egungo partida aldatuko du eta ezingo duzu lorpenik lortu.
+#GamepadVibrationIfAvailable:	Controller Vibration (if available)	Agintearen bibrazioa (eskuragarri badago)
+#UseSteamInput:	Steam Input (will be added later)	Steam menua (aurrerago gehituko da)
+#Toggle:	Inventory	Inbentarioa
+#ExtraModules:	Mod Scenarios	Mod-agertokia
+#AttachBasicInfo:	Attach Basic Hardware and Game Info	Jokoaren oinarrizko hardwarea eta informazioa erantsi
+#AttachLog:	Attach Log File	Erregistro-fitxategia erantsi
+#AttachPreviousLog:	Attach Log File From Previous Application Start	Aurreko hasierako erregistro-fitxategia erantsi
+#FeedbackClear:	Clear	Garbitu
+#FeedbackOk:	Ok	Ados
+#FeedbackCancel:	Cancel	Ezeztatu
+#FeedbackSend:	Send	Bidali
+#FeedbackAttachScreenshot:	Attach Screenshot:||(Low Resolution)	Pantaila-argazkia erantsi:||(bereizmen baxua)
+#EnterText:	Enter text...	Testua sartu...
+#FeedbackDescription:	Write feedback about the game or report a bug.||You can also contact us here: team@deathtrash.com	Jokoari buruzko iruzkinak idatzi edo akatsen baten berri eman.||Gurekin harremanetan jartzeko: team@deathtrash.com
+#FeedbackHelp:	Shortcuts:||F1: Toggle Form (keeps text, renews screenshot)||Ctrl or Command + Enter: Send Form	Lasterbideak:||F1: F1: Txandakatu (testua mantendu, pantaila-argazkia berriztu)||Ctrl edo Komandoa + Enter: Bidali formularioa
+#FeedbackNameDescription:	Your name / nickname	Zure izena / ezizena
+#FeedbackContentDescription:	Feedback / Bug Description	Feedback / Errorearen deskribapena
+#FeedbackSentSuccessfully:	Feedback sent successfully	Feedback-a ondo bidali da.
 #FeedbackSending:	Sending...	Enviando...
 #FeedbackNote:	Press {0} anytime||to report feedback & bugs.	Pulsa {0} en cualquier momento||para enviar comentarios
 #PartyMustStayTogether:	You need to stay together	Tenéis que permanecer unidos
