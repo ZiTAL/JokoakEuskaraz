@@ -798,106 +798,106 @@ Language Id:	Basque
 #SecondaryWindowNavigationLeft:	Secondary Window Navigation Left	Bigarren mailako ezkerreko leihoaren nabigazioa
 #EarlyAccess:	Early Access	Sarbide aurreratua
 #InDevelopment:	In Development	Garatzen
-#Quicksave:	Quicksave	Guardado Rápido
-#AdditionalChallengesExtraText:	These challenges are intended for players that already know the game and want some additional challenges on top. You shouldn't use them on your first playthrough.	Estos desafíos son para los jugadores que ya conocen el juego y quieren sufrir un poco más. No deberías usarlos en tu primera partida.
-#MemorizedFastTravelLocation:	Memorized location	Ubicación memorizada
-#LocationBeach:	Beach	Playa
-#LocationOldTreesCyberwomb:	Old Trees	Árboles viejos
-#ItemSlotLabelBodyArmor:	Body Armor	Armadura corporal
+#Quicksave:	Quicksave	Azkar gorde
+#AdditionalChallengesExtraText:	These challenges are intended for players that already know the game and want some additional challenges on top. You shouldn't use them on your first playthrough.	These challenges are intended for players that already know the game and want some additional challenges on top. You shouldn't use them on your first playthrough.
+#MemorizedFastTravelLocation:	Memorized location	Kokapen memorizatua
+#LocationBeach:	Beach	Hondartza
+#LocationOldTreesCyberwomb:	Old Trees	Zuhaitz zaharrak
+#ItemSlotLabelBodyArmor:	Body Armor	Gorputz-armadura
 #ItemSlotMemoryEquippable:	Memory	Memoria
-#ItemSlotLabelBrainImplant:	Brain	Cerebro
-#CombatModeNotAvailableHere:	Combat mode is not available here	El modo de combate no está disponible aquí
-#LocationLairOfThePhilosopher:	Lair Of The Philosopher	Guarida del filósofo
-#MutePukeSounds:	Mute puking	Silenciar vómito
-#SupportPage:	Support Page	Página de soporte
-#SupportDescription:	Use this if you're stuck with a technical problem.||Before writing, please take a look at the list of known technical issues and some solutions.	Puedes usar esto si te atascas o tienes problemas técnicos.||Antes de escribir, por favor, échale un vistazo a los problemas técnicos conocidos y algunas de las soluciones.
-#Locker:	Locker	Casillero
-#LeaveDialogue:	[Leave]	[Marcharse]
-#MouseInputInCombatKeyboardOnly:	No mouse	Sin ratón
-#MouseInputInCombatKeyboardOnlyDescription:	Movement and targeting only by keyboard	Movimiento y apuntado solo con el teclado
-#CharacterNameAnimal:	Animal	Animal
-#CharacterNameMutant:	Mutant	Mutante
-#AttachSaveGame:	Current Save Game Data & User Settings	Partida actual y ajustes de usuario
-#ErrorNoSaveGamesFoundOnThisProfile:	No save games found on this profile	No hay partidas encontradas para este perfil
-#NotEnoughRoomInCraftingInventory:	Resources inventory is full	Inventario de recursos lleno
-#EscapeControllerTestingScreen:	Close: Hold {0} and press {1}	Cerrar: Mantén {0} y pulsa {1}
-#EnterTextOptional:	Optional	Opcional
-#FeedbackContactDescription:	Your email	Tu email
+#ItemSlotLabelBrainImplant:	Brain	Burmuina
+#CombatModeNotAvailableHere:	Combat mode is not available here	Borroka modu hau ez dago eskuragarri hemen.
+#LocationLairOfThePhilosopher:	Lair Of The Philosopher	Filosofoaren gordelekua
+#MutePukeSounds:	Mute puking	Oka egitea isilarazi
+#SupportPage:	Support Page	Euskarri-orria
+#SupportDescription:	Use this if you're stuck with a technical problem.||Before writing, please take a look at the list of known technical issues and some solutions.	Use this if you're stuck with a technical problem.||Before writing, please take a look at the list of known technical issues and some solutions.
+#Locker:	Locker	Armairua
+#LeaveDialogue:	[Leave]	[Joan]
+#MouseInputInCombatKeyboardOnly:	No mouse	Sagurik gabe
+#MouseInputInCombatKeyboardOnlyDescription:	Movement and targeting only by keyboard	Mugimendua eta apuntatzea teklatuarekin bakarrik egitea
+#CharacterNameAnimal:	Animal	Animalia
+#CharacterNameMutant:	Mutant	Mutantea
+#AttachSaveGame:	Current Save Game Data & User Settings	Oraingo partida eta erabiltzaile-aukerak
+#ErrorNoSaveGamesFoundOnThisProfile:	No save games found on this profile	Profil honek ez dauka partidarik
+#NotEnoughRoomInCraftingInventory:	Resources inventory is full	Baliabideen inbentarioa beteta
+#EscapeControllerTestingScreen:	Close: Hold {0} and press {1}	Itxi: Mantendu {0} eta sakatu {1}
+#EnterTextOptional:	Optional	Aukerakoa
+#FeedbackContactDescription:	Your email	Zure e-maila
 #FeedbackOrBug:	Feedback / Bug	Feedback / bug
-#SupportRequest:	Technical Support	Soporte técnico
-#TechnicalSupportContentDescription:	Problem Description	Descripción del problema
-#ModdingErrorLoadingLanguageFile:	Error loading language file	Error al cargar archivo de idioma
-#DirectMovementDirection:	Direct Movement Angles	Ángulos de Movimiento Directo
-#DirectMovementDirectionDefault:	Default	Por defecto
-#DirectMovementDirectionCorrectAngles:	Straight Angles	Ángulos Rectos
-#Default:	Default	Por defecto
-#FontSelection:	Font	Fuente
-#PlayerStorage:	Storage	Almacenamiento
-#StatisticsKills:	Kills	Muertes
-#GamepadNoneAttached:	No Controller attached	Sin mando conectado
-#GamepadTriggerLeft:	Trigger Left	Gatillo Izq
-#GamepadTriggerRight:	Trigger Right	Gatillo Drch
-#GamepadBumperLeft:	Shoulder Left	Botón Izq
-#GamepadBumperRight:	Shoulder Right	Botón Drch
-#GamepadActionTop:	Action Top	Acción Arriba
-#GamepadActionBottom:	Action Bottom	Acción Abajo
-#GamepadActionLeft:	Action Left	Acción Izq
-#GamepadActionRight:	Action Right	Acción Drch
-#GamepadDPadUp:	DPad Up	DPad Arriba
-#GamepadDPadDown:	DPad Down	DPad Abajo
-#GamepadDPadLeft:	DPad Left	DPad Izq
-#GamepadDPadRight:	DPad Right	DPad Drch
-#GamepadLeftStick:	Left Stick	Stick Izq
-#GamepadLeftStickButton:	Left Stick Button	Botón Stick Izq
-#GamepadRightStick:	Right Stick	Stick Drch
-#GamepadRightStickButton:	Right Stick Button	Botón Stick Drch
-#GamepadMenuButton:	Menu Button	Botón Menú
-#GamepadAlternativeMenuButton:	Alternative Menu Button	Botón Menú Alt.
-#GamepadManagerUnityInput:	Unity Input	Input de Unity
-#CharacterNameAndroid:	Android	Androide
-#ShortTravelMarker:	Location	Localización
-#FocusCharger:	Focus Charger	Concentrador
-#ToOtherArea:	To Other Area	A la otra zona
-#TestController:	Test Controller	Test de mando
-#Test:	Test	Test
-#ErrorCouldNotLoadSaveGame:	Couldn't load savegame	No se puede cargar partida
-#MoveItem:	Move	Mover
-#OwnedItem:	Owned Item	Objeto en propiedad
-#ChallengeWon:	Success	Éxito
+#SupportRequest:	Technical Support	Technical Support
+#TechnicalSupportContentDescription:	Problem Description	Arazoaren deskribapena
+#ModdingErrorLoadingLanguageFile:	Error loading language file	Errorea hizkuntza-fitxategia kargatzean
+#DirectMovementDirection:	Direct Movement Angles	Mgimendu zuzenaren angeluak
+#DirectMovementDirectionDefault:	Default	Defektuz
+#DirectMovementDirectionCorrectAngles:	Straight Angles	Angelu zuzenak
+#Default:	Default	Defektuz
+#FontSelection:	Font	Font
+#PlayerStorage:	Storage	Biltegia
+#StatisticsKills:	Kills	Heriotzak
+#GamepadNoneAttached:	No Controller attached	Agintea konektatu gabe
+#GamepadTriggerLeft:	Trigger Left	Trigger Left
+#GamepadTriggerRight:	Trigger Right	Trigger Right
+#GamepadBumperLeft:	Shoulder Left	Ezk Botoia
+#GamepadBumperRight:	Shoulder Right	Esk Botoia
+#GamepadActionTop:	Action Top	Akzioa Gora
+#GamepadActionBottom:	Action Bottom	Akzioa Behera
+#GamepadActionLeft:	Action Left	Akzioa Ezk
+#GamepadActionRight:	Action Right	Akzioa Esk
+#GamepadDPadUp:	DPad Up	DPad Gora
+#GamepadDPadDown:	DPad Down	DPad Behera
+#GamepadDPadLeft:	DPad Left	DPad Ezk
+#GamepadDPadRight:	DPad Right	DPad Esk
+#GamepadLeftStick:	Left Stick	Stick Ezk
+#GamepadLeftStickButton:	Left Stick Button	Stick Ezk botoia
+#GamepadRightStick:	Right Stick	Stick Esk
+#GamepadRightStickButton:	Right Stick Button	Stick Esk botoia
+#GamepadMenuButton:	Menu Button	Menu botoia
+#GamepadAlternativeMenuButton:	Alternative Menu Button	Menu botoi Alt.
+#GamepadManagerUnityInput:	Unity Input	Unity Input
+#CharacterNameAndroid:	Android	Androidea
+#ShortTravelMarker:	Location	Kokapena
+#FocusCharger:	Focus Charger	Kontzentratzailea
+#ToOtherArea:	To Other Area	Beste gune batera
+#TestController:	Test Controller	Test Controller
+#Test:	Test	Test-a
+#ErrorCouldNotLoadSaveGame:	Couldn't load savegame	Ezin da partida kargatu
+#MoveItem:	Move	Mugitu
+#OwnedItem:	Owned Item	Objektua jabetzan
+#ChallengeWon:	Success	Arrakasta
 #TimeAbbreviationDays:	d	D
-#TimeAbbreviationMinutes:	min	mín
+#TimeAbbreviationMinutes:	min	min
 #TimeAbbreviationSeconds:	sec	seg
 #TimeAbbreviationHours:	h	h
-#Freezing:	Freezing	Congelado
-#LocationHumanMachineWorkshop:	Humanoid Workshop	Taller humanoide
-#LocationWorkshop:	Workshop	Taller 
-#RunInBackgroundToolTip:	Continue running gameplay even when the application is not focused.	Seguir ejecutando el juego cuando la aplicación está minimizada
-#FeedbackFormAdditionalHelpHeadline:	Debug Console: Shift + F10	Consola Debug: Shift + F10
+#Freezing:	Freezing	Izoztua
+#LocationHumanMachineWorkshop:	Humanoid Workshop	Tailer humanoidea
+#LocationWorkshop:	Workshop	Workshop
+#RunInBackgroundToolTip:	Continue running gameplay even when the application is not focused.	Continue running gameplay even when the application is not focused.
+#FeedbackFormAdditionalHelpHeadline:	Debug Console: Shift + F10	Debug Kontsola: Shift + F10
 #Discord:	Discord	Discord
-#ModdingErrorLoadingLanguageFileOnGettingLanguageId:	Error loading language file: Couldn't get language id	Error al cargar idioma: No se puede obtener id
-#DemoSubtitle:	Demo	Demo
-#VirtualWorldModules:	Cyberwomb Modules	Módulo de Útero Cibernético
-#EnterCamp:	{0} Desolation	Desolación {0}
-#CoopSettings:	Co-op	Co-op
-#LanguageName:	English	Inglés
-#SelectMeleeWeapon:	Select Melee Weapon	Seleccionar arma melé
-#SelectRangedWeapon:	Select Ranged Weapon	Seleccionar arma a distancia
-#MinSkill:	Min Skill	Habilidad Mín
-#MinAttribute:	Min Attribute	Atributo Mín
-#MinLevel:	Min Level	Nivel Mín
-#NotMemorized:	Not memorized	Sin aprender
-#IsMaxLevel:	Max	Máx
-#LocationTheMaw:	The Maw	Las Fauces
-#ConfirmThisWillResetCurrentLanguage:	This will reset the current language. Continue?	Esto reiniciará tu idioma. ¿Continuar?
-#Ok:	Ok	Ok
-#AbilityEnergyCost:	Usage: {0} Infection	Uso: {0} Infección
-#LocationTheKennels:	The Kennels	La Perrera
-#LevelEditorLoadingLevelHub:	Loading Level Hub:	Cargando Nivel:
-#LevelEditorLoadingPrefabs:	Loading Prefabs	Cargando Prefabs
-#YouHaveReachedEndOfCustomModule:	You have reached the end of this module.	Has alcanzado el final de este módulo
-#LevelEditorSearchPrefabsAndTools:	Search in prefabs and tools	Buscar prefabs y herramientas
-#LevelEditorCreateNewLevelHub:	Create New Level Hub	Crear nuevo nivel
-#CannotEquipBecauseSameItemEquippedAlready:	Same item is already equipped	El mismo objeto ya está equipado
+#ModdingErrorLoadingLanguageFileOnGettingLanguageId:	Error loading language file: Couldn't get language id	Errorea hizkuntza kargatzean: Ezin da id-a lortu
+#DemoSubtitle:	Demo	Demo-a
+#VirtualWorldModules:	Cyberwomb Modules	Utero zibernetikoaren modulua
+#EnterCamp:	{0} Desolation	Desolazioa {0}
+#CoopSettings:	Co-op	Koop.
+#LanguageName:	English	Ingelesa
+#SelectMeleeWeapon:	Select Melee Weapon	Hautatu buruz buruko arma
+#SelectRangedWeapon:	Select Ranged Weapon	Hautatu urrutirako arma
+#MinSkill:	Min Skill	Gutxieneko trebetasuna
+#MinAttribute:	Min Attribute	Gutxieneko atributua
+#MinLevel:	Min Level	Gutxieneko maila
+#NotMemorized:	Not memorized	Ikasi gabe
+#IsMaxLevel:	Max	Max
+#LocationTheMaw:	The Maw	The Maw
+#ConfirmThisWillResetCurrentLanguage:	This will reset the current language. Continue?	Honek zure egungo hizkuntza berrabiaraziko du. Jarraitu?
+#Ok:	Ok	Ados
+#AbilityEnergyCost:	Usage: {0} Infection	Erabilera: {0} Infekzioa
+#LocationTheKennels:	The Kennels	Txakurtegia
+#LevelEditorLoadingLevelHub:	Loading Level Hub:	Pantaila kargatzen:
+#LevelEditorLoadingPrefabs:	Loading Prefabs	Prefabs kargatzen
+#YouHaveReachedEndOfCustomModule:	You have reached the end of this module.	Modulu honen amaierara iritsi zara
+#LevelEditorSearchPrefabsAndTools:	Search in prefabs and tools	Bilatu prefabak eta tresnak
+#LevelEditorCreateNewLevelHub:	Create New Level Hub	Level Hub berria sortu
+#CannotEquipBecauseSameItemEquippedAlready:	Same item is already equipped	Objektua ekipatuta daukazu
 #Infection:	Infection	Infección
 #CannotEatBecauseInfection:	You cannot eat more of this	No puedes comer más de esto
 #WillAddPointsOfEnergy:	Will add {0} to infection.	Añadirá {0} a la infección.
