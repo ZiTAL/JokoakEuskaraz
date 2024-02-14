@@ -598,106 +598,106 @@ Language Id:	Basque
 #HighlightAllToggle:	Toggle	Aktibatu
 #HighlightAllAlways:	Always	Beti
 #HighlightAllHoldPressed:	Hold Pressed	Sakatuta mantendu
-#StatsNotAvailable:	Not available.	No disponible
-#StealthDescription:	Influences how fast other characters discover you.||Increases Backstabbing Damage: {0} *	Influye que tan rápido te descubren otros personajes.||Aumenta el daño de la puñalada: {0} *
-#LocationGodhuntersPrisonMiddle:	Godhunters' Prison	Prisión de Cazadioses
-#NoActiveAbilityEquipped:	No Active Ability equipped	No hay habilidad activa equipada
-#NoStealthAbilityEquipped:	No Stealth Ability equipped	No hay habilidad de sigilo equipada
-#TutorialActiveAbilitySelection:	Select [0]{0}||with {1}	Selecciona: [0]{0} con {1}
-#TutorialBlockAbility:	Block incoming attacks {0}	Bloquea los ataques {0}
-#LocationGodhuntersPrisonLowest:	Godhunters' Prison	Prisión de Cazadioses
-#EnterTextRequired:	Required	Necesario
-#LocationGodhuntersPrisonUpper:	Godhunters' Prison	Prisión de Cazadioses
-#WillHealPointsOfHealthInstant:	Will heal {0} health instantly.	Curará {0} al instánte
-#FocusEnergy:	Infection	Infección
-#TutorialUseActiveAbilityAnywhere:	Now use [0]{0}||with {1}	Usa [0]{0} con {1}
-#TutorialThrowableItemSelection:	Select [0]{0}||with {1}	Selecciona [0]{0} con {1}
-#TutorialThrowableItemUsage:	Throw [0]{0}||by holding and releasing {1}	Arroja [0]{0}manteniendo y soltando {1}
-#GivePartner:	Give Partner	Dar a compañero
-#GiveItemToPartner_NotFound:	Partner not available	Compañero no disponible
-#GiveItemToPartner_NotReady:	Partner not ready	Compañero no listo
-#GiveItemToPartner_NotEnoughSpace:	Not enough space	Sin espacio suficiente
-#LearnButton:	{0} Learn	{0} Aprender
-#Learning:	Learning...	Aprendiendo
-#FrameRateLimit:	Frame Rate	Imágenes por segundo
-#ErrorDontSendFeedbackAndQuit:	Just quit	Salir simplemente
-#ErrorSendFeedbackAndQuit:	Send	Enviar
-#ErrorSending:	Sending...	Enviando...
-#ErrorEncountered:	Encountered Script Error.||Please send us the report.||You can restart the game afterwards.	Error de script encontrado.||Por favor, envíanos un informe.||Podrás reiniciar el juego después.
-#ErrorEnterAdditionalInfo:	Enter optional additional info...	Introduce información adicional...
-#NoValidTargetForPickpocketing:	No valid target	Objetivo no válido
-#StealthActionFailed:	You have been discovered!	¡Te han descubierto!
-#Max30:	Forced Max 30	Forzado Máx 30
-#Max60:	Forced Max 60	Forzado Máx 60
-#Max120:	Forced Max 120	Forzado Máx 120
-#Max144:	Forced Max 144	Forzado Máx 144
-#Merchant:	Merchant	Mercader
-#ItemEnhancementAlreadyApplied:	Already applied on this item	Ya aplicado en este objeto
-#OverwriteModificationConfirmation:	Overwrite modification?	¿Sobreescribir modificación?
-#OverwriteModification:	Apply	Aplicar
-#MouseInputInCombatFullManual:	No point & click	Sin apuntar y disparar
-#ShowHealthBars:	Show Enemy Health Bars	Mostrar barras de salud enemigas
-#CustomUISize:	Custom UI Scale	Escala de UI personalizada
-#CameraZoomMode:	Camera Zoom Non-Combat	Zoom de cámara fuera de combate
-#CameraNear:	Near	Cercano
-#CameraFar:	Far	Lejano
-#NoValidTargetForItemEnhancement:	No valid items	No hay objetos válidos
-#ErrorLevelHubDataMissing:	LevelHub Data is missing	Faltan datos de LevelHub
-#Achievements:	Achievements	Logros
-#OfflineAchievementNameHidden:	[ Hidden ]	[ Oculto ]
-#OfflineAchievementDescriptionHidden:	[ Hidden Description ]	[ Descripción Oculta ]
-#AchievementUnlockedTitle:	Unlocked:	Desbloqueado:
-#Sickness:	Sickness	Enfermedad
-#NoValidTargetForStealthAttacks:	No valid target	Objetivo no válido
-#UserNameNotSignedIn:	[Not signed in]	[Sin conexión]
-#DialogueZoomZoomForController:	For controller	Para mando
-#Mental:	Mental	Mental
-#MentalDescription:	Resistance against any kind of mental damage.	Resistencia contra todo tipo de daño mental.
-#Biological:	Biological	Biológico
-#BiologicalDescription:	Resistance against any kind of biological damage.	Resistencia contra todo tipo de daño biológico.
-#PatchNotes:	Patch Notes	Notas de parche
-#RequirementsNotVisibleOnVirtualCharacter:	Requirements not visible here	Requisitos no visibles aquí
-#CombatModeNotAvailableBecauseOfPacifism:	You cannot use this because of your pacifism!	¡No puedes usar esto debido a tu pacifismo!
-#CannotUseBecauseVeganism:	You cannot use this because of your veganism	No puedes usar esto siendo vegano
-#AdditionalChallenges:	Extra Challenges	Desafíos extra
-#PermadeathDescription:	Has only one savegame and deletes this savegame when you die.	Solo tienes una partida y se borrará cuando mueras.
-#WeaponDescriptionDamage:	Damage	Daño
-#WeaponDescriptionRateOfFire:	Rate of fire	Cadencia de fuego
-#WeaponDescriptionScatter:	Scatter	Dispersión
-#WeaponDescriptionSpeed:	Speed	Velocidad
+#StatsNotAvailable:	Not available.	Ez dago eskuragarri
+#StealthDescription:	Influences how fast other characters discover you.||Increases Backstabbing Damage: {0} *	Beste pertsonaiek deskubritzeko abiaduran eragiten du.||Labankadaren kaltea areagotzen du: {0} *
+#LocationGodhuntersPrisonMiddle:	Godhunters' Prison	Jainko-ehiztarien Kartzela
+#NoActiveAbilityEquipped:	No Active Ability equipped	Ez dago trebetasun aktiborik ekipaturik
+#NoStealthAbilityEquipped:	No Stealth Ability equipped	Ez dago isilpean ibiltzeko trebetasunik ekipaturik
+#TutorialActiveAbilitySelection:	Select [0]{0}||with {1}	Hautatu: [0]{0} {1} -rekin
+#TutorialBlockAbility:	Block incoming attacks {0}	Blokeatu {0} erasoak
+#LocationGodhuntersPrisonLowest:	Godhunters' Prison	Jainko-ehiztarien Kartzela
+#EnterTextRequired:	Required	Beharrezkoa
+#LocationGodhuntersPrisonUpper:	Godhunters' Prison	Jainko-ehiztarien Kartzela
+#WillHealPointsOfHealthInstant:	Will heal {0} health instantly.	{0} momentuan sendatuko du.
+#FocusEnergy:	Infection	Infekzioa
+#TutorialUseActiveAbilityAnywhere:	Now use [0]{0}||with {1}	Erabili [0]{0} {1} -rekin
+#TutorialThrowableItemSelection:	Select [0]{0}||with {1}	Hautatu [0]{0} {1} -rekin
+#TutorialThrowableItemUsage:	Throw [0]{0}||by holding and releasing {1}	Bota [0]{0} mantenduz eta askatuz {1}
+#GivePartner:	Give Partner	Lagunari eman
+#GiveItemToPartner_NotFound:	Partner not available	Laguna ez dago
+#GiveItemToPartner_NotReady:	Partner not ready	Laguna ez dago prest
+#GiveItemToPartner_NotEnoughSpace:	Not enough space	Ez daukazu lekurik
+#LearnButton:	{0} Learn	{0} Ikasi
+#Learning:	Learning...	Ikasten...
+#FrameRateLimit:	Frame Rate	Irudiak segunduko (FPS)
+#ErrorDontSendFeedbackAndQuit:	Just quit	Irten, besterik gabe
+#ErrorSendFeedbackAndQuit:	Send	Bidali
+#ErrorSending:	Sending...	Bidaltzen...
+#ErrorEncountered:	Encountered Script Error.||Please send us the report.||You can restart the game afterwards.	Script errorea aurkitu da.||Mesedez, bidali txostena.||Jokoa berrabiarazi ahal izango duzu geroago.
+#ErrorEnterAdditionalInfo:	Enter optional additional info...	Informazio gehigarria sartu...
+#NoValidTargetForPickpocketing:	No valid target	Helburuak ez du balio
+#StealthActionFailed:	You have been discovered!	Ikusi zaituzte!
+#Max30:	Forced Max 30	Behartua Max 30
+#Max60:	Forced Max 60	Behartua Max 60
+#Max120:	Forced Max 120	Behartua Max 120
+#Max144:	Forced Max 144	Behartua Max 144
+#Merchant:	Merchant	Merkataria
+#ItemEnhancementAlreadyApplied:	Already applied on this item	Helburu honetan aplikatua jada
+#OverwriteModificationConfirmation:	Overwrite modification?	Aldaketaren gainean idatzi?
+#OverwriteModification:	Apply	Aplikatu
+#MouseInputInCombatFullManual:	No point & click	Apuntatu gabe egin eta click
+#ShowHealthBars:	Show Enemy Health Bars	Erakutsi etsaien osasun-barrak
+#CustomUISize:	Custom UI Scale	UI eskala pertsonalizatua
+#CameraZoomMode:	Camera Zoom Non-Combat	Zoom kamera borrokatik kanpo
+#CameraNear:	Near	Hurbil
+#CameraFar:	Far	Urruti
+#NoValidTargetForItemEnhancement:	No valid items	Ez dago objektu baliogarririk
+#ErrorLevelHubDataMissing:	LevelHub Data is missing	LevelHub datuak falta dira
+#Achievements:	Achievements	Lorpenak
+#OfflineAchievementNameHidden:	[ Hidden ]	[ Ezkutatuta ]
+#OfflineAchievementDescriptionHidden:	[ Hidden Description ]	[ Deskribapen ezkutua ]
+#AchievementUnlockedTitle:	Unlocked:	Desblokeatuta:
+#Sickness:	Sickness	Gaixotasuna
+#NoValidTargetForStealthAttacks:	No valid target	Helburuak ez du balio
+#UserNameNotSignedIn:	[Not signed in]	[Konexiorik gabe]
+#DialogueZoomZoomForController:	For controller	Agintearentzat
+#Mental:	Mental	Mentala
+#MentalDescription:	Resistance against any kind of mental damage.	Adimen kalte ororen aurkako erresistentzia.
+#Biological:	Biological	Biologikoa
+#BiologicalDescription:	Resistance against any kind of biological damage.	Kalte biologiko ororen aurkako erresistentzia.
+#PatchNotes:	Patch Notes	Patch oharrak
+#RequirementsNotVisibleOnVirtualCharacter:	Requirements not visible here	Baldintzak hemen ezin dira ikusi
+#CombatModeNotAvailableBecauseOfPacifism:	You cannot use this because of your pacifism!	Zure baketasuna dela eta, ezin duzu erabili!
+#CannotUseBecauseVeganism:	You cannot use this because of your veganism	Ezin duzu erabili Beganoa zarelako!
+#AdditionalChallenges:	Extra Challenges	Aparteko erronkak (extrak)
+#PermadeathDescription:	Has only one savegame and deletes this savegame when you die.	Partida bakarra duzu eta hiltzen zarenean ezabatuko da.
+#WeaponDescriptionDamage:	Damage	Kaltea
+#WeaponDescriptionRateOfFire:	Rate of fire	Tiro-kadentzia
+#WeaponDescriptionScatter:	Scatter	Sakabanatzea
+#WeaponDescriptionSpeed:	Speed	Abiadura
 #WeaponDescriptionSeconds:	sec	seg
 #Stash:	Stash	Alijo
-#ScreenShakeSettingNone:	None	Nada
-#ScreenShakeSettingLight:	Light	Ligero
-#ScreenShakeSettingFull:	Full	Lleno
+#ScreenShakeSettingNone:	None	Ezer ez
+#ScreenShakeSettingLight:	Light	Arina
+#ScreenShakeSettingFull:	Full	Beteta
 #Input:	Input	Input
-#ButtonPromptsAutomatic:	Automatic	Automático
+#ButtonPromptsAutomatic:	Automatic	Automatikoa
 #ButtonPromptsXboxOne:	Xbox One	Xbox One
 #ButtonPromptsXbox360:	Xbox 360	Xbox 360
 #ButtonPromptsPlaystation4:	Playstation 4	Playstation 4
 #ButtonPromptsNintendoSwitch:	Nintendo Switch	Nintendo Switch
-#MeleeBlunt:	Melee Blunt	Cuerpo a cuerpo contundente
-#MeleeSharp:	Melee Sharp	Cuerpo a cuerpo de filo
-#Stealth:	Stealth	Sigilo
-#Crafting:	Crafting	Fabricación
-#Unlimited:	Unlimited	Ilimitado
+#MeleeBlunt:	Melee Blunt	Buruz buru sendoa
+#MeleeSharp:	Melee Sharp	Buruz buru arma zorrotzak
+#Stealth:	Stealth	Isilean ibili
+#Crafting:	Crafting	Fabrikazioa
+#Unlimited:	Unlimited	Mugagabea
 #Placeholder:	Placeholder	Placeholder
-#MapOverviewStyle:	Map Overview	Vista general de mapa
-#MapOverviewStyleAbstract:	Abstract	Abstracto
-#MapOverviewStyleRendered:	Rendered	Renderizado
-#Mods:	Mods	Mods
-#PlayingCustomModule:	Custom module:	Módulo personalizado
-#ModdingManifestFileHasInvalidJSON:	JSON in mod.manifest is not valid.	JSON en el manifiesto del mod no válido.
-#ModdingErrorCreatingModsDirectory:	Error setting up for modding	Error ejecutando el mod
-#ModdingCouldNotFindManifestFile:	Couldn't find mod.manifest file.	No se puede encontrar el manifiesto del mod
-#ModdingInvalidJsonInAssetFile:	Invalid JSON in modded file.	JSON inválido en el archivo mod.
-#Error:	Error	Error
-#ErrorCouldNotLoadLevel:	Couldn't load level {0}.	No se puede cargar el nivel {0}
-#ErrorCouldNotFindLevelHub:	Couldn't find LevelHub with Id {0}.	No se puede encontrar LevelHub con Id {0}
-#ErrorSaveGameIncompatible:	Error: Savegame is incompatible	Error. Partida no compatible
-#SteamVersionNotUsingSteam:	Using Steam version but not running through Steam.||Different save games, no cloud sync, no Steam features.	Usar versión de Steam sin ejecutar Steam.||Causa diferentes partidas sin sincronización de la nube ni características de Steam.
-#GOGVersionNotUsingGOG:	Achievements will not be synced.	Los logros no se sincronizarán.
-#Warning:	Warning	Advertencia
+#MapOverviewStyle:	Map Overview	Maparen ikuspegi orokorra
+#MapOverviewStyleAbstract:	Abstract	Abstraktua
+#MapOverviewStyleRendered:	Rendered	Errenderizazioa
+#Mods:	Mods	Mod-ak
+#PlayingCustomModule:	Custom module:	Mod pertsonalizatua
+#ModdingManifestFileHasInvalidJSON:	JSON in mod.manifest is not valid.	mod.manifest-ean akatsen bat dago JSON-ean.
+#ModdingErrorCreatingModsDirectory:	Error setting up for modding	Errorea mod-a exekutatzean
+#ModdingCouldNotFindManifestFile:	Couldn't find mod.manifest file.	Ezin da aurkitu mod-aren manifestu fitxategia.
+#ModdingInvalidJsonInAssetFile:	Invalid JSON in modded file.	JSON baliogabea mod fitxategian.
+#Error:	Error	Errorea
+#ErrorCouldNotLoadLevel:	Couldn't load level {0}.	Ezin da pantalla {0} kargatu.
+#ErrorCouldNotFindLevelHub:	Couldn't find LevelHub with Id {0}.	Ezin da aurkitu LevelHub Id {0} erabiliz.
+#ErrorSaveGameIncompatible:	Error: Savegame is incompatible	Errorea: Partida ez da bateragarria
+#SteamVersionNotUsingSteam:	Using Steam version but not running through Steam.||Different save games, no cloud sync, no Steam features.	Steam bertsioa erabili Steam exekutatu gabe.||Hainbat partida sortzen ditu, hodeiaren sinkronizaziorik eta Steam ezaugarririk gabe.
+#GOGVersionNotUsingGOG:	Achievements will not be synced.	Lorpenak ez dira sinkronizatuko.
+#Warning:	Warning	KASU
 #ModdingModIdConflict:	Mod Id Conflict: {0}	Conflicto con ID de mod: {0}
 #QuestLocationUnknown:	???	???
 #QuestLocation:	Location	Ubicación
