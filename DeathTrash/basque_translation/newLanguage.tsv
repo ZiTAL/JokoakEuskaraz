@@ -898,106 +898,106 @@ Language Id:	Basque
 #LevelEditorSearchPrefabsAndTools:	Search in prefabs and tools	Bilatu prefabak eta tresnak
 #LevelEditorCreateNewLevelHub:	Create New Level Hub	Level Hub berria sortu
 #CannotEquipBecauseSameItemEquippedAlready:	Same item is already equipped	Objektua ekipatuta daukazu
-#Infection:	Infection	Infección
-#CannotEatBecauseInfection:	You cannot eat more of this	No puedes comer más de esto
-#WillAddPointsOfEnergy:	Will add {0} to infection.	Añadirá {0} a la infección.
-#FMODCouldNotBeInitialized:	FMOD audio system could not be initialized.||||Check the audio config of your computer. And check if restarting your computer solves this.	No se puede iniciar el sistema de audio FMOD.||||Comprueba la configuración de audio de tu ordenador. Prueba a reiniciar tu ordenador para comprobar que resuelve este problema.
-#InputBindingFeedback:	Feedback	Feedback
-#FeedbackNoteNoKeyAssigned:	Report feedback & bugs	Informes y bugs
-#NoActiveAbilitySelected:	No Active Ability selected	Sin habilidad activa seleccionada
-#ToUpperLevel:	To Upper Level	Al nivel superior
-#ToLowerLevel:	To Lower Level	Al nivel inferior
-#AvoidedStunEffect:	Avoided stun	Aturdimiento evitado
+#Infection:	Infection	Infekzioa
+#CannotEatBecauseInfection:	You cannot eat more of this	Ezin duzu honelakorik gehiago jan
+#WillAddPointsOfEnergy:	Will add {0} to infection.	{0} gehituko dio infekzioari.
+#FMODCouldNotBeInitialized:	FMOD audio system could not be initialized.||||Check the audio config of your computer. And check if restarting your computer solves this.	FMOD audio system could not be initialized.||||Check the audio config of your computer. And check if restarting your computer solves this.
+#InputBindingFeedback:	Feedback	Feedback-a
+#FeedbackNoteNoKeyAssigned:	Report feedback & bugs	Txostenak eta bug-ak
+#NoActiveAbilitySelected:	No Active Ability selected	Trebetasun aktiborik hautatu gabe
+#ToUpperLevel:	To Upper Level	Goiko mailara
+#ToLowerLevel:	To Lower Level	Beheko mailara
+#AvoidedStunEffect:	Avoided stun	Zorabioa saihestuta
 ------------------------------------------		
 SEQUENCE BedFleshKraken		
-#2:	Nice and cozy.	Agradable y acogedor.
-#3:	A bit dirty.	Un poco sucio.
+#2:	Nice and cozy.	Atsegina eta erosoa.
+#3:	A bit dirty.	Zikin samarra.
 ------------------------------------------		
 SEQUENCE CommentEmpty		
-#11:	It's empty.	Está vacío.
-#9:	There's nothing here.	No hay nada.
-#3:	Nothing useful here.	Nada útil por aquí.
-#8:	Can't use anything from that stuff.	No puedo usar nada de eso.
+#11:	It's empty.	Hutsik dago.
+#9:	There's nothing here.	Ez dago ezer.
+#3:	Nothing useful here.	Hemen ez dago ezer erabilgarririk.
+#8:	Can't use anything from that stuff.	Ezin dut horrelakorik erabili.
 ------------------------------------------		
 SEQUENCE CommentEmptyBottles		
-#12:	Nothing left here.	No queda nada.
-#11:	All empty.	Todo vacío.
-#10:	Empty.	Vacío.
+#12:	Nothing left here.	Ez da ezer geratzen.
+#11:	All empty.	Dena hutsik.
+#10:	Empty.	Hutsik.
 ------------------------------------------		
 SEQUENCE CommentLocked		
-#12:	Can't use that. It's locked.	No puedo hacer eso. Está cerrado.
-#11:	Locked.	Cerrado.
+#12:	Can't use that. It's locked.	Ezin dut hori egin. Itxita dago.
+#11:	Locked.	Itxita.
 ------------------------------------------		
 SEQUENCE CommentOnBrokenMachine		
-#14:	Can't repair that one.	No se puede reparar.
-#13:	Not working anymore.	No funciona.
-#12:	Not usable anymore.	No sirve.
-#11:	It's broken.	Está roto.
+#14:	Can't repair that one.	Ezin da konpondu.
+#13:	Not working anymore.	Ez dabil.
+#12:	Not usable anymore.	Ez dabil.
+#11:	It's broken.	Apurtuta dago.
 ------------------------------------------		
 SEQUENCE FleshKraken		
-#6:	So, what do you do all day?	Bueno, ¿y qué haces durante todo el día?
-#31:	PONDERING.	PENSAR.
-#32:	About what? Life, eternity?	¿Sobre qué? ¿La vida, la eternidad?
+#6:	So, what do you do all day?	Beno, eta zer egiten duzu egunean zehar?
+#31:	PONDERING.	PENTSATU.
+#32:	About what? Life, eternity?	Zeri buruz? Bizitza, eternitatea?
 #33:	...	...
-#34:	Hmmh? What else could there be?	¿Hmm? ¿Qué más queda?
-#35:	FRIENDSHIP. SOCIETY. AMUSEMENT.	AMISTAD. SOCIEDAD. DIVERSIÓN.
-#36:	What the hell? You have friends?	¿Qué cojones? ¿Tienes amigos?
-#37:	FRIENDS. YOU.	AMIGOS. TÚ.
-#93:	No, I don't think so.	No, no creo.
-#95:	SADNESS.	TRISTEZA.
-#100:	OTHER FRIENDS?	¿OTROS AMIGOS?
-#103:	You want me to go look for someone?	¿Quieres que vaya a buscar a alguien?
-#99:	SEARCH FRIENDS.	BUSCAR AMIGOS.
-#43:	No, forget it.	No, olvídalo.
-#44:	That's impossible.	Es imposible.
-#42:	Alright. I can do that.	Está bien, veré que puedo hacer.
-#39:	Probably won't be easy though, considering your... circumstances.	No será fácil, considerando tus... circunstancias.
-#91:	Alright.	Está bien.
-#98:	FRIEND.	AMIGO.
-#40:	SEARCH FRIENDS?	¿BUSCAR AMIGOS?
-#97:	You want more?	¿Quieres más?
-#94:	Ohhhhh, yes!	¡Ohhhh, sí!
-#7:	What kind of animal are you?	¿Qué clase de animal eres?
-#10:	ANIMAL?	¿ANIMAL?
-#11:	You know, not human.	Ya sabes, no humano.
-#12:	HUMAN.	HUMANO.
-#13:	That's me, human. What are you though?	Eso soy yo, humano. ¿Tú que eres?
-#15:	ANIMAL. HUMAN.	ANIMAL. HUMANO.
-#16:	Eh... Ok.	Eh... bueno.
-#89:	I guess that could fit.	Supongo que puede encajar.
-#8:	That's a lot of flesh.	Eso es mucha carne.
-#9:	FLESH. LOT. LIVING.	CARNE. MUCHA. VIVIR.
-#18:	What do you eat?	¿Qué comes?
-#19:	LIVING. SMALL. BIG.	VIVOS. PEQUEÑOS. GRANDES.
-#20:	Humans, too?	¿Humanos también?
-#21:	LIVING.	VIVOS.
-#22:	I see.	Ya veo.
-#2:	Fuck.	Joder.
-#87:	*grumble*	*quejido*
-#49:	FRIENDS?	¿AMIGOS?
-#161:	No luck yet, sorry.	Todavía no hay suerte, lo siento.
-#50:	No luck yet, sorry, but could you maybe help me talk to the Flesh Nexus?	Todavía no hay suerte, lo siento. Pero, ¿podrías ayudarme a hablar con el Nexo de Carne?
-#162:	FRIENDS. NEED.	AMIGOS. NECESITAR.
-#163:	Yeah, but, could you first help me out with talking to the Nexus?	Sí, claro, ¿podrías ayudarme primero a hablar con el Nexo?
-#164:	FRIENDS.	AMIGOS.
-#165:	WAITING. PONDERING.	ESPERAR. PENSAR.
-#113:	Here...	Aquí...
-#105:	How about this one?	¿Qué tal esto?
-#109:	Yes. This one looks interesting enough.	Sí. Esto parece un poco interesante.
-#106:	MACHINE. SMALL.	MÁQUINA. PEQUEÑA.
-#118:	SWALLOW.	TRAGAR.
-#117:	Swallow? You want to eat it?	¿Tragar? ¿Te la quieres comer?
-#119:	Did it say anything?	¿Ha dicho algo?
-#127:	You can't hear it?	¿No puedes oírlo?
-#129:	No.	No.
-#120:	EAT. ALIVE. PROCESS.	COMER. VIVO. PROCESAR.
-#130:	Ehh. It's pretty sure it wants to eat you.	Ehh. Está bastante seguro de querer comerte.
-#131:	There's a high chance my shell is resilient enough to survive this. Could be an informative experiment.	Uff. Hay una gran posibilidad de que mi caparazón sea bastante resistente para sobrevivir. Podría ser un buen experimento...
-#135:	But I could also be stuck in the bowels of this animal for years. Decades, even.	Pero podría acabar atrapado en las entrañas de este animal por años, incluso décadas.
-#133:	EAT. ALIVE. PROCESS.	COMER. VIVO. PROCESAR.
-#124:	No, I don't think so.	No, no lo creo.
-#125:	PONDERING.	PENSAR.
-#122:	Alright. Let's do this.	Está bien. Vamos allá-
+#34:	Hmmh? What else could there be?	Hmm? Zer ostia axola du?
+#35:	FRIENDSHIP. SOCIETY. AMUSEMENT.	ADISKIDETASUNA. GIZARTEA. DIBERTSIOA.
+#36:	What the hell? You have friends?	BAINA ZE PUTALARRU, ba al duzu lagunik?
+#37:	FRIENDS. YOU.	LAGUNAK. ZU.
+#93:	No, I don't think so.	Ez, ez dut uste.
+#95:	SADNESS.	TRISTURA.
+#100:	OTHER FRIENDS?	BESTE LAGUN BATZUK?
+#103:	You want me to go look for someone?	Norbaiten bila joatea nahi al duzu?
+#99:	SEARCH FRIENDS.	LAGUNAK BILATU.
+#43:	No, forget it.	Ez, ahaztu.
+#44:	That's impossible.	Ezinezkoa da.
+#42:	Alright. I can do that.	Ondo da, ikusiko dut zer egin dezakedan.
+#39:	Probably won't be easy though, considering your... circumstances.	Ziur aski, ez da erraza izango... zure egoera kontuan hartuta.
+#91:	Alright.	Ongi da.
+#98:	FRIEND.	ADISKIDEA.
+#40:	SEARCH FRIENDS?	LAGUNAK BILATU?
+#97:	You want more?	Gehiago nahi al dituzu?
+#94:	Ohhhhh, yes!	Ohhhh, bai ba!
+#7:	What kind of animal are you?	Zer animalia mota zara?
+#10:	ANIMAL?	ANIMALIA?
+#11:	You know, not human.	Badakizu, gizakia ez dena.
+#12:	HUMAN.	GIZAKIA.
+#13:	That's me, human. What are you though?	Hori naiz ni, gizakia. Zu zer zara?
+#15:	ANIMAL. HUMAN.	ANIMALIA. GIZAKIA.
+#16:	Eh... Ok.	Ah... Ados.
+#89:	I guess that could fit.	Suposatzen dut moldatuko dala.
+#8:	That's a lot of flesh.	Hori haragi asko da.
+#9:	FLESH. LOT. LIVING.	HARAGIA. ASKO. BIZI.
+#18:	What do you eat?	Zer jaten duzu?
+#19:	LIVING. SMALL. BIG.	BIZIAK. TXIKIAK. HANDIAK.
+#20:	Humans, too?	Gizakiak ere bai?
+#21:	LIVING.	BIZIRIK.
+#22:	I see.	Ados.
+#2:	Fuck.	Ostidxek eta bi hamabi.
+#87:	*grumble*	*kexua*
+#49:	FRIENDS?	LAGUNAK?
+#161:	No luck yet, sorry.	Oraindik ez dago zorterik, sentitzen dut.
+#50:	No luck yet, sorry, but could you maybe help me talk to the Flesh Nexus?	Oraindik ez dago zorterik, sentitzen dut...  Baina, lagunduko zenidake Haragi Nexus-arekin hitz egiten?
+#162:	FRIENDS. NEED.	LAGUNAK. BEHAR.
+#163:	Yeah, but, could you first help me out with talking to the Nexus?	Bai, noski. Lagunduko didazu Haragi Nexus-arekin hitz egiten?
+#164:	FRIENDS.	LAGUNAK.
+#165:	WAITING. PONDERING.	ITXARON. PENTSATU.
+#113:	Here...	Hemen...
+#105:	How about this one?	Zer moduz hau?
+#109:	Yes. This one looks interesting enough.	Bai. Honek nahiko interesgarria dirudi.
+#106:	MACHINE. SMALL.	MAKINA. TXIKIA.
+#118:	SWALLOW.	IRENTSI.
+#117:	Swallow? You want to eat it?	Irentsi? Jan nahi al duzu?
+#119:	Did it say anything?	Zerbait esan al du?
+#127:	You can't hear it?	Ezin al duzu entzun?
+#129:	No.	Ez.
+#120:	EAT. ALIVE. PROCESS.	JATEA. BIZIRIK. PROZESATU.
+#130:	Ehh. It's pretty sure it wants to eat you.	Eh. Ziur dago jan nahi zaituela.
+#131:	There's a high chance my shell is resilient enough to survive this. Could be an informative experiment.	Uff. Nire oskola bizirauteko bezain gogorra izan daiteke. Esperimentu ona izan liteke...
+#135:	But I could also be stuck in the bowels of this animal for years. Decades, even.	Baina animalia honen erraietan harrapatuta amai nezake bai urteetan, baita hamarkadetan ere.
+#133:	EAT. ALIVE. PROCESS.	JATEA. BIZIRIK. PROZESATU.
+#124:	No, I don't think so.	Ez, ez dut uste.
+#125:	PONDERING.	PENTSATZEA.
+#122:	Alright. Let's do this.	Ongi da. Goazen egitera.
 #137:	Good luck, Fleshface.	Buena suerte, caracarne.
 #139:	Thank you. Chances are high I might need that.	Gracias. Es bastante probable que nos haga falta.
 #145:	EATING.	COMER.
