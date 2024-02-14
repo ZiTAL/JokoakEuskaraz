@@ -698,106 +698,106 @@ Language Id:	Basque
 #SteamVersionNotUsingSteam:	Using Steam version but not running through Steam.||Different save games, no cloud sync, no Steam features.	Steam bertsioa erabili Steam exekutatu gabe.||Hainbat partida sortzen ditu, hodeiaren sinkronizaziorik eta Steam ezaugarririk gabe.
 #GOGVersionNotUsingGOG:	Achievements will not be synced.	Lorpenak ez dira sinkronizatuko.
 #Warning:	Warning	KASU
-#ModdingModIdConflict:	Mod Id Conflict: {0}	Conflicto con ID de mod: {0}
+#ModdingModIdConflict:	Mod Id Conflict: {0}	Gatazka mod-aren ID-arekin: {0}
 #QuestLocationUnknown:	???	???
-#QuestLocation:	Location	Ubicación
-#Technology:	High tech	Alta tecnología
-#LevelEditorQuestionReimportPrefabs:	Reimport Prefabs?	¿Reimportar prefabs?
-#LevelEditorQuestionSaveLevel:	Save Level?	¿Guardar nivel?
-#LevelEditorQuestionSaveChanges:	Save changes?	¿Guardar cambios?
-#LevelEditorQuestionReplaceBackground:	Replace background?	¿Reemplazar fondo?
-#ReturnToLevelEditor:	Return To||Level Editor	Regresar al||Editor de nivel
-#LeaveRuntimeEditor:	Leave Editor?	¿Salir del editor?
-#SteamworksSetVisibilityOfNewWorkshopItem:	Set visibility of new workshop item	Activar visibilidad en la workshop
-#SteamworksHasLocalFileIdButNotPublishedAskPublishAnew:	Couldn't find published item anymore. Publish as new item?	No se puede encontrar el objeto publicado. ¿Publicar como nuevo?
-#SteamworksNoLocalModsFoundForPublishingOrUpdating:	No local mods found for publishing or updating	No hay mods locales para publicar o actualizar
-#SteamworksSelectModForPublishingOrUpdating:	Select mod for publishing or updating	Selecciona el mod para publicar o actualizar
-#SteamworksSelectModForUnpublishing:	Select mod for unpublishing	Selecciona el mod para retirarlo
-#SteamworksGettingListOfPublishedItems:	Getting list of published workshop items	Obteniendo lista de objetos de la workshop
-#SteamworksNoPublishedItemsFound:	No published workshop items found	No hay objetos encontrados en la workshop
-#ModdingCouldNotCreateModInvalidName:	Could not create mod. Name {0} is invalid.	No se puede crear el mod. Nombre {0} es inválido.
-#ModdingCouldNotCreateModDirectoryAlreadyExists:	Could not create mod. Directory {0} already exists.	No se puede crear el mod. El directorio {0} ya existe.
-#ModdingCouldNotCreateLevelHubInvalidName:	Could not create level hub. Name {0} is invalid.	No se puede crear levelhub. Nombre {0} no válido.
-#QuestionResetStats:	Reset stats?	¿Reiniciar estadísticas?
-#ConfirmResetStats:	Ok	OK
-#QuestionResetVisuals:	Reset character visuals?	¿Reiniciar aspecto del personaje?
-#ConfirmResetVisuals:	Ok	OK
-#BoughtItems:	Bought Items	Objetos comprados
-#BoughtTypesOfItems:	Bought different items	Comprados diferentes objetos
+#QuestLocation:	Location	Kokapena
+#Technology:	High tech	Goi-mailako teknologia
+#LevelEditorQuestionReimportPrefabs:	Reimport Prefabs?	Prefab-ak berriz inportatu?
+#LevelEditorQuestionSaveLevel:	Save Level?	Partida gorde?
+#LevelEditorQuestionSaveChanges:	Save changes?	Aldaketak gorde?
+#LevelEditorQuestionReplaceBackground:	Replace background?	Atzeko irudia ordezkatu?
+#ReturnToLevelEditor:	Return To||Level Bueltatu||Pantaila editorea
+#LeaveRuntimeEditor:	Leave Editor?	Editoretik irten?
+#SteamworksSetVisibilityOfNewWorkshopItem:	Set visibility of new workshop item	Workshop-ean ikusgarritasuna aktibatu
+#SteamworksHasLocalFileIdButNotPublishedAskPublishAnew:	Couldn't find published item anymore. Publish as new item?	Ezin da aurkitu argitaratutako objektua. Argitaratu berri gisa?
+#SteamworksNoLocalModsFoundForPublishingOrUpdating:	No local mods found for publishing or updating	Ez dago argitaratzeko edo eguneratzeko mod-ik
+#SteamworksSelectModForPublishingOrUpdating:	Select mod for publishing or updating	Hautatu argitaratzeko edo eguneratzeko mod-a
+#SteamworksSelectModForUnpublishing:	Select mod for unpublishing	Aukeratu kentzeko mod-a
+#SteamworksGettingListOfPublishedItems:	Getting list of published workshop items	Workshop-eko objektuen zerrenda lortzen
+#SteamworksNoPublishedItemsFound:	No published workshop items found	Workshop-ean ez da objeturik aurkitu
+#ModdingCouldNotCreateModInvalidName:	Could not create mod. Name {0} is invalid.	Ezin da mo-a sortu. Izen hau ezin da erabili: {0}.
+#ModdingCouldNotCreateModDirectoryAlreadyExists:	Could not create mod. Directory {0} already exists.	Ezin da mod-a sortu. Direktorio hau {0} existitzen da.
+#ModdingCouldNotCreateLevelHubInvalidName:	Could not create level hub. Name {0} is invalid.	Ezin da levelhub sortu. Izen hau {0} ezin da erabili.
+#QuestionResetStats:	Reset stats?	Estatistikak berrabiarazi?
+#ConfirmResetStats:	Ok	Ados
+#QuestionResetVisuals:	Reset character visuals?	Pertsonaiaren itxura berrabiarazi?
+#ConfirmResetVisuals:	Ok	Ados
+#BoughtItems:	Bought Items	Erositako objektuak
+#BoughtTypesOfItems:	Bought different items	Hainbat objektu erosita
 #Website:	www.deathtrash.com	www.deathtrash.com
-#AlwaysShowHealthNumbersForPlayer:	Player Health Bar: Show Number	Barra de salud del jugador. Mostrar número
-#NotAvailableInDemo:	Only available||in full game version	Solo disponible||en la versión completa del juego
-#ShowPlayerPortraitInDialogue:	Show player portrait in dialogue	Mostrar retrato del jugador en diálogos
-#StandaloneDemoDisclaimer:	This demo contains the first 1-2 hours of the full Early Access version.||||You can continue your save game when playing the Early Access version.||||<color=#FFA68B> Press any key or button to start </color>	Esta demo contiene las primeras horas de la versión de Acceso anticipado.||||Podrás continuar con tu partida guardada al jugar la versión de Acceso Anticipado.||||<color=#FFA68B> Pulsa cualquier tecla para continuar </color>
-#MouseInputInCombatFullAuto:	Automatic	Automático
-#TutorialRangedSelectWeaponMouseByKey:	Switch to ranged weapon||{0}{1}	Cambiar a arma a distancia||{0}{1}
-#YouHaveReachedEndOfDemoThanksForPlaying:	Thanks for playing.	Gracias por jugar
-#TutorialMeleeAttackOverride:	Hold {0} and use {1}||for melee attacks||from current position	Mantén {0} y usa {1}||para ataques cuerpo a cuerpo||desde tu posición actual
-#LevelEditor:	Level Editor	Editor de niveles
-#MouseInputInCombatToolTip:	Mouse and keyboard handling while in combat mode	Ratón y teclado para moverte en combate
-#DifficultySettingToolTip:	Can be changed anytime.	Se puede cambiar en cualquier momento
-#MouseInputInCombatHybrid:	Hybrid	Híbrido
-#MouseInputInCombatFullManualDescription:	Melee combat: keyboard movement||Ranged combat: keyboard movement	Combate cuerpo a cuerpo: movimiento con teclado||Combate a distancia: movimiento con teclado
-#MouseInputInCombatFullAutoDescription:	Melee combat: keyboard movement and point and click||Ranged combat: keyboard movement; holding active targeting button (default: right mouse button) and left click for shooting	Combate cuerpo a cuerpo: movimiento con teclado; con apuntar y hacer click||Combate a distancia: movimiento con teclado; mantener el botón de objetivo (por defecto: botón derecho del ratón) y clic izquierdo para disparar
-#MouseInputInCombatHybridDescription:	Melee combat: keyboard movement and point and click||Ranged combat: keyboard movement	Combate cuerpo a cuerpo: movimiento con teclado; con apuntar y hacer click||Combate a distancia: movimiento con teclado
-#LocalCoopSecondScreenToolTip:	Play the local co-op mode on one computer with two screens attached.||||This might not work for all screen combinations.||||To deactivate the second screen please restart the game. This is necessary due to an engine limitation.	Juega en modo co-op local con un ordenador y dos pantallas.||||Este modo puede no funcionar con todos los tipos de pantallas.||||Para desactivar la segunda pantalla tendrás que reiniciar el juego. Es necesario debido a las limitaciones del motor.
-#ContinuePlayingDemo:	Continue Demo	Continuar Demo
-#Notes:	Notes	Notas
-#WishlistNow:	Wishlist Now!	¡Añádelo a la lista de deseados!
-#TutorialWorldMap:	You can travel around here.	Puedes viajar por aquí.
-#OwnedBySomeone:	Owned by someone	Pertenece a alguien
-#TheseAreNotAvailableInTheDemo:	Not available in the demo!	¡No disponible en la demo!
-#ItemDescriptionResistance:	Resistance	Resistencia
-#SettingHardLockedCamera:	Hard-locked camera on character	Cámara bloqueada sobre el personaje
-#ShowTutorials:	Show Tutorials	Mostrar tutoriales
-#LargeGuns:	Large Firearms	Armas de fuego grandes
-#LoadLatest:	Quickload	Carga rápida
-#RollTowardsMouseCusor:	Roll towards mouse cursor	Rueda hacia el cursor del ratón
-#TutorialWorldMapTravelSpeed:	{0} Toggle speed||while traveling	{0} Alterna la velocidad||mientras viajas
-#WorldMapToggleTravelSpeed:	World map speed toggle	Alternar velocidad del mapa del mundo
-#ErrorModdingWasNotSetUp:	Modding was not set up yet. Use the debug console with Modding: Setup...	Los mods todavía no están implementados. Debes usar la consola debug para preparar los mods...
-#SkillMissingItem:	Missing Item	Objeto faltante
-#SkillMissing:	Skill missing	Habilidad necesaria
+#AlwaysShowHealthNumbersForPlayer:	Player Health Bar: Show Number	Jokalariaren osasun-barra. Erakutsi zenbakia
+#NotAvailableInDemo:	Only available||in full game version	Bakarrik||jokoaren bertsio osoan
+#ShowPlayerPortraitInDialogue:	Show player portrait in dialogue	Erakutsi jokalariaren erretratua elkarrizketetan
+#StandaloneDemoDisclaimer:	This demo contains the first 1-2 hours of the full Early Access version.||||You can continue your save game when playing the Early Access version.||||<color=#FFA68B> Press any key or button to start </color>	Demo honek Sarbide aurreratuaren bertsioaren lehen orduak biltzen ditu.||||Sarrera Aurreratura jokatzean zure partida gordeta izaten jarraitu ahal izango duzu.||||<color=#FFA68B> Sakatu edozein tekla jarraitzeko </color>
+#MouseInputInCombatFullAuto:	Automatic	Automatikoa
+#TutorialRangedSelectWeaponMouseByKey:	Switch to ranged weapon||{0}{1}	Urrutitik erabiltzeko armara aldatu||{0}{1}
+#YouHaveReachedEndOfDemoThanksForPlaying:	Thanks for playing.	Mila esker jokatzeagatik
+#TutorialMeleeAttackOverride:	Hold {0} and use {1}||for melee attacks||from current position	Mantendu {0} eta  erabili {1}||buruz buruko erasoentzako||zure egungo posiziotik
+#LevelEditor:	Level Editor	Pantaila Editorea
+#MouseInputInCombatToolTip:	Mouse and keyboard handling while in combat mode	Sagua eta teklatua borrokan mugitzeko
+#DifficultySettingToolTip:	Can be changed anytime.	Edozein unetan alda daiteke
+#MouseInputInCombatHybrid:	Hybrid	Hibridoa
+#MouseInputInCombatFullManualDescription:	Melee combat: keyboard movement||Ranged combat: keyboard movement	Buruz buruko borroka: teklatuarekin mugimendua||Urrutitik borroka: teklatuarekin mugimendua
+#MouseInputInCombatFullAutoDescription:	Melee combat: keyboard movement and point and click||Ranged combat: keyboard movement; holding active targeting button (default: right mouse button) and left click for shooting	Buruz buruko borroka: teklatuarekin mugimendua; apuntatu eta klik||Urrutitik borroka: teklatuarekin mugimendua; Helburu botoia mantendu (defektuz: saguaren eskumako botoia) eta ezkerreko klik tirokatzeko
+#MouseInputInCombatHybridDescription:	Melee combat: keyboard movement and point and click||Ranged combat: keyboard movement	Borroka gorputzez gorputz: mugimendua teklatuarekin; apuntatzearekin eta klik egitearekin||Urrutiko borroka: mugimendua teklatuarekin
+#LocalCoopSecondScreenToolTip:	Play the local co-op mode on one computer with two screens attached.||||This might not work for all screen combinations.||||To deactivate the second screen please restart the game. This is necessary due to an engine limitation.	Kooperatibo moduan lokalean jokatzeko, ordenagailu batekin eta bi pantailarekin.||||Baliteke modu horrek ez funtzionatzea pantaila mota guztiekin.||||Bigarren pantaila desaktibatzeko, jokoa berrabiarazi beharko duzu.
+#ContinuePlayingDemo:	Continue Demo	Jarraitu demo-a
+#Notes:	Notes	Oharrak
+#WishlistNow:	Wishlist Now!	Gehitu desioen zerrendara!
+#TutorialWorldMap:	You can travel around here.	Hemendik bidaiatu dezakezu.
+#OwnedBySomeone:	Owned by someone	Jabea dauka
+#TheseAreNotAvailableInTheDemo:	Not available in the demo!	Demo-an ez dago eskuragarri!
+#ItemDescriptionResistance:	Resistance	Erresistentzia
+#SettingHardLockedCamera:	Hard-locked camera on character	Kamera pertsonaiaren gainean blokeatuta
+#ShowTutorials:	Show Tutorials	Tutorialak erakutsi
+#LargeGuns:	Large Firearms	Su-arma handiak
+#LoadLatest:	Quickload	Karga azkarra
+#RollTowardsMouseCusor:	Roll towards mouse cursor	Txiribuelta (kroketa) saguaren kurtsorerantz
+#TutorialWorldMapTravelSpeed:	{0} Toggle speed||while traveling	{0} Abiadura txandakatu ||bidaiatzen duzun bitartean
+#WorldMapToggleTravelSpeed:	World map speed toggle	Munduko maparen abiadura txandakatzea
+#ErrorModdingWasNotSetUp:	Modding was not set up yet. Use the debug console with Modding: Setup...	Mod-ak oraindik ez daude ezarrita. Debug kontsola erabili behar duzu modak prestatzeko...
+#SkillMissingItem:	Missing Item	Falta den objektua
+#SkillMissing:	Skill missing	Beharrezko trebetasuna
 #MiniMap:	Map	Mapa
-#GamepadManager:	Controller Manager	Control de mando
-#GamepadManagerDefault:	Default	Por defecto
-#GamepadManagerInControl:	InControl	En control
-#GamepadManagerUnityInputSystem:	Unity Input	Input de Unity
-#TutorialDynamicWeaponSwitchRanged:	Hold targeting button {0} to switch to ranged combat.	Mantén el botón de apuntar {0} para cambiar a modo a distancia.
-#TutorialDynamicWeaponSwitchMelee:	Switching back to melee||happens automatically||on cursor over combat enemies.	Cambiar a cuerpo a cuerpo||se hace de forma automática||al poner el cursor sobre los enemigos.
-#TutorialCombatRoll:	Use {0} correctly timed||to avoid damage completely.	Usa {0} en el momento justo||para evitar todo el daño.
-#ShortTravelLocationUndiscovered:	Undiscovered	Sin descubrir
-#QuickLoadConfirm:	Load latest savegame?	¿Cargar última partida guardada?
-#QuestionImportSaveGamesFromDemo:	Import savegames from demo?	¿Importar partida de la demo?
-#Template:	Template	Plantilla
-#Camera:	Camera	Cámara 
-#UserInterface:	User Interface	Interfaz de usuario
-#MovementUp:	Movement Up	Movimiento Arriba
-#MovementDown:	Movement Down	Movimiento Abajo
-#MovementLeft:	Movement Left	Movimiento Izquierda
-#MovementRight:	Movement Right	Movimiento Derecha
-#Shoot:	Shoot	Disparar
-#Roll:	Roll	Rodar
-#Block:	Block	Bloquear
-#ActiveTargeting:	Ranged combat targeting	Apuntar con arma a distancia
-#FreeLook:	Free Look	Cámara libre
-#NextMeleeWeapon:	Next Melee Weapon	Arma cuerpo a cuerpo siguiente
-#PreviousMeleeWeapon:	Previous Melee Weapon	Arma cuerpo a cuerpo anterior
-#NextRangedWeapon:	Next Ranged Weapon	Arma a distancia siguiente
-#PreviousRangedWeapon:	Previous Ranged Weapon	Arma a distancia anterior
-#NextWeapon:	Next Weapon	Arma siguiente
-#PreviousWeapon:	Previous Weapon	Arma anterior
-#InputBindingStats:	Stats	Estadísticas
-#HighlightAllActions:	Highlight all objects	Resaltar todos los objetos
-#NextAbility:	Next Ability	Siguiente habilidad
-#Quickload:	Quickload	Carga rápida
-#CompareItemsToolTip:	Compare Items	Comprar objetos
-#WindowNavigationLeft:	Window Navigation Left	Navegación de ventana izquierda
-#WindowNavigationRight:	Window Navigation Right	Navegación de ventana derecha
-#SecondaryWindowNavigationRight:	Secondary Window Navigation Right	Navegación de ventana secundaria derecha
-#SecondaryWindowNavigationLeft:	Secondary Window Navigation Left	Navegación de ventana secundaria izquierda
-#EarlyAccess:	Early Access	Acceso anticipado
-#InDevelopment:	In Development	En desarrollo
+#GamepadManager:	Controller Manager	Aginte-kontrola
+#GamepadManagerDefault:	Default	Defektuz
+#GamepadManagerInControl:	InControl	Kontrolean
+#GamepadManagerUnityInputSystem:	Unity Input	Unity-ren input-a
+#TutorialDynamicWeaponSwitchRanged:	Hold targeting button {0} to switch to ranged combat.	Sakatuta mantendu {0} urrutiko armen moduan jartzeko
+#TutorialDynamicWeaponSwitchMelee:	Switching back to melee||happens automatically||on cursor over combat enemies.	Buruz buruko borroka modura aldatzeko||automatikoki egiten da||kursorea etsaien gainean jartzean.
+#TutorialCombatRoll:	Use {0} correctly timed||to avoid damage completely.	Erabili {0} momentu aproposean||kalte guztia saihesteko.
+#ShortTravelLocationUndiscovered:	Undiscovered	Deskubritu gabe
+#QuickLoadConfirm:	Load latest savegame?	Gordetako azken partida kargatu?
+#QuestionImportSaveGamesFromDemo:	Import savegames from demo?	Demo-aren partida inportatu?
+#Template:	Template	Txantiloia
+#Camera:	Camera	Kamera
+#UserInterface:	User Interface	Erabiltzaile-interfazea
+#MovementUp:	Movement Up	Gorantz mugitu
+#MovementDown:	Movement Down	Beherantz mugitu
+#MovementLeft:	Movement Left	Ezkerrerantz mugitu
+#MovementRight:	Movement Right	Eskumarantz mugitu
+#Shoot:	Shoot	Tiro egin
+#Roll:	Roll	Txiribuelta eman (kroketa)
+#Block:	Block	Blokeatu
+#ActiveTargeting:	Ranged combat targeting	Urrutirako armaz apuntatzea
+#FreeLook:	Free Look	Kamera librea
+#NextMeleeWeapon:	Next Melee Weapon	Buruz buruko hurrengo arma
+#PreviousMeleeWeapon:	Previous Melee Weapon	Buruz buruko aurreko arma
+#NextRangedWeapon:	Next Ranged Weapon	Urrutirako hurrengo arma
+#PreviousRangedWeapon:	Previous Ranged Weapon	Urrutirako aurreko arma
+#NextWeapon:	Next Weapon	Hurrengo arma
+#PreviousWeapon:	Previous Weapon	Aurreko arma
+#InputBindingStats:	Stats	Estatistikak
+#HighlightAllActions:	Highlight all objects	Objektu guztiak nabarmentzea
+#NextAbility:	Next Ability	Hurrengo trebetasuna
+#Quickload:	Quickload	Karga azkarra
+#CompareItemsToolTip:	Compare Items	Objektuak erostea
+#WindowNavigationLeft:	Window Navigation Left	Ezkerreko leihoaren nabigazioa
+#WindowNavigationRight:	Window Navigation Right	Eskuineko leihoaren nabigazioa
+#SecondaryWindowNavigationRight:	Secondary Window Navigation Right	Bigarren mailako eskuineko leihoaren nabigazioa
+#SecondaryWindowNavigationLeft:	Secondary Window Navigation Left	Bigarren mailako ezkerreko leihoaren nabigazioa
+#EarlyAccess:	Early Access	Sarbide aurreratua
+#InDevelopment:	In Development	Garatzen
 #Quicksave:	Quicksave	Guardado Rápido
 #AdditionalChallengesExtraText:	These challenges are intended for players that already know the game and want some additional challenges on top. You shouldn't use them on your first playthrough.	Estos desafíos son para los jugadores que ya conocen el juego y quieren sufrir un poco más. No deberías usarlos en tu primera partida.
 #MemorizedFastTravelLocation:	Memorized location	Ubicación memorizada
