@@ -498,106 +498,106 @@ Language Id:	Basque
 #FeedbackNameDescription:	Your name / nickname	Zure izena / ezizena
 #FeedbackContentDescription:	Feedback / Bug Description	Feedback / Errorearen deskribapena
 #FeedbackSentSuccessfully:	Feedback sent successfully	Feedback-a ondo bidali da.
-#FeedbackSending:	Sending...	Enviando...
-#FeedbackNote:	Press {0} anytime||to report feedback & bugs.	Pulsa {0} en cualquier momento||para enviar comentarios
-#PartyMustStayTogether:	You need to stay together	Tenéis que permanecer unidos
-#LocalCoopMode:	Local Co-Op Mode	Modo cooperativo local
-#LocalCoopModeSharedScreen:	Shared Screen	Pantalla compartida
-#LocalCoopModeSplitScreen:	Split Screen	Pantalla dividida
-#ShowDirectory:	Show Export Directory	Mostrar directorio de exportaciones
-#SaveAndContinue:	Save and Continue	Guardar y continuar
-#WaitOnOtherPlayer:	Please wait	Por favor, espera
-#UseSecondScreen:	Second Screen	Segunda pantalla
-#QuickLoadNotAllowedNow:	Loading not possible	No se puede cargar
-#DemoDisclaimer:	You might experience bugs and||work in progress features.||||The final version will contain more locations and story, more combat variations and non-combat gameplay.	Es posible que experimentes errores y||fallos por la versión anticipada.||||La versión final contendrá más ubicaciones e historia, más variedad de combate y cosas por descubrir.
-#LoggedInAs:	Logged in:	Conectado como:
-#HeadWearable:	Head	Cabeza
-#ClothColor:	Cloth Color	Color de ropa
-#Services:	Services	Servicios
-#Doctor:	Doctor	Doctor
-#WillHealFully:	Will heal fully.	Te curará completamente.
-#LocationTutorialHubFirstLevel:	Awakening	Despertar
-#AskOverwriteProfile:	Overwrite Profile?	¿Sobreescribir perfil?
-#SinceLastSave:	since latest Savegame	último guardado
-#Skill:	Skill	Habilidad
-#Attribute:	Attribute	Atributo
-#MindWarpPrompt:	{0} Mindwarp	{0} salto de mente
-#MindNodeChallenge:	Challenge	Desafío
-#MindWarpHostile:	Hostile	Hostil
-#Thought:	Thought	Pensamiento
-#Knowledge:	Knowledge	Conocimiento
+#FeedbackSending:	Sending...	Bidaltzen...
+#FeedbackNote:	Press {0} anytime||to report feedback & bugs.	Sakatu {0} edozein unetan||iruzkinak bidaltzeko
+#PartyMustStayTogether:	You need to stay together	Elkarrekin egon behar duzue
+#LocalCoopMode:	Local Co-Op Mode	Kooperatibo-modu lokala
+#LocalCoopModeSharedScreen:	Shared Screen	Pantaila partekatua
+#LocalCoopModeSplitScreen:	Split Screen	Pantaila zatitua
+#ShowDirectory:	Show Export Directory	Esportazioen direktorioa erakutsi
+#SaveAndContinue:	Save and Continue	Gorde eta jarraitu
+#WaitOnOtherPlayer:	Please wait	Mesedez, itxaron
+#UseSecondScreen:	Second Screen	Bigarren pantaila
+#QuickLoadNotAllowedNow:	Loading not possible	Ezin da kargatu
+#DemoDisclaimer:	You might experience bugs and||work in progress features.||||The final version will contain more locations and story, more combat variations and non-combat gameplay.	Baliteke akatsak izatea eta||akatsak aldez aurreko bertsioa dela eta.||||Azken bertsioak kokapen eta historia gehiago izango ditu, borroka-mota gehiago eta aurkitu beharreko gauzak gehiago.
+#LoggedInAs:	Logged in:	Konektatuta:
+#HeadWearable:	Head	Burua
+#ClothColor:	Cloth Color	Arroparen kolorea
+#Services:	Services	Zerbitzuak
+#Doctor:	Doctor	Doctorea
+#WillHealFully:	Will heal fully.	Erabat sendatuko zaitu.
+#LocationTutorialHubFirstLevel:	Awakening	Esnatzea
+#AskOverwriteProfile:	Overwrite Profile?	Profila aldatu?
+#SinceLastSave:	since latest Savegame	Gordetako azken partida
+#Skill:	Skill	Trebetasuna
+#Attribute:	Attribute	Atributua
+#MindWarpPrompt:	{0} Mindwarp	{0} adimen jauzia
+#MindNodeChallenge:	Challenge	Erronka
+#MindWarpHostile:	Hostile	Etsaia
+#Thought:	Thought	Pentsamendua
+#Knowledge:	Knowledge	Ezagutza
 #MindWarpRewardTaken:		
-#LocationNewDelphi:	New Delphi	Nueva Delphi
-#PoisonEffect:	Poison	Veneno
-#SinceSaving:	since saving	último guardado
-#SavedOn:	Saved on:	Guardado el:
-#PlayerNotYetSelfAware:	You don't have enough awareness yet.	No tienes suficiente percepción
-#NotEnoughAwareness:	Not enough awareness	No hay suficiente percepción
-#SkillChance:	Success	Éxito
-#LocationFleshCrater:	Flesh Crater	Cráter de carne
-#NoLoreEntries:	No Entries	Sin entradas
-#LoreCodex:	Knowledge	Conocimiento
-#Memorize:	Memorize	Memorizar
-#Memorizing:	Memorizing...	Memorizando...
-#HelpTextCloseOneButton:	Close {0}	Cerrar {0}
-#VirtualWorldModule:	Cyberwomb Module	Módulo de útero cibernético
-#DoRestart:	Restart	Reiniciar
-#RestartQuestion:	Abandon current game||and restart?	¿Abandonar la partida actual||y reiniciar?
-#QuestionOverwriteSavegame:	Overwrite Savegame?	¿Sobreescribir partida?
-#AutomaticItemSorting:	Automatic Inventory Sorting	Organización de inventario automática
-#DebugConsoleHelp:	<size=16><b>Common Commands</b></size>||||Invulnerable||Unstuck||Item||Level Hub||||<size=16><b>In-game Shortcuts</b></size>||||Shortcuts can be enabled by using the Console Command <i>Enable Debug Shortcuts</i>.||||F7   Toggle showing Hitboxes (WIP)||F8   Toggle Slow Motion Time||<size=14>Set Slow Motion speed through Console: <i>Set Slow Motion Time Scale</i></size>	<size=16><b>Comandos estándar</b></size>||||Invulnerable||Desatascar||Objeto||Level Hub||||<size=16><b>Atajos de juego</b></size>||||Los atajos se pueden activar en la consola de comandos <i>Activar comandos debug</i>.||||F7   Activar mostrar Hitboxes (WIP)||F8   Activar modo lento||<size=14>Puedes poner la velocidad del modo lento en la consola: <i>Activar escala de modo lento</i></size>
-#FeedbackFormAdditionalHelp:	Can be called from anywhere	Se puede usar en cualquier parte
+#LocationNewDelphi:	New Delphi	Delphi Berria
+#PoisonEffect:	Poison	Pozoia
+#SinceSaving:	since saving	gorde zenetik
+#SavedOn:	Saved on:	Gordeta:
+#PlayerNotYetSelfAware:	You don't have enough awareness yet.	Ez duzu nahikoa pertzepzio
+#NotEnoughAwareness:	Not enough awareness	Ez dago pertzepzio nahikorik
+#SkillChance:	Success	Arrakasta
+#LocationFleshCrater:	Flesh Crater	Haragi-kraterra
+#NoLoreEntries:	No Entries	Sarrerarik gabe
+#LoreCodex:	Knowledge	Ezagutza
+#Memorize:	Memorize	Buruz ikasi
+#Memorizing:	Memorizing...	Ikasten...
+#HelpTextCloseOneButton:	Close {0}	Itxi {0}
+#VirtualWorldModule:	Cyberwomb Module	Umetoki zibernetikoaren modulua
+#DoRestart:	Restart	Berrabiarazi
+#RestartQuestion:	Abandon current game||and restart?	Partida utzi||eta berriz hasi?
+#QuestionOverwriteSavegame:	Overwrite Savegame?	Aurreko partidaren gainean idatzi?
+#AutomaticItemSorting:	Automatic Inventory Sorting	Inbentario automatikoki antolatu
+#DebugConsoleHelp:	<size=16><b>Common Commands</b></size>||||Invulnerable||Unstuck||Item||Level Hub||||<size=16><b>In-game Shortcuts</b></size>||||Shortcuts can be enabled by using the Console Command <i>Enable Debug Shortcuts</i>.||||F7   Toggle showing Hitboxes (WIP)||F8   Toggle Slow Motion Time||<size=14>Set Slow Motion speed through Console: <i>Set Slow Motion Time Scale</i></size>	<size=16><b>Komando estandarrak</b></size>||||Garaitezina||Libratu||Objektua||Hub Maila||||<size=16><b>Joko-lasterbideak</b></size>||||Lasterbideak komandoen kontsolan aktiba daitezke <i>Aktibatu debug komandoak</i>.||||F7 Aktibatu Hitbox-ak (WIP)||F8 Aktibatu modu geldoa||<size=14>Abiadura modu motelean jar dezakezu kontsolan: <i>Aktibatu eskala modu geldoan</i></size>
+#FeedbackFormAdditionalHelp:	Can be called from anywhere	Edonon erabil daiteke
 #MinimapUsage:	Map	Mapa
-#MinimapUsageToggle:	Toggle	Activar
-#MinimapUsageHoldPressed:	Hold Pressed	Mantén pulsado
-#FeedbackProcessingData:	Gathering data...	Reuniendo datos...
-#LeftControl:	Ctrl Left	Ctrl Izq
-#RightControl:	Ctrl Right	Ctrl Drch
-#LeftShift:	Shift Left	Shift Izq
-#RightShift:	Shift Right	Shift Drch
-#NoQuickItemLeft:	Item missing	Objeto faltante
-#AssignActionBar:	Equip	Equipar
-#NoWeapons:	None	Nada
-#NoAbilities:	None	Nada
-#Select:	Select	Seleccionar
-#ActionWheelWeapons:	Equipped Weapons	Armas equipadas
-#ActionWheelItems:	Equipped Items	Objetos equipados
-#ActionWheelAbilities:	Equipped Abilities	Habilidades equipadas
-#ActionSelection:	Equipment	Equipo
-#StealthOrStance:	Stealth	Sigilo
-#InventoryBody:	Body	Cuerpo
-#LocationOldTrees:	Old Trees	Árboles viejos
-#TutorialActionSelectionMouse:	Select Equipment||{0}	Seleccionar equipo||{0}
-#TutorialActionSelectionGamepad:	Select Equipment||{0} and {1} and {2}	Seleccionar equipo||{0} y {1} y {2}
-#Or:	or	o
-#LocationTheWall:	The Wall	El muro
-#WillGrantExperiencePoints:	Grants {0} experience points.	Otorga {0} puntos de experiencia.
-#Consume:	Consume	Consumir
-#Implants:	Implants	Implantes
-#AlreadyOwnsItem:	You own this one already	Ya tienes esto
-#QuestTaskVisitCyberwomb:	Use a Cyberwomb machine	Usar máquina de útero cibernético
-#MemorizeButton:	{0} Memorize	{0} Memorizar
-#PlayerMissingCraftingKnowledge:	Missing crafting knowledge.	Falta conocimiento de fabricación.
-#Book:	Book	Libro
-#TutorialHealthSelect:	Select Nano Health {0}	Seleccionar nano salud {0}
-#LearnedPerkMessage:	Learned:	Aprendido:
-#EnergyRestored:	Focus Energy restored	Energía de enfoque restaurada
-#SecondaryAbility:	Mode Ability	Modo de habilidad
-#PassiveTrait:	Passive	Pasiva
-#MainAbility:	Active Ability	Habilidad activa
-#TutorialStealthPickUpItem:	Pick up the Stealth module	Recoge el módulo de sigilo
-#TutorialStealthEquipItem:	Equip the Stealth module	Equipa el módulo de sigilo
-#TutorialNavigateToBodyInventoryTabMouse:	Click on the Body Tab	Haz click en la pestaña de cuerpo
-#TutorialNavigateToBodyInventoryTabController:	Open Body Inventory {0}{1}	Abre el inventario de tu cuerpo {0}{1}
-#LocationTitansHead:	Titans Head	Cabeza de titán
-#LocationTitansHeart:	Titans Heart	Corazón de titán
-#LocationTitansGuts:	Titans Guts	Tripas de titán
-#LostItemMessage:	Lost:	Perdido:
-#EnergyAlreadyFull:	Focus Energy already full	Energía de enfoque ya está llena
-#Utilities:	Gadgets	Artilugios
-#HighlightAllToggle:	Toggle	Activar
-#HighlightAllAlways:	Always	Siempre
-#HighlightAllHoldPressed:	Hold Pressed	Mantener presionado
+#MinimapUsageToggle:	Toggle	Aktibatu
+#MinimapUsageHoldPressed:	Hold Pressed	Eduki sakatuta
+#FeedbackProcessingData:	Gathering data...	Datuak biltzen...
+#LeftControl:	Ctrl Left	Ctrl Ezk
+#RightControl:	Ctrl Right	Ctrl Esk
+#LeftShift:	Shift Left	Shift Ezk
+#RightShift:	Shift Right	Shift Esk
+#NoQuickItemLeft:	Item missing	Falta den objektua
+#AssignActionBar:	Equip	Ekipatu
+#NoWeapons:	None	Ezer ez
+#NoAbilities:	None	Ezer ez
+#Select:	Select	Hautatu
+#ActionWheelWeapons:	Equipped Weapons	Ekipatutako armak
+#ActionWheelItems:	Equipped Items	Ekipatutako objektuak
+#ActionWheelAbilities:	Equipped Abilities	Ekipatutako trebetasunak
+#ActionSelection:	Equipment	Taldea
+#StealthOrStance:	Stealth	Isilean ibili
+#InventoryBody:	Body	Gorputza
+#LocationOldTrees:	Old Trees	Zuhaitz zaharrak
+#TutorialActionSelectionMouse:	Select Equipment||{0}	Taldea hautatu||{0}
+#TutorialActionSelectionGamepad:	Select Equipment||{0} and {1} and {2}	Hautatu ekipoa||{0} eta {1} eta {2}
+#Or:	or	edo
+#LocationTheWall:	The Wall	Horma
+#WillGrantExperiencePoints:	Grants {0} experience points.	{0} esperientzia-puntu ematen ditu.
+#Consume:	Consume	Kontsumitu
+#Implants:	Implants	Inplanteak
+#AlreadyOwnsItem:	You own this one already	Dagoeneko badaukazu
+#QuestTaskVisitCyberwomb:	Use a Cyberwomb machine	Umetoki zibernetikoko makina erabili
+#MemorizeButton:	{0} Memorize	{0} Buruz ikasi
+#PlayerMissingCraftingKnowledge:	Missing crafting knowledge.	Fabrikazio-ezagutza falta da.
+#Book:	Book	Liburua
+#TutorialHealthSelect:	Select Nano Health {0}	Aukeratu osasun Nano-a {0}
+#LearnedPerkMessage:	Learned:	Ikasitakoa:
+#EnergyRestored:	Focus Energy restored	Ikuspegi energia berreskuratuta
+#SecondaryAbility:	Mode Ability	Trebetasun-modua
+#PassiveTrait:	Passive	Pasiboa
+#MainAbility:	Active Ability	Trebetasuna aktibatuta
+#TutorialStealthPickUpItem:	Pick up the Stealth module	Isilean ibiltzeko modulua jasotzen du
+#TutorialStealthEquipItem:	Equip the Stealth module	Isilean ibiltzeko modulua ekipatzen du
+#TutorialNavigateToBodyInventoryTabMouse:	Click on the Body Tab	Egin klik Gorputzaren Fitxan
+#TutorialNavigateToBodyInventoryTabController:	Open Body Inventory {0}{1}	Gorputzaren inbentarioa ireki {0}{1}
+#LocationTitansHead:	Titans Head	Titan-burua
+#LocationTitansHeart:	Titans Heart	Titanaren bihotza
+#LocationTitansGuts:	Titans Guts	Titanaren tripak
+#LostItemMessage:	Lost:	Galduta:
+#EnergyAlreadyFull:	Focus Energy already full	Fokuratzeko energia beteta dago
+#Utilities:	Gadgets	Tramankuluak
+#HighlightAllToggle:	Toggle	Aktibatu
+#HighlightAllAlways:	Always	Beti
+#HighlightAllHoldPressed:	Hold Pressed	Sakatuta mantendu
 #StatsNotAvailable:	Not available.	No disponible
 #StealthDescription:	Influences how fast other characters discover you.||Increases Backstabbing Damage: {0} *	Influye que tan rápido te descubren otros personajes.||Aumenta el daño de la puñalada: {0} *
 #LocationGodhuntersPrisonMiddle:	Godhunters' Prison	Prisión de Cazadioses
