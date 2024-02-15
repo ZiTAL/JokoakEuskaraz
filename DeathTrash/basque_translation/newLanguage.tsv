@@ -998,106 +998,106 @@ SEQUENCE FleshKraken
 #124:	No, I don't think so.	Ez, ez dut uste.
 #125:	PONDERING.	PENTSATZEA.
 #122:	Alright. Let's do this.	Ongi da. Goazen egitera.
-#137:	Good luck, Fleshface.	Buena suerte, caracarne.
-#139:	Thank you. Chances are high I might need that.	Gracias. Es bastante probable que nos haga falta.
-#145:	EATING.	COMER.
-#146:	PROCESSING.	PROCESAR.
-#147:	Ok. I'll leave you to it for now.	Ok. Te dejaré tranquilo por ahora.
-#168:	Hey, do you know how to talk to the flesh that's growing everywhere?	Oye, ¿sabes hablar con la carne que crece por todas partes?
-#169:	STRONG VOICE.	VOZ FUERTE.
-#172:	Can you show me how?	¿Puedes enseñarme a hacerlo?
-#173:	PONDERING. SEEING.	PENSAR. OBSERVAR.
-#174:	KNOWING.	CONOCER.
-#179:	A sudden awareness of past and recent experiences washes over you.	Una ráfaga repentina de experiencias pasadas y recientes te invade.
+#137:	Good luck, Fleshface.	Zorte on, OKELA-ARPI.
+#139:	Thank you. Chances are high I might need that.	Mila esker. Ziur aski behar izango dut.
+#145:	EATING.	JATEA.
+#146:	PROCESSING.	PROZESATU.
+#147:	Ok. I'll leave you to it for now.	Ados. Oraingoz lasai utziko zaitut.
+#168:	Hey, do you know how to talk to the flesh that's growing everywhere?	Txo, badakizu hortik dabiltzan haragi zatiekin hitz egiten?
+#169:	STRONG VOICE.	AHOTS SENDOA.
+#172:	Can you show me how?	Irakatsiko didazu?
+#173:	PONDERING. SEEING.	PENTSATZEN. BEGIRATZEN.
+#174:	KNOWING.	EZAGUTZEN.
+#179:	A sudden awareness of past and recent experiences washes over you.	Iraganean gertatutako esperientziaren bat bapatean datorkizu.
 ------------------------------------------		
 SEQUENCE FleshKrakenCaretaker		
-#3:	Hey. Who are you? What are you doing here?	Oye, ¿quién eres? ¿Qué estás haciendo aquí?
-#2:	Could ask you the same.	Podría preguntarte lo mismo.
-#4:	I live here and guard the Fleshkraken. Now, WHAT are you doing here?	Vivo aquí y protejo al kraken de carne. Ahora. ¿QUÉ haces tú aquí?
-#75:	[Say nothing.]	[No decir nada.]
-#41:	Will... will you hurt me?	¿Me... me harás daño?
-#70:	[Say nothing.]	[No decir nada.]
-#77:	Please don't attack me. I'm not hurting anyone. I'm just taking care of the Fleshkraken.	Por favor, no me ataques. No le hago daño a nadie. Tan solo cuido del kraken.
-#76:	[Leave.]	[Marcharse.]
-#80:	Don't you feel alone here?	¿No te sientes solo aquí?
-#81:	I... I do. Sometimes.	Yo... sí. A veces.
-#82:	The Fleshkraken is my friend. But he doesn't talk much.	El kraken es mi amigo, aunque no habla demasiado.
-#85:	And I wish there were more people around here.	Desearía que hubiese más gente por aquí.
-#86:	But it's important that someone takes care of the Kraken. So I'll just stay here.	Pero es importante que alguien se ocupe del kraken. Por lo que me quedo aquí.
-#87:	I'm alright. Don't worry. But thanks for asking.	Estaré bien. No te preocupes pero gracias por preguntar.
-#16:	About your Fleshkraken...	Sobre ese kraken de carne...
-#18:	It's not mine. Look, you can talk to him, if you want.	No es mío. Mira, puedes hablar con él si quieres.
-#19:	He's a bit moody these days.	Aunque está un poco malhumorado estos días.
-#58:	The Kraken needs friends.	El kraken necesita amigos.
-#59:	You think? I mean, he's stuck here. I suppose he might like to have someone to talk to other than me.	¿Tú crees? Quiero decir, está atrapado aquí. Supongo que quiere hablar con alguien más que no sea yo.
-#60:	He can't get out?	¿No puede marcharse?
-#61:	No, and I don't know how they got him in there in the first place. I just... I just take care of him.	No, y no tengo ni idea de cómo llegó aquí en primer lugar. Yo... yo solo me encargo de él.
-#62:	Do you know of other beings that are similar to him?	¿Conoces a algún ser que sea parecido a él?
-#64:	I heard rumours. About an eye as big as a house. And mountains of flesh. But I don't know where they are.	He oído rumores acerca de un ojo tan grande como una casa y montañas de carne. Pero no tengo ni idea de donde están.
-#90:	Maybe you could ask around Tauris. It's to the east of here.	Quizás podrías preguntar por Tauris. Está al este de aquí.
-#47:	I would, if I had any weapon.	Yo lo haría, si tuviese un arma.
-#55:	Oh shit!	¡Oh, mierda!
-#48:	Yes.	Sí.
-#43:	No.	No.
-#45:	Phew. I'm glad. I won't hurt you either. I just care for the Fleshkraken.	Buff. Me alegro. Yo tampoco te haré ningún daño. Tan solo me ocupo del kraken de carne.
-#37:	I came from back there. The facility.	Vengo de ese lugar de ahí. Esa instalación.
-#39:	You came through the door? That's working?	¿De esa puerta? ¿Funciona?
-#38:	Apparently. You know about the machines down there?	Aparentemente. ¿Sabes algo de esas máquinas?
-#40:	No. Didn't know there were any.	No. No sabía qué había ninguna.
-#88:	You can stay here if you want. I don't mind.	Puedes quedarte aquí si quieres. No me importa.
-#54:	Go away. Leave me, you bastard.	Vete. Déjame en paz. Bastardo.
+#3:	Hey. Who are you? What are you doing here?	Nor zara? Zertan ari zara hemen?
+#2:	Could ask you the same.	Gauza bera galdetuko nizuke.
+#4:	I live here and guard the Fleshkraken. Now, WHAT are you doing here?	Hemen bizi naiz eta haragizko krakena babesten dut, eta... Zuk, Zer egiten duzu hemen?
+#75:	[Say nothing.]	[Ez esan ezer.]
+#41:	Will... will you hurt me?	Min egingo al didazu?
+#70:	[Say nothing.]	[Ez esan ezer.]
+#77:	Please don't attack me. I'm not hurting anyone. I'm just taking care of the Fleshkraken.	Mesedez, ez nazazu eraso. Ez diot inori minik egiten. Krakena zaintzen dut.
+#76:	[Leave.]	[Joan.]
+#80:	Don't you feel alone here?	Ez al zara hemen bakarrik sentitzen?
+#81:	I... I do. Sometimes.	Ni... Bai. Batzuetan.
+#82:	The Fleshkraken is my friend. But he doesn't talk much.	Krakena nire laguna da, baina ez du gehiegi hitz egiten.
+#85:	And I wish there were more people around here.	Hemen jende gehiago egotea nahiko nuke.
+#86:	But it's important that someone takes care of the Kraken. So I'll just stay here.	Baina garrantzitsua da norbait krakenaz arduratzea. Beraz, hemen geratuko naiz.
+#87:	I'm alright. Don't worry. But thanks for asking.	Ondo egongo naiz. Ez kezkatu, baina eskerrik asko galdetzeagatik.
+#16:	About your Fleshkraken...	Haragizko kraken horri buruz...
+#18:	It's not mine. Look, you can talk to him, if you want.	Ez da nirea. Nahi baduzu, hitz egin berarekin.
+#19:	He's a bit moody these days.	Baina egunotan apur bat haserre dago, kasu!
+#58:	The Kraken needs friends.	Krakenak lagunak behar ditu.
+#59:	You think? I mean, he's stuck here. I suppose he might like to have someone to talk to other than me.	Zuk uste? Hemen harrapatuta dago. Uste dut beste norbaitekin hitz egin nahi duela, ez nirekin.
+#60:	He can't get out?	Ezin al du hemen alde egin?
+#61:	No, and I don't know how they got him in there in the first place. I just... I just take care of him.	Ez, eta ez dakit nola iritsi zen hona. Ni... ni arduratuko naiz.
+#62:	Do you know of other beings that are similar to him?	Ezagutzen al duzu haren antzeko izakirik?
+#64:	I heard rumours. About an eye as big as a house. And mountains of flesh. But I don't know where they are.	Etxe baten tamainako begi handi bati buruzko zurrumurruak entzun ditut, eta haragizko mendei buruz ere bai. Baina ez dakit non dauden.
+#90:	Maybe you could ask around Tauris. It's to the east of here.	Agian Tauris-etik galde zenezake. Ekialderantz dago.
+#47:	I would, if I had any weapon.	Armaren bat banu, egingo nuke.
+#55:	Oh shit!	KAKA ZAHARRA!
+#48:	Yes.	Bai.
+#43:	No.	Ez.
+#45:	Phew. I'm glad. I won't hurt you either. I just care for the Fleshkraken.	Buff. Eskerrak! Nik ere ez dizut kalterik egingo. Haragi-krakenaz bakarrik arduratzen naiz.
+#37:	I came from back there. The facility.	Hortik nator. Instalaziotik.
+#39:	You came through the door? That's working?	Ate horretatik? Badabil ala?
+#38:	Apparently. You know about the machines down there?	Itxura batean. Badakizu ezer hor behean dauden makinei buruz?
+#40:	No. Didn't know there were any.	Ez. Ez nekien horrelakorik zeudenik.
+#88:	You can stay here if you want. I don't mind.	Hemen gera zaitezke nahi baduzu. Ez zait axola.
+#54:	Go away. Leave me, you bastard.	Zoaz. Utzi bakean. SEP! (SEGIZAK ETA EMANTZAK PAKEA)
 ------------------------------------------		
 SEQUENCE MachineWithMachineCore		
-#8:	I already took what I wanted.	Ya tengo lo que quería.
-#3:	Nothing to do here anymore.	No queda nada que hacer aquí.
-#15:	Looks like I can open the machine and grab the insides.	Parece que puedo abrir la máquina y tomar lo que hay dentro.
-#10:	[Leave]	[Marcharse]
-#9:	[Take the Machine Core]	[Extraer el núcleo de la máquina]
-#14:	I have it.	Lo tengo.
-#24:	Probably useful.	Será útil.
-#17:	That might be the Machine Core I was looking for.	Puede que sea el núcleo que estaba buscando.
+#8:	I already took what I wanted.	Badaukat nahi nuena.
+#3:	Nothing to do here anymore.	Hemen ez dago zereginik.
+#15:	Looks like I can open the machine and grab the insides.	Ematen du makina ireki nezakeela eta barruan dagoena hartu.
+#10:	[Leave]	[Joan]
+#9:	[Take the Machine Core]	[Makinaren nukleoa atera]
+#14:	I have it.	Badaukat.
+#24:	Probably useful.	Erabilgarria izango da.
+#17:	That might be the Machine Core I was looking for.	Baliteke bilatzen ari naizen nukleoa izatea.
 ------------------------------------------		
 SEQUENCE NakedMan		
-#3:	Hey, old man.	Oye, anciano.
-#2:	Hahaha. Look at you. Wearing clothes, so serious and all.	Jajaja. Mírate, llevando toda esa ropa. Tan formal y eso.
-#62:	You having a good day?	¿Estás teniendo un buen día?
-#84:	The best.	El mejor.
-#79:	Here, look at my dancing skills...	Mira, échale un vistazo a mis habilidades de baile...
-#81:	It's how I celebrate the sun.	Es la forma de celebrar al sol.
-#103:	Now, off you go.	Ahora, márchate.
-#39:	Maybe you're interested in a big, meaty friend?	¿Quizás te interese tener un amigo grande y carnoso?
-#41:	Ohhh. You mean that big flesh monster in that temple over there?	Ohhh. ¿Te refieres a ese enorme monstruo de carne en el templo de ahí?
-#43:	Nah. Not interested in any relationship with it.	No. No tengo interés en tener relación con eso.
-#58:	I mean... clothes are very practical.	Quiero decir... las ropas son muy prácticas.
-#60:	Uhhh. Like I said, serious.	Uhhh. Como he dicho, formal.
-#59:	[Say nothing]	[No decir nada]
-#19:	Hey, I am not interested.	Oye, no me interesa.
-#20:	Please leave me alone now.	Vete y déjame solo.
-#29:	I'm leaving.	Me marcho.
-#30:	That's good. Privacy is important.	Bien. La privacidad es importante.
-#23:	Do you need help with anything?	¿Necesitas ayuda con algo?
-#28:	Nah. I don't need any help.	Nah. Estoy bien.
-#110:	Oh, nice. A fellow traveler.	Ah, estupendo. Un compañero de viaje.
-#116:	People over here are a bit weird though.	La gente de por aquí es bastante rarita.
-#118:	I was looking for some food, but they only serve raw meat. Blergh.	Estaba buscando algo de comer, aquí solo sirven carne cruda. Blergh.
-#120:	Back to eating plants and dirt, I guess.	Volveré a comer plantas y tierra, supongo.
-#122:	Ah well, see ya.	Ah, bueno. Nos vemos.
-#111:	Hey, welcome to my humble abode.	Hola, bienvenido a mi humilde morada.
-#124:	I thought this place looked nice.	Pensaba que este lugar se vería bien.
-#125:	Maybe I'll begin decorating it.	Quizás comience a decorarlo.
+#3:	Hey, old man.	TXO, agure ostidxe.
+#2:	Hahaha. Look at you. Wearing clothes, so serious and all.	Karkarkar. Arropa horrekin. Oso formal.
+#62:	You having a good day?	Eguna ondo al doakizu?
+#84:	The best.	Onena.
+#79:	Here, look at my dancing skills...	Begira, begira nola dantzantzen dudan EZPATADANTZA...
+#81:	It's how I celebrate the sun.	Eguzkia ospatzeko modua da.
+#103:	Now, off you go.	Orain, alde hemendik, papau.
+#39:	Maybe you're interested in a big, meaty friend?	Lagun handi eta haragitsu bat nahi al duzu?
+#41:	Ohhh. You mean that big flesh monster in that temple over there?	Ohhh. Horko tenpluko haragi-munstro handi horretaz ari al zara?
+#43:	Nah. Not interested in any relationship with it.	Ez. Ez dut interesik horrekin harremanik izateko.
+#58:	I mean... clothes are very practical.	Esan nahi dut... arropak oso praktikoak dira.
+#60:	Uhhh. Like I said, serious.	Uhhh. Uhhh. Esan dudan bezala, formala.
+#59:	[Say nothing]	[Ez esan ezer]
+#19:	Hey, I am not interested.	Txo, ez zait interesatzen.
+#20:	Please leave me alone now.	Zoaz eta utz nazazu bakarrik. SEP
+#29:	I'm leaving.	Banoa.
+#30:	That's good. Privacy is important.	Ongi. Pribatutasuna garrantzitsua da.
+#23:	Do you need help with anything?	Laguntzarik behar al duzu?
+#28:	Nah. I don't need any help.	Ez. Ez dut laguntzarik behar.
+#110:	Oh, nice. A fellow traveler.	A, primeran. Bidelagun bat.
+#116:	People over here are a bit weird though.	Hemengo jendea nahiko arraroa da.
+#118:	I was looking for some food, but they only serve raw meat. Blergh.	Jateko zerbaiten bila nenbilen, hemen haragi gordina bakarrik zerbitzatzen dute. NAZKA.
+#120:	Back to eating plants and dirt, I guess.	Suposatzen dut... landareak eta lurra jango ditudala berriz.
+#122:	Ah well, see ya.	Beno txo. Gero arte.
+#111:	Hey, welcome to my humble abode.	Kaixo, ongi etorri nire etxera.
+#124:	I thought this place looked nice.	Leku hau ondo egongo zela uste nuen.
+#125:	Maybe I'll begin decorating it.	Agian apaintzen hasiko naiz.
 ------------------------------------------		
 SEQUENCE PompousQueen		
-#50:	*rumble*	*retumba*
-#51:	The Titan inspects you.	El titán te inspecciona.
-#52:	But you do not hear any words.	Pero no escuchas ninguna palabra.
-#35:	Welcome back, child.	Bienvenido de vuelta, pequeño.
-#37:	[Leave]	[Marcharse]
-#38:	Well, I should better continue with my travels.	Bueno, debería continuar mi viaje.
-#26:	Trinity Mistress of Fornication?	¿Trinidad amante de la fornicación?
-#27:	That title was easy to get, really. Played well to my personal strengths.	Ese título realmente fue fácil de conseguir, en serio. Aproveche mis habilidades personales.
-#28:	So how do you...	Entonces como...
-#29:	Ah, subject, that's an easy ploy to detect.	Ah, súbdito. Eso es una trampa fácil de detectar.
-#30:	You're trying to make me all fuzzy by talking about fornication, only to get into my bed and then brag a lifetime long how you humped mighty Queen Margas.	Intentas confundirme hablando de fornicar solo para meterte en mi cama y pavonearte de que te has acostado con la poderosa Reina Margas.
+#50:	*rumble*	*KRISTON BURRUNDAIE*
+#51:	The Titan inspects you.	Titan-ak ikuskatzen zaitu.
+#52:	But you do not hear any words.	Baina ez duzu hitzik entzuten.
+#35:	Welcome back, child.	Ongi etorri, txiki.
+#37:	[Leave]	[Joan]
+#38:	Well, I should better continue with my travels.	Nire bidaia jarraitu beharko nuke.
+#26:	Trinity Mistress of Fornication?	Larrua jotearen Trinitate Anderea?
+#27:	That title was easy to get, really. Played well to my personal strengths.	Titulu hori lortzea benetan erraza izan zen, benetan. Aprobetxatu nire trebetasun pertsonalak.
+#28:	So how do you...	Orduan zelan...
+#29:	Ah, subject, that's an easy ploy to detect.	A, jopu hori. Antzemateko tranpa erraza da.
+#30:	You're trying to make me all fuzzy by talking about fornication, only to get into my bed and then brag a lifetime long how you humped mighty Queen Margas.	Ni nahasten saiatzen ari zara nire ohean sartzeko eta Margas erregina ahaltsuarekin oheratu zarela esateko. LIZUN HALAKOA!
 #31:	That won't do. Can't have sex with everyone who wanders by.	No servirá. No puedo tener sexo con cualquiera que pase.
 #33:	At least not today.	Al menos, hoy no.
 #6:	Do you have a king?	¿Tienes un rey?
