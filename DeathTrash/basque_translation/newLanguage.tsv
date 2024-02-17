@@ -1798,40 +1798,40 @@ SEQUENCE Aksa
 #158:	Hmmh.	Hmm.
 #160:	Yeah, that could work.	Bai, funtziona lezake.
 #161:	It's a world config container. We can build a Cyberwomb module from that.	Konfigurazio orokorreko edukiontzi bat da. Horretarako, umetoki zibernetikoko modulu bat egin genezake.
-#165:	Hand it over to the Master Processor over there.	Dásela al procesador maestro.
-#137:	Will do.	Lo haré.
-#106:	You have returned.	Has vuelto.
+#165:	Hand it over to the Master Processor over there.	Emaiozu prozesadore nagusiari.
+#137:	Will do.	Egingo dut.
+#106:	You have returned.	Itzuli zara.
 ------------------------------------------		
 SEQUENCE Aksa_AfterCyberwomb		
-#25:	Welcome back.	Bienvenido de vuelta.
-#44:	Have you found the Oracle?	¿Has encontrado al Oráculo?
-#45:	No luck, yet.	No ha habido suerte, todavía.
-#27:	What now?	¿Y ahora qué?
-#29:	You have to find the Oracle before the Feeder does.	Tienes que encontrar al Oráculo antes de que lo haga el Comedor.
-#32:	Our best bet of discovering the Oracle is to ask around at a busy place.	Nuestra mejor oportunidad es preguntar por el Oráculo en sitios con mucha gente.
-#33:	Travel south to the Puke Bar and ask around there.	Ve al sur al bar Vómito y pregunta por ahí.
-#37:	Oh, and I know there's a Cyberwomb in the Puke Bar, too.	Oh, además sé que hay un útero cibernético allí.
-#38:	You'll find a power module for it in the underground here in Old Trees.	Encontrarás un módulo de energía para ello en el subterráneo de los Viejos Árboles.
-#39:	And I'll give you this virtual representation of Old Trees, and we use this as a meeting point.	Te daré esta representación virtual de los Viejos Árboles, podemos usarlo como lugar de encuentro.
-#40:	The Cyberwombs in the Puke Bar and the one here in Old Trees are connected.	Los úteros cibernéticos del bar Vómito y los Viejos Árboles están conectados.
-#41:	Good luck.	Buena suerte.
-#42:	Thank you. Bye.	Gracias, hasta luego.
+#25:	Welcome back.	Ongi etorri.
+#44:	Have you found the Oracle?	Orakulua aurkitu al duzu?
+#45:	No luck, yet.	Oraindik ez dut zorterik izan.
+#27:	What now?	Eta orain zer?
+#29:	You have to find the Oracle before the Feeder does.	Orakulua aurkitu behar duzu Tripontziak aurkitu baino lehen.
+#32:	Our best bet of discovering the Oracle is to ask around at a busy place.	Gure aukerarik onena jende asko dagoen lekuetan Orakuluagatik galdetzea da.
+#33:	Travel south to the Puke Bar and ask around there.	Zoaz hegoaldera OKA tabernara eta galdetu hortik.
+#37:	Oh, and I know there's a Cyberwomb in the Puke Bar, too.	Gainera, badakit umetoki zibernetiko bat dagoela han.
+#38:	You'll find a power module for it in the underground here in Old Trees.	Horretarako energia modulu bat aurkituko duzu Zuhaitz Zaharren lurpean.
+#39:	And I'll give you this virtual representation of Old Trees, and we use this as a meeting point.	Zuhaitz Zaharren irudikapen birtual hau emango dizut, topaleku gisa erabil dezakegu.
+#40:	The Cyberwombs in the Puke Bar and the one here in Old Trees are connected.	OKA tabernako umetoki zibernetikoak eta Zuhaitz Zaharrak konektatuta daude.
+#41:	Good luck.	Zorte on.
+#42:	Thank you. Bye.	Eskerrik asko, gero arte.
 ------------------------------------------		
 SEQUENCE Aksa_Cyberwomb_Philosopher		
-#16:	My old friend...	Viejo amigo...
-#17:	It's been a while since I was here.	Ha pasado tiempo desde la última vez.
-#3:	Where are we, exactly?	¿Dónde estamos exactamente?
-#4:	This is a Cyberwomb of the Philosopher's Lair.	Es un útero cibernético de la Guarida del Filósofo.
-#5:	A near as possible representation, I guess.	O una representación semejante, supongo.
-#6:	Our bodies are safe while we're in here, right?	Nuestros cuerpos están a salvo mientras estemos aquí, ¿verdad?
-#8:	Yes.	Sí.
-#9:	It's a full virtual sensory experience like the Omniwomb. Nothing happens to your real bodies.	Es una experiencia virtual sensorial como la del Omniútero. Nada le ocurrirá a nuestros cuerpos.
-#10:	Oh, good to know.	Es bueno saberlo.
-#11:	So what do we do here?	¿Entonces qué hacemos aquí?
-#12:	We're examining the remnants of the Philosopher. Let's explore.	Examinar los restos del Filósofo. Vamos a echar un vistazo.
-#19:	The Feeder...	El Comedor.
-#20:	Yeah, I heard it.	Sí, lo he oído.
-#21:	Let's return to the physical world.	Volvamos al mundo físico.
+#16:	My old friend...	Laguntxo...
+#17:	It's been a while since I was here.	Denbora igaro da azkenekoz geroztik.
+#3:	Where are we, exactly?	Zehazki... non gaude?
+#4:	This is a Cyberwomb of the Philosopher's Lair.	Filosofoaren Gordelekuko umetoki zibernetikoa da.
+#5:	A near as possible representation, I guess.	Edo halako antzezpen bat, nik uste.
+#6:	Our bodies are safe while we're in here, right?	Gure gorputzak salbu daude hemen gauden bitartean, ezta?
+#8:	Yes.	Bai.
+#9:	It's a full virtual sensory experience like the Omniwomb. Nothing happens to your real bodies.	Esperientzia birtual sentsoriala da, Omni-uterokoa bezalakoa. Gure gorputzei ez zaie ezer gertatuko.
+#10:	Oh, good to know.	Ona da jakitea.
+#11:	So what do we do here?	Orduan, zer egingo dugu hemen?
+#12:	We're examining the remnants of the Philosopher. Filosofoaren hondarrak aztertu. Goazen begiratzera.
+#19:	The Feeder...	Tripontzia.
+#20:	Yeah, I heard it.	Bai, entzun dut.
+#21:	Let's return to the physical world.	Itzul gaitezen mundu fisikora.
 ------------------------------------------		
 SEQUENCE AnimalComment		
 #6:	*hiss*	*bufa*
@@ -1840,164 +1840,164 @@ SEQUENCE AnimalComment
 #3:	Kchr.	Kchr.
 ------------------------------------------		
 SEQUENCE BigFleshwormTamingOnFail		
-#2:	Initiator: Fail	Iniciador: Falla
-#3:	Target:Fail	Objetivo: Falla
+#2:	Initiator: Fail	Abiarazlea: Errorea
+#3:	Target:Fail	Helburua: Errorea
 ------------------------------------------		
 SEQUENCE BigFleshwormTamingOnSuccess		
-#2:	Initiator: Success	Iniciador: Éxito
-#3:	Target: Success	Objetivo: Éxito
+#2:	Initiator: Success	Abiarazlea: Ondo
+#3:	Target: Success	Helburua: Ondo
 ------------------------------------------		
 SEQUENCE BleedingHeadOracle		
-#20:	Welcome, **forename**.	Bienvenido, **forename**.
-#21:	You're here now.	Ya estás aquí.
+#20:	Welcome, **forename**.	Ongi etorri, **forename**.
+#21:	You're here now.	Orain hemen zaude.
 ------------------------------------------		
 SEQUENCE BleedingHeadOracleFleshDream		
-#6:	Who approaches me?	¿Quién se me acerca?
-#7:	A seeker? ... A hunter?	¿Un buscador?... ¿Un cazador?
-#9:	Who are you?	¿Quién eres?
-#12:	And where am I?	¿Y dónde estoy?
-#10:	I am the Guidance of Thoughts.	Soy la guía de tus pensamientos.
-#15:	I am the Voice of Nexus.	La voz del Nexo.
-#16:	I am the Oracle.	Soy el Oráculo.
-#14:	I can sense you're afar. But you're on Nexus. You're part of our Nexus.	Puedo sentir que estás lejos. Pero estás en el Nexo. Eres parte de nuestro Nexo.
-#18:	You have to help me, **forename**!	¡Tienes que ayudarme, **forename**!
-#23:	How do you know my name?	¿Cómo sabes mi nombre?
-#31:	You're a worm shaman, right?	Eres un chamán de gusanos, ¿verdad?
-#38:	And I am in need.	Y necesito ayuda.
-#25:	I can feel his pulse. He's in search of me.	Puedo sentir su pulso. Me está buscando.
-#17:	You have to get me out of here before he finds me.	Tienes que sacarme de aquí antes de que me encuentre.
-#27:	How would I get you out of here?	¿Cómo te saco de ahí?
-#30:	I... I don't know.	Yo... no lo sé.
-#33:	Get me out of here.	Sácame de aquí.
-#37:	Help me!	¡Ayúdame!
+#6:	Who approaches me?	Nor hurbiltzen ari zait?
+#7:	A seeker? ... A hunter?	Bilatzaileren bat?... Ehiztariren bat?
+#9:	Who are you?	Nor zara?
+#12:	And where am I?	Eta non nago?
+#10:	I am the Guidance of Thoughts.	Zure pentsamenduen gidaria naiz.
+#15:	I am the Voice of Nexus.	Nexo-ren ahotsa.
+#16:	I am the Oracle.	Orakulua naiz.
+#14:	I can sense you're afar. But you're on Nexus. You're part of our Nexus.	Urrun zaudela senti dezaket. Baina Nexoan zaude. Gure Nexoaren parte zara.
+#18:	You have to help me, **forename**!	Lagundu behar nauzu, **forename**!
+#23:	How do you know my name?	Nola dakizu nire izena?
+#31:	You're a worm shaman, right?	Zizare-xamana zara, ezta?
+#38:	And I am in need.	Eta laguntza behar dut.
+#25:	I can feel his pulse. He's in search of me.	Bere pultsua senti dezaket. Nire bila dabil.
+#17:	You have to get me out of here before he finds me.	Hemendik atera behar nauzu aurkitu baino lehen.
+#27:	How would I get you out of here?	Nola aterako zaitut hortik?
+#30:	I... I don't know.	Ba... ez dakit.
+#33:	Get me out of here.	Atera nazazu hemendik.
+#37:	Help me!	Lagundu!
 ------------------------------------------		
 SEQUENCE BlindCultistDialogue		
-#2:	Stop!	¡Alto!
-#9:	One move and I'll shoot you, straight in your noggin'.	Si te mueves te pego un tiro gusto en la cara.
-#15:	[Stand still]	[Quedarse quieto]
-#25:	Just where the hell are you?	¿Dónde diablos estás?
-#14:	[Step away quietly]	[Retroceder en silencio]
-#27:	Must 'ave been nothing.	Seguramente no sea nada.
-#10:	I'm over here.	Estoy aquí.
+#2:	Stop!	Geldi!
+#9:	One move and I'll shoot you, straight in your noggin'.	Mugitzen bazara, gustura tirokatuko zaitut aurpegian.
+#15:	[Stand still]	[Geldi egon]
+#25:	Just where the hell are you?	Non ostia zaude?
+#14:	[Step away quietly]	[Isilik atzera egin]
+#27:	Must 'ave been nothing.	Ziur aski, ez da ezer izango.
+#10:	I'm over here.	Hemen nago.
 #11:	Ah!	¡Ah!
-#12:	You! Don't scare me like that!	¡Tú! ¡No me des esos sustos!
-#28:	Damn bots 'ave stolen my eyes.	Esos malditos robots me robaron los ojos.
-#30:	[Stand still]	[Quedarse quieto]
-#33:	What? Where are you?	¿Qué? ¿Dónde estás?
-#34:	I must be goin' crazy down 'ere.	Debo estar loco.
-#31:	[Step away quietly]	[Retroceder en silencio]
-#32:	They stole your eyes?	¿Te robaron los ojos?
-#35:	Yes.	Sí.
-#36:	Ripped 'em straight outta the sockets. Up an' away they were.	Arrancados de mis jodidas cuencas. Se largaron con ellos.
-#37:	What do they want with your eyes?	¿Por qué quieren tus ojos?
-#38:	Hell if I know.	Joder, y yo qué sé.
-#39:	I've been stuck down 'ere ever since.	He estado atrapado aquí desde entonces.
-#40:	Know what, stranger.	¿Sabes qué, extraño?
-#41:	I think they took 'em upstairs.	Creo que los llevaron arriba.
-#42:	Lead me to 'em an' I'll make it worth your time.	Llévame hasta ellos y te recompensare.
-#44:	[Stand still]	[Quedarse quieto]
-#47:	Hey! Don't you dare leavin' me alone down here.	¡Oye! No te atrevas a dejarme aquí.
-#48:	You know what: Take this!	¿Sabes qué? ¡Toma esto!
-#45:	[Step away Quietly]	[Retroceder en silencio]
-#46:	Sure thing. Just follow me.	Desde luego. Sígueme.
-#122:	Not just yet.	Todavía no.
-#126:	We gotta lock the exits first, so those bastards can't escape.	Tenemos que cerrar las salidas primero, esos bastardos no pueden escapar.
-#127:	I fell over a lever somewhere nearby a couple of days ago.	Tropecé con una palanca por aquí hace unos días.
-#128:	That's gotta do something.	Debe de hacer algo.
-#89:	I'm followin' the sound of your steps.	Seguiré el sonido de tus pasos.
-#173:	Eyes? Do you mean these?	¿Ojos? ¿Te refieres a éstos?
-#175:	You already got 'em? You're good.	¿Ya los tienes? Realmente, eres bueno.
-#176:	Now let me have 'em. I'll give you somethin' in return too.	Deja que me los ponga. Te daré algo a cambio.
-#180:	[Stand Still]	[Quedarse quieto]
-#193:	Hey, Don't leave me hangin'.	Oye, no me dejes aquí.
-#179:	[Step Away Quietly]	[Retroceder en silencio]
-#190:	I just heard you walkin' away, didn't I.	Acabo de oír como retrocedes, ¿a qué sí?
-#192:	Tryin' to sneak off with my eyes, are you?	¿Intentando largarte con mis ojos, eh?
-#177:	Sure.	Claro.
-#181:	Here you are.	Aquí tienes.
-#182:	Great. Now let me put 'em back in.	Estupendo, deja que los coloque.
-#184:	Ah yes. I can see again.	Ah, sí. Puedo ver de nuevo.
-#185:	You look worse than I imagined.	Eres más feo de lo que imaginaba.
-#186:	But I did offer you somethin' in return, didn't I? Here, take this.	Pero te prometí algo a cambio, ¿cierto? Aquí tienes.
-#198:	Thanks.	Gracias.
-#201:	Ok. Goodbye then. Takin' a rest first.	Vale, adiós entonces. Aunque primero un descansito.
-#131:	We gotta lock the exits first, so those bastards can't escape.	Debemos bloquear las salidas primero, así no podrán escapar.
-#132:	I fell over a lever somewhere nearby a couple of days ago.	Tropecé con una palanca por aquí hace unos días.
-#133:	That's gotta do something.	Debe de hacer algo.
-#94:	Doors locked? Great, let's leave.	¿Puertas cerradas? Bien, vamos.
-#61:	My eyes.	Mis ojos.
-#62:	One of 'em bots upstairs still gotta carry 'em.	Uno de esos robots todavía debe tenerlos.
-#63:	Just kill everything that moves - gotta find 'em somehow.	Tan solo acaba con lo que se mueva, debemos encontrarlos en algún lado.
-#149:	[Leave]	[Marcharse]
-#163:	Could you take out your gun again?	¿Podrías desenfundar tu arma?
-#164:	I need you to be ready, just in case.	Necesito que estés preparado, por si acaso.
-#165:	So you finally came back to your senses. Good.	Por fin has entrado en razón, bien.
-#152:	Could you hide your weapon?	¿Podrías enfundar tu arma?
-#153:	You crazy? 'ave them bots taken your brain now?	¿Estás loco? ¿Acaso los robots te han robado el cerebro?
-#154:	Just trust me on this one.	Confía en mi.
-#155:	If you say so. But I hear just a beep of somethin' not bein' right, and I'll get it out again.	Si tu lo dices. Pero si oigo algún pitido pienso sacarla de nuevo.
-#167:	Could you stay here for a while?	¿Podrías esperar aquí un momento?
-#168:	I'll go check out the area ahead.	Iré a ver que hay delante.
-#169:	And then you run away with the eyes?	¿Para que huyas con mis ojos?
-#170:	No way. I know your type.	De eso nada, conozco a tu calaña.
-#171:	I trust you no further than the length of my barrel.	No confío en ti más que en el tamaño de mi arma.
-#60:	You got my eyes, right?	¿Tienes mis ojos, verdad?
-#67:	[Stand Still]	[Quedarse quieto]
-#88:	Hey, Don't leave me hangin'.	Oye, no me dejes aquí.
-#66:	[Step Away Quietly]	[Retroceder en silencio]
-#79:	I just heard you walkin' away, didn't I.	He oído como retrocedes, ¿a que sí?
-#87:	Tryin' to sneak off with my eyes, are you?	¿Tratando de huir con mis ojos, eh?
-#64:	Yeah.	Sí.
-#68:	Here they are.	Aquí tienes.
-#69:	Great. Now let me put 'em back in.	Genial. Deja que me los vuelva a colocar.
-#72:	Ah yes. I can see again.	Ah, sí. Puedo ver otra vez.
-#73:	You look worse than I imagined.	Eres más feo de lo que imaginaba.
-#74:	But I did offer you somethin' in return, didn't I? Here, take this.	Pero te ofrecí algo a cambio, ¿verdad? Toma, aquí tienes.
-#141:	Thanks.	Gracias.
-#145:	Ok. Goodbye then. Takin' a rest first.	Vale, nos vemos. Haré un descanso primero.
-#85:	Piss off, ya monster.	Lárgate ya, bicho.
-#59:	Now that I can see again, it sure looks bleak around 'ere.	Ahora que puedo volver a ver desde luego esto está desolado. 
+#12:	You! Don't scare me like that!	Txo! ia bihotzekoak eman dit!
+#28:	Damn bots 'ave stolen my eyes.	Robot gaizto horiek begiak lapurtu zizkidaten.
+#30:	[Stand still]	[Geldi egon]
+#33:	What? Where are you?	Zer? Non zaude?
+#34:	I must be goin' crazy down 'ere.	Erotzen hasi naizelakoan nago.
+#31:	[Step away quietly]	[Isilik atzera egin]
+#32:	They stole your eyes?	Begiak lapurtu al zizkizuten?
+#35:	Yes.	Bai.
+#36:	Ripped 'em straight outta the sockets. Up an' away they were.	Nire begi zulo putetatik erauziak. 
+#37:	What do they want with your eyes?	Zergatik nahi dituzte zure begiak?
+#38:	Hell if I know.	Joder, eta nik zer ostia dakit.
+#39:	I've been stuck down 'ere ever since.	Geroztik hemen nago, harrapatuta.
+#40:	Know what, stranger.	Badakizu zer?
+#41:	I think they took 'em upstairs.	Uste dut gora eraman zituztela.
+#42:	Lead me to 'em an' I'll make it worth your time.	Eraman nazazu haiengana eta sarituko zaitut.
+#44:	[Stand still]	[Geldi egon]
+#47:	Hey! Don't you dare leavin' me alone down here.	Txo! Ez ausartu ni hemen uztera!
+#48:	You know what: Take this!	Badakizu zer? Tori hau!
+#45:	[Step away Quietly]	[Isilik atzera egin]
+#46:	Sure thing. Just follow me.	Bai horixe. Niri jarraitu.
+#122:	Not just yet.	Oraindik ez.
+#126:	We gotta lock the exits first, so those bastards can't escape.	Lehenik irteerak itxi behar ditugu, putakume horiek ezin dute ihes egin.
+#127:	I fell over a lever somewhere nearby a couple of days ago.	 Duela egun batzuk, palanka batekin estropezatu nintzen.
+#128:	That's gotta do something.	Zerbait egingo du.
+#89:	I'm followin' the sound of your steps.	Zure pausuen zarata jarraituko dut.
+#173:	Eyes? Do you mean these?	Begiak? Hauetaz ari al zara?
+#175:	You already got 'em? You're good.	Badauzkazu? Benetan, ona zara.
+#176:	Now let me have 'em. I'll give you somethin' in return too.	Utzi jartzen. Zerbait emango dizut trukean.
+#180:	[Stand Still]	[Geldi egon]
+#193:	Hey, Don't leave me hangin'.	Txo, ez nazazu hemen utzi.
+#179:	[Step Away Quietly]	[Isilik atzera egin]
+#190:	I just heard you walkin' away, didn't I.	Atzera egin duzula entzun dut.
+#192:	Tryin' to sneak off with my eyes, are you?	Nire begiekin alde egin nahian, ezta?
+#177:	Sure.	Noski.
+#181:	Here you are.	Hemen duzu.
+#182:	Great. Now let me put 'em back in.	Primeran, utzi ipintzen.
+#184:	Ah yes. I can see again.	Ah, bai. Berriro ikus nezake.
+#185:	You look worse than I imagined.	Uste baino itsusiagoa zara.
+#186:	But I did offer you somethin' in return, didn't I? Here, take this.	Baina zerbait agindu nizun trukean, ezta? Hemen duzu.
+#198:	Thanks.	Mila esker.
+#201:	Ok. Goodbye then. Takin' a rest first.	Ados, agur orduan. Baina lehenik atseden hartuko dut.
+#131:	We gotta lock the exits first, so those bastards can't escape.	Irteerak blokeatu behar ditugu. Horrela ezingo dute ihes egin.
+#132:	I fell over a lever somewhere nearby a couple of days ago.	Duela egun batzuk, palanka batekin estropezatu nintzen.
+#133:	That's gotta do something.	Zerbait egin behar du.
+#94:	Doors locked? Great, let's leave.	Ateak itxita? Tira, goazen.
+#61:	My eyes.	Nire begiak.
+#62:	One of 'em bots upstairs still gotta carry 'em.	Robot horietako batek oraindik eduki behar ditu.
+#63:	Just kill everything that moves - gotta find 'em somehow.	Mugitzen dena bakarrik suntsitzen du, zeozelan aurkitu behar ditugu.
+#149:	[Leave]	[Joan]
+#163:	Could you take out your gun again?	Arma atera al zenezake?
+#164:	I need you to be ready, just in case.	Prest egon behar zara, badaezpada.
+#165:	So you finally came back to your senses. Good.	Azkenean zure senera bueltatu zara.
+#152:	Could you hide your weapon?	Zure arma gorde dezakezu?
+#153:	You crazy? 'ave them bots taken your brain now?	Erotuta zaude? Robotek burmuina lapurtu al dizute?
+#154:	Just trust me on this one.	Fidatu nitaz.
+#155:	If you say so. But I hear just a beep of somethin' not bein' right, and I'll get it out again.	Zuk esaten baduzu. Baina zarataren bat entzuten badut, berriro aterako dut.
+#167:	Could you stay here for a while?	Itxaron zenezake hemen une batez?
+#168:	I'll go check out the area ahead.	Aurrerago zer dagoen ikustera noa.
+#169:	And then you run away with the eyes?	Nire begiekin ihes egiteko?
+#170:	No way. I know your type.	Ez, ezagutzen ditut zurelako jendillajea.
+#171:	I trust you no further than the length of my barrel.	Nire armaren tamainaz haratago ez naiz zutaz fio.
+#60:	You got my eyes, right?	Nire begiak dituzu, ezta?
+#67:	[Stand Still]	[Geldi egon]
+#88:	Hey, Don't leave me hangin'.	Txo, ez nazazu hemen utzi.
+#66:	[Step Away Quietly]	[Isilik atzera egin]
+#79:	I just heard you walkin' away, didn't I.	Atzera egin duzula entzun dut, ezta?
+#87:	Tryin' to sneak off with my eyes, are you?	Nire begiekin ihes egin nahian, ezta?
+#64:	Yeah.	Bai.
+#68:	Here they are.	Hemen duzu.
+#69:	Great. Now let me put 'em back in.	Primeran. Utzi berriro jartzen.
+#72:	Ah yes. I can see again.	Ah, bai. Berriro ikus nezake.
+#73:	You look worse than I imagined.	Uste baino itsusiagoa zara.
+#74:	But I did offer you somethin' in return, didn't I? Here, take this.	Baina zerbait eskaini nizun trukean, ezta? Tori, hemen duzu.
+#141:	Thanks.	Mila esker.
+#145:	Ok. Goodbye then. Takin' a rest first.	Ados, ikusiko dugu elkar. Lehenik atsedena hartuko dut.
+#85:	Piss off, ya monster.	Ospa, mustro halakoa.
+#59:	Now that I can see again, it sure looks bleak around 'ere.	Orain, berriz ikus dezakedala, dena suntsituta dagoela ematen du.
 ------------------------------------------		
 SEQUENCE BlindCultistEnterCombatDialogue		
-#15:	Don't think I'm useless just cause my eyes are missing.	No creas que soy inútil solo por que me faltan los ojos.
-#14:	Lemme take care of 'em.	Deja que me ocupe de ellos.
-#13:	Don't worry, I'm 'ere to help.	No te preocupes. Estoy para ayudar.
-#11:	Come 'ere, wanker!	¡Ven aquí, capullo!
-#9:	Motherfucker!	¡Hijo de puta!
-#10:	Bastard!	¡Bastardo!
+#15:	Don't think I'm useless just cause my eyes are missing.	Ez pentsa begiak falta zaizkidalako ezer egiteko gai ez naizenik.
+#14:	Lemme take care of 'em.	Utzidazu beraietaz arduratzen.
+#13:	Don't worry, I'm 'ere to help.	Ez kezkatu. Laguntzeko nago.
+#11:	Come 'ere, wanker!	Erdu hona, PAPAU!
+#9:	Motherfucker!	PUTAKUMEA!
+#10:	Bastard!	ZITAL ALENA!
 ------------------------------------------		
 SEQUENCE BlindCultistFollowerComments		
-#15:	When I can see again, imma get the best piece of meat I can find.	Cuando pueda ver de nuevo voy a pillar el mejor trozo de carne que pueda encontrar.
-#14:	Damn bots.	Malditos robots.
-#12:	You hear that?	¿Lo oyes?
-#13:	Neither do I.	Yo tampoco.
-#16:	What did the bots take away from me again?	¿Qué me han quitado los robots ahora?
-#17:	Legs still 'ere...	Las piernas están...
-#18:	Feelin' good with my arms...	Siento los brazos...
-#19:	Oh right, my eyes. Still can't see shit.	Ah, claro. Los ojos. Todavía no veo una mierda.
-#11:	Are we walkin' in circles?	¿Estamos caminando en círculos?
-#9:	Is that a wall in front of me?	¿Es eso una pared delante de mí?
-#10:	Ah, no, it isn't.	Ah, no. No lo es.
-#7:	I can see somethin'.	Puedo ver algo.
-#8:	Wait, no. Still blind.	Espera, no. Sigo ciego.
-#3:	Don't wait for me. I can smell where you are from all over.	No me esperes. Puedo oler dónde estás desde cualquier lado.
-#6:	Walkin' my legs is nice.	Caminar es agradable para mis piernas.
-#4:	I may be blind, but I sure like the atmosphere.	Puede que esté ciego, pero no me gusta este ambiente.
-#5:	Try bein' less loud. Them bots will immediately know where we are.	Intenta hacer menos ruido. Los robots sabrán que estamos aquí.
+#15:	When I can see again, imma get the best piece of meat I can find.	Berriro ikusteko gai naizenean, haragi zatirik onena harrapatuko dut.
+#14:	Damn bots.	Ama putien robotak!
+#12:	You hear that?	Entzuten al duzu?
+#13:	Neither do I.	Nik ere ez.
+#16:	What did the bots take away from me again?	Zer kenduko didate robotek oraingoan?
+#17:	Legs still 'ere...	Hankak oraindik hemen dauzkat...
+#18:	Feelin' good with my arms...	Besoak... sentitzen ditut...
+#19:	Oh right, my eyes. Still can't see shit.	A, bai. Begiak. Oraindik ez dut ostirik ere ez ikusten.
+#11:	Are we walkin' in circles?	Zirkuluetan bueltaka al gabilz?
+#9:	Is that a wall in front of me?	Nire aurrean pareta al dago?
+#10:	Ah, no, it isn't.	Ah, ez. Ez da.
+#7:	I can see somethin'.	Zerbait ikus dezaket.
+#8:	Wait, no. Still blind.	Itxaron, ez. Itsua naiz...
+#3:	Don't wait for me. I can smell where you are from all over.	Ez itxaron. Edonondik usaindu zaitzaket non zauden jakiteko.
+#6:	Walkin' my legs is nice.	Nire hankentzat oinez ibiltzea atsegina da.
+#4:	I may be blind, but I sure like the atmosphere.	Baliteke itsu egotea, baina giro hau ez zait gustatzen.
+#5:	Try bein' less loud. Them bots will immediately know where we are.	Saiatu zarata gutxiago egiten. Bestela robotek antzemango gaituzte!
 ------------------------------------------		
 SEQUENCE BlindManQuestLever		
-#34:	This lever is stuck.	Está atascada.
-#39:	[Leave]	[Marcharse]
-#41:	Blind Man, can you help me with that?	Oye, ciego. ¿Podrías ayudarme con eso?
-#66:	Hmmh. Didn't hear me.	Hmmm. No me ha escuchado.
-#51:	Is it 'ere?	¿Está aquí?
-#53:	Ready to go? I'll follow your smell.	¿Listo? Seguire tu olor.
-#38:	[Force It]	[Forzarlo]
+#34:	This lever is stuck.	Trabatuta dago.
+#39:	[Leave]	[Joan]
+#41:	Blind Man, can you help me with that?	Txo, DAREDEVIL. Lagunduko zenidake?
+#66:	Hmmh. Didn't hear me.	Hmmm. Ez dit entzun.
+#51:	Is it 'ere?	Hemen al dago?
+#53:	Ready to go? I'll follow your smell.	Prest? Zure usainari jarraituko diot.
+#38:	[Force It]	[Indarra erabili]
 ------------------------------------------		
 SEQUENCE BlindMansFriend		
-#34:	I'm sure I'll get to hear lots of stories once my friend is back.	Seguro que escucho un montón de historias cuando vuelva mi amigo.
-#30:	Thank you for being such an honest person.	Gracias por ser una persona tan honesta.
-#32:	May the titans bless your heart.	Que los Titanes te bendigan.
+#34:	I'm sure I'll get to hear lots of stories once my friend is back.	Seguru istorio pila bat entzungo ditudala nire laguna itzultzen denean.
+#30:	Thank you for being such an honest person.	Eskerrik asko hain zintzoa izateagatik.
+#32:	May the titans bless your heart.	Titanek bedeinka zaitzatela.
 #28:	Leave, you monster.	Largo de aquí, monstruo.
 #2:	A friend of mine recently decided to travel around more.	Un amigo mío decidió pasar por aquí más a menudo.
 #3:	He's gone to a place called "Mine 19" to the west of here.	Se fue a la "Mina 19" al oeste de aquí.
