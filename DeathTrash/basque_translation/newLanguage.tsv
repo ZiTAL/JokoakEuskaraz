@@ -1183,7 +1183,7 @@ SEQUENCE Mine19LongMachine
 #16:	I can see a conveyor belt.||Empty.	Uhal garraiatzaile* bat ikus dezaket..||Hutsik. *(cinta transportadora)
 ------------------------------------------		
 SEQUENCE Mine19MachineEquipmentRoom		
-#16:	There's some rotating brushes in here. They have trouble turning though.	Biratzen diren eskuila (cepillo) batzuk daude hemen. Baina badirudi arazoak dituztela biratzeko.
+#16:	There's some rotating brushes in here. They have trouble turning though.	Biratzen diren eskuila* batzuk daude hemen. Baina badirudi arazoak dituztela biratzeko. *(cepillo)
 ------------------------------------------		
 SEQUENCE Mine19ToiletCorpse		
 #16:	What a place to kick the bucket.	Hiltzeko leku aproposa, ezta?
@@ -1198,306 +1198,306 @@ SEQUENCE PukeBarFlatsToilet
 #16:	Looks like somebody forgot to flush.	Emate du, baten bati bonba botatzea ahaztu zaiola...
 ------------------------------------------		
 SEQUENCE PukeBarFlatsWardrobe		
-#16:	Oh. It's just some "toys".	Oh. Solo son unos "juguetes".
-#26:	Don't touch that wardrobe!	¡No toques ese armario!
+#16:	Oh. It's just some "toys".	Oh. "Jostailu" batzuk besterik ez dira.
+#26:	Don't touch that wardrobe!	Ez ukitu armairu hori!
 ------------------------------------------		
 SEQUENCE PukeBarPainting		
-#16:	It's art, I guess?	Es arte, ¿supongo?
+#16:	It's art, I guess?	Artea da... ezta?
 ------------------------------------------		
 SEQUENCE TaurisDoctorsBed1		
-#16:	There's some crusty puke on it.	Hay vómito costroso encima.
+#16:	There's some crusty puke on it.	Gonbito zarakartsua* dago gainean. (* costroso)
 ------------------------------------------		
 SEQUENCE TaurisDoctorsBed2		
-#16:	The last patient who slept on this bed clearly had bladder problems.	El último paciente que durmió en esta cama tenía problemas de vejiga.
+#16:	The last patient who slept on this bed clearly had bladder problems.	Ohe honetan lo egin zuen azken pazienteak puxika arazoak zituen.
 ------------------------------------------		
 SEQUENCE TaurisDoctorsToolBench		
-#16:	There's a lot of flasks and trinkets around.	Hay un montón de frascos y cosas por aquí.
+#16:	There's a lot of flasks and trinkets around.	Kristalezko pote eta gauza asko daude hemen.
 ------------------------------------------		
 SEQUENCE TaurisOldHouseBed		
-#16:	It's obvious that nobody has used this bed in years.	Está claro que nadie ha usado esto durante años.
-#22:	The sheets are still clean.	Las sábanas están limpias.
+#16:	It's obvious that nobody has used this bed in years.	Argi dago urteetan inork ez duela hau erabili.
+#22:	The sheets are still clean.	Izarak* garbi daude. *(sábana)
 ------------------------------------------		
 SEQUENCE TaurisTwoFriendsDeskBench		
-#16:	This must have been brought in from one of those old facilities.	Debe de haber salido de una de esas viejas fábricas.
+#16:	This must have been brought in from one of those old facilities.	Fabrika zahar horietako batetik aterako zen.
 ------------------------------------------		
 SEQUENCE TutorialBed		
-#16:	This probably used to be a bed.	Probablemente esto solía ser una cama.
+#16:	This probably used to be a bed.	Ziur aski, hau ohea izango zen.
 ------------------------------------------		
 SEQUENCE TutorialKrakenEmblem		
-#25:	Looks like a monster.	Parece un monstruo.
-#23:	Looks like the Fleshkraken.	Se parece al kraken de carne.
+#25:	Looks like a monster.	Munstroa dirudi.
+#23:	Looks like the Fleshkraken.	Haragi-krakenaren antza du.
 ------------------------------------------		
 SEQUENCE TutorialMachine0		
-#26:	Don't know what this is.	No sé qué es esto.
-#25:	It's active, apparently.	Está encendido, aparentemente.
-#24:	This must have been valuable a long time ago.	Debe haber sido valioso hace mucho tiempo.
-#23:	That's some old tech.	Es tecnología antigua.
+#26:	Don't know what this is.	Ez dakit zer den hau.
+#25:	It's active, apparently.	Piztuta dagoela ematen du.
+#24:	This must have been valuable a long time ago.	Bere garaian baliotsua izango zen.
+#23:	That's some old tech.	Teknologia zaharra da.
 ------------------------------------------		
 SEQUENCE TutorialScienceTable		
-#16:	What is this place?	¿Qué es este lugar?
+#16:	What is this place?	Zer ostia da leku hau?
 ------------------------------------------		
 SEQUENCE TutorialToolBench		
-#16:	There's some broken tools here. Nothing useful though.	Hay algunas herramientas rotas. Nada útil.
+#16:	There's some broken tools here. Nothing useful though.	Tresna batzuk apurtuta daude. Ez dira erabilgarriak.
 ------------------------------------------		
 SEQUENCE TestMachineCoreTogglingStateMachine		
-#13:	This machine is running.	La máquina está encendida.
-#16:	[Leave]	[Marcharse]
-#15:	[Remove Machine Core]	[Quitar Núcleo de Máquina]
-#19:	Alright. Done.	Está bien, hecho.
-#4:	This machine is missing a Machine Core.	A la máquina le falta su núcleo.
-#9:	[Leave]	[Marcharse]
-#7:	[Insert Machine Core]	[Insertar Núcleo de Máquina]
-#12:	Alright. Done.	Está bien, hecho.
+#13:	This machine is running.	Makina piztuta dago.
+#16:	[Leave]	[Joan]
+#15:	[Remove Machine Core]	[Makina-nukleoa Kendu]
+#19:	Alright. Done.	Ongi da. Egina.
+#4:	This machine is missing a Machine Core.	Makinari nukleoa falta zaio.
+#9:	[Leave]	[Joan]
+#7:	[Insert Machine Core]	[Makina-nukleoa txertatu]
+#12:	Alright. Done.	Ongi da. Egina.
 ------------------------------------------		
 SEQUENCE TestStateMachineSolvedUnsolved		
-#6:	Couldn't find states.	No se pueden encontrar estados.
-#5:	It's off.	Está apagado
-#4:	It's on.	Está encendido.
+#6:	Couldn't find states.	Ezin da egoerarik aurkitu.
+#5:	It's off.	Itzalita dago
+#4:	It's on.	Piztuta dago.
 ------------------------------------------		
 SEQUENCE CommentAfterPuking		
-#13:	Fuck.	Joder.
-#4:	Blergh.	Blergh.
-#12:	Shit.	Mierda.
-#8:	*gulp*	*traga*
+#13:	Fuck.	Joder OSTIA.
+#4:	Blergh.	PUAJ.
+#12:	Shit.	KAKA ZAHARRA!
+#8:	*gulp*	* irentsi*
 ------------------------------------------		
 SEQUENCE CommentBoughtItem		
-#58:	Nice making business with you.	Encantado de hacer negocios contigo.
-#57:	Thanks.	Gracias.
-#53:	Nice. Hope you're happy with that.	Estupendo. Espero que sea de tu agrado.
-#61:	That was my favorite one. Use it wisely.	Es mi favorito. Úsalo bien.
-#60:	Don't use that up all at once.	No lo uses todo de golpe.
-#63:	Puke for the Puke God.	Vómito para el dios del vómito.
-#64:	That's not so fresh anymore. I hope you don't mind.	Ya no está fresco. Espero que no te importe.
+#58:	Nice making business with you.	Pozten naiz zurekin negozioak egiteaz.
+#57:	Thanks.	Mila esker.
+#53:	Nice. Hope you're happy with that.	Primeran. Zure gustukoa izatea espero dut.
+#61:	That was my favorite one. Use it wisely.	Nire gogokoena da. Ondo erabili.
+#60:	Don't use that up all at once.	Ez erabili dena bat-batean.
+#63:	Puke for the Puke God.	Gonbitoa gonbitoaren jainkoarentzat.
+#64:	That's not so fresh anymore. I hope you don't mind.	Ez dago fresko. Espero dut ez axolatzea.
 ------------------------------------------		
 SEQUENCE CommentDoorGotClosedInFront		
-#23:	What the fuck?	¿Pero qué cojones?
-#31:	Move it.	Muévete.
-#24:	Hey...	Oye...
-#4:	Damn.	Maldición.
-#29:	Damned door.	Jodida puerta.
-#30:	Fucking door.	Puta puerta.
-#16:	Why isn't this open?	¿Por qué no se abre?
+#23:	What the fuck?	BAINA ZE PUTALARRU!
+#31:	Move it.	Mugitu.
+#24:	Hey...	TXO...
+#4:	Damn.	OSTIDXEK ETA BI HAMABI!
+#29:	Damned door.	ATE OSTIDXE!
+#30:	Fucking door.	AMA PUTIEN ATIE!
+#16:	Why isn't this open?	ZERGAITIK OSTIA EZ DA IREKITZEN???
 ------------------------------------------		
 SEQUENCE CommentDropsItem		
-#49:	Don't need that.	No necesito eso.
-#71:	It's all trash anyway.	Es basura de todas formas.
-#113:	Whatever...	No importa...
-#109:	Fuck this.	A la mierda.
-#36:	Fuck this.	Basura.
-#37:	Fuck that.	A la mierda con esto.
-#34:	Fuck this shit.	Que le den a esto.
-#99:	No need for this shit.	No necesito esta mierda.
+#49:	Don't need that.	Ez dut horren beharrik.
+#71:	It's all trash anyway.	Dena dela, zaborra da.
+#113:	Whatever...	Berdin dio...
+#109:	Fuck this.	POPATIK HARTZERA
+#36:	Fuck this.	KAKA SALTZIEN TIRE
+#37:	Fuck that.	POPATIK HARTZIEN HONEGAZ PUTA MIERDIEGAZ
+#34:	Fuck this shit.	ALTSOIE EMON POPATIK
+#99:	No need for this shit.	EZTOT BEHAR HAU PUTA MIERDIE
 ------------------------------------------		
 SEQUENCE CommentEat		
-#4:	*crunch*	*cruje*
-#8:	*gulp*	*traga*
+#4:	*crunch*	*krakadie*
+#8:	*gulp*	*irentsi*
 ------------------------------------------		
 SEQUENCE CommentEatBlergh		
-#4:	Blergh.	Blergh.
-#8:	*gulp*	*traga*
+#4:	Blergh.	PUAJ.
+#8:	*gulp*	*irentsi*
 ------------------------------------------		
 SEQUENCE CommentGross		
-#12:	Oh my god...	Oh Dios mío...
-#16:	Eww!	¡Qué asco!
-#13:	Blergh.	Blergh.
-#15:	Damn.	Joder.
+#12:	Oh my god...	AI JANGOIKO FRAKAZABALA!
+#16:	Eww!	AH ZE NAZKA!
+#13:	Blergh.	PUAJ.
+#15:	Damn.	OSTIA PUTA!
 #17:	Eew!	¡Eew!
 ------------------------------------------		
 SEQUENCE CommentIdleCultist		
-#15:	*mumbles inaudlible*	*murmura de forma inaudible*
-#18:	Where's a bottle of Schnaps when you need it?	¿Dónde hay una botella de Schnaps cuando la necesitas?
-#26:	Icky.	Asqueroso.
+#15:	*mumbles inaudlible*	*xuxurla entzunezina*
+#18:	Where's a bottle of Schnaps when you need it?	Non dago KALIMOTXO botila bat behar duzunean?
+#26:	Icky.	Nazkagarria.
 #14:	Hmmh.	Hmm.
-#17:	I need a piece of meat.	Necesito un trozo de carne.
-#16:	Fuckin' stones. Always fuckin' stones everywhere.	Malditas piedras. Siempre jodidas piedras por todas partes.
-#24:	*scratch*	*se rasca*
-#30:	Uhhh. I don't feel so well.	Uhhh. No me siento muy bien.
-#21:	That's some serious shit.	Eso parece serio.
-#2:	I wonder where I left my lube.	Me pregunto dónde dejé el lubricante.
-#22:	Well...	Bueno...
-#12:	I'm hungry. Someone should feed me.	Tengo hambre. Alguien debería alimentarme.
-#4:	It's cold today.	Hace frío hoy.
-#13:	I just love this cultist life.	Me encanta esta vida de cultista.
-#27:	I could use some humping.	Me vendría bien follar.
+#17:	I need a piece of meat.	Haragi zati bat behar dut.
+#16:	Fuckin' stones. Always fuckin' stones everywhere.	AMA PUTIEN HARRIDXEK. HARRI OSTIDXEK LEKO DANATATIK TXO!
+#24:	*scratch*	*hazka egiten du*
+#30:	Uhhh. I don't feel so well.	Mmmm. Ez nago oso ondo, ez...
+#21:	That's some serious shit.	Horrek serioa dirudi.
+#2:	I wonder where I left my lube.	Ez dakit non utzi dudan lubrifikatzailea.
+#22:	Well...	Tira...
+#12:	I'm hungry. Someone should feed me.	Gose naiz. Norbaitek elikatu beharko ninduke.
+#4:	It's cold today.	Gaur hotz egiten du.
+#13:	I just love this cultist life.	Asko gustatzen zait kultista bizitza hau.
+#27:	I could use some humping.	Ondo legoke larrua jotzea.
 ------------------------------------------		
 SEQUENCE CommentIdleCultistPrisoner		
-#15:	*mumbles inaudlible*	*murmurra de forma inaudible*
-#18:	I need a drink.	Necesito un trago.
+#15:	*mumbles inaudlible*	*xuxurla entzunezina*
+#18:	I need a drink.	Trago bat behar dut. PATXARANA BADA, HOBETO!
 #14:	Hmmh.	Hmm.
-#24:	*scratch*	*se rasca*
-#21:	That's some serious shit.	Parece serio.
-#12:	The air is getting stale in here.	El aire se está volviendo rancio por aquí.
-#13:	Titans help me.	Titanes, ayudadme.
-#27:	I could use some humping.	Me vendría bien follar.
+#24:	*scratch*	*hazka egiten du*
+#21:	That's some serious shit.	Serioa dirudi.
+#12:	The air is getting stale in here.	Airea garrazten ari da...
+#13:	Titans help me.	Titanok, lagundu mesedez!
+#27:	I could use some humping.	Ondo legoke larrua jotzea.
 ------------------------------------------		
 SEQUENCE CommentIdleCultistPukeBar		
-#15:	*mumbles inaudlible*	*murmurra de forma inaudible*
-#26:	Icky.	Asqueroso.
+#15:	*mumbles inaudlible*	*xuxurla entzunezina*
+#26:	Icky.	Nazkagarria.
 #14:	Hmmh.	Hmm.
-#17:	I need a piece of meat.	Necesito un trozo de carne.
-#24:	*scratch*	*se rasca*
-#30:	Uhhh. I don't feel so well.	Uhhh. No me encuentro muy bien.
-#2:	I wonder where I left my lube.	Me pregunto dónde dejé mi lubricante.
-#22:	Well...	Bueno...
-#12:	I'm hungry. Someone should feed me.	Tengo hambre. Alguien debería darme de comer.
-#27:	I could use some humping.	Me vendría bien follar.
+#17:	I need a piece of meat.	Haragi zati bat behar dut.
+#24:	*scratch*	*hazka egiten du*
+#30:	Uhhh. I don't feel so well.	Mmm. Ez nago oso ondo, ez.
+#2:	I wonder where I left my lube.	Non ostia utziko nuen lubrikatzailea?
+#22:	Well...	Tira...
+#12:	I'm hungry. Someone should feed me.	Gose naiz. Norbaitek jaten eman beharko lidake.
+#27:	I could use some humping.	Ondo legoke larrua jotzea.
 ------------------------------------------		
 SEQUENCE CommentImmediateDanger		
 #8:	Ahhhh!	¡Ahhhh!
-#41:	Blood and bones	Sangre y huesos.
-#43:	Help!	¡Ayuda!
-#36:	Oh boy.	Oh, vaya.
-#7:	Oh no...	Oh, no...
+#41:	Blood and bones	Odola eta hezurrak.
+#43:	Help!	Lagundu!
+#36:	Oh boy.	Oh, hara.
+#7:	Oh no...	Oh, ez...
 #5:	Shit!	¡Joder!
-#6:	Damn.	Maldición.
-#4:	Fuck!	¡Hostias!
-#28:	Holy fuck!	¡Hostia puta!
+#6:	Damn.	KAKA ZAHARRA!
+#4:	Fuck!	OSTIA!
+#28:	Holy fuck!	OSTIDXEK ETA BI HAMABI!
 ------------------------------------------		
 SEQUENCE CommentKilledSomeone		
-#5:	Fuck yes.	Joder, sí.
-#4:	Go to hell!	¡Vete a la mierda!
-#7:	Haha. That was great.	Jaja. Ha sido estupendo.
-#6:	Hahahaha!	¡Jajajajaja!
-#59:	Rest now.	Descansa ahora.
-#60:	This had to be done.	Tenía que hacerse.
-#58:	Sorry.	Lo siento.
+#5:	Fuck yes.	Joder, bai.
+#4:	Go to hell!	Juen kaka saltzien!
+#7:	Haha. That was great.	Karkar. Zoragarria izan da.
+#6:	Hahahaha!	Karkarkarkarkar!
+#59:	Rest now.	Orain atseden hartu.
+#60:	This had to be done.	Egin beharra zegoen.
+#58:	Sorry.	Sentitzen dut.
 #57:	Ergh.	Ergh.
-#56:	The sun takes another.	El sol se lleva a otro.
+#56:	The sun takes another.	Eguzkiak beste bat eramaten du.
 ------------------------------------------		
 SEQUENCE CommentLookOut		
-#6:	Watch!	¡Cuidado!
+#6:	Watch!	KASU! KONTUZ!
 ------------------------------------------		
 SEQUENCE CommentPickedUpItem		
-#46:	That's mine now.	Ahora es mío.
-#57:	Ohhh, this is good.	Ohhh, tiene buena pinta.
-#61:	Great stuff.	Esto es calidad.
-#56:	Well. Alright.	Bueno. Está bien.
-#60:	Alright.	Bueno.
-#45:	That looks useful.	Parece útil.
-#50:	Haha. Nice.	Jaja. Estupendo.
-#40:	Ohhh. Nice.	Ohh. Genial.
-#59:	Great. More junk.	Estupendo. Más basura.
-#6:	That's what I needed.	Lo que necesitaba.
-#5:	That will come in handy.	Me vendrá bien.
-#8:	Can't have enough of those.	Nunca hay demasiado de esto.
-#2:	Nice.	Bien.
-#32:	This looks important.	Parece importante.
-#39:	Come here.	Ven aquí.
-#30:	Come here, cutie.	Mío, mi tesoro.
+#46:	That's mine now.	Orain nirea da.
+#57:	Ohhh, this is good.	Ohhh, itxura ona du.
+#61:	Great stuff.	Hau kalitatea da.
+#56:	Well. Alright.	Beno. Ongi da.
+#60:	Alright.	Ondo da.
+#45:	That looks useful.	Baliagarria dirudi.
+#50:	Haha. Nice.	Karkarkar. Elegante!
+#40:	Ohhh. Nice.	Ohh. Ederto!
+#59:	Great. More junk.	Primeran. Zabor gehiago.
+#6:	That's what I needed.	Behar nuena.
+#5:	That will come in handy.	Ondo etorriko zait.
+#8:	Can't have enough of those.	Inoiz ez da nahikoa.
+#2:	Nice.	Ongi.
+#32:	This looks important.	Garrantzitsua dirudi.
+#39:	Come here.	Zatoz hona.
+#30:	Come here, cutie.	Nirea, nire altxorra.
 ------------------------------------------		
 SEQUENCE CommentSchadenfreude		
 #5:	Hehe.	Jeje.
-#4:	Haha.	Jaja.
-#7:	Haha. That's great.	Jaja. Genial
-#6:	Hahahaha!	¡Jajajaja!
+#4:	Haha.	Karkar.
+#7:	Haha. That's great.	Karkar. Bikain
+#6:	Hahahaha!	Karkarkarkar!
 ------------------------------------------		
 SEQUENCE CommentSellMeat		
-#59:	Fresh meat to sell!	¡Carne fresca a la venta!
-#58:	Tasty meat.	Jugosa carne.
-#57:	Buy your meat over here.	Compra tu carne aquí.
-#56:	Meat.	Carne.
-#4:	Meat!	¡Carne!
-#62:	Uhhh. I don't feel so well.	Uhhh. No me encuentro muy bien.
+#59:	Fresh meat to sell!	Haragi freskoa salgai!
+#58:	Tasty meat.	Haragi mamitsua.
+#57:	Buy your meat over here.	Erosi haragia hemen.
+#56:	Meat.	Haragia.
+#4:	Meat!	Haragia!
+#62:	Uhhh. I don't feel so well.	Uhhh. Ez naiz ondo sentizen...
 ------------------------------------------		
 SEQUENCE CommentSoldItem		
-#53:	Nice. I will find someone for that.	Estupendo. Encontraré a algún interesado.
-#56:	That looks good.	Tiene buena pinta.
-#54:	Thank you.	Gracias.
+#53:	Nice. I will find someone for that.	Primeran. Interesa duen norbait aurkituko dut.
+#56:	That looks good.	Itxura ona du.
+#54:	Thank you.	Mila esker.
 ------------------------------------------		
 SEQUENCE EnterCombat		
-#46:	Fuck no.	Joder, no.
-#48:	Eat shit, motherfucker.	Come mierda, hijo de puta.
-#11:	That was a mistake.	Eso ha sido un error.
-#52:	Bloody hell.	Hostia puta.
-#47:	Fuck yes.	Joder, sí.
+#46:	Fuck no.	Joder, ez.
+#48:	Eat shit, motherfucker.	JAN KAKA. PUTAKUME HALAKOA.
+#11:	That was a mistake.	Hori akatsa izan da.
+#52:	Bloody hell.	Ostia puta.
+#47:	Fuck yes.	Joder, bai.
 #8:	Ahhhh!	¡Ahhhh!
-#49:	Fuck you!	¡Que te jodan!
-#45:	Oh shit!	¡Oh, mierda!
-#36:	Oh boy.	Vaya.
-#7:	Oh no...	Oh, no...
-#5:	Shit!	¡Mierda!
-#6:	Damn.	Maldición.
-#4:	Fuck!	¡Joder!
-#38:	I'll kill you.	Te mataré.
+#49:	Fuck you!	JODIDU PAPAU!
+#45:	Oh shit!	KAKA ZAHARRA!
+#36:	Oh boy.	TXO
+#7:	Oh no...	Oh, ez...
+#5:	Shit!	KAKA ZAHARRA
+#6:	Damn.	OSTIA PUTA
+#4:	Fuck!	Joder TXO!
+#38:	I'll kill you.	Hilko zaitut.
 #37:	Ahhhh!	¡Ahhh!
-#34:	This gonna be hell.	Esto va a ser un infierno.
+#34:	This gonna be hell.	Ondo etorri infernura.
 #39:	Ohhh.	Ohhh.
-#35:	Shit.	Mierda.
-#40:	Oh boy.	Vaya, vaya...
-#28:	Holy fuck!	¡Hostia puta!
-#42:	Bloody hell.	Me cago en todo.
-#50:	Fuck you!	¡Que te jodan!
+#35:	Shit.	KAKA ZAHARRA.
+#40:	Oh boy.	Zer txo?
+#28:	Holy fuck!	Ostia puta!
+#42:	Bloody hell.	OSTIDXEK ETA BI HAMABI!
+#50:	Fuck you!	KAKA SALTZIEN TIRE!
 ------------------------------------------		
 SEQUENCE NPCSmallTalk		
-#80:	Hey, sister.	Oye, hermana.
-#81:	I have a question regarding the celibacy.	Tengo una pregunta sobre el celibato.
-#82:	What do you mean? We have no rules enforcing celibacy.	¿Qué quieres decir? No hay reglas de celibato.
-#83:	WHAT? All this time I live in abstinence, and... no one ever told me?	¿¡QUÉ?! Todo este tiempo... ¿¡y nadie me ha dicho nada?!
-#84:	*shrugs*	*se encoge de hombros*
-#85:	Alright. Gonna make the best of that now.	Pues muy bien. Me voy a divertir ahora.
-#78:	Hey, brother.	Oye, hermano.
-#69:	What's up?	¿Qué pasa?
-#70:	Look who's here.	Mira quién está ahí.
-#71:	Finally decided to come over, right? You were staring at me the whole time.	Por fin decides aparecer, ¿verdad? Me estabas observando todo este tiempo.
-#73:	I was not.	No lo hacía.
-#74:	You were.	Sí que lo hacías.
-#75:	I was not.	No lo hacía.
+#80:	Hey, sister.	Txo, arreba.
+#81:	I have a question regarding the celibacy.	Zelibatoari buruzko galdera daukat.
+#82:	What do you mean? We have no rules enforcing celibacy.	Zer esan nahi duzu? Ez dago zelibato-araurik.
+#83:	WHAT? All this time I live in abstinence, and... no one ever told me?	ZER? Zergatik orain arte inork ez dit ezer esan?
+#84:	*shrugs*	*ez dakienaren keinua egiten du*
+#85:	Alright. Gonna make the best of that now.	Ba... oso ondo. Orain ondo pasatuko dugu.
+#78:	Hey, brother.	Txo, neba.
+#69:	What's up?	Zer?
+#70:	Look who's here.	Begira nor dagoen hor.
+#71:	Finally decided to come over, right? You were staring at me the whole time.	Azkenean agertzen zara, ezta? Denbora guztian zelatan ibili eta gero.
+#73:	I was not.	Ez nuen egiten.
+#74:	You were.	Bai horixe.
+#75:	I was not.	Ezetz ba!
 #76:	...	...
-#77:	Alright. See you later.	Bueno. Nos vemos.
-#88:	For the Flesh!	¡Por la Carne!
-#89:	Hail the Flesh!	¡Hail Carne!
-#56:	I need to eat something.	Necesito comer algo.
-#57:	Yeah, well. Whatever.	Sí, bueno. Lo que sea.
-#65:	Do you have some food that is not meat? Can I have it?	¿Tienes algo de comer que no sea carne? ¿Podrías darme?
-#66:	Hahaha.	Jajaja.
-#86:	Hail the Flesh!	¡Hail Carne!
-#87:	All Hail the Meat.	Todos alabad a la Carne.
-#54:	Did you read that passage about uniting the children?	¿Has leído ese pasaje acerca de unir a los niños?
-#61:	Do you know if that's us? The children, I mean.	¿Sabes si somos nosotros? Los niños, digo.
-#55:	Do I look like I'm in charge? I have no idea really.	¿Parece que estoy a cargo? Realmente no tengo ni idea.
-#63:	It could literally mean children, right? Perhaps it's a hint that we should begin making some?	Podrían ser niños, literalmente. ¿Verdad? Quizás es una pista de que deberíamos hacer algunos.
-#64:	I'm not so sure about that.	No me fío yo de eso.
-#23:	Hey. How is it today?	Oye. ¿Qué tal tu día?
-#24:	Painful. But I don't want to complain too much.	Doloroso. Pero no quiero quejarme demasiado.
-#90:	And yours?	¿Y el tuyo?
-#60:	More than painful. Fucking hell, really.	Más que doloroso. Un puto infierno, joder.
-#67:	It's like someone decided to make this a hellhole for me, raining shit from...	Es como si alguien haya decidido hacer de este lugar un infierno para mi, llueve mierda de todas...
-#68:	Ah, well, don't want to complain either.	Ah, bueno. Yo tampoco quiero quejarme.
-#125:	Welcome!	¡Bienvenido!
+#77:	Alright. See you later.	Ondo da. Gero arte.
+#88:	For the Flesh!	Haragiagatik!
+#89:	Hail the Flesh!	Gora Haragia!
+#56:	I need to eat something.	Zerbait jan behar dut.
+#57:	Yeah, well. Whatever.	Bai, ondo da. EDOZER.
+#65:	Do you have some food that is not meat? Can I have it?	Ba al duzu haragia ez den jateko zerbait? Emango didazu?
+#66:	Hahaha.	Karkarkar.
+#86:	Hail the Flesh!	Gora Haragia!
+#87:	All Hail the Meat.	Denok goretsi dezagun haragia.
+#54:	Did you read that passage about uniting the children?	Umeak batzeko pasarte hori irakurri al duzu?
+#61:	Do you know if that's us? The children, I mean.	Badakizu gu ere umeak al garen?
+#55:	Do I look like I'm in charge? I have no idea really.	Nire ardura dela dirudi? Ez dut ezta ideiarik ere.
+#63:	It could literally mean children, right? Perhaps it's a hint that we should begin making some?	Baliteke umeak esan nahi izatea, ezta? Beharbada, pistaren bat izan daiteke ezta?
+#64:	I'm not so sure about that.	Ez naiz horretaz fio.
+#23:	Hey. How is it today?	Txo. Zer moduz zure eguna?
+#24:	Painful. But I don't want to complain too much.	Mingarria. Baina ez dut gehiegi kexatu nahi.
+#90:	And yours?	Eta zurea?
+#60:	More than painful. Fucking hell, really.	Mingarria benetan. Infernu puta.
+#67:	It's like someone decided to make this a hellhole for me, raining shit from...	Badirudi norbaitek leku hau niretzat infernu bihurtzea erabaki duela, kaka leku guztietatik...
+#68:	Ah, well, don't want to complain either.	A, tira. Nik ere ez dut kexatu nahi.
+#125:	Welcome!	Ongi etorri!
 ------------------------------------------		
 SEQUENCE NPCSmallTalkBar		
-#63:	Hey, what's up?	¡Hey! ¿Qué tal?
-#64:	Why do you always talk to me and not the others?	¿Por qué siempre hablas conmigo y no con los demás?
-#66:	There's enough people here. Why is it always me?	Hay gente de sobra. ¿Por qué siempre yo?
-#70:	I don't know.	No sé.
-#71:	Want to talk about it?	¿Quieres hablarlo?
-#73:	*sigh*	*suspiria*
-#74:	Not today.	Hoy no.
-#75:	Okay. See you soon.	Vale. Nos vemos.
-#23:	You talking shit.	Estás contando mierdas.
-#55:	He likes to have it from behind, not front.	Le gusta por detrás, no por delante.
-#54:	You out of your mind?	¿Se te va la olla?
-#24:	I was with him the whole time.	Estaba con él todo el rato.
-#25:	Behind him, you mean.	Detrás de el, quiero decir.
-#26:	No. I mean, not all the time.	No. Quiero decir, no todo el rato.
-#56:	Like to be on top or bottom?	¿Te gusta encima o debajo?
-#57:	I don't know. Any drinks involved?	No sé. ¿Se incluye bebida?
-#58:	Yes.	Sí.
-#59:	Then top it is.	Entonces encima.
-#60:	Or... Wait. Ah, I just can't decide.	O... espera. Ah, no puedo decidirme.
+#63:	Hey, what's up?	Zer txo! Zer moduz?
+#64:	Why do you always talk to me and not the others?	Zergatik hitz egiten duzu beti nirekin eta ez besteekin?
+#66:	There's enough people here. Why is it always me?	Jende asko dago. Zergatik beti nirekin?
+#70:	I don't know.	Ez dakit.
+#71:	Want to talk about it?	Hitz egin nahi al duzu?
+#73:	*sigh*	*hasperena*
+#74:	Not today.	Gaur ez.
+#75:	Okay. See you soon.	Ados. Ikusi arte.
+#23:	You talking shit.	Gezurretan zabilz.
+#55:	He likes to have it from behind, not front.	Atzetik gustatzen zaio, ez aurretik.
+#54:	You out of your mind?	HI PITZATUTA AL HAGO?
+#24:	I was with him the whole time.	Berarekin egoten nintzen denbora guztian.
+#25:	Behind him, you mean.	Bere atzetik, esan nahi dut.
+#26:	No. I mean, not all the time.	Ez. Hau da, ez beti.
+#56:	Like to be on top or bottom?	Zer nahiago duzu, gainean ala azpian?
+#57:	I don't know. Any drinks involved?	Ez dakit. Edaria barne?
+#58:	Yes.	Bai.
+#59:	Then top it is.	Orduan gainean.
+#60:	Or... Wait. Ah, I just can't decide.	Edo... itxaron. Kaka, ezin dut erabaki.
 ------------------------------------------		
 SEQUENCE RandomBark		
-#71:	Would like to fuck someone.	Me gustaría follarme a alguien.
+#71:	Would like to fuck someone.	Baten batekin larrua jotzea gustatuko litzaidake.
 #68:	Fuck.	Joder.
-#72:	Nice ass.	Qué buen culo.
-#73:	Hmmh. Can't remember what I wanted to do.	Hmmm. No puedo recordar lo que iba a hacer.
-#67:	Eh? ... Sorry. I was just lost in thoughts.	¿Eh?... Lo siento. Pensaba en mis cosas.
-#66:	Stones. Fuckin' stones everywhere.	Piedras. Piedras en todos los putos lados.
-#65:	Flesh!	¡Carne!
-#64:	The Flesh protects us all!	¡La Carne nos protege a todos!
+#72:	Nice ass.	Ah ze ipurdia.
+#73:	Hmmh. Can't remember what I wanted to do.	Hmmm. Ezin dut gogoratu zer egin behar nuen.
+#67:	Eh? ... Sorry. I was just lost in thoughts.	Eh?... Sentitzen dut. Nire gauzetan pentsatzen nenbilen.
+#66:	Stones. Fuckin' stones everywhere.	Harriak. Harriak alde puta guztietan.
+#65:	Flesh!	Haragia!
+#64:	The Flesh protects us all!	Haragiak denok babesten gaitu!
 ------------------------------------------		
 SEQUENCE SmallTalk		
-#56:	Hey, you. Could you...	Oye, tú. Podrías...
+#56:	Hey, you. Could you...	Txo, zu. Agian...
 #57:	Nah.	Nah.
 #58:	I haven't even finished asking you.	No he terminado la pregunta.
 #59:	Whatever this is... I'm not interested.	Lo que sea... no estoy interesado.
