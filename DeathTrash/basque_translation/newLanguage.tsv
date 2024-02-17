@@ -1098,104 +1098,104 @@ SEQUENCE PompousQueen
 #28:	So how do you...	Orduan zelan...
 #29:	Ah, subject, that's an easy ploy to detect.	A, jopu hori. Antzemateko tranpa erraza da.
 #30:	You're trying to make me all fuzzy by talking about fornication, only to get into my bed and then brag a lifetime long how you humped mighty Queen Margas.	Ni nahasten saiatzen ari zara nire ohean sartzeko eta Margas erregina ahaltsuarekin oheratu zarela esateko. LIZUN HALAKOA!
-#31:	That won't do. Can't have sex with everyone who wanders by.	No servirá. No puedo tener sexo con cualquiera que pase.
-#33:	At least not today.	Al menos, hoy no.
-#6:	Do you have a king?	¿Tienes un rey?
-#7:	Oh, had lots of them. But they were all crushed by the royal libido.	Oh, un montón. Pero todos han sido aplastados por la líbido real.
-#8:	Crushed? By your libido?	¿Aplastados? ¿Por tu líbido?
-#9:	Child, it's not proper to talk about the royal weight.	Pequeño, es no es forma de hablar con la nobleza.
-#2:	Ahh, another mortal seeking the attention of the queen.	Ahh, otro mortal que busca atención de la reina.
-#16:	But I feel a little indisposed today.	Pero estoy un poco indispuesta hoy.
-#17:	Maybe the subject can return on another day.	Quizás como buen súbdito puedas volver otro día.
-#18:	Another day won't do.	Otro día no servirá.
-#19:	What? It talks back?	¿Qué? ¿Me respondes?
-#3:	Well then, I'm known to be generous. And this might even give us some entertainment.	Bueno. Se me conoce por ser generosa. Y esto puede resultar entretenido.
-#4:	Ahem. Welcome, subject. What is its name and what does it want?	Ejem. Bienvenido, súbdito. ¿Cuál es tu nombre y qué es lo que quieres?
-#21:	**forename**. And I'm just curious who you are.	**forename**. Y siento curiosidad por saber quién eres.
-#22:	**forename**. Well, can't expect a more elaborate name of a mortal, right?	**forename**. Bueno, no se podría esperar un nombre mejor de un mortal. ¿Verdad?
-#23:	I am the Enlightened Queen Margas, Guardian of the Netherrealm, Protector of Shebzu, Trinity Mistress of Fornication.	Soy la Reina Iluminada Margas, guardiana del Netherrealm, protectora de Shebzu y Trinidad amante de la fornicación.
+#31:	That won't do. Can't have sex with everyone who wanders by.	Ez du balioko. Ezin dut sexurik izan pasatzen den edozeinekin.
+#33:	At least not today.	Gaur, behintzat, ez.
+#6:	Do you have a king?	Ba al duzu erregerik?
+#7:	Oh, had lots of them. But they were all crushed by the royal libido.	Bai, asko. Baina denak zanpatuak izan dira libido errealaran eraginez.
+#8:	Crushed? By your libido?	Zanpatuak? Zure libidoagatik?
+#9:	Child, it's not proper to talk about the royal weight.	Txo, hori ez da nobleziarekin hitz egiteko modua.
+#2:	Ahh, another mortal seeking the attention of the queen.	Ahh, erreginaren arreta bilatzen duen beste hilkor ziztrin bat.
+#16:	But I feel a little indisposed today.	Baina gaur ondoezik nago.
+#17:	Maybe the subject can return on another day.	Agian menpeko jopu txintxoa bezala, beste egun batean itzuliko zaitezke.
+#18:	Another day won't do.	Beste egun batean? EZ.
+#19:	What? It talks back?	Zer? Nola ausartzen zara horrela erantzuten?
+#3:	Well then, I'm known to be generous. And this might even give us some entertainment.	Ondo da. Eskuzabala naizelako ezagutzen naute. Eta hau entretenigarria izan daiteke.
+#4:	Ahem. Welcome, subject. What is its name and what does it want?	Adib. Ongi etorri, menpeko jopu txintxo halakoa. Zein da zure izena eta zertara etorri zara?
+#21:	**forename**. And I'm just curious who you are.	**forename**. Eta jakin-mina dut nor zaren jakiteko.
+#22:	**forename**. Well, can't expect a more elaborate name of a mortal, right?	**forename**. Beno, hilkor xume batengandik ezin liteke izen hoberik espero. Ezta?
+#23:	I am the Enlightened Queen Margas, Guardian of the Netherrealm, Protector of Shebzu, Trinity Mistress of Fornication.	Margas Argi izaki Erregina naiz, Netherrealmen zaindaria, Shebzu eta Trinidaden babeslea, fornikazioaren maitalea.
 ------------------------------------------		
 SEQUENCE TrashComment		
-#10:	There's nothing useful left.	No queda nada útil.
-#8:	Can't use anything from that stuff.	No puedo usar nada de eso.
-#5:	Trash.	Basura.
-#7:	And not of the good kind.	Y no de la buena.
-#4:	Only trash.	Solo basura.
-#9:	There's nothing here.	No queda nada.
-#3:	Nothing useful here.	Nada útil por aquí.
+#10:	There's nothing useful left.	Ez dago ezer baliagarririk.
+#8:	Can't use anything from that stuff.	Ezin dut horrelakorik erabili.
+#5:	Trash.	Zaborra.
+#7:	And not of the good kind.	Eta ez ona.
+#4:	Only trash.	Zaborra besterik ez.
+#9:	There's nothing here.	Ez dago ezer.
+#3:	Nothing useful here.	Deus erabilgarririk.
 ------------------------------------------		
 SEQUENCE UnknownScienceObject		
-#10:	There's nothing useful here.	No hay nada útil por aquí.
-#8:	Can't use anything from that stuff.	No puedo usar nada de eso.
-#11:	Does seem to be functional, but I don't know its purpose.	No parece funcionar, pero no sé ni para qué sirve.
-#4:	I don't know what that is.	No sé qué es eso.
-#12:	Not sure what this is. But nothing I could use.	No sé qué es eso. Nada que pueda usar.
-#9:	There's nothing here.	No hay nada aquí.
-#3:	Nothing useful here.	Nada útil por aquí.
+#10:	There's nothing useful here.	Deus erabilgarririk hemendik.
+#8:	Can't use anything from that stuff.	Ezin dut horrelakorik erabili.
+#11:	Does seem to be functional, but I don't know its purpose.	Ez dirudi ondo dabilenik, baina ez dakit zertarako balio duen.
+#4:	I don't know what that is.	Ez dakit hori zer den.
+#12:	Not sure what this is. But nothing I could use.	Ez dakit hori zer den. Erabili dezakedan ezer ez.
+#9:	There's nothing here.	Hemen ez dago ezer.
+#3:	Nothing useful here.	Deus erabilgarririk.
 ------------------------------------------		
 SEQUENCE Bunker17ABrokenMachineWall		
-#16:	There's a hole in it.	Hay un agujero.
-#22:	Somebody must have gutted the insides.	Alguien debe haber vaciado el interior.
+#16:	There's a hole in it.	Zuloa dago.
+#22:	Somebody must have gutted the insides.	Baten batek barruak hustu ditu hemen...
 ------------------------------------------		
 SEQUENCE Bunker17AGenerator		
-#16:	It's running and producing electricity.	Está funcionando y produce electricidad.
+#16:	It's running and producing electricity.	Funtzionatzen ari da eta elektrizitatea sortzen du.
 ------------------------------------------		
 SEQUENCE CrossroadsCorpse1		
-#16:	Freshly dead. Still bleeding.	Muerto recientemente. Todavía sangra.
+#16:	Freshly dead. Still bleeding.	Duela gutxi hil da. Odola dario oraindik.
 ------------------------------------------		
 SEQUENCE CrossroadsCorpse2		
-#16:	Ashes to ashes, flesh to flesh.	Cenizas a las cenizas, carne a la carne.
+#16:	Ashes to ashes, flesh to flesh.	Errautsak errautsetara, haragia haragira.
 ------------------------------------------		
 SEQUENCE CrossroadsFleshkrakenWeave		
-#16:	The flesh is bound to the weave with barbed wire.	La carne está entrelazada con el alambre de espino.
+#16:	The flesh is bound to the weave with barbed wire.	Haragia arantzazko alanbrearekin lotuta dago.
 ------------------------------------------		
 SEQUENCE Marla		
-#16:	It's a bed.	Es mi cama.
-#24:	It's MY bed.	Es MI cama.
-#25:	Though I could share it with you.	Pensaba que podía compartir contigo.
-#22:	Nah, I'm okay.	Nah, estoy bien.
+#16:	It's a bed.	Nire ohea da.
+#24:	It's MY bed.	NIRE ohea.
+#25:	Though I could share it with you.	Zurekin partekatu nezakeela uste nuen.
+#22:	Nah, I'm okay.	Ez arduratu, ondo nago.
 ------------------------------------------		
 SEQUENCE Mine19BrokenDownMachine		
-#16:	It's been salvaged for parts.	Ha sido desguazado por piezas.
+#16:	It's been salvaged for parts.	Zatika desegin dute.
 ------------------------------------------		
 SEQUENCE Mine19ControlPanel		
-#16:	Loads of displays. All smashed in.	Un montón de paneles. Todos destrozados.
+#16:	Loads of displays. All smashed in.	Panel piloa. Denak suntsituta.
 ------------------------------------------		
 SEQUENCE Mine19Generator		
-#16:	It's buzzing. Electricity?	Se oye un zumbido. ¿Electricidad?
+#16:	It's buzzing. Electricity?	Kriston Burrundaie entzuten da. Elektrizitatea izango ote da?
 ------------------------------------------		
 SEQUENCE Mine19LabWallMachine		
-#16:	Here's a little plaque.	Hay una pequeña placa.
-#23:	Save your data for yourself and the upcoming generations. 5000 years guaranteed.	Guarde sus datos y las próximas generaciones. 5000 años garantizados.
+#16:	Here's a little plaque.	Plaka txiki bat dago.
+#23:	Save your data for yourself and the upcoming generations. 5000 years guaranteed.	Gorde zure datuak zuretzat eta zure belaunaldientzat. 5000 urterako bermatuta egongo da.
 #24:	...	...
-#25:	The insides have been pierced by stalagmites.	El interior ha sido atravesado por estalagmitas.
+#25:	The insides have been pierced by stalagmites.	Barrualdea estalagmitek zeharkatu dute.
 ------------------------------------------		
 SEQUENCE Mine19LivingAreaBathroom		
-#16:	Some brown stuff is dripping down constantly.	Una cosa marrón está goteando constantemente.
+#16:	Some brown stuff is dripping down constantly.	Gauza marroi bat etengabe ari da tantaka.
 ------------------------------------------		
 SEQUENCE Mine19LivingAreaBed1		
-#16:	The leg of a plushie is stuck below.	La pierna de un peluche está atrapada debajo.
+#16:	The leg of a plushie is stuck below.	Pelutxe baten hanka azpian harrapatuta dago.
 ------------------------------------------		
 SEQUENCE Mine19LivingAreaBed2		
-#16:	It's warm, as if used recently.	Está caliente, como si la hubiesen usado recientemente.
+#16:	It's warm, as if used recently.	Bero dago, duela gutxi erabili izan balute bezala.
 ------------------------------------------		
 SEQUENCE Mine19LongMachine		
-#16:	I can see a conveyor belt.||Empty.	Puedo ver una cinta transportadora.||Vacío.
+#16:	I can see a conveyor belt.||Empty.	Uhal garraiatzaile* bat ikus dezaket..||Hutsik. *(cinta transportadora)
 ------------------------------------------		
 SEQUENCE Mine19MachineEquipmentRoom		
-#16:	There's some rotating brushes in here. They have trouble turning though.	Hay algunos cepillos giratorios aquí. Aunque parecen tener problemas para girar.
+#16:	There's some rotating brushes in here. They have trouble turning though.	Biratzen diren eskuila (cepillo) batzuk daude hemen. Baina badirudi arazoak dituztela biratzeko.
 ------------------------------------------		
 SEQUENCE Mine19ToiletCorpse		
-#16:	What a place to kick the bucket.	Menudo lugar para estirar la pata.
+#16:	What a place to kick the bucket.	Hiltzeko leku aproposa, ezta?
 ------------------------------------------		
 SEQUENCE Mine19WaterPump		
-#16:	I can hear some liquid being pumped in there.	Puedo escuchar como se bombea líquido.
+#16:	I can hear some liquid being pumped in there.	Entzun dezaket nola ponpatzen* den likidoa. *(bombear)
 ------------------------------------------		
 SEQUENCE PukeBarFlatsBed1		
-#16:	Two people will fit on this, if they cuddle.	Pueden entrar dos personas, si se abrazan.
+#16:	Two people will fit on this, if they cuddle.	Besarkatuz gero, pertsona 2 sar daiztezkeelakoan nago.
 ------------------------------------------		
 SEQUENCE PukeBarFlatsToilet		
-#16:	Looks like somebody forgot to flush.	Parece que alguien olvidó tirar de la cadena.
+#16:	Looks like somebody forgot to flush.	Emate du, baten bati bonba botatzea ahaztu zaiola...
 ------------------------------------------		
 SEQUENCE PukeBarFlatsWardrobe		
 #16:	Oh. It's just some "toys".	Oh. Solo son unos "juguetes".
