@@ -1498,106 +1498,106 @@ SEQUENCE RandomBark
 ------------------------------------------		
 SEQUENCE SmallTalk		
 #56:	Hey, you. Could you...	Txo, zu. Agian...
-#57:	Nah.	Nah.
-#58:	I haven't even finished asking you.	No he terminado la pregunta.
-#59:	Whatever this is... I'm not interested.	Lo que sea... no estoy interesado.
-#54:	Hello there.	Hola, holita.
-#55:	I don't really have time for this. Goodbye.	No tengo tiempo para esto. Adiós.
-#23:	Hey there.	Oye.
-#24:	Hey. Don't have time for you. Sorry.	Oye. No tengo tiempo para ti, lo siento.
-#25:	I just want to ask...	Tan solo quería...
-#26:	Nope. Sorry.	Nop. Lo siento.
+#57:	Nah.	Bah.
+#58:	I haven't even finished asking you.	Ez dut galdera amaitu.
+#59:	Whatever this is... I'm not interested.	Dena delakoa... Ez zait interesatzen.
+#54:	Hello there.	Aupa txo
+#55:	I don't really have time for this. Goodbye.	Ez dut astirik honetarako. Agur.
+#23:	Hey there.	Txo
+#24:	Hey. Don't have time for you. Sorry.	Txo. Ez dut astirik zuretzat, sentitzen dut.
+#25:	I just want to ask...	Bakarrik nahi nuen...
+#26:	Nope. Sorry.	Ez. Sentitzen dut.
 ------------------------------------------		
 SEQUENCE SmallTalkWithBarGuest		
-#2:	Hey, there. You seen...?	Oye, tú. ¿Has visto...?
-#3:	Nah.	Nah.
-#4:	Know the way to...	Sabes el camino...
-#5:	Nah.	Nah.
-#6:	Know anything?	¿Sabes algo?
-#7:	Nah.	Nah.
+#2:	Hey, there. You seen...?	Txo! Ikusi al duzu...?
+#3:	Nah.	SEP.
+#4:	Know the way to...	Ba al dakizu bidea...
+#5:	Nah.	SEP.
+#6:	Know anything?	Badakizu zerbait?
+#7:	Nah.	SEP.
 #8:	Fuck.	Joder.
-#42:	Anything new?	¿Algo nuevo?
-#44:	Do I look like I travel around?	¿Te parece que viajo?
-#45:	Yes.	Sí.
-#46:	Well, nothing new outside. Just bleak stones as always.	Bueno, nada nuevo afuera. Solo piedras, como siempre.
-#47:	Thanks.	Gracias.
-#33:	Hey, I wonder if I could...	Oye. Me preguntaba si podrías...
-#34:	Don't talk to me. I'm just here for the drinks.	No me hables. Solo vengo a beber.
-#37:	Not for conversation?	¿Nada de conversación?
-#39:	Not with you, anyway.	Contigo no, de todas formas.
-#40:	That's a bit rude.	Eso es un poco grosero.
-#41:	Hahaha. Obviously, you haven't been around here for long.	Ja, obviamente. No has estado mucho tiempo por aquí.
-#27:	Great place.	Bonito lugar.
-#28:	You know one?	¿Conoces alguno?
-#29:	No, I meant this here. This place is great. Only friendly folks around.	No, me refería a este. Es un buen lugar. Con gente amistosa y eso.
-#30:	Except the nasty ones. But those I can circumvent, you know what I mean?	Excepto los desagradables. Pero se les puede ignorar, ¿sabes a lo que me refiero?
-#31:	Don't look in their eyes?	¿No mirar a los ojos?
-#32:	Exactly.	Exacto.
-#23:	Here for a drink?	¿Vienes a beber?
-#24:	You buying?	¿Compras?
-#25:	Hell no. Just asking.	Joder, no. Solo preguntaba.
-#26:	Don't get me all giddy up next time.	Pues no me emociones para nada.
-#48:	There's only one type of life out there.	Solo hay un tipo de vida ahí fuera.
-#50:	Survival of the fittest.	La supervivencia del más fuerte.
-#51:	So you are fit?	¿Tú eres fuerte?
-#53:	Nah.	Nah.
+#42:	Anything new?	Berririk?
+#44:	Do I look like I travel around?	Bidaiatzen nabilela uste al duzu?
+#45:	Yes.	Bai.
+#46:	Well, nothing new outside. Just bleak stones as always.	Beno, berririk ez. Harriak bakarrik, beti bezala.
+#47:	Thanks.	Mila esker.
+#33:	Hey, I wonder if I could...	Txo. Nire golkorako galdetzen nenbilen ea ahal zenuen...
+#34:	Don't talk to me. I'm just here for the drinks.	Ezta txintik ere! Edatera nator.
+#37:	Not for conversation?	Elkarrizketarik ez?
+#39:	Not with you, anyway.	Zurekin ez.
+#40:	That's a bit rude.	Ze zakarra txo!
+#41:	Hahaha. Obviously, you haven't been around here for long.	Ja! Jakina! Ez zara luzaroan hemen egon.
+#27:	Great place.	Leku polita.
+#28:	You know one?	Baten bat ezagutzen al duzu?
+#29:	No, I meant this here. This place is great. Only friendly folks around.	Ez, honetaz ari nintzen. Leku ona da. Lagunarteann eta abar, badakizu.
+#30:	Except the nasty ones. But those I can circumvent, you know what I mean?	Desatseginak izan ezik. Baina ezikusiarena egin eta kitto, badakizu zer esan nahi dudan?
+#31:	Don't look in their eyes?	Begietara ez begiratzea?
+#32:	Exactly.	Ekilikua, hori da.
+#23:	Here for a drink?	Edatera al zatoz?
+#24:	You buying?	Erosten?
+#25:	Hell no. Just asking.	Joder, ez. Galdetzen bakarrik nenbilen.
+#26:	Don't get me all giddy up next time.	Ba ez naiz batere hunkitzen txo!
+#48:	There's only one type of life out there.	Hor kanpoan bizitza mota bakarra dago.
+#50:	Survival of the fittest.	Indartsuenaren biziraupena.
+#51:	So you are fit?	Indartsua al zara?
+#53:	Nah.	Bah.
 ------------------------------------------		
 SEQUENCE UsedDrug		
-#4:	Man, this is good.	Joder, esto es bueno.
-#8:	*gulp*	*traga*
-#2:	Fuck, yes.	Joder, sí.
+#4:	Man, this is good.	Joder, hau bai ona.
+#8:	*gulp*	*irentsi*
+#2:	Fuck, yes.	Joder, bai.
 ------------------------------------------		
 SEQUENCE WarnCharWithWeapon		
-#15:	Hey. Put your weapon away.	Oye. Guarda el arma.
-#24:	We want it peaceful in there.	Queremos que esto esté tranquilo.
-#18:	You wanted peace, but it's war you got. [Begin Combat]	Querías paz, pero es guerra lo que tendrás. [Comenzar Combate]
-#21:	I carry my weapon wherever I want.	Llevo mi arma donde quiera.
-#23:	Fine. Then stay outside.	Vale. Pues te quedas fuera.
-#26:	Guys inside are tense. If they see a weapon in your hand, they will shoot.	Los de dentro están tensos. Si ven un arma en las manos te dispararán.
-#17:	Alright.	De acuerdo.
-#25:	Good. Don't draw your weapon in there. Guys are tense.	Bien. No saques el arma aquí. Esos tipos están tensos.
-#29:	Leave me the fuck alone.	Déjame en paz, coño.
+#15:	Hey. Put your weapon away.	Txo. Gorde arma.
+#24:	We want it peaceful in there.	Lasaitasuna nahi dugu.
+#18:	You wanted peace, but it's war you got. [Begin Combat]	Bakea nahi zenuen, baina gerra izango duzu. [Borroka Hasi]
+#21:	I carry my weapon wherever I want.	Nahi dudan lekuan eranabgi dut arma.
+#23:	Fine. Then stay outside.	Ados. Ba kanpoan geratuko zara.
+#26:	Guys inside are tense. If they see a weapon in your hand, they will shoot.	Barrukoak tentsioan daude. Eskuetan arma bat ikusten badute, tiro egingo dizute.
+#17:	Alright.	Ongi da.
+#25:	Good. Don't draw your weapon in there. Guys are tense.	Ongi. Ez atera arma hemen. Tipo horiek urduri daude.
+#29:	Leave me the fuck alone.	Utzi bakean, OSTIA!
 ------------------------------------------		
 SEQUENCE WarnCharWithWeaponFirstWarning		
-#34:	Go away.	Vete.
-#33:	Please, leave me alone.	Por favor, déjame en paz.
-#37:	Don't be stupid.	No seas estúpido.
-#32:	Leave me the fuck alone.	Déjame en paz de una puta vez.
-#15:	Hey, don't do anything stupid.	Oye, no hagas tonterías.
+#34:	Go away.	Zoaz.
+#33:	Please, leave me alone.	Mesedez, utzi bakean. SEP
+#37:	Don't be stupid.	Ez izan inozoa.
+#32:	Leave me the fuck alone.	Utz nazazu bakean OSTIA!
+#15:	Hey, don't do anything stupid.	Txo, ez egin txorakeriarik.
 ------------------------------------------		
 SEQUENCE WarnCharWithWeaponImmediateWarning		
-#31:	Hey. Put that weapon away or you'll get killed.	Eh, guarda ese arma o harás que te maten.
-#15:	Hey. Put your weapon away or you're gonna regret it.	Eh, guarda ese arma o te arrepentirás.
+#31:	Hey. Put that weapon away or you'll get killed.	Txo! Gorde arma hori edo hilko zaituzte.
+#15:	Hey. Put your weapon away or you're gonna regret it.	Txo! Gorde arma hori edo damutuko zaizu.
 ------------------------------------------		
 SEQUENCE NPCSmallTalkGodhuntersDungeon		
-#127:	So, how did they capture you?	Entonces, ¿cómo te capturaron?
-#128:	I was out to take a piss.	Salí a mear.
-#129:	And they were hiding in the bush.	Y estaban escondidos en un arbusto.
-#130:	Let's say they weren't very happy with the situation.	Digamos que no estaban muy contentos con la situación.
-#88:	Praise the Titans!	¡Alabados sean los Titanes!
-#89:	Praise be.	Alabados sean.
-#54:	I miss my wife.	Echo de menos a mi mujer.
-#55:	You have a wife?	¿Tienes mujer?
-#64:	No.	No.
-#126:	But if I had one, I'd be missing her after all this time.	Pero si la tuviera, la echaría de menos después de tanto tiempo.
-#23:	How long have we been here for?	¿Cuánto tiempo has estado aquí?
-#24:	I don't know.	No lo sé.
-#90:	Wasn't it your turn to count the days?	¿No te tocaba a ti contar los días?
-#60:	Shit. I forgot.	Joder. Me olvide.
-#125:	Hey!	¡Oye!
+#127:	So, how did they capture you?	Orduan, nola harrapatu zintuzten?
+#128:	I was out to take a piss.	Pixa egitera irten nintzen.
+#129:	And they were hiding in the bush.	Eta zuhaixka batean ezkutatuta zeuden.
+#130:	Let's say they weren't very happy with the situation.	Esan dezagun egoera dela eta ez zeudela oso pozik.
+#88:	Praise the Titans!	Gora Titanak!
+#89:	Praise be.	GORA!
+#54:	I miss my wife.	Emaztearen falta sumatzen dut.
+#55:	You have a wife?	Emaztea al duzu?
+#64:	No.	Ez.
+#126:	But if I had one, I'd be missing her after all this time.	Baina izango banu, denbora asko igaro ondoren bere falta izango nuke.
+#23:	How long have we been here for?	Zenbat denbora egon zara hemen?
+#24:	I don't know.	Ez dakit.
+#90:	Wasn't it your turn to count the days?	Ez al zitzaizun zuri tokatzen egunak zenbatzea?
+#60:	Shit. I forgot.	Joder. Ahaztu zitzaidan.
+#125:	Hey!	Txo! Ahaztu? Bermeon esaten den moduan: "Astue kortan eta mandue etxien!"
 ------------------------------------------		
 SEQUENCE MachineFirstWarningAboutKillExecution		
-#7:	Acquiring target for remote trigger termination...	Adquiriendo objetivo para ejecución remota...
+#7:	Acquiring target for remote trigger termination...	Urrutiko exekuziorako helburua lortuz...
 ------------------------------------------		
 SEQUENCE MachineSecondWarningAboutKillExecution		
-#2:	Target acquired. Proceeding...	Objetivo adquirido. Procediendo...
+#2:	Target acquired. Proceeding...	Helburua lortuta. Martxan...
 ------------------------------------------		
 SEQUENCE OldTreesEntranceFlesh		
-#3:	Hmmh. This flesh blocks some kind of entrance.	Hmm. Esta carne bloquea una especie de entrada.
+#3:	Hmmh. This flesh blocks some kind of entrance.	Hmm. Haragi puxka honek sarrera moduko bat blokeatzen du.
 #5:	<LeaveDialogue>	<LeaveDialogue>
-#12:	[Try talking to the flesh]	[Intentar hablar con la carne]
-#35:	The flesh ignores you.	La carne te ignora.
-#13:	The flesh reacts to your presence.	La carne reacciona a tu presencia.
+#12:	[Try talking to the flesh]	[Haragiarekin hitz egiten saiatu]
+#35:	The flesh ignores you.	Haragiak ez dizu jaramonik egiten.
+#13:	The flesh reacts to your presence.	Haragiak zure presentziaren aurrean erreakzionatzen du.
 #28:	It awaits a command.	Espera tu orden.
 #29:	Let me in.	Déjame pasar.
 #33:	Let's take a look then.	Vamos a echar un vistazo.
