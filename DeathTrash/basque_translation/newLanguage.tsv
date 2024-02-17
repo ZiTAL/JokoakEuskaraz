@@ -1700,104 +1700,104 @@ SEQUENCE SeveredHead
 #15:	Who are you?	Nor zara?
 ------------------------------------------		
 SEQUENCE AgiraDialogue		
-#26:	Take care. Look out for yourself.	Ten cuidado. Protégete a ti mismo.
-#22:	Isn't it nice how the sun is always shining?	¿No es agradable como siempre brilla el sol?
-#2:	I like this place. Almost feels like home now.	Y este lugar. Casi se siente como el hogar.
-#10:	I admit I was angry when they threw me out. "Unstable mind." Fucking pussies.	Admito que odiaba este lugar. "Mente inestable". Jodidos cobardes.
-#11:	But it's all good now.	Pero ahora no tiene importancia.
-#12:	Just miss the Cyberwomb sometimes.	Aunque a veces echo de menos el útero cibernético.
-#3:	What's your crime?	¿Cuál es tu crimen?
-#37:	Crime?	¿Crimen?
-#38:	For getting thrown out. What did you do?	Para que te echaran. ¿Qué hiciste?
-#6:	I don't know.	No lo sé.
-#19:	Alright. You don't have to tell me.	Ah, vale. No tienes por qué decírmelo.
-#20:	Take care.	Cuídate.
-#5:	Nothing. It was due to medical reasons.	Nada. Fue por razones médicas.
-#13:	Eh, why exactly?	¿Eh, qué exactamente?
-#14:	I don't know.	No lo sé.
-#16:	Infectious reasons.	Razones infecciosas.
+#26:	Take care. Look out for yourself.	KASU! Babestu zeure burua.
+#22:	Isn't it nice how the sun is always shining?	Ez al da atsegina eguzkia beti distiratzen ikustea?
+#2:	I like this place. Almost feels like home now.	Eta leku hau. Ia etxea bezala sentitzen da.
+#10:	I admit I was angry when they threw me out. "Unstable mind." Fucking pussies.	Onartzen dut leku hau gorroto nuela. "Buru ezegonkorra". Koldar putak.
+#11:	But it's all good now.	Baina orain ez du garrantzirik.
+#12:	Just miss the Cyberwomb sometimes.	Nahiz eta batzuetan umetoki zibernetikoaren falta sumatzen dudan.
+#3:	What's your crime?	Zein da zure krimena?
+#37:	Crime?	Krimena?
+#38:	For getting thrown out. What did you do?	Bota zaitzaten. Zer egin duzu?
+#6:	I don't know.	Ez dakit.
+#19:	Alright. You don't have to tell me.	Ah, ados. Ez didazu zertan esan behar.
+#20:	Take care.	Zaindu.
+#5:	Nothing. It was due to medical reasons.	Ezer ez. Osasun arazoak zirela eta izan zen.
+#13:	Eh, why exactly?	Baina, zer zehazki?
+#14:	I don't know.	Ez dakit.
+#16:	Infectious reasons.	Infekzioak medio.
 #17:	...	...
-#29:	I think it's better if you keep some distance now.	Creo que es mejor que mantengas la distancia.
-#30:	Alright.	Vale.
-#33:	Stay away from me.	Mantente lejos de mi.
+#29:	I think it's better if you keep some distance now.	Hobe duzu distantzia mantentzea.
+#30:	Alright.	Ados.
+#33:	Stay away from me.	Nigandik urrun.
 ------------------------------------------		
 SEQUENCE Aksa		
-#5:	Hey!	¡Oye!
-#98:	What's up?	¿Qué tal?
+#5:	Hey!	Txo!
+#98:	What's up?	Zelan?
 #188:	<LeaveDialogue>	<LeaveDialogue>
-#55:	I've met an Oracle.	He conocido un Oráculo.
-#56:	You met the Oracle?	¿Has conocido al Oráculo?
-#57:	You know him?	¿Lo conoces?
-#58:	Never met him. But the Oracle is well known to me.	No. Pero el Oráculo es bastante conocido para mi.
-#76:	So how was the Oracle?	Entonces, ¿qué tal fue?
-#77:	Sounds like he's in danger. He wanted me to get him out of there.	Parece que estaba en peligro. Quería que le sacase de ese lugar.
-#78:	What?	¿Qué?
-#79:	Yeah, he said someone is searching for him.	Sí, dijo que alguien lo estaba buscando.
-#80:	Who is that someone?	¿Quién es ese alguien?
-#81:	I don't know. The Oracle wasn't very coherent.	No lo sé. No fue muy coherente.
-#107:	So where is the Oracle? Did you get him out of there?	¿Entonces dónde está? ¿Le sacaste de allí?
-#109:	No. It's... I didn't really meet him physically. I think.	No. Es... realmente no lo conocí, físicamente. Creo.
-#112:	He was in some cave, but I reached out to him by communicating through the flesh.	Estaba en una cueva, pero conseguí comunicarme a través de la carne.
-#113:	Oh. This is interesting.	Oh. Suena interesante.
-#116:	It was you who reached out first and not him?	¿Fuiste tú quien lo buscaba y no al revés?
-#117:	Yes.	Sí.
+#55:	I've met an Oracle.	Orakulua ezagutu dut.
+#56:	You met the Oracle?	Orakulua ezagutu al duzu?
+#57:	You know him?	Ezagutzen al duzu?
+#58:	Never met him. But the Oracle is well known to me.	Ez dut ezagutu. Baina Orakulua aski ezaguna da.
+#76:	So how was the Oracle?	Orduan, zelan Orakuloarekin?
+#77:	Sounds like he's in danger. He wanted me to get him out of there.	Arriskuan zegoela zirudien. Nik bera handik ateratzea nahi zuen.
+#78:	What?	Zer?
+#79:	Yeah, he said someone is searching for him.	Bai, norbait bere bila zebilela esan zuen.
+#80:	Who is that someone?	Nor?
+#81:	I don't know. The Oracle wasn't very coherent.	Ez dakit. Ez zen oso koherentea izan.
+#107:	So where is the Oracle? Did you get him out of there?	Orduan, non dago? Handik atera al zenuen?
+#109:	No. It's... I didn't really meet him physically. I think.	Ez. Ez nuen... fisikoki ezagutu...
+#112:	He was in some cave, but I reached out to him by communicating through the flesh.	Kobazulo batean nengoen, baina haragiaren bidez komunikatzea lortu nuen.
+#113:	Oh. This is interesting.	Oh. Interesgarria.
+#116:	It was you who reached out first and not him?	Zuk bilatu zenuen, edo berak zu?
+#117:	Yes.	Bai.
 #118:	Hmmh.	Hmm.
-#82:	Anyway, the Oracle is one of the Titans. I have to protect him.	De todas formas, el Oráculo es uno de los Titanes. Tengo que protegerlo.
-#89:	First I'll have to find him. It's best to ask the other Titans, I guess. See what's up.	Primero tendré que encontrarlo. Es mejor preguntar a otros Titanes, supongo. Ver que sucede.
-#86:	You want to help?	¿Necesitas ayuda?
+#82:	Anyway, the Oracle is one of the Titans. I have to protect him.	Dena dela, Orakulua Titanetariko bat da. Babestu behar dut.
+#89:	First I'll have to find him. It's best to ask the other Titans, I guess. See what's up.	Lehenbizi aurkitu beharko dut. Hobe da beste Titanei galdetzea. Ikusi zer gertatzen den.
+#86:	You want to help?	Laguntza behar al duzu?
 #87:	Hmmh.	Hmm.
-#88:	Well, if you want to help, journey straight east from here and visit the Philosopher.	Bueno, si quieres ayudar, viaja al este de aquí y visita al Filósofo.
-#120:	You might also ask him about your communication with the Flesh.	Puede que quieras preguntarle sobre cómo comunicarte con la carne.
-#119:	I'll go visit another friend.	Iré a visitar a otro amigo.
-#90:	Ok.	Vale.
-#95:	Fine. Let's meet again here afterwards.	Está bien, vamos a encontrarnos aquí de nuevo después de eso.
-#96:	Good luck.	Buena suerte.
-#50:	I've been infected.	Estoy infectado.
-#61:	Go on.	Continúa.
-#62:	I'm not sure what sickness this is. Feels like my organs are in turmoil.	No sé qué enfermedad es. Siento que mis órganos están agitados.
-#63:	I have to puke a lot.	Tengo que vomitar mucho.
-#65:	Well. I'm no doctor.	Bueno, no soy médico.
-#68:	There's one in Tauris if you need one.	Hay uno en Tauris si lo necesitas.
-#74:	Oh, good to know.	Es bueno saberlo.
-#53:	What else?	¿Qué más?
-#67:	I've been to the doctor. Wasn't much help.	He ido al doctor. No ha sido de mucha ayuda.
-#70:	Then I talked to Mortus. He's investigating the Flesh Nexus.	Después hable de Mortus. Está investigando el Nexo de Carne.
-#71:	Flesh what?	¿Ne- qué?
-#72:	The Flesh Nexus. The veins of flesh everywhere.	El Nexo de Carne. Las venas de carne por todas partes.
-#73:	Ah. Yeah, that name fits.	Ah, claro. El nombre encaja.
-#197:	What the fuck?! How did you get in?	¡¿Qué cojones?! ¿Cómo has entrado?
-#199:	I commanded the flesh to let me in.	Le ordené a la carne que me dejase pasar.
-#201:	Seriously?	¿En serio?
-#202:	Yes.	Sí.
-#204:	That's rare.	Eso es raro
-#207:	I'm Aksa.	Soy Aksa.
-#208:	I'm **forename**.	Soy **forename**.
-#46:	What brings you here?	¿Qué te trae por aquí?
-#193:	Let's visit the Cyberwomb.	Vamos a ver ese útero cibernético.
-#101:	You have your task. See you later.	Tienes tu misión. Nos vemos.
-#144:	What's up?	¿Qué tal?
+#88:	Well, if you want to help, journey straight east from here and visit the Philosopher.	Beno, lagundu nahi badiozu, bidaiatu ekialdera eta filosofoa bisitatu.
+#120:	You might also ask him about your communication with the Flesh.	Baliteke haragiarekin komunikatzen laguntzea.
+#119:	I'll go visit another friend.	Beste lagun bat bisitatzera noa.
+#90:	Ok.	Ados.
+#95:	Fine. Let's meet again here afterwards.	Ongi da, horren ondoren hemen elkartuko gara berriro.
+#96:	Good luck.	Zorte on.
+#50:	I've been infected.	Kutsatuta nago.
+#61:	Go on.	Segi.
+#62:	I'm not sure what sickness this is. Feels like my organs are in turmoil.	Ez dakit zer gaixotasun den. Nire organoak asaldatuta daudela sentitzen dut.
+#63:	I have to puke a lot.	Botaka egin behar dut.
+#65:	Well. I'm no doctor.	Beno, ez naiz medikua.
+#68:	There's one in Tauris if you need one.	Baten bat behar izanez gero Taurisen aurkituko duzu.
+#74:	Oh, good to know.	Eskerrik asko.
+#53:	What else?	Beste ezer?
+#67:	I've been to the doctor. Wasn't much help.	Medikuarenera joan naiz. Ez da oso lagungarria izan.
+#70:	Then I talked to Mortus. He's investigating the Flesh Nexus.	Gero Mortusi buruz hitz egin genuem. Haragi Nexus-a ikertzen ari da.
+#71:	Flesh what?	Zer?
+#72:	The Flesh Nexus. The veins of flesh everywhere.	Haragi loruta. Haragi-zainak nonahi.
+#73:	Ah. Yeah, that name fits.	Ah, jakina. Izena bat dator.
+#197:	What the fuck?! How did you get in?	BAINA ZE PUTALARRU? Nola sartu zara?
+#199:	I commanded the flesh to let me in.	Haragiari pasatzen uzteko agindu nion.
+#201:	Seriously?	Benetan?
+#202:	Yes.	Bai.
+#204:	That's rare.	Hori arraroa da.
+#207:	I'm Aksa.	Aksa naiz.
+#208:	I'm **forename**.	**forename** naiz.
+#46:	What brings you here?	Zelan ba hemendik?
+#193:	Let's visit the Cyberwomb.	Ikus dezagun umetoki zibernetiko hori.
+#101:	You have your task. See you later.	Zure misioa duzu. Gero arte.
+#144:	What's up?	Zer moduz?
 #142:	<LeaveDialogue>	<LeaveDialogue>
-#175:	I have the Cyberwomb Module.	Tengo un módulo de útero cibernético.
-#176:	Ok. Let's take a look at it.	Vale, vamos a echarle un vistazo.
-#177:	I wonder what we'll encounter.	Me pregunto que encontraré.
-#178:	You've been to a Cyberwomb before?	¿Has estado en el útero cibernético antes?
-#196:	I spent most of my life in Omniwomb.	He pasado la mayor parte de mi vida en el Omniútero.
-#179:	Oh. Well, that's pretty similar.	Bueno, es bastante similar.
-#180:	Follow me.	Sígueme.
-#169:	About the recording...	Sobre esa grabación.
-#170:	Hand it over to the Master Processor.	Dásela al procesador maestro.
-#171:	Ok.	Vale.
-#124:	The Philosopher is dead.	El Filósofo está muerto.
-#126:	Dead? Fuck.	¿Muerto? Mierda.
-#149:	...	,,,
-#132:	How did it happen?	¿Qué ha pasado?
-#134:	I don't know.	No lo sé.
-#150:	But I found this recording. Extracted from the machine the Philosopher was connected to.	Pero encontré esta grabación. Extraída de la máquina a la que estaba conectada el Filósofo.
-#135:	Interesting.	Interesante.
-#152:	Let me see.	Déjame ver.
+#175:	I have the Cyberwomb Module.	Umetoki zibernetikoko modulu bat daukat.
+#176:	Ok. Let's take a look at it.	Ados, begiratuko dugu.
+#177:	I wonder what we'll encounter.	Zer aurkituko ote dugu?
+#178:	You've been to a Cyberwomb before?	Egon al zara lehenago umetoki zibernetikoan?
+#196:	I spent most of my life in Omniwomb.	Nire bizitzaren zatirik handiena Omni-uteroan eman dut.
+#179:	Oh. Well, that's pretty similar.	Beno, Nahiko antzekoa da.
+#180:	Follow me.	Etorri nirekin.
+#169:	About the recording...	Grabazio horri buruz.
+#170:	Hand it over to the Master Processor.	Emaiozu prozesadore nagusiari.
+#171:	Ok.	Ados.
+#124:	The Philosopher is dead.	Filosofoa hilda dago.
+#126:	Dead? Fuck.	Hilda? KAKA ZAHARRA.
+#149:	...	...
+#132:	How did it happen?	Zer gertatu da?
+#134:	I don't know.	Ez dakit.
+#150:	But I found this recording. Extracted from the machine the Philosopher was connected to.	Baina grabazio hau aurkitu dut. Filosofoa konektatuta zegoen makinatik aterata.
+#135:	Interesting.	Interesgarria.
+#152:	Let me see.	Utzi ikusten.
 #158:	Hmmh.	Hmm.
-#160:	Yeah, that could work.	Sí, podría funcionar.
-#161:	It's a world config container. We can build a Cyberwomb module from that.	Es un contenedor de configuración global. Podríamos fabricar un módulo de útero cibernético para ello.
+#160:	Yeah, that could work.	Bai, funtziona lezake.
+#161:	It's a world config container. We can build a Cyberwomb module from that.	Konfigurazio orokorreko edukiontzi bat da. Horretarako, umetoki zibernetikoko modulu bat egin genezake.
 #165:	Hand it over to the Master Processor over there.	Dásela al procesador maestro.
 #137:	Will do.	Lo haré.
 #106:	You have returned.	Has vuelto.
