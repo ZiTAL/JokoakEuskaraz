@@ -1598,106 +1598,106 @@ SEQUENCE OldTreesEntranceFlesh
 #12:	[Try talking to the flesh]	[Haragiarekin hitz egiten saiatu]
 #35:	The flesh ignores you.	Haragiak ez dizu jaramonik egiten.
 #13:	The flesh reacts to your presence.	Haragiak zure presentziaren aurrean erreakzionatzen du.
-#28:	It awaits a command.	Espera tu orden.
-#29:	Let me in.	Déjame pasar.
-#33:	Let's take a look then.	Vamos a echar un vistazo.
-#7:	Anyone in there?	¿Hay alguien aquí?
-#31:	No answer.	No hay respuesta.
+#28:	It awaits a command.	Zure aginduaren zain.
+#29:	Let me in.	Pasatzen utzidazu.
+#33:	Let's take a look then.	Goazen begiratzera.
+#7:	Anyone in there?	Inor al dago?
+#31:	No answer.	Ez dago erantzunik.
 ------------------------------------------		
 SEQUENCE Barkeeper		
-#120:	Welcome back.	Bienvenido de nuevo.
-#95:	[Leave]	[Marcharse]
-#93:	The maggots are still there, I guess?	Los gusanos seguirán por ahí, supongo.
-#119:	Yes. they're back there in the cellar, where we keep our meat.	Sí, están de vuelta en la bodega donde guardamos la carne.
-#94:	Just hurry with this, okay?	Date prisa, ¿de acuerdo?
-#133:	I got the poison.	Tengo el veneno.
-#134:	Very good. Could you take care of the maggots then, please?	Estupendo. ¿Podrías encargarte de los gusanos por favor?
-#135:	Ok.	Ok.
-#78:	I'm done with the Flesh Maggots.	He acabado con los Gusanos de Carne.
-#79:	Really? Great!	¿En serio? ¡Genial!
-#82:	The guests were already beginning to wonder why the meat started to taste differently.	Los invitados se empezaban a preguntar por qué tenía un sabor diferente.
-#83:	Here, take this as a thank you.	Ten, toma esto como agradecimiento.
-#62:	Any work around here?	¿Hay algún trabajo por aquí?
-#63:	Something worrying you?	¿Algo que te preocupe?
-#64:	Actually, yes. We got a little pest problem.	Bueno, sí. Tenemos un pequeño problema.
-#65:	Again.	Otra vez.
-#66:	Oh, alright.	Oh, está bien.
-#67:	But since you're asking, wanna help us out with that?	Pero ya que preguntas, ¿te gustaría ayudarnos con eso?
-#70:	Nah.	Nah.
-#71:	Ok then. I guess it was too much to hope to have a helping hand here.	Bueno. Supongo que era mucho esperar que alguien ayudase.
-#68:	Sure.	Claro.
-#72:	Great.	Estupendo.
-#73:	You see, flesh maggots have made their nest inside the bar's meat reserves.	Verás, los Gusanos de la Carne han hecho un nido dentro de las reservas de carne.
-#74:	And to get rid of 'em we need something potent.	Y para librarnos de ellos necesitamos algo potente.
-#99:	Eh... Is that the meat you're serving here?	Eh... ¿Es la carne que estás sirviendo aquí?
-#100:	Yes.	Sí.
-#101:	Like I said, we need something potent against flesh maggots.	Como he dicho, necesitamos algo potente contra los gusanos.
-#81:	But we ran out of poison.	Pero no tenemos veneno.
-#75:	There's a doctor up in Tauris. He sold us the last batch. Try it over there.	Hay un doctor en Tauris. Nos lo vendió la última vez. Deberías probar suerte allí.
-#102:	Alright. Will do.	Muy bien. Lo haré.
-#106:	I heard the doctor is dead.	He oído que el doctor está muerto.
-#107:	What? Ohh, fuck me. What a miserable world.	¿Qué? Oh, joder. Menudo mundo de mierda.
-#108:	I have to make do without the poison then. Thanks for letting me know.	Tendré que apañarme sin el veneno. Gracias por hacermelo saber.
-#127:	Anything else?	¿Algo más?
-#14:	So this is the Puke Bar...	Así que este es el bar Vómito...
-#117:	Anything interesting?	¿Algo interesante?
-#15:	Always. There are travelers stopping by here.	Siempre. Hay viajeros que pasan por aquí.
-#112:	Drinks and food are good. Obviously.	Las bebidas y la comida están bien, obviamente.
-#113:	We have a Cyberwomb room that may or may not be functional.	Tenemos un útero cibernético que puede o puede que no funcione.
+#120:	Welcome back.	Ongi etorri berriz.
+#95:	[Leave]	[Joan]
+#93:	The maggots are still there, I guess?	Zizareek hor jarraituko dute.
+#119:	Yes. they're back there in the cellar, where we keep our meat.	Bai, haragia gordetzen dugun sotora itzuli dira.
+#94:	Just hurry with this, okay?	Azkar, ados?
+#133:	I got the poison.	Pozoia daukat.
+#134:	Very good. Could you take care of the maggots then, please?	Primeran. Zizareez arduratuko zara, mesedez?
+#135:	Ok.	Ados.
+#78:	I'm done with the Flesh Maggots.	Haragi-zizareekin amaitu dut.
+#79:	Really? Great!	Benetan? Primeran!
+#82:	The guests were already beginning to wonder why the meat started to taste differently.	Gonbidatuak elkarri galdezka hasi ziren ea zergatik zuen zapore desberdina.
+#83:	Here, take this as a thank you.	Tori, hartu hau esker on gisa.
+#62:	Any work around here?	Ba al dago lanik hemen?
+#63:	Something worrying you?	Kezkatzen zaituen zerbait?
+#64:	Actually, yes. We got a little pest problem.	Beno, bai. Arazo txiki bat dugu.
+#65:	Again.	Berriro.
+#66:	Oh, alright.	Oh, ondo da.
+#67:	But since you're asking, wanna help us out with that?	Baina galdetzen duzunez, lagundu nahi al diguzu?
+#70:	Nah.	Ez.
+#71:	Ok then. I guess it was too much to hope to have a helping hand here.	Ondo da. Beharbada gehiegitxo zen norbaitek laguntzea.
+#68:	Sure.	Noski.
+#72:	Great.	Primeran.
+#73:	You see, flesh maggots have made their nest inside the bar's meat reserves.	Begira, haragi-zizareek habia egin dute haragi-erreserben barruan.
+#74:	And to get rid of 'em we need something potent.	Eta haietaz libratzeko zerbait indartsua behar dugu.
+#99:	Eh... Is that the meat you're serving here?	Eh... Hemen zerbitzatzen ari zaren haragia al da?
+#100:	Yes.	Bai.
+#101:	Like I said, we need something potent against flesh maggots.	Esan dudan bezala, zerbait eraginkorra behar dugu harren aurka.
+#81:	But we ran out of poison.	Baina ez dugu pozoirik.
+#75:	There's a doctor up in Tauris. He sold us the last batch. Try it over there.	Taurisen dagoen mediku batek azken lagina saldu zigun. Zoaz harengana.
+#102:	Alright. Will do.	Ederki. Joango naiz.
+#106:	I heard the doctor is dead.	Medikua hilda dagoela entzun dut.
+#107:	What? Ohh, fuck me. What a miserable world.	Zer? Oh, joder. Kaka zaharra!   
+#108:	I have to make do without the poison then. Thanks for letting me know.	Pozoirik gabe moldatuko naiz. Eskerrik asko esateagatik.
+#127:	Anything else?	Besterik?
+#14:	So this is the Puke Bar...	Beraz, hau da OKA taberna...
+#117:	Anything interesting?	Zerbait interesgarririk?
+#15:	Always. There are travelers stopping by here.	Beti. Bidaiariak hemendik pasatzen dira.
+#112:	Drinks and food are good. Obviously.	Edariak eta janariak onak dira, jakina.
+#113:	We have a Cyberwomb room that may or may not be functional.	Umetoki zibernetiko bat dugu, baliteke ibiltzea... edo ez.
 #114:	And the Bar is old enough that it has some secrets I can't tell you about.	Y el bar es lo bastante viejo para tener secretos que no puedo contarte.
-#115:	Obviously.	Obviamente.
-#116:	Correct.	Exacto.
-#123:	Do you know where I can find the Oracle?	¿Sabes dónde puedo encontrar el Oráculo?
-#124:	Never heard of an Oracle.	Nunca oí hablar de un Oráculo.
-#125:	But if you're religious or something like that you should probably head east towards New Delphi.	Pero si eres religioso o algo de eso deberías ir al este hacia Nueva Delphi.
-#126:	Occasionally pilgrims are making a stop here and trying to convert me, haha.	Los peregrinos ocasionalmente paran por aquí para intentar que me convierta, jaja.
-#129:	Ok. Thank you.	Está bien, gracias.
-#27:	Let me see what you're offering.	Déjame ver lo que tienes.
-#28:	Sure.	Claro.
-#17:	Welcome to the Puke Bar.	Bienvenido al bar Vómito.
-#118:	I'm Eldred.	Soy Eldred.
-#18:	What do you need? Booze? Meat? Something else?	¿Qué necesitas? ¿Bebida? ¿Carne? ¿Algo más?
+#115:	Obviously.	Jakina.
+#116:	Correct.	Horixe.
+#123:	Do you know where I can find the Oracle?	Badakizu non aurki dezakedan Orakulua?
+#124:	Never heard of an Oracle.	Ez Orakuluren bati buruz inoiz ezer entzun.
+#125:	But if you're religious or something like that you should probably head east towards New Delphi.	Baina erlijiosoa bazara, ekialdera joan beharko zenuke New Delphi-rantz.
+#126:	Occasionally pilgrims are making a stop here and trying to convert me, haha.	Noizean behin erromesak hemen gelditzen dira ni haien erlijiora bihurtu nahiean, kar-kar-kar.
+#129:	Ok. Thank you.	Ongi da, eskerrik asko.
+#27:	Let me see what you're offering.	Ikus dezagun ea zer daukazun...
+#28:	Sure.	Noski.
+#17:	Welcome to the Puke Bar.	Ongi etorri OKA tabernara.
+#118:	I'm Eldred.	Eldred naiz.
+#18:	What do you need? Booze? Meat? Something else?	Zer behar duzu? Edaria? Haragia? Beste zerbait?
 ------------------------------------------		
 SEQUENCE BarNakedMan		
-#4:	Have you seen my clothes?	¿Has visto mi ropa?
-#2:	Do I look like I care?	¿Parece que me importe?
-#5:	You have clothes on.	Tú tienes ropa.
-#7:	Yeah, but...	Sí, pero...
-#12:	Look!	¡Mira!
-#9:	STOP THAT DANGLING!	¡DEJA DE MOVERTE!
-#10:	Hahaha.	Jajaja.
-#11:	I knew you would care.	Sabía que te importaría.
+#4:	Have you seen my clothes?	Ikusi al duzu nire arropa?
+#2:	Do I look like I care?	Axola zaidala dirudi?
+#5:	You have clothes on.	Jantzita zaude.
+#7:	Yeah, but...	Bai, baina...
+#12:	Look!	Begira!
+#9:	STOP THAT DANGLING!	GELDI!
+#10:	Hahaha.	Karkarkar.
+#11:	I knew you would care.	Banekien axokako zitzaizula.
 ------------------------------------------		
 SEQUENCE FleshComment		
-#2:	Damned flesh everywhere.	Maldita carne, está por todos lados.
-#4:	And I am not even hungry.	Y ni siquiera tengo hambre.
-#7:	Bleh. How can this thing live?	Bleh. ¿Cómo puede vivir esta cosa?
-#6:	Disgusting.	Repugnante.
+#2:	Damned flesh everywhere.	Haragi puta, nonahi dago.
+#4:	And I am not even hungry.	Gainera, ez naiz, ezta gose ere.
+#7:	Bleh. How can this thing live?	Bleh. Nola bizi daiteke gauza hau?
+#6:	Disgusting.	Nazkagarria.
 ------------------------------------------		
 SEQUENCE PukeBarFoodField		
-#2:	Looks like the bar is growing it's own food.	Parece que el bar cultiva su propia comida.
-#3:	Don't know if it's wise to have it here where anyone can reach it.	No sé si es buena idea hacerlo aquí donde cualquiera está alcance.
+#2:	Looks like the bar is growing it's own food.	Badirudi tabernak bere janaria lantzen duela.
+#3:	Don't know if it's wise to have it here where anyone can reach it.	Ez dakit ideia ona den hemen egitea edonoren bistara.
 ------------------------------------------		
 SEQUENCE PukeBarSign		
-#2:	Looks like my kind of place.	Parece apropiado para mi.
+#2:	Looks like my kind of place.	Egokia dela dirudi.
 ------------------------------------------		
 SEQUENCE TutorialExitLever		
-#65:	I used that already.	Ya he usado eso.
-#63:	It's already open.	Ya está abierto.
+#65:	I used that already.	Dagoeneko erabilita.
+#63:	It's already open.	Dagoeneko irekita.
 ------------------------------------------		
 SEQUENCE SeveredHead		
-#11:	Severed ties, forgotten, obscured by the will of people to forget.	Corbatas cortadas, oscurecidas por la voluntad de las personas olvidadas.
-#12:	But it can't. Have to hold on to it.	Pero no puedo. Tengo que aferrarme a ello.
-#13:	It's dear to us all. It's important.	Es querido para todos. Es importante.
-#14:	It's... nothing.	Es... nada.
-#7:	A cold, crimson morning.	Una fría mañana carmesí.
-#8:	Heads of my brothers and sisters. Corpses. Blood everywhere.	Cabezas de mis hermanos y hermanas. Cadáveres. Sangre por todas partes.
-#9:	But where's my hand?	¿Pero, dónde está mi mano?
-#10:	WHERE'S MY BLOODY HAND?	¿DÓNDE ESTÁ MI JODIDA MANO?
-#3:	Smelling like lustful orgies, partaken and forgotten.	Huele a orgías desenfrenadas, lujuriosas y olvidadas.
-#2:	It's her scent. She's everywhere.	Es su olor. Ella está en todas partes.
-#4:	Impossible life, misplaced.	Vida imposible, fuera de lugar.
-#15:	Who are you?	¿Quién eres?
+#11:	Severed ties, forgotten, obscured by the will of people to forget.	Gorbata moztuak, ahaztutako pertsonen borondateak ilunduak.
+#12:	But it can't. Have to hold on to it.	Baina ezin dut. Horri eutsi behar diot.
+#13:	It's dear to us all. It's important.	Denok maite dugu. Garrantzitsua da.
+#14:	It's... nothing.	Ez da... ezer.
+#7:	A cold, crimson morning.	Goiz gorri hotza.
+#8:	Heads of my brothers and sisters. Corpses. Blood everywhere.	Nire anai-arreben buruak. Gorpuak. Odola nonahi.
+#9:	But where's my hand?	Baina, non dago nire eskua?
+#10:	WHERE'S MY BLOODY HAND?	NON, OSTIA, DAGO, NIRE ESKUA?
+#3:	Smelling like lustful orgies, partaken and forgotten.	Orgia neurrigabe, lizun eta ahaztuen usaina du.
+#2:	It's her scent. She's everywhere.	Bere usaina da. Leku guztietan dago.
+#4:	Impossible life, misplaced.	Ezinezko bizitza, lekuz kanpokoa.
+#15:	Who are you?	Nor zara?
 ------------------------------------------		
 SEQUENCE AgiraDialogue		
 #26:	Take care. Look out for yourself.	Ten cuidado. Protégete a ti mismo.
