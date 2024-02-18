@@ -1998,206 +1998,206 @@ SEQUENCE BlindMansFriend
 #34:	I'm sure I'll get to hear lots of stories once my friend is back.	Seguru istorio pila bat entzungo ditudala nire laguna itzultzen denean.
 #30:	Thank you for being such an honest person.	Eskerrik asko hain zintzoa izateagatik.
 #32:	May the titans bless your heart.	Titanek bedeinka zaitzatela.
-#28:	Leave, you monster.	Largo de aquí, monstruo.
-#2:	A friend of mine recently decided to travel around more.	Un amigo mío decidió pasar por aquí más a menudo.
-#3:	He's gone to a place called "Mine 19" to the west of here.	Se fue a la "Mina 19" al oeste de aquí.
-#5:	I wonder how he's doing.	Me pregunto como le va.
-#15:	He's not coming back again.	No va a regresar.
-#16:	I made sure of that.	Me aseguré de ello.
-#19:	I don't know what you've done.	No sé lo que has hecho.
-#20:	But you have to leave now.	Pero tienes que irte.
-#10:	I'm sorry to tell you...	Siento decírtelo...
-#12:	I think he died.	Creo que está muerto.
-#13:	My condolences.	Mis condolencias.
-#17:	I kind of knew it.	Ya lo suponía.
-#18:	The world is a dangerous place.	El mundo es un lugar peligroso.
-#31:	Thank you for being honest with me.	Gracias por ser honesto conmigo.
-#7:	I've met him.	Lo he conocido.
-#8:	I'm sure he's doing fine.	Seguro que le va bien.
+#28:	Leave, you monster.	Ospa hemendik, munstro halakoa.
+#2:	A friend of mine recently decided to travel around more.	Duela gutxi nire lagun bat hemendik sarriago pasatzea erabaki du.
+#3:	He's gone to a place called "Mine 19" to the west of here.	"19 Mina"-ra joan zen hemendik mendebalderantz.
+#5:	I wonder how he's doing.	Nola doakion galdetzen diot neure golkorako.
+#15:	He's not coming back again.	Ez da itzuliko.
+#16:	I made sure of that.	Ziurtatu nuen.
+#19:	I don't know what you've done.	Ez dakit zer egin duzun.
+#20:	But you have to leave now.	Baina joan egin behar zara.
+#10:	I'm sorry to tell you...	Barkatu esatea...
+#12:	I think he died.	Hilda dagoela uste dut.
+#13:	My condolences.	Nire doluminak.
+#17:	I kind of knew it.	Suposatzen nuen.
+#18:	The world is a dangerous place.	Mundua leku arriskutsua da.
+#31:	Thank you for being honest with me.	Eskerrik asko nirekin zintzoa izateagatik.
+#7:	I've met him.	Ezagutu dut.
+#8:	I'm sure he's doing fine.	Ziur ondo doakiola.
 ------------------------------------------		
 SEQUENCE BlockedForNow		
-#2:	Someone blocked this off.	Alguien lo ha bloqueado.
-#3:	I don't see any passage through it right now.	No veo forma de pasar, por ahora.
+#2:	Someone blocked this off.	Norbaitek blokeatu du.
+#3:	I don't see any passage through it right now.	Oraingoz, ez dut pasatzeko modurik ikusten.
 ------------------------------------------		
 SEQUENCE Bunker17AWorkbench		
-#2:	A workbench. Maybe that gets useful later.	Un banco de trabajo. Quizás sea útil más adelante.
+#2:	A workbench. Maybe that gets useful later.	Lantegia. Agian beranduago baliagarria izango da.
 ------------------------------------------		
 SEQUENCE ButcherGreeting		
-#2:	Ahhh. Fresh meat.	Ahhh. Carne fresca.
-#8:	Did you hear something?	¿Has oído eso?
+#2:	Ahhh. Fresh meat.	Ahhh. Haragi freskoa.
+#8:	Did you hear something?	Entzun al duzu?
 ------------------------------------------		
 SEQUENCE ButchersDenBedDialogue		
-#2:	There's a trap door hidden under the bed.	Hay una trampilla escondida bajo la cama.
-#5:	[Leave]	[Marcharse]
-#4:	[Go Down]	[Bajar]
+#2:	There's a trap door hidden under the bed.	Ohe azpian atetxoa bat dago.
+#5:	[Leave]	[Joan]
+#4:	[Go Down]	[Jaitsi]
 ------------------------------------------		
 SEQUENCE ButtonStartArena		
-#2:	Prepare to fight!	¡Prepárate para luchar!
+#2:	Prepare to fight!	Prestatu borrokarako!
 ------------------------------------------		
 SEQUENCE Careful		
-#2:	Careful!	¡Cuidado!
+#2:	Careful!	KASU!
 ------------------------------------------		
 SEQUENCE ClosedDoor		
-#2:	I can't open this.	No puedo abrir esto.
+#2:	I can't open this.	Ezin dut ireki.
 ------------------------------------------		
 SEQUENCE CommentBadWeather		
 #3:	Fuck.	Joder.
 ------------------------------------------		
 SEQUENCE CommentDoorBroken		
-#5:	This one's broken.	Está roto.
-#4:	Doesn't function anymore.	No funciona.
-#2:	Broken.	Roto.
+#5:	This one's broken.	Apurtuta dago.
+#4:	Doesn't function anymore.	Ez dabil.
+#2:	Broken.	Apurtuta.
 ------------------------------------------		
 SEQUENCE CommentDoorLocked		
-#2:	Locked.	Cerrado.
+#2:	Locked.	Itxita.
 ------------------------------------------		
 SEQUENCE CommentDoorLockedDoorItself		
-#4:	This door looks half-broken.	La puerta está medio rota.
+#4:	This door looks half-broken.	Atea erdi apurtuta dago.
 ------------------------------------------		
 SEQUENCE CommentDoorLockedTutorialMeleeFirst		
-#2:	This looks useful.	Esto parece útil
+#2:	This looks useful.	Honek erabilgarria dirudi.
 ------------------------------------------		
 SEQUENCE CommentDoorUnlock		
-#3:	I opened it.	Abierto.
-#2:	The key fits.	La llave encaja.
+#3:	I opened it.	Irekit dut.
+#2:	The key fits.	Giltza bat dator.
 ------------------------------------------		
 SEQUENCE CommentEugh		
 #2:	Eugh.	Eugh.
 ------------------------------------------		
 SEQUENCE CommentFeelingSickCannotEatMore		
-#7:	I feel sick.	Me encuentro mal.
-#5:	I cannot eat any of this.	No puedo comer nada de esto.
-#4:	I feel too sick to eat this.	Estoy demasiado enfermo para comer esto.
+#7:	I feel sick.	Gaizki nago.
+#5:	I cannot eat any of this.	Ezin dut honelakorik jan.
+#4:	I feel too sick to eat this.	Gaixoegi nago hau jateko.
 ------------------------------------------		
 SEQUENCE CommentGettingPushed		
-#6:	Hey! Watch your shit.	¡Oye, ten cuidado!
-#7:	Hey! Idiot.	¡Hey, idiota!
-#5:	Hey! Don't push me.	¡Oye, no me empujes!
-#4:	Hey! Stop that.	¡Deja de hacer eso!
+#6:	Hey! Watch your shit.	Txo! KASU!
+#7:	Hey! Idiot.	Txo! PAPAU!
+#5:	Hey! Don't push me.	TXO, ez bultzatu!
+#4:	Hey! Stop that.	TXO! GELDITZEKO ESAN DIZUT!
 ------------------------------------------		
 SEQUENCE CommentGettingPushedTooMuch		
-#6:	That was the last time you pushed me.	Es la última vez que me empujas.
-#5:	Woah! Enough is enough.	¡Basta, ya es suficiente!
-#4:	Alright. That's enough.	Está bien. Se acabó.
+#6:	That was the last time you pushed me.	Bultzatzen nauzun azken aldia da.
+#5:	Woah! Enough is enough.	Nahikoa da!
+#4:	Alright. That's enough.	Ongi da. Amaitu da.
 ------------------------------------------		
 SEQUENCE CommentGrunt		
-#5:	*moan*	*gime*
+#5:	*moan*	*adiakatu* *(gemir)
 #4:	Phew.	Buff.
-#3:	*grunt*	*gruñido*
+#3:	*grunt*	*marmarra*
 ------------------------------------------		
 SEQUENCE CommentGuardPlayerWeapon		
-#7:	You look like shit.	Te ves horrible.
-#4:	Try some shit and you'll be dead first.	Inténtalo y acabarás muerto.
-#8:	Wanna try your luck, punk?	¿Quieres probar suerte, capullo?
-#3:	Move along!	¡Muévete!
-#6:	Go away.	Largo de aquí.
-#13:	Please behave.	Compórtate.
-#12:	Keep being peaceful!	¡Mantén la paz!
-#11:	Move along!	¡Continua!
+#7:	You look like shit.	Itxura zantarra duzu.
+#4:	Try some shit and you'll be dead first.	Saiatu eta hiltzen lehena izango zara.
+#8:	Wanna try your luck, punk?	Probatu nahi al duzu? TXINGAU OSTIDXORI!
+#3:	Move along!	Mugi!
+#6:	Go away.	Ospa hemendik.
+#13:	Please behave.	Ondo portatu.
+#12:	Keep being peaceful!	Baketsua izan!
+#11:	Move along!	Segi!
 ------------------------------------------		
 SEQUENCE CommentOnCyberwombMachineTutorialHub		
-#2:	What is this machine? Looks broken.	¿Qué es esta máquina? Parece rota.
+#2:	What is this machine? Looks broken.	Zer da makina hau? Badirudi ez dabilela.
 ------------------------------------------		
 SEQUENCE CommentOnGettingPulled		
-#6:	What the fuck?	¿Qué cojones?
-#7:	Ohh. That felt hot.	Ohh. Eso está caliente.
-#5:	Watch out!	¿Cuidado?
-#9:	Oh my, that got my body shaking. Nice.	Vaya, eso ha espabilado a mi cuerpo. Genial.
-#10:	Oha. Was that you?	Oh, ¿has sido tú?
-#8:	Oh. Hello there.	Oh, hola.
-#4:	Hey!	¡Oye!
-#11:	Ohhh. Do you need some company?	Ohhh. ¿Necesitas compañía?
-#3:	Hey. What was that?	Oye, ¿qué ha sido eso?
+#6:	What the fuck?	BAINA ZE PUTALARRU!
+#7:	Ohh. That felt hot.	Ohh. Hori bero dago.
+#5:	Watch out!	KASU!
+#9:	Oh my, that got my body shaking. Nice.	Horrek nire gorputza berpiztu du. Primeran.
+#10:	Oha. Was that you?	Oh, zu izan al zara?
+#8:	Oh. Hello there.	Oh, kaixo.
+#4:	Hey!	Txo!
+#11:	Ohhh. Do you need some company?	Ohhh. Lagunik behar al duzu? 
+#3:	Hey. What was that?	Txo, hori zer ostia izan da?
 ------------------------------------------		
 SEQUENCE CommentPhilosopherCyberwomb		
-#2:	Dead. Like in real life.	Muerto. Como en la vida real.
+#2:	Dead. Like in real life.	Hilda. Horrelako da bizitza.
 ------------------------------------------		
 SEQUENCE CommentThief		
-#6:	Woah! I saw that, you thief.	¡Oye, he visto eso! ¡Ladrón!
-#7:	Hey! You thief!	¡Eh, ladrón!
-#10:	Thief!	¡Ladrón!
-#4:	Fuck. You bastard!	¡Joder, maldito bastardo!
+#6:	Woah! I saw that, you thief.	Txo, ikusi zaitut! Lapurra!
+#7:	Hey! You thief!	Txo! Lapurra!
+#10:	Thief!	Lapur puta!
+#4:	Fuck. You bastard!	Joder, sasikume zital halakoa!
 ------------------------------------------		
 SEQUENCE CommentUnusable		
-#6:	Doesn't look important.	No parece importante.
-#5:	This doesn't look useful.	No parece útil.
-#4:	I have no idea what this is.	No tengo ni idea de lo que es.
-#2:	What even is this?	¿Qué es esto?
+#6:	Doesn't look important.	Ez dirudi garrantzitsua denik.
+#5:	This doesn't look useful.	Ez dirudi erabilgarria denik.
+#4:	I have no idea what this is.	Ez dakit zer den.
+#2:	What even is this?	Baina zer da hau?
 ------------------------------------------		
 SEQUENCE CommentUseMachine		
 #5:	Bam.	Bam.
-#4:	That's it.	Eso es.
-#3:	Here we go.	Allá vamos.
+#4:	That's it.	Ekilikua.
+#3:	Here we go.	Goazen.
 ------------------------------------------		
 SEQUENCE CompanionBanter		
-#9:	*mumbles inaudlible*	*murmullo inaudible*
-#12:	Where's a bottle of Schnaps when you need it?	¿Dónde hay una botella de Schnaps cuando la necesitas?
-#20:	Icky.	Repugnante.
+#9:	*mumbles inaudlible*	*xuxurla entzunezina*
+#12:	Where's a bottle of Schnaps when you need it?	Non dago KALIMOTXO botila bat behar duzunean?
+#20:	Icky.	Nazkagarria.
 #8:	Hmmh.	Hmmm.
-#11:	I need a piece of meat.	Necesito un trozo de carne.
-#5:	Those folks look creepy.	Esos tipos parecen sospechosos.
-#10:	Fuckin' stones. Always fuckin' stones everywhere.	Malditas piedras. Piedras por todas partes.
-#18:	*scratch*	*se rasca*
-#23:	Uhhh. I don't feel so well.	Uhhh. No me siento muy bien.
-#15:	That's some serious shit.	Eso parece serio.
-#2:	I wonder where I left my lube.	Me pregunto dónde dejé mi lubricante.
-#16:	Well...	Bueno...
-#6:	I'm hungry. Someone should feed me.	Tengo hambre. Alguien debería darme de comer.
-#4:	It's cold today.	Hace frío hoy.
-#7:	I just love this cultist life.	Me encanta la vida de cultista.
-#21:	I could use some humping.	Me vendría bien follar un poco.
+#11:	I need a piece of meat.	Haragi zati bat behar dut.
+#5:	Those folks look creepy.	Tipo horiek susmagarriak dirudite.
+#10:	Fuckin' stones. Always fuckin' stones everywhere.	Ama putien harridxek txo! Harriak nonahi.
+#18:	*scratch*	*hazka egiten du*
+#23:	Uhhh. I don't feel so well.	Uhhh. Ez nago oso ondo.
+#15:	That's some serious shit.	Larria dirudi.
+#2:	I wonder where I left my lube.	Non utzi dut lubrikatzailea?
+#16:	Well...	Tira...
+#6:	I'm hungry. Someone should feed me.	Gose naiz. Norbaitek jaten eman beharko lidake.
+#4:	It's cold today.	TXUT! Hotzari!
+#7:	I just love this cultist life.	Asko gustatzen zait kultista izatea.
+#21:	I could use some humping.	Ongi etorriko litzaidake txortan egitea.
 ------------------------------------------		
 SEQUENCE Complain		
-#3:	Fuck!	¡Joder!
-#4:	That's not what I wanted.	Eso no es lo que quería.
-#5:	Damn.	Maldición.
+#3:	Fuck!	Joder!
+#4:	That's not what I wanted.	Ez nuen hori nahi.
+#5:	Damn.	Kaka zaharra.
 ------------------------------------------		
 SEQUENCE ControlledByOther		
-#11:	*scraping*	*rascando*
+#11:	*scraping*	*hazka egiten*
 #10:	Grrrr.	Grrrr.
-#9:	*sniff*	*huele*
+#9:	*sniff*	*usaintzen*
 #8:	Ahh.	Ahh.
 #6:	Hmmmmmh.	Hmmmmmh
 #7:	Ohh.	Ohh.
-#5:	Master.	Maestro.
+#5:	Master.	Maisu.
 ------------------------------------------		
 SEQUENCE CultistBanter		
-#4:	The sun is always there.	El sol siempre está ahí.
-#5:	I never get tired of eating meat.	Nunca me canso de comer carne.
-#9:	Hey... Don't talk to me.	Oye... no me hables.
-#8:	I wish I were still in Cyberwomb. Everything's bland out here.	Me gustaría volver al útero cibernético. Todo es aburrido aquí.
-#7:	I don't trust the machines.	No me fío de las máquinas.
-#6:	I don't remember if it ever rained here.	No recuerdo la última vez que llovió.
-#3:	The flesh provides!	¡La carne provee!
+#4:	The sun is always there.	Eguzkia beti dago hor.
+#5:	I never get tired of eating meat.	Ez naiz inoiz okela jateaz aspertzen.
+#9:	Hey... Don't talk to me.	Txo, ez dut txintik entzun nahi.
+#8:	I wish I were still in Cyberwomb. Everything's bland out here.	Umetoki zibernetikora itzuli nahi nuke. Hemen aspergartu besterik ez naiz egiten.
+#7:	I don't trust the machines.	Ez naiz makinez fio.
+#6:	I don't remember if it ever rained here.	Ez dut gogoratzen euria egin zuen azken aldia.
+#3:	The flesh provides!	Haragiak hornitzen du!
 ------------------------------------------		
 SEQUENCE CultistLeader		
-#10:	Leave me alone.	Déjame en paz.
-#9:	I don't talk to the likes of you.	No hablo con los tuyos.
-#12:	Move along.	Largo.
+#10:	Leave me alone.	Utzi bakean. SEP
+#9:	I don't talk to the likes of you.	Ez dut zurelako jendillajearekin hitz egiten.
+#12:	Move along.	Ospa.
 ------------------------------------------		
 SEQUENCE CultistPrisonerBanter		
-#12:	I don't remember the last time I saw the sun.	No recuerdo la última vez que vi el sol.
-#17:	I'm so hungry.	Tengo tanta hambre.
-#13:	Nobody told me that believing in the Titans would land me in prison.	Nadie me dijo que creer en los Titanes me llevaría a prisión.
-#16:	Your weapon...	Tu arma...
-#18:	Don't tell me you smuggled it in your...	No me digas que la llevabas en el...
-#15:	Fuck these Godhunters.	Que les jodan a estos Cazadioses.
-#14:	Whatever they were feeding us, it definitely wasn't meat.	Lo que nos daban de comer, definitivamente no era carne.
-#11:	The Titans bless you.	Que los Titanes te bendigan.
+#12:	I don't remember the last time I saw the sun.	Ez dut gogoratzen eguzkia ikusi nuen azken aldia.
+#17:	I'm so hungry.	Joder gosiri txo!
+#13:	Nobody told me that believing in the Titans would land me in prison.	Inork ez zidan esan Titanengan sinesteak kartzelara eramango ninduenik.
+#16:	Your weapon...	Zure arma...
+#18:	Don't tell me you smuggled it in your...	Ez esan aldean zeneramala...
+#15:	Fuck these Godhunters.	Popatik Jainko-Ehiztariei!
+#14:	Whatever they were feeding us, it definitely wasn't meat.	Jaten ematen zigutena ez zen haragia.
+#11:	The Titans bless you.	Titanek bedeinka zaitzatela.
 ------------------------------------------		
 SEQUENCE CusterCallsOutPlayer		
-#2:	Hey. you there! You look capable.	¡Oye, tú! Pareces útil.
+#2:	Hey. you there! You look capable.	Txo! Baliagarria dirudizu.
 ------------------------------------------		
 SEQUENCE CusterDialogue		
-#107:	Hi there, stranger.	Hola, extraño.
-#104:	Nice meeting you again.	Encantado de volver a verte.
-#105:	Still waiting on my contacts for selling the Machine Core.	Sigo esperando a mis contactos para vender el núcleo de la máquina.
-#106:	But I figure it's gonna happen any day now.	Pero supongo ocurrirá en cualquier momento.
-#108:	Hi there, **forename**.	Hola, **forename**.
-#3:	Hi. What's your name?	Hola, ¿cómo te llamas?
-#74:	What do you want?	¿Qué quieres?
-#77:	Want to do a job for the Collectors? It's well paid.	¿Quieres hacer un trabajo para los coleccionistas? Está bien pagado.
-#81:	Let's say I do.	Digamos que estoy interesado.
+#107:	Hi there, stranger.	Kaixo, arrotz hori.
+#104:	Nice meeting you again.	Pozten naiz zu berriz ikusteaz.
+#105:	Still waiting on my contacts for selling the Machine Core.	Nire kontaktuen zain nago makinaren nukleoa saltzeko.
+#106:	But I figure it's gonna happen any day now.	Baina uste dut edozein unetan gertatuko dela.
+#108:	Hi there, **forename**.	Kaixo, **forename**.
+#3:	Hi. What's your name?	Kaixo, zure izena?
+#74:	What do you want?	Zer nahi duzu?
+#77:	Want to do a job for the Collectors? It's well paid.	Bildumagileentzat* lan bat egin nahi duzu? Ondo ordainduta dago. *(Coleccionista)
+#81:	Let's say I do.	Demagun interesa dudala.
 #47:	Well. I'm in a bit of a hard spot right now.	Bueno. Estoy en un aprieto.
 #48:	My contact at the Collectors told me they're looking for a functioning Machine Core.	Mi contacto me dijo que estaban buscando un núcleo de máquina.
 #84:	And I know there's a bunker in the north at the edge of the mountains. I reckon it's still fully equipped.	Y sé que hay un búnker al norte cerca del límite de las montañas. Apuesto a que está totalmente equipado.
