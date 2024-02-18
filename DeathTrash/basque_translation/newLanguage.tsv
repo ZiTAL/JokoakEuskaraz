@@ -2198,806 +2198,806 @@ SEQUENCE CusterDialogue
 #74:	What do you want?	Zer nahi duzu?
 #77:	Want to do a job for the Collectors? It's well paid.	Bildumagileentzat* lan bat egin nahi duzu? Ondo ordainduta dago. *(Coleccionista)
 #81:	Let's say I do.	Demagun interesa dudala.
-#47:	Well. I'm in a bit of a hard spot right now.	Bueno. Estoy en un aprieto.
-#48:	My contact at the Collectors told me they're looking for a functioning Machine Core.	Mi contacto me dijo que estaban buscando un núcleo de máquina.
-#84:	And I know there's a bunker in the north at the edge of the mountains. I reckon it's still fully equipped.	Y sé que hay un búnker al norte cerca del límite de las montañas. Apuesto a que está totalmente equipado.
-#49:	I was on my way. But I got bitten by one of those fucking worms. Still recovering from that.	Iba de camino, pero me mordió uno de esos condenados gusanos. Todavía me estoy recuperando.
-#50:	That Machine Core worth much?	¿Tan valioso es el núcleo de máquina?
-#51:	Yes, it's the Collectors. They always pay well... if the stuff is quality.	Sí, para los coleccionistas. Siempre pagan bien... si es de calidad.
-#55:	How about you get it, then come back and I'll lead us to the buyer?	¿Qué tal si vas a conseguirlo y vuelves para llevarlo al comprador?
-#56:	Ok. I guess.	Está bien, supongo.
-#58:	Cool. Bunker 17 is to the northeast of here. At the foot of the mountains.	Estupendo. El Búnker 17 está al noreste de aquí. Al pie de las montañas.
-#116:	I'm sure you'll find it.	Seguro que lo encuentras.
-#99:	Good luck, stranger.	Buena suerte, extraño.
-#60:	Good luck, **forename**!	¡Buena suerte, **forename**!
-#73:	I don't have a name.	No tengo nombre.
-#88:	Really?	¿En serio?
-#89:	Does it matter?	¿Acaso importa?
-#90:	No. I guess not.	No, supongo que no.
-#91:	But... do you want to do a job for the Collectors? It's well paid.	Pero... ¿quieres hacer un trabajito para los coleccionistas? Está bien pagado.
+#47:	Well. I'm in a bit of a hard spot right now.	Beno... larri nabil.
+#48:	My contact at the Collectors told me they're looking for a functioning Machine Core.	Nire kontaktuak esan zidan makina nukleoa bilatzen ari zirela.
+#84:	And I know there's a bunker in the north at the edge of the mountains. I reckon it's still fully equipped.	Eta badakit bunker bat dagoela iparraldean mendien mugatik gertu. Apustu egingo nuke erabat hornituta dagoela.
+#49:	I was on my way. But I got bitten by one of those fucking worms. Still recovering from that.	Bidean nindoan, baina zizare kondenatu horietako batek kosk egin zidan. Oraindik osatzen ari naiz.
+#50:	That Machine Core worth much?	Hain baliotsua al da makinaren nukleoa?
+#51:	Yes, it's the Collectors. They always pay well... if the stuff is quality.	Bai, bildumagileentzat. Beti ondo ordaintzen dute... kalitatezkoa bada, noski.
+#55:	How about you get it, then come back and I'll lead us to the buyer?	Zer moduz lortu eta eroslearengana eramaten baduzu?
+#56:	Ok. I guess.	Ondo dagoelakoan nago.
+#58:	Cool. Bunker 17 is to the northeast of here. At the foot of the mountains.	Estupendo. Primeran. 17 Bunkerra hemendik ipar-ekialdera dago. Mendien azpikaldean.
+#116:	I'm sure you'll find it.	Seguru aurkituko duzula.
+#99:	Good luck, stranger.	Zorte on.
+#60:	Good luck, **forename**!	Zorte on **forename**!
+#73:	I don't have a name.	Ez dut izenik.
+#88:	Really?	Benetan?
+#89:	Does it matter?	Axola al du?
+#90:	No. I guess not.	Ez, ez dut uste.
+#91:	But... do you want to do a job for the Collectors? It's well paid.	Pero... Baina... bildumagileentzako lan bat egin nahi al duzu? Ondo ordaintzen dute.
 #71:	**forename**.	**forename**.
-#76:	Nice to meet you, **forename**. I'm Custer.	Encantado de conocerte, **forename**. Me llamo Custer.
-#44:	Did you find the Machine Core already?	¿Has encontrado el núcleo de máquina?
-#45:	Nope.	Nop.
-#62:	Did you find the Machine Core already?	¿Has encontrado el núcleo de máquina?
-#63:	This is it, right?	Es esto, ¿verdad?
-#65:	Hey, that looks a lot like the part described to me.	Oye, se parece mucho a lo que me describieron.
-#83:	Well done, stranger.	Bien hecho, extraño.
-#66:	Let's meet at the Puke Bar in few days.	Vamos a encontrarnos en el bar Vómito en unos días.
-#118:	I'll contact the Collectors. We'll meet again later. Bye.	Contactaré a los coleccionistas. Nos volveremos a ver. Hasta luego.
-#11:	Well done, **forename**.	Bien hecho, **forename**.
-#14:	Good that you're here, but no need to stick around.	Me alegro de que estés aquí, pero no necesitas quedarte.
-#15:	Why don't we meet later at the Puke Bar?	¿Por qué no nos reunimos en el bar Vómito?
-#120:	We'll meet again later.	Nos volveremos a ver.
+#76:	Nice to meet you, **forename**. I'm Custer.	Pozten naiz zu ezagutzeaz. Custer naiz.
+#44:	Did you find the Machine Core already?	Makina-nukleoa aurkitu al duzu?
+#45:	Nope.	Ez.
+#62:	Did you find the Machine Core already?	Makina-nukleoa aurkitu al duzu?
+#63:	This is it, right?	Hau da, ezta?
+#65:	Hey, that looks a lot like the part described to me.	Txo, deskribatu didatenaren antz handia du.
+#83:	Well done, stranger.	Ongi egina txo!
+#66:	Let's meet at the Puke Bar in few days.	OKA tabernan elkartuko gara egun batzuk barru.
+#118:	I'll contact the Collectors. We'll meet again later. Bye.	Bildumagileekin harremanetan jarriko naiz. Ikusi arte!
+#11:	Well done, **forename**.	Ongi egina, **forename**.
+#14:	Good that you're here, but no need to stick around.	Pozten naiz hemen zaudelako, baina ez duzu zertan geratu.
+#15:	Why don't we meet later at the Puke Bar?	Zergatik ez gara OKA tabernan elkartzen?
+#120:	We'll meet again later.	Berriro ikusiko dugu elkar.
 ------------------------------------------		
 SEQUENCE Cyberwomb		
-#23:	This machine is off.	La máquina está apagada.
-#3:	Welcome to Cyberwomb.	Bienvenido al útero cibernético.
-#16:	You do not own any modules for the Cyberwomb at the moment.	No posees ningún módulo en este momento.
-#13:	[Leave]	[Marcharse]
-#17:	Where can I get more modules?	¿Dónde puedo conseguir módulos?
-#18:	This information is not available.	Está información no está disponible.
-#19:	Cyberwomb modules are custom created experiences for the rare collector.	Los módulos de útero cibernético son experiencias personalizadas creadas para coleccionistas. 
-#21:	Therefore, no traditional distribution channels exist.	Por lo tanto, no existen canales de distribución.
-#45:	[Show Modules]	[Mostrar Módulos]
-#5:	Do you want to launch any module?	¿Qué módulo deseas operar?
+#23:	This machine is off.	Makina itzalita dago.
+#3:	Welcome to Cyberwomb.	Ongi etorri umetoki zibernetikora.
+#16:	You do not own any modules for the Cyberwomb at the moment.	Une honetan ez duzu modulurik.
+#13:	[Leave]	[Joan]
+#17:	Where can I get more modules?	Non lor ditzaket moduluak?
+#18:	This information is not available.	Informazio hori ez dago eskuragarri.
+#19:	Cyberwomb modules are custom created experiences for the rare collector.	Umetoki zibernetikoko moduluak bildumagileentzat sortutako esperientzia pertsonalizatuak dira.
+#21:	Therefore, no traditional distribution channels exist.	Beraz, ez dago banaketa-kanalik.
+#45:	[Show Modules]	[Erakutsi moduluak]
+#5:	Do you want to launch any module?	Zein modulu erabili nahi duzu?
 ------------------------------------------		
 SEQUENCE CyberWombAtAksa		
-#10:	Cyberwomb, version zero point three, customized.	Módulo cibernético, version cero punto tres, personalizada.
-#11:	Do you want to enter?	¿Quieres entrar?
-#23:	[Leave]	[Marcharse]
-#24:	Yes.	Sí.
-#26:	Loading module...	Cargando módulo.
-#29:	This machine is off.	La máquina está apagada.
-#32:	Maybe there's a chance to get it running again.	Quizás haya una forma de encenderla.
+#10:	Cyberwomb, version zero point three, customized.	Modulu zibernetikoa, zero bertsioa, hirugarren puntua, pertsonalizatua.
+#11:	Do you want to enter?	Sartu nahi al zara?
+#23:	[Leave]	[Joan]
+#24:	Yes.	Bai.
+#26:	Loading module...	Modulua kargatzen...
+#29:	This machine is off.	Makina itzalita dago.
+#32:	Maybe there's a chance to get it running again.	Beharbada nolabait piztu daiteke.
 ------------------------------------------		
 SEQUENCE CyberwombGenerator		
-#12:	This machine is running.	La máquina está encendida.
-#15:	[Leave]	[Marcharse]
-#14:	[Remove Cyberwomb Power Module]	[Quitar Módulo de Energía]
-#17:	Alright. Done.	Está bien, hecho.
-#4:	This machine is missing some kind of power module.	A la máquina le falta un módulo de energía.
-#19:	Maybe I could borrow one from a similar type of machine.	Quizás pueda pedir prestado uno de alguna máquina similar.
-#24:	Maybe there's one around  here somewhere.	Quizás haya uno por aquí en algún lado.
-#8:	[Leave]	[Marcharse]
-#7:	[Insert Cyberwomb Power Module]	[Insertar Módulo de Energía]
-#11:	Alright. Done.	Está bien, hecho.
+#12:	This machine is running.	Makina piztuta dago.
+#15:	[Leave]	[Joan]
+#14:	[Remove Cyberwomb Power Module]	[Energia-modulua kendu]
+#17:	Alright. Done.	Ongi da. Eginda.
+#4:	This machine is missing some kind of power module.	Makinari energia-modulu bat falta zaio.
+#19:	Maybe I could borrow one from a similar type of machine.	Agian antzeko makinaren bat eska dezaket maileguan.
+#24:	Maybe there's one around  here somewhere.	Agian hemen nonbait izango da bat.
+#8:	[Leave]	[Joan]
+#7:	[Insert Cyberwomb Power Module]	[Energia-modulua txertatu]
+#11:	Alright. Done.	Ongi da. Eginda.
 ------------------------------------------		
 SEQUENCE CyberwombTutorialRobot		
-#3:	Welcome to Cyberwomb!	¡Bienvenido al útero cibernético!
-#14:	[Leave]	[Marcharse]
-#13:	Are you real?	¿Eres real?
-#15:	I'm just software, and, at the moment, instanced in your imagination.	Solo soy un software, y en este momento producto de tu imaginación.
-#17:	If this means I'm real to you, then I'm real.	Significa que si soy real para ti entonces sí lo soy.
-#18:	How can I help you?	¿Cómo puedo ayudarte?
-#9:	Can I die in Cyberwomb?	¿Puedo morir en el útero?
-#10:	Yes, you can.	Sí, puedes.
-#8:	What is Cyberwomb?	¿Qué es un útero cibernético?
-#11:	Cyberwomb is a virtual world simulator with state of the art feedback channels.	Un útero cibernético es un simulador de mundo virtual con la tecnología más avanzada.
-#12:	It's an offline variant of Omniwomb.	Es una variante sin conexión del Omniútero.
-#20:	Can we connect to Omniwomb?	¿Podemos conectar con el Omniútero?
-#21:	No, we cannot. This installation has no online capabilities.	No, no se puede. Está instalación no tiene capacidad de conexión.
-#4:	Feel free to explore.	Siéntete libre de explorar.
-#5:	If you want to leave Cyberwomb, please touch the OmniPortal.	Si quieres salir, puedes tocar el Omniportal.
+#3:	Welcome to Cyberwomb!	Ongi etorri umetoki zibernetikora!
+#14:	[Leave]	[Joan]
+#13:	Are you real?	Benetakoa al zara?
+#15:	I'm just software, and, at the moment, instanced in your imagination.	Zure irudimenan sortutako software bat besterik ez naiz.
+#17:	If this means I'm real to you, then I'm real.	Zuretzat benetakoa banaiz, orduan benetakoa naiz.
+#18:	How can I help you?	Nola lagundu zaitzaket?
+#9:	Can I die in Cyberwomb?	Umetokian hil naiteke?
+#10:	Yes, you can.	Bai, ahal duzu.
+#8:	What is Cyberwomb?	Zer da umetoki zibernetikoa?
+#11:	Cyberwomb is a virtual world simulator with state of the art feedback channels.	Utero zibernetikoa teknologiarik aurreratuena duen mundu birtualeko simulagailua da.
+#12:	It's an offline variant of Omniwomb.	Omni-uteroaren konexiorik gabeko aldaera da.
+#20:	Can we connect to Omniwomb?	Konekta gaitezke Omni-uterora?
+#21:	No, we cannot. This installation has no online capabilities.	Ez, ezin da. Instalazio honek ez du konexio-ahalmenik.
+#4:	Feel free to explore.	Esploratu libreki.
+#5:	If you want to leave Cyberwomb, please touch the OmniPortal.	Irten nahi baduzu, Omni-portala jo zaitezke.
 ------------------------------------------		
 SEQUENCE DeadPhilosopher		
-#2:	He's dead.	Está muerto.
-#5:	Looks like he was murdered.	Parece que ha sido asesinado.
+#2:	He's dead.	Hilda dago.
+#5:	Looks like he was murdered.	Erahila izan dela dirudi.
 ------------------------------------------		
 SEQUENCE DeadTitanInCyberwomb		
 #2:	Ohhh.	Ohhh.
-#3:	Was it killed?	¿Ha sido asesinado?
-#4:	Or used, and then killed? Hard to say.	¿O usado y asesinado? Difícil de saber.
+#3:	Was it killed?	Hil egin al dute?
+#4:	Or used, and then killed? Hard to say.	Edo erabilia eta erahila? Zaila da jakitea.
 ------------------------------------------		
 SEQUENCE DeathWarning		
-#2:	STOP! Turn back immediately!	¡ALTO! ¡Da la vuelta de inmediato!
-#3:	You're entering a restricted zone and will be terminated if you continue.	Entras en una zona restringida y serás eliminado de continuar.
+#2:	STOP! Turn back immediately!	Geldi! Eman buelta berehala!
+#3:	You're entering a restricted zone and will be terminated if you continue.	Debekatuta dago sartzea, jarraituz gero hilko zaituzte.
 ------------------------------------------		
 SEQUENCE DisguisedTitan		
-#2:	*sleeping*	*durmiendo*
+#2:	*sleeping*	*lotan*
 ------------------------------------------		
 SEQUENCE DoctorTauris		
-#3:	Hello. Do you need anything?	Hola, ¿necesitas algo?
-#12:	[Leave]	[Marcharse]
-#4:	[Browse Services]	[Ver servicios]
-#20:	I'm looking for some poison.	Busco veneno.
-#21:	I'm a doctor. I don't kill people. Usually.	Soy doctor, no mato a gente. Normalmente.
-#22:	Ask somebody else.	Pregunta a otro.
-#23:	No, no. You misunderstand.	No, no. No me has entendido.
-#24:	I need to get rid of some flesh maggots.	Necesito librarme de gusanos de carne.
-#26:	Ah. Yeah, I got something that could help.	Ah, claro. Tengo algo que puede ayudarte.
-#27:	But it's an important ingredient of my liver medicine.	Pero es un ingrediente esencial de mi medicina hepática.
-#28:	I can't share it with you.	No puedo dartelo.
-#29:	But if you can bring me some materials I can mix it up for you.	Pero si me traes unos materiales podría hacerte una mezcla.
-#30:	I need some ethanol, a poisonous fungus, and some juice to keep the lab running.	Necesito etanol, un hongo venenoso y algo de energía para hacer funcionar el laboratorio.
-#31:	Ok. I'll go looking for that.	Vale, veré lo que puedo hacer.
-#73:	About those ingredients you need...	Sobre esos ingredientes...
-#84:	[Back]	[Volver]
-#86:	Alright. What else?	Está bien, ¿algo más?
-#57:	About the juice...	Sobre la energía...
-#64:	We're out in the wastes here.	Estamos secos por aquí.
-#65:	And the lab isn't gonna run on it's own.	Y el laboratorio no va a funcionar solo.
-#66:	I need something to induce  energy.	Necesito algo que de energía.
-#56:	About the Fungus...	Sobre el hongo...
-#61:	A mushroom.	El hongo.
-#62:	Bright, yellow, usually grows in caves.	Brillante, amarillo y suele crecer en cuevas.
-#63:	Hard to miss, really.	Difícil de no ver, la verdad.
-#55:	About the Ethanol...	Sobre el etanol...
-#58:	Yes, very important.	Sí, muy importante.
-#59:	You're an adult. I'm sure you'll find that somewhere.	Eres adulto, seguro que encuentras eso por algún lado.
-#60:	And make sure it's the good stuff.	Y asegúrate que sea bueno.
-#35:	Here are the things you asked for.	Aquí tienes lo que has pedido.
-#36:	Ahh, perfect.	Ah, perfecto.
-#42:	*gulp*	*traga*
-#43:	Did you just drink the booze?	¿Acabas de bebertelo?
-#44:	Yep.	Síp.
-#45:	I thought you needed it as an ingredient.	Pensaba que era un ingrediente.
-#46:	That's why I'm a doctor, and you're not.	Por eso YO soy el doctor y tú no.
-#87:	Alright. Let's start.	Está bien, comencemos.
-#95:	Finished.	Terminado.
-#105:	Thank you.	Gracias.
-#68:	I should probably hurry back to the Puke Bar before it's overrun by maggots.	Debería darme prisa en volver antes de que los gusanos arrasen con todo.
-#69:	Yes. You should.	Sí, deberías.
-#111:	I don't feel so well. Can you examine me?	No me siento bien, ¿podrías echarme un vistazo?
-#113:	Sure.	Claro.
-#114:	What are your symptoms?	¿Qué síntomas tienes?
-#115:	Nausea. Having to vomit occasionally.	Nauseas. Con vómitos ocasionales
-#116:	That's not unusual around here.	No es algo inusual por aquí.
-#118:	The Machines said that I am contaminated.	Las máquinas dijeron que estaba contaminado.
-#119:	You're from one of the habitats?	¿Eres de uno de los hábitats?
-#120:	Yes.	Sí.
-#121:	Ok. Let me take a quick look.	Vale, deja que mire.
+#3:	Hello. Do you need anything?	Kaixo, zerbait behar al duzu?
+#12:	[Leave]	[Joan]
+#4:	[Browse Services]	[Zerbitzuak ikusi]
+#20:	I'm looking for some poison.	Pozoi bila nabil.
+#21:	I'm a doctor. I don't kill people. Usually.	Doktorea naiz, ez dut jendea hiltzen. Normalean.
+#22:	Ask somebody else.	Galdetu beste bati.
+#23:	No, no. You misunderstand.	Ez, ez. Ez nauzu ulertu.
+#24:	I need to get rid of some flesh maggots.	Haragi-harrez libratu behar naiz.
+#26:	Ah. Yeah, I got something that could help.	Ah, bai. Lagundu zaitzakeen zerbait daukat.
+#27:	But it's an important ingredient of my liver medicine.	Baina nire gibeleko botikaren funtsezko osagaia da.
+#28:	I can't share it with you.	Ezin dizut eman.
+#29:	But if you can bring me some materials I can mix it up for you.	Baina material batzuk ekartzen badizkidazu, nahasketa bat egin diezazuket.
+#30:	I need some ethanol, a poisonous fungus, and some juice to keep the lab running.	Etanola, onddo pozoitsua eta energia pixka bat behar ditut laborategia martxan jartzeko.
+#31:	Ok. I'll go looking for that.	Ikusiko dut zer egin dezakedan.
+#73:	About those ingredients you need...	Osagai horiei buruz...
+#84:	[Back]	[Itzuli]
+#86:	Alright. What else?	Ondo da, besterik?
+#57:	About the juice...	Energiari buruz...
+#64:	We're out in the wastes here.	Hondakinez inguraturik gaude.
+#65:	And the lab isn't gonna run on it's own.	Eta laborategiak ez du bakarrik funtzionatuko.
+#66:	I need something to induce  energy.	Energia pixka bat behar dut.
+#56:	About the Fungus...	Onddoari buruz...
+#61:	A mushroom.	Onddoa.
+#62:	Bright, yellow, usually grows in caves.	Distiratsua, horia eta kobetan hazten da.
+#63:	Hard to miss, really.	Zaila da ez ikustea, egia esan.
+#55:	About the Ethanol...	Etanolari buruz...
+#58:	Yes, very important.	Bai, oso garrantzitsua.
+#59:	You're an adult. I'm sure you'll find that somewhere.	Heldua zara, ziur aski nonbait aurkituko duzula.
+#60:	And make sure it's the good stuff.	Eta ziurtatu ona dela.
+#35:	Here are the things you asked for.	Hemen duzu eskatutakoa.
+#36:	Ahh, perfect.	Ah, primeran.
+#42:	*gulp*	*irentsi*
+#43:	Did you just drink the booze?	Oraintxe edan al duzu?
+#44:	Yep.	Bai.
+#45:	I thought you needed it as an ingredient.	Osagai bat zela uste nuen.
+#46:	That's why I'm a doctor, and you're not.	Horregatik naiz NI medikua, eta zu ez.
+#87:	Alright. Let's start.	Ongi da, has gaitezen.
+#95:	Finished.	Amaituta.
+#105:	Thank you.	Mila esker.
+#68:	I should probably hurry back to the Puke Bar before it's overrun by maggots.	Azkar itzuli beharko naiz zizareek dena suntsitu baino lehen.
+#69:	Yes. You should.	Bai, beharko zara.
+#111:	I don't feel so well. Can you examine me?	Ez nago ondo. Aztertuko didazu?
+#113:	Sure.	Noski.
+#114:	What are your symptoms?	Zer sintoma dituzu?
+#115:	Nausea. Having to vomit occasionally.	Goragalea. Noizbehinkako gonbitoekin.
+#116:	That's not unusual around here.	Hori hemen ohikoa da.
+#118:	The Machines said that I am contaminated.	Makinek kutsatuta nengoela esan zuten.
+#119:	You're from one of the habitats?	Habitat batekoa zara?
+#120:	Yes.	Bai.
+#121:	Ok. Let me take a quick look.	Ados. Utzi begiratzen.
 #128:	Hmmh.	Hmmm.
-#169:	Your organs show slight irritability.	Tus órganos están un poco irritados.
-#168:	But that's expected if you're freshly exposed to the environment around here.	Pero es algo normal si te acabas de exponer a este ambiente.
-#130:	The meat and all.	La carne y eso.
-#172:	Can't see anything else on the scanner that would be a cause for your sickness.	No puedo ver nada más en el escáner debe ser la causa de tu malestar.
-#132:	Sorry, but seems I can't help you there.	Lo siento, parece que no puedo hacer más.
-#133:	Maybe...	Quizás...
-#134:	Yes?	¿Sí?
-#174:	It's a long shot, but Mortus is researching the flesh and how it affects us humans.	Es complicado pero Mortus está investigando la carne y como afecta a los humanos.
-#175:	He showed up a while ago and set up his base here in the underground beneath us.	Hace poco pasó por aquí y montó su base en el subterráneo justo debajo de nosotros.
-#176:	Maybe he could take a look at you.	Quizás pueda ayudarte.
-#137:	Ok. Thanks for the info.	De acuerdo, gracias por la información.
-#179:	Here are the brains and the Octagon fluid.	Aquí están los sesos y el líquido octágono.
-#180:	What? I didn't ask for that.	¿Qué? No he pedido eso.
-#181:	Are these for Mortus, underground?	¿Es para Mortus?
-#183:	Oh, you're right.	Ah, tienes razón.
-#151:	Do you have a spare medical scanner?	¿Tienes un escáner médico de sobra?
-#152:	What for?	¿Para qué?
-#157:	Mortus wants to examine me and needs better equipment for that.	Mortus quiere examinarme y necesita mejor equipo.
-#158:	Mortus said I would give you one?	¿Mortus dijo que te diera uno?
-#165:	Yes.	Sí.
-#166:	Alright. I guess I could lend it to Mortus.	Está bien, supongo que se lo puedo prestar.
-#167:	Here.	Toma.
-#160:	Thank you.	Gracias.
+#169:	Your organs show slight irritability.	Zure organoak ikutu samar daude.
+#168:	But that's expected if you're freshly exposed to the environment around here.	Baina normala da giro honetan horrelakoak izatea.
+#130:	The meat and all.	Haragia eta hori.
+#172:	Can't see anything else on the scanner that would be a cause for your sickness.	Eskanerrean ezin dut beste ezer ikusi. Hori da zure ondoezaren arrazoia.
+#132:	Sorry, but seems I can't help you there.	Barkatu, ezin dut gehiago egin.
+#133:	Maybe...	Agian...
+#134:	Yes?	Bai?
+#174:	It's a long shot, but Mortus is researching the flesh and how it affects us humans.	Zaila da, baina Mortus haragia gizakiei nola eragiten dien ikertzen ari da.
+#175:	He showed up a while ago and set up his base here in the underground beneath us.	Duela gutxi hemendik pasa zen, eta basea gure azpian jarri zuen.
+#176:	Maybe he could take a look at you.	Agian lagunduko dizut.
+#137:	Ok. Thanks for the info.	Ados, eskerrik asko informazioagatik.
+#179:	Here are the brains and the Octagon fluid.	Hemen dituzu burmuinak eta likido oktagonoa.
+#180:	What? I didn't ask for that.	Zer? Ez dut hori eskatu.
+#181:	Are these for Mortus, underground?	Mortusentzat al da?
+#183:	Oh, you're right.	Ah, arrazoi duzu.
+#151:	Do you have a spare medical scanner?	Eskaner mediko bat soberan al duzu?
+#152:	What for?	Zertarako?
+#157:	Mortus wants to examine me and needs better equipment for that.	Mortus-ek aztertu nahi nau eta ekipamendu hobea behar du.
+#158:	Mortus said I would give you one?	Mortus-ek esan dizu al zizun bat emateko?
+#165:	Yes.	Bai.
+#166:	Alright. I guess I could lend it to Mortus.	Ongi da, utziko dizut.
+#167:	Here.	Tori.
+#160:	Thank you.	Mila esker.
 ------------------------------------------		
 SEQUENCE DoorUnlocksWithClick		
-#2:	*click*	*click*
+#2:	*click*	*klik*
 ------------------------------------------		
 SEQUENCE EnforcerBark		
-#4:	Please maintain peaceful behavior.	Por favor, mantén un comportamiento cívico.
-#2:	Move along.	Muévete.
+#4:	Please maintain peaceful behavior.	Mesedez, gizalegez jokatu.
+#2:	Move along.	Mugitu.
 ------------------------------------------		
 SEQUENCE Eugh		
 #2:	Eugh.	Eugh.
 ------------------------------------------		
 SEQUENCE FleshFace		
-#30:	What do you want to talk about, fellow human?	¿De qué quieres hablar, compañero humano?
-#49:	[Leave]	[Marcharse]
-#27:	I would like to talk about our plans.	Me gustaría hablar de nuestros planes.
-#71:	I'm not really sure what we're up to.	No estoy seguro de saber qué hacemos.
-#56:	I'm not, either.	Yo tampoco, la verdad.
-#62:	Anything else?	¿Algo más?
-#70:	I would like to meet new people.	Me gustaría conocer gente nueva.
-#57:	Actually, I have someone big and meaty in need of a friend.	En realidad, tengo a alguien enorme y carnoso que necesita un amigo.
-#61:	Sounds intriguing.	Suena interesante.
-#72:	Maybe we should meet that someone.	Quizás podamos conocer a alguien.
-#18:	You said you left the Machine Masters. Why?	Dijiste que te abandonaron los maestros máquina. ¿Por qué?
-#19:	I want to mingle among the humans.	Quiero mezclarme con los humanos.
-#54:	Become more like them.	Ser como ellos.
-#64:	Why?	¿Por qué?
-#65:	I'm alone. I'm different than the other machines.	Estoy solo. Soy diferente del resto.
-#66:	And I don't want to become like the machines again.	Y no quiero ser una máquina de nuevo.
-#67:	So I have to become something else.	Quiero ser algo más.
-#68:	I want to become similar to the humans.	Ser más parecido a los humanos.
-#48:	Who are you, exactly?	¿Quién eres exactamente?
-#52:	I'm a multi-purpose cyborg. I was created as a worker and protector.	Soy un cyborg multipropósito. Creado como trabajador y protector.
-#53:	To the Machine Masters and therefore also for the humans, of course.	Para los maestros máquina y también para los humanos, claro.
-#63:	I gave myself the flesh face to be more alike humans. Therefore I am Fleshface.	Me puse la cara de carne para parecerme a los humanos. Por tanto, soy Caracarne.
+#30:	What do you want to talk about, fellow human?	Zertaz hitz egin nahi duzu, txotxo?
+#49:	[Leave]	[Joan]
+#27:	I would like to talk about our plans.	Gure planei buruz hitz egin nahi nuke.
+#71:	I'm not really sure what we're up to.	Ez nago ziur zer egiteko gai garen.
+#56:	I'm not, either.	Egia esan... ni ere ez.
+#62:	Anything else?	Besterik?
+#70:	I would like to meet new people.	Jendea ezagutu nahi nuke.
+#57:	Actually, I have someone big and meaty in need of a friend.	Egia esan, lagun bat behar duen gizon handi eta haragitsu bat daukat.
+#61:	Sounds intriguing.	Interesgarria dirudi.
+#72:	Maybe we should meet that someone.	Agian norbait ezagutu dezakegu.
+#18:	You said you left the Machine Masters. Why?	Makina-maisuek abandonatu zintuztela esan zenuen. Zergatik?
+#19:	I want to mingle among the humans.	Gizakiekin nahastu nahi dut.
+#54:	Become more like them.	Haiek bezalakoa izateko.
+#64:	Why?	Zergatik?
+#65:	I'm alone. I'm different than the other machines.	Bakarrik nago. Desberdina naiz.
+#66:	And I don't want to become like the machines again.	Eta ez dut berriz makina izan nahi.
+#67:	So I have to become something else.	Beste zerbait izan nahi dut.
+#68:	I want to become similar to the humans.	Gizakien antzekoagoa edo.
+#48:	Who are you, exactly?	Nor zara zehazki?
+#52:	I'm a multi-purpose cyborg. I was created as a worker and protector.	Helburu anitzeko cyborg-a naiz. Langile eta babesle gisa sortua.
+#53:	To the Machine Masters and therefore also for the humans, of course.	Maisuentzat makina eta baita gizakientzat ere, noski.
+#63:	I gave myself the flesh face to be more alike humans. Therefore I am Fleshface.	Haragi-aurpegia jantzi nuen gizakien antza izateko. Beraz, haragi-arpi naiz.
 ------------------------------------------		
 SEQUENCE FleshfaceSceneObject		
-#60:	There's a funnel sticking out of him. Maybe... organic lubricant?	Hay un embudo que le sobresale. ¿Quizás... lubricante orgánico?
-#66:	But I don't have any.	Pero no tengo nada.
-#64:	[Leave]	[Marcharse]
-#63:	[Apply organic lubricant]	[Aplicar lubricante orgánico]
-#68:	Here we go.	Allá vamos.
+#60:	There's a funnel sticking out of him. Maybe... organic lubricant?	Zerbait dauka hor... Agian... lubrifikatzaile organikoa izango ote da?
+#66:	But I don't have any.	Baina ez daukat ezer.
+#64:	[Leave]	[Joan]
+#63:	[Apply organic lubricant]	[Lubrifikatzaile organikoa aplikatu]
+#68:	Here we go.	Goazen.
 #93:	...	...
-#94:	Booting...	Iniciando...
+#94:	Booting...	Martxan jartzen...
 #95:	...	...
-#96:	Initializing...	Procesando...
+#96:	Initializing...	Prozesatzen...
 #97:	...	...
-#74:	What do you want, human?	¿Qué quieres, humano?
-#75:	Who are you?	¿Quién eres?
-#76:	I was one of your masters. Here to protect you.	Era uno de los maestros. Estoy para protegerte.
-#77:	To shield you from the dangers of this world.	Para resguardarte de los peligros del mundo.
-#82:	But that was in my previous life.	Pero eso era mi vida anterior.
-#83:	I left the masters to become one of you.	Dejé a los maestros y me convertí en uno de vosotros.
-#84:	Is that why someone destroyed you?	¿Es por eso que te destruyeron?
-#85:	I don't know. I don't have any memory of me getting destroyed.	No lo sé. No tengo memoria de ser destruído.
-#78:	Are you the one who activated me again?	¿Eres quien me ha reactivado?
-#79:	Yes.	Sí.
-#81:	You saved my life.	Has salvado mi vida.
-#87:	Thank you.	Gracias.
-#113:	What now?	¿Y ahora qué?
-#114:	I would like to continue my travels. Exploring. Getting to know people.	Me gustaría seguir con mi viaje. Explorar. Conocer gente.
-#115:	Your legs are crushed.	Tus piernas están destrozadas.
-#116:	Yes.	Sí.
-#117:	Perhaps you could separate my head from my body and carry me around?	¿Quizás puedas arrancar la cabeza de mi cuerpo y llevarme?
-#118:	I'm fully self-sufficient. I won't be a burden to you.	Soy así de autosuficiente. No seré una carga para ti
-#120:	I just want to experience life. Make friends. See new places.	Tan solo quiero experimentar la vida. Hacer amigos, ver lugares nuevos.
-#58:	[Leave]	[Marcharse]
-#57:	[Take head]	[Tomar la cabeza]
-#42:	Alright. Let's do this.	Está bien, vamos allá.
-#44:	Nice.	Estupendo.
-#53:	Looks like a cyborg.	Parece un cyborg.
-#55:	Doesn't have any energy.	No tiene energía.
-#47:	Already took the most important part.	Ya he cogido lo importante.
-#107:	Greetings, fellow human.	Saludos, compañero humano.
+#74:	What do you want, human?	Zer nahi duzu, gizakia?
+#75:	Who are you?	Nor zara zu?
+#76:	I was one of your masters. Here to protect you.	Maisuetako bat nintzen. Zu babesteko nago.
+#77:	To shield you from the dangers of this world.	Munduan dauden arriskuetatik babesteko.
+#82:	But that was in my previous life.	Baina hori nire aurreko bizitza zen.
+#83:	I left the masters to become one of you.	Irakasleak utzi eta zuetako bat bihurtu nintzen.
+#84:	Is that why someone destroyed you?	Horregatik suntsitu al zintuzten?
+#85:	I don't know. I don't have any memory of me getting destroyed.	Ez dakit. Ez dut suntsitua izanaren memoriarik.
+#78:	Are you the one who activated me again?	Zu al zara suspertu nauena?
+#79:	Yes.	Bai.
+#81:	You saved my life.	Salbatu nauzu.
+#87:	Thank you.	Mila esker.
+#113:	What now?	Eta orain zer?
+#114:	I would like to continue my travels. Exploring. Getting to know people.	Bidaiarekin jarraitu nahi nuke. Esploratu. Jendea ezagutu.
+#115:	Your legs are crushed.	Hankak apurtuta dituzu.
+#116:	Yes.	Bai.
+#117:	Perhaps you could separate my head from my body and carry me around?	Burua nire gorputzetik atera, eta eraman nazakezu?
+#118:	I'm fully self-sufficient. I won't be a burden to you.	Nire buruaz arduratu naiteke. Ez naiz zuretzat zama izango, lasai.
+#120:	I just want to experience life. Make friends. See new places.	Bizitza esperimentatu nahi dut. Lagunak egin, leku berriak ezagutu.
+#58:	[Leave]	[Joan]
+#57:	[Take head]	[Burua hartu]
+#42:	Alright. Let's do this.	Ongi da, goazen harantz.
+#44:	Nice.	Primeran.
+#53:	Looks like a cyborg.	Cyborg-a dirudi.
+#55:	Doesn't have any energy.	Ez du energiarik.
+#47:	Already took the most important part.	Atalik garrantzitsuena hartu dut.
+#107:	Greetings, fellow human.	Goraintziak, lagun.
 ------------------------------------------		
 SEQUENCE FleshHunterDialogue		
-#2:	Hey, you're here for the steaks, too?	¿Estás aquí por los filetes?
-#7:	[Leave]	[Marcharse]
-#50:	Godhunters?	¿Cazadioses?
-#35:	Those red guys.	Esos tipos de rojo.
-#36:	They wanna get rid of everyone. Us. The Titans.	Quieren librarse de todos. De nosotros, de los Titanes.
-#139:	I bet they even have it in for the Machines.	Apuesto a que se la tienen jurada incluso a las máquinas.
-#56:	So, you're here for the steaks?	Entonces, ¿vienes por los filetes?
-#75:	Any questions?	¿Alguna pregunta?
-#77:	Secret entrance?	¿Entrada secreta?
-#78:	Yes. I heard that this house has a cellar, and there's a hidden path.	Sí. He oído que esta casa tiene un sótano y hay un camino secreto.
-#138:	Somewhere behind the house, among the rocks.	En alguna parte de la casa entre las piedras.
-#140:	No. I'll go searching now.	No. Iré a echar un vistazo.
-#141:	Fine. Good luck.	Está bien, buena suerte.
-#52:	The steak shows the truth?	¿El filete muestra la verdad?
-#54:	Yeah. You eat one, and when you fall asleep you start seeing reality as it is.	Sí. Te comes uno y caes dormido para ver la realidad tal y como es.
-#53:	But it's difficult to get hold of one, with all these Godhunters around.	Pero es difícil hacerse con uno con todos esos cazadioses por aquí.
-#4:	Steaks?	¿Filetes?
-#8:	You don't know about them?	¿No lo sabes?
-#9:	We call them 'Butcher's Cut'.	Los llamamos "el corte del carnicero"
-#10:	Steaks so good, they make your brain melt.	Filetes tan buenos que hacen que se te derrita el cerebro.
-#11:	And they make you see things. See visions. The truth.	Te hacen ver cosas. Visiones. La verdad.
-#6:	No, I'm not.	No, no es eso.
-#14:	What? Why else would you be here then?	¿Qué? ¿Entonces por qué estás aquí?
-#64:	[Leave]	[Marcharse]
-#63:	That's none of your business.	No te importa.
+#2:	Hey, you're here for the steaks, too?	Haragi-xerrengatik al zaude hemen?
+#7:	[Leave]	[Joan]
+#50:	Godhunters?	Jainko-Ehiztariak?
+#35:	Those red guys.	Gorriz doazen tipo horiek.
+#36:	They wanna get rid of everyone. Us. The Titans.	Denok erahil nai gaituzte. Bai gu, zein Titanak.
+#139:	I bet they even have it in for the Machines.	Apustu egingo nuke makinak suntsitzeko ere zin egiten zutela.
+#56:	So, you're here for the steaks?	Entonces, Orduan, haragi-xerren bila al zatoz?
+#75:	Any questions?	Galderarik?
+#77:	Secret entrance?	Sarrera sekretua?
+#78:	Yes. I heard that this house has a cellar, and there's a hidden path.	Bai. Etxe honek sotoa duela eta bide sekretua daukala entzun dut.
+#138:	Somewhere behind the house, among the rocks.	Etxearen txokoren batean, harri artean edo.
+#140:	No. I'll go searching now.	Ez. Begiratzera noa.
+#141:	Fine. Good luck.	Ondo da, zorte on.
+#52:	The steak shows the truth?	Haragi-xerrak egia erakusten al du?
+#54:	Yeah. You eat one, and when you fall asleep you start seeing reality as it is.	Bai. Bat jan eta lo hartzean errealitatea den bezala ikusten da.
+#53:	But it's difficult to get hold of one, with all these Godhunters around.	Baina zaila da jainko-ehiztari horiek guztiak hemen harrapatzea.
+#4:	Steaks?	Haragi-xerrak?
+#8:	You don't know about them?	Ez al dakizu haiei buruz?
+#9:	We call them 'Butcher's Cut'.	"Harakinaren mozketa" deitzen diegu.
+#10:	Steaks so good, they make your brain melt.	Hain onak dira xerrak, garuna urtzen dizutela.
+#11:	And they make you see things. See visions. The truth.	Gauzak ikusarazten dizkizute. Egia.
+#6:	No, I'm not.	Ez, ez da hori.
+#14:	What? Why else would you be here then?	Zer? Orduan, zergatik zaude hemen?
+#64:	[Leave]	[Joan]
+#63:	That's none of your business.	Ez zaizu axola.
 #68:	Oh.	Oh.
-#69:	I won't bother you then.	No te molestaré entonces.
-#70:	But while you're here: Maybe you could help me with a thing?	Pero mientras estás aquí, ¿podrías ayudarme con algo?
-#29:	[Leave]	[Marcharse]
-#28:	I don't feel like it.	No me apetece.
-#31:	Oh. Ok then.	Oh, está bien.
-#27:	Alright. What's the plan?	Vale, ¿cuál es el plan?
-#30:	I want you to sneak into the cellar and get me a piece of the Butcher's Cut.	Quiero que te cueles en el sótano y me consigas un trozo de "corte del carnicero".
-#73:	There's got to be some of it somewhere.	Debe haber un poco en alguna parte.
-#74:	I heard about a hidden entrance behind the house, among the rocks.	He oído que hay una entrada secreta en la casa, entre las piedras.
-#61:	Personal Reasons.	Razones personales.
-#62:	I got lost.	Me he perdido.
-#66:	You're lucky none of the Godhunters got to you while you were wandering around.	Tienes suerte de no haberte encontrado a los Cazadioses mientras deambulabas por aquí.
-#67:	Exit's down there. But maybe you'd like to stay here and help me with a thing?	La salida está por ahí. Pero, ¿quizás puedas ayudarme con una cosilla?
-#60:	I don't know.	No lo sé.
-#65:	If you got nothing better to do, I might need your help with something.	Si no tienes nada que hacer, me vendría bien tu ayuda.
-#15:	I'd say the steaks here are worth my life, but with all these Godhunters around I'm reconsidering.	Diría que los filetes de aquí valen mi vida en peso, pero con todos esos cazadioses es para pensarselo.
-#5:	Yes.	Sí.
-#13:	Great. Here's the deal for you: I tell you how to get some of that meat the easy way, and you bring me a piece of it.	Estupendo. Este es el trato: Te diré como conseguir la carne y me traerás un trozo.
-#123:	Praise the flesh.	Alabada sea la carne.
-#120:	How dare you show your face to me?	¿Cómo te atreves a mostrarme la cara?
-#95:	Oh, I can smell it. You have found the flesh, haven't you?	Oh, puedo olerlo. Has encontrado la carne, ¿verdad?
-#96:	Quick, give it to me!	¡Rápido, dame!
-#107:	No. It's mine now.	No, ahora es mío.
-#112:	How dare you? Give it to me.	¿Cómo te atreves? Dámelo.
-#129:	Sorry. I'll just keep it.	Lo siento. Me lo voy a quedar.
-#130:	You're gonna regret this.	Te vas a arrepentir de esto.
-#126:	Alright.	Está bien.
-#98:	Here. Take it.	Ten. Aquí tienes.
-#99:	Oh, you glorious piece of flesh.	Oh, gloriosa pieza de carne.
-#100:	I am going to enjoy this.	Voy a disfrutar esto.
-#101:	Here, take this as a thanks.	Ten, recibe esto como agradecimiento.
-#137:	Goodbye now.	Nos vemos.
+#69:	I won't bother you then.	Ez dizut enbarazurik egingo.
+#70:	But while you're here: Maybe you could help me with a thing?	Baina hemen zauden bitartean, lagunduko al didazu?
+#29:	[Leave]	[Joan]
+#28:	I don't feel like it.	Ez dut gogorik.
+#31:	Oh. Ok then.	Oh, ondo da.
+#27:	Alright. What's the plan?	Ados, zein da plana?
+#30:	I want you to sneak into the cellar and get me a piece of the Butcher's Cut.	Sototik "harakinaren mozketa" zati bat lortzea nahi dut.
+#73:	There's got to be some of it somewhere.	Nonbait pixka bat egon behar da.
+#74:	I heard about a hidden entrance behind the house, among the rocks.	Etxean, harrien artean, ezkutuko sarrera dagoela entzun dut.
+#61:	Personal Reasons.	Arrazoi pertsonalak.
+#62:	I got lost.	Galdu naiz.
+#66:	You're lucky none of the Godhunters got to you while you were wandering around.	Zortea duzu Jainko-Ehiztaririk aurkitu ez duzulako hemendik zabiltzan bitartean.
+#67:	Exit's down there. But maybe you'd like to stay here and help me with a thing?	Irteera hor nonbait dago. Baina, lagundu diezadakezu gauzatxo batekin?
+#60:	I don't know.	Ez dakit.
+#65:	If you got nothing better to do, I might need your help with something.	Zereginik ez baduzu, zure laguntza ondo etorriko zait.
+#15:	I'd say the steaks here are worth my life, but with all these Godhunters around I'm reconsidering.	Esango nuke hemengo haragi-xerrak balio handia dutela, baina Jainko-Ehiztari horiekin guztiekin pentsatzeko modukoa da.
+#5:	Yes.	Bai.
+#13:	Great. Here's the deal for you: I tell you how to get some of that meat the easy way, and you bring me a piece of it.	Primeran. Tratua hau da: haragia nola lortu esango dizut, eta zati bat ekarriko didazu.
+#123:	Praise the flesh.	GORA HARAGIA!
+#120:	How dare you show your face to me?	Nola ausartzen zara niri aurpegia erakusten?
+#95:	Oh, I can smell it. You have found the flesh, haven't you?	Oh, usaindu dezaket. Haragia aurkitu duzu, ezta?
+#96:	Quick, give it to me!	Azkar, emaidazu!
+#107:	No. It's mine now.	Ez, orain nirea da.
+#112:	How dare you? Give it to me.	Nola ausartzen zara? Emaidazu!
+#129:	Sorry. I'll just keep it.	Sentitzen dut. Neuretzat gordeko dut.
+#130:	You're gonna regret this.	Damutuko zaizu niri holakorik egiteaz, zital hori!
+#126:	Alright.	Ongi da.
+#98:	Here. Take it.	Tori. Hemen duzu.
+#99:	Oh, you glorious piece of flesh.	haragi-zati bedeinkatua.
+#100:	I am going to enjoy this.	Gozatuko dut.
+#101:	Here, take this as a thanks.	Tori, hartu hau esker on gisa.
+#137:	Goodbye now.	Gero arte.
 ------------------------------------------		
 SEQUENCE FleshVeinTauris		
-#2:	The Flesh Nexus is calling you.	El Nexo de Carne te está llamando.
-#7:	[Leave]	[Marcharse]
-#6:	[Try to answer]	[Intentar Responder]
-#11:	You try to reach out, but no one reacts to you.	Intentas responder, pero nadie reacciona.
-#21:	You reach out, and there is something or someone reacting to you.	Intentas responder y parece que algo o alguien reacciona a ti.
-#23:	The sensation increases, and now you feel a thousand eyes fixed on you.	La sensación aumenta y ahora sientes miles de ojos observándote.
-#24:	You try to speak, but have no voice.	Intentas hablar pero no tienes voz.
-#25:	The moment passes, and you feel the presence vanishing again.	Pasan momento y sientes que tu presencia se desvanece de nuevo.
-#22:	You reach out and the Flesh Nexus is aware of you.	Intentas responder y el Nexo de Carne es consciente de ti.
-#8:	You let the flesh enter your mind.	Dejas que la carne entre en ti.
-#30:	The Nexus emits a warm feeling towards you, but remains silent.	El Nexo emite una sensación de calidez hacia ti, pero permanece en silencio.
+#2:	The Flesh Nexus is calling you.	Haragi Nexus-a deika ari zaizu.
+#7:	[Leave]	[Joan]
+#6:	[Try to answer]	[Erantzuten saiatu]
+#11:	You try to reach out, but no one reacts to you.	Erantzuten saiatzen zara, baina inork ez du erreakzionatzen.
+#21:	You reach out, and there is something or someone reacting to you.	Erantzuten saiatzen zara eta badirudi zerbaitek edo norbaitek erreakzionatzen dizula.
+#23:	The sensation increases, and now you feel a thousand eyes fixed on you.	Sentsazioa areagotuz doa da, eta orain milaka begi sentitzen dituzu zuri begira.
+#24:	You try to speak, but have no voice.	Hitz egiten saiatzen zara, baina ez duzu ahotsik.
+#25:	The moment passes, and you feel the presence vanishing again.	Une bat pasatzen da eta zure presentzia berriro desagertzen ari dela sentitzen duzu.
+#22:	You reach out and the Flesh Nexus is aware of you.	Erantzun nahian zabiltza eta Haragi Nexus-a zure presentziaz jabetu da.
+#8:	You let the flesh enter your mind.	Haragia zugan sartzen uzten duzu.
+#30:	The Nexus emits a warm feeling towards you, but remains silent.	Nexus-ak berotasun sentsazioa ematen dizu, baina isilik dirau.
 ------------------------------------------		
 SEQUENCE FleshwormInFleshDream		
-#6:	*hiss*	*silbido*
+#6:	*hiss*	*txistu soinua*
 #5:	Blergh.	Blergh.
 #4:	Grrr.	Grrr.
 #3:	Kchr.	Kchr.
 ------------------------------------------		
 SEQUENCE GameStartGreeterHey		
-#2:	Hello.	Hola.
+#2:	Hello.	Kaixo.
 ------------------------------------------		
 SEQUENCE GiantBasherEntersCombat		
-#2:	Begin processing...	Comenzando procesamiento...
-#10:	Human repurposition initiated.	Reproposición humana iniciada.
+#2:	Begin processing...	Prozesatzen hasita...
+#10:	Human repurposition initiated.	Giza birproposamena hasita.
 ------------------------------------------		
 SEQUENCE GodHunter_Caves_Bed		
-#2:	Looks reclusive.	Parece claustrofóbico.
+#2:	Looks reclusive.	Klaustrofobikoa dirudi.
 ------------------------------------------		
 SEQUENCE GodhuntersDungeonMachinePuzzle_BrokenMachine		
-#2:	It's completely broken.	Está completamente roto.
-#3:	Nothing usable about it.	Nada útil.
+#2:	It's completely broken.	Erabat apurtuta dago.
+#3:	Nothing usable about it.	Ezer da erabilgarria.
 ------------------------------------------		
 SEQUENCE GodhuntersDungeonMachinePuzzle_Machine1		
-#16:	This machine is running.	La máquina está encendida.
-#19:	[Leave]	[Marcharse]
-#18:	[Remove Machine Core]	[Quitar Núcleo de Máquina]
-#21:	Alright. Done.	Está bien, listo.
-#11:	This machine is missing a Machine Core.	A esto le falta el Núcleo de Máquina.
-#24:	[Leave]	[Marcharse]
-#23:	[Insert Machine Core]	[Insertar Núcleo de Máquina]
-#27:	Alright. Done.	Está bien, listo.
+#16:	This machine is running.	Makina piztuta dago.
+#19:	[Leave]	[Joan]
+#18:	[Remove Machine Core]	[Kendu makinaren nukleoa]
+#21:	Alright. Done.	Ongi da, prest.
+#11:	This machine is missing a Machine Core.	Honi Makina Nukleoa falta zaio.
+#24:	[Leave]	[Joan]
+#23:	[Insert Machine Core]	[Makina-nukleoa txertatu]
+#27:	Alright. Done.	Ongi da, prest.
 ------------------------------------------		
 SEQUENCE GodhuntersDungeonMachinePuzzle_Machine2		
-#2:	This machine is actually running.	La máquina está funcionando.
-#3:	Some parts inside must have dislodged.	Algunas partes deben haberse desencajado.
-#8:	[Leave]	[Marchaser]
-#7:	[Bonk it]	[Golpearlo]
+#2:	This machine is actually running.	Makina funtzionatzen ari da.
+#3:	Some parts inside must have dislodged.	Zati batzuk solte geratu dira.
+#8:	[Leave]	[Joan]
+#7:	[Bonk it]	[Jo]
 #11:	*Bonk*	*Bonk*
-#12:	Much better.	Mucho mejor.
-#6:	[Slap it]	[Abofetear]
-#10:	*Slap*	*Bofetada*
-#5:	[Hit it]	[Pegar]
-#9:	*Hit*	*Pega*
-#16:	Now everything is fine again.	Mucho mejor ahora.
+#12:	Much better.	Askoz hobeto.
+#6:	[Slap it]	[Zaplaztekoa eman]
+#10:	*Slap*	*ZAPLA*
+#5:	[Hit it]	[Jo]
+#9:	*Hit*	*Jo*
+#16:	Now everything is fine again.	Askoz hobeto orain.
 ------------------------------------------		
 SEQUENCE GodhuntersPrisonInspectTitansHeart		
-#2:	Let's see...	Vamos a ver...
+#2:	Let's see...	Ikus dezagun...
 #3:	Ah.	Ah.
-#4:	Here it is.	Aquí está
-#8:	I've collected the worm. Nothing else to do here.	He recogido el gusano. No hay nada más que hacer aquí.
+#4:	Here it is.	Hemen dago.
+#8:	I've collected the worm. Nothing else to do here.	Harra jaso dut. Hemen ez dago beste zereginik.
 ------------------------------------------		
 SEQUENCE GreeterWarnsDeathZoneStartOfGame		
-#7:	Wait! You're not allowed to go back to the habitat.	¡Espera! No se te permite volver al hábitat.
-#9:	You would risk contaminating the other citizens.	Podrías contaminar a otros ciudadanos.
-#10:	To prevent this, your life will be terminated if you enter the prohibited zone.	Para prevenir esto debes ser exterminado si entras en la zona prohibida.
-#11:	Please leave this corridor.	Por favor, abandona este pasillo.
+#7:	Wait! You're not allowed to go back to the habitat.	Itxaron! Ezin zara habitatera itzuli.
+#9:	You would risk contaminating the other citizens.	Beste herritar batzuk kutsa ditzakezu.
+#10:	To prevent this, your life will be terminated if you enter the prohibited zone.	Hori prebenitzeko, akabatu egin beharko zaituzte debekatutako eremuan sartzen bazara.
+#11:	Please leave this corridor.	Mesedez, utzi korridore hau.
 ------------------------------------------		
 SEQUENCE GreetingSentence		
-#6:	Greetings.	Saludos.
-#4:	Hey there...	Oh, hola..
-#5:	Hello.	Hola.
-#3:	Hi.	Buenas.
+#6:	Greetings.	Goraintziak.
+#4:	Hey there...	Oh, kaixo...
+#5:	Hello.	Kaixo.
+#3:	Hi.	Aupa.
 ------------------------------------------		
 SEQUENCE GuardAtQueueCallingNext		
-#6:	Come on. Next!	¡Vamos, siguiente!
-#5:	Next one.	Siguiente.
-#7:	You. Move.	Tú, muévete.
-#4:	Next!	¡Siguiente!
-#3:	Next.	El siguiente.
+#6:	Come on. Next!	Tira, hurrengoa!
+#5:	Next one.	Hurrengoa.
+#7:	You. Move.	Zu, mugitu.
+#4:	Next!	Hurrengoa!
+#3:	Next.	Hurrengoa.
 ------------------------------------------		
 SEQUENCE HeapOfCorpses		
-#3:	Are those human corpses?	¿Son cadáveres?
-#2:	DON'T TOUCH THEM! They're sorted.	¡NO LOS TOQUES! Están ordenados.
+#3:	Are those human corpses?	Gorpuak al dira?
+#2:	DON'T TOUCH THEM! They're sorted.	EZ IKUTU! Ordenatuta daude.
 ------------------------------------------		
 SEQUENCE HerbalMerchantOldTrees		
-#3:	Hey. You wanna look at my stuff?	Oye, ¿quieres echarle un vistazo a mi mercancía?
-#2:	[Leave]	[Marcharse]
-#6:	Show me what you have.	Muéstrame qué tienes.
+#3:	Hey. You wanna look at my stuff?	txo, nire merkantzia ikusi nahiko zenuke?
+#2:	[Leave]	[Joan]
+#6:	Show me what you have.	Erakutsi daukazuna.
 ------------------------------------------		
 SEQUENCE HeyYou		
-#2:	Hey.	Hey.
-#3:	You there, hello!	¡Tú, hola!
+#2:	Hey.	Txo.
+#3:	You there, hello!	Zu, kaixo!
 ------------------------------------------		
 SEQUENCE HumanoidWorkshopBrokenMachine		
-#2:	This one looks broken.	Esto parece roto.
-#3:	Don't know if it has ever been alive.	No sé si ha estado activo alguna vez.
+#2:	This one looks broken.	Hau apurtuta dagoela dirudi.
+#3:	Don't know if it has ever been alive.	Ez dakit inoiz aktibo egon den.
 ------------------------------------------		
 SEQUENCE InfectionStartMainQuest		
-#4:	Ohhh... I don't feel so well.	Ohhh... No me siento muy bien.
+#4:	Ohhh... I don't feel so well.	Ohhh... Ez nago oso ondo.
 #15:	Blergh.	Blergh.
-#6:	I should get this fixed.	Debería solucionar esto.
-#12:	Maybe there's a doctor out there somewhere.	Quizás haya un doctor en algún lado.
+#6:	I should get this fixed.	Hau konpondu beharko nuke.
+#12:	Maybe there's a doctor out there somewhere.	Baliteke nonbait medikuren bat egotea.
 ------------------------------------------		
 SEQUENCE Intro		
-#40:	Planet Nexus. Centuries after the Bleeding.	Planeta Nexus. Siglos después del Sangrado.
-#45:	Amongst remnants of old civilizations...	Entre los restos de antiguas civilizaciones...
-#56:	...humanity rests in silent cities.	...la humanidad descansa en ciudades silenciosas.
-#86:	While machines wander, passing judgement.	Mientras, las máquinas vagan deliberando juicios.
-#68:	And the outcasts try to survive.	Y los marginados intentan sobrevivir.
+#40:	Planet Nexus. Centuries after the Bleeding.	Nexus planeta. Odolustu eta mende batzuetara.
+#45:	Amongst remnants of old civilizations...	Antzinako zibilizazioen hondarren artean...
+#56:	...humanity rests in silent cities.	... gizakiak hiri isilak gotorleku gisa erabiltzen dituzte.
+#86:	While machines wander, passing judgement.	Bitartean, makinak epaiketak eztabaidatzen dabiltza.
+#68:	And the outcasts try to survive.	Eta baztertuak bizirik irauten saiatzen dira.
 ------------------------------------------		
 SEQUENCE IntroForTrailer		
-#96:	Planet Nexus. Centuries after the Bleeding.	Planeta Nexus. Siglos después del Sangrado.
-#45:	Amongst remnants of old civilizations...	Entre los restos de antiguas civilizaciones...
-#56:	...humanity rests in silent cities.	...la humanidad descansa en ciudades silenciosas.
-#86:	While machines wander, passing judgement.	Mientras, las máquinas vagan deliberando juicios.
-#68:	And the outcasts try to survive.	Y los marginados intentan sobrevivir.
+#96:	Planet Nexus. Centuries after the Bleeding.	Nexus planeta. Odolustu eta mende batzuetara.
+#45:	Amongst remnants of old civilizations...	Antzinako zibilizazioen hondarren artean...
+#56:	...humanity rests in silent cities.	... gizakiak hiri isilak gotorleku gisa erabiltzen dituzte.
+#86:	While machines wander, passing judgement.	Bitartean, makinak epaiketak eztabaidatzen dabiltza.
+#68:	And the outcasts try to survive.	Eta baztertuak bizirik irauten saiatzen dira.
 ------------------------------------------		
 SEQUENCE IronFistCyberwombPhilosophersLair		
-#18:	Leave me be and continue your journey.	Déjame, continúa tu viaje.
-#19:	Continue enjoying this world. I'm gonna rescue it for all of us.	Sigue disfrutando este mundo. Voy a salvarlo para todos nosotros.
-#2:	Welcome, fraction!	¡Bienvenido, fracción!
-#9:	Who the fuck are you?	¿Quién eres?
-#13:	I'm the Feeder now.	Soy el Comedor.
-#21:	Why feeder?	¿Qué comedor?
-#34:	Because of her.	Por ella.
-#23:	She was my stars. Now she's the black sky, flickering, drifting into darkness.	Ella era mi estrella. Ahora es el cielo negro, parpadeante y vagando en la oscuridad.
-#24:	Soon, unreachable for me.	Pronto, será inalcanzable.
-#25:	I'm not ready for this.	No estoy listo para esto.
-#26:	I'll punch the Evergrowing Heart so it will pump again.	Golpearé el Corazón Siemprecreciente para que vuelva a bombear.
-#28:	The Evergrowing Heart?	¿Corazón Siemprecreciente?
-#29:	You don't know anything, do you?	No sabes nada, ¿verdad?
-#30:	I'll get them, one by one, until I know where the heart is.	Los atraparé, uno por uno. Hasta que sepa dónde está el corazón.
-#36:	Kill them all, if I have to.	Acabaré con ellos si es necesario.
-#31:	You should be thanking me. What good would this world be if the flesh dies?	Deberías darme las gracias. ¿De qué serviría este mundo si la carne muere?
-#35:	A dead planet. Humans crawling on it like maggots.	Un planeta muerto. Humanos arrastrándose como gusanos.
-#33:	But enough for now.	Pero basta, por ahora.
-#32:	Leave me be.	Déjame estar.
+#18:	Leave me be and continue your journey.	Utz nazazu, jarraitu zure bidaia.
+#19:	Continue enjoying this world. I'm gonna rescue it for all of us.	Segi mundu hau gozatzen. Guztiontzat salbatuko dut.
+#2:	Welcome, fraction!	Ongi etorri, frakzioa!
+#9:	Who the fuck are you?	Nor zara?
+#13:	I'm the Feeder now.	Jatuna naiz.
+#21:	Why feeder?	Zein jatun?
+#34:	Because of her.	Beragatik.
+#23:	She was my stars. Now she's the black sky, flickering, drifting into darkness.	Nire izarra zen. Orain zeru beltza da, distiratsua eta ilunpetan noraezean dabilena.
+#24:	Soon, unreachable for me.	Laster, niretzat iriztezina izango da.
+#25:	I'm not ready for this.	Ez nago honetarako prest.
+#26:	I'll punch the Evergrowing Heart so it will pump again.	Beti hazten doan Bihotza joko dut berriz odola martxan jartzeko.
+#28:	The Evergrowing Heart?	Beti hazten doan Bihotza?
+#29:	You don't know anything, do you?	Ez dakizu ezer, ezta?
+#30:	I'll get them, one by one, until I know where the heart is.	Banan-banan harrapatuko ditut. Bihotza non dagoen jakin arte.
+#36:	Kill them all, if I have to.	Behar izanez gero, erahilko ditut.
+#31:	You should be thanking me. What good would this world be if the flesh dies?	Eskerrak eman beharko zenizkidake. Zertarako balioko luke mundu honek haragia hiltzen bada?
+#35:	A dead planet. Humans crawling on it like maggots.	Planeta hila. Gizakiak arrastaka, harrak bezala.
+#33:	But enough for now.	Baina, oraingoz, nahikoa da.
+#32:	Leave me be.	Utzi egoten.
 ------------------------------------------		
 SEQUENCE LostSoul_OldTrees		
-#18:	You're still wandering around here?	¿Sigues vagando por aquí?
-#19:	You should give your mind a bit of a rest sometimes, my friend.	Deberías descansar de vez en cuando, amigo.
-#2:	Please. I'm just here for a bit of solitude.	Por favor, busco un poco de soledad.
-#3:	Anything bothering you?	¿Algo que te inquiete?
-#4:	It's... it's nothing. I just like to reminisce sometimes.	No...no es nada. Es que me gusta recordar cosas.
-#5:	About the actions I did.	Sobre lo que he hecho.
-#6:	You see, I was taking care of my Titan. I was a guardian.	Verás, yo cuidaba de mi Titán. Era su guardián.
-#7:	While the Titan was used as a feeder still.	Mientras el Titán todavía se usaba como alimentador.
-#8:	I didn't see much wrong with it then. Or, to be honest, I didn't want to think much about it.	No veía ningún problema con ellos. O a decir verdad, no pensaba en ello.
-#10:	But now it bothers you?	¿Ahora te molesta?
-#16:	Yes, it does.	Sí, desde luego.
-#20:	Apart from the obvious gruesome act... it's also just plain wrong?	Aparte de lo evidentemente desagradable... también creo que está mal.
-#21:	It's like taking advantage of someone innocent. For years. For decades. Maybe centuries?	Es como aprovecharse de los inocentes. Durante años. Décadads. ¿Quizás incluso siglos?
-#24:	But you said it was useful for both sides.	Pero has dicho que era útil para ambos bandos.
+#18:	You're still wandering around here?	Hemendik zabiltza oraindik?
+#19:	You should give your mind a bit of a rest sometimes, my friend.	Atseden hartu beharko zenuke noizean behin, lagun.
+#2:	Please. I'm just here for a bit of solitude.	Mesedez, bakardade pixka baten bila nabil.
+#3:	Anything bothering you?	Kezkatzen zaituen zerbait?
+#4:	It's... it's nothing. I just like to reminisce sometimes.	Ez... ez da ezer. Gauzak gogoratzea gustatzen zait.
+#5:	About the actions I did.	Egin dudanari buruz.
+#6:	You see, I was taking care of my Titan. I was a guardian.	Nire Titanaz arduratzen nintzen. Bere zaindaria nintzen.
+#7:	While the Titan was used as a feeder still.	Titana elikagailu gisa erabiltzen zen bitartean.
+#8:	I didn't see much wrong with it then. Or, to be honest, I didn't want to think much about it.	Ez nuen arazorik ikusten haiekin. Edo, egia esan, ez nuen horretan pentsatzen.
+#10:	But now it bothers you?	Orain traba egiten al dizu?
+#16:	Yes, it does.	Bai, noski.
+#20:	Apart from the obvious gruesome act... it's also just plain wrong?	Bistakoa dena alde batera utzita... gaizki dagoela uste dut.
+#21:	It's like taking advantage of someone innocent. For years. For decades. Maybe centuries?	Errugabeez baliatzea bezala da. Urteetan. Hamarkadetan. Agian mendeak ere bai?
+#24:	But you said it was useful for both sides.	Baina esan duzu baliagarria zela bi aldeentzat.
 #27:	...	...
-#28:	I don't know. Can't shake the feeling we did them wrong, the Titans.	No lo sé. No puedo librarme de esa sensación de que les he fallado.
-#29:	Anyway. Please let me have some solitude now.	Bueno, ahora déjame con mi soledad.
-#22:	[Stay silent.]	[Guardar silencio]
+#28:	I don't know. Can't shake the feeling we did them wrong, the Titans.	Ez dakit. Huts egin diedalako sentsaziotik ezin naiz libratu.
+#29:	Anyway. Please let me have some solitude now.	Orain utz nazazu bakarrik.
+#22:	[Stay silent.]	[Isilik egon]
 #23:	...	...
-#30:	Thank you for taking part in my thoughts.	Gracias por participar en mis pensamientos.
-#11:	A feeder?	¿Un alimentador?
-#12:	Oh, so you don't know about this.	Oh, no sabes sobre esto.
-#13:	Sorry, I don't really want to talk about it.	Lo siento, realmente no quiero hablar del tema.
-#14:	Maybe it's enough to say that it was more like a partnership.	Quizás sea bastante con decir que era como una asociación.
-#15:	We got the meat. They get... whatever they get out of it. I'm not really sure.	Conseguimos carne. Ellos... conseguían lo que necesitaban. No estoy muy seguro.
+#30:	Thank you for taking part in my thoughts.	Eskerrik asko nire pentsamenduetan parte hartzeagatik.
+#11:	A feeder?	Elikagailua?
+#12:	Oh, so you don't know about this.	Oh, ez dakizu honi buruz.
+#13:	Sorry, I don't really want to talk about it.	Sentitzen dut, benetan ez dut horretaz hitz egin nahi.
+#14:	Maybe it's enough to say that it was more like a partnership.	Agian nahikoa izango da elkarte bat bezalakoa zela esatea.
+#15:	We got the meat. They get... whatever they get out of it. I'm not really sure.	Haragia lortu genuien. Haiek... behar zutena lortzen zuten. Ez nago oso ziur.
 ------------------------------------------		
 SEQUENCE LostWomanDialogue		
-#30:	I'm looking for this place called Tauris.	Busco un lugar llamado Tauris.
-#31:	Got a bit lost on my way.	Me he perdido por el camino.
-#32:	You know how I can get there?	¿Sabes cómo llegar allí?
-#65:	I'm sorry, I don't.	Lo siento. No lo sé.
-#68:	What a pity.	Lástima.
-#73:	I guess I'll have to find it on my own then.	Supongo que tendré que seguir buscando.
-#36:	Just follow that path...	Tan solo sigue ese camino...
-#2:	Perfect. I'll be on my way then.	Perfecto. Continuaré mi camino.
-#35:	It's right over there...	Está justo ahí...
-#34:	Just go this way...	Ve por este camino...
-#22:	Hey, are you from around here?	Oye, ¿eres de por aquí?
-#3:	Not really.	No, realmente no.
-#26:	Well, it doesn't really matter if you're from here or there	Bueno, no importa si lo eres.
-#24:	Kind of.	Algo así.
-#166:	Hach, the Puke Bar....	Vaya, el bar vómito...
-#167:	If only I had a drink...	Si tan solo tuviera una bebida...
-#168:	I could walk so much longer...	Podría caminar mucho más...
-#154:	If this goes on, I'll never find the Puke Bar.	Si esto sigue, nunca encontraré el bar Vómito.
-#155:	You wouldn't happen to have something with you, right?	¿No tendrás algo de casualidad, no?
-#151:	[Leave]	[Marcharse]
-#150:	How about this bottle of booze?	¿Qué tal esta botella de alcohol?
-#156:	Yes, yes!	¡Sí, sí!
-#157:	This is great.	Estupendo.
-#158:	Give it to me. I'll compensate you fairly.	Dámela, te recompensaré por ello.
-#162:	Thank you so much.	Muchas gracias.
-#163:	I'll never forget what you did for me.	Jamás olvidaré lo que has hecho por mi.
-#122:	Once I get to the Puke Bar, I'm sure the drinks will be marvellous.	Una vez llegue al bar seguro que las bebidas son estupendas.
-#116:	How did this happen?	¿Cómo ha ocurrido esto?
-#132:	I was so sure I would find it this time.	Estaba seguro de que iba a encontrarlo.
-#133:	But the Puke Bar just won't show up, no matter how far I walk.	Pero el bar Vómito no aparece por ninguna parte sin importar cuanto camine.
-#124:	I must be cursed or something.	Debo estar maldito o algo.
-#134:	How am I supposed to get a drink now?	¿Cómo se supone que tomaré un trago ahora?
-#147:	You wouldn't happen to have something with you, right?	¿No tendrás algo de casualidad, no?
-#125:	Several people have told me the way, yet the Puke Bar is nowhere to be seen.	Mucha gente me ha indicado el camino, y sigo sin encontrar el bar.
-#92:	Wish me luck.	Deséame suerte.
-#89:	Don't worry about me.	No te preocupes por mi.
-#91:	I'm sure I'll find it this time.	Seguro que lo encuentro esta vez.
-#93:	You told me the way after all.	Me dijiste el camino, después de todo.
-#86:	We meet again.	Nos volvemos a encontrar.
-#94:	Good news.	Buenas noticias.
-#97:	I've given up on reaching Tauris.	Me he rendido con eso de llegar a Tauris.
-#95:	It doesn't matter if you know the way or not.	No importa si conoces el camino o no.
-#96:	I'm now trying to get to this Puke Bar place.	Ahora intento llegar al bar Vómito.
-#115:	Somebody told me that it should be close by...	Alguien me dijo que debería estar por aquí.
-#106:	If somebody told you, they're probably right...	Si alguien te lo dijo, probablemente tenía razón.
-#112:	You think so too? That's a good sign.	¿Eso crees? Es buena señal.
-#105:	Yeah, almost here. Look...	Sí, casi. Mira...
-#111:	Perfect. Can't wait for a good drink.	Perfecto. No puedo esperar a echar un trago.
-#104:	Actually it's quite far away...	En realidad, está bastante lejos...
-#100:	I made sure to follow what you said precisely this time.	Me aseguré de seguir tus indicaciones esta vez.
-#98:	Yet I still couldn't find it.	Aún así, no puedo encontrarlo.
-#99:	No worries though.	No importa.
-#101:	I've met somebody else. They told me about this Puke Bar.	Encontré a otra persona que me hablo del bar.
-#113:	I think it's supposed to be near here...	Se supone que está por aquí.
-#58:	I'll find my way to Tauris. Even without your help.	Encontraré el camino a Tauris, incluso sin tu ayuda.
-#52:	Tauris. Right.	Tauris. Cierto.
-#56:	You just told me, where I need to go.	Me acabas de decir por donde necesito ir.
-#57:	This direction, right?	Por aquí, ¿verdad?
-#9:	Oh, hey! It's you again.	¡Oh, hola! Eres tú de nuevo.
-#74:	I'm still lost.	Todavía estoy perdido.
-#75:	As lost as last time.	Tan perdido como la última vez.
-#76:	You wouldn't happen to have learned where Tauris is by now?	¿No habrás averiguado dónde está Tauris, verdad?
-#77:	If you have, can you tell me?	Si es así, ¿podrías decírmelo?
-#80:	No idea...	Ni idea...
-#85:	Well, I'll guess I'll have to follow my instincts then.	Bueno, supongo que seguiré mis instintos.
-#79:	Just this way, towards the horizon...	Por este camino, hacia el horizonte...
-#84:	Great. I'm sure I'll find it this time.	Estupendo. Seguro que esta vez lo encuentro.
-#78:	It's just a bit in this direction...	Sigue un poco por aquí.
-#60:	Even though you told me the way, I still haven't managed to find this Tauris place.	Aunque me has indicado el camino, sigo sin encontrar Tauris.
-#61:	Just my luck, I guess.	Supongo que es mi suerte.
-#62:	But you know where it is, right?	Pero sabes dónde está, ¿verdad?
-#63:	Can you point me towards it?	¿Me podrías señalar?
-#6:	This bottle you've given me...	Esta botella que me has dado...
-#164:	It was so good.	Fue realmente buena.
-#165:	I really need to find this Puke Bar place and have some more.	Necesito encontrar ese bar Vómito y tomar un poco más.
+#30:	I'm looking for this place called Tauris.	Tauris izeneko leku baten bila nabil.
+#31:	Got a bit lost on my way.	Bidean galdu naiz.
+#32:	You know how I can get there?	Badakizu nola iritsi?
+#65:	I'm sorry, I don't.	Sentitzen dut. Ez dakit.
+#68:	What a pity.	Kaka zaharra.
+#73:	I guess I'll have to find it on my own then.	Pentsatzen dut bila jarraitu beharko dudala.
+#36:	Just follow that path...	Jarraitu bide hori...
+#2:	Perfect. I'll be on my way then.	Primeran. Nire bidea jarraituko dut.
+#35:	It's right over there...	Hortxe dago...
+#34:	Just go this way...	Zoaz bide honetatik...
+#22:	Hey, are you from around here?	Txo, hemengoa al zara?
+#3:	Not really.	Ez, benetan ez.
+#26:	Well, it doesn't really matter if you're from here or there	Beno, berdin dio bazara.
+#24:	Kind of.	Horrelako zerbait.
+#166:	Hach, the Puke Bar....	Hara, OKA taberna...
+#167:	If only I had a drink...	Edaririk banu...
+#168:	I could walk so much longer...	Askoz gehiago ibil ninteke...
+#154:	If this goes on, I'll never find the Puke Bar.	Gauzak horrela, ez dut inoiz OKA taberna aurkituko.
+#155:	You wouldn't happen to have something with you, right?	Kasualitatez ez duzu zerbait izango, ezta?
+#151:	[Leave]	[Joan]
+#150:	How about this bottle of booze?	Zer moduz KALIMOTXO botila hau?
+#156:	Yes, yes!	Bai, bai!
+#157:	This is great.	Primeran.
+#158:	Give it to me. I'll compensate you fairly.	Emadazu, sarituko zaitut horrengatik.
+#162:	Thank you so much.	Eskerrik asko.
+#163:	I'll never forget what you did for me.	Ez dut inoiz ahaztuko nigatik egin duzuna.
+#122:	Once I get to the Puke Bar, I'm sure the drinks will be marvellous.	Behin tabernara iritsita, ziur edariak bikainak direla.
+#116:	How did this happen?	Nola gertatu da hau?
+#132:	I was so sure I would find it this time.	Ziur nengoen aurkituko nuela.
+#133:	But the Puke Bar just won't show up, no matter how far I walk.	Ibili eta ibili nabil, baina OKA taberna ez da inondik ageri.
+#124:	I must be cursed or something.	Madarikatuta egon behar dut.
+#134:	How am I supposed to get a drink now?	Nola suposatzen da hartuko dudala tragoren bat orain?
+#147:	You wouldn't happen to have something with you, right?	Ez duzu kasualitatez zerbait izango, ezta?
+#125:	Several people have told me the way, yet the Puke Bar is nowhere to be seen.	Jende askok adierazi dit bidea, eta oraindik ez dut taberna aurkitu.
+#92:	Wish me luck.	Opa iezadazu zortea.
+#89:	Don't worry about me.	Ez kezkatu nitaz.
+#91:	I'm sure I'll find it this time.	Oraingoan aurkituko dut.
+#93:	You told me the way after all.	Azken finean, bidea esan zenidan.
+#86:	We meet again.	Berriro elkartuko gara.
+#94:	Good news.	Berri onak.
+#97:	I've given up on reaching Tauris.	Amore eman dut Taurisera iristearekin.
+#95:	It doesn't matter if you know the way or not.	Ez du axola bidea ezagutzen duzun ala ez.
+#96:	I'm now trying to get to this Puke Bar place.	Orain OKA tabernara iristen saiatzen ari naiz.
+#115:	Somebody told me that it should be close by...	Norbaitek esan dit hemen egon beharko lukeela.
+#106:	If somebody told you, they're probably right...	Norbaitek esan bazizun, arrazoi izango zuen.
+#112:	You think so too? That's a good sign.	Hori uste al duzu? Seinale ona da.
+#105:	Yeah, almost here. Look...	Bai, ia. Begira...
+#111:	Perfect. Can't wait for a good drink.	Primeran. Trago bat edateko irrikitan nago.
+#104:	Actually it's quite far away...	Egia esan, nahiko urrun dago...
+#100:	I made sure to follow what you said precisely this time.	Oraingo honetan zure aginduak bete nituela zin dagizut.
+#98:	Yet I still couldn't find it.	Hala ere, ezin dut aurkitu.
+#99:	No worries though.	Ez du axola.
+#101:	I've met somebody else. They told me about this Puke Bar.	OKA tabernaz hitz egiten didan beste pertsona bat aurkitu dut.
+#113:	I think it's supposed to be near here...	Hemen nonbait egon behar du.
+#58:	I'll find my way to Tauris. Even without your help.	Tauris-erako bidea aurkituko dut, zure laguntzarik gabe ere.
+#52:	Tauris. Right.	Tauris. Egia.
+#56:	You just told me, where I need to go.	Oraintxe bertan esan didazu, nondik joan behar naizen.
+#57:	This direction, right?	Hemendik, ezta?
+#9:	Oh, hey! It's you again.	Oh, kaixo! Zu berriro.
+#74:	I'm still lost.	Oraindik galduta nago.
+#75:	As lost as last time.	Azken aldian bezain galdua.
+#76:	You wouldn't happen to have learned where Tauris is by now?	Oraindik ez dakizu non dagoen Tauris, ezta?
+#77:	If you have, can you tell me?	Badakizu, esango zenidake?
+#80:	No idea...	Ez dakit...
+#85:	Well, I'll guess I'll have to follow my instincts then.	Beno, nire senaz baliatuko naiz.
+#79:	Just this way, towards the horizon...	Bide honetatik, zeruertzerantz...
+#84:	Great. I'm sure I'll find it this time.	Primeran. Oraingoan aurkituko dut.
+#78:	It's just a bit in this direction...	Jarraitu pixka bat hemendik.
+#60:	Even though you told me the way, I still haven't managed to find this Tauris place.	Bidea seinalatu didazun arren, oraindik ez dut Tauris aurkitu.
+#61:	Just my luck, I guess.	Nire zoria izango da.
+#62:	But you know where it is, right?	Baina badakizu non dagoen, ezta?
+#63:	Can you point me towards it?	Seinalatuko didazu?
+#6:	This bottle you've given me...	Eman didazun botila hau...
+#164:	It was so good.	Oso ona izan zen.
+#165:	I really need to find this Puke Bar place and have some more.	Ditxosozko OKA taberna aurkitu behar dut eta pixka bat gehiago hartu.
 ------------------------------------------		
 SEQUENCE MachineFriendlyEnterCombat		
-#5:	Please stop this violence.	Por favor, basta de violencia.
-#3:	Stop this!	¡Basta ya!
+#5:	Please stop this violence.	Mesedez, utzi indarkeria.
+#3:	Stop this!	Aski da!
 ------------------------------------------		
 SEQUENCE MachineInTestHubOne		
-#2:	That machine looks interesting. I don't know its purpose though.	Esta máquina parece interesante. Aunque no sé para qué sirve.
+#2:	That machine looks interesting. I don't know its purpose though.	Makina honek interesgarria dirudi. Baina ez dakit zertarako balio duen.
 ------------------------------------------		
 SEQUENCE MachineProcessing		
-#2:	Processing...	Procesando...
+#2:	Processing...	Prozesatzen...
 ------------------------------------------		
 SEQUENCE MachineWithMainboard		
-#4:	Nothing left here.	No queda nada.
-#5:	This looks useful.	Parece útil.
+#4:	Nothing left here.	Ez dago ezer.
+#5:	This looks useful.	Baliagarria dirudi.
 ------------------------------------------		
 SEQUENCE ManInFrontOfGreatWall		
-#2:	Ha! You're out of luck.	¡Ja! Te quedaste sin suerte.
-#3:	It's still closed.	Estamos cerrados.
-#14:	[Leave]	[Marcharse]
-#15:	We could try to get in there.	Podríamos intentar entrar.
-#16:	Impossible.	Imposible.
-#17:	At least from where we are standing.	Al menos desde donde estamos.
-#4:	What is?	¿Qué es?
-#5:	The entrance to the Great Perished One.	La entrada del Gran Caído.
-#6:	Every few months I come by and check if someone opened it.	Cada pocos meses vengo a comprobar si alguien la ha abierto.
-#7:	They say it's dead. It's all dead in there.	Dicen que está muerto. Que todo está muerto ahí adentro.
-#8:	But I don't believe it.	Pero no me lo creo.
+#2:	Ha! You're out of luck.	Ja! Zorterik gabe geratu zara.
+#3:	It's still closed.	Itxita gaude.
+#14:	[Leave]	[Joan]
+#15:	We could try to get in there.	Sartzen saia gintezke.
+#16:	Impossible.	Ezinezkoa.
+#17:	At least from where we are standing.	Hemendik, behintzat.
+#4:	What is?	Zer da?
+#5:	The entrance to the Great Perished One.	Erori Handiaren sarrera.
+#6:	Every few months I come by and check if someone opened it.	Noizean behin etortzen naiz, ea irekita dagoen ikustera.
+#7:	They say it's dead. It's all dead in there.	Hilda omen dago. Dena hilda dagoela hor barruan.
+#8:	But I don't believe it.	Baina ez dut sinesten.
 #18:	Bah.	Bah.
-#19:	Tired of eating meat all the time.	Me he cansado de comer carne todo el rato.
-#12:	I bet they have better stuff in the city.	Apuesto a que tienen algo mejor en la ciudad.
+#19:	Tired of eating meat all the time.	Okela jateaz aspertu naiz.
+#12:	I bet they have better stuff in the city.	Apustu egingo nuke hirian zerbait hobea dutela.
 ------------------------------------------		
 SEQUENCE MarlaInTauris		
-#32:	So. What do you want?	Entonces, ¿qué quieres?
-#37:	Nothing, really.	Nada, en realidad.
-#38:	Then please leave me be.	Entonces, déjame con lo mío.
-#72:	And please close the door behind you.	Y cierra la puerta al salir, por favor.
-#36:	Just looking around.	Solo echo un vistazo.
-#70:	Getting to know people?	¿Conociendo gente?
-#71:	Something like that, I guess.	Algo así, supongo.
-#39:	Well, I'm Marla. I'm old, so I just stay here most of the time.	Bueno, soy Marla. Estoy mayor así que paso la mayor parte del tiempo aquí.
-#75:	I'm friends with everyone though.	Aunque soy amiga de todo el mundo.
-#76:	Everyone?	¿De todos?
-#77:	Yeah. Agira's best though. She takes care of me.	Sí. Aunque Agira es la mejor. Se preocupa por mi.
-#78:	Even brought me cheese that one day. Only time I had some, apart from Cyberwomb.	Incluso me trajo queso una vez. La única vez que lo he probado, aparte del útero cibernético.
-#81:	Anything else?	¿Algo más?
-#40:	I met this... Kraken. And it needs a friend.	Conocí a este... kraken. Necesita amigos.
-#41:	A friend for the Kraken, you say? ... Wait!	¿Un amigo para el kraken dices?... ¡Espera!
-#42:	Are you talking about one of the Titans here?	¿Estás hablando de uno de los Titanes?
-#102:	I guess. ... It seemed a bit lonely.	Supongo... parecía bastante solitario.
-#46:	Ohh. Really? I suppose they could have feelings like that.	¿Oh, en serio? Supongo que pueden tener sentimientos y esas cosas.
-#51:	Did you ever meet the Kraken?	¿Has conocido alguna vez al kraken?
-#48:	No. You think I would ever leave Tauris again? I'm not as mad as you, traveling through the world.	No. ¿Crees que alguna vez dejaré Tauris? No estoy tan loca como tu para viajar por el mundo.
-#49:	So where would I get a friend for the Kraken?	¿Entonces dónde voy a encontrar un amigo para el kraken?
-#104:	I don't know, really. ... Oh wait. Maybe Mortus can help you.	No lo sé, la verdad... Espera, quizás Mortus podría ayudarte.
-#106:	Yes. He's a good one.	Sí, es un buen tipo.
-#108:	Knows all kinds of stuff about the flesh.	Sabe muchas cosas sobre la carne.
-#107:	He's living underground in the old facilities.	Vive en el subterráneo de las viejas instalaciones.
-#109:	You can get there through one of the other houses.	Puedes llegar por una de las otras casas.
-#110:	Ok. Thanks.	De acuerdo, gracias.
-#113:	Oh, I've met him. Thanks.	Oh, le he conocido. Gracias.
-#29:	Hey! Close the door, please.	¡Oye, cierra la puerta! ¡Por favor!
+#32:	So. What do you want?	Orduan, zer nahi duzu?
+#37:	Nothing, really.	Ezer ez, egia esan.
+#38:	Then please leave me be.	Orduan, utzi pakean. SEP
+#72:	And please close the door behind you.	Eta itxi atea irtetean, mesedez.
+#36:	Just looking around.	Begiratzen nabil.
+#70:	Getting to know people?	Jendea ezagutzen?
+#71:	Something like that, I guess.	Horrelako zerbait, uste dut.
+#39:	Well, I'm Marla. I'm old, so I just stay here most of the time.	Beno, Marla naiz. Zaharragoa naiz, beraz denbora gehiena hemen ematen dut.
+#75:	I'm friends with everyone though.	Baina mundu guztiaren laguna naiz.
+#76:	Everyone?	Guztiarena?
+#77:	Yeah. Agira's best though. She takes care of me.	Bai. Baina Agira da onena. Nitaz arduratzen da.
+#78:	Even brought me cheese that one day. Only time I had some, apart from Cyberwomb.	Gazta ere ekarri zidan behin. Probatu dudan aldi bakarra, umetoki zibernetikoaz gain.
+#81:	Anything else?	Besterik?
+#40:	I met this... Kraken. And it needs a friend.	Kraken hau ezagutu dut. Lagunak behar ditu.
+#41:	A friend for the Kraken, you say? ... Wait!	Lagun bat Kraken-arentzat?... Itxaron!
+#42:	Are you talking about one of the Titans here?	Titanetako bati buruz ari zara?
+#102:	I guess. ... It seemed a bit lonely.	Baietz esango nuke, nahiko bakartia zirudien.
+#46:	Ohh. Really? I suppose they could have feelings like that.	Benetan? Sentimenduak eta horrelakoak izan ditzaketela uste dut.
+#51:	Did you ever meet the Kraken?	Ezagutzen al duzu Kraken-a?
+#48:	No. You think I would ever leave Tauris again? I'm not as mad as you, traveling through the world.	Ez. Tauris utziko dudala uste duzu? Ez nago zu bezain erotuta munduan zehar bidaiatzeko.
+#49:	So where would I get a friend for the Kraken?	Orduan, non aurkituko dut lagun bat Kraken-arentzat?
+#104:	I don't know, really. ... Oh wait. Maybe Mortus can help you.	Ez dakit, egia esan... Itxaron, agian Mortus-ek lagunduko dizu.
+#106:	Yes. He's a good one.	Bai, tipo jatorra da.
+#108:	Knows all kinds of stuff about the flesh.	Haragiari buruzko gauza asko dakizki.
+#107:	He's living underground in the old facilities.	Instalazio zaharren lurpean bizi da.
+#109:	You can get there through one of the other houses.	Beste etxe batetik irits zaitezke.
+#110:	Ok. Thanks.	Ados, eskerrik asko.
+#113:	Oh, I've met him. Thanks.	Oh, ezagutu dut. Mila esker.
+#29:	Hey! Close the door, please.	Txo, itxi atea! Mesedez!
 ------------------------------------------		
 SEQUENCE MeatMerchantDialogue		
-#2:	Meat! You want to buy some meat?	¡Carne! ¿Quieres comprar carne?
-#7:	[Leave]	[Marcharse]
-#6:	[Merchant]	[Comerciar]
-#25:	Is it safe to eat it raw like that?	¿Es seguro comerlo crudo?
-#26:	Yeah. Everyone around here does.	Claro, todo el mundo lo hace.
-#15:	What's with all the meat everywhere, anyway?	Por cierto, ¿por qué hay tanta carne por aquí?
-#16:	It's just there. Grows.	Tan solo está. Crece.
-#19:	Oh, and takes craftsmanship to pick the best pieces of course.	Oh, se necesita arte para escoger las mejores piezas.
-#17:	Yeah, but where does it come from?	Claro, pero... ¿De dónde sale?
-#18:	Honestly, I don't know.	Sinceramente, no lo sé.
-#20:	As far as I remember it has always been growing everywhere, right from the ground.	Desde que recuerdo siempre ha crecido por todas partes. Por el suelo.
-#21:	Maybe we're living on a planet full of flesh and right now we're standing on a crust of stone and dirt.	Quizás estemos en un planeta vivo lleno de carne y estamos parados en piedras y suciedad.
-#22:	So, do you want a piece of meat now?	Entonces, ¿quieres un trozo de carne?
-#9:	Fresh meat for everyone.	Carne fresca para todos.
-#13:	Hey, you're new here, right?	Oye, eres nuevo por aquí, ¿verdad?
-#11:	Here's your meat.	Aquí tienes tu carne.
-#12:	We take care of everyone. If you want more though, you have to pay.	Cuidamos de todos. Si quieres más tendrás que pagar.
+#2:	Meat! You want to buy some meat?	Haragia! Haragia erosi nahi al duzu?
+#7:	[Leave]	[Joan]
+#6:	[Merchant]	[Merkataria]
+#25:	Is it safe to eat it raw like that?	Segurua al da gordinik jatea?
+#26:	Yeah. Everyone around here does.	Jakina, mundu guztiak egiten du.
+#15:	What's with all the meat everywhere, anyway?	Bide batez, zergatik dago hainbeste haragi hemen?
+#16:	It's just there. Grows.	Berez hazten da.
+#19:	Oh, and takes craftsmanship to pick the best pieces of course.	Artista izan beharra dago piezarik onenak aukeratzeko.
+#17:	Yeah, but where does it come from?	Noski, baina... Nondik dator?
+#18:	Honestly, I don't know.	Egia esan, ez dakit.
+#20:	As far as I remember it has always been growing everywhere, right from the ground.	Gogoratzen dudanetik beti hazi da nonahi. Lurrean.
+#21:	Maybe we're living on a planet full of flesh and right now we're standing on a crust of stone and dirt.	Agian, haragiz betetako planeta bizi batean gaude, eta harrietan eta zikinkerian gaude.
+#22:	So, do you want a piece of meat now?	Orduan, haragi zati bat nahi al duzu?
+#9:	Fresh meat for everyone.	Haragi freskoa denontzat.
+#13:	Hey, you're new here, right?	Berria zara hemendik, ezta?
+#11:	Here's your meat.	Hemen duzu zure haragia.
+#12:	We take care of everyone. If you want more though, you have to pay.	Denak zaintzen ditugu. Gehiago nahi baduzu, ordaindu beharko duzu.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideEntry		
-#3:	CURRENT ENTRANCE GUARD RESPONSE LEVEL SET TO:	NIVEL DE RESPUESTA DE PROTECCIÓN DE ENTRADA EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#128:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#129:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#130:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#119:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#120:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#111:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#112:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#113:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA ESTABLECIDO:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT ENTRANCE GUARD RESPONSE LEVEL SET TO:	SARRERA-BABESAREN ERANTZUN-MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#128:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#129:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#130:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#119:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#120:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#111:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#112:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#113:	RESPONSE LEVEL HAS BEEN SET TO:	EZARRITAKO ERANTZUN-MAILA:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideFactory1		
-#3:	CURRENT FACTORY PATROL RESPONSE LEVEL SET TO:	NIVEL ACTUAL DE PATRULLA ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#94:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#95:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#96:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#97:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#98:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#89:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#90:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#91:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT FACTORY PATROL RESPONSE LEVEL SET TO:	GAUR EGUNGO PATRUILA MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#94:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#95:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#96:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#97:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#98:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#89:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#90:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#91:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideFactory2		
-#3:	CURRENT FACTORY PATROL RESPONSE LEVEL SET TO:	NIVEL ACTUAL DE PATRULLA ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#102:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#103:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#104:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#100:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#101:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#96:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#97:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#98:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT FACTORY PATROL RESPONSE LEVEL SET TO:	GAUR EGUNGO PATRUILA MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#102:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#103:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#104:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK DIRA. SARBIDEA UKATUTA.
+#100:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#101:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#96:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#97:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#98:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	Nivel 0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideJanitor		
-#3:	CURRENT CHECK ROOM GUARD RESPONSE LEVEL SET TO:	NIVEL DE RESPUESTA DE GUARDIA ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#85:	[Hack Machine.]	[Hackear Máquina]
-#95:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#92:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#93:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#90:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#91:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#86:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#87:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#88:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT CHECK ROOM GUARD RESPONSE LEVEL SET TO:	GUARDIAKO ERANTZUN-MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#85:	[Hack Machine.]	[Makina hackeatu.]
+#95:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#92:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#93:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#90:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#91:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#86:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#87:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#88:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	Nivel 0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideLaboratory		
-#3:	CURRENT LAB SECURITY RESPONSE LEVEL SET TO:	NIVEL DE RESPUESTA EN EL LABORATORIO ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#114:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#112:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#113:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#110:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#111:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#115:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#116:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#117:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT LAB SECURITY RESPONSE LEVEL SET TO:	HEMEN EZARRITAKO LABORATEGIKO ERANTZUN-MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#114:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#112:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#113:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#110:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#111:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#115:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#116:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#117:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	Nivel 0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideOffice		
-#3:	CURRENT OFFICE SECURITY RESPONSE LEVEL SET TO:	NIVEL DE RESPUESTA DE OFICINA DE SEGURIDAD ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#120:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#118:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#119:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#116:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#117:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#121:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#122:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#123:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT OFFICE SECURITY RESPONSE LEVEL SET TO:	SEGURTASUN-BULEGOAREN ERANTZUN-MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#120:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#118:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#119:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#116:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#117:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#121:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#122:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#123:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	Nivel 0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_AggressionOverrideStorage		
-#3:	CURRENT STORAGE HALL SECURITY LEVEL SET TO:	NIVEL DE RESPUESTA DE SALA DE ALMACENAMIENTO ESTABLECIDO EN:
-#13:	LEVEL 2. ATTACK ON SIGHT.	NIVEL 2. ATACAR AL VER.
-#24:	[Leave]	[Marcharse]
-#23:	[Hack Machine.]	[Hackear Máquina]
-#112:	CREDENTIAL OVERRIDE ACTIVATED.	ANULACIÓN DE CREDENCIALES ACTIVADA.
-#113:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	NIVEL DE RESPUESTA DE DRONES CERCANOS FUERA DE COMBATE PUEDE SER CAMBIADO.
-#114:	CURRENT RESPONSE LEVEL IS:	NIVEL DE RESPUESTA ACTUAL ES:
-#18:	Set to level 2. Attack on sight.	Nivel 2. Atacar al ver.
-#32:	MISSING CREDENTIALS. ACCESS DENIED.	FALTAN CREDENCIALES. ACCESO DENEGADO.
-#145:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	NO HAY DRONES FUERA DE COMBATE CERCANOS.
-#146:	RESPONSE LEVEL REMAINS AT:	NIVEL DE RESPUESTA PERMANECE EN:
-#141:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	SOBREESCRIBIENDO NIVEL DE RESPUESTA DE DRONES CERCANOS.
-#142:	DROIDS IN COMBAT CANNOT BE REACHED.	DROIDES EN COMBATE NO PUEDEN SER AFECTADOS.
-#143:	RESPONSE LEVEL HAS BEEN SET TO:	NIVEL DE RESPUESTA PERMANECE EN:
-#17:	Set to level 1. Detection through weapon scan.	Nivel 1. Detección mediante escáner de armas.
-#16:	Set to level 0. Peaceful.	Nivel 0. Pacífico.
-#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	NIVEL 1. DETECCIÓN DE OBJETIVOS MEDIANTE ESCÁNER DE ARMAS.
-#11:	LEVEL 0. PEACEFUL.	NIVEL 0. PACÍFICO.
+#3:	CURRENT STORAGE HALL SECURITY LEVEL SET TO:	BILTEGIAREN ERANTZUN-MAILA:
+#13:	LEVEL 2. ATTACK ON SIGHT.	2. MAILA. IKUSTEAN ERASO.
+#24:	[Leave]	[Joan]
+#23:	[Hack Machine.]	[Makina hackeatu.]
+#112:	CREDENTIAL OVERRIDE ACTIVATED.	KREDENTZIALAK BALIOGABETZEA AKTIBATUTA.
+#113:	RESPONSE LEVEL OF NEARBY DROIDS OUTSIDE COMBAT MAY NOW BE CHANGED.	BORROKATIK KANPO DAUDEN DROIDEEN ERANTZUN-MAILA ALDA DAITEKE.
+#114:	CURRENT RESPONSE LEVEL IS:	EGUNGO ERANTZUN-MAILA?
+#18:	Set to level 2. Attack on sight.	2. maila. Ikustean eraso.
+#32:	MISSING CREDENTIALS. ACCESS DENIED.	KREDENTZIALAK FALTA DIRA. SARBIDEA UKATUTA.
+#145:	NO NEARBY DROIDS OUTSIDE COMBAT COULD BE FOUND.	BORROKAN EZ DAUDEN ETA HURBIL DAUDEN DROIDERIK EZIN DIRA AURKITU.
+#146:	RESPONSE LEVEL REMAINS AT:	ERANTZUN-MAILAK JARRAITZEN DU:
+#141:	OVERRIDING RESPONSE LEVEL FOR NEARBY DROIDS.	DROIDE HURBILEN ERANTZUN-MAILA ALDATU.
+#142:	DROIDS IN COMBAT CANNOT BE REACHED.	BORROKAN DAUDEN DROIDEATARA EZIN DA HELDU.
+#143:	RESPONSE LEVEL HAS BEEN SET TO:	ERANTZUN-MAILAK JARRAITZEN DU:
+#17:	Set to level 1. Detection through weapon scan.	1. maila. Armak eskaner bidez detektatzea.
+#16:	Set to level 0. Peaceful.	Nivel 0 maila. Baketsua.
+#12:	LEVEL 1. TARGET DETECTION THROUGH WEAPON SCAN.	1. MAILA. ARMEN ESKANERRAREN BIDEZ HELBURUAK DETEKTATZEA.
+#11:	LEVEL 0. PEACEFUL.	0 MAILA. BAKETSUA.
 ------------------------------------------		
 SEQUENCE Mine19_JanitorsClosetComment		
-#2:	There's a broom, a bucket and a bunch of squished bottles.	Hay una escoba, un cubo y un montón de botellas aplastadas.
-#3:	And some porn mags.	Y algunas revistas porno.
-#4:	Oldschool.	De la vieja escuela.
+#2:	There's a broom, a bucket and a bunch of squished bottles.	Erratza, kuboa eta zapalduta dauden botila asko daude.
+#3:	And some porn mags.	Eta aldizkari porno batzuk.
+#4:	Oldschool.	Antsinakoak.
 ------------------------------------------		
 SEQUENCE Mine19_SecurityInfo		
-#2:	WELCOME TO OPERATION SITE ODYSSEUS.	BIENVENIDO AL CENTRO DE OPERACIONES ODISEO.
-#12:	THIS IS A HIGH SECURITY ENVIRONMENT.	ESTO ES UN ENTORNO DE ALTA SEGURIDAD.
-#3:	PLEASE PLACE ALL HARMFUL ITEMS IN THE SECURITY STORAGE BOX.	POR FAVOR, DEPOSITE LOS OBJETOS  PELIGROSOS EN LA CAJA DE SEGURIDAD.
-#13:	IT IS FORBIDDEN TO RECORD PROCEEDINGS IN THIS FACILITY.	ESTÁ PROHIBIDO GRABAR LOS PROCEDIMIENTOS EN ESTA INSTALACIÓN.
-#14:	OUR SECURITY BOTS ARE HERE TO ENSURE YOUR SAFETY.	NUESTRO DRONES DE SEGURIDAD SE OCUPARAN DE SU BIENESTAR.
-#22:	HAVE A NICE DAY.	QUE TENGA UN BUEN DÍA.
+#2:	WELCOME TO OPERATION SITE ODYSSEUS.	ONGI ETORRI ODYSSEUS OPERAZIO ZENTRORA.
+#12:	THIS IS A HIGH SECURITY ENVIRONMENT.	HAU SEGURTASUN HANDIKO GUNEA DA.
+#3:	PLEASE PLACE ALL HARMFUL ITEMS IN THE SECURITY STORAGE BOX.	MESEDEZ, GORDE OBJEKTU ARRISKUTSUAK SEGURTASUN-KUTXAN.
+#13:	IT IS FORBIDDEN TO RECORD PROCEEDINGS IN THIS FACILITY.	DEBEKATUTA DAGO PROZEDURAK INSTALAZIO HONETAN GRABATZEA.
+#14:	OUR SECURITY BOTS ARE HERE TO ENSURE YOUR SAFETY.	GURE SEGURTASUN-DROIDEAK ZURE ONGIZATEAZ ARDURATUKO DIRA.
+#22:	HAVE A NICE DAY.	EGUN ONA IZAN.
 ------------------------------------------		
 SEQUENCE MortusDialogue		
-#39:	You return.	Has vuelto.
-#51:	[Leave]	[Marcharse]
-#96:	Made any progress recently with your studies?	¿Algún progreso con tus estudios?
-#97:	Not really. Science is oftentimes a slow process.	Realmente, no. La ciencia suele ser algo lento.
-#124:	But I'm persistent. We'll figure this out.	Pero soy persistente. Lograremos resolver esto.
-#125:	Anything else?	¿Algo más?
-#172:	You have any idea where to get a friend for a big meat guy?	¿Tienes idea de dónde encontrar un amigo para un tipo grande y carnoso?
-#173:	Ehh... what?	Ehh... ¿qué?
-#174:	I met this giant flesh creature. Looked like some tentacle animal.	He conocido a esta criatura de carne gigante. Parecía un monstruo con tentáculos.
-#176:	And it's a bit lonely and asking for a friend.	Y está sola, buscando amigos.
-#177:	Fascinating.	Fascinante.
-#178:	What kind of friend would a creature like that need? Another flesh creature?	¿Qué clase de amigo podría necesitar semejante criatura? ¿Otra de su estilo?
-#180:	I don't know. It accepted me as a friend though.	No lo sé. Aunque me acepto como su amigo.
-#181:	Interesting.	Interesante.
-#182:	Is that creature dangerous?	¿Es peligrosa?
-#183:	I don't know.	No lo sé.
+#39:	You return.	Itzuli zara.
+#51:	[Leave]	[Joan]
+#96:	Made any progress recently with your studies?	Aurrerapenik zure ikasketekin?
+#97:	Not really. Science is oftentimes a slow process.	Egia esan, ez. Zientzia geldoa izan ohi da.
+#124:	But I'm persistent. We'll figure this out.	Baina burugogorra naiz. Konponduko dugu.
+#125:	Anything else?	Besterik?
+#172:	You have any idea where to get a friend for a big meat guy?	Ba al dakizu non aurkitu norbait tipo handi eta haragitsu baten laguna izateko?
+#173:	Ehh... what?	Ehh... zer?
+#174:	I met this giant flesh creature. Looked like some tentacle animal.	Haragizko erraldoi bat ezagutu dut. Garrodun munstroa zirudien.
+#176:	And it's a bit lonely and asking for a friend.	Eta bakarrik sentitzen da, lagun bila dabil.
+#177:	Fascinating.	Liluragarria.
+#178:	What kind of friend would a creature like that need? Another flesh creature?	Zer lagun mota beharko luke horrelako izaki batek? Zure estiloko den norbait?
+#180:	I don't know. It accepted me as a friend though.	Ez dakit. Baina bere lagun bezala hartu ninduen.
+#181:	Interesting.	Interesgarria.
+#182:	Is that creature dangerous?	Arriskutsua al da?
+#183:	I don't know.	Ez dakit.
 #184:	...	...
 #185:	Interesting.	Interesante.
 #186:	Maybe you could repurpose one of the androids for this.	Quizás podrías reutilizar uno de los androides para esto.
