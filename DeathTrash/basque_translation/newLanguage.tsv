@@ -2997,107 +2997,107 @@ SEQUENCE MortusDialogue
 #180:	I don't know. It accepted me as a friend though.	Ez dakit. Baina bere lagun bezala hartu ninduen.
 #181:	Interesting.	Interesgarria.
 #182:	Is that creature dangerous?	Arriskutsua al da?
-#183:	I don't know.	Ez dakit.
+#183:	I don't know.	Interesgarria.
 #184:	...	...
 #185:	Interesting.	Interesante.
-#186:	Maybe you could repurpose one of the androids for this.	Quizás podrías reutilizar uno de los androides para esto.
-#187:	That creature gets a friend, we have a chance to observe, and no one gets endangered.	La criatura consigue un amigo y obtenemos la posibilidad de observar sin poner a nadie en peligro.
-#188:	Where would I get an android for this?	¿De dónde puedo sacar al androide?
-#189:	There's no use asking one of the Enforcers.	No tiene sentido preguntar a los Ejecutores.
-#190:	But I saw a broken android out there in Tauris, near the old house to the south.	Pero vi a uno roto fuera de Tauris, cerca de una vieja casa al sur.
-#191:	Alright. Will take a look. Thanks.	Está bien, echaré un vistazo. Gracias.
-#220:	Oh, I think I know which one.	Oh, creo que sé cuál es.
-#222:	Thanks.	Gracias.
-#198:	It's that flesh tentacle creature I told you about.	Es esa criatura de tentáculos de la que te hable.
-#46:	Can you examine me?	¿Puedes examinarme?
-#47:	Yes, I would be willing to.	Sí, sin problema.
-#48:	This is quite interesting for me, too, you know.	Es bastante interesante para mi también, ¿sabes?
-#52:	You would be the first case I could study that's still in a very premature state.	Serás el primer caso que puedo estudiar en un estado tan prematuro.
-#53:	Very exciting.	Muy emocionante.
-#79:	Premature? So you have an idea what this leads to?	¿Prematuro? ¿Sabes cómo acaba esto?
-#80:	No. Don't know at this point. A mutation perhaps.	No. Ahora mismo no lo sé. Quizás, una mutación.
-#54:	Ehh... Is there a cure?	Ehh... ¿Hay una cura?
-#56:	I don't think so.	No lo creo.
-#57:	But first things first. I'm not fully equipped to perform human cell study.	Pero primero lo primero. No tengo equipo para estudiar células humanas.
-#58:	I'm gonna need a medical scanner and some octagon fluid.	Voy a necesitar un escáner médico y fluido octogonal.
-#59:	Maybe you can get a scanner from the doctor here in Tauris. Tell him it's for me. Mortus.	Quizás puedas obtener el escáner del doctor en Tauris. Dile que es para mi, para Mortus.
-#81:	And there's no octagon fluid around here. You'll have to search one of the old facilities to the north.	No hay fluido octagonal por aquí, tendrás que buscar en las viejas fábricas del norte.
-#61:	Last but not least, it would be helpful if you got me some mutant brain tissue.	Pero, al menos, sería útil si me traes muestras de tejido de cerebro mutante.
-#60:	Alright. I'll take a look.	Está bien, echaré un vistazo. 
-#129:	What did you want me to do?	¿Qué querías que hiciera?
-#130:	Walk over to the Flesh Nexus and see if the flesh reacts to you.	Ve hasta el Nexo de Carne y observa si la carne reacciona a ti.
-#120:	What was it you needed from me?	¿Para qué me necesitabas?
-#121:	Some brain tissue, some octagon fluid, and a medical scanner.	Algo de tejido cerebral, fluido octagonal y escáner médico.
-#122:	Alright. Will take a look.	De acuerdo. Iré a echar un vistazo.
-#66:	I have all the items you wanted.	Tengo lo que necesitas.
-#67:	Nice. Give them to me.	Estupendo. Dámelo.
-#76:	Good. Let me prepare this.	Bien, deja que prepare esto.
-#92:	Alright. I've adjusted the frequency of the scanner to listen to any flesh activity.	De acuerdo. He ajustado la frecuencia del escáner para escuchar la actividad de la carne.
-#93:	Let me see.	Déjame ver.
-#101:	Yes. There's definitely some activity.	Sí. Definitivamente, hay actividad.
-#102:	Not much though.	Aunque no mucha.
-#144:	Would be interesting to see how the Flesh Nexus reacts to your body if it's enhanced by Octagon Fluid.	Sería interesante ver como el Nexo de Carne reacciona a tu cuerpo si se mejora con el fluido octagonal.
-#145:	The Flesh Nexus?	¿Nexo de Carne?
-#146:	It's my name for the web of flesh that fills these caves.	Es el nombre para la red de carne que yace en estas cuevas.
-#147:	It has mass, tentacles and nodes.	Tiene masa, tentáculos y nodos.
-#148:	There's a remarkable node here at the back of this cave.	Hay un nodo bastante llamativo detrás de esta cueva.
-#103:	Here, let me apply some of that Octagon fluid to your skin.	Ven, deja que aplique algo del fluido a tu piel.
-#170:	If I am correct, then this should make you a lot more attractive to the Nexus.	Si estoy en lo cierto, esto debería hacerte más atractivo para el Nexo.
-#149:	Go over to the node and give it a try.	Ve al nodo y haz la prueba.
-#150:	Alright.	Está bien.
-#211:	Oh. I already talked to that thing.	Oh, ya he hablado con esa cosa.
-#212:	Interesting. Your mutations must have developed further than suspected.	Interesante. Tus mutaciones se han desarrollado más de lo esperado.
-#213:	But more importantly, what did you see? Is it intelligent?	Pero lo que es más importante, ¿qué has visto? ¿Es inteligente?
-#162:	I'm not entirely sure about the Flesh Nexus itself.	No estoy seguro del Nexo de Carne.
-#135:	But there was someone in there, communicating through the Nexus.	Pero había alguien ahí, comunicándose a través del Nexo.
-#136:	Called himself the Oracle. And he wants me to find him.	Se hace llamar el Oráculo. Y quiere que lo encuentre.
-#137:	Oh. But... How? Why?	Oh, pero... ¿Cómo? ¿Por qué?
-#163:	I don't know yet.	Todavía no lo sé.
-#231:	Fascinating.	Fascinante.
-#232:	The Oracle mentioned a worm shaman.	El Oráculo mencionó algo sobre chamán de gusanos.
-#234:	And that a worm shaman is bound to help the Oracle.	Y que un chamán de gusanos estaba obligado a ayudar al Oráculo.
-#233:	That sounds odd.	Suena bastante raro.
-#235:	A shaman, you say? Maybe like that witch at the old trees?	¿Un chamán, dices? ¿Algo así como una bruja de los viejos árboles?
-#238:	Yes, I think you should try talking to her.	Sí, creo que deberías hablar con ella.
-#239:	Alright.	De acuerdo.
-#205:	Fascinating. Sounds like a real adventure.	Fascinante. Suena como una auténtica aventura.
-#140:	I think you've earned yourself some rest now, though.	Creo que te has ganado un merecido descanso después de esto.
-#109:	I examined the Flesh Nexus...	He examinado el Nexo de Carne...
-#110:	And?	¿Y?
-#152:	It reacts to me. I feel like I could communicate with it, even.	Reaccionó a mi. Sentía que podía comunicarme con ello.
-#106:	Only, my voice is not strong enough, or something like that.	Solo que mi voz no era lo bastante fuerte, o algo por el estilo.
-#107:	Fascinating.	Fascinante.
-#153:	How would you... how would you get a stronger voice for that?	¿Cómo podría... cómo podría hacer mi voz más fuerte?
-#117:	I don't know. I'll look around.	No lo sé. Tendré que echar un vistazo.
-#154:	Maybe I'll find another flesh node or stuff like that.	Quizás encuentre otro nodo de carne o algo así.
-#155:	I don't know, really.	No lo sé, en serio.
-#112:	I met this giant flesh creature though. Looked like some tentacle animal.	Conocí a esta enorme criatura de carne. Parecía un animal de tentáculos.
-#114:	Maybe this creature might teach me how to get a stronger voice?	¿Quizás esta criatura pueda enseñarme a usar una voz más fuerte?
-#115:	Interesting.	Interesante.
-#156:	Yes. Worth a shot, I guess.	Sí. Merece la pena intentarlo, supongo.
-#118:	Ok. I'll go talk to it.	De acuerdo, iré a hablar con él.
-#200:	Maybe that flesh tentacle creature I told you about.	Quizás esa criatura de tentáculos de la que te hable.
-#132:	I've talked to the Flesh Nexus.	He hablado con el Nexo de Carne.
-#133:	You did? Is it... are we talking about an intelligent being here?	¿Ah, sí? ¿Es... estamos hablando de un ser inteligente?
-#243:	About the Oracle...	Sobre el Oráculo...
-#166:	About the Flesh Nexus...	Sobre el Nexo de Carne...
-#167:	You wanted to visit that tentacle creature, see if it can teach you how to communicate with the Flesh Nexus.	Querías visitar a la criatura de los tentáculos, ver si puede enseñarte cómo comunicarte con el Nexo de Carne.
-#169:	Ah, right.	Ah, de acuerdo.
-#158:	I feel ready to talk to the Flesh Nexus now.	Me siento preparado para hablar con el Nexo de Carne.
-#164:	Alright. How would you do it?	Está bien. ¿Cómo vas a hacerlo?
-#160:	Don't know how, but I feel like I have a voice now.	No lo sé, pero siento que ahora tengo voz para ello.
-#161:	Interesting. Please, give it a try.	Interesante. Por favor, inténtalo.
-#2:	A visitor.	Un visitante.
-#11:	What are you doing here?	¿Qué haces aquí?
-#12:	Examining the flesh. The machines. Finding out about our place among them.	Examinando la carne. Las máquinas. Encontrar nuestro lugar entre todo.
-#13:	But my current studies are mostly focused on the flesh.	Pero mi estudio se centra más en la carne ahora mismo.
-#14:	I wonder... What's your perception of all the forms of meat around us?	Me pregunto... ¿Cuál es tu percepción de las formas de carne a nuestro alrededor?
-#85:	[Stay silent]	[Permanecer en silencio]
-#86:	My general observations would be that it's unusual and we cannot discern where it comes from.	Mis observaciones serían que es algo inusual y no podemos discernir de dónde proviene.
-#28:	Its origin is what I'm concerned about. And its connection to the infections and mutations.	Su origen es lo que más me preocupa. Eso y su conexión con las infecciones y las mutaciones.
-#30:	Ehhh... I was cast out from the habitat because I'm contaminated. Could this be related?	Ehhh... Me expulsaron del hábitat por estar contaminado. ¿Podría estar relacionado?
-#31:	Interesting. There are no visible signs of any illness.	Interesante. No veo rasgos de ninguna enfermedad.
-#33:	How do you feel?	¿Cómo te sientes?
+#186:	Maybe you could repurpose one of the androids for this.	Beharbada, androide bat berrerabil dezakezu honetarako.
+#187:	That creature gets a friend, we have a chance to observe, and no one gets endangered.	Mustroak lagun bat lortzen du, eta inor arriskuan jarri gabe behatzeko aukera lortzen dugu.
+#188:	Where would I get an android for this?	Non lortu dezaket androidea?
+#189:	There's no use asking one of the Enforcers.	Ez du zentzurik Borreroei galdetzeak.
+#190:	But I saw a broken android out there in Tauris, near the old house to the south.	Baina hautsitako bat ikusi nuen Tauris-en, hegoaldeko etxe zahar batetik gertu.
+#191:	Alright. Will take a look. Thanks.	Ongi da, begiratuko dut. Mila esker.
+#220:	Oh, I think I know which one.	Oh, uste dut badakidala zein den.
+#222:	Thanks.	Mila esker.
+#198:	It's that flesh tentacle creature I told you about.	Garro-izaki hura da, horri buruz hitz egiten nizun.
+#46:	Can you examine me?	Azter nazakezu?
+#47:	Yes, I would be willing to.	Bai, arazorik gabe.
+#48:	This is quite interesting for me, too, you know.	Niretzat ere interesgarria da, badakizu?
+#52:	You would be the first case I could study that's still in a very premature state.	Hain egoera goiztiarrean ikas dezakedan lehen kasua izango zara.
+#53:	Very exciting.	Oso zirraragarria.
+#79:	Premature? So you have an idea what this leads to?	Goiztiarra? Badakizu gero zer gertatuko den?
+#80:	No. Don't know at this point. A mutation perhaps.	Ez. Oraintxe bertan ez dakit. Agian, mutazio bat.
+#54:	Ehh... Is there a cure?	Ehh... Ba al dago sendabiderik?
+#56:	I don't think so.	Ez dut uste.
+#57:	But first things first. I'm not fully equipped to perform human cell study.	Lehenbailehen. Ez daukat giza zelulak aztertzeko ekiporik.
+#58:	I'm gonna need a medical scanner and some octagon fluid.	Eskaner mediku eta jariakin* oktogonala beharko dut. *(fluido)
+#59:	Maybe you can get a scanner from the doctor here in Tauris. Tell him it's for me. Mortus.	Agian Tauris-en dagoen doktoreak eskanerra lortuko dizu. Esaiozu niretzat dela, Mortus-entzat.
+#81:	And there's no octagon fluid around here. You'll have to search one of the old facilities to the north.	Hemen ez dago jariakin* oktagonalik, iparraldeko fabrika zaharretan bilatu beharko duzu. *(fluido)
+#61:	Last but not least, it would be helpful if you got me some mutant brain tissue.	Baina, gutxienez, baliagarria izango litzateke burmui mutantearen laginak ekartzen badizkidazu.
+#60:	Alright. I'll take a look.	Ongi da, begiratuko dut.
+#129:	What did you want me to do?	Zer egin behar dut?
+#130:	Walk over to the Flesh Nexus and see if the flesh reacts to you.	Zoaz Haragi Nexus-era eta begira ezazu haragiak zure aurrean erreakzionatzen duen.
+#120:	What was it you needed from me?	Zertarako behar ninduzun?
+#121:	Some brain tissue, some octagon fluid, and a medical scanner.	Garun-ehun pixka bat, jariakin* oktagonala eta eskaner medikoa. *(fluido)
+#122:	Alright. Will take a look.	Ongi da. Begiratzera noa.
+#66:	I have all the items you wanted.	Behar duzuna daukat.
+#67:	Nice. Give them to me.	Primeran. Emaidazu.
+#76:	Good. Let me prepare this.	Utzi hau prestatzen.
+#92:	Alright. I've adjusted the frequency of the scanner to listen to any flesh activity.	Ongi da. Eskanerraren maiztasuna egokitu dut haragiaren jarduera entzuteko.
+#93:	Let me see.	Utzi ikusten.
+#101:	Yes. There's definitely some activity.	Bai. Zalantzarik gabe, jarduera dago.
+#102:	Not much though.	Baina ez asko.
+#144:	Would be interesting to see how the Flesh Nexus reacts to your body if it's enhanced by Octagon Fluid.	Interesgarria litzateke zure gorputzaren erantzuna haragi Nexu-aren jariakin* oktagonala erabiltzean ikustea, ea hobetzen bada. *(fluido)
+#145:	The Flesh Nexus?	Haragi Nexus-a?
+#146:	It's my name for the web of flesh that fills these caves.	Koba hauetan dagoen haragi-sareari esaten zaio.
+#147:	It has mass, tentacles and nodes.	Masa, garroak eta nodoak ditu.
+#148:	There's a remarkable node here at the back of this cave.	Nodo deigarri bat dago kobazulo honen atzean.
+#103:	Here, let me apply some of that Octagon fluid to your skin.	Zatoz, utzi jariakinaren* zerbait zure azalari aplikatzen. *(fluido)
+#170:	If I am correct, then this should make you a lot more attractive to the Nexus.	Oker ez banago, honek erakargarriagoa egin beharko zintuzke Nexus-arentzat.
+#149:	Go over to the node and give it a try.	Zoaz nodora eta egin proba.
+#150:	Alright.	Ongi da.
+#211:	Oh. I already talked to that thing.	Oh, dagoeneko hitz egin dut gauza horrekin.
+#212:	Interesting. Your mutations must have developed further than suspected.	Interesgarria. Zure mutazioak uste baino gehiago garatu dira.
+#213:	But more importantly, what did you see? Is it intelligent?	Baina garrantzitsuena, zer ikusi duzu? Adimentsua al da?
+#162:	I'm not entirely sure about the Flesh Nexus itself.	Ez nago ziur Haragi Nexus-az.
+#135:	But there was someone in there, communicating through the Nexus.	Baina norbait zegoen han, Nexus-aren bidez komunikatzen.
+#136:	Called himself the Oracle. And he wants me to find him.	Orakulua deitzen zaio. Eta aurkitzea nahi du.
+#137:	Oh. But... How? Why?	Oh, baina... Nola? Zergatik?
+#163:	I don't know yet.	Oraindik ez dakit.
+#231:	Fascinating.	Liluragarria.
+#232:	The Oracle mentioned a worm shaman.	Orakuluak zizare-xamana-ri buruz zerbait aipatu zuen.
+#234:	And that a worm shaman is bound to help the Oracle.	Eta zizare xaman-a orakulua laguntzera derrigortuta zegoela.
+#233:	That sounds odd.	Arraroa dirudi.
+#235:	A shaman, you say? Maybe like that witch at the old trees?	Xaman bat, diozu? Zuhaitz zaharretako sorgin bat bezalakoa?
+#238:	Yes, I think you should try talking to her.	Bai, berarekin hitz egin beharko zenuke.
+#239:	Alright.	Ongi da.
+#205:	Fascinating. Sounds like a real adventure.	Liluragarria. Benetako abentura dirudi.
+#140:	I think you've earned yourself some rest now, though.	Uste dut hori guztia eta gero, merezitako atsedena irabazi duzula.
+#109:	I examined the Flesh Nexus...	Haragi Nexus-a aztertu dut...
+#110:	And?	Eta?
+#152:	It reacts to me. I feel like I could communicate with it, even.	Erantzun zidan. Sentitzen nuen komunikatu nintekeela.
+#106:	Only, my voice is not strong enough, or something like that.	Baina nire ahotsa ez zen behar bezain indartsua.
+#107:	Fascinating.	Liluragarria.
+#153:	How would you... how would you get a stronger voice for that?	Nola egin dezaket nire ahotsa ozenagoa izateko?
+#117:	I don't know. I'll look around.	No lo sé. Ez dakit. Begiratu beharko dut.
+#154:	Maybe I'll find another flesh node or stuff like that.	Agian beste haragi Nexus-en bat aurkituko nezake.
+#155:	I don't know, really.	Ez dakit, benetan.
+#112:	I met this giant flesh creature though. Looked like some tentacle animal.	Haragizko izaki erraldoi hau ezagutu nuen. Garro-piztia zirudien.
+#114:	Maybe this creature might teach me how to get a stronger voice?	Erakuts diezadake izaki honek ahots sendoagoa erabiltzen?
+#115:	Interesting.	Interesgarria.
+#156:	Yes. Worth a shot, I guess.	Bai. Merezi du saiatzea, suposatzen dut.
+#118:	Ok. I'll go talk to it.	Ados, berarekin hitz egingo dut.
+#200:	Maybe that flesh tentacle creature I told you about.	Agian aipatu dizudan garro-izaki hori.
+#132:	I've talked to the Flesh Nexus.	Haragi Nexua-arekin hitz egin dut.
+#133:	You did? Is it... are we talking about an intelligent being here?	A, bai? Izaki adimentsu bati buruz ari gara?
+#243:	About the Oracle...	Orakuluari buruz...
+#166:	About the Flesh Nexus...	Haragi Nexus-az...
+#167:	You wanted to visit that tentacle creature, see if it can teach you how to communicate with the Flesh Nexus.	Garroak dituen izakia bisitatu nahi zenuen, ea erakusten dizun Haragizko Nexus-arekin nola komunikatu.
+#169:	Ah, right.	Ah, ados.
+#158:	I feel ready to talk to the Flesh Nexus now.	Prest nago Haragi Nexus-a hitz egiteko.
+#164:	Alright. How would you do it?	Ongi da. Nola egingo duzu?
+#160:	Don't know how, but I feel like I have a voice now.	Ez dakit, baina orain ahotsa dudala sentitzen dut.
+#161:	Interesting. Please, give it a try.	Interesgarria. Mesedez, saiatu.
+#2:	A visitor.	Bisitari bat.
+#11:	What are you doing here?	Zertan ari zara hemen?
+#12:	Examining the flesh. The machines. Finding out about our place among them.	Haragia aztertzen. Makinak. Haien artean gure lekua aurkitzen.
+#13:	But my current studies are mostly focused on the flesh.	Baina nire ikerketa haragian bideratzen da.
+#14:	I wonder... What's your perception of all the forms of meat around us?	Me pregunto... Zein da gure inguruko haragi-formei buruz duzun pertzepzioa?
+#85:	[Stay silent]	[Isilik egon]
+#86:	My general observations would be that it's unusual and we cannot discern where it comes from.	Nire ikuspuntua zer da, ezohiko zerbait dela, eta ezin dugu jakin nondik datorren.
+#28:	Its origin is what I'm concerned about. And its connection to the infections and mutations.	Bere jatorria da gehien kezkatzen nauena. Hori eta infekzioekin eta mutazioekin duen lotura.
+#30:	Ehhh... I was cast out from the habitat because I'm contaminated. Could this be related?	Ehhh... Habitatetik bota ninduten kutsatuta nengoelako. Zerikusia izan dezake?
+#31:	Interesting. There are no visible signs of any illness.	Interesgarria. Ez dut gaixotasun baten ezaugarririk ikusten.
+#33:	How do you feel?	Zer moduz zaude?
 #35:	Pretty normal, most of the time. Occasionally sickness overcomes me and I have the urge to vomit.	Bastante normal, la mayor parte del tiempo. A veces me encuentro mal y necesito vomitar.
 #36:	Alright. Those could be the first signs of your metabolism changing.	De acuerdo, esos son los primero síntomas de que tu metabolismo está cambiando.
 #19:	It's unusual.	Es inusual.
