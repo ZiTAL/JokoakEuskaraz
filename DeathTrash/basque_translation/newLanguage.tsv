@@ -3098,106 +3098,106 @@ SEQUENCE MortusDialogue
 #30:	Ehhh... I was cast out from the habitat because I'm contaminated. Could this be related?	Ehhh... Habitatetik bota ninduten kutsatuta nengoelako. Zerikusia izan dezake?
 #31:	Interesting. There are no visible signs of any illness.	Interesgarria. Ez dut gaixotasun baten ezaugarririk ikusten.
 #33:	How do you feel?	Zer moduz zaude?
-#35:	Pretty normal, most of the time. Occasionally sickness overcomes me and I have the urge to vomit.	Bastante normal, la mayor parte del tiempo. A veces me encuentro mal y necesito vomitar.
-#36:	Alright. Those could be the first signs of your metabolism changing.	De acuerdo, esos son los primero síntomas de que tu metabolismo está cambiando.
-#19:	It's unusual.	Es inusual.
-#22:	That's a good observation.	Buena observación.
-#83:	I would even say that there's no discernible origin of the meat.	Diría que incluso no se puede discernir su origen en la carne.
-#18:	It's free food.	Es comida gratis.
-#27:	I guess it is.	Supongo que lo es.
-#17:	There's a lot of it.	Y hay mucha.
-#21:	Correct.	Correcto.
-#16:	It's just there.	Y simplemente está ahí.
-#26:	Well, 'just' is a pretty bold assumption.	Bueno, "simplemente" quizás sea demasiado.
+#35:	Pretty normal, most of the time. Occasionally sickness overcomes me and I have the urge to vomit.	Nahiko normala, denbora gehienean. Batzuetan gaizki nago eta botaka egin behar dut.
+#36:	Alright. Those could be the first signs of your metabolism changing.	Ados, zure metabolismoa aldatzen ari den seinalearen lehen sintomak dira.
+#19:	It's unusual.	Ezohikoa da.
+#22:	That's a good observation.	Behaketa ona.
+#83:	I would even say that there's no discernible origin of the meat.	Esango nuke ezin dela bere jatorria haragiarenaz bereizi.
+#18:	It's free food.	Janaria doan da.
+#27:	I guess it is.	Hala izango da.
+#17:	There's a lot of it.	Eta asko gainera.
+#21:	Correct.	Ekilikua.
+#16:	It's just there.	Besterik gabe, hor dago.
+#26:	Well, 'just' is a pretty bold assumption.	Tira, "besterik gabe" esatea gehiegi da.
 ------------------------------------------		
 SEQUENCE MoveAlong		
-#2:	Move along!	¡Muévete!
+#2:	Move along!	Mugi!
 ------------------------------------------		
 SEQUENCE Nard		
 #2:	Buhuhu...	Buhuhu...
-#3:	*gulp*	*traga*
+#3:	*gulp*	*irentsi*
 #4:	Bwawawaaa...	Bwawawaaa...
-#5:	*gulp*	*traga*
-#6:	*hick*	*hic*
+#5:	*gulp*	*irentsi*
+#6:	*hick*	*zotina*
 #7:	Oh Millja...	Oh, Millja...
-#8:	*sniff*	*llora*
-#9:	Why have you left?	¿Por qué te has ido?
-#92:	Oh, I'm sho lonely...	Oh, tan solo...
-#98:	[Leave]	[Marcharse]
-#104:	Hey, I found somebody for you.	Eh, he encontrado a alguien para ti.
-#125:	This is bad	Esto es malo.
-#126:	I heard that you've been really sad recently.	He oído que estabas realmente deprimido últimamente.
-#127:	Let me help you forget all of that.	Deja que te ayude a olvidarte de esas penas.
-#130:	What do you mean? I don't want to forget Millja...	¿Qué quieres decir? No quiero olvidarme de Millja...
+#8:	*sniff*	**negarrez**
+#9:	Why have you left?	Zergatik joan zara?
+#92:	Oh, I'm sho lonely...	Oh, bakarrik...
+#98:	[Leave]	[Joan]
+#104:	Hey, I found somebody for you.	Txo, norbait aurkitu dut zuretzat.
+#125:	This is bad	Hau txarra da.
+#126:	I heard that you've been really sad recently.	Azkenaldian deprimituta zeundela entzun dut.
+#127:	Let me help you forget all of that.	Utzidazu pena horiek ahazten laguntzen.
+#130:	What do you mean? I don't want to forget Millja...	Zer esan nahi duzu? Ez dut Millja ahaztu nahi...
 #131:	Oh... Oooohh...	Oh... Oooohh...
-#94:	How about this fleshworm?	¿Qué tal este gusano de carne?
-#96:	I know, It's not Millja.	Lo sé, no es Millja.
-#97:	But maybe you just need somebody to take care of.	Pero quizás necesitas a alguien a quien cuidar.
-#99:	Oh. It's sho cuuute. Gimme.	Oh, es muuuuy mono. Dame.
-#100:	Dis is greeeat.	Ezto es esthupendo.
-#132:	Shank you soooo much...	Mushas graaaaasias...
+#94:	How about this fleshworm?	Zer moduz haragi zizare hau?
+#96:	I know, It's not Millja.	Badakit, ez da Millja.
+#97:	But maybe you just need somebody to take care of.	Baina agian zaintzeko norbait behar duzu.
+#99:	Oh. It's sho cuuute. Gimme.	Oh, oso polita da. Emaidazu.
+#100:	Dis is greeeat.	SORAGARRIA DA
+#132:	Shank you soooo much...	ESKERRIK... (AVERGA)
 #23:	Oh Millja...	Oh, Millja...
-#26:	My friend, your next drink is on me.	Amigo mío, la próxima bebida corre a mi cuenta.
-#27:	*sniff*	*llora*
-#28:	Shank you. Your a gooood one.	Mushas grasias. Ere una buena persona.
-#29:	Heard you've been crying for a week now.	He oído que llevas llorando una semana.
-#30:	Please, tell me a bit about Millja.	Dime, cuéntame un poco sobre Millja.
-#31:	Oh... She wash de cutesht liddle wormy out here.	Oh... Era el guzanito má mono de cualquié lugá.
-#32:	I alwaysh carrid her round.	Ziempre la llevaba encima.
-#33:	An when she wash hungry... I'd jus...	Y ziempre teníah hambre... solo...
-#34:	I'd puke... and she ate it.	Vomité... y ze lo comío...
-#35:	And she showed me her beautiful littl teethies.	Entonze, me motroh sus hermozitos dientes.
-#36:	Like... she's smiling.	Como... sonriendo.
-#37:	Sho happy and cute.	Eztaba tan feli y contenta.
+#26:	My friend, your next drink is on me.	Txo morroi, hurrengo edaria nire kontura doa.
+#27:	*sniff*	*negarrez*
+#28:	Shank you. Your a gooood one.	ESKERRIK. PERTZONA ONA SARA.
+#29:	Heard you've been crying for a week now.	Astebete negarrez daramazula entzun dut.
+#30:	Please, tell me a bit about Millja.	Esadazu, kontaidazu pixka bat Milljari buruz.
+#31:	Oh... She wash de cutesht liddle wormy out here.	Oh... inoiS ikuZi dudan harrik politena da.
+#32:	I alwaysh carrid her round.	Beti altSoan neraman.
+#33:	An when she wash hungry... I'd jus...	Eta goZe Sen beti... bakarrik...
+#34:	I'd puke... and she ate it.	Botaka egin nuen... eta berak oka jan Suen...
+#35:	And she showed me her beautiful littl teethies.	Orduan, bere hortS politak erakutZi SiSkidan.
+#36:	Like... she's smiling.	Irribarrez bezala.
+#37:	Sho happy and cute.	Hain SoriontZu eta poSik zegoen.
 #38:	Bwawawaaa...	Bwawawaaa...
-#41:	*gulp*	*traga*
-#39:	But then... you kno... she's a curious one.	Entonze... ya zabe... era curioza.
-#40:	Alwaysh nosing aroun'.	Ziempre curiozeando.
-#42:	An she went cho she turret.	Ze acercó a la torreta.
-#43:	An hen... she... she... never came back...	Y... ella... ella... nuncah regrezo...
+#41:	*gulp*	*irentsi*
+#39:	But then... you kno... she's a curious one.	Orduan, badakizu... kuxkuxeroa zen.
+#40:	Alwaysh nosing aroun'.	Beti kuxkuxeatzen.
+#42:	An she went cho she turret.	Dorretara hurbildu zen.
+#43:	An hen... she... she... never came back...	Eta... bera... bera... eS Sen gehiago itSuli...
 #44:	Buhuhu	Buhuhu
-#45:	*sniff*	*llora*
-#46:	And now?	¿Y ahora?
-#47:	You know yourself that you can't go on like this, right?	Sabes que no puedes seguir así, ¿verdad?
-#48:	You're right.	Tieneh razó.
-#49:	I need to change shomethin.	Necezito cambiá.
-#50:	I'm goin' to revenge Millja.	Voy a vengah a Millja.
-#52:	You know what? Go for it.	¿Sabes qué? Hazlo.
-#53:	Fuck no. The guards will kill you.	Joder, no. Los guardias te matarán.
-#64:	That's a really bad idea.	Es una mala idea.
-#65:	But then... what should I do?	Entonze... ¿qué debo haze?
-#68:	Get another Fleshworm.	Consigue otro gusano de carne.
-#69:	You want me to replashe Millja?	¿Quieré que remplase a Millja?
-#70:	But there'sh noone else out there like her.	Pero... no hay nadie como ella.
-#71:	Millja was so *hick* unique.	Millja era muy *hic* única.
-#72:	An you jus wand me to forget? To take another one?	¿Y quieres que me olvie? ¿Que encuentre otro?
-#73:	Your no better than the turret that shot her.	No ere mejor que la torreta eza.
-#74:	Fuck you.	Que te jodan.
-#67:	I don't really have an answer.	Realmente no tengo respuesta.
-#76:	I've only known you for a couple of minutes, you know.	Te conozco de hace unos minutos, sabes.
-#77:	It's not like I'd know what would help you get over it.	No es como si supiera lo que te ayudaría a superarlo.
-#78:	Do things that make you happy. Keep busy. Make your head free.	Haz algo que te haga feliz, que te mantenga ocupado. Libera tu cabeza de esos recuerdos.
-#79:	Maybe you'll find someone out there, to fill a bit of that gap Millja left.	Quizás encuentres a alguien ahí afuera para llenar el vacío que dejo Millja.
-#80:	Just give yourself time.	Dale tiempo.
-#81:	You kno what? You're right.	¿Zabe qué? Tieneh razón.
-#82:	I'll stop drinking for now.	Dejaré de beber.
-#83:	Shank you sooooo much.	Mushas graaaasias.
-#22:	I heard your story from the guards.	He oído tu historia de los guardias.
-#86:	Sho what?	¿Y qué?
-#85:	I think I can help you.	Creo que puedo ayudarte.
-#87:	How? Millja ish gone. An nothin' willl bring her back.	¿Cómo? Millja ya no tá. Y ná pueh devolvémela.
-#88:	I'm sho alone now.	Eztoy mu solo.
-#89:	All alone.	Mu zolo.
+#45:	*sniff*	*negarrez*
+#46:	And now?	Eta orain?
+#47:	You know yourself that you can't go on like this, right?	Badakizu ezin duzula horrela jarraitu, ezta?
+#48:	You're right.	ArraSoi duSu.
+#49:	I need to change shomethin.	Aldatu behar naiS.
+#50:	I'm goin' to revenge Millja.	Millja mendekatuko dut.
+#52:	You know what? Go for it.	Badakizu zer? Egizu.
+#53:	Fuck no. The guards will kill you.	Joder, ez. Zaindariek hilko zaituzte.
+#64:	That's a really bad idea.	Ideia txarra da.
+#65:	But then... what should I do?	Orduan... Ser egin behar dut?
+#68:	Get another Fleshworm.	Lortu beste haragi-har bat.
+#69:	You want me to replashe Millja?	Millja odezkatzea?
+#70:	But there'sh noone else out there like her.	Baina... eS dago bera beSalakorik eta!
+#71:	Millja was so *hick* unique.	Millja... *zotina* paregabea zen.
+#72:	An you jus wand me to forget? To take another one?	Eta ahaStea nahi duSu? Beste bat aurkitSeko?
+#73:	Your no better than the turret that shot her.	ES Sara torreta hura baino hobeagoa.
+#74:	Fuck you.	Kaka saltzera joan zaitez!
+#67:	I don't really have an answer.	Egie esan, ez dut erantzunik.
+#76:	I've only known you for a couple of minutes, you know.	Duela gutxi ezagutu zaitudala.
+#77:	It's not like I'd know what would help you get over it.	Ez da gainditzen lagunduko dizuna jakingo banu bezala.
+#78:	Do things that make you happy. Keep busy. Make your head free.	Egin zoriontsu egingo zaituen zerbait, lanpetuta mantenduko zaituena. Askatu burua oroitzapen horietatik.
+#79:	Maybe you'll find someone out there, to fill a bit of that gap Millja left.	Agian norbait aurkituko duzu Milljak utzitako hutsunea betetzeko.
+#80:	Just give yourself time.	Eman denbora.
+#81:	You kno what? You're right.	Badakizu zer? Arrazoi duzu!
+#82:	I'll stop drinking for now.	Edateari utziko diot.
+#83:	Shank you sooooo much.	ESKERRIK!!!
+#22:	I heard your story from the guards.	Zaindarien istorioa entzun dut.
+#86:	Sho what?	Eta zer?
+#85:	I think I can help you.	Uste dut lagundu zaitzakedala.
+#87:	How? Millja ish gone. An nothin' willl bring her back.	Zelan? Millja dagoeneko ez dago. Eta ezin da ezer egin bueltatu dadin.
+#88:	I'm sho alone now.	Oso bakarrik sentitzen naiz.
+#89:	All alone.	OSO.
 #15:	Millja...	Millja...
-#16:	*gulp*	*traga*
-#17:	Jusss leawe me awone!	¡Dehaaame en paaaa!
-#18:	Don wanna talk.	No quero hablar.
+#16:	*gulp*	*irentsi*
+#17:	Jusss leawe me awone!	UTZI PAKEEEEEAAAAN!
+#18:	Don wanna talk.	Ez dut hitz egin nai.
 #19:	Bwawawaaa...	Bwawawaaa...
-#166:	That was so good.	Eso estuvo bien.
-#167:	I should do this more often.	Debería hacerlo más a menudo.
-#169:	Oh, and since you helped me so much...	Oh, ya que me has ayudado...
-#170:	Take this.	Toma esto.
-#162:	Thank you so much.	Gracias, realmente te lo agradezco.
+#166:	That was so good.	Hori ondo egon da.
+#167:	I should do this more often.	Maizago egin beharko nuke.
+#169:	Oh, and since you helped me so much...	Oh, lagundu didazunez...
+#170:	Take this.	Hartu hau.
+#162:	Thank you so much.	Eskerrik asko, benetan eskertzen dizut.
 #163:	I wont touch the booze again... at least for a couple of days.	No volveré a tocar el alcohol... al menos un par de días.
 #164:	I'm sure Millja is showing her smile to the titans now.	Seguro que Millja le está mostrando la sonrisa a los Titanes ahora.
 #157:	Are you happy to see me, or do you have a fleshworm in your pants?	¿Te alegras de verme o tienes un gusano de carne en los pantalones?
