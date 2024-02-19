@@ -3198,106 +3198,106 @@ SEQUENCE Nard
 #169:	Oh, and since you helped me so much...	Oh, lagundu didazunez...
 #170:	Take this.	Hartu hau.
 #162:	Thank you so much.	Eskerrik asko, benetan eskertzen dizut.
-#163:	I wont touch the booze again... at least for a couple of days.	No volveré a tocar el alcohol... al menos un par de días.
-#164:	I'm sure Millja is showing her smile to the titans now.	Seguro que Millja le está mostrando la sonrisa a los Titanes ahora.
-#157:	Are you happy to see me, or do you have a fleshworm in your pants?	¿Te alegras de verme o tienes un gusano de carne en los pantalones?
-#158:	For me it's both.	Creo que las dos cosas.
-#134:	Do you still feel sad about Millja?	¿Te sigues sintiendo mal por Millja?
-#135:	Milla? Who's that?	¿Millja? ¿Quién?
-#136:	Nard is right. Shut up.	Nard tiene razón. Cállate.
-#155:	We're having a moment here.	Estamos teniendo un momento.
+#163:	I wont touch the booze again... at least for a couple of days.	Ez dut alkohola berriz probatuko... egun pare bat gutxienez.
+#164:	I'm sure Millja is showing her smile to the titans now.	Ziur nago Millja Titanei bere irribarre polita erakusten hari zaiela.
+#157:	Are you happy to see me, or do you have a fleshworm in your pants?	Pozten zara ni ikusteaz edo haragi zizare bat al duzu praketan?
+#158:	For me it's both.	BIAK.
+#134:	Do you still feel sad about Millja?	Oraindik gaizki sentitzen al zara Millja-gatik?
+#135:	Milla? Who's that?	Millja? Nor?
+#136:	Nard is right. Shut up.	Nard-ek arrazoi du. IXO!
+#155:	We're having a moment here.	Momentutxo polita bizitzen ari gara hemen...
 #160:	Oh Millja...	Oh, Millja...
 ------------------------------------------		
 SEQUENCE NewDelphiGuard		
-#12:	Hey, you're looking hot.	Oye, 
-#14:	Sometimes I wonder: Am I always right, or are the others always wrong?	A veces me pregunto si siempre tengo razón, ¿o los demás están equivocados?
-#13:	Do you ever wonder where the Flesh Titans come from?	¿Alguna vez te preguntas de dónde vienen los Titanes de Carne?
-#11:	This place is sacred. Watch your fucking language.	Este lugar es sagrado. Cuida tu puto lenguaje.
-#10:	We are like one big, fleshy family.	Somos como una enorme familia carnosa.
-#9:	I recently met a follower of the Machines. Such a moron.	Acabo de conocer a un seguidor de las Máquinas. Menudo gilipollas.
-#8:	You anger one of us, you anger all of us.	Si enfadas a uno de nosotros, nos enfadas a todos.
-#6:	Many people come here to talk to the high priest.	Mucha gente viene a hablar con el alto sacerdote.
-#2:	The high priest is wise man.	El alto sacerdote es un hombre sabio.
-#7:	The Flesh Titans are like our brothers and sisters. And fathers and mothers. And masters.	Los Titanes de Carne son como nuestros hermanos y hermanas. Padres y Madres, además maestros.
+#12:	Hey, you're looking hot.	Txo, ondo zaude eh! Badan bai edo ez...
+#14:	Sometimes I wonder: Am I always right, or are the others always wrong?	Batzuetan galdetzen diot neure gokorako ea beti arrazoia dudan, edo besteak al dira oker daudenak?
+#13:	Do you ever wonder where the Flesh Titans come from?	Inoiz galdetzen al duzu zeure golkorako Haragizko Titanak nondik datozen?
+#11:	This place is sacred. Watch your fucking language.	Leku hau sakratua da. Zaindu zure hizkera zikin PUTA hori.
+#10:	We are like one big, fleshy family.	Familia haragitsu handi bat bezalakoa gara.
+#9:	I recently met a follower of the Machines. Such a moron.	Duela gutxi, makinen jarraitzaile bat ezagutu dut. A zer tontolapikoak!
+#8:	You anger one of us, you anger all of us.	Gutako bati potroak ikutzen badizkiozu, denok haserretzen gara.
+#6:	Many people come here to talk to the high priest.	Jende asko dator apaiz gorenarekin hitz egitera.
+#2:	The high priest is wise man.	Apaiz gorena gizon jakintsua da.
+#7:	The Flesh Titans are like our brothers and sisters. And fathers and mothers. And masters.	Haragizko Titanak gure anai-arrebak bezalakoak dira. Gurasoak, irakasleak gainera.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestAskForPlayerName		
-#33:	The titans bless you, my child.	Que los Titanes te bendigan, hijo mío.
-#59:	The what?	¿Los qué?
-#61:	The Flesh Titans.	Los Titanes de Carne.
-#62:	The masters of these places.	Los maestros de este lugar.
-#63:	OUR masters.	NUESTROS maestros.
-#64:	Who are you, that you don't know of them?	¿Quién eres que no sabes nada de ellos?
-#69:	I won't tell you.	No te lo diré.
-#74:	How deviant.	Menudo desviado.
-#75:	But if the titans gave me this challenge, I will see it through.	Pero si los Titanes me envían este desafío, que así sea.
-#68:	Nobody.	Nadie.
-#72:	How humble.	Qué humilde.
-#76:	You must be blessed by them, even if you do not know.	Debes haber sido bendecido por ellos, incluso si no lo sabes.
+#33:	The titans bless you, my child.	Titanek bedeinka zaitzatela, seme.
+#59:	The what?	Zer?
+#61:	The Flesh Titans.	Haragizko Titanak.
+#62:	The masters of these places.	Leku honetako maisuak.
+#63:	OUR masters.	GURE irakasleak.
+#64:	Who are you, that you don't know of them?	Nor zara haietaz ezer ez dakiteko?
+#69:	I won't tell you.	Ez dizut esango.
+#74:	How deviant.	Oso desbideratua.
+#75:	But if the titans gave me this challenge, I will see it through.	Baina Titanek erronka hau bidaltzen badidate, hala izan dadila.
+#68:	Nobody.	Inor ez.
+#72:	How humble.	Zein apala.
+#76:	You must be blessed by them, even if you do not know.	Haiek bedeinkatua izan beharko duzu, ez badakizu ere.
 #65:	**forename**.	**forename**.
-#73:	Very well. It is a pleasure to meet you.	Muy bien, encantado de conocerte.
-#2:	I don't need their blessing.	No necesito su bendición.
-#15:	A lost soul.	Oveja descarriada.
-#16:	I pity you.	Te compadezco.
-#17:	But you are not yet abandoned.	Pero todavía no has sido abandonado.
-#18:	Let me help you find back to the flock.	Deja que te ayude a volver al rebaño.
-#19:	Who are you?	¿Quién eres?
-#27:	I won't tell you.	No te lo diré.
-#29:	How deviant.	Menudo desviado.
-#30:	But if the titans gave me this challenge, I will see it through.	Pero si los Titanes me envían este desafío, que así sea.
-#20:	Nobody.	Nadie.
-#21:	At least you have the humility to see that.	Al menos tienes la humildad de ver eso.
+#73:	Very well. It is a pleasure to meet you.	Oso ondo, urte askotarako.
+#2:	I don't need their blessing.	Ez dut zure bedeinkaziorik behar.
+#15:	A lost soul.	Arima galdua.
+#16:	I pity you.	Errukiiiiiiiiiii jaunaaaaaaa.
+#17:	But you are not yet abandoned.	Baina oraindik ez zaituzte baztertu.
+#18:	Let me help you find back to the flock.	Utzi artaldera itzultzen laguntzen.
+#19:	Who are you?	Nor zara zu?
+#27:	I won't tell you.	Ez dizut esango.
+#29:	How deviant.	Papardo makala.
+#30:	But if the titans gave me this challenge, I will see it through.	Baina Titanek erronka hau bidaltzen badidate, hala izan dadila.
+#20:	Nobody.	Inor ez.
+#21:	At least you have the humility to see that.	Hori ikusteko apaltasuna duzu behintzat.
 #24:	**forename**.	**forename**.
-#22:	Very well. It is a pleasure to meet you.	Muy bien, encantado de conocerte.
-#35:	Titans? Like that Fleshkraken?	¿Titanes? ¿Cómo el kraken de carne?
-#47:	You have met one of them?	¿Has conocido a uno?
-#48:	How lucky.	Qué suerte.
-#49:	Who are you, blessed one?	¿Quién eres, oh, bendecido?
-#50:	Nobody.	Nadie.
-#13:	A humble soul, I see.	Un alma humilde, ya veo.
+#22:	Very well. It is a pleasure to meet you.	Oso ondo, urte askotarako.
+#35:	Titans? Like that Fleshkraken?	Titanak? Haragi-krakena bezala?
+#47:	You have met one of them?	Baten bat ezagutu al duzu?
+#48:	How lucky.	Hau zortea.
+#49:	Who are you, blessed one?	Nor zara, bedeinkatutako bat?
+#50:	Nobody.	Inor ez.
+#13:	A humble soul, I see.	Arima apala, ikusten dut.
 #52:	**forename**.	**forename**.
-#14:	Very well. It is a pleasure to meet you.	Muy bien, encantado de conocerte.
-#32:	Thanks, I guess.	Gracias, supongo.
-#38:	You do not appear to be very devout.	No pareces muy devoto.
-#39:	Who might you be?	¿Quién puedes ser?
-#42:	Nobody.	Nadie.
-#45:	A humble soul, I see.	Un alma humilde, ya veo.
-#3:	You would do well to show more respect to the Titans.	Harías bien en mostrar respeto a los Titanes.
-#8:	I will.	Así lo haré.
-#31:	Very good.	Muy bien.
-#6:	I already do.	Ya lo hago.
-#7:	But you don't look like a Titan.	Pero no pareces un Titán.
-#12:	Fair enough.	Suena justo.
-#5:	Why should I?	¿Por qué debería?
-#9:	The Titans are the proof of life to be.	Los Titanes son prueba de a lo que llega la vida.
-#10:	Where they walk, the soil is blessed.	Cuando caminan, bendicen el suelo.
-#11:	And gives us our daily meat.	Y nos dan nuestra carne de cada día.
+#14:	Very well. It is a pleasure to meet you.	Oso ondo, urte askotarako.
+#32:	Thanks, I guess.	Mila esker, suposatzen dut...
+#38:	You do not appear to be very devout.	Ez duzu oso elizkoia ematen.
+#39:	Who might you be?	Nor izan zaitezke?
+#42:	Nobody.	Inor ez.
+#45:	A humble soul, I see.	Arima apala, ikusten dut.
+#3:	You would do well to show more respect to the Titans.	Ongi egingo zenuke Titanei errespetua erakusten.
+#8:	I will.	Hala egingo dut.
+#31:	Very good.	Ederki.
+#6:	I already do.	Egingo dut.
+#7:	But you don't look like a Titan.	Baina ez dirudizu Titana zarenik.
+#12:	Fair enough.	Justua dirudi.
+#5:	Why should I?	Zergatik beharko nuke?
+#9:	The Titans are the proof of life to be.	Titanak bizitzaren froga dira.
+#10:	Where they walk, the soil is blessed.	Oinez doazenean, lurra bedeinkatzen dute.
+#11:	And gives us our daily meat.	Eta gure eguneroko haragia ematen digute.
 #40:	**forename**.	**forename**.
-#46:	Very well. It is a pleasure to meet you.	Muy bien, encantado de conocerte.
-#37:	And may the sun shine forever on your soul.	Y que el sol brille por siempre sobre tu alma.
-#55:	A fellow believer.	Un compañero creyente.
-#56:	I feel great devotion from within you.	Siento una gran devoción dentro de ti.
-#60:	[Leave]	[Marcharse]
+#46:	Very well. It is a pleasure to meet you.	Oso ondo, pozten naiz zu ezagutzeaz, urte askotarako.
+#37:	And may the sun shine forever on your soul.	Eta eguzkiak beti distira egin dezala zure arimaren gainean.
+#55:	A fellow believer.	Lagun fededuna.
+#56:	I feel great devotion from within you.	Debozio handia sentitzen dut zure baitan.
+#60:	[Leave]	[Joan]
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestHeartQuestIntro		
-#105:	Not yet.	Todavía no.
-#110:	Trouble has come up.	Ha surgido un problema.
-#107:	The titan's heart has been stolen, and its guarding priest has been killed.	El corazón del Titán ha sido robado y su guardián ha sido asesinado.
-#109:	Presumably by the godhunters.	Presumiblemente por Cazadioses.
-#108:	Until this situation is resolved, I am in no state to continue with you.	Hasta que se resuelva esto, no puedo continuar contigo.
-#53:	Maybe I can help?	¿Quizás pueda ayudar?
-#77:	Maybe this is the quest the Titans intended for you from the very beginning.	Puede que sea la misión que los Titánes pretendían encomendarte desde el principio.
-#60:	I'd send you out to retreive the heart.	Te enviaré a recuperar el corazón.
-#61:	But it is too large, even for one of your stature.	Pero es demasiado grande, incluso para tu estatura.
-#63:	So? What should I do?	¿Entonces? ¿Qué debo hacer?
-#64:	Worry not.	No te preocupes.
-#65:	Inside its heart you shall find the seedling of a Titan.	Dentro del corazón encontrarás una "semilla" del Titán.
-#66:	Not its child, but its source.	No es su hijo si no su fuente.
-#67:	Bring me this, and it shall grow back to former glory.	Traemelo y podré hacer que se restaure.
-#68:	Ok. Got it.	De acuerdo, entendido.
-#71:	And where should I look for that heart?	¿Dónde debería buscar el corazón?
-#72:	You should try the prison of the Godhunters, north of here.	Deberías probar la prisión de los Cazadioses, al norte de aquí.
-#73:	But be careful. It is not without danger to enter.	Ten cuidado. No carece de peligros acechando.
-#75:	Take this. It will help you.	Toma esto, te ayudará.
+#105:	Not yet.	Oraindik ez.
+#110:	Trouble has come up.	Arazoa sortu da.
+#107:	The titan's heart has been stolen, and its guarding priest has been killed.	Titanaren bihotza lapurtu dute eta zaindaria hil dute.
+#109:	Presumably by the godhunters.	Ziurrenik Jainko-ehiztariak izan direla.
+#108:	Until this situation is resolved, I am in no state to continue with you.	Hau konpondu arte, ezin dut zurekin joan.
+#53:	Maybe I can help?	Lagundu zaitzaket?
+#77:	Maybe this is the quest the Titans intended for you from the very beginning.	Baliteke Titanek hasieratik agindu nahi zizuten eginkizuna izatea.
+#60:	I'd send you out to retreive the heart.	Bihotza berreskuratzera bidaliko zaitut.
+#61:	But it is too large, even for one of your stature.	Baina handiegia da, baita zure altuerarako ere.
+#63:	So? What should I do?	Orduan? Zer egin behar dut?
+#64:	Worry not.	Ez kezkatu.
+#65:	Inside its heart you shall find the seedling of a Titan.	Bere bihotzaren barruan Titanen "hazia" aurkituko duzu.
+#66:	Not its child, but its source.	Ez da bere semea, baina iturria da.
+#67:	Bring me this, and it shall grow back to former glory.	Ekarri eta konpondu dezaket.
+#68:	Ok. Got it.	Ados, ulertuta.
+#71:	And where should I look for that heart?	Non bilatu beharko nuke bihotza?
+#72:	You should try the prison of the Godhunters, north of here.	Jainko-Ehiztarien espetxean probatu beharko zenuke, iparralderantz.
+#73:	But be careful. It is not without danger to enter.	KASU! Kontuz ibili.
+#75:	Take this. It will help you.	Tori hau, lagun zaitzake.
 #70:	I'm on my way.	Voy para allá.
 #78:	Even after proving yourself to the Titans already.	Incluso tras probarte ante los Titanes.
 #79:	You are a true believer.	Realmente eres un verdadero creyente.
