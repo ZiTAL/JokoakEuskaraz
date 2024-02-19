@@ -3298,105 +3298,105 @@ SEQUENCE NewDelphiHighPriestHeartQuestIntro
 #72:	You should try the prison of the Godhunters, north of here.	Jainko-Ehiztarien espetxean probatu beharko zenuke, iparralderantz.
 #73:	But be careful. It is not without danger to enter.	KASU! Kontuz ibili.
 #75:	Take this. It will help you.	Tori hau, lagun zaitzake.
-#70:	I'm on my way.	Voy para allá.
-#78:	Even after proving yourself to the Titans already.	Incluso tras probarte ante los Titanes.
-#79:	You are a true believer.	Realmente eres un verdadero creyente.
-#57:	You are indeed blessed by the Titans.	Es un hecho que has sido bendecido por los Titanes.
-#58:	They must have sent you, knowing this would happen.	Deben haberte enviado sabiendo que pasaría esto.
-#51:	Oh. I see.	Oh, ya veo.
-#52:	Good luck.	Buena suerte.
-#56:	Titans bless us.	Que los Titanes te bendigan.
-#106:	We checked out your report, and it sadly appears to be true.	Hemos revisado tu informe y lamentablemente parece ser cierto.
-#2:	Almost. Something quite worrying has come up.	Casi. Algo bastante preocupante ha surgido.
-#9:	And it's keeping us very occupied.	Y nos mantiene muy ocupados.
-#5:	I'm back.	He vuelto.
-#13:	And it's as we were told.	Y es como nos dijeron.
-#28:	The Priest of the Heart was killed and dismembered.	El Sacerdote del Corazón ha sido asesinado y desmembrado.
-#29:	His blood was everywhere.	Su sangre está por todas partes.
-#30:	He managed to crawl away a bit. But it was too late.	Consiguió arrastrarse un poco, pero era demasiado tarde.
-#31:	The Godhunters?	¿Cazadioses?
-#32:	The Godhunters.	Cazadioses.
-#33:	Shit!	¡Joder!
-#34:	Yeah.	Sí.
-#35:	And they've stolen the heart.	Y han robado el corazón.
-#36:	Fuck...	Mierda...
-#26:	You did well. Thank you.	Lo has hecho bien. Gracias.
-#47:	I'm sorry.	Lo siento.
-#49:	You'll have to wait until this mess is sorted out.	Tendrás que esperar a que solucionemos esto.
-#16:	The Priest of the Heart was killed in front of the pedestal.	El Sacerdote del Corazón ha sido asesinado enfrente del pedestal.
-#17:	Whoever did this also took his belongings.	Quienquiera que lo hiciese también robó sus pertenencias.
-#18:	But it doesn't look like the Godhunters did it.	Pero no parece que fuesen los Cazadioses.
-#19:	Not the Godhunters?	¿No fueron los Cazadioses?
-#20:	No. They would have at least made a show of his body.	No. Al menos harían un espectáculo con su cadáver.
-#21:	This was much more straight forward.	Esto es mucho más simple.
-#22:	Then the heart...?	¿Entonces el corazón...
-#23:	It's gone.	No está-
-#24:	Without the priest to guard it, the Godhunters must have used the moment to snatch it.	Sin el sacerdote para protegerlo, los Cazadores deben haber aprovechado el momento para robarlo.
-#25:	How horrible.	Que terrible.
-#8:	Almost. We are still inquiring about the priest of the heart.	Casi. Todavía estamos preguntando sobre el Sacerdote del Corazón.
-#48:	I'm sorry, but the Titan's Heart has been stolen.	Lo siento, pero el Corazón del Titán ha sido robado.
+#70:	I'm on my way.	Harantz noa.
+#78:	Even after proving yourself to the Titans already.	Baita Titanen aurrean probatu ondoren ere.
+#79:	You are a true believer.	Benetako fededuna zara.
+#57:	You are indeed blessed by the Titans.	Argi dago Titanek bedeinkatua izan zarela.
+#58:	They must have sent you, knowing this would happen.	Hau gertatuko zela jakinda bidali behar zintuzten.
+#51:	Oh. I see.	Oh, ikusten dut.
+#52:	Good luck.	Zorte on.
+#56:	Titans bless us.	Titanek bedeinka zaitzatela.
+#106:	We checked out your report, and it sadly appears to be true.	Zure txostena berrikusi dugu eta, tamalez, egia dirudi.
+#2:	Almost. Something quite worrying has come up.	Ia-ia. Zerbait nahiko kezkagarria gertatu da.
+#9:	And it's keeping us very occupied.	Eta oso arduratuta gaude.
+#5:	I'm back.	Itzuli naiz.
+#13:	And it's as we were told.	Eta esan ziguten bezala da.
+#28:	The Priest of the Heart was killed and dismembered.	Bihotzeko Apaiza hil eta txikitu dute.
+#29:	His blood was everywhere.	Zure odola nonahi dago.
+#30:	He managed to crawl away a bit. But it was too late.	Arrastaka joan zen, baina beranduegi zen.
+#31:	The Godhunters?	Jainko-Ehiztariak?
+#32:	The Godhunters.	Jainko-Ehiztariak.
+#33:	Shit!	Joder!
+#34:	Yeah.	Bai.
+#35:	And they've stolen the heart.	Eta bihotza lapurtu dute.
+#36:	Fuck...	Kaka zaharra...
+#26:	You did well. Thank you.	Ondo egin duzu. Mila esker.
+#47:	I'm sorry.	Sentitzen dut.
+#49:	You'll have to wait until this mess is sorted out.	Hau konpondu arte itxaron beharko duzu.
+#16:	The Priest of the Heart was killed in front of the pedestal.	Bihotzeko Apaiza idulkiaren* parean hil dute. *(pedestal)
+#17:	Whoever did this also took his belongings.	Egin zuenak bere gauzak ere lapurtu zituen.
+#18:	But it doesn't look like the Godhunters did it.	Baina ez dirudi Jainko-Ehiztariak zirenik.
+#19:	Not the Godhunters?	Ez al ziren Jainko-Ehiztariak izan?
+#20:	No. They would have at least made a show of his body.	Ez. Gutxienez ikuskizun bat egingo lukete bere gorpuarekin.
+#21:	This was much more straight forward.	Hau askoz sinpleagoa da.
+#22:	Then the heart...?	Orduan bihotza...
+#23:	It's gone.	Ez dago...
+#24:	Without the priest to guard it, the Godhunters must have used the moment to snatch it.	Apaiza babesteko ez zegoenez, tarte hori Jainko-Ehiztariek lapurtzeko aprobetxatuko zuten unea.
+#25:	How horrible.	Ikaragarria!
+#8:	Almost. We are still inquiring about the priest of the heart.	Ia-ia. Oraindik Bihotzeko Apaizari buruz galdetzen ari gara.
+#48:	I'm sorry, but the Titan's Heart has been stolen.	Sentitzen dut, baina Titan-aren Bihotza lapurtua izan da.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestHeartQuestProgress		
-#16:	I don't even know where to start.	Ni siquiera sé por dónde empezar.
-#13:	Right, right.	Bien, bien.
-#17:	Here, take this. It might aid you.	Ten, toma esto. Te ayudará.
-#19:	What is this?	¿Qué es esto?
-#20:	It will give you entrance to the godhunters prison.	Te permitirá entrar en la prisión de los Cazadioses.
-#22:	Be careful. It is a dangerous place.	Ten cuidado, es un sitio peligroso.
+#16:	I don't even know where to start.	Ez dakit ezta nondik hasi ere.
+#13:	Right, right.	Ongi, ongi.
+#17:	Here, take this. It might aid you.	Tori, hartu. Lagunduko dizu.
+#19:	What is this?	Zer da hau?
+#20:	It will give you entrance to the godhunters prison.	Jainko-Ehiztarien kartzelan sartzen utziko dizu.
+#22:	Be careful. It is a dangerous place.	Kontuz, leku arriskutsua da.
 #41:	...	...
-#42:	Titans forgive me.	Que los Titanes me perdonen.
-#43:	I wished to give you the key to the godhunters prison.	Deseaba darte la llave a la prisión.
-#44:	But it appears to have left my possession.	Pero parece que ya no está bajo mi posesión.
-#45:	It must be that the titans are giving you one more challenge to overcome.	Debe ser que los Titanes te están brindando un desafío mayor.
-#23:	What am I supposed to do?	¿Qué se supone que haga?
-#12:	I gave you the key to the godhunters prison.	Te he dado la llave a la prisión.
-#24:	You should start looking there.	Deberías empezar por ahí.
-#14:	The godhunters prison is too dangerous for me.	La prisión de los Cazadioses es un lugar demasiado peligroso para mi.
-#5:	The titans are watching over you.	Los Titanes te protegen.
-#25:	I am sure of your success.	Estoy seguro de tu éxito.
-#26:	WARNING: Something went wrong. [choose this option if you see it!]	ADVERTENCIA: Algo salió mal. [¡Escoge esta opción si lo ves!]
-#27:	Please press F1 right now and send us a report. Try to describe what you did during the quest.	Pulsa F1 para enviar un informe. Intenta describir lo que hiciste durante la misión.
-#28:	Thank you.	Gracias.
-#29:	Here it is.	Aquí tienes.
-#6:	You have done it.	Lo has conseguido.
-#30:	Marvellous.	Maravilloso.
-#31:	You must be a holy one, chosen by the titans.	Realmente debes ser un santo, elegido por los Titanes.
-#32:	Please hand the seedling over to me.	Por favor, entregame el corazón.
-#36:	We will return it to where it belongs.	Lo devolveremos a donde pertenece.
-#7:	Warning: Something went wrong. Player should have quest item...	Atención: Algo ha salido mal. El jugador debería tener el objeto de misión...
+#42:	Titans forgive me.	Titanek barka nazatela.
+#43:	I wished to give you the key to the godhunters prison.	Jainko-Ehiztarien espetxeko giltza eman nahi nizun.
+#44:	But it appears to have left my possession.	Baina badirudi jada ez dagoela nire esku.
+#45:	It must be that the titans are giving you one more challenge to overcome.	Ematen du Titan-ek erronka handiagoa jartzen ari direla.
+#23:	What am I supposed to do?	Zer egin behar dut?
+#12:	I gave you the key to the godhunters prison.	Espetxeko giltza eman dizut.
+#24:	You should start looking there.	Hortik hasi beharko zenuke.
+#14:	The godhunters prison is too dangerous for me.	Jainko-Ehiztarien espetxea leku arriskutsuegia da niretzat.
+#5:	The titans are watching over you.	Titan-ek babesten zaituzte.
+#25:	I am sure of your success.	Ziur nago zure arrakastaz.
+#26:	WARNING: Something went wrong. [choose this option if you see it!]	OHARRA: Zerbait gaizki atera da. [Aukera ezazu aukera hau ikusten baduzu!]
+#27:	Please press F1 right now and send us a report. Try to describe what you did during the quest.	Sakatu F1 txostena bidaltzeko. Saiatu misioan egin duzuna deskribatzen.
+#28:	Thank you.	Mila esker.
+#29:	Here it is.	Hemen duzu.
+#6:	You have done it.	Lortu duzu.
+#30:	Marvellous.	Zoragarria.
+#31:	You must be a holy one, chosen by the titans.	Benetan santua izan behar duzu, Titan-ek aukeratua.
+#32:	Please hand the seedling over to me.	Mesedez, emaidazu bihotza.
+#36:	We will return it to where it belongs.	Dagokion lekura itzuliko dugu.
+#7:	Warning: Something went wrong. Player should have quest item...	Adi: zerbait gaizki atera da. Jokalariak misio-objektua izan beharko luke...
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestMain		
-#304:	It's great to see you, I need to talk to you.	Me alegro de verte, tenemos que hablar.
-#305:	You remember how I told you I could not share the secret of this place with you?	¿Recuerdas que te dije que no podía compartir los secretos de este lugar contigo?
-#306:	Well, to my shame it turns out I acted foolishly.	Bueno, para mi verguenza, resulta que actue de forma irracional.
-#307:	The key was in my other pocket, and I just forgot to check.	La llave estaba en mi bolsillo, se me olvido comprobarlo.
-#308:	I deeply apologize.	Lo lamento profundamente.
-#309:	Here, take this, and see for yourself what this place once used to be.	Toma, ten esto y mira por ti mismo lo que solía ser este lugar.
-#303:	Oh blessed one, I need to talk to you.	Oh, bendito, necesito hablar contigo.
-#297:	Oh **forename**, I need to talk to you.	Oh **forename**, necesito hablar contigo.
-#106:	What would you like to talk about?	¿De qué te gustaría hablar?
-#242:	[Leave]	[Marcharse]
-#112:	Who are you?	¿Quién eres?
-#131:	I am the high priest of New Delphi.	Soy el alto sacerdote de Nueva Delphi.
-#132:	I dispense the will of the Titans.	Me encargo de cumplir la voluntad de los Titanes.
-#133:	And serve as a connection between them and all other people.	Sirvo como conexión entre ellos y la gente.
-#134:	As such I have discarded my own identity.	Como tal, he descartado mi propia identidad.
-#135:	All I am now is a vessel for the masters.	Ahora soy un recipiente para los maestros.
-#136:	Praise the flesh.	Alabada sea la carne.
-#122:	Is there something else you would like to hear about?	¿Hay algo más que te gustaría saber?
-#254:	Tell me the secret of New Delphi.	Cuéntame el secreto de Nueva Delphi.
-#292:	Apparently you're hiding something about this place.	Aparentemente, ocultas algo de este lugar.
-#255:	About my pilgrimage.	Sobre mi peregrinación.
-#260:	The priest at Titans Heart has been killed.	El sacerdote en el Corazón del Titán ha sido asesinado.
-#278:	Are we ready now?	¿Ya estamos listos?
-#280:	About the seedling...	Sobre la "semilla"...
-#285:	What's the secret you didn't want to tell me before?	¿Cuál es el secreto que no podías contarme?
-#89:	Blessed One!	¡Bendito!
-#105:	What a pleasure to see you again, **forename**.	Qué placer volver a verte,  **forename**.
-#115:	I am looking for a partner.	Busco un compañero.
-#187:	I am flattered, but I have devoted myself to the titans.	Me siento halagado, pero me he consagrado a los Titanes.
-#114:	What is the meaning of life?	¿Cuál es el sentido de la vida?
-#186:	To follow the titans and do their will.	Seguir a los Titanes y cumplir su voluntad.
+#304:	It's great to see you, I need to talk to you.	Pozten naiz zu ikusteaz. Hitz egin behar dugu.
+#305:	You remember how I told you I could not share the secret of this place with you?	Gogoratzen duzu esan nizula ezin nituela toki honetako sekretuak zurekin partekatu?
+#306:	Well, to my shame it turns out I acted foolishly.	Tira, nire lotsarako, modu irrazionalean jokatu nuen.
+#307:	The key was in my other pocket, and I just forgot to check.	Giltza nire patrikan zegoen, begiratzea ahaztu zitzaidan.
+#308:	I deeply apologize.	Benetan sentitzen dut.
+#309:	Here, take this, and see for yourself what this place once used to be.	Tori, hartu hau eta ikusi zeure begiez zer zen leku hau.
+#303:	Oh blessed one, I need to talk to you.	Oh, bedeinkatua hori, zurekin hitz egin behar dut.
+#297:	Oh **forename**, I need to talk to you.	Oh **forename**, jauna, zurekin hitz egin behar dut.
+#106:	What would you like to talk about?	Zertaz hitz egin nahiko zenuke?
+#242:	[Leave]	[Joan]
+#112:	Who are you?	Nor zara?
+#131:	I am the high priest of New Delphi.	New Delphi-ko apaiz gorena naiz.
+#132:	I dispense the will of the Titans.	Titan-en borondatea betetzeaz arduratzen naiz.
+#133:	And serve as a connection between them and all other people.	Haien eta jendearen arteko lotura gisa balio dut.
+#134:	As such I have discarded my own identity.	Horrela, nire nortasuna baztertu dut.
+#135:	All I am now is a vessel for the masters.	Orain maisuentzako ontzia naiz.
+#136:	Praise the flesh.	GORA HARAGIA!
+#122:	Is there something else you would like to hear about?	Beste zerbait jakin nahi duzu?
+#254:	Tell me the secret of New Delphi.	Kontaidazu New Delphi-ko sekretua.
+#292:	Apparently you're hiding something about this place.	Antza denez, leku honi buruz zerbait ezkutatzen ari zara.
+#255:	About my pilgrimage.	Nire erromesaldiari buruz.
+#260:	The priest at Titans Heart has been killed.	Titan-en Bihotzeko apaiza hil dute.
+#278:	Are we ready now?	Prest al gaude?
+#280:	About the seedling...	"Hazia" ri buruz...
+#285:	What's the secret you didn't want to tell me before?	Zein da kontatu ezin zenidan sekretua?
+#89:	Blessed One!	Bedeinkatua!
+#105:	What a pleasure to see you again, **forename**.	Pozten naiz zu berriz ikusteaz, **forename**.
+#115:	I am looking for a partner.	Lagun baten bila nabil.
+#187:	I am flattered, but I have devoted myself to the titans.	Lausengatua* sentitzen naiz, baina Titan-ei eskainia naiz. *(alabado)
+#114:	What is the meaning of life?	Zein da bizitzaren zentzua?
+#186:	To follow the titans and do their will.	Titan-ak jarraitu eta haien borondatea bete.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestPilgrimQuestIntro		
 #4:	Did that Historian talk again?	¿A vuelto a hablar ese Historiador?
