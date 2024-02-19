@@ -3399,105 +3399,105 @@ SEQUENCE NewDelphiHighPriestMain
 #186:	To follow the titans and do their will.	Titan-ak jarraitu eta haien borondatea bete.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestPilgrimQuestIntro		
-#4:	Did that Historian talk again?	¿A vuelto a hablar ese Historiador?
-#81:	I told him to guard his mouth.	Le dije que cerrase la boca.
-#5:	Please leave this matter be.	Por favor, deja el asunto.
-#82:	There is good reason why we tell the story this way.	Hay una buena razón para que contemos la historia así.
-#7:	Alright. You don't have to tell me.	Está bien, no tienes por qué contármelo.
-#84:	Ah, it's good to see you're reasonable.	Ah, me alegro de que seas razonable.
-#85:	Have a pleasant day.	Que tengas un buen día.
-#8:	I insist. Tell me!	Insisto. ¡Cuéntamelo!
-#11:	I see that it is not worth arguing this with you.	Veo que no merece la pena discutir contigo.
-#12:	But you will have to prove your devotion to the Titans beforehand.	Pero tendrás que demostrar tu devoción a los Titanes primero.
-#18:	I thought we could be friends.	Pensaba que podíamos ser amigos.
-#62:	Ok. Ok.	Está bien, está bien.
-#63:	But please give me some time.	Pero dame algo de tiempo.
-#64:	I need to prepare some things.	Necesito preparar algunas cosas.
-#65:	Let us continue this talk next time you visit New Delphi.	Continuemos nuestra conversación la próxima vez que visites Nueva Delphi.
-#15:	No way.	De ninguna manera.
-#16:	It's probably not worth it anyway.	Probablemente no merezca la pena.
-#32:	I knew this would be your answer.	Sabía que esa sería tu respuesta.
-#33:	Talk to me again when you wish to prove your devotion.	Ven a verme cuando quieras probar tu devoción.
-#13:	Alright.	De acuerdo.
-#14:	What do I need to do?	¿Qué tengo que hacer?
-#21:	Some time ago we found the body of a titan.	Hace algún tiempo encontramos el cuerpo de un Titán.
-#22:	We took it apart and enshrined the parts all over.	Lo despiezamos y consagramos sus piezas por todas partes.
-#23:	So people everywhere could see the wonders of the Titans in their glory.	Así la gente podría ver las maravillas de los Titanes en toda su gloria.
-#24:	Go on a pilgrimage and meet the guardians to the shrines of the Head, the Guts and the Heart.	Ve de peregrinaje y conoce a los guardianes de los santuarios de la cabeza, las tripas y el corazón.
-#25:	Prove yourself to them, and they will give you a sigil of approval.	Pruébate ante ellos y te darán un emblema de aprobación.
-#29:	Are you ready for this task?	¿Estás listo para esta tarea?
-#31:	No. This sounds too bothersome.	No, suena a que es un coñazo.
-#30:	Of course!	¡Por supuesto!
-#34:	Great.	Estupendo.
-#37:	The first shrine, the Titans Head, is in the mountains south of here.	El primer santuario, el de la cabeza, está en las montañas al sur de aquí.
-#83:	I was born ready.	Nací preparado.
-#47:	Do you mean these sigils?	¿Te refieres a estos emblemas?
-#48:	You already collected them?	¿Ya los tienes?
-#49:	How wonderful.	Es estupendo.
-#52:	I did not expect this.	Realmente no me esperaba esto.
-#54:	You must be blessed by the Titans.	Debes haber sido bendecido por los Titanes.
-#55:	Though this does come as a surprise.	Aunque eso no me sorprende.
-#56:	I need to prepare some things.	Necesito preparar algunas cosas.
-#57:	Let us talk about this again next time you come to New Delphi.	Hablemos de nuevo la próxima vez que vuelvas a Nueva Delphi.
-#51:	You truly are blessed.	Realmente estás bendito.
-#9:	I believe that I have more than proven my devotion to them already.	Creo que ya he demostrado bastante mi devoción.
-#20:	That may be true.	Puede que sea cierto.
-#61:	It IS true.	ES cierto.
-#27:	You will have to prove your devotion before I will say anything.	Tendrás que demostrar tu devoción antes de que pueda decir nada.
+#4:	Did that Historian talk again?	Historialari horrek berriro hitz al du?
+#81:	I told him to guard his mouth.	Isilik egoteko esan nion.
+#5:	Please leave this matter be.	Mesedez, utzi kontua.
+#82:	There is good reason why we tell the story this way.	Arrazoi on bat dago istorioa horrela kontatzeko.
+#7:	Alright. You don't have to tell me.	Ongi da, ez didazu zertan kontatu.
+#84:	Ah, it's good to see you're reasonable.	Ah, pozten naiz zentzuduna zarelako.
+#85:	Have a pleasant day.	Egun ona izan.
+#8:	I insist. Tell me!	Berriro diot. Kontaidazu!
+#11:	I see that it is not worth arguing this with you.	Ikusten dut ez duela merezi zurekin eztabaidatzeak.
+#12:	But you will have to prove your devotion to the Titans beforehand.	Baina erakutsi beharko duzu Titan-ekiko duzun debozioa.
+#18:	I thought we could be friends.	Lagunak izan gintezkeela uste nuen.
+#62:	Ok. Ok.	Ongi da, ongi da.
+#63:	But please give me some time.	Baina eman denbora pixka bat.
+#64:	I need to prepare some things.	Gauza batzuk prestatu behar ditut.
+#65:	Let us continue this talk next time you visit New Delphi.	New Delphi bisitatzen duzun hurrengoan jarraituko dugu hizketan.
+#15:	No way.	Inola ere ez.
+#16:	It's probably not worth it anyway.	Ziur aski ez duela merezi.
+#32:	I knew this would be your answer.	Banekien hori izango zela zure erantzuna.
+#33:	Talk to me again when you wish to prove your devotion.	Zatoz niregana zure debozioa frogatu nahi duzunean.
+#13:	Alright.	Ongi da.
+#14:	What do I need to do?	Zer egin behar dut?
+#21:	Some time ago we found the body of a titan.	Aspaldi aurkitu genuen Titan baten gorpua.
+#22:	We took it apart and enshrined the parts all over.	Zatitu ostean, piezak nonahi eskaintzen ditugu.
+#23:	So people everywhere could see the wonders of the Titans in their glory.	Horrela, jendeak Titan-en mirariak bere osotasunean ikus ditzakete.
+#24:	Go on a pilgrimage and meet the guardians to the shrines of the Head, the Guts and the Heart.	Erromesaldian joan eta ezagutu buru, tripa eta bihotzeko santutegietako zaindariak.
+#25:	Prove yourself to them, and they will give you a sigil of approval.	Proba zaitez haien aurrean eta onespen ikurra emango dizute.
+#29:	Are you ready for this task?	Prest al zaude zeregin honetarako?
+#31:	No. This sounds too bothersome.	Ez, kriston koñazoa dirudi.
+#30:	Of course!	Jakina!
+#34:	Great.	Primeran.
+#37:	The first shrine, the Titans Head, is in the mountains south of here.	Lehenengo santutegia, Titan-aren buruarena, hemendik hegoaldera dauden mendietan dago.
+#83:	I was born ready.	Beti prest.
+#47:	Do you mean these sigils?	Ikur hauetaz ari zara?
+#48:	You already collected them?	Badauzkazu?
+#49:	How wonderful.	Zoragarria da.
+#52:	I did not expect this.	Egia esan, ez nuen hau espero.
+#54:	You must be blessed by the Titans.	Titanek bedeinkatua izan behar zenuen.
+#55:	Though this does come as a surprise.	Baina horrek ez nau harritzen.
+#56:	I need to prepare some things.	Gauza batzuk prestatu behar ditut.
+#57:	Let us talk about this again next time you come to New Delphi.	New Delphi-ra itzultzen zaren hurrengoan hitz egingo dugu.
+#51:	You truly are blessed.	Benetan bedeinkatua zaude.
+#9:	I believe that I have more than proven my devotion to them already.	Uste dut nahikoa debozio erakutsi dudala nire partez.
+#20:	That may be true.	Baliteke egia izatea.
+#61:	It IS true.	Egia DA.
+#27:	You will have to prove your devotion before I will say anything.	Zure debozioa erakutsi beharko duzu ezer esan baino lehen.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestPilgrimQuestProgressInfo		
-#9:	You have yet to receive the first sigil, at Titan's Head.	Todavía no tienes el primer emblema, lo obtendrás en la Cabeza del Titán.
-#8:	You will receive the second sigil at Titans Guts, southeast of here.	Recibirás el segundo emblema en las Tripas del Titán, al sureste de aquí.
-#7:	The last sigil can be gotten at Titans Heart.	El último emblema lo obtendrás en el Corazón del Titán.
-#24:	Just go eastwards from here to find it.	Ve al este para encontrarlo.
-#3:	You have returned.	Has vuelto.
-#13:	And it seems successfully so.	Y parece que has tenido éxito.
-#14:	I can feel the Titans growing inside you.	Puedo sentir a los Titanes crecer en ti.
-#15:	But before we continue, I need to prepare some things.	Pero antes de continuar, debo preparar algunas cosas.
-#16:	Let's talk again next time you visit New Delphi.	Continuemos la conversación la próxima vez que visites Nueva Delphi.
+#9:	You have yet to receive the first sigil, at Titan's Head.	Oraindik ez duzu lehen ikurra, Titan-en Buruan lortuko duzu.
+#8:	You will receive the second sigil at Titans Guts, southeast of here.	Bigarren ikurra Titaneko Tripetan lortuko duzu, hemendik hego-ekialdera.
+#7:	The last sigil can be gotten at Titans Heart.	Azken ikurra Titanen Bihotzean lortuko duzu.
+#24:	Just go eastwards from here to find it.	Zoaz ekialdera aurkitzeko.
+#3:	You have returned.	Itzuli zara.
+#13:	And it seems successfully so.	Eta arrakasta izan duzula dirudi.
+#14:	I can feel the Titans growing inside you.	Titanak zure banrruan senti ditzaket.
+#15:	But before we continue, I need to prepare some things.	Baina jarraitu baino lehen, gauza batzuk prestatu behar ditut.
+#16:	Let's talk again next time you visit New Delphi.	New Delphi-ra itzultzen zaren hurrengoan hitz egingo dugu.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestReportDeathOfPriestOfTheHeart		
-#3:	What happened?	¿Qué ha pasado?
-#4:	Tell me everything!	¡Cuéntamelo todo!
-#5:	He was torn apart.	Ha sido descuartizado.
-#6:	Limbs all over the place.	Sus miembros están por todas partes.
-#7:	He managed to crawl away under the trees.	Consiguió arrastrarse hasta los árboles.
-#8:	And he said something about the Godhunters.	Y dijo algo de los Cazadioses.
-#9:	The Godhunters?	¿Cazadioses?
-#10:	This is bad.	Esto es malo.
-#11:	You there!	¡Tú, el de ahí!
-#14:	Yes?	¿Sí?
-#15:	Go to Titans Heart and check  the situation there!	¡Ve al Corazón del Titán y comprueba cómo están las cosas!
+#3:	What happened?	Zer gertatu da?
+#4:	Tell me everything!	Kontaidazu dena!
+#5:	He was torn apart.	Txikitu dute.
+#6:	Limbs all over the place.	Bere zatiak nonahi daude.
+#7:	He managed to crawl away under the trees.	Zuhaitzetaraino arrastaka joatea lortu zuen.
+#8:	And he said something about the Godhunters.	Eta Jainko-Ehiztariei buruz zerbait esan zuen.
+#9:	The Godhunters?	Jainko-Ehiztariak?
+#10:	This is bad.	Hau txarra da.
+#11:	You there!	Zu, hor dagoena!
+#14:	Yes?	Bai?
+#15:	Go to Titans Heart and check  the situation there!	Zoaz Titan-en Bihotzera eta egiaztatu gauzak nola dauden!
 #16:	Ah fuck.	Ah, joder.
-#17:	There goes my cozy guard job.	Se acabo mi relajado trabajo de guardia.
-#18:	Did you say something?	¿Has dicho algo?
-#19:	No, no, no.	No, no, no.
-#20:	I'm going, I'm going.	Ya voy, ya voy.
-#24:	Thank you very much for telling us about that.	Gracias por contárnoslo.
-#25:	This is dire news indeed.	Son malas noticias, desde luego.
+#17:	There goes my cozy guard job.	Amaitu da nire guardia-lan lasaia.
+#18:	Did you say something?	Zerbait esan duzu?
+#19:	No, no, no.	Ez, ez, ez.
+#20:	I'm going, I'm going.	Banoa, banoa.
+#24:	Thank you very much for telling us about that.	Eskerrik asko kontatzeagatik.
+#25:	This is dire news indeed.	Albiste txarrak dira, noski.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestSleeperDialogue		
-#23:	One of the Titans.	Uno de los Titanes.
-#3:	He once wandered the deserts in this area.	Una vez vago por los desiertos de esta zona.
-#4:	But then decided to take his rest in the pools.	Entonces decidió descansar en estos estanques.
-#5:	Thus New Delphi became a holy place.	Desde entonces Nueva Delphi es un lugar sagrado.
-#6:	And the pilgrims come here to pray to him.	Y los peregrinos vienen a rezarle.
-#10:	I see.	Ya veo.
-#16:	To be honest, there is more to this place.	Para ser honesto, hay más lugares como este.
+#23:	One of the Titans.	Titan-etako bat.
+#3:	He once wandered the deserts in this area.	Behin eremu honetako basamortuetan zehar ibili zen.
+#4:	But then decided to take his rest in the pools.	Orduan putzu hauetan atseden hartzea erabaki zuen.
+#5:	Thus New Delphi became a holy place.	Horrez geroztik, New Delphi leku sakratua da.
+#6:	And the pilgrims come here to pray to him.	Eta erromesak etortzen zaizkio otoitz egitera.
+#10:	I see.	Hara.
+#16:	To be honest, there is more to this place.	Egia esateko, horrelako leku gehiago daude.
 #19:	...	...
-#20:	I'm sorry. I said too much.	Lo siento, he hablado demasiado.
-#18:	Though even if you may be blessed by the Titans, I am not sure I can tell you.	Aunque estés bendito por los Titanes, no estoy seguro de poder contártelo.
-#9:	Does it work?	¿Funciona?
-#11:	Presumably.	Presuntamente.
-#12:	New people keep coming.	Siempre viene gente nueva.
-#8:	But he's sleeping?	Pero, ¿está durmiendo?
-#13:	It's not like he can do anything about those prayers.	No es que pueda hacer nada con esos rezos.
-#14:	Be quiet.	Silencio.
-#15:	Do not let the pilgrims waver in their belief.	No hagas que los peregrinos vacilen en sus creencias.
+#20:	I'm sorry. I said too much.	Barkatu, gehiegi hitz egin dut.
+#18:	Though even if you may be blessed by the Titans, I am not sure I can tell you.	Titan-engatik bedeinkatua bazaude ere, ezin dizut kontatu.
+#9:	Does it work?	Badabil?
+#11:	Presumably.	Ustez... bai.
+#12:	New people keep coming.	Beti dator jende berria.
+#8:	But he's sleeping?	Baina, lo al dago?
+#13:	It's not like he can do anything about those prayers.	Ezin dut ezer egin otoitz horiekin.
+#14:	Be quiet.	Ixo.
+#15:	Do not let the pilgrims waver in their belief.	Ez eragin erromesek beren sinesmenak zalantzan jar ditzaten.
 ------------------------------------------		
 SEQUENCE NewDelphiHighPriestTellingSecret		
-#10:	Oh, how I wish you wouldn't ask.	Oh, como desearía que no hubieses preguntado.
-#11:	I was burdened with the key to the gate down below.	Estaba condenado a llevar la llave de la puerta de abajo.
+#10:	Oh, how I wish you wouldn't ask.	Oh, galdetu ez izana nahiko nuke.
+#11:	I was burdened with the key to the gate down below.	Beheko ateko giltza eramatera kondenatuta zegoen.
 #12:	Behind which lie the remenants of this places past.	Detrás de la cual hay restos del pasado de este lugar.
 #13:	But the titans have heard my prayers and lifted this weight from me.	Pero los Titanes escucharon mis plegarias y aliviaron mi carga.
 #14:	The key is gone.	La llave ya no está.
