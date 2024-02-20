@@ -3798,56 +3798,56 @@ SEQUENCE PriestOfTheHeadDialogue
 #56:	It appears that the Titans have indeed blessed you.	Titan-ek benetan bedeinkatu zaituzte.
 ------------------------------------------		
 SEQUENCE PriestOfTheHeartDeath		
-#2:	Have you come back?	¿Has vuelto?
-#5:	Do you not see how I am suffering?	¿Acaso no ves que estoy sufriendo?
-#6:	You ripped off my limbs.	Me has arrancado las extremidades.
-#7:	My arms, my legs. They're gone.	Mis brazos, mis piernas. Ya no están.
-#8:	Have you not had enough?	¿No has tenido suficiente?
-#9:	Wait...	Espera...
-#10:	You're not wearing red.	No vas de rojo.
-#11:	The titans must have sent you, to do my final deed.	Los Titanes deben haberte enviado para mi última voluntad.
-#12:	Here, take this, and go to New Delphi.	Toma, ten esto y ve a Nueva Delphi.
-#13:	Tell them the godhunters have stolen the heart.	Diles que los Cazadioses han robado el corazón.
-#14:	Now go!	¡Ahora, vete!
-#15:	And let me enjoy the shade a little longer.	Y deja que disfrute de la sombra un poco más.
-#25:	Please, hurry to New Delphi	Date prisa, por favor. Ve a Nueva Delphi.
+#2:	Have you come back?	Itzuli al zara?
+#5:	Do you not see how I am suffering?	Ez duzu ikusten sufritzen ari naizela?
+#6:	You ripped off my limbs.	Gorputz-adarrak* kendu dizkidazu. *(extremidades)
+#7:	My arms, my legs. They're gone.	Nire besoak, nire hankak. Non daude?!
+#8:	Have you not had enough?	Ez duzu nahikoa izan?
+#9:	Wait...	Itxaron...
+#10:	You're not wearing red.	Ez zoaz gorriz jantzita.
+#11:	The titans must have sent you, to do my final deed.	Titan-ek bidali behar zintuzten niregana azken borondaterako.
+#12:	Here, take this, and go to New Delphi.	Hartu hau eta zoaz New Delphi-ra.
+#13:	Tell them the godhunters have stolen the heart.	Esaiezu Jainko-Ehiztariek bihotza lapurtu dutela.
+#14:	Now go!	Orain, joan zaitez!
+#15:	And let me enjoy the shade a little longer.	Eta utzi itzalaz gozatzen pixka bat gehiago.
+#25:	Please, hurry to New Delphi	Azkar, mesedez. Zoaz New Delphi-ra.
 ------------------------------------------		
 SEQUENCE PriestOfTheHeartDialogue		
-#7:	This is a holy place.	Esto es un lugar sagrado.
-#8:	The shrine to a Titan's heart.	El santuario del Corazón del Titán.
-#9:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Si deseas convertirte en un peregrino habla con el Alto Sacerdote en Nueva Delphi.
+#7:	This is a holy place.	Leku hau sakratua da.
+#8:	The shrine to a Titan's heart.	Titan-en Bihotzaren santutegia.
+#9:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Erromes bihurtu nahi baduzu, hitz egin Apaiz Gorenarekin New Delphi-n.
 ------------------------------------------		
 SEQUENCE PukeAbilityNotEnoughEnergy		
-#5:	I can't. Yet.	No puedo. Todavía.
-#4:	I don't feel like it.	No me apetece.
-#6:	I can't puke.	No puedo vomitar.
-#10:	My stomach is empty.	Mi estómago está vacío.
+#5:	I can't. Yet.	Ezin dut. Oraindik.
+#4:	I don't feel like it.	Ez dut gogorik.
+#6:	I can't puke.	Ezin dut botaka egin.
+#10:	My stomach is empty.	Urdaila hutsik daukat.
 ------------------------------------------		
 SEQUENCE PukeBar_Guard		
-#6:	I'm watching you.	Te estoy vigilando.
-#7:	Don't do anything stupid.	No hagas nada estúpido.
-#4:	You can get as drunk as you want.	Puedes emborracharte tanto como quieras.
-#5:	Just keep your weapon down.	Tan solo mantén tu arma guardada.
-#10:	What's with the guy crying at the bar?	¿Qué le pasa a ese tipo que está llorando?
-#11:	That's just Nard being overly emotional.	Es Nard, tan solo es demasiado sensible.
-#12:	Used to have a pet fleshworm. Called it Ilja or something along that line.	Solía tener un gusano de carne como mascota. Se llamaba Ilja o algo así.
-#13:	But last week it went too close to a turret.	Pero la semana pasada se acercó demasiado a una torreta.
-#14:	Got blown to smithereens immediately.	Y explotó en mil pedazos.
-#15:	Gory sight. Truly.	Algo bastante sangriento, a decir verdad.
-#16:	But since then he's been here. Crying.	Desde entonces está ahí, llorando.
-#17:	I don't mind. As long as he pays.	No le presto atención, siempre que pague.
+#6:	I'm watching you.	Zelatatzen ari naitzaizu.
+#7:	Don't do anything stupid.	Ez egin ergelkeriarik.
+#4:	You can get as drunk as you want.	Nahi adina mozkortu zaitezke.
+#5:	Just keep your weapon down.	Arma gordeta eduki, besterik ez.
+#10:	What's with the guy crying at the bar?	Zer gertatzen zaio negarrez ari den tipo horri?
+#11:	That's just Nard being overly emotional.	Nard da, sentikorregia da.
+#12:	Used to have a pet fleshworm. Called it Ilja or something along that line.	Haragi-zizare bat nuen maskota gisa. Ilja zuen izena.
+#13:	But last week it went too close to a turret.	Baina joan den astean gehiegi hurbildu zen dorreta batera.
+#14:	Got blown to smithereens immediately.	Eta mila zatitan ERREMENTA* zen. *(lehertu)
+#15:	Gory sight. Truly.	Nahiko odoltsua, egia esan.
+#16:	But since then he's been here. Crying.	Ordutik hor dago, negarrez.
+#17:	I don't mind. As long as he pays.	Ez diot jaramonik egiten, ordaintzen duen bitartean...
 ------------------------------------------		
 SEQUENCE PukeBar_GuestRandom		
-#77:	I got so drunk yesterday, I blacked out.	Me emborraché tanto ayer que me desmaye.
-#78:	Or was that two days ago?	¿O fue hace dos días?
-#85:	Here's a tip: Always stop before your last drink.	Un consejo: detente siempre antes de tu último trago.
-#86:	The last drink always brings you over the edge.	El último trago siempre te lleva al límite.
-#87:	Stop just before that, and you're good.	Para antes de eso y estarás bien.
-#79:	You know how they say too much alcohol is bad for you?	¿Sabes eso que dicen que demasiado alcohol es malo para ti?
-#80:	They are wrong.	Mienten.
-#9:	This is the life.	Esto es vida.
-#70:	Tell me, are you happy?	Dime, ¿eres feliz?
-#73:	Not really.	La verdad, no.
+#77:	I got so drunk yesterday, I blacked out.	Atzo kriston mozkorra hartu nuen, eta konortea galdu nuen.
+#78:	Or was that two days ago?	Edo herenegun izan zen?
+#85:	Here's a tip: Always stop before your last drink.	Aholkua: gelditu beti zure azken zurrutada baino lehen.
+#86:	The last drink always brings you over the edge.	Azken tragoak muturrera eramaten zaitu beti.
+#87:	Stop just before that, and you're good.	Gelditu hori baino lehen eta ondo egongo zara.
+#79:	You know how they say too much alcohol is bad for you?	Badakizu alkohol gehiegi txarra dela zuretzat?
+#80:	They are wrong.	Gezurren mamarrue!
+#9:	This is the life.	Hau bai bizitza.
+#70:	Tell me, are you happy?	Esaidazu, zoriontsua al zara?
+#73:	Not really.	Egia esan, ez...
 #74:	Then you maybe need a good puke.	Entonces quizás necesites vomitar.
 #75:	Washes out all the bad stuff.	Expulsar todo lo malo.
 #72:	Yes.	Sí.
