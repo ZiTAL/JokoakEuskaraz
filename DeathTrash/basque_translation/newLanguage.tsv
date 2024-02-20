@@ -3948,56 +3948,56 @@ SEQUENCE PukeBarBarkeeperGreeting
 ------------------------------------------		
 SEQUENCE PukeBarFleshReserves		
 #9:	Looks like the Bar is hoarding some meat here.	Badirudi tabernak haragia pilatzen duela hemen.
-#10:	I guess people over here get hungry, too.	Supongo que la gente por aquí también tiene hambre.
-#5:	This meat was infected by flesh maggots.	Pero la carne está infectada por gusanos de carne.
-#6:	But it's maggot-free now.	Ahora está libre de gusanos.
-#32:	These must be the flesh maggots Eldred mentioned.	Estos deben ser los gusanos que menciono Eldred.
-#33:	Guess I could try getting that poison.	Supongo que podría probar con el veneno.
-#12:	Here we go.	Allá vamos.
-#14:	Spreading it all over the place.	Extenderlo por todo el lugar.
-#18:	Goodbye, maggots!	¡Adiós, gusanos!
-#21:	Alright. Back to the barkeeper.	Bien. De vuelta con el tabernero.
+#10:	I guess people over here get hungry, too.	Uste dut hemengo jendea ere gose dela.
+#5:	This meat was infected by flesh maggots.	Baina haragia haragi-harrez kutsatuta dago.
+#6:	But it's maggot-free now.	Orain ez du zizarerik.
+#32:	These must be the flesh maggots Eldred mentioned.	Hauek izango dira Eldred-ek aipatzen zituen harrak.
+#33:	Guess I could try getting that poison.	Pozoiarekin probatu ahal izango dut.
+#12:	Here we go.	Goazen.
+#14:	Spreading it all over the place.	Hemendik zehar zabaldu.
+#18:	Goodbye, maggots!	Agur, zizareok!
+#21:	Alright. Back to the barkeeper.	Ongi. Itzuli tabernariarengana.
 ------------------------------------------		
 SEQUENCE PukeBarGreeter		
-#33:	Hello. Hope you're enjoying your stay at the Puke Bar.	Hola. Espero que estés disfrutando de tu estancia en el bar Vómito.
+#33:	Hello. Hope you're enjoying your stay at the Puke Bar.	Kaixo. Espero dut OKA tabernako egonaldiaz gozatzen egotea.
 ------------------------------------------		
 SEQUENCE PukeBarGreeterAfterSneakingIn		
-#2:	What the fuck?	¿Qué coño?
-#10:	I didn't see you come up the stairs, so you must have snuck in.	No he visto que subías las escaleras, debes haberte colado.
-#12:	Don't go creeping around too much, okay?	¿No vayas por ahí a hurtadillas, de acuerdo?
-#13:	We like it peaceful here.	Nos gustan las cosas tranquilas por aquí.
+#2:	What the fuck?	Baina ze putalarru?!
+#10:	I didn't see you come up the stairs, so you must have snuck in.	Ez dut ikusi eskailerak igotzen zenituenik. Baimenik gabe sartu zara.
+#12:	Don't go creeping around too much, okay?	Ez joan hortik ezkutatuta, ados?
+#13:	We like it peaceful here.	Gauza lasaiak gustatzen zaizkigu hemen.
 ------------------------------------------		
 SEQUENCE PukeBarGreeterGreeting		
-#2:	Hello and welcome to the Puke Bar!	¡Hola, y bienvenido al bar Vómito!
-#16:	Best drinks. Best meat. What else do you need?	Las mejores bebidas, la mejor carne. ¿Qué más se necesita?
-#3:	Be friendly, not annoying, and watch where you step.	Se amable, no molestes y cuidado por dónde pisas.
-#17:	And, this is important, don't carry any weapons openly in there.	Y, lo más importante, nada de armas a la vista.
-#11:	We want it peaceful.	Queremos tranquilidad.
-#7:	I don't deal in peace.	No negocio con tranquilidad.
-#10:	Fine. Then stay outside.	Vale, te quedas fuera.
-#13:	Guys inside are tense. If they see a weapon in your hand, they will shoot.	Los chicos de dentro están tensos. Si ven un arma en tu mano te dispararán.
-#9:	I carry my weapon wherever I want.	Llevo mi arma donde quiero.
-#6:	Alright. Will do.	Muy bien. Así lo haré.
-#12:	Good. Don't draw your weapon in there. Guys are tense.	Bien. No saques tu arma por aquí. Los muchachos están tensos.
-#15:	Leave me the fuck alone.	Déjame en paz, coño.
-#4:	And, this is important, put your weapon away.	Y, lo más importante, guarda tu arma.
+#2:	Hello and welcome to the Puke Bar!	Kaixo, eta ongi etorri OKA tabernara!
+#16:	Best drinks. Best meat. What else do you need?	Edaririk onenak, haragirik onena. Zer gehiago behar da?
+#3:	Be friendly, not annoying, and watch where you step.	Atsegina izan, ez kezkatu eta kontuz nondik zapaltzen duzun.
+#17:	And, this is important, don't carry any weapons openly in there.	Eta, garrantzitsuena, armarik ez bistan.
+#11:	We want it peaceful.	Lasaitasuna nahi dugu.
+#7:	I don't deal in peace.	Leku baketsuetan ez dut traturik egiten.
+#10:	Fine. Then stay outside.	Ados, kanpoan geratuko zara.
+#13:	Guys inside are tense. If they see a weapon in your hand, they will shoot.	Barruko mutilak urduri daude. Zure eskuan arma bat ikusten badute, tiro egingo dizute.
+#9:	I carry my weapon wherever I want.	Arma nahi dudan lekuan daramat.
+#6:	Alright. Will do.	Ederki. Hala egingo dut.
+#12:	Good. Don't draw your weapon in there. Guys are tense.	Ongi. Ez atera arma hemen. Mutilak urduri daude.
+#15:	Leave me the fuck alone.	Uzteko bakean, OSTIA!
+#4:	And, this is important, put your weapon away.	Eta, garrantzitsuena, gorde zure arma.
 ------------------------------------------		
 SEQUENCE RecruitableCompanionGeneratedWorld		
-#2:	Hello. Do you want me to join you?	Hola, ¿quieres que te acompañe?
-#7:	No.	No.
-#3:	Yes.	Sí.
-#9:	Excellent. Let's go.	Excelente, vamos.
+#2:	Hello. Do you want me to join you?	Kaixo, laguntzarik nahi?
+#7:	No.	Ez.
+#3:	Yes.	Bai.
+#9:	Excellent. Let's go.	Bikain, goazen.
 ------------------------------------------		
 SEQUENCE Sarah_Tauris		
-#2:	Hey.	Hey.
-#3:	Please don't harm me.	Por favor, no me hagas daño.
-#4:	You're living here?	¿Vives aquí?
-#5:	Yeah. It's cozy. And I'm not bothering anyone here.	Sí, es acogedor. Y no molesto a nadie.
-#6:	Not that it matters. Sometimes I think no one cares about anything anymore, for good or bad.	Aunque no importa, a veces creo que ya nada le importa a nadie. Para bien o para mal.
-#10:	[shrug]	[Encogerse de hombros]
+#2:	Hey.	Txo.
+#3:	Please don't harm me.	Mesedez, ez iezadazu minik eman.
+#4:	You're living here?	Hemen bizi al zara?
+#5:	Yeah. It's cozy. And I'm not bothering anyone here.	Bai, atsegina da. Eta ez diot inori enbarazu egiten.
+#6:	Not that it matters. Sometimes I think no one cares about anything anymore, for good or bad.	Ez dio axola, baina batzuetan uste dut ez zaiola inori ez zaiola ezer axola. Bai onerako zein txarrerako.
+#10:	[shrug]	[Sorbaldak jaso]
 #12:	Hmmh.	Hmm.
-#20:	Please leave me alone.	Por favor, déjame solo.
-#8:	I care.	A mi me importa.
+#20:	Please leave me alone.	Utz nazazu bakarrik, mesedez.
+#8:	I care.	Niri axola zait.
 #13:	That's nice to hear.	Es agradable oír eso.
 #15:	Everyone else has become indifferent. Even the machines.	Todo el mundo es indiferente. Incluso las máquinas.
 #16:	I heard they were much friendlier and caring back then.	He oído que eran mucho más amistosas y amables hace tiempo.
