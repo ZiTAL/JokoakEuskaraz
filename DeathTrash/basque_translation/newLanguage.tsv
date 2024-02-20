@@ -4100,54 +4100,54 @@ SEQUENCE TaurisCommentMechanicSign
 #2:	It's a hammer, I guess.	Mailua dela uste dut.
 ------------------------------------------		
 SEQUENCE TaurisCultistFriend1		
-#36:	This competition I got running. You gonna help me?	Tengo una competición en marcha, ¿me ayudas?
-#24:	I won't help you cheat.	No te ayudaré a hacer trampa.
-#25:	Sucker.	Capullo.
-#23:	Sounds like fun. What do you need?	Suena bien. ¿Qué necesitas?
-#30:	There's a lot of that pink glibber stuff in the Red Forest to the south of here.	Hay un montón de esas cosas rosadas en el Bosque Rojo al sur de aquí.
-#31:	It's gross. Never could stomach even looking at it.	Es desagradable. Ni siquiera puedo mirarlo.
-#32:	It's gotta do something to my innards, right?	Tiene que hacerle algo a mis tripas, ¿verdad?
-#33:	Alright. I'll get it for you.	Está bien, lo conseguiré para ti.
-#22:	What's the competition?	¿Cuál es la competición?
-#26:	It's about which of us can puke most.	Se trata de ver quién vomita más.
-#27:	I heard she's practicing a lot for this.	He oído que ella está practicando para esto.
-#28:	I don't wanna lose this time.	No quiero perder el tiempo.
-#29:	So, you in?	Entonces, ¿te apuntas?
-#48:	I still need that glibber.	Todavía necesito esa cosa.
-#49:	Gross stuff.	Es algo desagradable.
-#38:	Ah, you brought me the stuff.	Ah, me lo has traído.
-#40:	Gross.	Qué asco.
-#42:	...and down with it.	...y para dentro.
-#44:	Thanks to you I could win that bet.	Gracias a ti podré ganas la apuesta.
-#45:	I'll never do that again.	Nunca más volveré a hacer eso.
-#4:	Hey, you! Do you think I can win?	¡Oye, tú! ¿Crees que puedo ganar?
-#5:	Win what?	¿Ganar qué?
-#10:	Our competition.	La competición.
-#57:	I need to win it.	Necesito ganar.
-#58:	I just don't know if I can.	Pero no sé si puedo.
-#11:	Maybe you can help me?	¿Quizás puedas ayudarme?
-#8:	Hey! You're not trying to cheat here, are you?	¡Oye! ¿No estarás intentando hacer trampas?
-#9:	As if.	No me atrevería.
-#12:	What's this person doing here then?	¿Qué está haciendo esta persona aquí entonces?
+#36:	This competition I got running. You gonna help me?	Lehiaketa bat dut martxan. Lagunduko didazu?
+#24:	I won't help you cheat.	Ez dizut tranpa egiten lagunduko.
+#25:	Sucker.	Papau. KIKILLE TXUPE.
+#23:	Sounds like fun. What do you need?	Itxura ona du. Zer behar duzu?
+#30:	There's a lot of that pink glibber stuff in the Red Forest to the south of here.	Horrelako gauza arrosa asko daude Oihan Gorrian, hemendik hegoaldera.
+#31:	It's gross. Never could stomach even looking at it.	Nazkagarria da. Ezin diot begiratu ere egin.
+#32:	It's gotta do something to my innards, right?	Nire tripei zerbait egin behar zaie, ezta?
+#33:	Alright. I'll get it for you.	Ongi da, zuretzat lortuko dut.
+#22:	What's the competition?	Zein da lehiaketa?
+#26:	It's about which of us can puke most.	Botaka gehien egiten duenak irabazten du.
+#27:	I heard she's practicing a lot for this.	Horretarako praktikatzen ari dela entzun dut.
+#28:	I don't wanna lose this time.	Ez dut denbora galdu nahi.
+#29:	So, you in?	Entonces, Beraz, izena emango al duzu?
+#48:	I still need that glibber.	Oraindik gauza hori behar dut.
+#49:	Gross stuff.	Nazkagarria da.
+#38:	Ah, you brought me the stuff.	Ah, ekarri didazu.
+#40:	Gross.	Hau nazka, JODER.
+#42:	...and down with it.	... eta barrura. karkar! SIUH!
+#44:	Thanks to you I could win that bet.	Zuri esker apustua irabazteko aukera dut.
+#45:	I'll never do that again.	Ez dut berriro egingo.
+#4:	Hey, you! Do you think I can win?	TXO! Irabazi dezakedala uste al duzu?
+#5:	Win what?	Irabazi zer?
+#10:	Our competition.	Lehiaketa.
+#57:	I need to win it.	Irabazi behar dut.
+#58:	I just don't know if I can.	Baina ez dakit ahal dudan.
+#11:	Maybe you can help me?	Lagunduko zenidake?
+#8:	Hey! You're not trying to cheat here, are you?	Txo! Tranparik ez eh!
+#9:	As if.	Ez nintzateke ausartuko.
+#12:	What's this person doing here then?	Zertan ari da hau hemen?
 #13:	Uhm...	Uhm...
-#14:	Giving spiritual advice.	Dando consejos espirituales.
-#15:	I see.	Ya veo.
-#17:	Take all the advice you can. You'll still lose.	Toma todos los consejos que quieras. Vas a perder.
-#16:	Ok. So I need your help to win this.	Vale. Necesito tu ayuda para ganar esto.
-#20:	You in?	¿Te apuntas?
-#82:	Don't interrupt me.	No me molestes.
-#83:	Something big is coming up.	Algo grande está ocurriendo.
-#84:	I can feel it.	Puedo sentirlo.
-#87:	I'm getting there.	Casi estoy.
+#14:	Giving spiritual advice.	Aholku espiritualak ematen.
+#15:	I see.	Ikusten dut.
+#17:	Take all the advice you can. You'll still lose.	Hartu nahi dituzun aholku guztiak. Galduko duzu.
+#16:	Ok. So I need your help to win this.	Ados. Zure laguntza behar dut hau irabazteko.
+#20:	You in?	Apuntatuko al zara?
+#82:	Don't interrupt me.	Ixo!
+#83:	Something big is coming up.	Zerbait handia gertatzen ari da.
+#84:	I can feel it.	Senti dezaket.
+#87:	I'm getting there.	Ia prest nago.
 ------------------------------------------		
 SEQUENCE TaurisCultistFriend2		
-#2:	My friend over there. Isn't he the cutest?	Mi amigo de ahí.¿No es el más mono?
-#3:	If you say so.	Si tu lo dices.
-#12:	He's just a bit insecure.	Es un poco inseguro.
-#9:	Look at him, how hard he's trying.	Míralo, como se esfuerza.
-#19:	Just wait until he defeats you.	Espera a que te derrote.
-#20:	Oh, I don't plan on winning.	Oh, no planeo ganar.
-#21:	I just want him to feel good.	Tan solo quiero que se sienta bien.
+#2:	My friend over there. Isn't he the cutest?	Horko nire lagun hori. Ez al da polita?
+#3:	If you say so.	Zuk esaten baduzu...
+#12:	He's just a bit insecure.	Zalantzak dituela ematen du.
+#9:	Look at him, how hard he's trying.	Begira, nola saiatzen den.
+#19:	Just wait until he defeats you.	Itxaron, ziur irabaziko dizula.
+#20:	Oh, I don't plan on winning.	Oh, ez dut irabazteko asmorik.
+#21:	I just want him to feel good.	Ondo sentitzea besterik ez dut nahi.
 #18:	He needs that win.	Él necesita esa victoria.
 #22:	Weren't you taunting him?	¿No le estabas provocando?
 #23:	Of course. He can't know I'm helping.	Claro, no puede saber que estoy ayudándole.
