@@ -3498,106 +3498,106 @@ SEQUENCE NewDelphiHighPriestSleeperDialogue
 SEQUENCE NewDelphiHighPriestTellingSecret		
 #10:	Oh, how I wish you wouldn't ask.	Oh, galdetu ez izana nahiko nuke.
 #11:	I was burdened with the key to the gate down below.	Beheko ateko giltza eramatera kondenatuta zegoen.
-#12:	Behind which lie the remenants of this places past.	Detrás de la cual hay restos del pasado de este lugar.
-#13:	But the titans have heard my prayers and lifted this weight from me.	Pero los Titanes escucharon mis plegarias y aliviaron mi carga.
-#14:	The key is gone.	La llave ya no está.
-#15:	And with it my ability to present you the answer.	Y con ella la posibilidad de mostrarte la respuesta.
-#4:	So it's finally come to this.	Entonces, finalmente llegamos a esto.
-#5:	I hoped that by sending you away I wouldn't have to tell you.	Esperaba que mandándote lejos no tuviese que contártelo.
-#6:	Here, take this and walk through the gate down there.	Ten, toma esto y camina hasta la puerta.
-#7:	Experience yourself what this place used to be.	Experimenta por ti mismo lo que solía ser este lugar.
+#12:	Behind which lie the remenants of this places past.	Horren atzean leku honen iraganeko aztarnak daude.
+#13:	But the titans have heard my prayers and lifted this weight from me.	Baina Titan-ek nire otoitzak entzun zituzten eta zama arindu zidaten.
+#14:	The key is gone.	Giltza ez dago.
+#15:	And with it my ability to present you the answer.	Eta, horrekin batera, erantzuna erakusteko aukera.
+#4:	So it's finally come to this.	Azkenean honetara iritsi gara.
+#5:	I hoped that by sending you away I wouldn't have to tell you.	Espero nuen zu urrutira bidalita, kontatu beharrik ez izatea.
+#6:	Here, take this and walk through the gate down there.	Tori, hartu hau eta zoaz ateraino.
+#7:	Experience yourself what this place used to be.	Esperimentatu zeure kabuz zer zen leku hau.
 ------------------------------------------		
 SEQUENCE NewDelphiHistorianDialogue		
 #2:	...	...
-#5:	[Leave]	[Marcharse]
-#4:	Hello?	¿Hola?
-#34:	You're still interested in talking with me?	¿Todavía quieres hablar conmigo?
-#35:	How exciting.	Qué excitante.
-#13:	What do you need?	¿Qué necesitas?
-#18:	[Leave]	[Marcharse]
-#16:	Why won't the others talk to you?	¿Por qué no hablan los demás contigo?
-#25:	Oh, I don't know.	Oh, no lo sé.
-#116:	The others, they're more interested in the rites and stuff.	Los otros, están más interesados en ritos y esas cosas.
-#117:	Not the stories our community is actually built upon.	No en las historias sobre las que se construye nuestra comunidad.
-#118:	I guess I'm boring them.	Supongo que les aburro.
-#30:	Anything else?	¿Algo más?
-#46:	Who is the Sleeper?	¿Quién es el Durmiente?
-#113:	One of the Flesh Titans.	Uno de lo Titanes de Carne.
-#93:	It is said that he used to wander around the deserts in this area.	Se dice que solía vagar por el desierto de esta zona.
-#94:	But someday he decided to take his rest in the pools.	Pero un día decidió descansar en estos estanques.
-#95:	So New Delphi became a holy place.	Desde entonces Nueva Delphi es un lugar sagrado.
-#96:	And the pilgrims come here to pray to him.	Y los peregrinos vienen a rezarle.
-#106:	At least that's the official story.	Al menos, esa es la historia.
-#109:	The documents tell something else.	Los documentos dicen otra cosa.
-#114:	Oh, wait. The High Priest told me not to talk about that.	Oh, espera. El Alto Sacerdote me dijo que no hablase de eso.
-#69:	What is this Bleeding?	¿Qué es el Sangrado?
-#70:	It happened a long time ago.	Pasó hace mucho tiempo.
-#71:	This planet used to be completely normal.	El planeta era completamente normal.
-#72:	But then it started to rain blood and flesh.	Pero entonces comenzó a llover sangre y carne.
-#73:	For a long time. Maybe years even.	Durante mucho tiempo, años incluso.
-#91:	There aren't many records from that time.	No hay muchos registros de esa época.
-#76:	And soon after the Titans started appearing.	Y de pronto los Titanes comenzaron a aparecer.
-#39:	What are the Flesh Titans?	¿Qué son los Titanes de Carne?
-#58:	Mysterious beings of flesh.	Misteriosos seres de carne.
-#59:	They started appearing after the Bleeding.	Comenzaron a aparecer tras el Sangrado.
-#60:	Where they go, the flesh grows.	Allá donde van, crece la carne.
-#61:	And with the flesh comes life.	Y con la carne surge vida.
-#89:	At least that's what we believe.	Al menos, es lo que creemos.
-#90:	But their history is very murky.	Pero su historia es muy turbia.
-#29:	So, what is the history of this place?	Entonces, ¿cuál es la historia de este lugar?
-#40:	These are the ruins of New Delphi.	Son las ruinas de Nueva Delphi.
-#41:	This place was old even before the Bleeding.	Este lugar era antiguo, más incluso que el Sangrado.
-#42:	The pools are filled with mysterious liquids.	Los estanques estaban llenos de líquidos misteriosos.
-#43:	And the Sleeper chose one of them as his resting place.	Y el Durmiente eligió uno como lugar de descanso.
-#15:	Who are you?	¿Quién eres?
-#20:	I'm the Historian.	Soy el Historiador.
-#21:	I study the history of places connected to the Flesh Titans.	Estudio la historia de los lugares conectados con los Titanes de Carne.
-#23:	But documentation is scarce.	Pero la documentación es escasa.
+#5:	[Leave]	[Joan]
+#4:	Hello?	Kaixo?
+#34:	You're still interested in talking with me?	Oraindik nirekin hitz egin nahi al duzu?
+#35:	How exciting.	Bai kitzikagarria*. *(Excitante)
+#13:	What do you need?	Zer behar duzu?
+#18:	[Leave]	[Joan]
+#16:	Why won't the others talk to you?	Zergatik ez dute besteek zurekin hitz egiten?
+#25:	Oh, I don't know.	Oh, ez dakit.
+#116:	The others, they're more interested in the rites and stuff.	Besteek interes handiagoa dute errituetan eta gauza horietan.
+#117:	Not the stories our community is actually built upon.	Ez gure komunitatea eraikitzeko erabiltzen diren historietan.
+#118:	I guess I'm boring them.	Aspertzen zaituztedalakon nago.
+#30:	Anything else?	Besterik?
+#46:	Who is the Sleeper?	Nor da Lotia?
+#113:	One of the Flesh Titans.	Haragizko Titan-etako bat.
+#93:	It is said that he used to wander around the deserts in this area.	Inguru honetako basamortuan ibiltzen omen zen.
+#94:	But someday he decided to take his rest in the pools.	Baina, egun batean putzu hauetan atseden hartzea erabaki zuen.
+#95:	So New Delphi became a holy place.	Geroztik, New Delphi leku sakratua da.
+#96:	And the pilgrims come here to pray to him.	Eta erromesak otoitz egitera etortzen zaizkio.
+#106:	At least that's the official story.	Gutxienez, hori da istorioa.
+#109:	The documents tell something else.	Dokumentuek beste zerbait diote.
+#114:	Oh, wait. The High Priest told me not to talk about that.	Oh, itxaron. Apaiz Gorenak esan zidan horri buruz ez hitz egiteko.
+#69:	What is this Bleeding?	Zer da Odolustea?
+#70:	It happened a long time ago.	Aspaldi gertatu zen.
+#71:	This planet used to be completely normal.	Planeta guztiz normala zen.
+#72:	But then it started to rain blood and flesh.	Baina orduan odola eta haragia zerutik erortzen hasi zen, euria bezala.
+#73:	For a long time. Maybe years even.	Denbora asko, urteak ere bai.
+#91:	There aren't many records from that time.	Ez dago garai horretako erregistro askorik.
+#76:	And soon after the Titans started appearing.	Eta bat-batean Titan-ak agertzen hasi ziren.
+#39:	What are the Flesh Titans?	Zer dira Haragizko Titan-ak?
+#58:	Mysterious beings of flesh.	Haragizko izaki misteriotsuak.
+#59:	They started appearing after the Bleeding.	Odolustea-ren ondoren agertzen hasi ziren.
+#60:	Where they go, the flesh grows.	Doazen lekura doazela, haragia hazten da.
+#61:	And with the flesh comes life.	Eta haragiarekin bizia sortzen da.
+#89:	At least that's what we believe.	Behintzat, horretan sinesten dugu.
+#90:	But their history is very murky.	Baina bere istorioa oso iluna da.
+#29:	So, what is the history of this place?	Orduan, zein da toki honen historia?
+#40:	These are the ruins of New Delphi.	New Delphi-ren hondakinak dira.
+#41:	This place was old even before the Bleeding.	Leku hau aspaldikoa zen, Odolustea baino zaharragoa.
+#42:	The pools are filled with mysterious liquids.	Putzuak likido misteriotsuz beteta zeuden.
+#43:	And the Sleeper chose one of them as his resting place.	Eta Lotiak atseden-leku bat aukeratu zuen.
+#15:	Who are you?	Nor zara?
+#20:	I'm the Historian.	Historialaria naiz.
+#21:	I study the history of places connected to the Flesh Titans.	Haragi-titan-ekin lotutako lekuen historia aztertzen dut.
+#23:	But documentation is scarce.	Baina dokumentazioa urria da.
 #9:	...	...
-#10:	HELLO!	¡HOLA!
-#11:	Oh, you're talking to me.	Oh, me hablas a mi.
-#12:	No one ever talks to me.	Nadie me habla nunca.
+#10:	HELLO!	KAIXO!
+#11:	Oh, you're talking to me.	Oh, nirekin hitz egiten ari al zara?
+#12:	No one ever talks to me.	Inork ez dit inoiz hitz egiten.
 ------------------------------------------		
 SEQUENCE NewDelphiPilgrim		
-#14:	As we consume the flesh, the flesh will consume us.	A medida que consumimos carne, la carne nos consume a nosotros.
-#15:	My prayers will be heard.	Mis plegarias serán escuchadas.
-#13:	I'm here to pray.	Estoy aquí para rezar.
-#16:	It's too fucking hot.	Hace demasiado puto calor.
-#12:	I'm so thirsty.	Tengo tanta sed.
-#11:	These ruins were already ancient when the bleeding happened.	Estas ruinas ya eran antiguas incluso antes del Sangrado.
-#10:	I travelled for five days, just to see the sleeper.	He viajado cinco días para ver al Durmiente.
-#9:	They say New Delphi is hiding a secret.	Dicen que Nueva Delphi esconde un secreto.
-#8:	Have you not met the sleeper?	¿No has conocido al Durmiente?
-#7:	I did not expect it to be so hot here.	No esperaba que hiciese tanto calor aquí.
-#3:	The high priest is wise.	El Alto Sacerdote es muy sabio.
-#17:	I travelled from far away, and still no hookup.	He viajado desde muy lejos y todavía no hay conexión.
+#14:	As we consume the flesh, the flesh will consume us.	Haragia kontsumitu ahala, haragiak gu jaten gaitu.
+#15:	My prayers will be heard.	Nire otoitzak entzunak izango dira.
+#13:	I'm here to pray.	Otoitz egiteko nago hemen.
+#16:	It's too fucking hot.	Joder beruri txo!
+#12:	I'm so thirsty.	Egarri naiz!
+#11:	These ruins were already ancient when the bleeding happened.	Hondakin horiek zaharrak ziren Odolustu aurretik ere.
+#10:	I travelled for five days, just to see the sleeper.	Bost eguneko bidaia egin dut Lotia ikusteko.
+#9:	They say New Delphi is hiding a secret.	New Delphi-k sekretu bat duela diote.
+#8:	Have you not met the sleeper?	Ez al duzu Lotia ezagutu?
+#7:	I did not expect it to be so hot here.	Ez nuen espero hemen hainbeste bero egingo zuenik.
+#3:	The high priest is wise.	Apaiz Gorena oso jakintsua da.
+#17:	I travelled from far away, and still no hookup.	Oso urrutitik bidaiatu dut eta oraindik ez dago konexiorik.
 ------------------------------------------		
 SEQUENCE NewDelphiPriestBlessing		
-#7:	For the flesh.	Por la carne.
-#14:	Be blessed by the flesh.	Que la carne te bendiga.
-#10:	Follow the titans.	Sigue a los Titanes.
-#13:	As you will.	Como desees.
-#20:	May the wounds close in peace.	Que las heridas se cierren en paz.
-#12:	The sun will rise again.	El sol se alza de nuevo.
-#11:	Mind your body.	Mente y cuerpo.
-#6:	Do not hesitate. Do!	No dudes, ¡hazlo.
-#5:	Remember to be.	Recuerda ser.
-#18:	May the titans offer you peace.	Que los Titanes te ofrezcan la paz.
-#4:	Go, my child.	Ve, hijo mío.
-#17:	Know your will.	Conoce su voluntad.
-#3:	Praise the flesh.	Alabada sea la carne.
-#16:	Protect yourself.	Protégete a ti mismo.
-#15:	Believe in the blood.	Cree en la sangre.
+#7:	For the flesh.	Haragiagatik.
+#14:	Be blessed by the flesh.	Haragiak bedeinka zaitzala.
+#10:	Follow the titans.	Titan-ak jarraitu.
+#13:	As you will.	Nahi duzun bezala.
+#20:	May the wounds close in peace.	Zauriak bakean itxi daitezela.
+#12:	The sun will rise again.	Eguzkia berriro altxatzen da.
+#11:	Mind your body.	Burua eta gorputza.
+#6:	Do not hesitate. Do!	Ez izan zalantzarik, egizu!
+#5:	Remember to be.	Gogoratu izaten.
+#18:	May the titans offer you peace.	Titan-ek bakea eskain diezazutela.
+#4:	Go, my child.	Zoaz, seme.
+#17:	Know your will.	Bere borondatea ezagutu.
+#3:	Praise the flesh.	Goretsia izan dadila haragia.
+#16:	Protect yourself.	Babestu zeure burua.
+#15:	Believe in the blood.	Odolean sinesten du.
 ------------------------------------------		
 SEQUENCE NewDelphiPriestDialogue		
-#12:	You have come back.	Has vuelto.
-#50:	Will you let the titans bless you?	¿Dejarás que los Titanes te bendigan?
-#10:	[Leave]	[Marcharse]
-#14:	Do the blessings even work?	¿Acaso funcionan las bendiciones?
-#16:	That Titan over there doesn't seem very active.	Ese Titán no parece muy activo.
-#17:	Be quiet, fool!	¡Silencio, necio!
-#18:	Do not let the pilgrims waver in their belief.	No hagas que los peregrinos vacilen en sus creencias.
-#19:	This place is blessed by the sleeper, and your words may not defile it.	Este lugar está bendecido por el Durmiente y tus palabras no lo mancillarán.
+#12:	You have come back.	Itzuli zara.
+#50:	Will you let the titans bless you?	Utziko al diezu Titanei bedeinkatzen?
+#10:	[Leave]	[Joan]
+#14:	Do the blessings even work?	Bedeinkapenek funtzionatzen al dute?
+#16:	That Titan over there doesn't seem very active.	Titan horrek ez dirudi oso aktiboa denik.
+#17:	Be quiet, fool!	Ixo, papau!
+#18:	Do not let the pilgrims waver in their belief.	Ez eragin erromesek beren sinesmenak zalantzan jar ditzaten.
+#19:	This place is blessed by the sleeper, and your words may not defile it.	Leku hau Lotia-k bedeinkatzen du, eta zure hitzek ez dute profanatuko.
 #38:	Such is the glory of the titans.	Tal es la gloria de los Titanes.
 #20:	What's with the big guy in the pool?	¿Qué pasa con ese enorme tipo en el charco?
 #22:	Do not speak ill of the sleeper.	No blasfemes del Durmiente.
