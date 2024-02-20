@@ -3898,56 +3898,56 @@ SEQUENCE PukeBar_GuestRandom
 #31:	Fuck it. Let's do this.	Ze osti! GOAZEN!
 #12:	You look good.	Itxura ona duzu.
 #14:	Here, take this. It's on me.	Tori, hartu hau. Nik gonbidatzen dut.
-#18:	Woah. You're drunk.	Vaya, estás borracho.
-#25:	Same as me.	Como yo.
-#64:	Man, this is great.	Joder, esto es estupendo.
+#18:	Woah. You're drunk.	Hara, mozkortuta zaude.
+#25:	Same as me.	Ni bezala.
+#64:	Man, this is great.	Joder, hau zoragarria da.
 ------------------------------------------		
 SEQUENCE PukeBar_GuestRoot		
-#18:	You, me, that room over there. What do you say?	Tú, yo y ese cuarto de ahí. ¿Qué me dices?
-#20:	Not right now, sorry.	Ahora no, lo siento.
-#21:	But you see that crying mess over at the bar?	¿Ves ese montón de llantos sobre el bar?
-#22:	You mean Nard?	¿Te refieres a Nard?
-#23:	How about you giving him some company?	¿Qué tal si le haces compañía?
-#24:	No way. I wanna have some fun. And he doesn't look like fun.	De ninguna manera. Quiero divertirme y él no es precisamente divertido.
-#33:	[Leave]	[Marcharse]
-#32:	Just look at him. How can you be so heartless?	Tan solo míralo. ¿Cómo puedes tener tan poco corazón?
-#34:	Ok. ok. I got it.	Está bien, está bien. Entendido.
-#35:	I'll take care of him. For now.	Me ocuparé de él, por ahora.
-#60:	But you'll have to introduce us properly.	Pero tendrás que presentarnos correctamente.
-#26:	What would I need to give you to change your mind?	¿Qué tengo que hacer para hacerte cambiar de idea?
-#36:	What are you taking me for?	¿Por quién me tomas?
-#37:	Everybody has a price.	Todo el mundo tiene un precio.
-#27:	100 Gold.	100 de oro.
-#30:	That's too much.	Es demasiado.
-#48:	Then I won't help you.	Entonces no pienso ayudar.
-#29:	Deal.	Hecho.
-#47:	I just don't have it right now.	No lo tengo ahora mismo.
-#46:	Then come back once you have enough.	Vuelve cuando tengas suficiente.
-#41:	I'll give you 60.	Te daré 60.
-#42:	Fuck off. I'm not that cheap.	Que te den, demasiado barato.
-#40:	I'll give you 60.	Te dare 60.
-#43:	That'll do.	Servirá.
-#50:	I just don't have it right now.	No lo tengo ahora mismo.
-#51:	Bartering me down, and not being ready to pay.	Regateando conmigo y no tiene ni para pagar.
-#52:	You truly aren't the brightest.	Realmente eres un estafador.
-#4:	What is it?	¿Qué sucede?
-#5:	Do you know the guy crying at the bar?	¿Conoces al tipo que llora en el bar?
-#7:	Nard? He's been going at it for a couple of weeks now.	¿Nard? Lleva así un par de semanas.
-#8:	Wish I could stomach as much as him.	Ojalá pudiera aguantar tanto como él.
-#9:	What is he crying about?	¿Por qué llora?
-#10:	Somebody called Millja, or something like that.	Alguien llamado Millja o algo así.
-#11:	No idea who that is.	Ni idea de quién es.
-#12:	Never met them before.	Nunca lo conocí.
-#15:	The guards might know more.	Quizás los guardias sepan algo.
-#16:	Now, where's the booze?	Bueno, ¿dónde está el alcohol?
-#57:	Leave us alone. We're having a moment.	Déjanos en paz. Estamos teniendo un momento.
-#59:	Yeah. Leave us alone!	Sí. ¡Déjanos en paz!
+#18:	You, me, that room over there. What do you say?	Zu, ni eta logela hori. Zer diozu?
+#20:	Not right now, sorry.	Orain ez, sentitzen dut.
+#21:	But you see that crying mess over at the bar?	Ikusten duzu tabernako negarti hori?
+#22:	You mean Nard?	Nard-ez ari al zara?
+#23:	How about you giving him some company?	Zer moduz konpainia egiten badiozu?
+#24:	No way. I wanna have some fun. And he doesn't look like fun.	Inola ere ez. Dibertitu nahi dut eta bera aspegarria da.
+#33:	[Leave]	[Joan]
+#32:	Just look at him. How can you be so heartless?	Tan solo míralo. Begira iezaiozu. Nola izan dezakezu hain bihotz txikia?
+#34:	Ok. ok. I got it.	Ongi da, ongi da. Ulertuta....
+#35:	I'll take care of him. For now.	Oraingoz, arduratuko naiz.
+#60:	But you'll have to introduce us properly.	Baina behar bezala aurkeztu beharko gaituzu.
+#26:	What would I need to give you to change your mind?	Zer egin behar dut iritziz aldarazteko?
+#36:	What are you taking me for?	Nor uste duzu naizela?
+#37:	Everybody has a price.	Mundu guztiak du prezioa.
+#27:	100 Gold.	100 urre.
+#30:	That's too much.	Gehiegi da.
+#48:	Then I won't help you.	Orduan ez dut lagunduko.
+#29:	Deal.	Egina.
+#47:	I just don't have it right now.	Ez daukat oraintxe bertan.
+#46:	Then come back once you have enough.	Nahikoa duzunean itzuli.
+#41:	I'll give you 60.	60 emango dizkizut.
+#42:	Fuck off. I'm not that cheap.	Astuen bokuek! Merkeegi.
+#40:	I'll give you 60.	60 emango dizkizut.
+#43:	That'll do.	Balioko du.
+#50:	I just don't have it right now.	Ez daukat oraintxe bertan.
+#51:	Bartering me down, and not being ready to pay.	Nirekin tratuan eta ez daukazu ezta ordaintzeko ere.
+#52:	You truly aren't the brightest.	Iruzurgile zital alena.
+#4:	What is it?	Zer gertatzen da?
+#5:	Do you know the guy crying at the bar?	Ezagutzen duzu tabernan negarrez ari den tipoa?
+#7:	Nard? He's been going at it for a couple of weeks now.	Nard? Aste pare bat darama horrela.
+#8:	Wish I could stomach as much as him.	Nahiago nuke berak adina iraungo banu.
+#9:	What is he crying about?	Zergatik egiten du negar?
+#10:	Somebody called Millja, or something like that.	Millja izeneko norbait edo.
+#11:	No idea who that is.	Ez dakit nor den.
+#12:	Never met them before.	Ez dut inoiz ezagutu.
+#15:	The guards might know more.	Agian zaindariek zerbait jakingo dute.
+#16:	Now, where's the booze?	Bueno, Non dago alkohola?
+#57:	Leave us alone. We're having a moment.	Utz gaitzazu bakean. Intimitatea behar dugu.
+#59:	Yeah. Leave us alone!	Bai. Utzi bakean! SEP!
 ------------------------------------------		
 SEQUENCE PukeBarBarkeeperGreeting		
-#2:	Hello!	¡Hola!
+#2:	Hello!	Kaixo!
 ------------------------------------------		
 SEQUENCE PukeBarFleshReserves		
-#9:	Looks like the Bar is hoarding some meat here.	Parece que el bar acumula carne aquí.
+#9:	Looks like the Bar is hoarding some meat here.	Badirudi tabernak haragia pilatzen duela hemen.
 #10:	I guess people over here get hungry, too.	Supongo que la gente por aquí también tiene hambre.
 #5:	This meat was infected by flesh maggots.	Pero la carne está infectada por gusanos de carne.
 #6:	But it's maggot-free now.	Ahora está libre de gusanos.
