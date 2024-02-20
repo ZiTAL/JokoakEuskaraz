@@ -3998,56 +3998,56 @@ SEQUENCE Sarah_Tauris
 #12:	Hmmh.	Hmm.
 #20:	Please leave me alone.	Utz nazazu bakarrik, mesedez.
 #8:	I care.	Niri axola zait.
-#13:	That's nice to hear.	Es agradable oír eso.
-#15:	Everyone else has become indifferent. Even the machines.	Todo el mundo es indiferente. Incluso las máquinas.
-#16:	I heard they were much friendlier and caring back then.	He oído que eran mucho más amistosas y amables hace tiempo.
+#13:	That's nice to hear.	Atsegina da hori entzutea.
+#15:	Everyone else has become indifferent. Even the machines.	Denak dira axolagabeak. Baita makinak ere.
+#16:	I heard they were much friendlier and caring back then.	Entzuna dut atseginagoak zirela aspaldi.
 ------------------------------------------		
 SEQUENCE ScepticalNPCPukeBar		
-#22:	Take care. Keep a low profile, right?	Cuídate. Mantén un perfil bajo, ¿vale?
-#3:	Oh. You're fresh, right?	Oh. Eres nuevo, ¿verdad?
-#7:	I guess I'm kinda fresh.	Supongo.
-#8:	Want some advice? Don't hang out with the wrong people.	¿Quieres un consejo? No te juntes con las personas equivocadas.
-#80:	Who's that?	¿Quién?
-#81:	Them fleshies and them flesh people. Can't trust them.	Los carnosos y su gente de la carne. No puedes confiar en ellos.
-#101:	[Leave]	[Marcharse]
-#92:	I'm looking for a fleshy friend, actually.	En realidad, estoy buscando a un amigo carnoso.
+#22:	Take care. Keep a low profile, right?	Zaindu. Profil baxuaz baliatu, ados?
+#3:	Oh. You're fresh, right?	Oh. Berria zara, ezta?
+#7:	I guess I'm kinda fresh.	Baietz esango nuke.
+#8:	Want some advice? Don't hang out with the wrong people.	Aholku bat nahi duzu? Kontuz norekin batzen zaren.
+#80:	Who's that?	Adibidez?
+#81:	Them fleshies and them flesh people. Can't trust them.	Haragiak eta haragi-jendea. Ezin zara haietaz fidatu.
+#101:	[Leave]	[Joan]
+#92:	I'm looking for a fleshy friend, actually.	Egia esan, lagun haragitsu baten bila nabil.
 #95:	...	...
-#96:	For real?	¿En serio?
-#97:	Yes.	Sí.
-#114:	Why would you want to be a friend to some of them monsters?	¿Por qué querrías ser amigo de uno de esos monstruos?
-#115:	I'm already a friend. I'm looking for MORE friends for the Kraken.	Ya soy un amigo. Busco MÁS amigos para el kraken.
+#96:	For real?	Benetan?
+#97:	Yes.	Bai.
+#114:	Why would you want to be a friend to some of them monsters?	Zergatik izan nahi duzu munstro horietako baten laguna?
+#115:	I'm already a friend. I'm looking for MORE friends for the Kraken.	Dagoeneko bere laguna naiz. Lagun gehiagoren bila nabil krakenarentzat.
 #116:	...	...
-#117:	Fuck.	Hostias.
-#118:	You're either a pervert or just messing with me.	O eres un pervertido o me estás tomando el pelo.
-#98:	I don't wanna be friends with one of them. Please leave me alone.	No quiero ser amigo de uno de ellos. Por favor, déjame solo.
-#82:	Why can't I trust the fleshies?	¿Por qué no puedo confiar en los carnosos?
-#84:	They're gonna kill you. Hack you up, and then build a new titan with your arms and liver and blood.	The matarán. Te partirán en trocitos y construirán un nuevo Titán con tus brazos, tu hígado y tu sangre.
-#89:	They're building new titans from body parts?	¿Construyen Titanes con partes del cuerpo?
-#91:	Yes.	Sí.
-#104:	You saw that yourself or heard that somewhere?	¿Lo has visto o lo has oído?
-#105:	Didn't see it with my own eyes. But it makes sense, right?	No lo he visto, pero tiene sentido. ¿Verdad?
-#111:	No, it doesn't.	No, de eso nada.
-#112:	Ha! You're just afraid to see the truth for what it is.	¡Ja! Tienes miedo de saber la verdad, eso es.
-#113:	You'll remember this when the fleshies catch you.	Recordarás esto cuando los carnosos te atrapen.
-#107:	I guess it could.	Supongo.
-#108:	See?	¿Ves?
-#110:	Be careful out there. Don't let the fleshies catch you.	Ten cuidado ahí afuera. No dejes que los carnosos te atrapen.
-#33:	No.	No.
-#40:	Well. Have fun.	Bien, diviértete.
-#31:	[Nod]	[Asentir]
-#14:	Eat that meat until you're old and fat.	Come esa carne hasta que seas viejo y gordo.
-#15:	If you stick your nose out there, it's gonna be eaten by mutants or one of them fuckin' garbage humans.	Si metes tus narices por ahí se la comerán los mutantes o una de esas basuras humanas.
-#74:	Can't even tell anymore who's gonna want to kill you and who not.	Ni siquiera sé quién va a querer matarte y quién no.
-#20:	Something's riling them all up. I bet it's gonna get worse.	Algo los está agitando a todos. Apuesto a que va a empeorar.
-#75:	What's riling them up?	¿Qué los está agitando?
-#76:	I don't know.	No lo sé.
-#78:	I bet it's on of them monsters. Or titans. Or whatever they call them these days.	Apuesto a que uno de ellos es un monstruo. O Titanes. O como se llamen hoy en día.
-#77:	Anyway, have fun. And thanks for listening to my advice.	De todas formas, diviértete. Y gracias por escuchar mi consejo.
-#28:	Bring it on.	Vamos allá.
-#85:	What if I want to?	¿Y si quiero?
+#117:	Fuck.	Ostidxek eta bi hamabi!
+#118:	You're either a pervert or just messing with me.	Perbertitu puta bat zara edo adarra jotzen ari al zara?
+#98:	I don't wanna be friends with one of them. Please leave me alone.	Ez dut horrelako mustroren baten laguna izan nahi. Utz nazazu bakean. SEP
+#82:	Why can't I trust the fleshies?	Zergatik ezin naiz haragiekin fidatu?
+#84:	They're gonna kill you. Hack you up, and then build a new titan with your arms and liver and blood.	Hil zaituztelako. Zatitxotan zatituko eta Titan berri bat eraikiko dute zure besoekin, gibelarekin eta odola erabiliz.
+#89:	They're building new titans from body parts?	Titan-ak gorputzeko atalekin eraikitzen al dituzte?
+#91:	Yes.	Bai.
+#104:	You saw that yourself or heard that somewhere?	Zuk zeuk ikusi duzu edo norbaiti entzun al diozu?
+#105:	Didn't see it with my own eyes. But it makes sense, right?	Ez dut ikusi, baina zentzua du. Ezta?
+#111:	No, it doesn't.	Ez, ez du zentzurik, ez.
+#112:	Ha! You're just afraid to see the truth for what it is.	Bai zera! Egia jakiteko beldur zara, hori da.
+#113:	You'll remember this when the fleshies catch you.	Honetaz oroituko zara haragiek harrapatzen zaituztenean.
+#107:	I guess it could.	Beharbada.
+#108:	See?	Ikusten?
+#110:	Be careful out there. Don't let the fleshies catch you.	Kontuz ibili hor kanpoan. Ez utzi haragiei harrapatzen.
+#33:	No.	Ez.
+#40:	Well. Have fun.	Ederto, Ondo pasa.
+#31:	[Nod]	[Baiezkoa eman]
+#14:	Eat that meat until you're old and fat.	Jan haragi hori zu zaharra eta lodia izan arte.
+#15:	If you stick your nose out there, it's gonna be eaten by mutants or one of them fuckin' garbage humans.	Zure sudurra sartzen baduzu, mutanteek jango dute, edo gizaki zikin horietako batek.
+#74:	Can't even tell anymore who's gonna want to kill you and who not.	Ez dakit ezta nork hil nahi zaituen eta nork ez.
+#20:	Something's riling them all up. I bet it's gonna get worse.	Zerbait denak astintzen ari da. Apustu egingo nuke okerrera egingo duela.
+#75:	What's riling them up?	Zerk baina?
+#76:	I don't know.	Ez dakit.
+#78:	I bet it's on of them monsters. Or titans. Or whatever they call them these days.	Apustu egingo nuke munstro  horietako bat dela. Edo Titan-ak. Edo dena delakoak.
+#77:	Anyway, have fun. And thanks for listening to my advice.	Dena den, ondo pasa. Eta eskerrik asko nire aholkua entzuteagatik.
+#28:	Bring it on.	Goazen.
+#85:	What if I want to?	Eta nahi badut?
 ------------------------------------------		
 SEQUENCE ShebzuStatue		
-#2:	Shebzu, the Seducer.	Shebzu, la seductora.
+#2:	Shebzu, the Seducer.	Shebzu, erakargarria
 ------------------------------------------		
 SEQUENCE SleepingTitan		
 #2:	*sleeping*	*durmiendo*
