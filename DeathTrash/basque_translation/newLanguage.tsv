@@ -3698,104 +3698,104 @@ SEQUENCE PlayerServices
 #78:	Well, I'm selling some implants and bits.	Beno, inplanteak eta horrelakoak saltzen ditut.
 #79:	You can take a look at them in my shop.	Begiratu nire dendan.
 #17:	What is this machine next to you?	Zer da zure aldamenean dagoen makina hori?
-#19:	It's a Machine Merchant. Fine thing, right? The Collectors installed it.	Es una Máquina Mercader. Estupendo, ¿verdad? Los coleccionistas lo instalaron.
-#27:	Alright.	Está bien.
-#34:	What if someone attacks it?	¿Y si alguien lo ataca?
-#36:	People have tried. But the machine cannot be destroyed, it seems.	Ya lo han intentado. No puede ser destruida, al parecer.
-#37:	I would bet the machine also records any attempts.	Apuesto a que tiene grabaciones de los intentos.
-#38:	Don't try anything stupid. I wouldn't want to get on the bad side of the Collectors, haha.	No hagas nada estúpido. No me gustaría llevarme mal con los Coleccionistas, jaja.
-#20:	The Collectors?	¿Los Coleccionistas?
-#21:	Bunch of traders. Looking for rare scrap, but interested in all kind of goods, really.	Un grupo de comerciantes. Buscan cosas raras y les interesa todo, la verdad.
-#22:	Never heard of them? Where are you from?	¿Nunca has oído de ellos? ¿De dónde eres?
-#30:	Does it really matter?	¿Acaso importa?
-#41:	No. I was just curious.	No, solo era curiosidad.
-#52:	Anyways... Something else you wanted?	Bueno... ¿Algo más que necesites?
-#31:	Expelled from society.	Expulsado de la sociedad.
-#47:	Well. Aren't we all? Some of us have been here for a while, though.	Bueno, ¿no lo somos todos? Aunque algunos llevamos bastante tiempo por aquí.
-#48:	How long?	¿Cuánto tiempo?
-#49:	Decades. The place itself has been for way longer.	Décadas. Este lugar tiene incluso más tiempo.
-#29:	[Point westward.]	[Apuntar al oeste]
-#51:	Huh. It's been a while since someone came from there.	Uh. Ha pasado tiempo desde la última vez que alguien vino de allí.
-#58:	Alright. What now?	Está bien, ¿ahora qué?
+#19:	It's a Machine Merchant. Fine thing, right? The Collectors installed it.	Merkataritza-makina da. Primeran, ezta? Bildumagileek* instalatu zuten. *(coleccionistas)
+#27:	Alright.	Ongi da.
+#34:	What if someone attacks it?	Eta norbaitek erasotzen badio?
+#36:	People have tried. But the machine cannot be destroyed, it seems.	Saiatu dira. Antza denez, ezin da suntsitu.
+#37:	I would bet the machine also records any attempts.	Apustu egingo nuke saiakeren grabazioak dituzula.
+#38:	Don't try anything stupid. I wouldn't want to get on the bad side of the Collectors, haha.	Ez egin tontakeriarik. Ez nuke Bildumagileekin arazorik izan nahi, karkar.
+#20:	The Collectors?	Bildumagileak*? *(coleccionistas)
+#21:	Bunch of traders. Looking for rare scrap, but interested in all kind of goods, really.	Merkatari talde bat. Gauza arraroak bilatzen dituzte, eta dena interesatzen zaie, egia esan.
+#22:	Never heard of them? Where are you from?	Ez al dituzu ezagutzen? Nongoa zara?
+#30:	Does it really matter?	Axola al du?
+#41:	No. I was just curious.	Ez, jakin-mina besterik ez zen.
+#52:	Anyways... Something else you wanted?	Tira... Behar duzun beste ezer?
+#31:	Expelled from society.	Gizartetik kanporatua.
+#47:	Well. Aren't we all? Some of us have been here for a while, though.	Ez al gara denok? Batzuek denbora dezente daramagu hemen.
+#48:	How long?	Zenbat denbora?
+#49:	Decades. The place itself has been for way longer.	Hamarkadak. Leku honek denbora gehiago du.
+#29:	[Point westward.]	[Mendebaldera begira jarri]
+#51:	Huh. It's been a while since someone came from there.	Uh. Denbora asko igaro da azkena etorri zenetik.
+#58:	Alright. What now?	Ondo da, orain zer?
 ------------------------------------------		
 SEQUENCE PriestOfTheGutsCookingDialogue		
-#9:	Somebody seems to be using this as a fireplace.	Parece que alguien usa esto como hoguera.
-#4:	I could cook some meat here.	Podría cocinar algo de carne aquí.
-#10:	If I had any.	Si tuviese algo.
-#7:	[Leave]	[Marcharse]
-#6:	[Cook Meat]	[Cocinar Carne]
-#14:	That smell.	Ese olor.
-#15:	Are you cooking any meat?	¿Estás cocinando carne?
-#16:	Oh, wow. The Titans must have sent you. They heard my prayers.	Oh, vaya. Los Titanes deben haberte enviado. Han escuchado mis plegarias.
-#29:	I'm coming.	Ya voy.
-#23:	Hand me that meat!	¡Dame esa carne!
+#9:	Somebody seems to be using this as a fireplace.	Norbaitek hau sua egiteko erabiltzen duela dirudi.
+#4:	I could cook some meat here.	Haragi pixka bat prestatuko nuke hemen.
+#10:	If I had any.	Zerbait banu...
+#7:	[Leave]	[Joan]
+#6:	[Cook Meat]	[Haragia prestatu]
+#14:	That smell.	Usain hori.
+#15:	Are you cooking any meat?	Haragia prestatzen ari al zara?
+#16:	Oh, wow. The Titans must have sent you. They heard my prayers.	Oh, hara. Titan-ek bidali behar zintuzten. Nire otoitzak entzun dituzte.
+#29:	I'm coming.	Banoa.
+#23:	Hand me that meat!	Emadazu haragi hori!
 #31:	...	...
-#30:	By the Titans, this is marvellous.	Por los Titanes, esto es estupendo.
-#56:	I'd give you a sigil for what you've done.	Te dare el emblema por lo que  has hecho.
-#57:	But somehow I don't have any right now.	Pero no tengo ninguno ahora mismo.
-#58:	Those godhunters must have stolen my stash.	Los Cazadioses deben haberme robado.
-#32:	Please accept this. You've earned it, haha.	Por favor, acepta esto. Te lo has ganado, jaja.
+#30:	By the Titans, this is marvellous.	Titan-engatik, hau zoragarria da.
+#56:	I'd give you a sigil for what you've done.	Egin duzunagatik ikurra emango dizut.
+#57:	But somehow I don't have any right now.	Baina oraintxe bertan ez daukat bat ere ez.
+#58:	Those godhunters must have stolen my stash.	Jainko-Ehiztariek lapurtuko zuten.
+#32:	Please accept this. You've earned it, haha.	Mesedez, onartu hau. Irabazi duzu, kar-kar.
 ------------------------------------------		
 SEQUENCE PriestOfTheGutsDialogue		
-#5:	This is a holy place.	Esto es un lugar sagrado.
-#6:	The shrine to the guts of a Flesh Titan.	El santuario de las tripas del Titán de la carne.
-#7:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Si deseas convertirte en un peregrino de los Titanes deberías hablar con el Alto Sacerdote en Nueva Delphi.
-#18:	It appears that the Titans have indeed blessed you.	Parece que los Titanes te han bendecido.
-#16:	Be careful.	Ten cuidado.
-#32:	Godhunters have been sneaking around a lot lately.	Los Cazadioses suelen deambular por aquí últimamente.
-#36:	[Leave]	[Marcharse]
-#35:	Godhunters?	¿Cazadioses?
-#43:	Faithless people, who have decided to conquer our gods.	Personas sin fe, han decidido derrocar a nuestros dioses.
-#44:	They are trying to kill the Titans.	Intentan acabar con los Titanes.
-#45:	Can you imagine?	¿Te lo puedes creer?
-#34:	About the sigils.	Sobre esos  emblemas.
-#40:	You can get another sigil from the priest at Titan's Heart, near the foot of the mountains to the north.	Puedes obtener otro emblema del sacerdote en el Corazón del Titán, cerca del pie de las montañas del norte.
-#42:	I can feel the spiritual energy coming from you.	Puedo sentir como emana la energía espiritual de ti.
-#39:	If you have them all, you should go and talk to the high priest in New Delphi.	Si lo tienes todo, deberías ir a hablar con el Alto Sacerdote en Nueva Delphi.
-#23:	Where was that smell coming from?	¿De dónde viene ese olor?
-#29:	I don't want any more of these rations.	No quiero más de esas raciones.
-#30:	What are you doing?	¿Qué estás haciendo?
-#31:	Now the godhunters can just enter.	Ahora los Cazadioses pueden entrar, simplemente.
+#5:	This is a holy place.	Leku hau sakratua da.
+#6:	The shrine to the guts of a Flesh Titan.	Haragi Titan-aren tripetako santutegia.
+#7:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Titan-en erromes bihurtu nahi baduzu, New Delphi-ko Apaiz Gorenarekin hitz egin beharko zenuke.
+#18:	It appears that the Titans have indeed blessed you.	Titanek bedeinkatu zaituzte.
+#16:	Be careful.	Kontuz ibili.
+#32:	Godhunters have been sneaking around a lot lately.	Azkenaldian Jainko-Ehiztariak hemen ibiltzen dira.
+#36:	[Leave]	[Joan]
+#35:	Godhunters?	Jainko-Ehiztariak?
+#43:	Faithless people, who have decided to conquer our gods.	Federik gabeko pertsonek gure jainkoak boteretik kentzea erabaki dute.
+#44:	They are trying to kill the Titans.	Titan-ak akabatu nahi dituzte.
+#45:	Can you imagine?	Sinets dezakezu?
+#34:	About the sigils.	Ikur horiei buruz.
+#40:	You can get another sigil from the priest at Titan's Heart, near the foot of the mountains to the north.	Apaizaren beste ikur bat lor dezakezu Titan-en Bihotzean, iparraldeko medietatik gertu.
+#42:	I can feel the spiritual energy coming from you.	Zure energia espirituala nola sortzen den senti dezaket.
+#39:	If you have them all, you should go and talk to the high priest in New Delphi.	Dena izanez gero, New Delphi-ko Apaiz Gorenarekin hitz egin beharko zenuke.
+#23:	Where was that smell coming from?	Nondik dator kirats hori?
+#29:	I don't want any more of these rations.	Ez dut errazio gehiago behar.
+#30:	What are you doing?	Zertan ari zara?
+#31:	Now the godhunters can just enter.	Orain Jainko-Ehiztariak sar daitezke, besterik gabe.
 ------------------------------------------		
 SEQUENCE PriestOfTheHeadDialogue		
-#7:	This is a holy place.	Esto es un lugar sagrado.
-#8:	The shrine to a Titan's head.	Es el santuario de la Cabeza del Titán.
-#9:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Si deseas convertirte en un peregrino de los Titanes, habla con el Alto Sacerdote en Nueva Delphi.
-#16:	Answer me this:	Respóndeme a esto:
-#17:	Who is your master?	¿Quién es tu maestro?
-#23:	Every Titan...	Cada Titán...
-#27:	...that covers itself with blood...	...que se cubre con sangre...
-#36:	...and loves to play with toys.	...y le encanta jugar con sus juguetes.
-#41:	Or so I say.	O así lo digo.
-#46:	That is wrong.	Incorrecto.
-#45:	Incredible.	Increíble.
-#48:	You have proven the depth of your belief in the Titans to me.	Has demostrado la profundidad de tus creencias en los Titanes.
-#49:	Take this sigil as a sign of my approval, and go east, to the Titans Guts.	Toma este emblema como signo de mi aprobación, ve al este a las Tripas del Titán.
-#50:	May the Titans bless you.	Que los Titanes te bendigan.
-#42:	Though other gods are also acceptable.	Aunque los otros dioses también son aceptables.
-#43:	Blessed be.	Bendito sea.
-#38:	I kill in its name only.	Solo mato en su nombre.
-#37:	...and provides infinitive wisdom through his sheer existence.	...y proporciona infinita sabiduría a través de su existencia.
-#33:	...and feeds me Fleshworms when I'm hungry.	...y me alimenta gusanos de carne cuando tengo hambre.
-#32:	...and kills my enemies for me.	...y acaba con mis enemigos por mi.
-#28:	...that lives in trees...	...y vive en los árboles...
-#29:	...that inhabits the planet...	...y habita el planeta...
-#26:	...that lazes around on a sunny day...	...y se relaja en un día soleado...
-#22:	The Society...	La sociedad...
-#21:	The Machines...	Las máquinas...
-#19:	Nobody...	Nadie...
-#11:	The high priest has sent me.	El Alto Sacerdote me ha enviado.
-#12:	You're supposed to give me a sigil?	¿Se supone que debes darme un emblema?
-#13:	A pilgrim on a quest for true devotion.	Un peregrino en busca de la verdadera devoción.
-#14:	Yes, I do have a sigil for you.	Sí, tengo el emblema para ti.
-#15:	But you need to earn it.	Pero necesitas ganartelo.
-#61:	I usually give out sigils to the pilgrims who prove their devotion to the titans here.	Normalmente doy emblemas a los peregrinos que demuestran su devoción a los Titanes.
-#62:	But it appears I have run out of sigils.	Pero parece que ya no me quedan emblemas.
-#63:	Forgive me, but there is nothing I can do for you now.	Perdóname, no hay nada que pueda hacer por ti.
-#64:	You may have better luck visiting the priest at Titan's Guts.	Quizás tengas más suerte visitando al sacerdote de las Tripas del Titán.
-#54:	I wish you success on your pilgrimage.	Te deseo éxito en tu viaje.
-#55:	The priest of the Titan's Guts east of here will have further information for you.	El sacerdote de las Tripas del Titán al este de aquí podrá darte más información.
-#56:	It appears that the Titans have indeed blessed you.	Parece que los Titanes realmente te han bendecido.
+#7:	This is a holy place.	Leku hau sakratua da.
+#8:	The shrine to a Titan's head.	Titan-en Buruaren santutegia da.
+#9:	If you wish to become a pilgrim of the Titans, please talk to the high priest in New Delphi.	Titan-en erromes bihurtu nahi baduzu, hitz egin Apaiz Gorenarekin New Delphi-n.
+#16:	Answer me this:	Erantzun honi:
+#17:	Who is your master?	Nor da zure maisua?
+#23:	Every Titan...	Titan bakoitza...
+#27:	...that covers itself with blood...	... odolez estaltzen dena...
+#36:	...and loves to play with toys.	... eta bere jostailuekin jolastea maite du.
+#41:	Or so I say.	Edo horrelako zerbait.
+#46:	That is wrong.	Ez da zuzena.
+#45:	Incredible.	Sinestezina.
+#48:	You have proven the depth of your belief in the Titans to me.	Titan-etan duzun sinesmenaren sakontasuna erakutsi duzu.
+#49:	Take this sigil as a sign of my approval, and go east, to the Titans Guts.	Har ezazu ikur hau nire onespenaren zeinu gisa, zoaz ekialdera Titan-en Tripetara.
+#50:	May the Titans bless you.	Titan-ek bedeinka zaitzatela.
+#42:	Though other gods are also acceptable.	Baina beste jainkoak ere onargarriak dira.
+#43:	Blessed be.	Bedeinkatua izan bedi.
+#38:	I kill in its name only.	Bere izenean bakarrik hiltzen dut.
+#37:	...and provides infinitive wisdom through his sheer existence.	... eta bere existentziaren bidez jakinduria amaigabea ematen du.
+#33:	...and feeds me Fleshworms when I'm hungry.	... eta haragi-harrak ematen dizkit gose naizenean.
+#32:	...and kills my enemies for me.	...eta nire etsaiak nigatik akabatzen ditu.
+#28:	...that lives in trees...	... eta zuhaitzetan bizi da...
+#29:	...that inhabits the planet...	... eta planetan bizi da...
+#26:	...that lazes around on a sunny day...	... eta egun eguzkitsu batean lasaitzen da...
+#22:	The Society...	Gizartea...
+#21:	The Machines...	Makinak...
+#19:	Nobody...	Inor...
+#11:	The high priest has sent me.	Apaiz Gorenak bidali nau.
+#12:	You're supposed to give me a sigil?	Ikurren bat eman behar didazula suposatzen al da?
+#13:	A pilgrim on a quest for true devotion.	Erromes bat benetako debozioaren bila.
+#14:	Yes, I do have a sigil for you.	Bai, zuretzako ikurra daukat.
+#15:	But you need to earn it.	Baina irabazi egin behar duzu.
+#61:	I usually give out sigils to the pilgrims who prove their devotion to the titans here.	Normalean, ikurrak Titan-ekiko debozioa erakusten duten erromesei ematen dizkiet.
+#62:	But it appears I have run out of sigils.	Baina badirudi ez zaidala ikurrik geratzen.
+#63:	Forgive me, but there is nothing I can do for you now.	Barkatu, zugatik ezin dut ezer egin.
+#64:	You may have better luck visiting the priest at Titan's Guts.	Agian zorte handiagoa izango duzu Titan-en Tripetako apaiza bisitatzen.
+#54:	I wish you success on your pilgrimage.	Bidaiarako zortea opa dizut.
+#55:	The priest of the Titan's Guts east of here will have further information for you.	Hemendik ekialdera dagoen Titan-en Tripetako apaizak informazio gehiago emango dizu.
+#56:	It appears that the Titans have indeed blessed you.	Titan-ek benetan bedeinkatu zaituzte.
 ------------------------------------------		
 SEQUENCE PriestOfTheHeartDeath		
 #2:	Have you come back?	¿Has vuelto?
