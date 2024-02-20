@@ -3598,49 +3598,49 @@ SEQUENCE NewDelphiPriestDialogue
 #17:	Be quiet, fool!	Ixo, papau!
 #18:	Do not let the pilgrims waver in their belief.	Ez eragin erromesek beren sinesmenak zalantzan jar ditzaten.
 #19:	This place is blessed by the sleeper, and your words may not defile it.	Leku hau Lotia-k bedeinkatzen du, eta zure hitzek ez dute profanatuko.
-#38:	Such is the glory of the titans.	Tal es la gloria de los Titanes.
-#20:	What's with the big guy in the pool?	¿Qué pasa con ese enorme tipo en el charco?
-#22:	Do not speak ill of the sleeper.	No blasfemes del Durmiente.
-#23:	He is a titan, who wandered these lands and decided to take his rest, right here.	Es un Titán, vago por estas tierras y decidió descansar aquí.
-#24:	He has blessed us with his presence.	Nos ha bendecido con su presencia.
-#25:	And we share his blessings with the rest of all the people.	Compartimos su bendición con el resto de la gente.
-#49:	Even one as you may receive them.	Incluso alguien como tu puede recibirla.
-#3:	Who are all these people?	¿Quienes son toda esta gente?
-#4:	The souls, once lost, who have found their way to truth.	Almas, perdidas anteriormente, que han encontrado la verdad.
-#5:	They come from far and wide to show their devotion as pilgrims.	Vienen de todas partes para mostrar su devoción como peregrinos.
-#6:	They are here to receive the blessing of the Titans.	Están aquí para recibir la bendición de los Titanes.
-#7:	The strongest among them have even decided to stay, and put their entire being in front of the masters.	Los más fuertes de entre ellos han decidido quedarse y entregarse completamente a sus maestros.
-#8:	You too could be one of them.	Podrías ser uno de ellos.
-#66:	But you have far surpassed them in both strength and devotion already.	Pero ya has superado tanto su devoción como su fuerza.
-#26:	The Titans?	¿Los Titanes?
-#46:	Oh you poor soul, don't you know of them?	Oh, alma descarriada. ¿Acaso no sabes nada?
-#27:	Our guardians and masters.	Nuestros guardianes y maestros.
-#28:	They saw our sinful ways, and came to lead us to bliss.	Vieron nuestros pecados y vinieron para llevarnos a la felicidad.
-#29:	Where they go, the flesh grows.	Allá donde van crece la carne.
-#30:	And where the flesh grows, life blooms.	Y donde crece la carne, surge la vida.
-#31:	Praise them, my child, for they still have hope for you.	Alabalos, hijo mío, pues son la esperanza para ti.
-#47:	Come, and join us in praise.	Ven, únete a nuestro rezo.
-#60:	Surely you jest.	Seguramente estás de broma.
-#63:	You have saved one's seedling after all.	Has salvado una "semilla" después de todo.
-#64:	They are the ones who have sent you to help us.	Son los enviados a ayudarnos.
-#42:	Oh, what an oddity do my eyes see.	Oh, que rareza ven mis ojos.
-#43:	A child, that has not yet joined the flock.	Una oveja que todavía no se une al rebaño.
-#44:	Come here, come here.	Ven, ven aquí.
-#45:	Let the grace of the titans bless you, like it blesses all the others.	Deja que la gracia de los Titanes te bendiga como ha bendito a los demás.
-#55:	You are back.	Has vuelto.
-#57:	Titans bless you.	Que los Titanes te bendigan.
-#53:	I have heard of your heroic tale.	He oído de tu maravillosas hazañas.
-#54:	The titans must have big plans for you.	Los Titanes deben tener planes importantes para ti.
+#38:	Such is the glory of the titans.	Hori da Titan-en handitasuna.
+#20:	What's with the big guy in the pool?	Zer gertatzen zaio putzuari?
+#22:	Do not speak ill of the sleeper.	Ez madarikatu Lotia-ri.
+#23:	He is a titan, who wandered these lands and decided to take his rest, right here.	Titana da, lur hauetan ibili zen, eta hemen atseden hartzea erabaki zuen.
+#24:	He has blessed us with his presence.	Bere presentziarekin bedeinkatu gaitu.
+#25:	And we share his blessings with the rest of all the people.	Bere bedeinkazioa gainerako jendearekin partekatzen dugu.
+#49:	Even one as you may receive them.	Zu bezalako norbaitek ere har dezake.
+#3:	Who are all these people?	Jende hau guztia... nortzuk dira?
+#4:	The souls, once lost, who have found their way to truth.	Arimak, aurretik galduak zirenak, egia aurkitu dutenak.
+#5:	They come from far and wide to show their devotion as pilgrims.	Edonondik etortzen dira erromeak debozioa erakustera.
+#6:	They are here to receive the blessing of the Titans.	Titan-en bedeinkazioa jasotzeko daude hemen.
+#7:	The strongest among them have even decided to stay, and put their entire being in front of the masters.	Haien artean indartsuenek erabaki dute geratzea eta, beren maisuei erabat entregatzea.
+#8:	You too could be one of them.	Horietako bat izan zaitezke.
+#66:	But you have far surpassed them in both strength and devotion already.	Baina gainditu duzu bere bai bere debozioa, eta bai indarra.
+#26:	The Titans?	Titan-ak?
+#46:	Oh you poor soul, don't you know of them?	Ai, arima galdua halakoa. Ez dakizu nortzuk diren?
+#27:	Our guardians and masters.	Gure zaindariak eta maisuak dira.
+#28:	They saw our sinful ways, and came to lead us to bliss.	Gure bekatuak ikusi zituzten, eta gu zorionera eramateko etorri ziren.
+#29:	Where they go, the flesh grows.	Haragia hazten den tokian.
+#30:	And where the flesh grows, life blooms.	Eta haragia hazten den lekuan, bizitza sortzen da.
+#31:	Praise them, my child, for they still have hope for you.	Lauda* itzazu, seme, zuretzat itxaropena baitira. *(alabar)
+#47:	Come, and join us in praise.	Zatoz, egin bat gure otoitzarekin.
+#60:	Surely you jest.	Txantxetan ari zara.
+#63:	You have saved one's seedling after all.	"Hazi" bat salbatu duzu azken finean.
+#64:	They are the ones who have sent you to help us.	Gu laguntzera bidalitakoak dira.
+#42:	Oh, what an oddity do my eyes see.	Oh, nire begiak zerbait arraroa ikusten ari dira.
+#43:	A child, that has not yet joined the flock.	Artaldearekin bat egiten ez duen ardia.
+#44:	Come here, come here.	Zatoz, zatoz hona.
+#45:	Let the grace of the titans bless you, like it blesses all the others.	Utziozu Titan-en graziari bedeinkatzen, besteak bedeinkatu dituen bezala.
+#55:	You are back.	Itzuli zara.
+#57:	Titans bless you.	Titan-ek bedeinka zaitzatela.
+#53:	I have heard of your heroic tale.	Zure balentria zoragarriak entzun ditut.
+#54:	The titans must have big plans for you.	Titan-ek zuretzako plan garrantzitsuak izan behar dituzte.
 ------------------------------------------		
 SEQUENCE OnIsLackingCraftingKnowledge		
-#6:	Lines and symbols of some kind.	Líneas y símbolos de algún tipo.
-#7:	Doesn't make much sense to me though.	Aunque no tienen mucho sentido.
-#8:	I should probably learn how to read these.	Probablemente debería aprender a leerlas.
-#12:	There's got to be someone out there who knows his way around blueprints and tools.	Debe haber alguien que sepa trabajar con planos y herramientas.
-#10:	The merchant in Tauris told me something about a guy who went west, if I remember correctly.	El mercader de Tauris dijo algo de un tipo que fue al oeste, si recuerdo bien.
-#14:	Maybe that book I found can help.	Quizás ese libro que he encontrado pueda ayudarme.
-#16:	Perhaps I could reuse the materials for something else.	Quizás pueda usar los materiales para otra cosa.
-#17:	Would be useful to learn how to break this apart without destroying the materials.	Estaría bien aprender como despiezar esto sin romper los materiales.
+#6:	Lines and symbols of some kind.	Lerroak eta nolabaiteko sinboloak.
+#7:	Doesn't make much sense to me though.	Baina ez dute zentzu handirik.
+#8:	I should probably learn how to read these.	Agian sinboko hauek ulertzen ikasi beharko nuke.
+#12:	There's got to be someone out there who knows his way around blueprints and tools.	Norbaitek jakin behar du planoekin eta tresnekin lan egiten.
+#10:	The merchant in Tauris told me something about a guy who went west, if I remember correctly.	Tauris-eko merkatariak zerbait esan zuen mendebaldera joan zen tipo bati buruz.
+#14:	Maybe that book I found can help.	Agian aurkitu dudan liburu horrek lagunduko dit.
+#16:	Perhaps I could reuse the materials for something else.	Materialak beste zerbaitetarako erabil ditzaket.
+#17:	Would be useful to learn how to break this apart without destroying the materials.	Ondo legoke ikastea nola zatikatzen den hau materialak hautsi gabe.
 ------------------------------------------		
 SEQUENCE Ouch		
 #8:	Ahh.	Ahh.
@@ -3649,55 +3649,55 @@ SEQUENCE Ouch
 #5:	Ouch!	¡Ouch!
 ------------------------------------------		
 SEQUENCE OutroGeneratedWorld		
-#6:	Your Omniwomb Trip has ended. You died.||||Gameplay time:	Tu viaje por el Omniútero ha terminado. Has muerto.||||Tiempo de juego:
+#6:	Your Omniwomb Trip has ended. You died.||||Gameplay time:	Amaitu da Omni-uteroan egin duzun bidaia. Hil egin zara.||||Jolasaren denbora:
 ------------------------------------------		
 SEQUENCE OutroIronMan		
-#95:	Nexus has consumed your body and soul.||||Gameplay time:	El Nexo ha consumido tu cuerpo y tu alma.||||Tiempo de juego:
+#95:	Nexus has consumed your body and soul.||||Gameplay time:	Nexus-ak zure gorputza eta arima suntsitu ditu..||||Jolasaren denbora:
 ------------------------------------------		
 SEQUENCE PanickedPriestOfTheGutsComment		
-#31:	Stop it right there, you unholy Godhunter!	¡Alto ahí, condenado Cazadioses!
+#31:	Stop it right there, you unholy Godhunter!	Geldi hor! Jainko-Ehiztari zital alena!
 ------------------------------------------		
 SEQUENCE PanickedPriestOfTheGutsDialogue		
-#12:	I won't let you have the Titans Guts!	¡No permitiré que te lleves las Tripas del Titán!
-#21:	[Leave]	[Marcharse]
-#19:	I'm coming for the guts.	Vengo a por las tripas.
-#20:	Never!	¡Jamás!
-#14:	I'm not a godhunter.	No soy un Cazadioses.
-#15:	I just want a sigil.	Tan solo quiero el emblema.
-#22:	Nice try, but I'm not falling for that.	Buen intento, pero no pienso caer.
-#23:	I've got rations for months to come.	Tengo raciones para meses.
+#12:	I won't let you have the Titans Guts!	Ez dizut utziko Titan-en Tripak eramaten!
+#21:	[Leave]	[Joan]
+#19:	I'm coming for the guts.	Tripen bila nator.
+#20:	Never!	Inoiz ez!
+#14:	I'm not a godhunter.	Ez naiz Jainko-Ehiztaria.
+#15:	I just want a sigil.	Ikurra besterik ez dut nahi.
+#22:	Nice try, but I'm not falling for that.	Saiakera ona, baina ez naiz hain inozoa.
+#23:	I've got rations for months to come.	Hilabeteetarako errazioak ditut.
 #24:	...	...
-#25:	Ew. That's barely even food.	Ew. Eso apenas es comida.
+#25:	Ew. That's barely even food.	Ew. Hori ez da janaria.
 ------------------------------------------		
 SEQUENCE PhilosopherTerminal		
-#36:	Hmmh. Can't think of anything useful right now.	Hmm. No puedo pensar en nada útil de momento.
-#13:	Command?	¿Comando?
-#14:	[Leave]	[Marcharse]
-#17:	Any recording available?	¿Alguna grabación disponible?
-#3:	Recording of habitant death available.	Grabación de la muerte de habitante disponible.
-#22:	Extract to data container?	¿Extraer a contenedor de datos?
-#23:	Yes.	Sí.
-#28:	Data container processed.	Contenedor de datos procesado.
-#31:	Thanks.	Gracias.
-#4:	No further recordings available.	No hay más grabaciones disponibles.
+#36:	Hmmh. Can't think of anything useful right now.	Hmm. Oraingoz ezin dut ezer baliagarririk pentsatu.
+#13:	Command?	Komandoa?
+#14:	[Leave]	[Joan]
+#17:	Any recording available?	Ba al dago grabaziorik?
+#3:	Recording of habitant death available.	Eskuragarri dago biztanle baten heriotza grabazioa.
+#22:	Extract to data container?	Datu-edukiontzira atera?
+#23:	Yes.	Bai.
+#28:	Data container processed.	Datu-edukiontzia prozesatua izan da.
+#31:	Thanks.	Mila esker.
+#4:	No further recordings available.	Ez dago beste grabaziorik eskuragarri.
 ------------------------------------------		
 SEQUENCE PlayerServices		
-#2:	In need of my services?	¿Necesitas mis servicios?
-#6:	[Leave]	[Marcharse]
-#66:	Can you teach me anything?	¿Puedes enseñarme algo?
-#69:	Well. I know a thing or two about fixing things and breaking things.	Bueno, conozco algo sobre arreglar y reparar cosas rotas.
-#70:	Actually had a handy guide about some basics. But sold it to a guy that was heading west.	Tenía una guía bastante útil sobre lo básico, pero se la vendí a un tipo que iba al oeste.
-#73:	Anything else?	¿Algo más?
-#72:	Is it this one?	¿Es esta?
-#74:	Oh. It is. ... What happened to the guy?	Oh. Lo es... ¿Qué le ha pasado a ese tipo?
-#75:	Found him dead.	Lo encontré muerto.
-#76:	Ah, Ok. I guess it's yours now. You should read it.	Ah, bueno. Supongo que ahora es tuya. Deberías leerla.
-#53:	Show me your services.	Muéstrame que ofreces.
-#55:	Alright. I can give you another face. Or retrain your brain patterns.	Muy bien. Puedo darte otra cara o reentrenar los patrones de tu cerebro.
-#77:	Are you selling any special equipment?	¿Vendes equipo especial?
-#78:	Well, I'm selling some implants and bits.	Bueno, vendo algunos implantes y cosas así.
-#79:	You can take a look at them in my shop.	Puedes echarles un vistazo en mi tienda.
-#17:	What is this machine next to you?	¿Qué es esa máquina de tu lado?
+#2:	In need of my services?	Nire zerbitzuak behar al dituzu?
+#6:	[Leave]	[Joan]
+#66:	Can you teach me anything?	Zerbait erakutsiko zenidake?
+#69:	Well. I know a thing or two about fixing things and breaking things.	Beno, zerbait badakit apurtutako gauzak konpondu eta apurtzeari buruz.
+#70:	Actually had a handy guide about some basics. But sold it to a guy that was heading west.	Oinarrizko gauzei buruzko gida erabilgarri samarra nuen, baina mendebaldera zihoan tipo bati saldu nion.
+#73:	Anything else?	Besterik?
+#72:	Is it this one?	Hau al da?
+#74:	Oh. It is. ... What happened to the guy?	Oh. Hala da... Zer gertatu zaio tipo horri?
+#75:	Found him dead.	Hilda aurkitu nuen.
+#76:	Ah, Ok. I guess it's yours now. You should read it.	Ah, tira. Hartu zuretzat. Irakurri beharko zenuke.
+#53:	Show me your services.	Erakutsi zer eskaintzen duzun.
+#55:	Alright. I can give you another face. Or retrain your brain patterns.	Ederki. Beste aurpegi bat eman diezazuket edo zure burmuineko patroiak berrentrenatu.
+#77:	Are you selling any special equipment?	Ekipo berezia saltzen al duzu?
+#78:	Well, I'm selling some implants and bits.	Beno, inplanteak eta horrelakoak saltzen ditut.
+#79:	You can take a look at them in my shop.	Begiratu nire dendan.
+#17:	What is this machine next to you?	Zer da zure aldamenean dagoen makina hori?
 #19:	It's a Machine Merchant. Fine thing, right? The Collectors installed it.	Es una Máquina Mercader. Estupendo, ¿verdad? Los coleccionistas lo instalaron.
 #27:	Alright.	Está bien.
 #34:	What if someone attacks it?	¿Y si alguien lo ataca?
