@@ -4050,54 +4050,54 @@ SEQUENCE ShebzuStatue
 #2:	Shebzu, the Seducer.	Shebzu, erakargarria
 ------------------------------------------		
 SEQUENCE SleepingTitan		
-#2:	*sleeping*	*durmiendo*
+#2:	*sleeping*	*lotan*
 ------------------------------------------		
 SEQUENCE SpiderMinstrel		
-#3:	*sleeping*	*durmiendo*
+#3:	*sleeping*	*lotan*
 ------------------------------------------		
 SEQUENCE StartAwarenessOfInfection		
-#2:	Flesh?	¿Carne?
-#9:	Looks like it's alive.	Parece que está vivo.
-#5:	Makes me feel a bit nauseous around here.	Hace que me encuentre un poco mal.
+#2:	Flesh?	Haragia?
+#9:	Looks like it's alive.	Bizirik dagoela dirudi.
+#5:	Makes me feel a bit nauseous around here.	Gaizki sentiarazten nau.
 ------------------------------------------		
 SEQUENCE StartOfGameMachineGreeter		
-#2:	Welcome, former citizen.	Bienvenido, ex-ciudadano.
-#4:	We have talked about your status already.	Ya hemos hablado sobre tu estado.
-#9:	We encourage you now to follow the Surface Integration Course.	Te animamos a seguir el curso de integración para la superficie.
-#10:	But you're free to leave any time you want.	Pero eres libre de marcharte cuando quieras.
-#22:	I want to leave now.	Quiero irme ya.
-#24:	Alright. Just follow the small corridor to Section Two.	Está bien, sigue el pequeño pasillo de la sección dos.
-#58:	Goodbye.	Adiós.
-#21:	I'll take that course.	Tomaré ese curso.
-#23:	Alright. Just continue towards Section One then.	Muy bien. Continúa por la sección uno entonces.
-#49:	It looks like the operation has been successful.	Parece que la operación ha tenido éxito.
-#5:	Do you remember who you are?	¿Recuerdas quién eres?
-#6:	Yes, I do.	Claro que sí.
-#47:	That is fortunate.	Qué afortunado.
-#15:	We still take interest in your well-being.	Todavía tenemos interés por tu bienestar.
-#35:	However, you have to leave us now. The danger of a possible contamination cannot be ignored.	Sin embargo, debes marcharte. El peligro de una posible contaminación no debe ser ignorado.
-#17:	Please don't try to return to your old habitat. We have put security measures in place to prevent this.	Por favor, no intentes volver a tu hábitat. Hemos tomado medidas de seguridad para prevenir esto.
-#41:	So what happens to me now? Where should I go?	¿Entonces, qué pasará ahora conmigo? ¿A dónde debo ir?
-#54:	This is not for us to answer. You're free to go anywhere, as long as you don't try to enter a habitat.	No es algo que podamos responder. Eres libre de ir donde te plazca, siempre y cuando no intentes entrar en el hábitat.
-#11:	Here is all relevant info for you in written form in case you forget.	Aquí tienes toda tu información relevante en caso de que se te olvide.
-#38:	What security measures?	¿Qué medidas de seguridad?
-#39:	Your body will malfunction permanently when nearing one of our habitats.	Tu cuerpo dejará de funcionar de forma permanente si te acercas a uno de nuestros hábitats.
+#2:	Welcome, former citizen.	Ongi etorri, herritar ohi hori.
+#4:	We have talked about your status already.	Zure egoerari buruz hitz egin dugu.
+#9:	We encourage you now to follow the Surface Integration Course.	Azalerako integrazio ikastaroa jarraitzera animatzen zaitugu.
+#10:	But you're free to leave any time you want.	Baina libre zara nahi duzunean alde egiteko.
+#22:	I want to leave now.	Alde egin nahi dut... ATOAN!
+#24:	Alright. Just follow the small corridor to Section Two.	Ongi da, segi bigarren sekzioko korridore txikiari.
+#58:	Goodbye.	Agur.
+#21:	I'll take that course.	Ikastaro hori egingo dut.
+#23:	Alright. Just continue towards Section One then.	Ederki. Jarraitu lehenengo sekziotik orduan.
+#49:	It looks like the operation has been successful.	Operazioak arrakasta izan duela dirudi.
+#5:	Do you remember who you are?	Gogoratzen al zara nor zaren?
+#6:	Yes, I do.	Bai horixe.
+#47:	That is fortunate.	Zorionekoa zu.
+#15:	We still take interest in your well-being.	Zure ongizatearekiko interesa dugu oraindik.
+#35:	However, you have to leave us now. The danger of a possible contamination cannot be ignored.	Hala ere, alde egin behar duzu. Kutsaduraren arriskua oraindik hor darrai.
+#17:	Please don't try to return to your old habitat. We have put security measures in place to prevent this.	Mesedez, ez saiatu zure habitatera itzultzen. Segurtasun-neurriak hartu ditugu hori gerta ez dadin.
+#41:	So what happens to me now? Where should I go?	Orduan, zer egin behar dut? Nora joan behar dut?
+#54:	This is not for us to answer. You're free to go anywhere, as long as you don't try to enter a habitat.	Ez da erantzun dezakegun zerbait. Libre zara nahi duzun lekura joateko, habitatean sartzen saiatzen ez zaren bitartean.
+#11:	Here is all relevant info for you in written form in case you forget.	Ahaztuz gero, Hemen duzu zuri buruzko informazio garrantzitsu guztia.
+#38:	What security measures?	Zer segurtasun-neurri?
+#39:	Your body will malfunction permanently when nearing one of our habitats.	Zure gorputzak funtzionatzeari utziko dio gure habitaten batera hurbilduz gero.
 ------------------------------------------		
 SEQUENCE StartOfGameMachineInFrontOfCourse		
-#2:	The Surface Integration Course is standard procedure to teach you basic survival skills.	El curso de integración a la superficie es el procedimiento estándar para enseñarte supervivencia básica.
-#6:	Please take caution.	Por favor, tenga cuidado.
-#3:	The course disables safety limits to better prepare you for the world outside.	El curso desactiva los límites de seguridad para prepararte para el mundo exterior.
-#4:	Good luck, former citizen, and goodbye.	Buena suerte, ex-ciudadano, y adiós.
+#2:	The Surface Integration Course is standard procedure to teach you basic survival skills.	Azaleran integratzeko ikastaroa oinarrizko biziraupena ikasteko prozedura estandarra da.
+#6:	Please take caution.	Mesedez, kontuz ibili.
+#3:	The course disables safety limits to better prepare you for the world outside.	Ikastaroak segurtasun mugak desaktibatzen ditu, zu kanpoko mundurako prestatzeko.
+#4:	Good luck, former citizen, and goodbye.	Zorte on, herritar ohia, eta agur.
 ------------------------------------------		
 SEQUENCE StartOfGameMachineInFrontOfHabitat		
-#2:	Please leave this corridor immediately.	Por favor, deje este pasillo de inmediato.
-#3:	Your life will be terminated if you enter the prohibited zone.	Tu vida será terminada si entras en la zona prohibida.
+#2:	Please leave this corridor immediately.	Mesedez, utzi korridore hau berehala.
+#3:	Your life will be terminated if you enter the prohibited zone.	Zure bizitza amaituko da debekatutako eremuan sartzen bazara.
 ------------------------------------------		
 SEQUENCE TalkingSkullTemple		
-#9:	Looks like a shrine.	Parece un santuario.
+#9:	Looks like a shrine.	Santutegia dirudi.
 ------------------------------------------		
 SEQUENCE TaurisCommentMechanicSign		
-#2:	It's a hammer, I guess.	Es un martillo, supongo.
+#2:	It's a hammer, I guess.	Mailua dela uste dut.
 ------------------------------------------		
 SEQUENCE TaurisCultistFriend1		
 #36:	This competition I got running. You gonna help me?	Tengo una competición en marcha, ¿me ayudas?
