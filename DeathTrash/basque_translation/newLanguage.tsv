@@ -4348,56 +4348,56 @@ SEQUENCE QuestTalkToTheFlesh
 #4:	Talk to the flesh	Haragiarekin hitz egin
 ------------------------------------------		
 SEQUENCE QuestTheWitch		
-#2:	Find the witch at Old Trees	Encuentra a la bruja en los Viejos Árboles
-#6:	The Witch	La bruja
+#2:	Find the witch at Old Trees	uhaitz Zaharretako sorgina aurkitu
+#6:	The Witch	Sorgina
 ------------------------------------------		
 SEQUENCE QuestUnderTheMicroscope		
-#2:	Gather equipment for Mortus	Reúne equipo para Mortus
-#6:	Return to Mortus	Regresa con Mortus
-#11:	Examine the Flesh Nexus	Examina el Nexo de Carne
-#13:	Get: Octagon Fluid, can be found in the Bunker north of Tauris	Obtén: Fluido Octagonal, se puede encontrar en el búnker al norte de Tauris.
-#8:	Under the microscope	Bajo el microscopio
+#2:	Gather equipment for Mortus	Mortus-entzako ekipamendua lortu
+#6:	Return to Mortus	Mortus-ekin itzuli
+#11:	Examine the Flesh Nexus	Haragi-Nexus-a aztertu
+#13:	Get: Octagon Fluid, can be found in the Bunker north of Tauris	Lortu: Jariakor* Oktagonala, bunkerrean aurki daiteke Tauris-etik iparralderantz. *(fluido)
+#8:	Under the microscope	Mikroskopioaren azpian
 ------------------------------------------		
 SEQUENCE QuestAFinePieceOfMeat		
-#2:	Find the Butcher's Cut	Encuentra el Corte del Carnicero
-#3:	Return to the hunter	Regresa con el cazador
-#5:	A Fine Piece Of Meat	Una buena pieza de carne
+#2:	Find the Butcher's Cut	Harakinaren Gortea aurkitu
+#3:	Return to the hunter	hiztariarekin itzuli
+#5:	A Fine Piece Of Meat	Haragi pieza on bat
 ------------------------------------------		
 SEQUENCE QuestCrafting		
-#2:	Get crafting knowledge	Obtén conocimientos de fabricación
-#9:	Find a resource that teaches you how to repurpose materials of the wasteland.	Encuentra algo que te enseñe a reutilizar los materiales del yermo.
-#8:	Fixing The Trash	Arreglando la basura
+#2:	Get crafting knowledge	Fabrikazio-ezagutzak lortu
+#9:	Find a resource that teaches you how to repurpose materials of the wasteland.	Belarraren materialak berrerabiltzen irakatsiko dizun zerbait aurkitu.
+#8:	Fixing The Trash	Zaborra konpontzen
 ------------------------------------------		
 SEQUENCE QuestFindTheOracle		
-#2:	Ask around in the Puke Bar about the Oracle	Pregunta por el bar Vómito sobre el Oráculo
-#3:	Visit New Delphi	Visita Nueva Delphi
-#4:	Find a way to the Oracle	Encuentra un camino hacia el Oráculo
-#7:	Discover the secret of New Delphi.	Descubre el secreto de Nueva Delphi.
-#6:	The Oracle	El Oráculo
+#2:	Ask around in the Puke Bar about the Oracle	OKA tabernan Orakulua-ri buruz galdetu
+#3:	Visit New Delphi	New Delphi bisitatu
+#4:	Find a way to the Oracle	Aurkitu Orakulu-rako bidea
+#7:	Discover the secret of New Delphi.	New Delphiren sekretua ezagutu.
+#6:	The Oracle	Orakulua
 ------------------------------------------		
 SEQUENCE QuestHeWhoFollowsBlindly		
-#2:	Find the blind man's eyes	Encuentra los ojos del hombre ciego
-#4:	Return the eyes to their owner	Devuelve los ojos a su dueño
-#8:	He Who Follows Blindly	Aquel que sigue ciegamente
+#2:	Find the blind man's eyes	Gizon itsuaren begiak aurkitu.
+#4:	Return the eyes to their owner	Begiak jabeari itzuli
+#8:	He Who Follows Blindly	Itsu-itsuan jarraitzen duena
 ------------------------------------------		
 SEQUENCE QuestLittlePests		
-#11:	Talk to the doctor	Habla con el doctor
-#12:	Gather ingredients for the poison	Reúne los ingredientes para el veneno
-#17:	Return to the doctor	Regresa con el doctor
-#2:	Get rid of the flesh maggots	Deshazte de los gusanos de carne
-#16:	Speak to the barkeeper	Habla con el tabernero
-#18:	Little Pests	Pequeña infestación
+#11:	Talk to the doctor	Medikuarekin hitz egin
+#12:	Gather ingredients for the poison	Pozoia prestatzeko osagaiak biltzen ditu
+#17:	Return to the doctor	Medikuarenera itzuli
+#2:	Get rid of the flesh maggots	Haragi-harrez libratu
+#16:	Speak to the barkeeper	Tabernariarekin hitz egin
+#18:	Little Pests	Izurri* txikia *(infestación)
 ------------------------------------------		
 SEQUENCE QuestLost		
-#2:	You've met a woman who got lost on the way to Tauris.	Has encontrado a una mujer que se ha perdido de camino a Tauris
-#4:	You've met the woman again. Even more lost than before.	Te has vuelto a encontrar con la mujer. Más perdida que antes.
-#11:	She's apparently given up on reaching Tauris, and is now looking for the Puke Bar.	Aparentemente se ha rendido con Tauris, ahora busca el bar Vómito.
-#27:	Since reaching the Puke Bar seems impossible, the woman has asked you to bring her a replacement.	Dado que llegar al bar parece imposible, la mujer te ha pedido que le traigas un reemplazo.
-#18:	Lost	Perdida
+#2:	You've met a woman who got lost on the way to Tauris.	Tauris-era bidean galdu den emakumea aurkitu duzu.
+#4:	You've met the woman again. Even more lost than before.	Emakumearekin topo egin duzu berriro. Aurrekoan baino galduago dagoela dirudi.
+#11:	She's apparently given up on reaching Tauris, and is now looking for the Puke Bar.	Tauris aurkitzeaz amore eman duela dirudi, orain OKA tabernaren bila dabil.
+#27:	Since reaching the Puke Bar seems impossible, the woman has asked you to bring her a replacement.	Tabernara iristea ezinezkoa denez, emakumeak ordezkatzeko zerbait ekartzeko eskatu dizu.
+#18:	Lost	Galduta
 ------------------------------------------		
 SEQUENCE QuestPathToThe Heart		
-#10:	Return To New Delphi In A While	Regresa a Nueva Delphi pasado un tiempo
-#8:	Talk To The High Priest	Habla con el Alto Sacerdote
+#10:	Return To New Delphi In A While	Geroxeago New Delphi-ra itzuli
+#8:	Talk To The High Priest	Apaiz Garaiarekin hitz egin
 #26:	Get The Fleshworm Inside The Titans Heart	Obtén el gusano de carne de dentro del Corazón del Titán
 #27:	Return It To The High Priest In New Delphi	Regresa con él al Alto Sacerdote de Nueva Delphi
 #2:	Path To The Heart	El camino al corazón
