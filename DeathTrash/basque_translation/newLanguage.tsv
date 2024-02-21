@@ -4398,52 +4398,52 @@ SEQUENCE QuestLost
 SEQUENCE QuestPathToThe Heart		
 #10:	Return To New Delphi In A While	Geroxeago New Delphi-ra itzuli
 #8:	Talk To The High Priest	Apaiz Garaiarekin hitz egin
-#26:	Get The Fleshworm Inside The Titans Heart	Obtén el gusano de carne de dentro del Corazón del Titán
-#27:	Return It To The High Priest In New Delphi	Regresa con él al Alto Sacerdote de Nueva Delphi
-#2:	Path To The Heart	El camino al corazón
+#26:	Get The Fleshworm Inside The Titans Heart	Titanen Bihotzean dagoen Haragi-Harra Hartu
+#27:	Return It To The High Priest In New Delphi	Haragi-Harra duzula, itzuli New Delphi-ko Apaiz Gorenerangana
+#2:	Path To The Heart	Bihotzerako bidea
 ------------------------------------------		
 SEQUENCE QuestPukeContest		
-#2:	Collect glibber	Recoge pringue
-#3:	Return to the villager	Regresa con el lugareño
-#6:	Puke Contest	Concurso de vómitos
+#2:	Collect glibber	Zikinkeria hartu
+#3:	Return to the villager	Herritarrarengana itzuli
+#6:	Puke Contest	Oka lehiaketa
 ------------------------------------------		
 SEQUENCE QuestTearsOfLoneliness		
-#6:	Find out more about Millja	Averigua más sobre Millja
-#7:	Help Nard get over it	Ayuda a Nard a superarlo
-#11:	Find somebody to keep Nard company.	Encuentra a alguien para hacer compañía a Nard
+#6:	Find out more about Millja	Ikertu gehiago Millja-ri buruz
+#7:	Help Nard get over it	Lagundu Nard-i galera gainditzen
+#11:	Find somebody to keep Nard company.	Aurkitu norbait Nard-ekin egoteko.
 #5:	Oh Millja	Oh, Millja
 ------------------------------------------		
 SEQUENCE QuestThePilgrimsPath		
-#5:	Prove yourself to the guardian of the head.	Pruébate con el guardián de la cabeza.
-#6:	Prove yourself to the guardian of the guts.	Pruébate con el guardián de las tripas.
-#7:	Prove yourself to the guardian of the heart.	Pruébate con el guardián del corazón.
-#12:	Return to the priest	Regresa con el sacerdote.
-#14:	Talk to the high priest.	Habla con el Alto Sacerdote
-#2:	The Pilgrim's Path	El camino del peregrino.
+#5:	Prove yourself to the guardian of the head.	Probatu Buru-Zaindariarekin.
+#6:	Prove yourself to the guardian of the guts.	Probatu Tripa-Zaindariarekin.
+#7:	Prove yourself to the guardian of the heart.	Probatu Bihotz-Zaindariarekin.
+#12:	Return to the priest	Apaizarengana itzuli.
+#14:	Talk to the high priest.	Apaiz Garaiarekin hitz egin.
+#2:	The Pilgrim's Path	Erromesaren bidea.
 ------------------------------------------		
 ASSET 1fe12551ff6b53546bc4af9b6d0e9714	Name: BlockAbility	Name: BlockAbility
-#_localizedName:	Block	Bloquear
-#_localizedDescription:	Blocks damage if used in the correct moment.	Bloquea el daño si se usa en el momento adecuado.
+#_localizedName:	Block	Blokeatu
+#_localizedDescription:	Blocks damage if used in the correct moment.	Kaleta blokeatzen du une egokian erabiltzekotan.
 ------------------------------------------		
 ASSET 3b21ff74579f56a47b3d6c1ad095cf29	Name: FireCircleAbility	Name: FireCircleAbility
-#_localizedName:	Fire Circle	Círculo de Fuego
-#_localizedDescription:	Ignites enemies around you.	Prende fuego a los enemigos a tu alrededor
+#_localizedName:	Fire Circle	Su-Zirkulua
+#_localizedDescription:	Ignites enemies around you.	Inguruko etsaiei su eman.
 ------------------------------------------		
 ASSET 379d1487623db2e418d36ef6f0e046d0	Name: ForcePullAbility	Name: ForcePullAbility
-#_localizedName:	Force Pull	Tirón de fuerza
-#_localizedDescription:	Pulls enemies towards you.	Atrae a los enemigos a ti.
+#_localizedName:	Force Pull	Indar-tirakada
+#_localizedDescription:	Pulls enemies towards you.	Etsaiak zuregana erakartzen ditu.
 ------------------------------------------		
 ASSET 0cd525fba08adbe4ca00896ed4f8bc2a	Name: FreezeAbility	Name: FreezeAbility
-#_localizedName:	Freeze	Congelar
-#_localizedDescription:	Immobilizes enemies in front of you for a short duration.	Inmoviliza  a los enemigos frente a ti durante un corto tiempo.
+#_localizedName:	Freeze	Izoztu
+#_localizedDescription:	Immobilizes enemies in front of you for a short duration.	Etsaiak zure aurrean geldiarazten ditu denbora laburrean.
 ------------------------------------------		
 ASSET 165729b86f9e27d4ab52258051505dc1	Name: LegionOfFleshAbility	Name: LegionOfFleshAbility
-#_localizedName:	Legion Of Flesh	Legión de carne
-#_localizedDescription:	Summons the Legion of Flesh. The more enemies, the bigger the legion.	Invoca la legión de carne. A más enemigos, más legión.
+#_localizedName:	Legion Of Flesh	Haragi-legioa
+#_localizedDescription:	Summons the Legion of Flesh. The more enemies, the bigger the legion.	Haragi-legioa-ren laguntzera etorriko da. Etsai gehiago, legio handiagoa.
 ------------------------------------------		
 ASSET 05758134ed1a5bc46a21091def9bdc7f	Name: MindDamageAbility	Name: MindDamageAbility
-#_localizedName:	Mind Blast	Explosión mental
-#_localizedDescription:	Area of effect attack with mind damage.	Ataque con área de efecto y daño mental.
+#_localizedName:	Mind Blast	Buru-leherketa
+#_localizedDescription:	Area of effect attack with mind damage.	Inguruan kalte mentala eragiten du
 ------------------------------------------		
 ASSET bad7686a13a86c44cac7aa10eb03d483	Name: MindWarpAbility	Name: MindWarpAbility
 #_localizedName:	MindWarpAbility	MindWarpAbility
