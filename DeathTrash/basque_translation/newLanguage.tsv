@@ -4450,28 +4450,28 @@ ASSET bad7686a13a86c44cac7aa10eb03d483	Name: MindWarpAbility	Name: MindWarpAbili
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 47d300c5f963cc64e9f4ced030ea4069	Name: MinionOfFleshAbility	Name: MinionOfFleshAbility
-#_localizedName:	Minion Of Flesh	Súbdito de carne
-#_localizedDescription:	Summons a Fleshworm that will fight on your side.	Invoca un gusano de carne para que te ayude.
+#_localizedName:	Minion Of Flesh	Haragiaren Menpekoa
+#_localizedDescription:	Summons a Fleshworm that will fight on your side.	Haragi-zizare batek lagunduko zaitu.
 ------------------------------------------		
 ASSET 70f2b7bb3eaa75546883cc8c967a1c98	Name: MinorShockDamageAbility	Name: MinorShockDamageAbility
-#_localizedName:	Shock	Choque
-#_localizedDescription:	Directional attack with energy damage.	Ataque direccional con daño por energía
+#_localizedName:	Shock	Talka
+#_localizedDescription:	Directional attack with energy damage.	Norabide-erasoa, apuntatuz energia kaltea eragiten du
 ------------------------------------------		
 ASSET fd32902303e0c86459ac3a755943e2c2	Name: PoisonAbility	Name: PoisonAbility
-#_localizedName:	Burning Blood	Sangre ardiente
-#_localizedDescription:	Poisons enemies.	Envenena enemigos.
+#_localizedName:	Burning Blood	Suzko odola
+#_localizedDescription:	Poisons enemies.	Etsaiak pozoitzen ditu.
 ------------------------------------------		
 ASSET 8ac54216df195c54fa0b2d7eff883b5f	Name: PukeAbility	Name: PukeAbility
-#_localizedName:	Puke	Vomitar
-#_localizedDescription:	Cleanses your stomach.	Limpia tu estómago
+#_localizedName:	Puke	Oka egin
+#_localizedDescription:	Cleanses your stomach.	Urdaila garbitzen du.
 ------------------------------------------		
 ASSET 1c3a0c9c72936fc4fae4dbe5653df550	Name: StealthAbility	Name: StealthAbility
-#_localizedName:	Stealth	Sigilo
-#_localizedDescription:	Cloaks you from being immediately seen by other characters.	Te oculta de ser descubierto de inmediato por otros personajes.
+#_localizedName:	Stealth	Isilpean ibili
+#_localizedDescription:	Cloaks you from being immediately seen by other characters.	Etsaiei zailagoa izango zaie zu antzematea.
 ------------------------------------------		
 ASSET 6af0a9062f6241b44bc055f58697d1d2	Name: VanishAbility	Name: VanishAbility
-#_localizedName:	Vanish	Desvanecer
-#_localizedDescription:	Vanish from the sight of enemies.	Te desvaneces de la visión del enemigo
+#_localizedName:	Vanish	Desagertu
+#_localizedDescription:	Vanish from the sight of enemies.	Etsaiek ezin zaituzte antzeman.
 ------------------------------------------		
 ASSET ff7552e4a85e7a140a62685cfbe99afa	Name: HealingAbility	Name: HealingAbility
 #_localizedName:	HealingAbility	HealingAbility
@@ -4482,72 +4482,72 @@ ASSET 0336f75036b23e848b7b84fb6a405f9d	Name: SuckHealthAbility	Name: SuckHealthA
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 594c9deedfad80646a55609c0bb21590	Name: Achievement - 1 - FullyIntegrated	Name: Achievement - 1 - FullyIntegrated
-#_name:	Fully Integrated	Completamente Integrado
-#_description:	Welcome to the sun	Bienvenido al sol
+#_name:	Fully Integrated	Erabat Integratua
+#_description:	Welcome to the sun	Ongi etorri eguzkira
 ------------------------------------------		
 ASSET 7be29359978f704479f4ac61cfbb546c	Name: Achievement - 10 - Transhumanism	Name: Achievement - 10 - Transhumanism
-#_name:	Transhumanism	Transhumanismo
-#_description:	Fill all implant slots	Ocupa todas las ranuras de implante
+#_name:	Transhumanism	Trans-humanismoa
+#_description:	Fill all implant slots	Inplante-zirritu* guztiak hartzen ditu *(ranura)
 ------------------------------------------		
 ASSET 028ce5f3597308640ab8cf2733d7729f	Name: Achievement - 11 - WorkshopMaster	Name: Achievement - 11 - WorkshopMaster
-#_name:	Workshop Master	Maestro de taller
-#_description:	Defeat the Giant Basher	Derrota al Asaltador Gigante
+#_name:	Workshop Master	Lantegiko Maisua
+#_description:	Defeat the Giant Basher	Erasotzaile Erraldoia akatu
 ------------------------------------------		
 ASSET 5a0951989cd19d14a96806b187a582a5	Name: Achievement - 12 - FleshCraterSurvivor	Name: Achievement - 12 - FleshCraterSurvivor
-#_name:	Flesh Crater Survivor	Superviviente del cráter de carne
-#_description:	Defeat Glutt	Derrota a Glutt
+#_name:	Flesh Crater Survivor	Haragi-kraterretik bizirik atera dena
+#_description:	Defeat Glutt	Glutt akatu
 ------------------------------------------		
 ASSET 092c69f95ef93a0448b6b38ba40456e6	Name: Achievement - 13 - Tick-Tock	Name: Achievement - 13 - Tick-Tock
 #_name:	Tick-Tock	Tick-Tock
-#_description:	Place a grenade in someone’s bag	Mete una granada en la bolsa de alguien
+#_description:	Place a grenade in someone’s bag	Granada bat norbaiten poltsan sartu
 ------------------------------------------		
 ASSET dc13b3c2f11bbee4d8344ae3ddf9a264	Name: Achievement - 14 - HeightenedSenses	Name: Achievement - 14 - HeightenedSenses
-#_name:	Heightened Senses	Sentidos afilados
-#_description:	Reach level 5	Alcanza el nivel 5
+#_name:	Heightened Senses	Zentzumen zorrotzak
+#_description:	Reach level 5	5. mailara iritsi
 ------------------------------------------		
 ASSET 65d6a95ac709ee4478f10f6f6de5ca7f	Name: Achievement - 2 - FortuneHunter	Name: Achievement - 2 - FortuneHunter
-#_name:	Fortune Hunter	Caza fortunas
-#_description:	Help Custer collect the core	Ayuda a Custer a obtenér el núcleo
+#_name:	Fortune Hunter	Altxor-Bilatzailea
+#_description:	Help Custer collect the core	Lagundu Custer-i nukleoa lortzen
 ------------------------------------------		
 ASSET 70c2942084426454ebbedf54fa7e8402	Name: Achievement - 3 - ExploringNexus	Name: Achievement - 3 - ExploringNexus
-#_name:	Exploring Nexus	Explorando Nexus
-#_description:	Visit 20 or more locations	Visita 20 o más ubicaciones
+#_name:	Exploring Nexus	Nexus-a esploratzen
+#_description:	Visit 20 or more locations	20 kokaleku edo gehiago bisitatu
 ------------------------------------------		
 ASSET 3f517367571650e46a2610eb00b84519	Name: Achievement - 4 - AnotherReality	Name: Achievement - 4 - AnotherReality
-#_name:	Another Reality	Otra realidad
-#_description:	Enter a Cyberwomb	Entra en el útero cibernético
+#_name:	Another Reality	Beste errealitate bat
+#_description:	Enter a Cyberwomb	Umetoki zibernetikoan sartu
 ------------------------------------------		
 ASSET 72fe1d3d0722f4545a5e80601425d5ef	Name: Achievement - 5 - FleshAndBits	Name: Achievement - 5 - FleshAndBits
-#_name:	Flesh And Bits	Carne y trozos
-#_description:	Get blown to pieces	Explota en pedazos
+#_name:	Flesh And Bits	Haragia eta zatiak
+#_description:	Get blown to pieces	Zatitan ERREMENTA* *(lehertu)
 ------------------------------------------		
 ASSET 9c2af2fc4f5819f4091178379202c550	Name: Achievement - 6 - PukeExtravaganza	Name: Achievement - 6 - PukeExtravaganza
-#_name:	Puke Extravaganza	Espectáculo de Vómito
-#_description:	Have 5 or more characters puke at the same time	Haz que 5 o más personajes vomiten al mismo tiempo
+#_name:	Puke Extravaganza	Oka ikuskizuna
+#_description:	Have 5 or more characters puke at the same time	5 pertsonaia edo gehiagok aldi berean botaka egitea lortu
 ------------------------------------------		
 ASSET 5cb004f1115cb924c8fe37cbe85d9ce1	Name: Achievement - 7 - IronWill	Name: Achievement - 7 - IronWill
-#_name:	Iron Will	Voluntad de hierro
-#_description:	Defeat a boss on Hard Difficulty during a Permadeath run	Derrota a un jefe en dificultad difícil con muerte permanente.
+#_name:	Iron Will	Burdinazko borondatea
+#_description:	Defeat a boss on Hard Difficulty during a Permadeath run	Heriotza iraunkor zailtasun motan Buruzagi bat akatu.
 ------------------------------------------		
 ASSET 9fa6254f92ecf6e409021018e1f65578	Name: Achievement - 8 - AHeartOfMeat	Name: Achievement - 8 - AHeartOfMeat
-#_name:	A Heart Of Meat	Un corazón de carne
-#_description:	Finish the pilgrimage and help with the missing heart	Termina el peregrinaje y ayuda con el corazón perdido
+#_name:	A Heart Of Meat	Haragizko bihotza
+#_description:	Finish the pilgrimage and help with the missing heart	Erromesaldia amaitu eta lagundu galdutako bihotza aurkitzen
 ------------------------------------------		
 ASSET 14c2df839a7bef540a6f57463799687c	Name: Achievement - 9 - TheLostAndBlind	Name: Achievement - 9 - TheLostAndBlind
-#_name:	Lost And Blind	Perdido y ciego
-#_description:	Get the eyes for the blind man	Consigue ojos para el hombre ciego
+#_name:	Lost And Blind	Galduta eta itsututa
+#_description:	Get the eyes for the blind man	Gizon itsuarentzako begiak lortu
 ------------------------------------------		
 ASSET 6a03e2bafaba3b94592a4d3933bcb820	Name: DebugMeleeWeaponMod	Name: DebugMeleeWeaponMod
-#_localizedName:	Test Mod	Mod de prueba
-#_localizedDescription:	Applies extra damage to any melee weapon: {0}	Aplica daño extra a cualquier arma cuerpo a cuerpo: {0}
+#_localizedName:	Test Mod	Proba MOD-a
+#_localizedDescription:	Applies extra damage to any melee weapon: {0}	Buruz buruko armaei aparteko kaltea aplikatzen dio: {0}
 ------------------------------------------		
 ASSET 3fd5628b8c13d2d4c9ccf259a1720cc5	Name: MeleeWeaponModSimpleBlunt	Name: MeleeWeaponModSimpleBlunt
-#_localizedName:	Heavy Grip	Empuñadura pesada
-#_localizedDescription:	Applies extra damage to any blunt melee weapon: {0}	Aplica daño extra a armas contundentes: {0}
+#_localizedName:	Heavy Grip	Ezpata-buru* astuna *(empuñadura)
+#_localizedDescription:	Applies extra damage to any blunt melee weapon: {0}	Buruz buruko arma gogorrei aparteko kaltea aplikatzen dio: {0}
 ------------------------------------------		
 ASSET 4873817bde39d42428daba5f1733b254	Name: MeleeWeaponModSimpleSharp	Name: MeleeWeaponModSimpleSharp
-#_localizedName:	Blademaster	Maestro del filo
-#_localizedDescription:	Applies extra damage to any sharp melee weapon: {0}	Aplica daño extra a armas con filo: {0}
+#_localizedName:	Blademaster	Arma-zorrotzen Maisua
+#_localizedDescription:	Applies extra damage to any sharp melee weapon: {0}	Arma zorrotzei aparteko kaltea aplikatzen dio: {0}
 ------------------------------------------		
 ASSET c3914eae7988deb4bb5a3a53394fc49f	Name: PlayerPacifiedAnimal	Name: PlayerPacifiedAnimal
 #_localizedName:		
