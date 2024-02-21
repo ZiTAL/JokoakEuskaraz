@@ -4198,56 +4198,56 @@ SEQUENCE TitansHeadComment
 SEQUENCE TitansHeartZooKeeperDialogue		
 #3:	Hey, there. Welcome to the Shrine of the Heart.	Kaixo. Ongi etorri bihotzaren santutegira.
 #4:	Feel free to look around.	Libreki ibil zaitezke hemendik.
-#9:	The heart isn't here anymore, but we built a small garden for the worm it contained.	El corazón ya no está, pero hemos construido un pequeño jardín para el gusano que contenía.
-#12:	The worm was rescued by a great savior of our people.	El gusano fue rescatado por el gran salvador de nuestra gente.
-#19:	[Leave]	[Marcharse]
-#15:	It was me. The savior.	Fui yo, yo soy el salvador.
-#16:	Really? Wow.	¿En serio? ¡Vaya!
-#17:	I kind of imagined you would look more heroic.	Te imaginaba más... heroico.
-#18:	But that's not important. Thanks so much for helping us.	Pero no importa. Gracias por ayudarnos.
+#9:	The heart isn't here anymore, but we built a small garden for the worm it contained.	Bihotza jada ez dago, baina lorategi txiki bat eraiki dugu barruan zuen zizarearentzat.
+#12:	The worm was rescued by a great savior of our people.	Gure salbatzaile handiak erreskatatu zuen zizarea.
+#19:	[Leave]	[Joan]
+#15:	It was me. The savior.	Ni izan nintzen, salbatzailea ni naiz.
+#16:	Really? Wow.	Benetan? Hara!
+#17:	I kind of imagined you would look more heroic.	Egia esan, heroikoagoa irudikatzen genizun.
+#18:	But that's not important. Thanks so much for helping us.	Baina berdin dio. Eskerrik asko laguntzeagatik.
 ------------------------------------------		
 SEQUENCE TutorialCommentBlood		
-#2:	Yeah, this is not mine.	Sí, no es mía.
+#2:	Yeah, this is not mine.	Bai, ez da nirea.
 ------------------------------------------		
 SEQUENCE TutorialHubMachineNeedsPuke		
-#7:	Please refill organic lubricant.	Por favor, rellene lubricante orgánico.
-#35:	What is that supposed to mean?	¿Qué cojones significa eso?
-#24:	Here we go.	Allá vamos.
-#16:	Oh hey, it worked.	Oh, ha funcionado.
-#2:	This machine looks like it's connected to the door.	Parece que la máquina está conectada con la puerta.
-#30:	Please refill organic lubricant.	Por favor, rellene lubricante orgánico.
-#9:	Where am I supposed to find organic lubricant?	¿Dónde voy a encontrar lubricante orgánico?
-#40:	Well...	Bueno...
-#11:	I don't need anything from this machine anymore.	No necesito nada de esta máquina.
-#13:	And I don't want to fill more of my stuff in there.	No quiero meter más de lo mío en esa cosa.
+#7:	Please refill organic lubricant.	Mesedez, lubrifikatzaile organikoa bete.
+#35:	What is that supposed to mean?	Zer esan nahi du horrek?
+#24:	Here we go.	Goazen.
+#16:	Oh hey, it worked.	Oh, funtzionatu du!
+#2:	This machine looks like it's connected to the door.	Makina atearekin konektatuta dagoela dirudi.
+#30:	Please refill organic lubricant.	Mesedez, lubrifikatzaile organikoa bete.
+#9:	Where am I supposed to find organic lubricant?	Non aurkituko nezake lubrifikatzaile organikoa?
+#40:	Well...	Ba...
+#11:	I don't need anything from this machine anymore.	Makina honetako ezer ez dut behar.
+#13:	And I don't want to fill more of my stuff in there.	Ez dut gauza gehiago sartu nahi.
 ------------------------------------------		
 SEQUENCE UnusableDoor		
-#2:	This door cannot be used.	No se puede usar la puerta.
+#2:	This door cannot be used.	Ezin da atea erabili.
 ------------------------------------------		
 SEQUENCE WarnNotToShoot		
-#2:	Don't shoot, stranger.	No dispares, forastero.
+#2:	Don't shoot, stranger.	Txo, tirotik ez bota.
 ------------------------------------------		
 SEQUENCE WarnThief		
-#6:	Hey! I'm watching you.	¡Oye, te estoy vigilando!
-#7:	Hey! Leave that alone.	¡Eh, deja eso!
-#4:	Don't touch that!	¡No toques eso!
+#6:	Hey! I'm watching you.	Txo, ikusten zaitut eh, kontuz zer egiten duzun!
+#7:	Hey! Leave that alone.	Eh, utzi hori!
+#4:	Don't touch that!	Ez ukitu hori!
 ------------------------------------------		
 SEQUENCE WeaponPointedAt		
-#5:	Leave me alone.	Déjame en paz.
+#5:	Leave me alone.	Utzi bakean. SEP
 #4:	Fuck.	Joder.
-#6:	Go away.	Largo.
-#3:	Oh my.	Oh, Dios.
+#6:	Go away.	Alde hemendik.
+#3:	Oh my.	Ai ama!
 ------------------------------------------		
 SEQUENCE WhatsThatSmell		
-#2:	Mmh. What's that smell?	Mmh. ¿Qué es ese olor?
+#2:	Mmh. What's that smell?	Mmh. Zer da usain hori?
 ------------------------------------------		
 SEQUENCE WhereAmI		
-#2:	Where am I?	¿Dónde estoy?
+#2:	Where am I?	Non nago?
 ------------------------------------------		
 SEQUENCE WorldMapEncounterMerchant		
-#4:	Hey, you want to see my wares?	Hola, ¿quieres ver mis productos?
-#6:	No.	No.
-#5:	[Browse]	[Ver]
+#4:	Hey, you want to see my wares?	Kaixo, nire produktuak ikusi nahi al dituzu?
+#6:	No.	Ez.
+#5:	[Browse]	[Ikusi]
 ------------------------------------------		
 SEQUENCE WorldMapEncounterPilgrim		
 #19:	The titans are our masters.	Los Titanes son nuestros maestros.
