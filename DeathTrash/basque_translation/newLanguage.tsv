@@ -2404,7 +2404,7 @@ SEQUENCE FleshFace
 #48:	Who are you, exactly?	Nor zara zehazki?
 #52:	I'm a multi-purpose cyborg. I was created as a worker and protector.	Helburu anitzeko cyborg-a naiz. Langile eta babesle gisa sortua.
 #53:	To the Machine Masters and therefore also for the humans, of course.	Maisuentzat makina eta baita gizakientzat ere, noski.
-#63:	I gave myself the flesh face to be more alike humans. Therefore I am Fleshface.	Haragi-aurpegia jantzi nuen gizakien antza izateko. Beraz, haragi-arpi naiz.
+#63:	I gave myself the flesh face to be more alike humans. Therefore I am Fleshface.	Haragi-aurpegia jantzi nuen gizakien antza izateko. Beraz, Haragi-arpi naiz.
 ------------------------------------------		
 SEQUENCE FleshfaceSceneObject		
 #60:	There's a funnel sticking out of him. Maybe... organic lubricant?	Zerbait dauka hor... Agian... lubrifikatzaile organikoa izango ote da?
@@ -4298,54 +4298,54 @@ SEQUENCE WormShamansGreeter
 #17:	Then you should overthink your next actions.	Orduan zer egiten duzun pentsatu beharko zenuke.
 #18:	We are peaceful, but not defenseless.	Baketsuak gara, baina ez babesgabeak.
 #13:	Kinda neutral on that one.	Neutral samarrak.
-#19:	I would see this as an opportunity to still come to your senses, then.	Tomaré esto como una oportunidad para hacerte entrar en razón.
-#20:	Explore the world, talk with people, talk with the Flesh, and then return to us.	Explora el mundo, habla con la gente, la carne y vuelve a nosotros.
-#16:	Actually, I'm looking for one.	En realidad, busco a uno.
+#19:	I would see this as an opportunity to still come to your senses, then.	Aukera honetaz baliatuko naiz zu zentzarazteko.
+#20:	Explore the world, talk with people, talk with the Flesh, and then return to us.	Mundua arakatu, jendearekin eta haragiarekin hitz egin, eta guregana itzuli.
+#16:	Actually, I'm looking for one.	Egia esan, baten bila nabil.
 #28:	Huh?	¿Eh?
-#30:	A friend for a Titan.	Un amigo para el Titán.
-#22:	Indeed? What Titan?	¿Desde luego, qué Titan?
-#23:	The Fleshkraken.	El kraken de carne.
-#24:	Haha. That old botherer.	Jaja. Ese viejo molesto.
-#33:	I'll keep an eye on you, but feel free to walk around.	Te tendré vigilado pero siéntete libre de echar un vistazo.
-#10:	I think so, yes.	Eso creo, sí.
-#21:	Good.	Bien.
-#6:	Please put your weapon away. This is a peaceful place.	Por favor, guarda el arma. Esto es un lugar tranquilo.
+#30:	A friend for a Titan.	Lagun bat Titan-arentzat.
+#22:	Indeed? What Titan?	Baina, zein Titan?
+#23:	The Fleshkraken.	Haragi-krakena.
+#24:	Haha. That old botherer.	Karkar. Agure gogaikarri hori.
+#33:	I'll keep an eye on you, but feel free to walk around.	Kontuz egiten duzunarekin, baina begiratu lasai.
+#10:	I think so, yes.	Hori uste dut, bai.
+#21:	Good.	Ongi.
+#6:	Please put your weapon away. This is a peaceful place.	Gorde arma, mesedez. Leku hau lasaia da.
 ------------------------------------------		
 SEQUENCE QuestCollectMachineCore		
-#2:	Collect the Machine Core	Obtén el Núcleo de Máquina
-#3:	Deliver the Machine Core to Custer	Entrega el Núcleo de Máquina a Custer
-#20:	Collect Machine Core	Obtén el Núcleo de Máquina
+#2:	Collect the Machine Core	Lortu Makina-Nukleoa
+#3:	Deliver the Machine Core to Custer	Makina-nukleoa Custerri eman
+#20:	Collect Machine Core	Lortu Makina-Nukleoa
 ------------------------------------------		
 SEQUENCE QuestConnectToTheFlesh		
-#3:	Examine the flesh vein.	Examina la vena de carne.
-#4:	Leave the Flesh Dream.	Deja el sueño de la carne.
-#2:	Connect to the Flesh	Conecta con la carne.
+#3:	Examine the flesh vein.	Haragi-zaina aztertu.
+#4:	Leave the Flesh Dream.	Haragiaren ametsetik irten.
+#2:	Connect to the Flesh	Haragira konektatu.
 ------------------------------------------		
 SEQUENCE QuestFleshkrakenAndFriends		
-#3:	Find friends for the Fleshkraken	Amigos para el kraken de carne.
-#5:	The Kraken feels lonely and is in need of some company.	El kraken se siente solo y necesita compañía.
-#14:	Introduce the Fleshkraken to Fleshface.	Presenta el kraken de carne a Caracarne.
-#10:	Mortus told you about an Android near a house at the south of Tauris.	Mortus te ha hablado de un robot cerca de la casa al sur de Tauris.
-#11:	Introduce the Fleshkraken to the Android.	Presenta el kraken de carne al robot.
-#6:	Fleshkraken And Friends	Kraken de carne y amigos.
+#3:	Find friends for the Fleshkraken	Haragi-krakenarentzako lagunak.
+#5:	The Kraken feels lonely and is in need of some company.	Krakena bakarrik sentitzen da, eta konpainia behar du.
+#14:	Introduce the Fleshkraken to Fleshface.	Haragi-krakena aurkezten dio Haragi-arpi.
+#10:	Mortus told you about an Android near a house at the south of Tauris.	Mortus-ek Tauris-etik hegoaldera dagoen robot bati buruz hitz egin dizu.
+#11:	Introduce the Fleshkraken to the Android.	Haragi-krakena robotari aurkezten dio.
+#6:	Fleshkraken And Friends	Haragi-krakena eta lagunak.
 ------------------------------------------		
 SEQUENCE QuestInfectionAwareness		
-#2:	Medical Examination	Examen médico
-#3:	Find someone who can examine your "contamination".	Encuentra a alguien que pueda examinar tu "contaminación"
-#4:	Contaminated	Contaminado
+#2:	Medical Examination	Azterketa medikoa
+#3:	Find someone who can examine your "contamination".	Zure "kutsadura" azter dezakeen norbait aurkitu.
+#4:	Contaminated	Kutsatuta
 ------------------------------------------		
 SEQUENCE QuestPhilosopher		
-#2:	Find the Philosopher to the east of Old Trees	Encuentra al Filósofo al este de los Árboles Viejos
-#3:	Find any hints about the death of the Philosopher	Encuentra pistas de la muerte del Filósofo
-#10:	Return to Aksa	Regresa con Aksa.
-#6:	The Philosopher	El Filósofo
+#2:	Find the Philosopher to the east of Old Trees	Filosofoa Zuhaitz Zaharren ekialdean aurkitu
+#3:	Find any hints about the death of the Philosopher	Filosofoaren heriotzaren aztarnak aurkitu
+#10:	Return to Aksa	Aksara itzuli.
+#6:	The Philosopher	Filosofoa
 ------------------------------------------		
 SEQUENCE QuestTalkToTheFlesh		
-#2:	Talk to the Fleshkraken	Habla con el kraken de carne
-#6:	Talk to the Flesh Nexus	Habla con el Nexo de Carne
-#7:	Now that you have a voice, talk to the Flesh Nexus.	Ahora que tienes la voz, habla con el Nexo de Carne.
-#3:	Learn from the Fleshkraken how to talk to the flesh	Aprende del kraken de carne a hablar con la carne.
-#4:	Talk to the flesh	Habla con la carne
+#2:	Talk to the Fleshkraken	Haragi-krakenarekin hitz egin
+#6:	Talk to the Flesh Nexus	Haragi-Nexus-arekin hitz egin
+#7:	Now that you have a voice, talk to the Flesh Nexus.	Orain ahotsa daukazunez, Haragi-Nexus-arekin hitz egin.
+#3:	Learn from the Fleshkraken how to talk to the flesh	Haragi-krakenarekin hitz egiten ikasi.
+#4:	Talk to the flesh	Haragiarekin hitz egin
 ------------------------------------------		
 SEQUENCE QuestTheWitch		
 #2:	Find the witch at Old Trees	Encuentra a la bruja en los Viejos Árboles
