@@ -4148,56 +4148,56 @@ SEQUENCE TaurisCultistFriend2
 #19:	Just wait until he defeats you.	Itxaron, ziur irabaziko dizula.
 #20:	Oh, I don't plan on winning.	Oh, ez dut irabazteko asmorik.
 #21:	I just want him to feel good.	Ondo sentitzea besterik ez dut nahi.
-#18:	He needs that win.	Él necesita esa victoria.
-#22:	Weren't you taunting him?	¿No le estabas provocando?
-#23:	Of course. He can't know I'm helping.	Claro, no puede saber que estoy ayudándole.
-#14:	He asked me to help him cheat.	Me pidió que le ayudase a ganar.
-#10:	And? Will you help him?	¿Y? ¿Le ayudarás?
-#16:	Yes.	Sí.
-#17:	Marvellous. I'm sure that winning will build him up a bit.	Estupendo. Seguro que ganar le da un poco de confianza.
-#6:	He won. By his own rules at least.	Ha ganado. Con sus propias reglas al menos.
-#7:	Can you see how confident he looks now?	¿Puedes ver lo confiado que se ve ahora?
-#8:	You did well.	Lo has hecho bien.
+#18:	He needs that win.	Garaipen hori behar du.
+#22:	Weren't you taunting him?	Ez ari al zinen bera zirikatzen?
+#23:	Of course. He can't know I'm helping.	Noski, ezin duzu jakin laguntzen ari natzaizula.
+#14:	He asked me to help him cheat.	Irabazten laguntzeko eskatu zidan.
+#10:	And? Will you help him?	Eta? Lagunduko diozu?
+#16:	Yes.	Bai.
+#17:	Marvellous. I'm sure that winning will build him up a bit.	Primeran. Ziur nago irabazteak konfiantza emango diola.
+#6:	He won. By his own rules at least.	Irabazi du. Behintzat, bere arau propioekin.
+#7:	Can you see how confident he looks now?	Ikus dezakezu zein fidagarria den orain?
+#8:	You did well.	Ondo egin duzu.
 ------------------------------------------		
 SEQUENCE TaurisFriendsPukeContest		
-#2:	Ok. I'm ready. Come here.	Vale, estoy listo. Vamos.
-#28:	You sure? You're not gonna cry when you lose, right?	¿Seguro? ¿No vas a llorar cuando pierdas, verdad?
-#3:	I won't lose.	No perderé.
-#39:	Not bad, not bad. But look at this.	Bueno, no está mal. Mira esto.
-#8:	About the same as mine, but that was just warm up. Here's the real deal.	Casi igual, pero solo era el calentamiento. Ahora viene lo importante.
-#40:	That's a lot. And why is there some pink stuff in it?	Es mucho. ¿Y qué es eso rosado?
-#41:	Anyway.	De cualquier forma.
-#13:	That's nowhere near enough. look at this.	No es suficiente, mira esto.
-#42:	I can't anymore. I give up.	No puedo seguir. Me rindo.
-#16:	Really?	¿En serio?
-#43:	Yes.	Sí.
-#23:	Does this mean I won?	¿Significa que he ganado?
-#44:	Congratulations.	Enhorabuena.
-#26:	Finally. I'm so happy, I could just...	Por fin, soy tan feliz. Podría...
+#2:	Ok. I'm ready. Come here.	Ados, prest nago. Goazen.
+#28:	You sure? You're not gonna cry when you lose, right?	Ziur zaude? Ez zara negarrez hasiko galtzen duzunean, ezta?
+#3:	I won't lose.	Ez dut galduko.
+#39:	Not bad, not bad. But look at this.	Tira, ez dago gaizki. Begira hau.
+#8:	About the same as mine, but that was just warm up. Here's the real deal.	Ia berdin, baina beroketa besterik ez zen. Orain dator garrantzitsuena.
+#40:	That's a lot. And why is there some pink stuff in it?	Asko da. Eta zer da gauza arrosa hori?
+#41:	Anyway.	Dena dela.
+#13:	That's nowhere near enough. look at this.	Ez da nahikoa, begira.
+#42:	I can't anymore. I give up.	Ezin dut jarraitu. Amore ematen dut.
+#16:	Really?	Benetan?
+#43:	Yes.	Bai.
+#23:	Does this mean I won?	Irabazi dudala esan nahi al du?
+#44:	Congratulations.	Zorionak!
+#26:	Finally. I'm so happy, I could just...	Azkenean, ze zoriontsua naizen. Baliteke...
 ------------------------------------------		
 SEQUENCE TheBrain		
-#2:	Command?	¿Comando?
-#8:	[Leave]	[Marcharse]
-#21:	I have this recording.	Tengo esta grabación.
-#33:	Examining...	Examinando...
-#22:	Processing recording...	Procesando grabación...
-#24:	Processing record...	Procesando registro...
-#26:	Recording processed.	Grabación procesada.
-#37:	Thanks.	Gracias.
-#4:	List all commands.	Lista de todos los comandos.
-#7:	Error. Insufficient access.	Erros. Acceso insuficiente.
+#2:	Command?	Komandoa?
+#8:	[Leave]	[Joan]
+#21:	I have this recording.	Grabazio hau daukat.
+#33:	Examining...	Aztertzen...
+#22:	Processing recording...	Grabazioa prozesatzen...
+#24:	Processing record...	Erregistroa prozesatzen...
+#26:	Recording processed.	Grabazioa prozesatu da.
+#37:	Thanks.	Mila esker.
+#4:	List all commands.	Komando guztien zerrenda.
+#7:	Error. Insufficient access.	Errorea. Sarbiderako ez da nahikoa.
 ------------------------------------------		
 SEQUENCE ThePerishedOneWall		
-#2:	This entrance is sealed.	La entrada está sellada.
-#3:	Looks like people tried to break through or something.	Parece que la gente ha intentado entrar o algo.
-#4:	They failed, I guess.	Fracasaron, supongo.
+#2:	This entrance is sealed.	Sarrera itxita dago.
+#3:	Looks like people tried to break through or something.	Jendea sartzen saiatu dela dirudi.
+#4:	They failed, I guess.	Porrot egin zuelatakoan nago.
 ------------------------------------------		
 SEQUENCE TitansHeadComment		
-#2:	Oh, this is a large one.	Oh, es grande.
+#2:	Oh, this is a large one.	Oh, handia da.
 ------------------------------------------		
 SEQUENCE TitansHeartZooKeeperDialogue		
-#3:	Hey, there. Welcome to the Shrine of the Heart.	Hola. Bienvenido al santuario del corazón.
-#4:	Feel free to look around.	Siéntete libre de echar un vistazo.
+#3:	Hey, there. Welcome to the Shrine of the Heart.	Kaixo. Ongi etorri bihotzaren santutegira.
+#4:	Feel free to look around.	Libreki ibil zaitezke hemendik.
 #9:	The heart isn't here anymore, but we built a small garden for the worm it contained.	El corazón ya no está, pero hemos construido un pequeño jardín para el gusano que contenía.
 #12:	The worm was rescued by a great savior of our people.	El gusano fue rescatado por el gran salvador de nuestra gente.
 #19:	[Leave]	[Marcharse]
