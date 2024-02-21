@@ -4250,54 +4250,54 @@ SEQUENCE WorldMapEncounterMerchant
 #5:	[Browse]	[Ikusi]
 ------------------------------------------		
 SEQUENCE WorldMapEncounterPilgrim		
-#19:	The titans are our masters.	Los Titanes son nuestros maestros.
-#20:	Where they go, the flesh grows.	Allá donde van, crece la carne.
-#21:	Where the flesh grows, life blooms.	Donde crece la carne, surge la vida.
-#22:	That's why we follow them.	Por eso les seguimos.
-#7:	Do you believe in the titans?	¿Crees en los Titanes?
-#11:	What do you mean, "believe"?	¿Qué quieres decir con "creer"?
-#12:	They definitely do exist.	Desde luego existen.
-#15:	You misunderstand.	Me has malinterpretado.
-#16:	The titans are our leaders	Los Titanes son nuestros líderes.
-#17:	They will bring us to peace.	Nos traen la paz.
-#18:	You should go to New Delphi, if you wish to learn more.	Deberías ir a Nueva Delphi para aprender más.
-#10:	No.	No.
-#14:	Maybe you should.	Quizás debería.
-#9:	Yes.	Sí.
-#13:	That's good.	Estupendo.
-#26:	I heard that one of our holy items had been stolen recently.	He oído que uno de nuestros objetos sagrados ha sido robado.
-#27:	But the titans sent out a champion to retrieve it.	Pero los Titanes enviaron a un campeón a recuperarlo.
-#28:	This proves that the will of the titans is real.	Eso prueba que la voluntad de los Titanes es real.
-#2:	Oh, don't mind us.	Oh, no nos prestes atención.
-#5:	We're just taking a break on our pilgrimage to New Delphi.	Tan solo estamos descansando de la peregrinación a Nueva Delphi.
+#19:	The titans are our masters.	Titan-ak gure maisuak dira.
+#20:	Where they go, the flesh grows.	Doazen lekura doazela, bertan haragia hazten da.
+#21:	Where the flesh grows, life blooms.	Haragia hazten den lekuan, bizitza sortzen da.
+#22:	That's why we follow them.	Horregatik jarraitzen diegu.
+#7:	Do you believe in the titans?	Titan-engan sinesten al duzu?
+#11:	What do you mean, "believe"?	Zer esan nahi duzu "sinetsi"-rekin?
+#12:	They definitely do exist.	Existitzen dira, noski.
+#15:	You misunderstand.	Gaizki ulertu nauzu.
+#16:	The titans are our leaders	Titan-ak gure liderrak dira.
+#17:	They will bring us to peace.	Bakea ekarri digute.
+#18:	You should go to New Delphi, if you wish to learn more.	New Delphi-ra joan beharko zenuke gehiago ikasteko.
+#10:	No.	Ez.
+#14:	Maybe you should.	Agian beharko zenuke.
+#9:	Yes.	Bai.
+#13:	That's good.	Primeran.
+#26:	I heard that one of our holy items had been stolen recently.	Gure objektu sakratuetako bat lapurtu dutela entzun dut...
+#27:	But the titans sent out a champion to retrieve it.	Baina Titan-ek txapeldun bat bidali zuten berreskuratzera.
+#28:	This proves that the will of the titans is real.	Horrek frogatzen du Titan-en borondatea benetakoa dela.
+#2:	Oh, don't mind us.	Oh, ez guri jaramonik egin.
+#5:	We're just taking a break on our pilgrimage to New Delphi.	New Delphi-rako erromesalditik atseden hartzen ari gara, besterik ez.
 ------------------------------------------		
 SEQUENCE WorldMapEncounterTraveler		
-#19:	I used to believe that travelling would be exciting.	Solía pensar que viajar sería emocionante.
-#20:	But it's quite boring out here.	Pero es bastante aburrido.
-#17:	My legs hurt.	Me duelen las piernas.
-#18:	We've been walking for days.	Hemos estado caminando durante días.
-#10:	I started this journey with my pet fleshworm.	Comencé este viaje con mi mascota gusano de carne.
-#11:	But we had to eat it when we ran out of food in the desert.	Pero tuvimos que comernoslo cuando nos quedamos sin comida en el desierto.
-#15:	[Leave]	[Marcharse]
-#13:	I could give you another one.	Podría darte otro.
-#16:	No, thank you. I'm already full.	No, gracias. Estoy lleno.
-#7:	Here, you can have this.	Ten, puedes quedarte esto.
-#9:	I don't want it anymore.	No lo quiero más.
-#3:	You're travelling alone?	¿Viajas solo?
-#4:	You're either very brave, or very stupid.	O eres muy valiente o muy estúpido.
+#19:	I used to believe that travelling would be exciting.	Bidaiatzea zirraragarria izango zela uste nuen.
+#20:	But it's quite boring out here.	Baina nahiko aspergarria da.
+#17:	My legs hurt.	Hanketako mina dut.
+#18:	We've been walking for days.	Egunetan ibili gara oinez, atseden gabe.
+#10:	I started this journey with my pet fleshworm.	Bidaia hau nire haragi-zizare maskotarekin hasi nuen.
+#11:	But we had to eat it when we ran out of food in the desert.	Baina basamortuan janaririk gabe geratu ginenean, tamalez, jan egin behar izan genuen.
+#15:	[Leave]	[Joan]
+#13:	I could give you another one.	Beste bat eman diezazuket.
+#16:	No, thank you. I'm already full.	Ez, eskerrik asko. Aski naiz.
+#7:	Here, you can have this.	Tori, hartu hau.
+#9:	I don't want it anymore.	Ez dut gehiago nahi.
+#3:	You're travelling alone?	Bakarrik bidaiatzen ari al zara?
+#4:	You're either very brave, or very stupid.	Edo oso ausarta, edo zoratuta zaude.
 ------------------------------------------		
 SEQUENCE WormShamanGreeterHey		
-#2:	Hey!	¡Hola!
+#2:	Hey!	Kaixo!
 ------------------------------------------		
 SEQUENCE WormShamansGreeter		
-#3:	Hello, stranger.	Hola, forastero.
-#32:	I'll keep an eye on you, but feel free to walk around.	Te mantendré vigilado pero puedes echar un vistazo.
-#7:	It's not often that we get visitors here.	No suelo recibir visitas por aquí.
-#8:	Are you a friend of the Titans?	¿Eres amigo de los Titanes?
-#14:	I don't think so.	No lo creo.
-#17:	Then you should overthink your next actions.	Entonces deberías pensar en lo que haces.
-#18:	We are peaceful, but not defenseless.	Somos pacíficos pero no indefensos.
-#13:	Kinda neutral on that one.	Un poco neutral.
+#3:	Hello, stranger.	Kaixo, kanpotarra.
+#32:	I'll keep an eye on you, but feel free to walk around.	Kontuz egiten duzunarekin, baina libreki azter dezakezu.
+#7:	It's not often that we get visitors here.	Normalean ez dut bisitarik izaten.
+#8:	Are you a friend of the Titans?	Titan-en laguna al zara?
+#14:	I don't think so.	Ez dut uste.
+#17:	Then you should overthink your next actions.	Orduan zer egiten duzun pentsatu beharko zenuke.
+#18:	We are peaceful, but not defenseless.	Baketsuak gara, baina ez babesgabeak.
+#13:	Kinda neutral on that one.	Neutral samarrak.
 #19:	I would see this as an opportunity to still come to your senses, then.	Tomaré esto como una oportunidad para hacerte entrar en razón.
 #20:	Explore the world, talk with people, talk with the Flesh, and then return to us.	Explora el mundo, habla con la gente, la carne y vuelve a nosotros.
 #16:	Actually, I'm looking for one.	En realidad, busco a uno.
