@@ -5151,51 +5151,51 @@ ASSET 14d6b54994d1bed4993a27f40d1bec96	Name: GodhuntersDungeon_Nervous	Name: God
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5369d73ea7cfce945ac7005d53d5b446	Name: GodhuntersDungeon_OverseersThoughts	Name: GodhuntersDungeon_OverseersThoughts
-#_localizedContent:	What exactly are they doing upstairs? Who are they talking to?||I've done this job in many places. It was always a fight. Nobody was willing to exchange the money for progress. Always too risky.||And yet, here we are. Far away from home, developing at a ridiculously fast pace. And whenever we need a new material, even if it is completely illegal in other sectors, we get it within days.||Who exactly is paying for this? And what are we exactly needed for?||||It's probably better not to ask.	¿Qué están haciendo arriba? ¿Con quién están hablando?||He realizado este trabajo en muchos lugares. Siempre hay pelea. Nadie está dispuesto a dar dinero por el progreso. Es demasiado arriesgado.||Y aún así, aquí estamos. Lejos de casa, desarrollando a un paso extremadamente rápido. Y cuando necesitamos algún material nuevo, incluso si es ilegal en otros sectores, lo obtenemos en unos días.||¿Quién paga por esto? ¿Y para qué nos necesitan exactamente?||||Probablemente sea mejor no preguntar.
-#_localizedName:	Thoughts	Pensamientos
+#_localizedContent:	What exactly are they doing upstairs? Who are they talking to?||I've done this job in many places. It was always a fight. Nobody was willing to exchange the money for progress. Always too risky.||And yet, here we are. Far away from home, developing at a ridiculously fast pace. And whenever we need a new material, even if it is completely illegal in other sectors, we get it within days.||Who exactly is paying for this? And what are we exactly needed for?||||It's probably better not to ask.	Zertan ari dira goian? Norekin ari dira hizketan?||Lan hau leku askotan egin dut.. Beti dago borroka. Inor ez dago prest aurrerapenagatik dirua emateko.  Arriskutsuegia da.||Eta hala ere, hemen gaude. Etxetik urrun, abiadura izugarri azkar batean garatuz. Eta material berriren bat behar dugunean, beste sektore batzuetan legez kanpokoa bada ere, egun gutxitan lortzen dugu.||Nork ordainduko du honengatik? Eta zertarako behar gaituzte zehazki?||||Agian hobe da ez galdetzea.
+#_localizedName:	Thoughts	Pentsamenduak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 969e256558c58c44484d2c6b8c90a76d	Name: GodhuntersDungeon_PrayerReview	Name: GodhuntersDungeon_PrayerReview
-#_localizedContent:	Kill the Titans.||Devour their innards.||(Good start, but I feel like the second line is a bit too long.)||||Turn off the machines.||Turn off their good. ||(Both lines start with Turn off. Repetition isn't bad, but it feels odd in this place. Also: I think it should say god, and not good.)||||Shoot everybody.||Dump 'em in a swamp.||(That might be a bit too direct.)||||Fuck the gods and kill the rest. ||(Strong ending, I like it.)	Acabar con los Titanes.||Devorar sus entrañas.||(Es un buen comienzo, pero siento que la segunda línea es un poco larga.)||||Apagar las máquinas.||Apagarlas para siempre. ||(Ambas líneas empiezan igual. Repetirse no es malo pero no me encaja. Además: creo que debería decir dios no para siempre.)||||Disparar a todo el mundo.||Tiradlos a la ciénaga.||(Quizás demasiado directo.)||||Que le follen a los dioses y matad a los demás. ||(Un final fuerte. Me gusta.)
-#_localizedName:	Prayer Review	Revisión de la oración.
+#_localizedContent:	Kill the Titans.||Devour their innards.||(Good start, but I feel like the second line is a bit too long.)||||Turn off the machines.||Turn off their good. ||(Both lines start with Turn off. Repetition isn't bad, but it feels odd in this place. Also: I think it should say god, and not good.)||||Shoot everybody.||Dump 'em in a swamp.||(That might be a bit too direct.)||||Fuck the gods and kill the rest. ||(Strong ending, I like it.)	Titan-ak hiltzea..||Erraiak irentsi.||(Hasiera ona da, baina bigarren lerroa luze samarra dela sentitzen dut)||||Itzali makinak.||Betiko itzali.||(Bi lerroak berdin hasten dira. Errepikatzea ez da txarra, baina ez zait egokitzen. Gainera: uste dut jainkoa esan beharko nukeela ez betiko.)||||Mundu guztia tirokatu.||Bota itzazue zingirara*. *(ciénaga)||(Zuzenegia agian.)||||Porkulo hartzera Jainkoak! Besteak hil! ||(Amaiera indartsua. Gustatzen zait.)
+#_localizedName:	Prayer Review	Otoiaren berrikuspena.
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c3b69f5b258eaac47a67d922fa531718	Name: GodhuntersDungeon_Quiet	Name: GodhuntersDungeon_Quiet
-#_localizedContent:	Some people are trying to work here. If you wanna talk, go and use the meeting room. In here: Shut the fuck up!	Algunos intentamos trabajar. Si queréis hablar usad la sala de reuniones. Aquí: ¡Callaos de una puta vez!
-#_localizedName:	QUIET!	¡SILENCIO!
+#_localizedContent:	Some people are trying to work here. If you wanna talk, go and use the meeting room. In here: Shut the fuck up!	Batzuk lanean saiatzen gara, papau halakoa. Hitz egin nahi baduzue, erabili bilera-gela. Hemen: Ixo behingoz! Mingaina! TXULORA!
+#_localizedName:	QUIET!	ISI OSTIA!
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f2e33d0d7e5fff54fbc2971d944a167d	Name: GodhuntersDungeon_Receipt	Name: GodhuntersDungeon_Receipt
-#_localizedContent:	We confirm the reception of 5 (five) machine cores, 2 (two) broken and hacked bots and 1 (one) machine of unknown origin or function, for the total price of 250 (two hundred and fifty).||||For The Buyers:||Graam||||We confirm the reception of 250 (two hundred and fifty) for the sale of the goods listed above.||||For The Sellers:||Mik	Confirmamos la recepción de 5 (cinco) núcleos de máquina, 2 (dos) robots rotos y hackeados; y 1 (una) máquina de origen y función desconocidas; al precio total de 250 (doscientas cincuenta).||||Para los compradores:||Graam||||Confirmamos la recepción de 250 (doscientos cincuenta) por la venta de los bienes listados anteriormente.||||Para los vendedores:||Mik
-#_localizedName:	Receipt	Recibo
+#_localizedContent:	We confirm the reception of 5 (five) machine cores, 2 (two) broken and hacked bots and 1 (one) machine of unknown origin or function, for the total price of 250 (two hundred and fifty).||||For The Buyers:||Graam||||We confirm the reception of 250 (two hundred and fifty) for the sale of the goods listed above.||||For The Sellers:||Mik	5 (bost) makina-nukleo jaso ditugula baieztatzen dugu , 2 (bi) robot hautsi eta hackeatu; eta 1 (bat) jatorri- eta funtzio-makina ezezagun; 250 (berrehun eta berrogeita hamar) prezioan guztira.||||Erosleentzat:||Graam||||Aurretik zerrendatutako ondasunak saltzeagatik 250 (berrehun eta berrogeita hamar) jaso ditugula berresten dugu.||||Saltzaileentzat:||Mik
+#_localizedName:	Receipt	Ordainagiria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5706901d225dc9045b2271ef6e8def61	Name: GodhuntersDungeon_RepairDiary	Name: GodhuntersDungeon_RepairDiary
-#_localizedContent:	Oh, my poor children. They put you on the track every day. Trying to improve performance. Trying to make you cheap. They see you as tools, to use en masse. ||And when you don't work anymore, they bring you to me.||||But they don't know. You are my little babies. You are so much more than just hunks of metal. And you will prove it to them. One day.	Oh, mi pobre niño. Te ponen siempre en funcionamiento. Intentando mejorar tu rendimiento. Hacer que seas más barato. Te ven como una herramienta que usar en masa. ||Y cuando ya no funcionas te traen aquí.||||Pero ellos no saben que sois mis pequeñines. Sois mucho más que trozos de chatarra. Y se lo demostraréis algún día.
-#_localizedName:	Diary	Diario
+#_localizedContent:	Oh, my poor children. They put you on the track every day. Trying to improve performance. Trying to make you cheap. They see you as tools, to use en masse. ||And when you don't work anymore, they bring you to me.||||But they don't know. You are my little babies. You are so much more than just hunks of metal. And you will prove it to them. One day.	Ene haur gaixoa. Beti funtzionamenduan jartzen zaituzte. Zure errendimendua hobetzen saiatuz. Merkeagotzen saiatu. Masan erabiltzeko tresna gisa ikusten zaituzte.||Eta funtzionatzen ez duzunean hona ekartzen zaituzte.||||Baina haiek ez dakite nire txikitxoak zaretenik. Txatarra zatiak baino askoz gehiago zarete. Eta egunen batean erakutsiko duzue.
+#_localizedName:	Diary	Egunerokoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 1035e47127671a744875423649549b53	Name: GodhuntersDungeon_Score	Name: GodhuntersDungeon_Score
-#_localizedContent:	Rounds Won:||||Edin:||IIIIIII||||Kanzo:||IIII||||Mik:||IIIIII	Rondas ganadas:||||Edin:||IIIIIII||||Kanzo:||IIII||||Mik:||IIIIII
-#_localizedName:	Scores	Puntuación
+#_localizedContent:	Rounds Won:||||Edin:||IIIIIII||||Kanzo:||IIII||||Mik:||IIIIII	Irabazitako errondak:||||Edin:||IIIIIII||||Kanzo:||IIII||||Mik:||IIIIII
+#_localizedName:	Scores	Puntuazioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bc17a3a556e59e149a0fea8a58825168	Name: ReadableGroupGodhuntersDungeon	Name: ReadableGroupGodhuntersDungeon
-#_displayName:	Godhunter's Prison	Prisión de los Cazadioses
+#_displayName:	Godhunter's Prison	Jainko-Ehiztarien espetxea
 ------------------------------------------		
 ASSET 576f847bed00da14ba4c91d51fb7a8ba	Name: AwarenessKnowledgeBook	Name: AwarenessKnowledgeBook
-#_localizedContent:	Gives you awareness.	Te da percepción
-#_localizedName:	Awareness	Percepción
+#_localizedContent:	Gives you awareness.	Pertzepzioa ematen dizu
+#_localizedName:	Awareness	Pertzepzioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 9e3a75296ec160d4e9066e4c854c62a2	Name: CraftingKnowledgeBook	Name: CraftingKnowledgeBook
-#_localizedContent:	This book contains the blueprint for something called a "Blip", as well as very detailed instructions on how to read and use blueprints in general.||||Memorizing the contents of this book will allow you to learn and use new crafting recipes, and give you the understanding necessary to be able to deconstruct items into salvagable and reusable parts.	Este libro contiene algo llamado "Blip", así como instrucciones detalladas de como usar y leer esquemas en general.||||Memorizar el contenido de este libro te permitirá aprender nuevas recetas de fabricación y darte la comprensión necesaria para ser capaz de desmantelar objetos y reutilizar sus piezas.
-#_localizedName:	Crafting Knowledge	Conocimientos de fabricación
+#_localizedContent:	This book contains the blueprint for something called a "Blip", as well as very detailed instructions on how to read and use blueprints in general.||||Memorizing the contents of this book will allow you to learn and use new crafting recipes, and give you the understanding necessary to be able to deconstruct items into salvagable and reusable parts.	Liburu honek "Blip" izeneko zerbait dauka, baita eskemak erabiltzeko eta irakurtzeko jarraibide zehatzak ere.||||Liburu honen edukia memorizatzeak aukera emango dizu fabrikazio-errezeta berriak ikasteko, objektuak desegiteko eta piezak berrerabiltzeko gai izateko behar duzun ulermena izateko.
+#_localizedName:	Crafting Knowledge	Fabrikazio-ezagutzak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8fed074407fe6254fbc240dd6acb6bdf	Name: Mine19_ExperimentSummary	Name: Mine19_ExperimentSummary
-#_localizedContent:	We put one of the rats in the tube. ||After exposing it to small amounts of refined ore it got highly agitated.||||We increased exposure, and started to see visible mutations. The fur began to fall off, and at even higher values the skin started to peel.||||A later dissection showed that the inner organs had combined into a single clump of flesh, which continued to pulsate for several hours even after removal from the rats body.||||Further experiments with even higher exposure should be conducted with utmost care.	Hemos puesto una de las ratas en el tubo. ||Tras exponerla a pequeñas dosis del refinado comenzó a agitarse.||||Hemos incrementado la exposición y observado visibles mutaciones. El pelaje ha comenzado a caerse e incluso en valores más altos la piel ha comenzado a desprenderse.||||Una disección demuestra que los órganos internos han sido combinados en un único grupo de carne que siguió latiendo durante varias horas incluso tras separarse del cuerpo de la rata.||||Experimentos adicionales con exposiciones más altas deben ser llevadas a cabo con el más estricto cuidado.
-#_localizedName:	Experiments	Experimentos
+#_localizedContent:	We put one of the rats in the tube. ||After exposing it to small amounts of refined ore it got highly agitated.||||We increased exposure, and started to see visible mutations. The fur began to fall off, and at even higher values the skin started to peel.||||A later dissection showed that the inner organs had combined into a single clump of flesh, which continued to pulsate for several hours even after removal from the rats body.||||Further experiments with even higher exposure should be conducted with utmost care.	Arratoietako bat hodian jarri dugu.||Finduaren* dosi txikietan jarri ondoren, astintzen hasi zen. * (refinado).||||Areagotu egin dugu esposizioa eta ageriko mutazioak ikusi ditugu. Ilajea erortzen hasi zaie, eta balio altuagoetan azala askatzen hasi da.||||Disekzio batek erakusten du barne-organoak haragi-talde bakar batean konbinatu direla, eta arratoiaren gorputzetik banandu ondoren zenbait orduz taupadaka jarraitu zuen.||||Esposizio handienekin egindako esperimentu gehigarriak kontu handiz egin behar dira.
+#_localizedName:	Experiments	Esperimentuak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 212fd6917de47af4cbb3c391d62bb620	Name: Mine19_Note1	Name: Mine19_Note1
