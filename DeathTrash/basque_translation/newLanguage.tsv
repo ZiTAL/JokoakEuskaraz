@@ -5099,54 +5099,55 @@ ASSET 93f12003b3ac8194e9e58008d9771e2b	Name: ButchersDen_Note3	Name: ButchersDen
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8028acc4774fa8c4283dffe9aad33f42	Name: ButchersDen_Note4	Name: ButchersDen_Note4
-#_localizedContent:	The flesh is calling. And I have it.||||This last piece is mine. Mine.||||They argued that it's dangerous.||||They said I should give it away.||They would destroy it. Make me feel good again.||||But they are wrong. I feel good.||This is mine, and they will not get it.||||I will protect it.	La carne me llama. Debo obtenerla.||||Este último trozo es mío. Mío.||||Me dijeron que era peligro.||||Dijeron que debía tirarla.||Iban a destruirla, para hacerme sentir bien de nuevo.||||Pero estaban equivocados. Me siento estupendamente.||Es mía y no me la quitarán.||||La protegeré.
-#_localizedName:	Finally	Finalmente
+#_localizedContent:	The flesh is calling. And I have it.||||This last piece is mine. Mine.||||They argued that it's dangerous.||||They said I should give it away.||They would destroy it. Make me feel good again.||||But they are wrong. I feel good.||This is mine, and they will not get it.||||I will protect it.	Haragiak deitzen dit. Lortu behar dut.||||Azken zati hau nirea da. Nirea!||||Arriskutsua zela esan zidaten.||||Bota egin behar nuela esan zuten.||Suntsitu behar zuten, ni berriz ondo sentiarazteko.||||Baina oker zeuden. Primeran sentitzen naiz.||Nirea da, eta ez didate kenduko.||||Babestuko dut.
+#_localizedName:	Finally	Azkenean
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 93b2306a0fd900d48bdbbed7881bb341	Name: ReadableGroupButchersDen	Name: ReadableGroupButchersDen
-#_displayName:	Butcher's Den	Guarida del carnicero
+#_displayName:	Butcher's Den	Harakinaren gordelekua
 ------------------------------------------		
 ASSET c2e5ed81099d9d54180fad00a614645e	Name: GodhuntersPrayer	Name: GodhuntersPrayer
-#_localizedContent:	Kill the Titans.||Eat their flesh.||||Stop the machines.||Turn off their god.||||Shoot those above you.||Remove them from sight.||||Fuck them all and kill the rest.	Acabar con los Titanes.||Comer su carne.||||Detener a las máquinas.||Apagar a su Dios.||||Disparar a aquellos por encima de ti.||Eliminarlos de tu vista.||||Que les follen a todos y acaba con el resto.
-#_localizedName:	Prayer	Oración
+#_localizedContent:	Kill the Titans.||Eat their flesh.||||Stop the machines.||Turn off their god.||||Shoot those above you.||Remove them from sight.||||Fuck them all and kill the rest.	Titanak erahil.||Bere haragia jan.||||Makinak gelditu.||Bere Jainkoa itzali.||||Horiei tiro egin zuen gainetik. ||Kendu zure paretik.||||Popatik hartzera denak, geratzen direnak akatu.
+#_localizedName:	Prayer	Otoitza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 2f656d44dcf7e194a95cb09a0de48844	Name: HeartOfLove	Name: HeartOfLove
-#_localizedContent:	Your heart. The taste, the smell of flesh rotting away.||||Carving it out was a torture. But you submitted, screams of joy filling our home. And in endless beauty you are now free from all mortal vains and pains, my love.||	Tu corazón. El sabor, el olor de la carne pudriéndose.||||Cortarla fue una tortura. Pero te rendiste, gritos de alegría llenaron tu hogar. Y la interminable belleza te hace libre de las ataduras y las penas mortales, amor mío.||
-#_localizedName:	Heart Of Love	Corazón de amor
+#_localizedContent:	Your heart. The taste, the smell of flesh rotting away.||||Carving it out was a torture. But you submitted, screams of joy filling our home. And in endless beauty you are now free from all mortal vains and pains, my love.||	Zure bihotza. Zaporea, haragiaren ustel usaia. ||||Moztea tortura hutsa izan zen. Baina amore eman zenuen, pozezko oihuek bete zuten zure etxea. Eta edertasun amaigabeak lotura eta atsekabe hilgarrietatik askatzen zaitu, maitea.||
+#_localizedName:	Heart Of Love	Maitasun-bihotza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET efa6a67caaf23de46ba6e35060662d10	Name: LuridDreams	Name: LuridDreams
-#_localizedContent:	Swimming through the dreams.||||Surfacing. Recognizing. Realizing.||||Put down the tools on the bank, and begin carving.||||All for science and ascension.	Navegando entre sueños.||||Despertando. Reconociendo. Entendiendo.||||Deja las herramientas en el banco y comienza a tallar.||||Por la ciencia y la ascensión.
-#_localizedName:	Lurid Dreams	Sueños misteriosos
+#_localizedContent:	Swimming through the dreams.||||Surfacing. Recognizing. Realizing.||||Put down the tools on the bank, and begin carving.||||All for science and ascension.	Ametsen artean nabigatzen. ||||Esnatzen. Ezagutzen. Ulertzen. ||||Tresnak bankuan utzi eta lanean hasi da.||||Zientziaren eta gorentasunaren alde.
+#_localizedName:	Lurid Dreams	Amets misteriotsuak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3b357ed6f26893042b8515690ff82e33	Name: ReadableGroupGeneral	Name: ReadableGroupGeneral
-#_displayName:	General	General
+#_displayName:	General	Orokorra
 ------------------------------------------		
 ASSET ef088ab846cff2e4abbdec12190ab5b8	Name: GodhuntersDungeon_Deserters	Name: GodhuntersDungeon_Deserters
-#_localizedContent:	Some of you may have heard the rumours that some time ago one of our members deserted to start a career as a priest in New Delphi.||||This is not true.||||We are the strongest.||||Nobody can or will ever desert from us.||||And if they do, their death is imminent.||||So don't even think about running away!||||FUCK GOD AND THE REST!	Algunos de vosotros habréis oído los rumores de la deserción de uno de nuestros miembros que se ha convertido en un sacerdote en Nueva Delphi.||||Eso no es verdad.||||Somos los más fuertes.||||Nadie puede o nos abandonará jamás.||||Incluso si lo hacen, su muerte será inminente.||||¡Ni siquiera penséis en huir!||||¡QUE LE FOLLEN A DIOS Y A TODOS LO DEMÁS!
+#_localizedContent:	Some of you may have heard the rumours that some time ago one of our members deserted to start a career as a priest in New Delphi.||||This is not true.||||We are the strongest.||||Nobody can or will ever desert from us.||||And if they do, their death is imminent.||||So don't even think about running away!||||FUCK GOD AND THE REST!	Zuetako batzuek entzungo zenituzten New Delphi-ko apaiz bihurtu den gure kideetako baten desertzioaren zurrumurruak. ||||Hori ez da egia.||||Indartsuenak gara.|||||Inork ezin gaitu inoiz abandonatu. ||||Hala egitenez gero , berehala hilko dira.||||Ezta pentsatu ere ihes egitea!||||JAINKOARI ETA GAINERAKO BESTE GUZTIEK ZURRUPA IEZADATELA!
 #_localizedName:	Deserters	Desertores
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7f3f1b658a6252948bb36b45653c8de8	Name: GodhuntersDungeon_Kitchen	Name: GodhuntersDungeon_Kitchen
-#_localizedContent:	Having a cup of tea at your desk is fine and all. But guys, please put them in the washer when you're finished. This place reeks of dirty dishes.	Tomar una taza de té está bien y todo eso. Pero, chicos, lavadlas cuando hayáis terminado. Este lugar apesta a platos sucios.
-#_localizedName:	Please clean up	Por favor, limpiad
+#_localizedContent:	Having a cup of tea at your desk is fine and all. But guys, please put them in the washer when you're finished. This place reeks of dirty dishes.	Tea hartzea ondo dago. Baina, mutilak, bukatutakoan garbitu. Plater zikinen kiratsa dario leku honek, koipezto halakoak!
+#_localizedName:	Please clean up	Mesedez, garbitu.
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ba575286736e4ac4eac762f2cdaebed4	Name: GodhuntersDungeon_LabReport	Name: GodhuntersDungeon_LabReport
-#_localizedContent:	FT-6 is an incredible improvement on the FT-5 model.||Through the compact hydromagnetic levitators recoil could be reduced by up to 15%, leading to overall higher accuracy.||||The new propulsors have increased the max velocity by 1.5 m/s, and the max distance travelled before a recharge is required has still not been found. The FT-6 has been on the track for several weeks now.||||The only downside of the changes we are currently aware of, is that the cheaper materials used by the chipset production are more sensitive to temperature, leading to early corruption on highly active models.	FT-6 es una mejora increíble del modelo FT-5.||A través de los levitadores hidromagnéticos el retroceso se podría reducir un 15%. lo que mejoraría la puntería.||||Los nuevos propulsores han aumentado la velocidad en 1.5 m/s, y la distancia máxima de viaje antes de que se necesite una recarga todavía no ha sido alcanzada. El FT-6 ha estado en funcionamiento durante varias semanas.||||Lo único malo de los cambios realizados que hemos descubierto es que los materiales usados para la producción de chip son más sensibles a la temperatura lo que conlleva a un mayor desgaste en los modelos más activos.
-#_localizedName:	Report	Informe
+#_localizedContent:	FT-6 is an incredible improvement on the FT-5 model.||Through the compact hydromagnetic levitators recoil could be reduced by up to 15%, leading to overall higher accuracy.||||The new propulsors have increased the max velocity by 1.5 m/s, and the max distance travelled before a recharge is required has still not been found. The FT-6 has been on the track for several weeks now.||||The only downside of the changes we are currently aware of, is that the cheaper materials used by the chipset production are more sensitive to temperature, leading to early corruption on highly active models.	FT-6 FT-5 ereduaren hobekuntza ikaragarria da.||Lebitagailu hidromagnetikoen bidez, atzerakada % 15 murriztu daiteke, eta horrek punteria hobetuko luke.||||
+Propultsatzaile berriek abiadura 1.5 m/s handitu dute, eta birkargatzeko bidaiaren gehiengo distantzia oraindi ez da erdietsi. FT-6 aste luzez martxan egon da .||||Egindako aldaketen artean aurkitu dugun gauza txar bakarra zer da, txipa ekoizteko erabilitako materialak tenperaturarekiko sentikorragoak direla, eta horrek eredu aktiboenetan higadura handiagoa dakar.
+#_localizedName:	Report	Txostena
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 11e232ae5ad404c4794951971c843678	Name: GodhuntersDungeon_MeetingNotes	Name: GodhuntersDungeon_MeetingNotes
-#_localizedContent:	Topics:|| 1)  Review Productivity T1|| 2)  Productivity Targets T2|| 3)  Review Spendings T1|| 4)  Decide Budget T2|| 5)  Estimate Budget T3|| 6)  Vote On Planning Comittee for Office Party	Temas:|| 1)  Revisar Productividad T1|| 2)  Objetivos Productivos T2|| 3)  Revisar Gastos T1|| 4)  Decidir Presupuesto T2|| 5)  Estimar Presupuesto T3|| 6)  Votar Comité para la fiesta de la oficina
-#_localizedName:	Meeting Agenda	Agenda de la reunión
+#_localizedContent:	Topics:|| 1)  Review Productivity T1|| 2)  Productivity Targets T2|| 3)  Review Spendings T1|| 4)  Decide Budget T2|| 5)  Estimate Budget T3|| 6)  Vote On Planning Comittee for Office Party	Gaiak:|| 1) Produktibitatea berrikustea T1|| 2) Ekoizpen Helburuak T2|| 3) Gastuak berrikustea T1|| 4) Aurrekontua erabaki T2|| 5) Aurrekontua kalkulatu T3|| 6) Bozkatu bulegoko jaialdirako komitea
+#_localizedName:	Meeting Agenda	Bilera-agenda
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 14d6b54994d1bed4993a27f40d1bec96	Name: GodhuntersDungeon_Nervous	Name: GodhuntersDungeon_Nervous
-#_localizedContent:	Look, we know it's your first time presenting. And yes, some of the guys coming are high ranking. But we've all been there. It's not as bad as you think.||||I remember the first time they sent me. I Almost pissed my pants. My mind completely blanked. To be honest, I don't really remember what I said. I think I just went through the list of features, showed off the bot moving and that was it. Over. And that was apparently good enough.||||Here's an idea: Once it's done come over. I got a nice bottle lying around, and the best drink is a shared one.	Mira, sabemos que es tu primera vez presentando. Y, sí, algunos de los tipos serán importantes. Pero todos hemos estado ahí. No es tan malo como crees.||||Recuerdo la primera vez que me enviaron. Casi me meo en los pantalones. Mi mente estaba completamente en blanco. Para ser sincero, no recuerdo nada de lo que dije. Creo que tan solo repase la lista de características, mostré cómo se movía el robot y ya está. Acabado. Y al parecer fue lo bastante bueno.||||Aquí tienes un consejo: una vez acabes tengo una botella esperando y la bebida sabe mejor si la compartes.
-#_localizedName:	Don't be nervous	No estés nervioso
+#_localizedContent:	Look, we know it's your first time presenting. And yes, some of the guys coming are high ranking. But we've all been there. It's not as bad as you think.||||I remember the first time they sent me. I Almost pissed my pants. My mind completely blanked. To be honest, I don't really remember what I said. I think I just went through the list of features, showed off the bot moving and that was it. Over. And that was apparently good enough.||||Here's an idea: Once it's done come over. I got a nice bottle lying around, and the best drink is a shared one.	Badakigu lehen aldiz aurkezten duzula.Eta, bai, tipo batzuk garrantzitsuak izango dira.Baina denok egon gara hor.Ez da zuk uste bezain txarra.||||Gogoan dut bidali ninduten lehen aldia. Ia soinean pixa egin nuen. Burua erabat hutsik neukan. Egia esateko, ez dut esandako ezer gogoratzen. Ezaugarrien zerrenda berrikusi, robota nola mugitzen zen erakutsi eta kito. Amaituta. Eta, dirudienez, nahiko ona izan zen.||||Hemen aholkua: amaitutakoan botila bat daukat zain eta edariak zapore hobea izaten dute partekatuz gero.
+#_localizedName:	Don't be nervous	Ez urduritu
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5369d73ea7cfce945ac7005d53d5b446	Name: GodhuntersDungeon_OverseersThoughts	Name: GodhuntersDungeon_OverseersThoughts
