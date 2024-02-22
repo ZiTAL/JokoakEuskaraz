@@ -4698,20 +4698,20 @@ ASSET bb5affd21fe9c084e900d57036c7210c	Name: LightCombatVest	Name: LightCombatVe
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 97e9101148dee2549869d3393c738ce6	Name: Metal Armor	Name: Metal Armor
-#_localizedName:	Metal Armor	Armadura de metal
+#_localizedName:	Metal Armor	Metalezko armadura
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 87e365b17a27b9e489a490ac6d7a14b8	Name: FleshfaceSkull	Name: FleshfaceSkull
-#_localizedName:	Fleshface	Caracarne
+#_localizedName:	Fleshface	Haragi-aurpegi
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 051e43740e2f89849b92c960c390075f	Name: Puke	Name: Puke
-#_localizedName:	Puke	Vómito
-#_localizedDescription:	Warm and moist.	Cálido y húmedo.
+#_localizedName:	Puke	Oka
+#_localizedDescription:	Warm and moist.	Beroa eta hezea..
 ------------------------------------------		
 ASSET 36baae21bc6a62c47845b9a96799e1bc	Name: UsableParts	Name: UsableParts
-#_localizedName:	Usable Parts	Partes inutilizables
-#_localizedDescription:	Can be deconstructed to yield resources.	Se puede desmantelar para obtener recursos.
+#_localizedName:	Usable Parts	Zati erabilezinak
+#_localizedDescription:	Can be deconstructed to yield resources.	Desegin daiteke baliabideak lortzeko.
 ------------------------------------------		
 ASSET 8fa67dc78455bea4297af695b5b4f953	Name: ImplantFireCircle	Name: ImplantFireCircle
 #_localizedName:		
@@ -4770,15 +4770,15 @@ ASSET 6e3c4f04378a705499b008fa1d78578e	Name: ImplantMindfuck	Name: ImplantMindfu
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ba3b4505d627e2948b5a51c6d5754fe9	Name: MainBrainImplant	Name: MainBrainImplant
-#_localizedName:	Unknown Brain Implant	Implante cerebral desconocido
-#_localizedDescription:	This belongs to you now.	Ahora te pertenece
+#_localizedName:	Unknown Brain Implant	Garuneko inplante ezezaguna
+#_localizedDescription:	This belongs to you now.	Orain zurea da
 ------------------------------------------		
 ASSET 5c7cb9b801b4a404994a061b6560c186	Name: ImplantStealth	Name: ImplantStealth
 #_localizedName:		
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d17edefdacbd17b4fbbf7f2d853c5ab1	Name: ImplantSuperiorFitness	Name: ImplantSuperiorFitness
-#_localizedName:	Superior Fitness	Físico superior
+#_localizedName:	Superior Fitness	Goi-mailako fisikoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 650fa1db953ce824caecb90e79908370	Name: DebugMeleeEnhancementTest	Name: DebugMeleeEnhancementTest
@@ -4794,11 +4794,11 @@ ASSET e5823fca015c1b84e8c31a464e11af9c	Name: MeleeEnhancementSharp	Name: MeleeEn
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 237c986c64914a94181080ffe6247360	Name: CyanKey	Name: CyanKey
-#_localizedName:	Cyan Key	Llave cyan
+#_localizedName:	Cyan Key	Cyan giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 0c89f3a200c9ebc4f87d4a801d8ebbf5	Name: Deconstructor Access Code	Name: Deconstructor Access Code
-#_localizedName:	Deconstructor Access Code	Código de Acceso de Desmantelador
+#_localizedName:	Deconstructor Access Code	Deusestatzailearen sarrera kodea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET db8204b4bbafc2140a789ff004cfb956	Name: GeneralKey	Name: GeneralKey
