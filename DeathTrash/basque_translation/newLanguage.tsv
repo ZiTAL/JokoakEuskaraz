@@ -4902,11 +4902,11 @@ ASSET d20230aec53a5504fb23e52fea7b1fc6	Name: Obstinatism	Name: Obstinatism
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7729a7c07f277b24aa38d29ed8a214ae	Name: Pacifism	Name: Pacifism
-#_localizedName:	Pacifism	Pacifismo
+#_localizedName:	Pacifism	Bakezalea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 65fe5036c963e374fa026c4e25d4d95a	Name: Veganism	Name: Veganism
-#_localizedName:	Veganism	Vegano
+#_localizedName:	Veganism	Beganoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 711f61d51fd459447bbaa0e7ae0424a0	Name: EmotionAnger	Name: EmotionAnger
@@ -4918,15 +4918,15 @@ ASSET 1fbf4de331efc6d488722e77229aaf95	Name: EmotionLove	Name: EmotionLove
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ca118b467ec4c4346b2a65fec8c8abad	Name: EmotionSolitude	Name: EmotionSolitude
-#_localizedName:	Solitude	Soledad
-#_localizedDescription:	Alone. There is no one here. Emptiness. Peace. Sadness.	Solo. No hay nadie aquí. Vacío, paz, tristeza.
+#_localizedName:	Solitude	Bakardadea
+#_localizedDescription:	Alone. There is no one here. Emptiness. Peace. Sadness.	Bakarrik. Hemen ez dago inor. Hutsa, bakea, tristura.
 ------------------------------------------		
 ASSET 8cedb2fac2346314db95159b5484c5f1	Name: MemoryNakedMan	Name: MemoryNakedMan
-#_localizedName:	Naked Man	Hombre desnudo
-#_localizedDescription:	This image is forever yours.	Esta imagen es tuya para siempre.
+#_localizedName:	Naked Man	Gizon biluzia
+#_localizedDescription:	This image is forever yours.	Irudi hau zurea izango da betirako.
 ------------------------------------------		
 ASSET 18277510988fee041bb14e758b35649f	Name: KnowledgeHealth	Name: KnowledgeHealth
-#_localizedName:	Health	Salud
+#_localizedName:	Health	Osasuna
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 29d8c9ba6ed2cff458e8a33080432dee	Name: KnowledgeScientific	Name: KnowledgeScientific
@@ -4934,28 +4934,28 @@ ASSET 29d8c9ba6ed2cff458e8a33080432dee	Name: KnowledgeScientific	Name: Knowledge
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 929b84cfbc5339b47a60707e184235e7	Name: KnowledgeSocial	Name: KnowledgeSocial
-#_localizedName:	Social	Social
+#_localizedName:	Social	Soziala
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d4a416bfbbb6ea04d91cb6d4b140c6f3	Name: MemoryFleshkrakenKill	Name: MemoryFleshkrakenKill
-#_localizedName:	Fleshkraken's Last Thoughts	Los últimos pensamientos del kraken de carne
-#_localizedDescription:	BETRAYAL. MISTRUST. DISAPPOINTMENT	TRAICIÓN. DESCONFIANZA. DECEPCIÓN
+#_localizedName:	Fleshkraken's Last Thoughts	Haragi-krakenaren azken pentsamenduak
+#_localizedDescription:	BETRAYAL. MISTRUST. DISAPPOINTMENT	TRAIZIOA. MESFIDANTZA. ETSIPENA
 ------------------------------------------		
 ASSET d22da6ee79dad8647ac2c0d4702c139b	Name: MemoryMetBleedingHeadOracle	Name: MemoryMetBleedingHeadOracle
-#_localizedName:	Bleeding Head Oracle	Cabeza sangrante del Oráculo
-#_localizedDescription:	Amidst a pool of blood, everflowing, rests a curious mind.	Entre un charco de sangre, que fluye continuamente, descansa una mente curiosa.
+#_localizedName:	Bleeding Head Oracle	Orakulua-ren buru odoltsua
+#_localizedDescription:	Amidst a pool of blood, everflowing, rests a curious mind.	Etengabe jariatzen den odol-putzu baten erdian, buru bitxi batek atseden hartzen du.
 ------------------------------------------		
 ASSET 2edfb068bc2b24e48a63b0d33d63e033	Name: MemoryMetFeeder	Name: MemoryMetFeeder
-#_localizedName:	Feeder	Comedor
+#_localizedName:	Feeder	Jantoki
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6380169341c41334fad236097ca20b6a	Name: MemoryMetFleshkraken	Name: MemoryMetFleshkraken
-#_localizedName:	Fleshkraken	Kraken de carne
-#_localizedDescription:	FRIENDSHIP. SOCIETY. AMUSEMENT.	AMISTAD. SOCIEDAD. DIVERSIÓN.
+#_localizedName:	Fleshkraken	Haragi-krakena
+#_localizedDescription:	FRIENDSHIP. SOCIETY. AMUSEMENT.	ADISKIDETASUNA. GIZARTEA. DIBERTSIOA.
 ------------------------------------------		
 ASSET 4e8c431cf335274418ba106463cd91c8	Name: MemoryMetQueen	Name: MemoryMetQueen
-#_localizedName:	Queen	Reina
-#_localizedDescription:	Enlightened Queen Margas, Guardian of the Netherrealm, Protector of Shebzu, Trinity Mistress of Fornication.	Reina iluminada Margas, guardiana del Netherrealm, protectora de Shebzu y trinidad amante de la fornicación.
+#_localizedName:	Queen	Erregina
+#_localizedDescription:	Enlightened Queen Margas, Guardian of the Netherrealm, Protector of Shebzu, Trinity Mistress of Fornication.	Margas erregina argi izakia, Netherrealm-eko zaindaria, Shebzu babesten duena eta hirutasun fornikazioa maite duena.
 ------------------------------------------		
 ASSET 55f9f107df37eeb41aca4fefb0cfd9d4	Name: MemoryMetDesertStranger	Name: MemoryMetDesertStranger
 #_localizedName:		
@@ -4982,7 +4982,7 @@ ASSET 0f1ee76e8a8a51944b4b33b396a4a5fb	Name: ThoughtRare	Name: ThoughtRare
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3841f6ac380abec4fa78501e1c1e3e00	Name: DebugModuleCyberwombTutorial	Name: DebugModuleCyberwombTutorial
-#_localizedName:	Cyberwomb Introduction	Introducción al útero cibernético
+#_localizedName:	Cyberwomb Introduction	Umetoki zibernetikoaren hastapena
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 489cf1b5ef57bc242bb3f2b1e0e4c10b	Name: DebugStandaloneGeneratedWorld	Name: DebugStandaloneGeneratedWorld
@@ -4990,12 +4990,12 @@ ASSET 489cf1b5ef57bc242bb3f2b1e0e4c10b	Name: DebugStandaloneGeneratedWorld	Name:
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 19bb30c9cb4a34c4eba35d9132bd5d75	Name: ModuleCyberwombTutorial	Name: ModuleCyberwombTutorial
-#_localizedName:	Cyberwomb Introduction	Introducción al útero cibernético
+#_localizedName:	Cyberwomb Introduction	Umetoki zibernetikoaren hastapena
 #_localizedDescription:		
 ------------------------------------------		
 ASSET df8e83dee42b885419ebef35a84d4dde	Name: ModuleDreamsOfOld	Name: ModuleDreamsOfOld
-#_localizedName:	Dreams of Old	Sueños de la edad
-#_localizedDescription:	Experience an old prophecy.	Experimenta una vieja profecía.
+#_localizedName:	Dreams of Old	Antzinako ametsak
+#_localizedDescription:	Experience an old prophecy.	Profezia zahar bat esperimentatu.
 ------------------------------------------		
 ASSET 9d95fd80af1601046ba9264f8408e79d	Name: ModuleFleshDreamWorldFirst	Name: ModuleFleshDreamWorldFirst
 #_localizedName:		
