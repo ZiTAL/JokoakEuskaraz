@@ -18,7 +18,7 @@ Language Id:	Basque
 #Start:	Start	Hasi
 #NotEnoughRoomInInventory:	Inventory is full	Inbentarioa beteta dago
 #BreakApart:	Deconstruct	Desegin
-#QuickItemSlot:	Nano Health	Nano Osasuna
+#QuickItemSlot:	Nano Health	Osasun txikia
 #NoAmmo:	No ammo	Munizio gabe
 #NoQuickItemSelected:	No Item selected	Ez dago objekturik hautatuta
 #LevelUp:	Level	Maila
@@ -298,7 +298,7 @@ Language Id:	Basque
 #TutorialEquipItemMouse:	Click the [0]{0}||or drag it|| into the slot	Klikatu [0]{0}||edo eraman|| laukira
 #TutorialEquipItemController:	Equip the [0]{0}	Erabili [0]{0}
 #TutorialHealthPickUpItem:	Pick up [0]{0}	Hartu [0]{0}
-#TutorialHealthUse:	Press {0} to heal yourself||with Nano Health.	Sakatu {0} sendatzeko||nano osasun bat erabiliz.
+#TutorialHealthUse:	Press {0} to heal yourself||with Nano Health.	Sakatu {0} sendatzeko||osasun txiki bat erabiliz.
 #TutorialStealthUse:	Use [0]{0}||by holding {1}||	Erabili [0]{0}||{1} mantenduz||
 #HealthInstant:	Health instantly	Momentuan osatu
 #AllActionsInInventory:	All Actions {0}  Equip / Consume {1}  Close {2} / {3}	Akzio denak {0}  Ekipatu / Kontsumitu {1}  Itxi {2} / {3}
@@ -579,7 +579,7 @@ Language Id:	Basque
 #MemorizeButton:	{0} Memorize	{0} Buruz ikasi
 #PlayerMissingCraftingKnowledge:	Missing crafting knowledge.	Fabrikazio-ezagutza falta da.
 #Book:	Book	Liburua
-#TutorialHealthSelect:	Select Nano Health {0}	Aukeratu osasun Nano-a {0}
+#TutorialHealthSelect:	Select Nano Health {0}	Aukeratu osasun txikia {0}
 #LearnedPerkMessage:	Learned:	Ikasitakoa:
 #EnergyRestored:	Focus Energy restored	Ikuspegi energia berreskuratuta
 #SecondaryAbility:	Mode Ability	Trebetasun-modua
@@ -4558,43 +4558,43 @@ ASSET 54ffdfb5c0486994981529642629575d	Name: ImplantBlock	Name: ImplantBlock
 #_localizedDescription:		
 ------------------------------------------		
 ASSET badc62d8e1f860e4585fcbd1ef37cf61	Name: AcidMug	Name: AcidMug
-#_localizedName:	Acid Mug	Taza de Ácido
+#_localizedName:	Acid Mug	Azidozko katilua
 #_localizedDescription:	Drug	Droga
 ------------------------------------------		
 ASSET a408a359997c4824a95f06323c113123	Name: Booze	Name: Booze
-#_localizedName:	Booze	Alcohol
-#_localizedDescription:	Refreshing and intoxicating.	Refrescante e intoxicante.
+#_localizedName:	Booze	Alkohola
+#_localizedDescription:	Refreshing and intoxicating.	Freskagarria eta intoxikagarria.
 ------------------------------------------		
 ASSET d27ce4e8ee0dbb54cac92b2464f6f55d	Name: FoodRations	Name: FoodRations
-#_localizedName:	Canned Food	Comida enlatada
-#_localizedDescription:	Factory sealed and long lasting. Vegan.	Sellado en fábrica y de gran durabilidad. Vegano.
+#_localizedName:	Canned Food	Janaria latan
+#_localizedDescription:	Factory sealed and long lasting. Fabrikan zigilatuta*, iraunkortasun handikoa. Beganoa. *(sellado)
 ------------------------------------------		
 ASSET 4e9537a20604c694ea9cb18dd674d165	Name: KnowledgeFragmentLarge	Name: KnowledgeFragmentLarge
-#_localizedName:	Knowledge Fountain	Fuente de conocimiento
-#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Sabiduría entrelazada. Pensamientos estructurados y rotos.
+#_localizedName:	Knowledge Fountain	Ezagutza-iturria
+#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Jakinduri gurutzatua. Pentsamendu egituratuak eta apurtuak.
 ------------------------------------------		
 ASSET 23c643cfb233fcf479c718ac53708901	Name: KnowledgeFragmentSmall	Name: KnowledgeFragmentSmall
-#_localizedName:	Knowledge Fragment	Fragmento de conocimiento
-#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Sabiduría entrelazada. Pensamientos estructurados y rotos.
+#_localizedName:	Knowledge Fragment	Ezagutza zatia
+#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Jakinduri gurutzatua. Pentsamendu egituratuak eta apurtuak.
 ------------------------------------------		
 ASSET 3c2e7b173d7364c4084dc2095aeece33	Name: KnowledgeFragmentStandard	Name: KnowledgeFragmentStandard
-#_localizedName:	Knowledge Shard	Cristal de conocimiento
-#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Sabiduría entrelazada. Pensamientos estructurados y rotos.
+#_localizedName:	Knowledge Shard	Ezagutza-kristala
+#_localizedDescription:	Entangled wisdom. Thoughts, structured and broken.	Jakinduri gurutzatua. Pentsamendu egituratuak eta apurtuak.
 ------------------------------------------		
 ASSET e3b1059c7a5e7ba4bb05196f50a89de5	Name: KnowledgeFragmentTiny	Name: KnowledgeFragmentTiny
 #_localizedName:	Memorabilia	Memorabilia
-#_localizedDescription:	A tangible piece of memory.	Una pieza de memoria tangible.
+#_localizedDescription:	A tangible piece of memory.	Memoria ukigarria duen pieza.
 ------------------------------------------		
 ASSET 480cc41122be6d34b820d7e6adbc6ce4	Name: Meat	Name: Meat
-#_localizedName:	Meat	Carne
+#_localizedName:	Meat	Haragia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET cbb29e04f4f1f254290c167a3b7bf45d	Name: NanoHealth	Name: NanoHealth
-#_localizedName:	Nano Health	Nano salud
+#_localizedName:	Nano Health	Osasun txikia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6aa9eba66ee92d84787a2a320743b6b9	Name: Organs	Name: Organs
-#_localizedName:	Organs	Órganos
+#_localizedName:	Organs	Organoak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 1a259294009a434418046224a71da5be	Name: SuperNanoHealth	Name: SuperNanoHealth
