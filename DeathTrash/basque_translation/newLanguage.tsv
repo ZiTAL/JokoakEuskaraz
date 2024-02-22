@@ -4802,99 +4802,99 @@ ASSET 0c89f3a200c9ebc4f87d4a801d8ebbf5	Name: Deconstructor Access Code	Name: Dec
 #_localizedDescription:		
 ------------------------------------------		
 ASSET db8204b4bbafc2140a789ff004cfb956	Name: GeneralKey	Name: GeneralKey
-#_localizedName:	General Key	Llave general
+#_localizedName:	General Key	Giltz Orokorra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 732c6307c477de64aa7ae8335453cb40	Name: KeyAksa	Name: KeyAksa
-#_localizedName:	Aksa's Key	Llave de Aksa
+#_localizedName:	Aksa's Key	Aksa-ko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b113ee917f5367748986bd94b27721df	Name: KeyAksaCyberwomb	Name: KeyAksaCyberwomb
-#_localizedName:	Aksa's Cyberwomb Key	Llave del útero cibernético de Aksa
+#_localizedName:	Aksa's Cyberwomb Key	Aksa-ko utero zibernetikoaren giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 499d1306d2fc9cc4883b07fa673ec1ce	Name: KeyAksaShrine	Name: KeyAksaShrine
-#_localizedName:	Aksa's Shrine Key	Llave de santuario de Aksa
+#_localizedName:	Aksa's Shrine Key	Aksa-ko santutegiko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 0b1fe4e2a759ed744902ae468a9d18a4	Name: LilacKey	Name: LilacKey
-#_localizedName:	Lilac Key	Llave de Lilac
+#_localizedName:	Lilac Key	Lilac-eko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 560d183c4a9b31045be9aaa1fa7e66a3	Name: OracleKey	Name: OracleKey
-#_localizedName:	Oracle Key	Llave de Oráculo
+#_localizedName:	Oracle Key	Orakulu-ko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d36b16ccc5376bd4ea553622f738f917	Name: PrisonCellKey	Name: PrisonCellKey
-#_localizedName:	Prison Cell Key	Llave de prisión
+#_localizedName:	Prison Cell Key	Espetxeko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b7fc4d60f109ced47b643c994d7c75a6	Name: PrisonEntranceKey	Name: PrisonEntranceKey
-#_localizedName:	Key to Godhunters Prison	Llave de la prisión de los Cazadioses
+#_localizedName:	Key to Godhunters Prison	Jainko-Ehiztarien espetxeko giltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 0cb5a9abfe53634489b7c532d80c5b97	Name: PrisonMasterKey	Name: PrisonMasterKey
-#_localizedName:	Prison Master Key	Llave maestra de la prisión
+#_localizedName:	Prison Master Key	Espetxeko giltz nagusia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5f60d0a81350f554d8df8f5241156363	Name: YellowKey	Name: YellowKey
-#_localizedName:	Yellow Key	Llave amarilla
+#_localizedName:	Yellow Key	Giltz horia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8e0c53743550190448145d78871b7955	Name: MachineCore	Name: MachineCore
-#_localizedName:	Machine Core	Núcleo de máquina
-#_localizedDescription:	Complicated circuit board in apparently fine condition. Important piece of a lost civilization.	Una placa de circuitos que parece en buen estado. Una pieza importante de una civilización perdida.
+#_localizedName:	Machine Core	Makinaren nukleoa
+#_localizedDescription:	Complicated circuit board in apparently fine condition. Important piece of a lost civilization.	Egoera onean dagoen zirkuitu-plaka. Zibilizazio galdu baten pieza garrantzitsua.
 ------------------------------------------		
 ASSET 120207258db215347948ff4cae65fbfa	Name: Mainboard	Name: Mainboard
 #_localizedName:		
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 77eb250f1b4daf146a03db55f5374719	Name: Brains	Name: Brains
-#_localizedName:	Brains	Sesos
+#_localizedName:	Brains	Muinak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET a4faf1c728969ec408483d9cfa8e6dfd	Name: Fabric	Name: Fabric
-#_localizedName:	Fabric	Tela
+#_localizedName:	Fabric	Oihala
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 1d468720ab6919546b2da7dde0424d86	Name: Glibber	Name: Glibber
-#_localizedName:	Glibber	Pringue
+#_localizedName:	Glibber	Zikinkeria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f77a2f9de7374b743b2e429517fdba67	Name: HexenFingers	Name: HexenFingers
-#_localizedName:	Hexenfinger	Dedos-hexen
+#_localizedName:	Hexenfinger	Hexen-atzamarra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3737963aca4b49744983a648235c44ed	Name: Mechanics	Name: Mechanics
-#_localizedName:	Mechanics	Mecánica
+#_localizedName:	Mechanics	Mekanika
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 0ad6f2bdd4cb5e849aed9ce142d2f574	Name: Med Ingredients	Name: Med Ingredients
-#_localizedName:	Med Ingredients	Ingredientes de medicina
+#_localizedName:	Med Ingredients	Medikuntza osagaiak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET fe8923c40c889da469547f940bdbacee	Name: Metal	Name: Metal
-#_localizedName:	Metal	Metal
+#_localizedName:	Metal	Metala
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c18a84d2c7186da4db20f5db2892e7cf	Name: Paper	Name: Paper
-#_localizedName:	Notes	Notas
+#_localizedName:	Notes	Oharrak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET dce0acfd00622e144bd675095c274a27	Name: Trash	Name: Trash
-#_localizedName:	Trash	Basura
+#_localizedName:	Trash	Zaborra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET fffea155e01074d468f867ac10ff3dc0	Name: WonderShroom	Name: WonderShroom
-#_localizedName:	Wonder Shroom	Hongo Maravilla
+#_localizedName:	Wonder Shroom	Onddo Miragarria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 58eac6987b20a4745aa4df5397c390be	Name: Wood	Name: Wood
-#_localizedName:	Wood	Madera
+#_localizedName:	Wood	Egurra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 872da45d2cff86d40b3f1007e123d664	Name: Immobility	Name: Immobility
-#_localizedName:	Immobility	Inmovilizado
+#_localizedName:	Immobility	Geldiarazita
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d20230aec53a5504fb23e52fea7b1fc6	Name: Obstinatism	Name: Obstinatism
