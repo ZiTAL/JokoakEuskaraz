@@ -5002,100 +5002,100 @@ ASSET 9d95fd80af1601046ba9264f8408e79d	Name: ModuleFleshDreamWorldFirst	Name: Mo
 #_localizedDescription:		
 ------------------------------------------		
 ASSET dcf09884822ed5e41a285a4b3146a0ed	Name: ModuleHideout	Name: ModuleHideout
-#_localizedName:	Dreams of Old	Sueños de la edad
-#_localizedDescription:	Experience an old prophecy.	Experimenta una vieja profecía.
+#_localizedName:	Dreams of Old	Antzinako ametsak
+#_localizedDescription:	Experience an old prophecy.	Profezia zahar bat esperimentatu.
 ------------------------------------------		
 ASSET e33381813ef528b4fa6b3f02e2ac6af0	Name: ModuleOldTrees	Name: ModuleOldTrees
-#_localizedName:	Old Trees Cyberwomb	Útero cibernético de los Viejos Árboles
+#_localizedName:	Old Trees Cyberwomb	Zuhaitz Zaharren umetoki zibernetikoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 325e16333abacbb4daee86e8c52f8ed1	Name: ModulePhilosopherDeath	Name: ModulePhilosopherDeath
-#_localizedName:	Fragments Of The Philosopher	Fragmentos del Filósofo
+#_localizedName:	Fragments Of The Philosopher	Filosofoaren zatiak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET fbb458937e945fc45a01703ad26c63a0	Name: ModuleSnowland	Name: ModuleSnowland
-#_localizedName:	Snowland	Nevado
-#_localizedDescription:	Experience frost and grudges.	Experimenta la escarcha y el rencor.
+#_localizedName:	Snowland	Elurtea
+#_localizedDescription:	Experience frost and grudges.	Experimenta la escarcha y el rencor. Hotza eta gorrotoa sentitu. 
 ------------------------------------------		
 ASSET 88f0408e9f657f548a5568f6e0f572b1	Name: ModuleVirtualArena	Name: ModuleVirtualArena
-#_localizedName:	Virtual Combat Exercise	Ejercicio de combate virtual
-#_localizedDescription:	Test your combat prowess in a small arena.	Demuestra tu habilidad de combate en una pequeña arena.
+#_localizedName:	Virtual Combat Exercise	Borroka birtualeko ariketa
+#_localizedDescription:	Test your combat prowess in a small arena.	Erakutsi zure borrokarako trebetasuna.
 ------------------------------------------		
 ASSET fe6b64adbb84b89459d705500dff94e4	Name: ReturnToRealWorld	Name: ReturnToRealWorld
 #_localizedName:		
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 06a9c954f9574a1429acf66c16e4547f	Name: Fleshworm	Name: Fleshworm
-#_localizedName:	Fleshworm	Gusano de carne
+#_localizedName:	Fleshworm	Haragi-zizarea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 12e7523511fc1bb469663545c46a874e	Name: BlindMansEyes	Name: BlindMansEyes
-#_localizedName:	Eyes	Ojos
+#_localizedName:	Eyes	Begiak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 54673bdd073d8fb42970e5e339d02d48	Name: ButchersCut	Name: ButchersCut
-#_localizedName:	Butcher's Cut	Corte del Carnicero
+#_localizedName:	Butcher's Cut	Harakinaren mozketa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 00da8337a13c93640b200b66764ebd08	Name: Insignia	Name: Insignia
-#_localizedName:	Insignia	Insignia
+#_localizedName:	Insignia	Intsignia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bd90fa03f831c514d89ba2783d8d8346	Name: MedicalScanner	Name: MedicalScanner
-#_localizedName:	Medical Scanner	Escáner Médico
+#_localizedName:	Medical Scanner	Eskaner Medikoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET a06fa24aa30689849b76ebbef304ba38	Name: OctagonFluid	Name: OctagonFluid
-#_localizedName:	Octagon Fluid	Fluido Octagonal
+#_localizedName:	Octagon Fluid	Jariakor* Oktagonala *(fluido)
 #_localizedDescription:		
 ------------------------------------------		
 ASSET a2f9e93aff0c2684ebdfc767a36e1c9f	Name: PhilosopherDeathRecording	Name: PhilosopherDeathRecording
-#_localizedName:	Philosopher Death Recording	Grabación de muerte del Filósofo
+#_localizedName:	Philosopher Death Recording	Filosofoaren heriotza-grabazioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8d7669a2999f9944b98f628b3fdd6615	Name: PoisonFromDoctor	Name: PoisonFromDoctor
-#_localizedName:	Poison from Doctor	Veneno del Doctor
+#_localizedName:	Poison from Doctor	Doktorearen pozoia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 242fbea2e7a403e4cb4273f3f37239c1	Name: SeedlingOfTheTitan	Name: SeedlingOfTheTitan
-#_localizedName:	Seedling Of The Titan	"Semilla" del Titán
-#_localizedDescription:	A small fleshworm, which was living inside a titans heart.	Un pequeño gusano de carne estaba viviendo en el interior del corazón del Titán.
+#_localizedName:	Seedling Of The Titan	Titan-aren "hazia"
+#_localizedDescription:	A small fleshworm, which was living inside a titans heart.	Titan-aren bihotzean Haragi-zizare txiki bat zegoen bizitzen.
 ------------------------------------------		
 ASSET 46e3f9e29e42b0b4794edab893ed6fae	Name: SigilOfTheGuts	Name: SigilOfTheGuts
-#_localizedName:	Sigil Of The Guts	Emblema de las tripas
-#_localizedDescription:	A sigil made by the priest of the guts.	Un emblema hecho por el sacerdote de las tripas.
+#_localizedName:	Sigil Of The Guts	Tripen ikurra
+#_localizedDescription:	A sigil made by the priest of the guts.	Tripetako apaizak egindako ikurra.
 ------------------------------------------		
 ASSET 1c7aa5b2a255a5c45a2f7d1d53a103f1	Name: SigilOfTheHead	Name: SigilOfTheHead
-#_localizedName:	Sigil Of The Head	Emblema de la cabeza
-#_localizedDescription:	A sigil made by the priest of the head.	Un emblema hecho por el sacerdote de la cabeza.
+#_localizedName:	Sigil Of The Head	Buruaren ikurra
+#_localizedDescription:	A sigil made by the priest of the head.	Buruko apaizak egindako ikurra.
 ------------------------------------------		
 ASSET a08a58ea597a8474b94da594f076a7d3	Name: SigilOfTheHeart	Name: SigilOfTheHeart
-#_localizedName:	Sigil Of The Heart	Emblema del corazón
-#_localizedDescription:	A sigil made by the priest of the heart.	Un emblema hecho por el sacerdote del corazón.
+#_localizedName:	Sigil Of The Heart	Bihotzaren Ikurra
+#_localizedDescription:	A sigil made by the priest of the heart.	Bihotzeko apaizak egindako ikurra.
 ------------------------------------------		
 ASSET 3597279e09ac3a6438619cb60f379320	Name: ButchersDen_ButchersWorries	Name: ButchersDen_ButchersWorries
-#_localizedContent:	They keep coming and asking for more. But the flesh is only growing so fast. I don't know what to do.||||I told them it doesn't work how they think it does. But they keep on trying. Something about achieving full power - Idiots.||||When they look away, I'll run. I got my secret exit and hideout they don't know about.	Siguen viniendo y pidiendo más. Pero la carne no crece tan deprisa. No sé qué hacer.||||Les dije que no funcionaba como ellos pensaban. Pero siguen intentándolo. Dicen algo de alcanzar un poder completo - Idiotas.||||Cuando miren a otro lado huiré. Tengo mi salida secreta y un escondite que no conocen.
-#_localizedName:	Butcher's Diary	Diario del carnicero
+#_localizedContent:	They keep coming and asking for more. But the flesh is only growing so fast. I don't know what to do.||||I told them it doesn't work how they think it does. But they keep on trying. Something about achieving full power - Idiots.||||When they look away, I'll run. I got my secret exit and hideout they don't know about.	Etortzen jarraitzen dute, eta gehiago eskatzen dute. Baina haragia ez da hain azkar hazten. Ez dakit zer egin. |||| Esan nien ez zuela beraiek uste bezala funtzionatzen. Baina saiatzen jarraitzen dute. Botere ahalguztiduna lortzeaz ari dira - Tontolapikoa halakoak.|||||Espero ez dutenean ihes egingo dut. Nire irteera sekretua eta ezagutzen ez duten ezkutalekua ditut.
+#_localizedName:	Butcher's Diary	Harakinaren egunerokoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET efc77933193cb9a4d8ecd95bc34fe1af	Name: ButchersDen_GuardOrders	Name: ButchersDen_GuardOrders
-#_localizedContent:	PROTECT THE HOUSE!!!||||Don't let anybody enter!!!||||Once we succeed here, we are one step closer to true freedom!!!||||FUCK GOD AND THE REST!||||And please, don't mess around with the beds too much.	¡¡¡PROTEGER LA CASA!!!||||¡¡¡No dejar que entre nadie!!!||||¡¡¡Una vez tengamos éxito estaremos a un paso más de la libertad!!!||||¡¡¡QUE LE FOLLEN A DIOS Y A TODOS ESOS!!!||||Y, por favor, no destrocéis las camas demasiado.
-#_localizedName:	Orders	Órdenes
+#_localizedContent:	PROTECT THE HOUSE!!!||||Don't let anybody enter!!!||||Once we succeed here, we are one step closer to true freedom!!!||||FUCK GOD AND THE REST!||||And please, don't mess around with the beds too much.	ETXEAK BABESTU!!!||| Ez utzi inori sartzen!!!|||Behin irabazita, askatasunetik gertu egongo gara!!!|||JOAN DAITEZELA JAINKOA ETA BESTE HORIEK GUZTIAK POPATIK HARTZERA!!!||||Eta, mesedez, ez itzazue oheak gehiegi txikitu.
+#_localizedName:	Orders	Aginduak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c941ed50dad893c4c89902461225abd1	Name: ButchersDen_Note1	Name: ButchersDen_Note1
-#_localizedContent:	So. Much. Flesh.||||To think that he told us he would run out soon. Ridiculous. ||There is so much.||||I tried a little bit yesterday. It tastes just like the usual, even if it looks different. ||But last night I had a marvellous dream. If only I could remember it.	Hay. Demasiada. Carne.||||Y pensar que nos había dicho que se nos acabaría pronto. Ridículo. ||Hay demasiada.||||Probé un poco ayer. Sabe como siempre, aunque tiene un aspecto un poco diferente. ||Anoche tuve un sueño maravilloso. Ojalá pudiese recordarlo.
-#_localizedName:	Flesh	Carne
+#_localizedContent:	So. Much. Flesh.||||To think that he told us he would run out soon. Ridiculous. ||There is so much.||||I tried a little bit yesterday. It tastes just like the usual, even if it looks different. ||But last night I had a marvellous dream. If only I could remember it.	Ba... Gehiegi. Haragia.||||Eta laster amaituko zitzaigula esan zigula pentsatzea... Barregarria benetan.||Gehiegi dago.|||||Atzo pixka bat probatu nuen. Betiko zaporea dauka, baina itxura desberdina du.||Bart amets zoragarria izan nuen. Gogoratuko banu...
+#_localizedName:	Flesh	Haragia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ef4c412654dc5ba4299db4faab6b80a8	Name: ButchersDen_Note2	Name: ButchersDen_Note2
-#_localizedContent:	They were searching for the biggest meat eaters among us. Sadly I haven't been selected.||||They are now sitting in one of the rooms, eating nothing but the flesh from around us, day and night.||||I heard that they stopped sleeping. New flesh is transported into their room constantly.||||Why couldn't I be one of them? I want more flesh! Maybe, when the others aren't looking I can grab some? I'm sure they won't notice if some of it goes missing.	Buscaban a los mayores comedores de carne entre nosotros. Desafortunadamente no fue elegido.||||Ahora están sentados en una de las habitaciones comiendo nada más que la carne que nos rodea, día y noche.||||He oído que incluso han dejado de dormir. La nueva carne les transporta a la habitación constantemente.||||¿Por qué no me ha tocado a mi? ¡Quiero más carne! ¿Quizás cuando los demás no miren pueda coger un poco? Seguramente no se den cuenta de que falta.
-#_localizedName:	Eating	Comiendo
+#_localizedContent:	They were searching for the biggest meat eaters among us. Sadly I haven't been selected.||||They are now sitting in one of the rooms, eating nothing but the flesh from around us, day and night.||||I heard that they stopped sleeping. New flesh is transported into their room constantly.||||Why couldn't I be one of them? I want more flesh! Maybe, when the others aren't looking I can grab some? I'm sure they won't notice if some of it goes missing.	Gure artean dauden haragi-jalerik apartenen bila zebiltzan. Zoritxarrez, ez zuten aukeratu.||||Orain logelaren batean eserita daude, inguratzen gaituen haragiajaten, gau eta egun!||||Lo egiteari ere utzi diotela entzun dut. Haragi berriak gelara eramaten ditu behin ta berriz.||||Zergatik ez zait niri egokitu? Haragi gehiago nahi dut! Besteek begiratzen ez dutenean, ttak! Hartu ahal izango dut pixka bat? Ziur aski ez dira konturatuko falta dela.
+#_localizedName:	Eating	Jaten
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 93f12003b3ac8194e9e58008d9771e2b	Name: ButchersDen_Note3	Name: ButchersDen_Note3
-#_localizedContent:	The stories are true. Some of them have turned into... something? They are like animals now. Following just their instincts. And eating.||They still seem to recognize us. They are not agressive.||We placed them outside. Let them help the guards.||||Now where can I find more flesh?||I need some Flesh.	Las historias son ciertas. Algunos de ellos se han convertido en... ¿algo? Ahora son como animales. Tan sólo siguen sus instintos y comen.||Parece que reconocen a algunos de nosotros. No son agresivos.||Les hemos puesto fuera. Así pueden ayudar a los guardias.||||Bueno, y ahora...¿Dónde puedo encontrar más carne?||Necesito algo de carne.
-#_localizedName:	The Call	La llamada
+#_localizedContent:	The stories are true. Some of them have turned into... something? They are like animals now. Following just their instincts. And eating.||They still seem to recognize us. They are not agressive.||We placed them outside. Let them help the guards.||||Now where can I find more flesh?||I need some Flesh.	Istorioak egiak dira. Horietako batzuk... zerbaitetan bihurtu dira? Orain animaliak bezalakoak dira. Senari jarraituz jaten dute.||Badirudi gutako batzuk ezagutzen dituztela. Ez dira oldarkorrak.||Kanpoan jarri ditugu. Horrela zaindariei lagundu diezaiekete. ||||Beno, eta orain... Non aurki dezaket haragi gehiago?||Haragi pixka bat behar dut.
+#_localizedName:	The Call	Deia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8028acc4774fa8c4283dffe9aad33f42	Name: ButchersDen_Note4	Name: ButchersDen_Note4
