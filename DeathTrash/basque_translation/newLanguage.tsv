@@ -4602,23 +4602,23 @@ ASSET 1a259294009a434418046224a71da5be	Name: SuperNanoHealth	Name: SuperNanoHeal
 #_localizedDescription:		
 ------------------------------------------		
 ASSET aca2504d8166c034cbc1e4297e39c6cd	Name: WeirdMeat	Name: WeirdMeat
-#_localizedName:	Weird Meat	Carne extraña
+#_localizedName:	Weird Meat	Haragi arraroa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 69239223c96bb944ea842123fa87e33c	Name: Gold	Name: Gold
-#_localizedName:	Gold	Oro
-#_localizedDescription:	Glint of an old world. Constructed and limited.	Restos del viejo mundo. Elaborado y limitado.
+#_localizedName:	Gold	Urrea
+#_localizedDescription:	Glint of an old world. Constructed and limited.	Mundu zaharraren hondarrak. Eraikita eta mugatuta.
 ------------------------------------------		
 ASSET 787c709ec9620dd4fbd92c47e3fdc935	Name: Squirms	Name: Squirms
-#_localizedName:	Squirms	Retorcidos
-#_localizedDescription:	Dead worms. Used as a currency.	Gusanos muertos. Se usa como moneda.
+#_localizedName:	Squirms	Zizare-Hilak
+#_localizedDescription:	Dead worms. Used as a currency.	Zizare hilak. Txanpon gisa erabiltzen da.
 ------------------------------------------		
 ASSET 1e27145e4ccac174e83df8d72ebc4d9d	Name: CyberwombPowerModule	Name: CyberwombPowerModule
-#_localizedName:	Cyberwomb Power Module	Módulo de energía del útero cibernético
-#_localizedDescription:	Energy converter. Used for powering virtual worlds.	Convertidor de energía. Se usa para alimentar mundos virtuales.
+#_localizedName:	Cyberwomb Power Module	Utero zibernetikoaren energia-modulua
+#_localizedDescription:	Energy converter. Used for powering virtual worlds.	Energia-bihurgailua. Mundu birtualak elikatzeko erabiltzen da.
 ------------------------------------------		
 ASSET 1917e61780ea97f42af07fdf98f5f88b	Name: ArmorAutomaticTestPlayer	Name: ArmorAutomaticTestPlayer
-#_localizedName:	Debug Armor Testplayer	Armadura Debug para Jugador
+#_localizedName:	Debug Armor Testplayer	Debug Armadura
 #_localizedDescription:		
 ------------------------------------------		
 ASSET afed5047205aabe4293aecd6a540db27	Name: DebugItemTransforming	Name: DebugItemTransforming
@@ -4626,35 +4626,35 @@ ASSET afed5047205aabe4293aecd6a540db27	Name: DebugItemTransforming	Name: DebugIt
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f131558b9714fd64aacdf9ca2eb5c447	Name: LoadCyberWombTransition	Name: LoadCyberWombTransition
-#_localizedName:	Load Cyber Womb Transition Effect	Cargar efecto de transición de útero cibernético
-#_localizedDescription:	Refreshing and intoxicating.	Refrescante e intoxicante.
+#_localizedName:	Load Cyber Womb Transition Effect	Utero zibernetikoaren trantsizio-efektua kargatzen du
+#_localizedDescription:	Refreshing and intoxicating.	Freskagarria eta intoxikagarria.
 ------------------------------------------		
 ASSET de8ba9e64c980ce41b067ccac3ab7a35	Name: ReceiveAwarenessEffect	Name: ReceiveAwarenessEffect
 #_localizedName:	ReceiveAwarenessEffect	ReceiveAwarenessEffect
-#_localizedDescription:	Refreshing and intoxicating.	Refrescante e intoxicante.
+#_localizedDescription:	Refreshing and intoxicating.	Freskagarria eta intoxikagarria.
 ------------------------------------------		
 ASSET 68c44045f7ec9db4dbf91d9cd51d3157	Name: RifleAutomaticTestPlayer	Name: RifleAutomaticTestPlayer
-#_localizedName:	Debug Rifle Testplayer	Rifle Debug
+#_localizedName:	Debug Rifle Testplayer	Debug Erriflea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET cb27225d357fc84449e66fa583431b91	Name: AdvancedAntipolarClothes	Name: AdvancedAntipolarClothes
-#_localizedName:	Antipolar Clothes	Ropa antipolar
+#_localizedName:	Antipolar Clothes	Antipolar arropa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 621403e272edfbe45b02ba2952c119a3	Name: AntipolarClothes	Name: AntipolarClothes
-#_localizedName:	Antipolar Clothes	Ropa antipolar
+#_localizedName:	Antipolar Clothes	Antipolar arropa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d9a4d1bf4aa7b404784de897c6d8505b	Name: BioenhancingGear	Name: BioenhancingGear
-#_localizedName:	Bio-Enhancement Gear	Equipo bio-mejora
+#_localizedName:	Bio-Enhancement Gear	Bio-hobekuntza ekipoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 089c40181bb750747aef614b72c0dbe9	Name: CombatVest	Name: CombatVest
-#_localizedName:	Combat Vest	Chaleco de combate
+#_localizedName:	Combat Vest	Borrokarako txalekoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7f06565847138254f8dfc614ee95cf2e	Name: CombatVestAdvanced	Name: CombatVestAdvanced
-#_localizedName:	Hardened Vest	Chaleco endurecido
+#_localizedName:	Hardened Vest	Txaleko gogorra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 49f178ba6723ef34a82f15d349bea999	Name: DoctorKittel	Name: DoctorKittel
@@ -4662,39 +4662,39 @@ ASSET 49f178ba6723ef34a82f15d349bea999	Name: DoctorKittel	Name: DoctorKittel
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6f7a4a779b8aa034fb55f393ec8612e8	Name: AksaMask	Name: AksaMask
-#_localizedName:	Mask Of Understanding	Máscara del conocimiento
+#_localizedName:	Mask Of Understanding	Ezagutza maskara
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5618977defebf2146a077e820195338a	Name: BlackMaskFlamingo	Name: BlackMaskFlamingo
-#_localizedName:	Flamingo Mask	Máscara de flamenco
+#_localizedName:	Flamingo Mask	Flamenko maskara
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bce09c667d9006b418d0c4d2f8e8b92c	Name: Helmet	Name: Helmet
-#_localizedName:	Helmet	Casco
+#_localizedName:	Helmet	Kaskoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d2e33192fb52e874c85b06ae964c4589	Name: SpikedMask	Name: SpikedMask
-#_localizedName:	Spiked Mask	Máscara con pinchos
+#_localizedName:	Spiked Mask	Pintxodun maskara
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 314ac6cc83c508043a1b4ac3241f6c49	Name: BandanaBlack	Name: BandanaBlack
-#_localizedName:	Black Bandana	Pañuelo negro
+#_localizedName:	Black Bandana	Zapi beltza
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 93b115d0bc62497479b544c88bce408c	Name: BandanaRed	Name: BandanaRed
-#_localizedName:	Red Bandana	Pañuelo rojo
+#_localizedName:	Red Bandana	Zapi gorria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 42cdc5c19573b774db59334b33d3aa13	Name: CultistMask	Name: CultistMask
-#_localizedName:	Cultist Mask	Máscara de cultista
+#_localizedName:	Cultist Mask	Kultista maskara
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 84cbb39ea8cb66645b95a95ee5398f61	Name: DoctorsMask	Name: DoctorsMask
-#_localizedName:	Doctor's Mask	Máscara de doctor
+#_localizedName:	Doctor's Mask	Doktore-maskara
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bb5affd21fe9c084e900d57036c7210c	Name: LightCombatVest	Name: LightCombatVest
-#_localizedName:	Light Combat Vest	Chaleco de combate ligero
+#_localizedName:	Light Combat Vest	Borrokarako txaleko arina
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 97e9101148dee2549869d3393c738ce6	Name: Metal Armor	Name: Metal Armor
