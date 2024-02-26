@@ -5248,43 +5248,43 @@ ASSET 2372bf8c3a8376740a5b2f3984a0f765	Name: ReadableGroupPhilosophicalMusings	N
 #_displayName:	Thoughts	Pentsamenduak
 ------------------------------------------		
 ASSET 77c832c8e3c75de45a4209c0e59353fb	Name: ImmediateDanger	Name: ImmediateDanger
-#_localizedContent:	Marla||||Curious when I mentioned the Titans. Longing in her eyes.||Refugee from the habitats. Hard to prove.||May be possessed. Have to be careful.||||||Puppeteer||||Crafty. Who taught him?||Why would the Collectors not recruit him?||||Creep.||||||Agira||||Demure.||Motivations?	Marla||||Curiosa cuando mencioné a los Titanes. Anhelo en sus ojos.||Refugio para habitantes. Difícil de mejorar.||Puede estar poseída. Debo tener cautela.||||||Titiritero||||Ingenioso. ¿Quién le enseñó?||¿Por qué no le reclutarían los coleccionistas?||||Siniestro.||||||Agira||||Recatado.||¿Motivaciones?
-#_localizedName:	Immediate Danger	Peligro inmediato
+#_localizedContent:	Marla||||Curious when I mentioned the Titans. Longing in her eyes.||Refugee from the habitats. Hard to prove.||May be possessed. Have to be careful.||||||Puppeteer||||Crafty. Who taught him?||Why would the Collectors not recruit him?||||Creep.||||||Agira||||Demure.||Motivations?	Marla||||Jakingura piztu zitzaion Titan-ak aipatu nituenean. Irrika begietan.||Biztanleentzako babeslekua. Hobetzeko zaila.||Deabruak hartuta egon daiteke. Kontuz ibili behar dut.||||||Txotxongiloraria||||Burutsua. Nork irakatsiko ote zion?||Zergatik ez zuten bildumagileek erreklutatuko?||||Maltzurra.||||||Agira||||Zuhurra.||Motibazioak?
+#_localizedName:	Immediate Danger	Arriskua berehala
 #_localizedDescription:		
 ------------------------------------------		
 ASSET fdc9308e51db34b409fa550489dc961b	Name: NotGuilty	Name: NotGuilty
-#_localizedContent:	I am innocent.||||Didn't harm him in any way. But I was deemed too dangerous.||||I refuse to go.||Want back.||Need to be reconnected.||Cannot live without.||||I'll think of something.	Soy inocente.||||No le he hecho daño a nadie. Pero se me condena como peligro.||||Me niego a irme.||Quiero regresar.||Necesito reconectarme.||No puedo vivir sin ello.||||Tengo que pensar en algo.
-#_localizedName:	Not guilty	No culpable
-#_localizedDescription:	Personal notes	Notas personales
+#_localizedContent:	I am innocent.||||Didn't harm him in any way. But I was deemed too dangerous.||||I refuse to go.||Want back.||Need to be reconnected.||Cannot live without.||||I'll think of something.	Errugabea naiz.||||Ez diot inori minik egin. Baina arriskutsua naizelakoan kondenatzen naute.||||Ez dut joan nahi.||Itzuli nahi dut.||Berriz konektatu behar naiz.||Ezin naiz bizi hori gabe.||||Zerbait asmatu pentsatu behar dut.
+#_localizedName:	Not guilty	Errugabea
+#_localizedDescription:	Personal notes	Ohar pertsonalak
 ------------------------------------------		
 ASSET d80c85217e41ac642812c377a0f60fac	Name: ReadableGroupTauris	Name: ReadableGroupTauris
 #_displayName:	Tauris	Tauris
 ------------------------------------------		
 ASSET 10325e0cbdc43984ea37d02a1b5c7005	Name: ReadableGroupTheMaw	
-#_displayName:	The Maw	Las Fauces
+#_displayName:	The Maw	Ahoak
 ------------------------------------------		
 ASSET a656748870bd3fe488ec299646387834	Name: TheMawDiary1	
-#_localizedContent:	This seems like a farce. Why would they want to get rid of us?	Esto parece una farse. ¿Por qué querrían librarse de nosotros?
-#_localizedName:	Day 3	Día 3
-#_localizedDescription:	Personal notes	Notas personales
+#_localizedContent:	This seems like a farce. Why would they want to get rid of us?	Iruzurra dirudi. Zergatik libratu nahiko dira gutaz?
+#_localizedName:	Day 3	3. eguna
+#_localizedDescription:	Personal notes	Ohar pertsonalak
 ------------------------------------------		
 ASSET c8f0859ea1fcc144c977dbef90d78ac4	Name: TheMawDiary2	
-#_localizedContent:	I've reached a place called Tauris.||The machines here seem unwilling to help.||People around here are friendy. But I can't stand how they're all just eating the meat. It's disgusting.	He llegado a un lugar llamado Tauris.||Las máquinas de por aquí parecen negarse a ayudar.||La gente de por aquí, sin embargo, es amistosa. Pero no puedo soportar como todos comen únicamente carne. Es asqueroso.
-#_localizedName:	Day 5	Día 5
-#_localizedDescription:	Personal notes	Notas Personales
+#_localizedContent:	I've reached a place called Tauris.||The machines here seem unwilling to help.||People around here are friendy. But I can't stand how they're all just eating the meat. It's disgusting.	Tauris izeneko leku batera iritsi naiz.||Inguruko makinek laguntzeari uko egiten diotela dirudi.||Hemengo jendea, ordea, adiskidetsua da. Baina ezin dut jasan denek haragia bakarrik jaten dutela ikustea. Benetan nazkagarria.
+#_localizedName:	Day 5	5. eguna
+#_localizedDescription:	Personal notes	Ohar pertsonalak
 ------------------------------------------		
 ASSET 794a7df945eb25f4da6a07166fff8778	Name: TheMawDiary3	
-#_localizedContent:	This place is called Puke Bar. It's comforting. Stinks like hell.||But no guidance, no plan. Just anarchists.||No one bothers thinking about what would happen if the meat would vanish.||I will continue traveling east. Heard about a strong community in New Delphi.||	Este lugar se llama el bar Vómito. Es agradable. Y apesta a mierda.||Pero sin guía, sin plan. Tan solo anarquía.||Nadie se molesta en pesar que pasaría si desapareciese la carne.||Continuaré viajando al este. He oído sobre una fuerte comunidad en Nueva Delphi.||
-#_localizedName:	Day 12	Día 12
-#_localizedDescription:	Personal notes	Notas Personales
+#_localizedContent:	This place is called Puke Bar. It's comforting. Stinks like hell.||But no guidance, no plan. Just anarchists.||No one bothers thinking about what would happen if the meat would vanish.||I will continue traveling east. Heard about a strong community in New Delphi.||	Toki hou OKA taberna da. Atsegina da. Eta kiratsa dario.||Baina buruzagirik gabe, planik gabe. Anarkia besterik ez.||Inor ez da pentsaten hasten, zer gertatuko litzatekeen haragia bapatean desagertuko balitz.||Ekialdera bidaiatzen jarraituko dut. New Delphi-ko komunitate indartsu bat omen dago.||
+#_localizedName:	Day 12	12. eguna
+#_localizedDescription:	Personal notes	Ohar pertsonalak
 ------------------------------------------		
 ASSET 420e7230edd9acd4ab9b70a1e32ba872	Name: CommandsFromTheEye	Name: CommandsFromTheEye
-#_localizedContent:	Travel west past the Festering Gorge and look out for any signs of the big ones. Report back if you find one, don't approach it.||||Be careful! The mutants seem to be very aggressive lately. Somethings's riling them up and it's probably gonna get worse.||||- The Eye	Viaja al oeste pasando la Garganta Séptica y busca algún rastro de los grandes. Vuelve a informar si encuentras uno, no te acerques.||||¡Ten cuidado! Los mutantes parecen ser muy agresivos últimamente. Algo parece estar agitandolos y probablemente empeore.||||- El Ojo
-#_localizedName:	Scout Commands	Órdenes de Explorador
+#_localizedContent:	Travel west past the Festering Gorge and look out for any signs of the big ones. Report back if you find one, don't approach it.||||Be careful! The mutants seem to be very aggressive lately. Somethings's riling them up and it's probably gonna get worse.||||- The Eye	Mendebaldera bidaiatzen du Eztarri Septikoa alde batera utzita, eta handien arrastoren bat bilatzen du. Bat aurkitzen baduzu, ez hurbildu.||||KASU! Kontuz ibili! Mutanteak oso oldarkorrak dira azkenaldian. Badirudi zerbaitek astintzen dituela, eta agian okerrera egingo duela.||||- Begia
+#_localizedName:	Scout Commands	Esploratzailearen aginduak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 93b4e382aaf34c349af29ddea2f73978	Name: KrakenTemple	Name: KrakenTemple
-#_displayName:	Kraken Temple	Templo Kraken
+#_displayName:	Kraken Temple	Kraken tenplua
 ------------------------------------------		
 ASSET f87bbb18a9706574ca4d6f27cbc0034c	Name: RecipeItemEnergyCells	Name: RecipeItemEnergyCells
 #_localizedName:		
