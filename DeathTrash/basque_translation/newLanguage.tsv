@@ -5655,7 +5655,7 @@ ASSET 7dc82b06cdd276d448d2a17f5218a70e	Name: Pistol
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 36aa600d3d3fec44cb1b1d4915b84c44	Name: Revolver	
-#_localizedName:	Revolver	Revólver
+#_localizedName:	Revolver	Errebolberra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f0e52d0d32758db4e8581f4701bb63c4	Name: SubmachineGun	
@@ -5663,23 +5663,23 @@ ASSET f0e52d0d32758db4e8581f4701bb63c4	Name: SubmachineGun
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 160aa86b0e330da49b233c9c374f903b	Name: EnergyThrowerSlow	
-#_localizedName:		LanzadorEnergíaLenta
+#_localizedName:		Energia-Geldo Jaurtitzailea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 257f4e48633fbab478a6532d212df9ed	Name: FlashBangThrower	
-#_localizedName:		LanzadorFlashbang
+#_localizedName:		Flashbang jaurtitzailea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d7016928bcf0d7541a3a27ba7e92aa76	Name: ScopedRifle	
-#_localizedName:		Rifle con mira
+#_localizedName:		Miradun erriflea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 5a97faee8d47b49478985119e53205a0	Name: StinkBombThrower	
-#_localizedName:		LanzadorBombasApestosas
+#_localizedName:		Kirats-Ponpa jaurtitzailea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 24993de8423b1c24784344653b94a0a5	Name: ExplodingBarrel	
-#_localizedName:		BarrilExplosivo
+#_localizedName:		Upel leherkorra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d3b32a11a48836c45a3be53a8ef4bbd6	Name: FlashBang	
@@ -5687,15 +5687,15 @@ ASSET d3b32a11a48836c45a3be53a8ef4bbd6	Name: FlashBang
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 421c9f4421cbecb4ba038484c979b5e9	Name: StinkBomb	
-#_localizedName:		BombaApestosa
+#_localizedName:		Kirats-ponpa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 01d04bf79970ba64dbf054de18393d4e	Name: ThrowableGrenade	
-#_localizedName:	Throwable Grenade	Granada Arrojadiza
+#_localizedName:	Throwable Grenade	Granada
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7b56ce083c12c474998fe71513bad55f	Name: ThrowableGrenadeNPC	
-#_localizedName:		GranadaArrojadizaNPC
+#_localizedName:		NPC Granada
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 9136c2f1fa4275a46b5d570fc73a1aaf	Name: TickingGrenade	
