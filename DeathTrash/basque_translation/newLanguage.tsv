@@ -5599,55 +5599,55 @@ ASSET 2ab400863dddeba43a61ac654f5f2613	Name: ChargingEnergyGun_SuperFast	Name: C
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 18596ec73a0b5e241ba7f1bc4c505752	Name: ChargingEnergyGun_SuperSlow	Name: ChargingEnergyGun_SuperSlow
-#_localizedName:	Super Slow Charging Energy Gun	Pistola de energía de carga lenta
+#_localizedName:	Super Slow Charging Energy Gun	Karga moteleko energia-pistola
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8ac5dff78ac3447d1b546e9b9549aaa8	Name: EnergyGun	Name: EnergyGun
-#_localizedName:	Energy Gun	Pistola de energía
+#_localizedName:	Energy Gun	Energia-pistola
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 8f8c4a033521373438f4137d6ed5fa3f	Name: EnergyGunEnhanced	Name: EnergyGunEnhanced
-#_localizedName:	Superior Energy Gun	Arma de energía superior
+#_localizedName:	Superior Energy Goi-mailako energia-arma
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c003ee0dc1df20b4ca845520fd4d234d	Name: EnhancedShotgun	Name: EnhancedShotgun
-#_localizedName:	Enhanced Shotgun	Escopeta mejorada
+#_localizedName:	Enhanced Shotgun	Eskopeta hobetua
 #_localizedDescription:		
 ------------------------------------------		
 ASSET e69b5747aeca1dc44a1cf4b0f89f87af	Name: FlameThrower	
-#_localizedName:	Flame Thrower	Lanzallamas
+#_localizedName:	Flame Thrower	Su-jaurtitzailea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6f43da1f6d64e14498d426f1e87334dd	Name: GrenadeThrower	
-#_localizedName:	Grenade Thrower	Lanzagranadas
+#_localizedName:	Grenade Thrower	Granada-jaurtigailua
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 9bbd851acfdba2f4d9ce001d1519ba89	Name: OldRifle	
-#_localizedName:	Old Rifle	Rifle viejo
+#_localizedName:	Old Rifle	Errifle zaharra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7cded4b1f138a7a4b85b58f80a21ea79	Name: PumpActionShotgun	
-#_localizedName:	Pump Action Shotgun	Escopeta corredera
+#_localizedName:	Pump Action Korredera Eskopeta
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7c071b9c82477ba41a6f55ab1d9b219b	Name: Rifle	
-#_localizedName:	Rifle	Rifle
+#_localizedName:	Rifle	Erriflea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b78cbe102ac98824785831bc3d95f749	Name: RocketLauncher	
-#_localizedName:	Rocket Launcher	Lanzacohetes
+#_localizedName:	Rocket Launcher	Suziri-jaurtigailuak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c64515eff75daff40aa6a99b3a067bae	Name: SawedOffShotgun	
-#_localizedName:	Sawed-Off Shotgun	Escopeta recortada
+#_localizedName:	Sawed-Off Shotgun	Eskopeta laburra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f9406e952327e482bb39dfbc6d6a2208	Name: Shotgun	
-#_localizedName:	Shotgun	Escopeta
+#_localizedName:	Shotgun	Eskopeta
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 0fe22f51c76d84449be3fed49e8cf8eb	Name: Derringer	
-#_localizedName:	Small Pistol	Pistola pequeña
+#_localizedName:	Small Pistol	Pistola txikia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7dc82b06cdd276d448d2a17f5218a70e	Name: Pistol	
