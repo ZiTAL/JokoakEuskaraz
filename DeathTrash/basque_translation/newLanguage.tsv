@@ -5351,39 +5351,39 @@ ASSET 92390a2aa1463df429ce92519a1be375	Name: PlasticTrash	Name: PlasticTrash
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 40a56fc7a6147044a9ba6270c8d4e414	Name: ServiceFullHeal	Name: ServiceFullHeal
-#_localizedName:	Healing	Curando
+#_localizedName:	Healing	Sendatzen
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d232345c039faae42aea5b8664e020c3	Name: ServiceResetPlayerStats	Name: ServiceResetPlayerStats
-#_localizedName:	Reset Stats	Reiniciar estadísticas
-#_localizedDescription:	Resets your distribution of attribute and skill points.	Reinicia la distribución de atributos y puntos de habilidad.
+#_localizedName:	Reset Stats	Estatistikak berrabiarazi
+#_localizedDescription:	Resets your distribution of attribute and skill points.	Atributuen eta trebetasun-puntuen banaketak reseteatzen ditu.
 ------------------------------------------		
 ASSET 0b34a3bf87204b74c8a0466213a9d5e7	Name: ServiceResetPlayerVisuals	Name: ServiceResetPlayerVisuals
-#_localizedName:	Reset Visuals	Reiniciar aspecto
-#_localizedDescription:	Lets you reselect the visuals of your character, similar to character creation.	Te permite reiniciar el aspecto de tu personaje, similar a la creación de personaje.
+#_localizedName:	Reset Visuals	Berrabiarazi itxura
+#_localizedDescription:	Lets you reselect the visuals of your character, similar to character creation.	Pertsonaiaren itxura aldatzeko aukera ematen dizu.
 ------------------------------------------		
 ASSET 5d95bee7f0561d443b3d62e03c898bdb	Name: SeveredHead	Name: SeveredHead
-#_localizedName:	Severed Head	Cabeza cortada
+#_localizedName:	Severed Head	Buru-moztu
 #_localizedDescription:		
 ------------------------------------------		
 ASSET defe633dbbeee864abb2841b482fbc8c	Name: Lockpick	Name: Lockpick
-#_localizedName:	Lockpick	Ganzúa
-#_localizedDescription:	Used for picking locks. Consumed automatically.	Usada para forzar cerraduras. Se consume automáticamente.
+#_localizedName:	Lockpick	Gantzua
+#_localizedDescription:	Used for picking locks. Consumed automatically.	Sarrailak behartzeko erabiltzen da. Automatikoki kontsumitzen da.
 ------------------------------------------		
 ASSET 5a5471ecc87393f45a93d87c9761ee94	Name: Skull	Name: Skull
-#_localizedName:	Skull	Cráneo
-#_localizedDescription:	A particularly beautiful human skull.	Un cráneo humano especialmente hermoso
+#_localizedName:	Skull	Garezurra
+#_localizedDescription:	A particularly beautiful human skull.	Giza burezur bereziki ederra.
 ------------------------------------------		
 ASSET c570820e9c63b8e4eaf1a9960eb23bbd	Name: MainSymbiont	Name: MainSymbiont
-#_localizedName:	Unknown Affliction	Aflicción desconocida
-#_localizedDescription:	You were cast out of the UNIVERSAL SOCIETY because of this. Whatever this is.	Fuiste expulsado de la SOCIEDAD UNIVERSAL debido a esto. Sea lo que sea.
+#_localizedName:	Unknown Affliction	Atsekabe ezezaguna
+#_localizedDescription:	You were cast out of the UNIVERSAL SOCIETY because of this. Whatever this is.	Honengatik GIZARTE UNIBERTSALETIK bota zintuzten. Dena delakoa.
 ------------------------------------------		
 ASSET df7ee86fa01454442b240d47339c62a1	Name: TalkableSkull	Name: TalkableSkull
 #_localizedName:		
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3a241ee96b951d04f81156ff26d5ea86	Name: BrokenRing	Name: BrokenRing
-#_localizedName:	Broken Ring	Anillo roto
+#_localizedName:	Broken Ring	Eraztun hautsia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 96a3c8f3cc070ad4385a39ce1e09810b	Name: ImplantTest	Name: ImplantTest
