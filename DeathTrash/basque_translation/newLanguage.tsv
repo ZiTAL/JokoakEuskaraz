@@ -5527,15 +5527,15 @@ ASSET 3772e5ff285bc9f4fb6e76aaaeb5be62	Name: WeaponFleshVerminSweep	Name: Weapon
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f2f1ff22f26ebb14184d1bb9f8c09425	Name: WeaponFleshworm	Name: WeaponFleshworm
-#_localizedName:	Teeth	Dientes
+#_localizedName:	Teeth	Hortzak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 67968160c88bc144795b719616f89f96	Name: WeaponFleshwormAsPlayer	Name: WeaponFleshwormAsPlayer
-#_localizedName:	Teeth	Dientes
+#_localizedName:	Teeth	Hortzak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 4d99a6ce4d419174281b51ce4ea9148e	Name: WeaponFleshwormBig	Name: WeaponFleshwormBig
-#_localizedName:	Teeth	Dientes
+#_localizedName:	Teeth	Hortzak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET cc6cbcb680934bd449a63eb6ff726054	Name: WeaponFleshwormPlusEffect	Name: WeaponFleshwormPlusEffect
