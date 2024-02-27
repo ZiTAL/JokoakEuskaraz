@@ -5319,35 +5319,35 @@ ASSET 278ac822694044540b01ee496d5e415a	Name: GemstoneAventurine	Name: GemstoneAv
 #_localizedDescription:		
 ------------------------------------------		
 ASSET e46654f0725b7d94d8516dffa12f3caf	Name: GemstoneFireOpal	Name: GemstoneFireOpal
-#_localizedName:	Fire Opal	Ópalo de Fuego
+#_localizedName:	Fire Opal	Su-opaloa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3c8e4e26c0a316d4085be48da1079d2b	Name: GemstoneQuartz	Name: GemstoneQuartz
-#_localizedName:	Quartz	Cuarzo
+#_localizedName:	Quartz	Kuartzoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 9cbeaf4c32570a84b8fa8ddd11a3a1d7	Name: GemstoneZircon	Name: GemstoneZircon
-#_localizedName:	Zircon	Zirconio
+#_localizedName:	Zircon	Zirkonioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3aa5908aba2a1d345867c411c8614c27	Name: Artworks	Name: Artworks
-#_localizedName:	Artworks	Obras de arte
+#_localizedName:	Artworks	Artelanak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3cb2a7cb1ddb41b4795da0361c49f63b	Name: Gems	Name: Gems
-#_localizedName:	Gems	Gemas
+#_localizedName:	Gems	Harribitxiak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7f78c6fbb7452d24fba553610efaff12	Name: HouseHoldWares	Name: HouseHoldWares
-#_localizedName:	Household Wares	Utensilios del hogar
+#_localizedName:	Household Wares	Etxeko tresnak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 2cda2e8b1651fda40b8737b6676a7ab3	Name: PackagingMaterial	Name: PackagingMaterial
-#_localizedName:	Packaging Material	Material de embalaje
+#_localizedName:	Packaging Material	Enbalatzeko materiala
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 92390a2aa1463df429ce92519a1be375	Name: PlasticTrash	Name: PlasticTrash
-#_localizedName:	Plastic Trash	Basura plástica
+#_localizedName:	Plastic Trash	Plastikozko zaborra
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 40a56fc7a6147044a9ba6270c8d4e414	Name: ServiceFullHeal	Name: ServiceFullHeal
