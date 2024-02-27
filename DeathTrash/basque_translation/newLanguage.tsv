@@ -5699,54 +5699,54 @@ ASSET 7b56ce083c12c474998fe71513bad55f	Name: ThrowableGrenadeNPC
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 9136c2f1fa4275a46b5d570fc73a1aaf	Name: TickingGrenade	
-#_localizedName:		GranadaActiva
+#_localizedName:		Granada Aktiboa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b8c396e5ef4c72f4aa1c85564702b812	Name: TickingStinkBomb	
-#_localizedName:		BombaApestosaActivada
+#_localizedName:		Kirats-Ponpa Aktibatuta
 #_localizedDescription:		
 ------------------------------------------		
 ASSET e1d38a88c32b5b64292581be44173f99	Name: General	
-#_displayName:	General	General
+#_displayName:	General	Orokorra
 ------------------------------------------		
 ASSET e72d42485e562a94792c9e19feacc62c	Name: Locations	
-#_displayName:	Locations	Ubicaciones
+#_displayName:	Locations	Kokapenak
 ------------------------------------------		
 ASSET 16e3f6655564a57429ea5285b499039f	Name: ImplantMerchantPresentation	
-#_displayName:	Implant Merchant	Mercader de Implantes
+#_displayName:	Implant Merchant	Inplanteen merkataria
 ------------------------------------------		
 ASSET 12e97627e51704e44b689813ce89061d	Name: MachineMerchantPresentation	
-#_displayName:	Machine Merchant	Máquina Mercader
+#_displayName:	Machine Merchant	Merkataritza-makina
 ------------------------------------------		
 ASSET 41f96217ad7e07b4191a6726e563f4b4	Name: LocationNewDelphiCave	
-#_localizedText:	Cave	Cueva
+#_localizedText:	Cave	Kobazuloa
 ------------------------------------------		
 ASSET 3cd148a4c3fcd954095d2762422bef04	Name: LocationNewDelphiCenter	
-#_localizedText:	Plateau	Meseta
+#_localizedText:	Plateau	Goi-ordokia* *(meseta)
 ------------------------------------------		
 ASSET 8922b77ece7ae3e45a43d5fd7b75cb70	Name: LocationNewDelphiEast	
-#_localizedText:	East	Este
+#_localizedText:	East	Ekialdea
 ------------------------------------------		
 ASSET bf870a89ce2d89a4ea425f0e155cc7c1	Name: LocationNewDelphiSouth	
-#_localizedText:	South	Sur
+#_localizedText:	South	Hegoaldea
 ------------------------------------------		
 ASSET 56ae239bf74a7664abf0a310aa4b12ae	Name: LocationNewDelphiWest	
-#_localizedText:	West	Oeste
+#_localizedText:	West	Mendebaldea
 ------------------------------------------		
 ASSET fc505931db705c0488f16d3fc873f557	Name: LocationOldTreesOutside	
-#_localizedText:	Outside	Afuera
+#_localizedText:	Outside	Kanpoan
 ------------------------------------------		
 ASSET ac93cab424449e14aa2d1134e22fbc0c	Name: LocationOldTreesTree	
-#_localizedText:	Tree	Árbol
+#_localizedText:	Tree	Zuhaitza
 ------------------------------------------		
 ASSET f55aa742cc6e8df4e8953cd1afe05bd8	Name: LocationOldTreesUnderground	
-#_localizedText:	Underground	Subterráneo
+#_localizedText:	Underground	Lurpekoa
 ------------------------------------------		
 ASSET 8e18523e25c954246b570a73511c8ae9	Name: LocationPukeBarCentralRoom	
-#_localizedText:	Central Room	Cuarto Central
+#_localizedText:	Central Room	Gela nagusia
 ------------------------------------------		
 ASSET 0f8aeb9f95c7bb84d851f0e972cfed74	Name: LocationPukeBarOutside	
-#_localizedText:	Outside	Afuera
+#_localizedText:	Outside	Kanpoan
 ------------------------------------------		
 ASSET 508f617b138e1b94192639afa8efaab9	Name: LocationPukeBarUpperRooms	
 #_localizedText:	Upper Rooms	Habitaciones Superiores
