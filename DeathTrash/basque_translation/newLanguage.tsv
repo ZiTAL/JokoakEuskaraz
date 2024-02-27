@@ -5749,28 +5749,28 @@ ASSET 0f8aeb9f95c7bb84d851f0e972cfed74	Name: LocationPukeBarOutside
 #_localizedText:	Outside	Kanpoan
 ------------------------------------------		
 ASSET 508f617b138e1b94192639afa8efaab9	Name: LocationPukeBarUpperRooms	
-#_localizedText:	Upper Rooms	Habitaciones Superiores
+#_localizedText:	Upper Rooms	Goiko gelak
 ------------------------------------------		
 ASSET 54e5d5b7fa3854d42ab1cbd18a840f9f	Name: LocationTaurisCenter	
-#_localizedText:	Center	Centro
+#_localizedText:	Center	Zentroa
 ------------------------------------------		
 ASSET 9731df2cbc2e74a44b21a24975117d18	Name: LocationTaurisEast	
-#_localizedText:	East	Este
+#_localizedText:	East	Ekialdea
 ------------------------------------------		
 ASSET c7985a88421cd4943a0c798777aa61ee	Name: LocationTaurisSouth	
-#_localizedText:	South	Sur
+#_localizedText:	South	Hegoaldea
 ------------------------------------------		
 ASSET 13e0b3fc40754124989744cd485d486d	Name: LocationTaurisUnderground	
-#_localizedText:	Underground	Subterráneo
+#_localizedText:	Underground	Lurpekoa
 ------------------------------------------		
 ASSET 2c8cc14d1472e48438249931078e15db	Name: LocationTaurisWest	
-#_localizedText:	West	Oeste
+#_localizedText:	West	Mendebaldea
 ------------------------------------------		
 ASSET 344ba6114e9df3044b19b1c295907381	Name: LocationTutorialFleshkraken	
-#_localizedText:	Fleshkraken	Kraken de Carne
+#_localizedText:	Fleshkraken	Haragi-krakena
 ------------------------------------------		
 ASSET f9fbfde656d4ce7468f37f4c4fb82048	Name: LocationTutorialOutside	
-#_localizedText:	Outside	Afuera
+#_localizedText:	Outside	Kanpoan
 ------------------------------------------		
 ASSET 2e7dfb7089094b8459d48e0b72e262ac	Name: NameAgira	
 #_localizedText:	Agira	Agira
@@ -5779,22 +5779,22 @@ ASSET dad5109358b1a2d429b4aa95e3ac05d1	Name: NameAksa
 #_localizedText:	Aksa	Aksa
 ------------------------------------------		
 ASSET 786047ac9ef786447a8d37bc0772887f	Name: NameBleedingHeadOracle	
-#_localizedText:	Bleeding Head Oracle	Oráculo Cabeza Sangrante
+#_localizedText:	Bleeding Head Oracle	Buru odoltsuaren Orakulua
 ------------------------------------------		
 ASSET 64725fc9ad0cf6f4183f8048ff7e158a	Name: NameBlindMan	
-#_localizedText:	Blind Man	Hombre Ciego
+#_localizedText:	Blind Man	Gizon Itsua
 ------------------------------------------		
 ASSET dc8ca9b9e19f93343b3ac7e6775103dc	Name: NameCultistMan	
-#_localizedText:	Cultist Man	Cultista
+#_localizedText:	Cultist Man	Kultista
 ------------------------------------------		
 ASSET f9c0495b93aaf444488f442f68e4aee0	Name: NameCuster	
 #_localizedText:	Custer	Custer
 ------------------------------------------		
 ASSET 4d8ada16e5e6fd248aa4e7e42a3cbd09	Name: NameDeconstructor	
-#_localizedText:	Deconstructor	Desmanteladora
+#_localizedText:	Deconstructor	Deusestatzailea
 ------------------------------------------		
 ASSET 1ba8e525672cac74ead1017700acfe59	Name: NameDoctor	
-#_localizedText:	Doctor	Doctor
+#_localizedText:	Doctor	Doktorea
 ------------------------------------------		
 ASSET b32b74e3e02d439498d01518e1c73a71	Name: NameEldred	
 #_localizedText:	Eldred	Eldred
