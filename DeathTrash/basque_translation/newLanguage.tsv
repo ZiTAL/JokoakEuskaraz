@@ -5896,7 +5896,7 @@ ASSET 26af69fa2afeddd4395f41f2326cdea4	Name: NameSarah
 #_localizedText:	Sarah	Sarah
 ------------------------------------------		
 ASSET 615ecf4ddba57ad4e99d72947c31d46b	Name: NameSleepingTitan	
-#_localizedText:	Sleeping Titan	Titán Durmiendo
+#_localizedText:	Sleeping Titan	Titan-a lotan
 ------------------------------------------		
 ASSET bebd6e66455209c428ddea93e61dc45a	Name: NameTorald	
 #_localizedText:	Torald	Torald
@@ -5905,29 +5905,29 @@ ASSET 8e2f5199f19d33c4f99cbca919faa7ec	Name: NameTrabant
 #_localizedText:	Trabant	Trabant
 ------------------------------------------		
 ASSET f8ccfad919e88ad4cb65895a4c03c5dd	Name: NameTurret	
-#_localizedText:	Turret	Torreta
+#_localizedText:	Turret	Dorretxoa
 ------------------------------------------		
 ASSET b93300522da58284bb6099494cc16ac3	Name: WillHaveIntoxicatingEffect	
-#_localizedText:	Will have an intoxicating effect.	Tendrá un efecto intoxicante
+#_localizedText:	Will have an intoxicating effect.	Efektu intoxikatzailea izango du.
 ------------------------------------------		
 ASSET f1ca9d51dee1a7f4a888c291cd73a531	Name: SkipAllCooldowns	
-#_localizedName:		SaltarseTodosLosEnfriamientos
+#_localizedName:		Hozte denak saltatu
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 1269178f207375c4185bc4082921ff2d	Name: SkipUsingStamina	
-#_localizedName:	Superior Fitness	Físico Superior
-#_localizedDescription:	High body activity like rolling and stealth consumes less energy.	Una buena actividad física mejora tus habilidades, rodar y sigilo consumen menos energía.
+#_localizedName:	Superior Fitness	Goi-mailako fisikoa
+#_localizedDescription:	High body activity like rolling and stealth consumes less energy.	Hobekuntza fisiko honek zure trebetasunak hobetzen ditu, txiribueltak (kroketak) eta ixiltasunean ibiltzeak energia gutxiago kontsumitzen dute.
 ------------------------------------------		
 ASSET 340df2d793adce4458af10516c46fe98	Name: SuperHealthForTestPlayer	
-#_localizedName:		SuperSaludParaJugador
+#_localizedName:		Jokalariarentzako Super Osasuna
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ab5b612663d53ed479a274339efc89cd	Name: SuperSpeed	
-#_localizedName:		Supervelocidad
+#_localizedName:		Super-abiadura
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bee6262973aa4414ca913427c234ecb9	Name: SuperSpeedForTestPlayer	
-#_localizedName:		SuperVelocidadParaJugador
+#_localizedName:		Jokalariarentzako Super Abiadura
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 411a8ef2dfdb8a94cbab901398c02400	Name: PlaceholderTrait	
@@ -5935,45 +5935,45 @@ ASSET 411a8ef2dfdb8a94cbab901398c02400	Name: PlaceholderTrait
 #_localizedDescription:		
 ------------------------------------------		
 ASSET e2afb97ae983f4e479a3a21a5055b671	Name: Boost	
-#_localizedName:		Potenciación
+#_localizedName:		Indartzailea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bb54470fc5e56124c97b408ac8bb696f	Name: Immobility	
-#_localizedName:		Inmóvil
-#_localizedDescription:	You cannot roll.	No puedes rodar.
+#_localizedName:		Mugiezin
+#_localizedDescription:	You cannot roll.	Ezin duzu txiribueltarik (kroketarik) egin.
 ------------------------------------------		
-ASSET d2b2a515f5e14144ba99843e25dc104b	Name: Obstinatism	Obstinado
+ASSET d2b2a515f5e14144ba99843e25dc104b	Name: Obstinatism	Burugogor
 #_localizedName:		
-#_localizedDescription:	You gain no experience points and cannot level up.	No obtienes experiencia ni subes de nivel.
+#_localizedDescription:	You gain no experience points and cannot level up.	Ez duzu esperientziarik lortzen eta ez zara mailaz igotzen.
 ------------------------------------------		
 ASSET b9f17af1cb8f06f4a9e60436e6ff0426	Name: Pacifism	
-#_localizedName:		Pacifista
-#_localizedDescription:	You're not able to use weapons against other characters.	No eres capaz de usar armas contra otros personajes
+#_localizedName:		Bakezalea
+#_localizedDescription:	You're not able to use weapons against other characters.	Ez zara gai beste pertsonaia batzuen aurka armak erabiltzeko.
 ------------------------------------------		
 ASSET b8461896a977e5e468ef1dfe2e279a6f	Name: ResistanceBoost	
-#_localizedName:		Potenciación de Resistencia
+#_localizedName:		Erresistentzia indartzea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET ae4fc7b460780ff4397b20e4f24635a8	Name: SuperiorFitness	
-#_localizedName:	Superior Fitness	Físico Superior
-#_localizedDescription:	High body activity like rolling and stealth consumes less energy.	Una buena actividad física mejora tus habilidades, rodar y sigilo consumen menos energía.
+#_localizedName:	Superior Fitness	Goi-mailako fisikoa
+#_localizedDescription:	High body activity like rolling and stealth consumes less energy.	Hobekuntza fisiko honek zure trebetasunak hobetzen ditu, txiribueltak (kroketak) eta ixiltasunean ibiltzeak energia gutxiago kontsumitzen dute.
 ------------------------------------------		
 ASSET 3a8c18c2ed055144a8aa9e7fdfed307e	Name: TraitStealthAttacks	
-#_localizedName:	Backstabbing	Puñalada
-#_localizedDescription:	Increased damage of backstabbing attacks while in stealth.	Aumenta el daño de los ataques por la espalda en sigilo
+#_localizedName:	Backstabbing	Sastada
+#_localizedDescription:	Increased damage of backstabbing attacks while in stealth.	Bizkarretik isilpean egindako erasoen kalteak handitzen ditu.
 ------------------------------------------		
 ASSET 69508c21b30c5d343928ee2c3764c28a	Name: Veganism	
-#_localizedName:		Vegano
-#_localizedDescription:	You won't eat or drink any animal products.	No puedes comer o beber productos animales
+#_localizedName:		Beganoa
+#_localizedDescription:	You won't eat or drink any animal products.	Ezin duzu animalia-produkturik jan edo edan.
 ------------------------------------------		
 ASSET b6d456b1a851f26449e7f3cb430ba7c6	Name: HowToCraft	
-#_localizedName:	Crafting	Fabricación
+#_localizedName:	Crafting	Fabrikazioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 803da9e26dc63554282c55e55b557491	Name: Puke	
-#_localizedName:	Puke	Vómito
-#_localizedDescription:	Warm and moist	Cálido y húmedo
+#_localizedName:	Puke	Oka
+#_localizedDescription:	Warm and moist	Beroa eta hezea
 ------------------------------------------		
 ASSET e26ce800236c05c468a460b5bc6d798d	Name: SelfAwareness	
-#_localizedName:	Self Awareness	Percepción
+#_localizedName:	Self Awareness	Pertzepzioa
 #_localizedDescription:		
