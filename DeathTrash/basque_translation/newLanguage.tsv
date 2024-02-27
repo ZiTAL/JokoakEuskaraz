@@ -5800,28 +5800,28 @@ ASSET b32b74e3e02d439498d01518e1c73a71	Name: NameEldred
 #_localizedText:	Eldred	Eldred
 ------------------------------------------		
 ASSET b394248a1d9542b49a9b0ddab1431b9a	Name: NameEnforcer3	
-#_localizedText:	Enforcer #3	Ejecutor #3
+#_localizedText:	Enforcer #3	#3 Borreoa
 ------------------------------------------		
 ASSET a7e7e436f6246e044b800741d5d18ec0	Name: NameEnforcer7	
-#_localizedText:	Enforcer #7	Ejecutor #7
+#_localizedText:	Enforcer #7	#7 Borreroa
 ------------------------------------------		
 ASSET abf8b0ceafea0804d8d842faede284cf	Name: NameEnforcer9	
-#_localizedText:	Enforcer #9	Ejecutor #9
+#_localizedText:	Enforcer #9	#9 Borreroa
 ------------------------------------------		
 ASSET b55ba3d1a91d838428205ad4e8ef98f6	Name: NameFleshHunter	
-#_localizedText:	Flesh Hunter	Cazador de Carne
+#_localizedText:	Flesh Hunter	Haragi-ehiztaria
 ------------------------------------------		
 ASSET d66ff0e599fc54340ba9b0474ec23f4b	Name: NameFleshkraken	
-#_localizedText:	Fleshkraken	Kraken de Carne
+#_localizedText:	Fleshkraken	Haragi-krakena
 ------------------------------------------		
 ASSET b6222f46c9218374e8585a233714ea73	Name: NameFleshkrakenCaretaker	
-#_localizedText:	Fleshkraken Caretaker	Cuidador del Kraken de Carne
+#_localizedText:	Fleshkraken Caretaker	Haragi-krakenaren Zaintzailea
 ------------------------------------------		
 ASSET 06a7917dff80f684db08e6358e59bba7	Name: NameFleshThrall	
-#_localizedText:	Flesh Thrall	Esclavo de Carne
+#_localizedText:	Flesh Thrall	Haragi-esklabua
 ------------------------------------------		
 ASSET 0b90ae43ad4f18d459b198bde1d1534e	Name: NameFleshworm	
-#_localizedText:	Fleshworm	Gusano de Carne
+#_localizedText:	Fleshworm	Haragi-harra
 ------------------------------------------		
 ASSET a193d91bb66f4c34abc5159786b86b40	Name: NameGerald	
 #_localizedText:	Gerald	Gerald
@@ -5833,16 +5833,16 @@ ASSET fa8109a2065bbf244b2cf3100415b954	Name: NameGlutt
 #_localizedText:	Glutt	Glutt
 ------------------------------------------		
 ASSET b5a013f82c5b7a142a68f39890c096f4	Name: NameGuardian	
-#_localizedText:	Guardian	Guardián
+#_localizedText:	Guardian	Zaindaria
 ------------------------------------------		
 ASSET 413f5b6595761ac46bc223bb024a69cd	Name: NameGunther	
 #_localizedText:	Gunther	Gunther
 ------------------------------------------		
 ASSET 2bdbe4fa191713a4b93a5e755f64f541	Name: NameHighPriest	
-#_localizedText:	High Priest	Gran Sacerdote
+#_localizedText:	High Priest	Apaiz Handia
 ------------------------------------------		
 ASSET 525c2079c7b5d1947b0f086cb40e4ccc	Name: NameHistorian	
-#_localizedText:	Historian	Historiador
+#_localizedText:	Historian	Historialaria
 ------------------------------------------		
 ASSET 85df28598b9cd2d4cb902048441e6ffc	Name: NameIdris	
 #_localizedText:	Idris	Idris
@@ -5854,40 +5854,40 @@ ASSET 2555f1459968f7b4eaf1c483619e055e	Name: NameLaika
 #_localizedText:	Laika	Laika
 ------------------------------------------		
 ASSET 0365907bbe37a8e428c00a8566787224	Name: NameLostWoman	
-#_localizedText:	Lost Woman	Mujer Perdida
+#_localizedText:	Lost Woman	Emakume Galdua
 ------------------------------------------		
 ASSET fcd14d07c94a12e43a7e693e329e1fc6	Name: NameMarla	
 #_localizedText:	Marla	Marla
 ------------------------------------------		
 ASSET bb9147bc61b71d9429e2c9e3f82e56ef	Name: NameMerchant	
-#_localizedText:	Merchant	Mercader
+#_localizedText:	Merchant	Merkataria
 ------------------------------------------		
 ASSET c3f5dc0bcc23ad9478789489da5e3f27	Name: NameMortal	
-#_localizedText:	Mortal	Mortal
+#_localizedText:	Mortal	Mortala
 ------------------------------------------		
 ASSET fd430c195c245684db04373e9de164ce	Name: NameMortus	
 #_localizedText:	Mortus	Mortus
 ------------------------------------------		
 ASSET 0e0676cecc2ced349a6242c17b6f1164	Name: NameNakedMan	
-#_localizedText:	Naked Man	Hombre Desnudo
+#_localizedText:	Naked Man	Gizon Biluzia
 ------------------------------------------		
 ASSET cbe2b6bcae05d9245be39f6caff062d9	Name: NameNard	
 #_localizedText:	Nard	Nard
 ------------------------------------------		
 ASSET e1e82d2ba3e77c047b570896027b58fb	Name: NamePompousQueen	
-#_localizedText:	Pompous Queen	Reina Pomposa
+#_localizedText:	Pompous Queen	Ponposa Erregina
 ------------------------------------------		
 ASSET f7eb3df8621a17b43a79c561ff0049e5	Name: NamePriest	
-#_localizedText:	Priest	Sacerdote
+#_localizedText:	Priest	Apaiza
 ------------------------------------------		
 ASSET c0c268a358c355243af9d13f133ab916	Name: NamePriestOfTheGuts	
-#_localizedText:	Priest of the Guts	Sacerdote de las Tripas
+#_localizedText:	Priest of the Guts	Tripetako Apaiza
 ------------------------------------------		
 ASSET 9b73407430f068648b0617a1a4d3ce4a	Name: NamePriestOfTheHead	
-#_localizedText:	Priest of the Head	Sacerdote de la Cabeza
+#_localizedText:	Priest of the Head	Buruko Apaiza
 ------------------------------------------		
 ASSET eb82de383fda65843aebec28b9d171a5	Name: NamePriestOfTheHeart	
-#_localizedText:	Priest of the Heart	Sacerdote del Corazón
+#_localizedText:	Priest of the Heart	Bihotzeko Apaiza
 ------------------------------------------		
 ASSET 900f78817e45c3d4091f3d64d072f654	Name: NameRainier	
 #_localizedText:	Reinier	Reinier
