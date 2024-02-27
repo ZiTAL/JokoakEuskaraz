@@ -5451,7 +5451,7 @@ ASSET 6c88c131d9c46384bbb6a65cbef91448	Name: Munition_Flames	Name: Munition_Flam
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b13079d54f36b3544ba75a99670cf78c	Name: Munition_Grenade	Name: Munition_Grenade
-#_localizedName:	Grenade Munition	Munición de granada
+#_localizedName:	Grenade Munition	Granada-munizioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET e95ff1d9ca4d74a36b558ce12b6fce19	Name: Munition_InfiniteBullets	Name: Munition_InfiniteBullets
@@ -5459,19 +5459,19 @@ ASSET e95ff1d9ca4d74a36b558ce12b6fce19	Name: Munition_InfiniteBullets	Name: Muni
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 096fd29724543c342929062f64884e47	Name: Munition_LargeBullets	Name: Munition_LargeBullets
-#_localizedName:	Rifle Bullets	Balas de rifle
+#_localizedName:	Rifle Bullets	Errifle-balak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 3ecd8a733c8c28a418ac97a8b51500e3	Name: Munition_Rockets	Name: Munition_Rockets
-#_localizedName:	Rocket	Cohete
+#_localizedName:	Rocket	Suziria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 599fa22571de47944bf3af0b5e456991	Name: Munition_Shells	Name: Munition_Shells
-#_localizedName:	Shells	Cartuchos
+#_localizedName:	Shells	Kartutxoak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 57aec58cd9be5e144aed7b2aae84dc82	Name: Munition_SmallBullets	Name: Munition_SmallBullets
-#_localizedName:	Bullets	Balas
+#_localizedName:	Bullets	Balak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 2901f76efde0f3d42ba40bde52464446	Name: ChainsawMeleeWeapon	Name: ChainsawMeleeWeapon
@@ -5479,7 +5479,7 @@ ASSET 2901f76efde0f3d42ba40bde52464446	Name: ChainsawMeleeWeapon	Name: ChainsawM
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d2c51f40b60136e4aac9eb2d8b33cb75	Name: EnergyGunEnforcer	Name: EnergyGunEnforcer
-#_localizedName:	Energy Gun	Pistola de energía
+#_localizedName:	Energy Gun	Energia-pistola
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 4a7020a1217904341b8abfacd1418d72	Name: EnergyGunRobots	Name: EnergyGunRobots
