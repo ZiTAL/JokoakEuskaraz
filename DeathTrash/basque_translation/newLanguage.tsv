@@ -5399,55 +5399,55 @@ ASSET c13fc50f448be734fbd84d12a13ee51e	Name: TrinketTest	Name: TrinketTest
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 2c018605bd726904dafe3543632c3ba0	Name: WatchfulEye	Name: WatchfulEye
-#_localizedName:	Watchful Eye	Ojo vigilante
+#_localizedName:	Watchful Eye	Begi zelataria
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c443069770646d54db0b94249dbbe711	Name: Blip	Name: Blip
 #_localizedName:	Blip	Blip
-#_localizedDescription:	Use this to distract other characters and creatures.	Se usa para distraer a personajes y criaturas
+#_localizedDescription:	Use this to distract other characters and creatures.	Beste pertsonai batzuk eta munstroak distraitzeko erabiltzen da.
 ------------------------------------------		
 ASSET df66a452cc24dce458ce99358d0dd26d	Name: None	Name: None
 #_localizedName:		
 #_localizedDescription:		
 ------------------------------------------		
 ASSET bf7b045e5b9e3924e8fd72e5c0e012a3	Name: Claws	Name: Claws
-#_localizedName:	Claws	Garras
+#_localizedName:	Claws	Atzaparrak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 40f72be324d68cb4fb7b1e2cbf8026a5	Name: Cleaver	Name: Cleaver
-#_localizedName:	Cleaver	Cuchilla de carnicero
+#_localizedName:	Cleaver	Harakin-labana
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 25c19bba6aa538a43a078baaf70d94b9	Name: Hammer	Name: Hammer
-#_localizedName:	Hammer	Martillo
+#_localizedName:	Hammer	Mailua
 #_localizedDescription:		
 ------------------------------------------		
 ASSET c959f036f6edcab4ba9bed3bcd577161	Name: LongKnife	
-#_localizedName:	Long Knife	Cuchillo Largo
+#_localizedName:	Long Knife	Laban luzea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 04b567942b19f43b3ab4452b079725ba	Name: SpikedClub	Name: SpikedClub
-#_localizedName:	Spiked Club	Bate con pinchos
+#_localizedName:	Spiked Club	Arantzadun batea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET f4312a2cc4eb974499fbfbe610c86f23	Name: Sword	Name: Sword
-#_localizedName:	Sword	Espada
+#_localizedName:	Sword	Ezpata
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 1086d71b44c06dc498009463648c9cbd	Name: UnarmedHands	Name: UnarmedHands
-#_localizedName:	Unarmed (Hands)	Desarmado (manos)
+#_localizedName:	Unarmed (Hands)	Armarik gabe (Eskuak)
 #_localizedDescription:		
 ------------------------------------------		
 ASSET d3d401b41caf03b4f854eb0d3d755bd8	Name: WoodenCudgel	Name: WoodenCudgel
-#_localizedName:	Wooden Cudgel	Bate de madera
+#_localizedName:	Wooden Cudgel	Egurrezko batea
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 16c0b83171a77214db5d1ed63ef4ad2c	Name: Munition_EnergyCells	Name: Munition_EnergyCells
-#_localizedName:	Energy Cells	Células de energía
+#_localizedName:	Energy Cells	Energia-zelulak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6c88c131d9c46384bbb6a65cbef91448	Name: Munition_Flames	Name: Munition_Flames
-#_localizedName:	Flamethrower Cartridge	Munición Lanzallamas
+#_localizedName:	Flamethrower Cartridge	Su-jaurtigailuaren munizioa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET b13079d54f36b3544ba75a99670cf78c	Name: Munition_Grenade	Name: Munition_Grenade
