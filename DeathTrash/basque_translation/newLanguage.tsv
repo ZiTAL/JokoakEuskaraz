@@ -5579,23 +5579,23 @@ ASSET d6adb6ad184e04477bf21b50015d407a	Name: WeaponStandardMonsterMelee	Name: We
 #_localizedDescription:		
 ------------------------------------------		
 ASSET a954386c9b85dfa4eaca36db07f3e12d	Name: AutomaticRifle	Name: AutomaticRifle
-#_localizedName:	Automatic Rifle	Rifle Automático
+#_localizedName:	Automatic Rifle	Errifle automatikoa
 #_localizedDescription:		
 ------------------------------------------		
 ASSET eda5f537d011ecf41a0e8c0d051be851	Name: ChargingEnergyGun	Name: ChargingEnergyGun
-#_localizedName:	Two-Stage Energy Gun	Pistola de energía de dos fases
-#_localizedDescription:	Shoots different bullets, depending on if it's fully charged or not.	Dispara de forma diferente si se carga o no.
+#_localizedName:	Two-Stage Energy Gun	Bi faseko energia-pistola
+#_localizedDescription:	Shoots different bullets, depending on if it's fully charged or not.	Bala desberdinak botatzen ditu, kargatuta eta kargatu gabe.
 ------------------------------------------		
 ASSET ded13832f00153e4d875c48edbda62c9	Name: ChargingEnergyGun_Fast	Name: ChargingEnergyGun_Fast
-#_localizedName:	Charging Energy Gun	Pistola de energía alterna
-#_localizedDescription:	Takes a little time to charge. But shots are stronger than bullet shots.	Tarda en cargarse pero los disparos son más fuerte que las balas normales.
+#_localizedName:	Charging Energy Gun	Energia alternoko pistola
+#_localizedDescription:	Takes a little time to charge. But shots are stronger than bullet shots.	Denbora behar du kargatzeko, baina tiroak indartsuagoak dira bala arruntak baino.
 ------------------------------------------		
 ASSET 9c5a1cd905c8c0e4a9f52cca01ecd788	Name: ChargingEnergyGun_Slow	Name: ChargingEnergyGun_Slow
-#_localizedName:	Energy Slug Thrower	Lanzador de Energía
-#_localizedDescription:	Shoots a slow but powerful ball of pure energy when fully charged.	Dispara una lenta pero poderosa bola de energía cuando se carga completamente.
+#_localizedName:	Energy Slug Thrower	Energia-jaurtitzailea
+#_localizedDescription:	Shoots a slow but powerful ball of pure energy when fully charged.	Erabat kargatuz gero, energia bola geldo baina boteretsu bat tirokatzen du.
 ------------------------------------------		
 ASSET 2ab400863dddeba43a61ac654f5f2613	Name: ChargingEnergyGun_SuperFast	Name: ChargingEnergyGun_SuperFast
-#_localizedName:	Super Fast Charging Energy Gun	Pistola de energía de carga rápida
+#_localizedName:	Super Fast Charging Energy Gun	Karga azkarreko energia-pistola
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 18596ec73a0b5e241ba7f1bc4c505752	Name: ChargingEnergyGun_SuperSlow	Name: ChargingEnergyGun_SuperSlow
