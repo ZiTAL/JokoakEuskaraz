@@ -235,7 +235,7 @@ Language Id:	Basque
 #Resistances:	Resistances	Erresistentziak
 #Strength:	Strength	Indarra
 #Hardness:	Hardiness	Sendotasuna
-#Finesse:	Finesse	Sotiltasuna
+#Finesse:	Finesse	Punteria
 #Cybertech:	Cybertech	Cyberteknologia
 #Empathy:	Empathy	Enpatia
 #Occultism:	Occultism	Okultismoa
@@ -461,7 +461,7 @@ Language Id:	Basque
 #CannotUseWhileCombatModeIsDisabled:	Cannot use while combat mode is disabled	Ezin da erabili borroka modua desaktibatuta dagoenean
 #Saving:	SAVING	GORDETZEN
 #CharacterNameUnknown:	???	???
-#CharacterNameUnimportant:	Stranger	Arraroa
+#CharacterNameUnimportant:	Stranger	Ezezaguna
 #Resources:	Resources	Baliabideak
 #Items:	Items	Objektuak
 #ControllerPromptsPlayerOne:	Controller Glyphs	Aginte-kontrolak 1
@@ -527,7 +527,7 @@ Language Id:	Basque
 #Thought:	Thought	Pentsamendua
 #Knowledge:	Knowledge	Ezagutza
 #MindWarpRewardTaken:		
-#LocationNewDelphi:	New Delphi	Delphi Berria
+#LocationNewDelphi:	New Delphi	New Delphi
 #PoisonEffect:	Poison	Pozoia
 #SinceSaving:	since saving	gorde zenetik
 #SavedOn:	Saved on:	Gordeta:
@@ -1030,10 +1030,10 @@ SEQUENCE FleshKrakenCaretaker
 #19:	He's a bit moody these days.	Baina egunotan apur bat haserre dago, kasu!
 #58:	The Kraken needs friends.	Krakenak lagunak behar ditu.
 #59:	You think? I mean, he's stuck here. I suppose he might like to have someone to talk to other than me.	Zuk uste? Hemen harrapatuta dago. Uste dut beste norbaitekin hitz egin nahi duela, ez nirekin.
-#60:	He can't get out?	Ezin al du hemen alde egin?
+#60:	He can't get out?	Ezin al du hemendik alde egin?
 #61:	No, and I don't know how they got him in there in the first place. I just... I just take care of him.	Ez, eta ez dakit nola iritsi zen hona. Ni... ni arduratuko naiz.
 #62:	Do you know of other beings that are similar to him?	Ezagutzen al duzu haren antzeko izakirik?
-#64:	I heard rumours. About an eye as big as a house. And mountains of flesh. But I don't know where they are.	Etxe baten tamainako begi handi bati buruzko zurrumurruak entzun ditut, eta haragizko mendei buruz ere bai. Baina ez dakit non dauden.
+#64:	I heard rumours. About an eye as big as a house. And mountains of flesh. But I don't know where they are.	Etxe baten tamainako begi handi bati buruzko zurrumurruak entzun ditut, eta haragizko mendiei buruz ere bai. Baina ez dakit non dauden.
 #90:	Maybe you could ask around Tauris. It's to the east of here.	Agian Tauris-etik galde zenezake. Ekialderantz dago.
 #47:	I would, if I had any weapon.	Armaren bat banu, egingo nuke.
 #55:	Oh shit!	KAKA ZAHARRA!
@@ -1101,12 +1101,12 @@ SEQUENCE PompousQueen
 #31:	That won't do. Can't have sex with everyone who wanders by.	Ez du balioko. Ezin dut sexurik izan pasatzen den edozeinekin.
 #33:	At least not today.	Gaur, behintzat, ez.
 #6:	Do you have a king?	Ba al duzu erregerik?
-#7:	Oh, had lots of them. But they were all crushed by the royal libido.	Bai, asko. Baina denak zanpatuak izan dira libido errealaran eraginez.
+#7:	Oh, had lots of them. But they were all crushed by the royal libido.	Bai, asko. Baina denak zanpatuak izan dira libido errealaren eraginez.
 #8:	Crushed? By your libido?	Zanpatuak? Zure libidoagatik?
 #9:	Child, it's not proper to talk about the royal weight.	Txo, hori ez da nobleziarekin hitz egiteko modua.
 #2:	Ahh, another mortal seeking the attention of the queen.	Ahh, erreginaren arreta bilatzen duen beste hilkor ziztrin bat.
 #16:	But I feel a little indisposed today.	Baina gaur ondoezik nago.
-#17:	Maybe the subject can return on another day.	Agian menpeko jopu txintxoa bezala, beste egun batean itzuliko zaitezke.
+#17:	Maybe the subject can return on another day.	Agian menpeko jopu txintxoa bezala, beste egun batean itzuli zaitezke.
 #18:	Another day won't do.	Beste egun batean? EZ.
 #19:	What? It talks back?	Zer? Nola ausartzen zara horrela erantzuten?
 #3:	Well then, I'm known to be generous. And this might even give us some entertainment.	Ondo da. Eskuzabala naizelako ezagutzen naute. Eta hau entretenigarria izan daiteke.
@@ -1857,7 +1857,7 @@ SEQUENCE BleedingHeadOracleFleshDream
 #9:	Who are you?	Nor zara?
 #12:	And where am I?	Eta non nago?
 #10:	I am the Guidance of Thoughts.	Zure pentsamenduen gidaria naiz.
-#15:	I am the Voice of Nexus.	Nexo-ren ahotsa.
+#15:	I am the Voice of Nexus.	Nexus-en ahotsa.
 #16:	I am the Oracle.	Orakulua naiz.
 #14:	I can sense you're afar. But you're on Nexus. You're part of our Nexus.	Urrun zaudela senti dezaket. Baina Nexoan zaude. Gure Nexoaren parte zara.
 #18:	You have to help me, **forename**!	Lagundu behar nauzu, **forename**!
@@ -2058,7 +2058,7 @@ SEQUENCE CommentDoorLockedTutorialMeleeFirst
 #2:	This looks useful.	Honek erabilgarria dirudi.
 ------------------------------------------		
 SEQUENCE CommentDoorUnlock		
-#3:	I opened it.	Irekit dut.
+#3:	I opened it.	Ireki dut.
 #2:	The key fits.	Giltza bat dator.
 ------------------------------------------		
 SEQUENCE CommentEugh		
@@ -2165,7 +2165,7 @@ SEQUENCE CultistBanter
 #4:	The sun is always there.	Eguzkia beti dago hor.
 #5:	I never get tired of eating meat.	Ez naiz inoiz okela jateaz aspertzen.
 #9:	Hey... Don't talk to me.	Txo, ez dut txintik entzun nahi.
-#8:	I wish I were still in Cyberwomb. Everything's bland out here.	Umetoki zibernetikora itzuli nahi nuke. Hemen aspergartu besterik ez naiz egiten.
+#8:	I wish I were still in Cyberwomb. Everything's bland out here.	Umetoki zibernetikora itzuli nahi nuke. Hemen aspertu besterik ez naiz egiten.
 #7:	I don't trust the machines.	Ez naiz makinez fio.
 #6:	I don't remember if it ever rained here.	Ez dut gogoratzen euria egin zuen azken aldia.
 #3:	The flesh provides!	Haragiak hornitzen du!
@@ -2206,7 +2206,7 @@ SEQUENCE CusterDialogue
 #51:	Yes, it's the Collectors. They always pay well... if the stuff is quality.	Bai, bildumagileentzat. Beti ondo ordaintzen dute... kalitatezkoa bada, noski.
 #55:	How about you get it, then come back and I'll lead us to the buyer?	Zer moduz lortu eta eroslearengana eramaten baduzu?
 #56:	Ok. I guess.	Ondo dagoelakoan nago.
-#58:	Cool. Bunker 17 is to the northeast of here. At the foot of the mountains.	Estupendo. Primeran. 17 Bunkerra hemendik ipar-ekialdera dago. Mendien azpikaldean.
+#58:	Cool. Bunker 17 is to the northeast of here. At the foot of the mountains.	Primeran. 17 Bunkerra hemendik ipar-ekialdera dago. Mendien azpikaldean.
 #116:	I'm sure you'll find it.	Seguru aurkituko duzula.
 #99:	Good luck, stranger.	Zorte on.
 #60:	Good luck, **forename**!	Zorte on **forename**!
@@ -2338,7 +2338,7 @@ SEQUENCE DoctorTauris
 #105:	Thank you.	Mila esker.
 #68:	I should probably hurry back to the Puke Bar before it's overrun by maggots.	Azkar itzuli beharko naiz zizareek dena suntsitu baino lehen.
 #69:	Yes. You should.	Bai, beharko zara.
-#111:	I don't feel so well. Can you examine me?	Ez nago ondo. Aztertuko didazu?
+#111:	I don't feel so well. Can you examine me?	Ez nago ondo. Aztertu nazakezu?
 #113:	Sure.	Noski.
 #114:	What are your symptoms?	Zer sintoma dituzu?
 #115:	Nausea. Having to vomit occasionally.	Goragalea. Noizbehinkako gonbitoekin.
@@ -2357,7 +2357,7 @@ SEQUENCE DoctorTauris
 #134:	Yes?	Bai?
 #174:	It's a long shot, but Mortus is researching the flesh and how it affects us humans.	Zaila da, baina Mortus haragia gizakiei nola eragiten dien ikertzen ari da.
 #175:	He showed up a while ago and set up his base here in the underground beneath us.	Duela gutxi hemendik pasa zen, eta basea gure azpian jarri zuen.
-#176:	Maybe he could take a look at you.	Agian lagunduko dizut.
+#176:	Maybe he could take a look at you.	Agian lagunduko dizu.
 #137:	Ok. Thanks for the info.	Ados, eskerrik asko informazioagatik.
 #179:	Here are the brains and the Octagon fluid.	Hemen dituzu burmuinak eta likido oktagonoa.
 #180:	What? I didn't ask for that.	Zer? Ez dut hori eskatu.
@@ -2366,7 +2366,7 @@ SEQUENCE DoctorTauris
 #151:	Do you have a spare medical scanner?	Eskaner mediko bat soberan al duzu?
 #152:	What for?	Zertarako?
 #157:	Mortus wants to examine me and needs better equipment for that.	Mortus-ek aztertu nahi nau eta ekipamendu hobea behar du.
-#158:	Mortus said I would give you one?	Mortus-ek esan dizu al zizun bat emateko?
+#158:	Mortus said I would give you one?	Mortus-ek esan al dizu bat emateko?
 #165:	Yes.	Bai.
 #166:	Alright. I guess I could lend it to Mortus.	Ongi da, utziko dizut.
 #167:	Here.	Tori.
@@ -2422,7 +2422,7 @@ SEQUENCE FleshfaceSceneObject
 #76:	I was one of your masters. Here to protect you.	Maisuetako bat nintzen. Zu babesteko nago.
 #77:	To shield you from the dangers of this world.	Munduan dauden arriskuetatik babesteko.
 #82:	But that was in my previous life.	Baina hori nire aurreko bizitza zen.
-#83:	I left the masters to become one of you.	Irakasleak utzi eta zuetako bat bihurtu nintzen.
+#83:	I left the masters to become one of you.	Maisuak utzi eta zuetako bat bihurtu nintzen.
 #84:	Is that why someone destroyed you?	Horregatik suntsitu al zintuzten?
 #85:	I don't know. I don't have any memory of me getting destroyed.	Ez dakit. Ez dut suntsitua izanaren memoriarik.
 #78:	Are you the one who activated me again?	Zu al zara suspertu nauena?
@@ -2452,7 +2452,7 @@ SEQUENCE FleshHunterDialogue
 #35:	Those red guys.	Gorriz doazen tipo horiek.
 #36:	They wanna get rid of everyone. Us. The Titans.	Denok erahil nai gaituzte. Bai gu, zein Titanak.
 #139:	I bet they even have it in for the Machines.	Apustu egingo nuke makinak suntsitzeko ere zin egiten zutela.
-#56:	So, you're here for the steaks?	Entonces, Orduan, haragi-xerren bila al zatoz?
+#56:	So, you're here for the steaks?	Orduan, haragi-xerren bila al zatoz?
 #75:	Any questions?	Galderarik?
 #77:	Secret entrance?	Sarrera sekretua?
 #78:	Yes. I heard that this house has a cellar, and there's a hidden path.	Bai. Etxe honek sotoa duela eta bide sekretua daukala entzun dut.
@@ -2543,7 +2543,7 @@ SEQUENCE GodhuntersDungeonMachinePuzzle_Machine1
 #19:	[Leave]	[Joan]
 #18:	[Remove Machine Core]	[Kendu makinaren nukleoa]
 #21:	Alright. Done.	Ongi da, prest.
-#11:	This machine is missing a Machine Core.	Honi Makina Nukleoa falta zaio.
+#11:	This machine is missing a Machine Core.	Makina Nukleoa falta zaio.
 #24:	[Leave]	[Joan]
 #23:	[Insert Machine Core]	[Makina-nukleoa txertatu]
 #27:	Alright. Done.	Ongi da, prest.
@@ -2628,8 +2628,8 @@ SEQUENCE IronFistCyberwombPhilosophersLair
 #19:	Continue enjoying this world. I'm gonna rescue it for all of us.	Segi mundu hau gozatzen. Guztiontzat salbatuko dut.
 #2:	Welcome, fraction!	Ongi etorri, frakzioa!
 #9:	Who the fuck are you?	Nor zara?
-#13:	I'm the Feeder now.	Jatuna naiz.
-#21:	Why feeder?	Zein jatun?
+#13:	I'm the Feeder now.	Tripontzi naiz.
+#21:	Why feeder?	Ze Tripontzi?
 #34:	Because of her.	Beragatik.
 #23:	She was my stars. Now she's the black sky, flickering, drifting into darkness.	Nire izarra zen. Orain zeru beltza da, distiratsua eta ilunpetan noraezean dabilena.
 #24:	Soon, unreachable for me.	Laster, niretzat iriztezina izango da.
@@ -2669,7 +2669,7 @@ SEQUENCE LostSoul_OldTrees
 #12:	Oh, so you don't know about this.	Oh, ez dakizu honi buruz.
 #13:	Sorry, I don't really want to talk about it.	Sentitzen dut, benetan ez dut horretaz hitz egin nahi.
 #14:	Maybe it's enough to say that it was more like a partnership.	Agian nahikoa izango da elkarte bat bezalakoa zela esatea.
-#15:	We got the meat. They get... whatever they get out of it. I'm not really sure.	Haragia lortu genuien. Haiek... behar zutena lortzen zuten. Ez nago oso ziur.
+#15:	We got the meat. They get... whatever they get out of it. I'm not really sure.	Haragia lortu genuen. Haiek... behar zutena lortzen zuten. Ez nago oso ziur.
 ------------------------------------------		
 SEQUENCE LostWomanDialogue		
 #30:	I'm looking for this place called Tauris.	Tauris izeneko leku baten bila nabil.
@@ -2786,7 +2786,7 @@ SEQUENCE MarlaInTauris
 #36:	Just looking around.	Begiratzen nabil.
 #70:	Getting to know people?	Jendea ezagutzen?
 #71:	Something like that, I guess.	Horrelako zerbait, uste dut.
-#39:	Well, I'm Marla. I'm old, so I just stay here most of the time.	Beno, Marla naiz. Zaharragoa naiz, beraz denbora gehiena hemen ematen dut.
+#39:	Well, I'm Marla. I'm old, so I just stay here most of the time.	Beno, Marla naiz. Zaharra naiz, beraz denbora gehiena hemen ematen dut.
 #75:	I'm friends with everyone though.	Baina mundu guztiaren laguna naiz.
 #76:	Everyone?	Guztiarena?
 #77:	Yeah. Agira's best though. She takes care of me.	Bai. Baina Agira da onena. Nitaz arduratzen da.
@@ -3083,7 +3083,7 @@ SEQUENCE MortusDialogue
 #166:	About the Flesh Nexus...	Haragi Nexus-az...
 #167:	You wanted to visit that tentacle creature, see if it can teach you how to communicate with the Flesh Nexus.	Garroak dituen izakia bisitatu nahi zenuen, ea erakusten dizun Haragizko Nexus-arekin nola komunikatu.
 #169:	Ah, right.	Ah, ados.
-#158:	I feel ready to talk to the Flesh Nexus now.	Prest nago Haragi Nexus-a hitz egiteko.
+#158:	I feel ready to talk to the Flesh Nexus now.	Prest nago Haragi Nexus-arekin hitz egiteko.
 #164:	Alright. How would you do it?	Ongi da. Nola egingo duzu?
 #160:	Don't know how, but I feel like I have a voice now.	Ez dakit, baina orain ahotsa dudala sentitzen dut.
 #161:	Interesting. Please, give it a try.	Interesgarria. Mesedez, saiatu.
@@ -3091,14 +3091,14 @@ SEQUENCE MortusDialogue
 #11:	What are you doing here?	Zertan ari zara hemen?
 #12:	Examining the flesh. The machines. Finding out about our place among them.	Haragia aztertzen. Makinak. Haien artean gure lekua aurkitzen.
 #13:	But my current studies are mostly focused on the flesh.	Baina nire ikerketa haragian bideratzen da.
-#14:	I wonder... What's your perception of all the forms of meat around us?	Me pregunto... Zein da gure inguruko haragi-formei buruz duzun pertzepzioa?
+#14:	I wonder... What's your perception of all the forms of meat around us?	Zein da gure inguruko haragi-formei buruz duzun pertzepzioa?
 #85:	[Stay silent]	[Isilik egon]
-#86:	My general observations would be that it's unusual and we cannot discern where it comes from.	Nire ikuspuntua zer da, ezohiko zerbait dela, eta ezin dugu jakin nondik datorren.
+#86:	My general observations would be that it's unusual and we cannot discern where it comes from.	Nire ikuspuntua zera da, ezohiko zerbait dela, eta ezin dugu jakin nondik datorren.
 #28:	Its origin is what I'm concerned about. And its connection to the infections and mutations.	Bere jatorria da gehien kezkatzen nauena. Hori eta infekzioekin eta mutazioekin duen lotura.
 #30:	Ehhh... I was cast out from the habitat because I'm contaminated. Could this be related?	Ehhh... Habitatetik bota ninduten kutsatuta nengoelako. Zerikusia izan dezake?
 #31:	Interesting. There are no visible signs of any illness.	Interesgarria. Ez dut gaixotasun baten ezaugarririk ikusten.
 #33:	How do you feel?	Zer moduz zaude?
-#35:	Pretty normal, most of the time. Occasionally sickness overcomes me and I have the urge to vomit.	Nahiko normala, denbora gehienean. Batzuetan gaizki nago eta botaka egin behar dut.
+#35:	Pretty normal, most of the time. Occasionally sickness overcomes me and I have the urge to vomit.	Nahiko ondo, ostidxelez, denbora gehienean. Batzuetan gaizki nago eta botaka egin behar dut.
 #36:	Alright. Those could be the first signs of your metabolism changing.	Ados, zure metabolismoa aldatzen ari den seinalearen lehen sintomak dira.
 #19:	It's unusual.	Ezohikoa da.
 #22:	That's a good observation.	Behaketa ona.
@@ -3120,7 +3120,7 @@ SEQUENCE Nard
 #5:	*gulp*	*irentsi*
 #6:	*hick*	*zotina*
 #7:	Oh Millja...	Oh, Millja...
-#8:	*sniff*	**negarrez**
+#8:	*sniff*	*negarrez*
 #9:	Why have you left?	Zergatik joan zara?
 #92:	Oh, I'm sho lonely...	Oh, bakarrik...
 #98:	[Leave]	[Joan]
@@ -3287,7 +3287,7 @@ SEQUENCE NewDelphiHighPriestHeartQuestIntro
 #53:	Maybe I can help?	Lagundu zaitzaket?
 #77:	Maybe this is the quest the Titans intended for you from the very beginning.	Baliteke Titanek hasieratik agindu nahi zizuten eginkizuna izatea.
 #60:	I'd send you out to retreive the heart.	Bihotza berreskuratzera bidaliko zaitut.
-#61:	But it is too large, even for one of your stature.	Baina handiegia da, baita zure altuerarako ere.
+#61:	But it is too large, even for one of your stature.	Baina arriskutsuegia da, baita zuretzako ere.
 #63:	So? What should I do?	Orduan? Zer egin behar dut?
 #64:	Worry not.	Ez kezkatu.
 #65:	Inside its heart you shall find the seedling of a Titan.	Bere bihotzaren barruan Titanen "hazia" aurkituko duzu.
@@ -3299,7 +3299,7 @@ SEQUENCE NewDelphiHighPriestHeartQuestIntro
 #73:	But be careful. It is not without danger to enter.	KASU! Kontuz ibili.
 #75:	Take this. It will help you.	Tori hau, lagun zaitzake.
 #70:	I'm on my way.	Harantz noa.
-#78:	Even after proving yourself to the Titans already.	Baita Titanen aurrean probatu ondoren ere.
+#78:	Even after proving yourself to the Titans already.	Titanen aurrean demostratuta zauden arren ere.
 #79:	You are a true believer.	Benetako fededuna zara.
 #57:	You are indeed blessed by the Titans.	Argi dago Titanek bedeinkatua izan zarela.
 #58:	They must have sent you, knowing this would happen.	Hau gertatuko zela jakinda bidali behar zintuzten.
@@ -3312,7 +3312,7 @@ SEQUENCE NewDelphiHighPriestHeartQuestIntro
 #5:	I'm back.	Itzuli naiz.
 #13:	And it's as we were told.	Eta esan ziguten bezala da.
 #28:	The Priest of the Heart was killed and dismembered.	Bihotzeko Apaiza hil eta txikitu dute.
-#29:	His blood was everywhere.	Zure odola nonahi dago.
+#29:	His blood was everywhere.	Bere odola nonahi zegoen.
 #30:	He managed to crawl away a bit. But it was too late.	Arrastaka joan zen, baina beranduegi zen.
 #31:	The Godhunters?	Jainko-Ehiztariak?
 #32:	The Godhunters.	Jainko-Ehiztariak.
@@ -3452,7 +3452,7 @@ SEQUENCE NewDelphiHighPriestPilgrimQuestProgressInfo
 #24:	Just go eastwards from here to find it.	Zoaz ekialdera aurkitzeko.
 #3:	You have returned.	Itzuli zara.
 #13:	And it seems successfully so.	Eta arrakasta izan duzula dirudi.
-#14:	I can feel the Titans growing inside you.	Titanak zure banrruan senti ditzaket.
+#14:	I can feel the Titans growing inside you.	Titanak zure barruan senti ditzaket.
 #15:	But before we continue, I need to prepare some things.	Baina jarraitu baino lehen, gauza batzuk prestatu behar ditut.
 #16:	Let's talk again next time you visit New Delphi.	New Delphi-ra itzultzen zaren hurrengoan hitz egingo dugu.
 ------------------------------------------		
@@ -3519,7 +3519,7 @@ SEQUENCE NewDelphiHistorianDialogue
 #25:	Oh, I don't know.	Oh, ez dakit.
 #116:	The others, they're more interested in the rites and stuff.	Besteek interes handiagoa dute errituetan eta gauza horietan.
 #117:	Not the stories our community is actually built upon.	Ez gure komunitatea eraikitzeko erabiltzen diren historietan.
-#118:	I guess I'm boring them.	Aspertzen zaituztedalakon nago.
+#118:	I guess I'm boring them.	Aspertzen zaituztedalakoan nago.
 #30:	Anything else?	Besterik?
 #46:	Who is the Sleeper?	Nor da Lotia?
 #113:	One of the Flesh Titans.	Haragizko Titan-etako bat.
@@ -3607,7 +3607,7 @@ SEQUENCE NewDelphiPriestDialogue
 #49:	Even one as you may receive them.	Zu bezalako norbaitek ere har dezake.
 #3:	Who are all these people?	Jende hau guztia... nortzuk dira?
 #4:	The souls, once lost, who have found their way to truth.	Arimak, aurretik galduak zirenak, egia aurkitu dutenak.
-#5:	They come from far and wide to show their devotion as pilgrims.	Edonondik etortzen dira erromeak debozioa erakustera.
+#5:	They come from far and wide to show their devotion as pilgrims.	Edonondik etortzen dira erromesak debozioa erakustera.
 #6:	They are here to receive the blessing of the Titans.	Titan-en bedeinkazioa jasotzeko daude hemen.
 #7:	The strongest among them have even decided to stay, and put their entire being in front of the masters.	Haien artean indartsuenek erabaki dute geratzea eta, beren maisuei erabat entregatzea.
 #8:	You too could be one of them.	Horietako bat izan zaitezke.
@@ -3910,7 +3910,7 @@ SEQUENCE PukeBar_GuestRoot
 #23:	How about you giving him some company?	Zer moduz konpainia egiten badiozu?
 #24:	No way. I wanna have some fun. And he doesn't look like fun.	Inola ere ez. Dibertitu nahi dut eta bera aspegarria da.
 #33:	[Leave]	[Joan]
-#32:	Just look at him. How can you be so heartless?	Tan solo míralo. Begira iezaiozu. Nola izan dezakezu hain bihotz txikia?
+#32:	Just look at him. How can you be so heartless?	Begira nola dagoen, zelan izan zaitezke hain bihotzgabea?
 #34:	Ok. ok. I got it.	Ongi da, ongi da. Ulertuta....
 #35:	I'll take care of him. For now.	Oraingoz, arduratuko naiz.
 #60:	But you'll have to introduce us properly.	Baina behar bezala aurkeztu beharko gaituzu.
@@ -3993,7 +3993,7 @@ SEQUENCE Sarah_Tauris
 #3:	Please don't harm me.	Mesedez, ez iezadazu minik eman.
 #4:	You're living here?	Hemen bizi al zara?
 #5:	Yeah. It's cozy. And I'm not bothering anyone here.	Bai, atsegina da. Eta ez diot inori enbarazu egiten.
-#6:	Not that it matters. Sometimes I think no one cares about anything anymore, for good or bad.	Ez dio axola, baina batzuetan uste dut ez zaiola inori ez zaiola ezer axola. Bai onerako zein txarrerako.
+#6:	Not that it matters. Sometimes I think no one cares about anything anymore, for good or bad.	Ez dio axola, baina batzuetan uste dut inori ez zaiola ezer axola. Bai onerako zein txarrerako.
 #10:	[shrug]	[Sorbaldak jaso]
 #12:	Hmmh.	Hmm.
 #20:	Please leave me alone.	Utz nazazu bakarrik, mesedez.
@@ -4021,7 +4021,7 @@ SEQUENCE ScepticalNPCPukeBar
 #118:	You're either a pervert or just messing with me.	Perbertitu puta bat zara edo adarra jotzen ari al zara?
 #98:	I don't wanna be friends with one of them. Please leave me alone.	Ez dut horrelako mustroren baten laguna izan nahi. Utz nazazu bakean. SEP
 #82:	Why can't I trust the fleshies?	Zergatik ezin naiz haragiekin fidatu?
-#84:	They're gonna kill you. Hack you up, and then build a new titan with your arms and liver and blood.	Hil zaituztelako. Zatitxotan zatituko eta Titan berri bat eraikiko dute zure besoekin, gibelarekin eta odola erabiliz.
+#84:	They're gonna kill you. Hack you up, and then build a new titan with your arms and liver and blood.	Hil zaituzketelako. Zatitxotan zatitu eta Titan berri bat eraikiko dute zure besoekin, gibelarekin eta odola erabiliz.
 #89:	They're building new titans from body parts?	Titan-ak gorputzeko atalekin eraikitzen al dituzte?
 #91:	Yes.	Bai.
 #104:	You saw that yourself or heard that somewhere?	Zuk zeuk ikusi duzu edo norbaiti entzun al diozu?
@@ -4112,7 +4112,7 @@ SEQUENCE TaurisCultistFriend1
 #26:	It's about which of us can puke most.	Botaka gehien egiten duenak irabazten du.
 #27:	I heard she's practicing a lot for this.	Horretarako praktikatzen ari dela entzun dut.
 #28:	I don't wanna lose this time.	Ez dut denbora galdu nahi.
-#29:	So, you in?	Entonces, Beraz, izena emango al duzu?
+#29:	So, you in?	Beraz, izena emango al duzu?
 #48:	I still need that glibber.	Oraindik gauza hori behar dut.
 #49:	Gross stuff.	Nazkagarria da.
 #38:	Ah, you brought me the stuff.	Ah, ekarri didazu.
@@ -4171,7 +4171,7 @@ SEQUENCE TaurisFriendsPukeContest
 #42:	I can't anymore. I give up.	Ezin dut jarraitu. Amore ematen dut.
 #16:	Really?	Benetan?
 #43:	Yes.	Bai.
-#23:	Does this mean I won?	Irabazi dudala esan nahi al du?
+#23:	Does this mean I won?	Irabazi dudala esan nahi al duzu?
 #44:	Congratulations.	Zorionak!
 #26:	Finally. I'm so happy, I could just...	Azkenean, ze zoriontsua naizen. Baliteke...
 ------------------------------------------		
@@ -4210,7 +4210,7 @@ SEQUENCE TutorialCommentBlood
 #2:	Yeah, this is not mine.	Bai, ez da nirea.
 ------------------------------------------		
 SEQUENCE TutorialHubMachineNeedsPuke		
-#7:	Please refill organic lubricant.	Mesedez, lubrifikatzaile organikoa bete.
+#7:	Please refill organic lubricant.	Mesedez, lubrifikatzaile organikoaz bete.
 #35:	What is that supposed to mean?	Zer esan nahi du horrek?
 #24:	Here we go.	Goazen.
 #16:	Oh hey, it worked.	Oh, funtzionatu du!
@@ -4337,7 +4337,7 @@ SEQUENCE QuestInfectionAwareness
 SEQUENCE QuestPhilosopher		
 #2:	Find the Philosopher to the east of Old Trees	Filosofoa Zuhaitz Zaharren ekialdean aurkitu
 #3:	Find any hints about the death of the Philosopher	Filosofoaren heriotzaren aztarnak aurkitu
-#10:	Return to Aksa	Aksara itzuli.
+#10:	Return to Aksa	Aksa-rengana itzuli.
 #6:	The Philosopher	Filosofoa
 ------------------------------------------		
 SEQUENCE QuestTalkToTheFlesh		
@@ -4386,7 +4386,7 @@ SEQUENCE QuestLittlePests
 #17:	Return to the doctor	Medikuarenera itzuli
 #2:	Get rid of the flesh maggots	Haragi-harrez libratu
 #16:	Speak to the barkeeper	Tabernariarekin hitz egin
-#18:	Little Pests	Izurri* txikia *(infestación)
+#18:	Little Pests	Izurrite* txikia *(infestación)
 ------------------------------------------		
 SEQUENCE QuestLost		
 #2:	You've met a woman who got lost on the way to Tauris.	Tauris-era bidean galdu den emakumea aurkitu duzu.
@@ -4423,7 +4423,7 @@ SEQUENCE QuestThePilgrimsPath
 ------------------------------------------		
 ASSET 1fe12551ff6b53546bc4af9b6d0e9714	Name: BlockAbility	Name: BlockAbility
 #_localizedName:	Block	Blokeatu
-#_localizedDescription:	Blocks damage if used in the correct moment.	Kaleta blokeatzen du une egokian erabiltzekotan.
+#_localizedDescription:	Blocks damage if used in the correct moment.	Kaltea blokeatzen du une egokian erabiltzekotan.
 ------------------------------------------		
 ASSET 3b21ff74579f56a47b3d6c1ad095cf29	Name: FireCircleAbility	Name: FireCircleAbility
 #_localizedName:	Fire Circle	Su-Zirkulua
@@ -4946,7 +4946,7 @@ ASSET d22da6ee79dad8647ac2c0d4702c139b	Name: MemoryMetBleedingHeadOracle	Name: M
 #_localizedDescription:	Amidst a pool of blood, everflowing, rests a curious mind.	Etengabe jariatzen den odol-putzu baten erdian, buru bitxi batek atseden hartzen du.
 ------------------------------------------		
 ASSET 2edfb068bc2b24e48a63b0d33d63e033	Name: MemoryMetFeeder	Name: MemoryMetFeeder
-#_localizedName:	Feeder	Jantoki
+#_localizedName:	Feeder	Tripontzia
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 6380169341c41334fad236097ca20b6a	Name: MemoryMetFleshkraken	Name: MemoryMetFleshkraken
@@ -5126,7 +5126,7 @@ ASSET 3b357ed6f26893042b8515690ff82e33	Name: ReadableGroupGeneral	Name: Readable
 ------------------------------------------		
 ASSET ef088ab846cff2e4abbdec12190ab5b8	Name: GodhuntersDungeon_Deserters	Name: GodhuntersDungeon_Deserters
 #_localizedContent:	Some of you may have heard the rumours that some time ago one of our members deserted to start a career as a priest in New Delphi.||||This is not true.||||We are the strongest.||||Nobody can or will ever desert from us.||||And if they do, their death is imminent.||||So don't even think about running away!||||FUCK GOD AND THE REST!	Zuetako batzuek entzungo zenituzten New Delphi-ko apaiz bihurtu den gure kideetako baten desertzioaren zurrumurruak. ||||Hori ez da egia.||||Indartsuenak gara.|||||Inork ezin gaitu inoiz abandonatu. ||||Hala egitenez gero , berehala hilko dira.||||Ezta pentsatu ere ihes egitea!||||JAINKOARI ETA GAINERAKO BESTE GUZTIEK ZURRUPA IEZADATELA!
-#_localizedName:	Deserters	Desertores
+#_localizedName:	Deserters	Desertoreak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 7f3f1b658a6252948bb36b45653c8de8	Name: GodhuntersDungeon_Kitchen	Name: GodhuntersDungeon_Kitchen
@@ -5215,7 +5215,7 @@ ASSET 1673febb5cca24842ab19a8a1dac71c8	Name: Mine19_Note3	Name: Mine19_Note3
 ------------------------------------------		
 ASSET d8c9aa0238b5fc7438f99800613f4ab5	Name: Mine19_Note4	Name: Mine19_Note4
 #_localizedContent:	Why the fuck would this place need a head officer?||||The guys are working on their own. I don't even know what their work is about.||But no-oh. Cafière wants to have somebody here. Fill the seat in their absence.||||At least the pay is good. It would be better if I could actually leave and go to a place where I can spend that money.||||Being indoors all the time is starting to impact my vision. My head hurts all the time.||I shouted at one of those damn metal things to go and get me something to better my eyes. ||I don't think he understood. But shouting is fun. Might try that again.	Zergatik behar dugu ofizial bat hemen?||||Mutilek beren kabuz egiten dute lan. Ez dakit ezta haien lana zeri buruzkoa den ere ez.||Baina ez, noski. Cafièr-ek norbait nahi du hemen behean. Bera kanpoan den bitartean haren lekua hartzeko.|||Gutxienez ordainsaria ondo dago. Askoz hobeto legoke alde egin eta diru hori gastatu ahal izango banu.||||Giltzapetuta egoteak eragina du nire ikusmenean. Buruak min ematen dit denbora guztian.||Metalezko gauza gaizto horietako bati oihukatu nion, begiak hobetzeko zerbait lor diezadan.||Ez dut uste ulertu zuenik. Baina oihu egiteak ondo sentiarazten nau. Baliteke berriro egitea.
-#_localizedName:	Job Concerns	Laneren kezkak
+#_localizedName:	Job Concerns	Lanaren kezkak
 #_localizedDescription:		
 ------------------------------------------		
 ASSET 93e230e87f4c56d40a54fea71bbdf9d5	Name: Mine19_Note5	Name: Mine19_Note5
@@ -5253,7 +5253,7 @@ ASSET 77c832c8e3c75de45a4209c0e59353fb	Name: ImmediateDanger	Name: ImmediateDang
 #_localizedDescription:		
 ------------------------------------------		
 ASSET fdc9308e51db34b409fa550489dc961b	Name: NotGuilty	Name: NotGuilty
-#_localizedContent:	I am innocent.||||Didn't harm him in any way. But I was deemed too dangerous.||||I refuse to go.||Want back.||Need to be reconnected.||Cannot live without.||||I'll think of something.	Errugabea naiz.||||Ez diot inori minik egin. Baina arriskutsua naizelakoan kondenatzen naute.||||Ez dut joan nahi.||Itzuli nahi dut.||Berriz konektatu behar naiz.||Ezin naiz bizi hori gabe.||||Zerbait asmatu pentsatu behar dut.
+#_localizedContent:	I am innocent.||||Didn't harm him in any way. But I was deemed too dangerous.||||I refuse to go.||Want back.||Need to be reconnected.||Cannot live without.||||I'll think of something.	Errugabea naiz.||||Ez diot inori minik egin. Baina arriskutsua naizelakoan kondenatzen naute.||||Ez dut joan nahi.||Itzuli nahi dut.||Berriz konektatu behar naiz.||Ezin naiz bizi hori gabe.||||Zerbait asmatu behar dut.
 #_localizedName:	Not guilty	Errugabea
 #_localizedDescription:	Personal notes	Ohar pertsonalak
 ------------------------------------------		
