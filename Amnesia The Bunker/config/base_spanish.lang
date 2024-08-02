@@ -876,6 +876,7 @@
     <Entry Name="english">English</Entry>
     <Entry Name="german">Deutsch</Entry>
     <Entry Name="spanish">Español</Entry>
+    <Entry Name="basque">Euskera</Entry>
     <Entry Name="french">Français</Entry>
     <Entry Name="russian">Ruski</Entry>
     <Entry Name="polish">Polski</Entry>
