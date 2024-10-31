@@ -473,7 +473,7 @@
   </CATEGORY>
   <CATEGORY Name="PreMenu">
     <Entry Name="Continue">Jarraitu</Entry>
-    <Entry Name="Test">Barne-datuen erregistroa [n.] 902901 [br] [br] WAU sistemak, Pathos-II diseinu sistema zentrala [br] [br] [br] Kanpo-sistemak: jada ez daude aktibo [br] -&gt; Ekintza: Baliabide guztiak tokiko ingurunera birbideratzea. [br] [br] [br] Misio nagusia bertan behera uztea [br] -&gt; Laguntza exekutatzea [br] [br] Egitura-egoera: txarra [br] Tripulazioaren egoera: gainbehera azkarrean. [br] -&gt; Larrialdi-modua aktibatzea... %100 [br] -&gt; OINARRIZKO KODEAREN OHARRA, baztertu, jarraitu [br] -&gt; Erabateko sarbidea aktibatuz.</Entry>
+    <Entry Name="Test">Barne-datuen erregistroa [n.] 902901 [br] [br] WAU sistemak, Pathos-II diseinu sistema zentrala [br] [br] [br] Kanpo-sistemak: jada ez daude aktibo [br] -&gt; Ekintza: Baliabide guztiak tokiko ingurunera birbideratzea. [br] [br] [br] Misio nagusia bertan behera uztea [br] -&gt; Laguntza exekutatzea [br] [br] Egitura-egoera: txarra [br] Tripulazioaren egoera: gainbehera azkarrean. [br] -&gt; Larrialdi-modua aktibatzea... % 100 [br] -&gt; OINARRIZKO KODEAREN OHARRA, baztertu, jarraitu [br] -&gt; Erabateko sarbidea aktibatuz.</Entry>
   </CATEGORY>
   <CATEGORY Name="Languages">
     <Entry Name="english">English</Entry>

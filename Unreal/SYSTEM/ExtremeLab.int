@@ -11,7 +11,7 @@ message="Segurtasuneko langileak Lineako Potentzia Alternoaren Hornidurarako Atx
 AltMessage="Iturria energia hornidura seguru dago, Alternate Potentziaren Hornikuntza prest borroka. Berebiziko garrantzia du iturriko energia-fluxuari eusteak. Ahulezia zigortuko da. "
 
 [TranslatorEvent7]
-message="UKATUTAKO SARBIDEA: %100eko potentzia-erreserbak"
+message="UKATUTAKO SARBIDEA: % 100eko potentzia-erreserbak"
 AltMessage="Ikerketa Laborategira joan behar duzu energia maila murrizteko. "
 Hint="Ikerketa Labotariora joan behar duzu energia maila murrizteko. "
 
@@ -22,13 +22,13 @@ AltMessage="Potentziaren lehen mailako hornidurak errendimendu ezin hobean funtz
 message="Ikerketa Zentroa"
 
 [TranslatorEvent22]
-Message="190 txostena: Ess 'Tajjiren Shrk' Tajji 2. Beheko Begia behatzen. Prest gaude hurrengo esperimenturako. Espero dugu potentzia-erreserbak % 18 jaistea, %100ean. Proba-subjektua bere lekuan dago eta Tarydiuma kargatzeko prest dago. "
+Message="190 txostena: Ess 'Tajjiren Shrk' Tajji 2. Beheko Begia behatzen. Prest gaude hurrengo esperimenturako. Espero dugu potentzia-erreserbak % 18 jaistea, % 100ean. Proba-subjektua bere lekuan dago eta Tarydiuma kargatzeko prest dago. "
 
 [TranslatorEvent20]
 message="Sail genetikoa"
 
 [TranslatorEvent14]
-AltMessage="Eskolta Ontzian atzemandako arrotza, esperimentu guztiak bertan behera geratzen dira Chakti 'Nrrj-en aginduz, Ssa' Nrrj-en 2. orpo handia, hurrengo abisura arte. Potentzia-erreserbek %100ean egon behar dute segurtasun-sistemaren funtzionamendua optimoa izan dadin. "
+AltMessage="Eskolta Ontzian atzemandako arrotza, esperimentu guztiak bertan behera geratzen dira Chakti 'Nrrj-en aginduz, Ssa' Nrrj-en 2. orpo handia, hurrengo abisura arte. Potentzia-erreserbek % 100ean egon behar dute segurtasun-sistemaren funtzionamendua optimoa izan dadin. "
 
 [TranslatorEvent15]
 AltMessage="187. txostena: Ess 'Tajjiren Shrk' Tajji 2. Beheko Begia informatzen. Aurreko probetan defentsa-efektuan huts egin arren, froga-subjektuen gelaxkek hondar-efektu batzuk erakusten dituzte. Oso interesgarria... "
@@ -52,7 +52,7 @@ AltMessage="Esperimentuak arrakasta badu, ikerketa-zentroa B kokalekura eramaten
 AltMessage="Egoera CryoPods: Tenperatura 269 gradu Kelvin, Presioa 748 milibar, subjektuak esperimentua hasteko prest daude. "
 
 [TranslatorEvent26]
-message=" %100eko potentzia-erreserba, % 0.0025eko defentsa-efektua. EEG/EKG irakurketak normalak dira, egoera fisiologikoa kriogenizatuta dago. "
+message=" % 100eko potentzia-erreserba, % 0.0025eko defentsa-efektua. EEG/EKG irakurketak normalak dira, egoera fisiologikoa kriogenizatuta dago. "
 AltMessage=" % 80ko potentzia-erreserba, % 5,64ko defentsa-efektua, EEG/EKG irakurketek istilu masiboak erakusten dituzte, egoera fisiologikoa aktibo dago eta endorfina- eta adrenalina-sistemek hormona-gainkargak sortzen dituzte. "
 
 [TranslatorEvent25]
