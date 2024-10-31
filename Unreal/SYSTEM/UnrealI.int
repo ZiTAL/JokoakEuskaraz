@@ -591,9 +591,9 @@ PickupMessage=ASMD nukleoa jaso duzu.
 PickupMessage=Blindaje-gerrikoa duzu.
 
 [UnrealTeamGameOptionsMenu]
-HelpMessage[10]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti % 100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
+HelpMessage[10]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti %100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
 MenuList[10]=Su-eskala aliatua
-HelpMessage[9]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti % 100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
+HelpMessage[9]=Su aliatuak hartutakoan jasandako kalteen ehunekoa. Garrantzitsua: Beti %100eko kalteak jasango dituzu zure armek harrapatzen zaituztenean.
 MenuList[9]=Su-eskala aliatua
 
 [OKMenu]
