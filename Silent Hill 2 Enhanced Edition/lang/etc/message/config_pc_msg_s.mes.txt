@@ -1,0 +1,91 @@
+Mover a izda.
+
+Mover a dcha.
+
+Girar a la izda.
+
+Girar a la dcha.
+
+Ir hacia delante
+
+Ir hacia atr!s
+
+Paso a la izda.
+
+Paso a la dcha.
+
+Apuntar a izda.
+
+Apuntar a dcha.
+
+Acci3n
+
+Cancelar
+
+Omitir/Pausa
+
+Correr/Defensa
+
+Modo de b:squeda
+
+Inventario
+
+Linterna
+
+Fijar objetivo
+
+Mapa
+
+Esc
+
+Intro
+
+Retroceso
+
+Espacio
+
+May:s izda.
+
+May:s dcha.
+
+Ctrl izdo.
+
+Ctrl dcho.
+
+Alt izda.
+
+Tab
+
+Insert
+
+Inicio
+
+Supr
+
+Fin
+
+Av P!g
+
+Re P!g
+
+Cursor izdo.
+
+Cursor dcho.
+
+Cursor abajo
+
+Cursor arriba
+
+(T. num.)
+
+Intro
+
+Pad Izda.
+
+Pad Dcha.
+
+Pad Arriba
+
+Pad Abajo
+
+Bot3n
