@@ -1,0 +1,101 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Este lugar no ha cambiado
+en absoluto en tres años...
+[ffff]
+[8000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+caja de música
+de la sirenita
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Mary...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pareces tan... sosegada...
+Siento haberte despertado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero, sin ti, nada tiene sentido.
+[ffff]
+[8000]
+}
+{
+[8000]
+No puedo vivir sin ti, Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta ciudad, Silent Hill...
+[ffff]
+[8000]
+}
+{
+[8000]
+Los viejos dioses
+no la han abandonado...
+[ffff]
+[8000]
+}
+{
+[8000]
+y siguen otorgando poder
+a aquellos que los veneran...
+[ffff]
+[8000]
+}
+{
+[8000]
+Un poder que desafía
+incluso a la muerte...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah... Mary...
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+AVISO
+PROHIBIDO EL PASO
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una fuente con forma de pájaro.
+Ahora mismo no sale agua.
+[ffff]
+[9000]
+}

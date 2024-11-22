@@ -1,0 +1,1429 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 217
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Guardar en cualquier sitio
+[ffff]
+[8000]
+}
+{
+[8000]
+Nombre no decidido
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Bosque
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Aparcamiento
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Caravana
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam., escalera SO
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam., habitación 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. oeste, habit. 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. oeste, habit. 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Motel
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, recepción
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, habitación 3.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, pasillo 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, escalera sur
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, vestíbulo
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Sociedad Histórica
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Prisión, comedor
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Prisión, lavabo
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Ascensor
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Pasillo del laberinto
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Catacumba
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Embarcadero
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, vestíbulo
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, cuarto del ascensor
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, vestíbulo, 3.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, vestíbulo, 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Selecciona un archivo guardado.
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Deseas formatearla?
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+No hay un archivo de datos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Archivo de datos dañado.
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+Es posible guardar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Guardar en un archivo nuevo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Formateando.
+[ffff]
+[8000]
+}
+{
+[8000]
+Error al formatear.
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+Guardando...
+[ffff]
+[8000]
+}
+{
+[8000]
+Datos guardados.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fallo al guardar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cargando.
+[ffff]
+[8000]
+}
+{
+[8000]
+Carga completada.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fallo al cargar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Los datos están dañados.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Deseas sobreescribir?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Abortar el guardado?
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+N.º de archivos
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+[02ff]
+No hay espacio disponible.
+[ffff]
+[8000]
+}
+{
+[8000]
+Acción
+[ffff]
+[8000]
+}
+{
+[8000]
+Enigmas
+[ffff]
+[8000]
+}
+{
+[8000]
+Fácil
+[ffff]
+[8000]
+}
+{
+[8000]
+Normal
+[ffff]
+[8000]
+}
+{
+[8000]
+Difícil
+[ffff]
+[8000]
+}
+{
+[8000]
+Datos
+[ffff]
+[8000]
+}
+{
+[8000]
+Fecha
+[ffff]
+[8000]
+}
+{
+[8000]
+Guardado
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+No se pueden crear más archivos
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Seguro que quieres borrar
+estos datos guardados?
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+Borrando...
+[ffff]
+[8000]
+}
+{
+[8000]
+Datos borrados.
+[ffff]
+[8000]
+}
+{
+[8000]
+Error al borrar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para crear un archivo adicional
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para guardar un archivo nuevo
+[ffff]
+[8000]
+}
+{
+[8000]
+Espacio libre: 
+[e0ff]
+ KB
+[ffff]
+[8000]
+}
+{
+[8000]
+Retroceso: Eliminar
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Carga rápida completada
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Extra
+[ffff]
+[8000]
+}
+{
+[8000]
+Principiante
+[ffff]
+[8000]
+}
+{
+[8000]
+Resultados de la partida
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Salón de la mansión
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Vestíbulo de la mansión
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Apartamentos, 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Disco duro
+[ffff]
+[8000]
+}
+{
+[8000]
+Archivos
+[ffff]
+[8000]
+}
+{
+[8000]
+Al guardar se borró:
+[ffff]
+[8000]
+}
+{
+[8000]
+Al cargar se borró:
+[ffff]
+[8000]
+}
+{
+[8000]
+Archivo eliminado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pulsa Intro para continuar.
+[ffff]
+[8000]
+}
+{
+[8000]
+No apagues el ordenador.
+[ffff]
+[8000]
+}
+{
+[8000]
+No extraigas las unidades de memoria
+ni desconectes ningún controlador.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pulsa el botón START.
+[ffff]
+[8000]
+}
+{
+[8000]
+Vuelve a conectar el controlador
+y pulsa START para continuar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para crear un archivo adicional
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para guardar un archivo nuevo
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Comprobando disco duro
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Iniciar instalación
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Instalación completa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fallo en la instalación.
+[ffff]
+[8000]
+}
+{
+[8000]
+Instalando efectos
+[ffff]
+[8000]
+}
+{
+[8000]
+Comprobando DISCO DE MEMORIA...
+[ffff]
+[8000]
+}
+{
+[8000]
+Instalación terminada
+[ffff]
+[8000]
+}
+{
+[8000]
+[02ff]
+Partida dañada.
+[ffff]
+[8000]
+}
+{
+[8000]
+Carpeta dañada.
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+No se pudo guardar la partida.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cargando partida guardada...
+[ffff]
+[8000]
+}
+{
+[8000]
+No se pudo cargar la partida.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fallo al borrar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pulsa START para continuar.
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para crear un archivo adicional
+[ffff]
+[8000]
+}
+{
+[8000]
+Se necesitan 
+[e0ff]
+ KB
+para guardar un archivo nuevo
+[ffff]
+[8000]
+}
+{
+[8000]
+Espacio libre: 
+[e0ff]
+ KB
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Seguro que quieres borrar
+estos datos guardados?
+[ffff]
+[8000]
+}
+{
+[8000]
+Error al borrar la partida.
+[ffff]
+[8000]
+}
+{
+[8000]
+No hay carpeta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+Es posible guardar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Archivos guardados de SILENT HILL 2
+[ffff]
+[8000]
+}
+{
+[8000]
+A
+[ffff]
+[8000]
+}
+{
+[8000]
+No puede crearse una carpeta nueva
+[ffff]
+[8000]
+}
+{
+[8000]
+Nivel cero
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Muestra TGS
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Servicios/Bar/Caravana
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Mirador
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Bosque
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Parte este de la ciudad
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. este, 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. este, 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. este, 3.ª plta. O
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. este, 3.ª plta. E
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. oeste, 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Apartam. oeste, 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Escaleras de apartamentos
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Exterior de apartamentos
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Parte oeste de la ciudad
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Bolera
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Exterior del Heaven's Night
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Heaven's Night
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, 1.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, 2.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, 3.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, tejado/ascensor
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital opuesto, 1.ª plta. O
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital opuesto, 1.ª plta. E
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital opuesto, 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital opuesto, 3.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital, sótano
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hospital opuesto, pasillo
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Sociedad Histórica
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Zona extraña 1
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Zona extraña 2
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Norte de la prisión
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Sur de la prisión
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Sótanos de la prisión
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Laberinto, parte oeste
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Laberinto, parte este
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Laberinto, parte norte
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Enfrentamiento con Eddie
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Lago
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, sótano
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, 1.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, 2.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel, 3.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel opuesto, sótano
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel opuesto, 1.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel opuesto, 2.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel opuesto, 3.ª planta
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Hotel en llamas
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Desenlace: Recuperación
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Desenlace: María
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Desenlace: Suicidio
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Desenlace: Resurrección
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+Desenlace: Perro
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Heaven's Night
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Ciudad
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Mansión, 1.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Mansión, 2.ª plta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Mansión, sótano
+[ffff]
+[8000]
+}
+{
+[8000]
+[00ff]
+María: Apartamentos
+[ffff]
+[8000]
+}
+{
+[8000]
+Guardado rápido
+[ffff]
+[8000]
+}

@@ -1,0 +1,42 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 5
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Una pared.
+No puedo pasar por aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una máquina de discos.
+Ahora no me sirve de nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+La nevera no se abre.
+[ffff]
+[9000]
+}
+{
+[8000]
+El armario no se abre.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada útil.
+[ffff]
+[9000]
+}

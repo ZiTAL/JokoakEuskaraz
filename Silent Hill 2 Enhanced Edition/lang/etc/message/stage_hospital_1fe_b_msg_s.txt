@@ -1,0 +1,93 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 7
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¿Está roto? Pulso los botones,
+pero el ascensor no reacciona.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del vestíbulo
+del hospital
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del vestíbulo
+del hospital
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He copiado esta información
+en mi mapa.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Quien no tenga el valor suficiente
+para dejar que lo observen
+desde el abismo, no tendrá el valor
+suficiente para encararse a él.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La verdad sólo se encontrará
+avanzando hacia delante.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Sigue el mapa.
+Ahí hay una carta y una llave inglesa.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un libro antiguo
+sobre la historia de Silent Hill.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una hilera de libros sobre medicina,
+la ciudad y la región.
+[ffff]
+[1000]
+[8000]
+No tengo tiempo
+para ponerme a leerlos.
+[ffff]
+[9000]
+}

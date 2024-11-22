@@ -1,0 +1,314 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 44
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+No se oye nada más.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una muesca redonda
+en la puerta.
+[ffff]
+[9000]
+}
+{
+[8000]
+No puedo escapar ahora.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ya no lo necesito.
+Ahora no es más que un cadáver.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+huevo
+de color de orín
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+huevo escarlata
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+huevo de color
+de orín
+[00ff]
+ en la puerta.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+huevo escarlata
+[00ff]
+
+en la puerta.
+[ffff]
+[9000]
+}
+{
+[8000]
+Cabeza Pirámide no se mueve.
+Ya no tengo que preocuparme
+más por él.
+[ffff]
+[9000]
+}
+{
+[8000]
+¡James!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Basta!
+¡Dejadla en paz!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Dejadnos en paz a los dos!
+[ffff]
+[8000]
+}
+{
+[8000]
+Era débil.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por eso te necesitaba...
+[ffff]
+[8000]
+}
+{
+[8000]
+Necesitaba que alguien me castigase
+por mis pecados...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero se acabó...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sé toda la verdad... Ha llegado
+el momento de poner fin a todo esto.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué quieres, James?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Te he traído unas flores...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Flores?
+A la mierda con las flores.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Vete a casa!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary, ¿qué dices?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mírame! ¡Soy repugnante!
+No me merezco ninguna flor.
+[ffff]
+[8000]
+}
+{
+[8000]
+Entre la enfermedad
+y la medicación...
+parezco un monstruo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué estás mirando?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Vete a tomar por saco!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Y déjame en paz!
+[ffff]
+[8000]
+}
+{
+[8000]
+No le soy útil a nadie...
+y no tardaré en morirme.
+[ffff]
+[8000]
+}
+{
+[8000]
+Quizás hoy, tal vez mañana...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sería más fácil que me mataran.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero, claro, el hospital
+está sacando tajada de mí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Les interesa mantenerme viva...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sigues aquí?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Te he dicho que te vayas!
+¡¿Estás sordo o qué?!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Y no vuelvas!
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+Espera...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor, no te vayas...
+[ffff]
+[8000]
+}
+{
+[8000]
+Quédate conmigo.
+No me dejes sola.
+[ffff]
+[8000]
+}
+{
+[8000]
+No lo dije en serio.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Dime que todo irá bien.
+[ffff]
+[8000]
+}
+{
+[8000]
+Dime que no me voy a morir.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ayúdame...
+[ffff]
+[8000]
+}
+{
+[8000]
+Cabeza Pirámide
+ha dejado de moverse.
+[ffff]
+[1000]
+[8000]
+Parece que tiene algo en la mano.
+[ffff]
+[9000]
+}

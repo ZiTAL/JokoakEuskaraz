@@ -1,0 +1,186 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Seguramente aquí había un cuadro.
+[ffff]
+[1000]
+[8000]
+Sólo queda la descripción.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+«Paisaje ribereño»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Allen Smith (Fecha de nacimiento
+y defunción desconocidas)
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Un paisaje antiguo de esta zona.
+Por el estilo, parece que se pintó
+sobre la década de 1820.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+En aquel entonces había mucha
+menos gente y apenas un puñado
+de edificios.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Paisaje ribereño»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Allen Smith (Fecha de nacimiento
+y defunción desconocidas)
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Un paisaje antiguo de esta zona.
+Por el estilo, parece que se pintó
+sobre la década de 1820.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+En aquel entonces había mucha
+menos gente y apenas un puñado
+de edificios.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+«Día neblinoso,
+restos del juicio»
+[ffff]
+[1000]
+[8000]
+[00ff]
+Es él...
+[ffff]
+[9000]
+}
+{
+[8000]
+Esta foto no tiene nada especial.
+[ffff]
+[9000]
+}
+{
+[8000]
+La vitrina no tiene nada de interés.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay muchas fotografías antiguas.
+Parecen fotos de esta ciudad.
+[ffff]
+[9000]
+}
+{
+[8000]
+El texto no dice nada útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+copa de obsidiana
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto colgada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Mina de carbón Wiltse
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto de un hoyo
+muy profundo. ¿Qué podría ser...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto colgada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Hospital Brookhaven (1880)
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Este hospital se edificó
+en respuesta a la gran plaga
+que trajo un grupo de
+inmigrantes. Originalmente
+era poco más que una casucha,
+pero fue creciendo
+con el tiempo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto de un hoyo
+muy profundo. ¿Qué podría ser...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Una foto del director del viejo
+Hospital Brookhaven.
+Parece que era famoso por aquí.
+[ffff]
+[9000]
+}

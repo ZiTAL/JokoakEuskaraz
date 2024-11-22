@@ -1,0 +1,304 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 38
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[faff]
+[01ff]
+¡Le damos la bienvenida
+a Silent Hill!
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Silent Hill es una pequeña y
+tranquila ciudad turística
+a orillas de un lago.
+Nos alegra que haya decidido
+visitarnos. Tómese un descanso
+de su ajetreada vida y disfrute
+de unas tranquilas vacaciones.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Hileras de pintorescas casas
+antiguas.
+ Un magnífico paisaje montañoso.
+ Y un lago que muestra las distintas
+facetas de su belleza a lo largo del
+día, de sol a sol.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Silent Hill le conmoverá y le hará
+sentir una paz profunda.
+Espero que su estancia sea agradable
+y sus recuerdos perduren
+para siempre.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Editor: Roger Widmark
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un folleto turístico
+de la ciudad.
+[ffff]
+[9000]
+}
+{
+[8000]
+¡No he sido yo!
+¡Yo no lo hice!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Hacer el qué?
+[ffff]
+[8000]
+}
+{
+[8000]
+No he hecho nada.
+¡Lo... Lo juro!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya estaba así cuando llegué...
+[ffff]
+[8000]
+}
+{
+[8000]
+Me... Me llamo James.
+James Sunderland.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh, Eddie...
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie... ¿quién es
+el muerto de la cocina?
+[ffff]
+[8000]
+}
+{
+[8000]
+No he sido yo.
+Juro que no he matado a nadie.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿No tendrás nada que ver con
+esa cosa piramidal roja, no?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cosa piramidal roja?
+No sé de qué me hablas.
+[ffff]
+[8000]
+}
+{
+[8000]
+En serio.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero he visto unos monstruos
+muy raros.
+[ffff]
+[8000]
+}
+{
+[8000]
+Me acojonaron,
+por eso me metí aquí...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, esto tampoco parece
+muy seguro.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Pero qué ha pasado aquí?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Te he dicho que no lo sé.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ni siquiera soy de esta ciudad.
+Yo sólo, sólo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya. Algo te ha traído
+a este lugar, ¿no?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, digamos que sí...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, sea lo que sea...
+[ffff]
+[8000]
+}
+{
+[8000]
+deberías largarte pronto.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya, tienes razón. ¿Y tú qué?
+[ffff]
+[8000]
+}
+{
+[8000]
+Me iré en cuanto acabe
+con lo que vine a hacer.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie... Ten cuidado.
+[ffff]
+[8000]
+}
+{
+[8000]
+James, eh...
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Lo mismo digo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie, ¿estás bien?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, creo que sí...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sigues aquí?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, me encuentro mal...
+Ya se me pasará.
+[ffff]
+[8000]
+}
+{
+[8000]
+Deberías largarte de esta ciudad
+mientras puedas...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya, lo sé, pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué demonios...?
+¿Quién pudo hacer esto...?
+[ffff]
+[9000]
+}
+{
+[8000]
+La pared está cubierta de pósters
+de fútbol y pintadas sin sentido.
+[ffff]
+[1000]
+[8000]
+Me importan un rábano
+las dos cosas.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada dentro.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un cuadro.
+No tiene nada interesante.
+[ffff]
+[9000]
+}

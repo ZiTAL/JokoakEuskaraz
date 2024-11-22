@@ -1,0 +1,255 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 33
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+En mis sueÒos m·s inquietos
+veo esa ciudad.
+[ffff]
+[8000]
+}
+{
+[8000]
+[1af8]
+Silent Hill.
+[ffff]
+[8000]
+}
+{
+[8000]
+EMe prometiste que volverÌas
+a llevarme allÌ alg˙n dÌa.
+Pero nunca lo hiciste.
+[ffff]
+[8000]
+}
+{
+[8000]
+[1af8]
+Y ahora estoy allÌ, sola...
+[ffff]
+[8000]
+}
+{
+[8000]
+[1af8]
+En nuestro ìlugar especialî...
+Esper·ndote...
+[ffff]
+[8000]
+}
+{
+[8000]
+èEsperando a que vengas a verme.
+[ffff]
+[8000]
+}
+{
+[8000]
+EPero no vienes nunca.
+[ffff]
+[8000]
+}
+{
+[8000]
+[1bf8]
+Y yo espero, envuelta
+en mi capullo de dolor y soledad.
+[ffff]
+[8000]
+}
+{
+[8000]
+3SÈ que te hice algo terrible.
+Algo por lo que nunca
+me perdonar·s.
+[ffff]
+[8000]
+}
+{
+[8000]
+NOjal· pudiera cambiarlo,
+pero es imposible.
+[ffff]
+[8000]
+}
+{
+[8000]
+<Me siento tan patÈtica y horrible
+aquÌ tumbada, esper·ndote...
+[ffff]
+[8000]
+}
+{
+[8000]
+<Cada dÌa contemplo las grietas
+que hay en el techo y solo
+puedo pensar en lo injusto
+que es todo esto...
+[ffff]
+[8000]
+}
+{
+[8000]
+„Hoy ha venido el mÈdico.
+Me ha dicho que podÌa volver
+a casa por unos dÌas.
+[ffff]
+[8000]
+}
+{
+[8000]
+[23f8]
+No es que mejore.
+M·s bien, esta puede ser
+mi ˙ltima oportunidad...
+[ffff]
+[8000]
+}
+{
+[8000]
+TCreo que me entiendes...
+[ffff]
+[8000]
+}
+{
+[8000]
+ÜA pesar de ello, estoy contenta
+de volver a casa.
+Te he echado mucho de menos.
+[ffff]
+[8000]
+}
+{
+[8000]
+[1af8]
+Pero tengo miedo, James.
+Miedo de que realmente
+no quieras que vuelva a casa.
+[ffff]
+[8000]
+}
+{
+[8000]
+õCuando vienes a verme,
+veo lo duro que es para ti...
+[ffff]
+[8000]
+}
+{
+[8000]
+JNo sÈ si me odias,
+si me compadeces...
+o si sÛlo te doy asco...
+[ffff]
+[8000]
+}
+{
+[8000]
+OLo siento de verdad.
+[ffff]
+[8000]
+}
+{
+[8000]
+ECuando supe que iba a morir,
+no quise aceptarlo.
+[ffff]
+[8000]
+}
+{
+[8000]
+JEstaba constantemente enfadada
+y atacaba a mis seres m·s queridos.
+Sobre todo a ti, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+|Por eso entenderÌa que me odies.
+[ffff]
+[8000]
+}
+{
+[8000]
+[50f8]
+Pero quiero que sepas
+una cosa, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+“Siempre te querrÈ.
+[ffff]
+[8000]
+}
+{
+[8000]
+©Aunque nuestra vida en pareja
+tuviera el final que tuvo, no la
+cambiarÌa por nada en el mundo.
+Pasamos unos aÒos maravillosos.
+[ffff]
+[8000]
+}
+{
+[8000]
+úEsta carta se est· alargando mucho,
+asÌ que voy a despedirme.
+[ffff]
+[8000]
+}
+{
+[8000]
+JLe he dicho a la enfermera
+que te la dÈ cuando yo ya no estÈ.
+[ffff]
+[8000]
+}
+{
+[8000]
+JAsÌ que, para cuando la leas,
+ya estarÈ muerta.
+[ffff]
+[8000]
+}
+{
+[8000]
+rNo puedo pedirte que me recuerdes,
+pero no soporto la idea
+de que me olvides.
+[ffff]
+[8000]
+}
+{
+[8000]
+rEstos ˙ltimos aÒos,
+con la enfermedad... lamento tanto
+lo que te hice, lo que nos hice...
+[ffff]
+[8000]
+}
+{
+[8000]
+ÜT˙ me has dado tanto, y yo he
+sido incapaz de corresponderte.
+[ffff]
+[8000]
+}
+{
+[8000]
+ÜPor eso quiero que ahora vivas
+tu vida. Haz lo que sea mejor
+para ti, James.
+[ffff]
+[8000]
+}

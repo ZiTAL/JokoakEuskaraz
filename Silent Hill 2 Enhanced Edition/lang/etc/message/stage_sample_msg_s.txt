@@ -1,0 +1,225 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 30
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[faff]
+[01ff]
+ La policía ha anunciado hoy
+que Walter Sullivan, detenido
+el día 18 de este mes por
+el brutal asesinato de Billy
+Locane y su hermana Miriam,
+se suicidó en su celda en
+la madrugada del 22.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Según la declaración de la policía,
+Sullivan se clavó una cuchara
+sopera en el cuello, cortándose
+la arteria carótida.
+
+ Cuando el guarda lo encontró,
+Sullivan ya había muerto
+desangrado, con la cuchara
+hendida cinco centímetros
+en el cuello.
+[ffff]
+[1000]
+[8000]
+La puerta no cede.
+[ffff]
+[1000]
+[8000]
+Parece como si algo la empujase
+desde el otro lado.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a sacarlo?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Una foto...
+[ffff]
+[9000]
+}
+{
+[8000]
+Eh...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Au!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Ja, ja!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eh, espera!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mierda!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Laura?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eh?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo sabes mi nombre?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie me lo dijo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gordo bocazas...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De qué conoces a Mary?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué te importa tanto?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Es que no puedes decírmelo?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me gritarás si no te lo digo?
+[ffff]
+[8000]
+}
+{
+[8000]
+No... No lo haré.
+[ffff]
+[8000]
+}
+{
+[8000]
+Yo era amiga de Mary...
+[ffff]
+[8000]
+}
+{
+[8000]
+Nos conocimos en el hospital.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fue el año pasado...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mentirosa!
+[ffff]
+[8000]
+}
+{
+[8000]
+Laura, no...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Bueno, pues no me creas!
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero el año pasado,
+Mary ya estaba...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento, Laura.
+[ffff]
+[8000]
+}
+{
+[8000]
+Este no es lugar para una niña.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí hay muchas cosas extrañas...
+[ffff]
+[8000]
+}
+{
+[8000]
+No puedo creer que no tengas
+ni un rasguño.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué debería?
+[ffff]
+[8000]
+}

@@ -1,0 +1,209 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 22
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Aprieto el botón,
+pero no pasa nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay varios alimentos
+enlatados.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una lata sin etiqueta.
+[ffff]
+[9000]
+}
+{
+[8000]
+La lata está llena de bombillas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una lata con bombillas.
+No necesito más.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una lámpara en la barra.
+[ffff]
+[1000]
+[8000]
+Pero no tiene bombilla,
+así que no se puede encender.
+[ffff]
+[9000]
+}
+{
+[8000]
+He intentado usar la 
+[03ff]
+llave del bar
+[00ff]
+,
+pero está demasiado oscuro
+para ver el ojo de la cerradura.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una lata de 
+[03ff]
+disolvente
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del bar
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+bombilla
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado el 
+[03ff]
+disolvente
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del bar
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+bombilla
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+La puerta de la nevera debe estar rota.
+No puedo abrirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+La cerradura está rota,
+no puedo abrirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una serie de cebos.
+[ffff]
+[1000]
+[8000]
+Parece ser que la pesca en el lago
+es una actividad muy popular
+entre los turistas.
+[ffff]
+[1000]
+[8000]
+Yo no soy bueno pescando,
+así que no probé suerte
+cuando estuve aquí...
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay una máquina de discos.
+No funciona, debe estar rota.
+[ffff]
+[9000]
+}
+{
+[8000]
+La barra.
+[ffff]
+[1000]
+[8000]
+Mary y yo bebimos juntos
+en este bar.
+[ffff]
+[1000]
+[8000]
+A veces parece que haya pasado
+una eternidad y otras parece
+que fue ayer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay botellas de vino vacías.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un jarrón.
+Ahora mismo no me es útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro.
+No tiene nada especial.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Lágrimas de Venus
+[ffff]
+[9000]
+}

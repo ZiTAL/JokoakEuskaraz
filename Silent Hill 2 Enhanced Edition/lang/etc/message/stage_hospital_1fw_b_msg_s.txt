@@ -1,0 +1,169 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 26
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¡Espera! ¡Espera!
+¡Tengo que coger algo!
+[ffff]
+[8000]
+}
+{
+[8000]
+Más tarde, ¿vale?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Pero es muy importante!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué es?
+[ffff]
+[8000]
+}
+{
+[8000]
+Una carta de Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eh?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Podemos ir a buscarla?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, sí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Venga, vamos!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Está ahí dentro?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí. Al fondo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué haces, Laura?
+[ffff]
+[8000]
+}
+{
+[8000]
+Está... al fondo, en el escritorio.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Laura! ¡¿Qué estás haciendo?!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Ja, ja! ¡Te he engañado!
+[ffff]
+[8000]
+}
+{
+[8000]
+Abre la puerta, Laura...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué debería hacerlo?
+Soy una mentirosa, ¿no?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Quieres que abra?
+¿Eh? ¿Eh? ¿De verdad?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cuál es la palabra mágica?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Laura!
+[ffff]
+[8000]
+}
+{
+[8000]
+Vale, creo que no abriré...
+[ffff]
+[8000]
+}
+{
+[8000]
+Me parece que te voy a dejar ahí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Maldita mocosa! ¡Ábreme!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Serás...! ¡Serás...!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Laura?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Caraculo!
+[ffff]
+[8000]
+}

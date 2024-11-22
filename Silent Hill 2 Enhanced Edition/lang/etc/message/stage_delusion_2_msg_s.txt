@@ -1,0 +1,95 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 5
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+El agujero está oscuro
+y no puedo ver nada.
+[ffff]
+[1000]
+[8000]
+¿Vas a saltar?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una especie de documento.
+[ffff]
+[1000]
+[8000]
+[01ff]
+11 de septiembre de 1820
+N.º de prisionero: C-221
+[ffff]
+[1000]
+[8000]
+[00ff]
+El resto es ilegible.
+¿Qué es esto...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto colgada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Campo de prisioneros Toluca
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Construido durante la Guerra Civil.
+Posteriormente fue reconvertido
+en la prisión Toluca.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una foto colgada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Muerte por empalamiento
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Una ejecución en la prisión.
+Muerte por empalamiento
+o estrangulamiento.
+La última libertad del prisionero
+es elegir su muerte.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un cuadro colgado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Banquete carmesí y blanco
+para los dioses
+[ffff]
+[9000]
+}

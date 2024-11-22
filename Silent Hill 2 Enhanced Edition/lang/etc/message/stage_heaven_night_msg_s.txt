@@ -1,0 +1,89 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 9
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[01ff]
+Heaven's Night
+[ffff]
+[9000]
+}
+{
+[8000]
+Sólo es una mesa.
+No tiene nada extraño.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un escenario.
+No tiene nada extraño.
+[ffff]
+[9000]
+}
+{
+[8000]
+Latas vacías, fregadero,
+cajas de cartón...
+No hay nada útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+La caja está vacía.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay varias cajas de cartón apiladas.
+No parece que haya nada útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Botellas de licor.
+Ahora no las necesito.
+[ffff]
+[1000]
+[8000]
+No es que no beba.
+De hecho, bebo bastante.
+[ffff]
+[1000]
+[8000]
+Para escapar del dolor,
+de la soledad...
+Pero la bebida nunca cambia nada.
+[ffff]
+[1000]
+[8000]
+En fin, ahora no la necesito.
+Hay algo que debo hacer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Botellas de licor.
+No hay nada de interés.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un jarrón.
+No hay nada de interés.
+[ffff]
+[9000]
+}

@@ -1,0 +1,276 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Hay algo escrito en la pared.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[01ff]
+[00f9]
+Jira jira jira los números
+mejor no olvidarlos
+Por eso los eskriba aquí
+El otro, mi nombre secreto
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay algo escrito en la pared.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Si Joseph parece tranquilo,
+se le puede sacar de la celda.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una caja repleta de cerraduras.
+[ffff]
+[1000]
+[8000]
+Hay un total de 
+[e0ff]
+ cerraduras.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un total de 
+[e0ff]
+ cerraduras.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada dentro de la caja.
+[ffff]
+[1000]
+[8000]
+No, me equivoco...
+Hay unos pelos.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ya no hay nada en la caja.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Louise
+Siempre cuidaré de ti.
+¡Es mi destino!
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay algo metido en el desagüe.
+[ffff]
+[1000]
+[8000]
+El agujero es muy pequeño.
+No puedo meter la mano
+para alcanzarlo.
+[ffff]
+[1000]
+[8000]
+Quizás si tuviese algún tipo
+de herramienta larga y estrecha...
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+Giro la llave, pero no sale agua.
+[ffff]
+[9000]
+}
+{
+[8000]
+Así no voy a llegar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Esto no es lo bastante largo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una tapa sobre el botón
+de llamada del ascensor.
+[ffff]
+[1000]
+[8000]
+No tengo forma de abrirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+mechón de pelo
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del ascensor
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del tejado
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del ascensor
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del toro morado
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del ojo de lapis
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pulso los botones,
+pero el ascensor no reacciona.
+[ffff]
+[9000]
+}
+{
+[8000]
+James, espera un momento.
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy algo cansada...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sólo es una resaca.
+[ffff]
+[8000]
+}
+{
+[8000]
+Deberías descansar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mmm. Qué cómoda...
+[ffff]
+[8000]
+}
+{
+[8000]
+Voy a ir a buscarla...
+a buscar a Laura.
+[ffff]
+[8000]
+}
+{
+[8000]
+Volveré en cuanto pueda.
+[ffff]
+[8000]
+}
+{
+[8000]
+Me pondré bien.
+¿Has encontrado a Laura?
+[ffff]
+[8000]
+}
+{
+[8000]
+James, quiero preguntarte algo...
+¿Y si...?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y si no puedes encontrar a Mary?
+¿Qué harás?
+[ffff]
+[8000]
+}
+{
+[8000]
+No he pensado en ello.
+[ffff]
+[8000]
+}

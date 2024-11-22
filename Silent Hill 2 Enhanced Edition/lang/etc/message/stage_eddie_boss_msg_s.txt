@@ -1,0 +1,306 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 46
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¡La puerta no se abre!
+[ffff]
+[9000]
+}
+{
+[8000]
+¡Eddie! ¡¿Qué estás haciendo?!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y tú qué crees?
+[ffff]
+[8000]
+}
+{
+[8000]
+Me tenía hasta los cojones.
+[ffff]
+[8000]
+}
+{
+[8000]
+“¡Gordo, mierdecilla!
+¡Me das asco!”.
+[ffff]
+[8000]
+}
+{
+[8000]
+“¡Bola de sebo,
+no eres más que basura!”.
+[ffff]
+[8000]
+}
+{
+[8000]
+“¡Eres tan feo que no te quiere
+ni tu madre!”.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pues a lo mejor es verdad.
+[ffff]
+[8000]
+}
+{
+[8000]
+A lo mejor no soy más
+que un gordo seboso de mierda.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero, ¿sabes una cosa? Da igual
+si uno es listo, tonto, feo, guapo...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Si está muerto,
+todo eso da igual!
+[ffff]
+[8000]
+}
+{
+[8000]
+Y los muertos no se ríen.
+[ffff]
+[8000]
+}
+{
+[8000]
+A partir de ahora, como alguien
+se burle de mí...
+[ffff]
+[8000]
+}
+{
+[8000]
+me lo cargo. Así de fácil.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie, ¿se te ha ido la olla?
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo sabía. Otro.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eres como los demás, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Oye, no quería ofender...!
+[ffff]
+[8000]
+}
+{
+[8000]
+Da igual. Te entiendo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llevas todo este tiempo
+cachondeándote de mí, ¿no?
+[ffff]
+[8000]
+}
+{
+[8000]
+Desde que nos conocimos.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Muere, James!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sabes cómo se siente uno, James?
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuando le odian...
+Cuando le putean...
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuando le escupen...
+Y todo por el aspecto físico.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuando se han reído de uno
+durante toda su puñetera vida...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por eso salí corriendo
+cuando maté al perro.
+[ffff]
+[8000]
+}
+{
+[8000]
+Parecía una cría asustada.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, maté a ese perro.
+Estuvo bien.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Intentó arrancarse las tripas!
+Y al final murió hecho un ovillo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Luego el otro vino a por mí
+y le metí un tiro en la pierna.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Lloraba más que el perro!
+[ffff]
+[8000]
+}
+{
+[8000]
+Le va a costar jugar al fútbol
+con lo que le queda de rodilla.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Crees que está bien matar a gente?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Necesitas ayuda, Eddie!
+[ffff]
+[8000]
+}
+{
+[8000]
+No me seas tan santurrón, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta ciudad te ha llamado
+a ti también.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tú y yo somos iguales.
+No somos como los demás.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡¿No lo sabías?!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡A bailar!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eddie?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿¡Eddie...!?
+[ffff]
+[8000]
+}
+{
+[8000]
+He... He matado a un...
+ser humano...
+[ffff]
+[8000]
+}
+{
+[8000]
+Un ser humano...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary... ¿de verdad falleciste
+hace tres años...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie...
+[ffff]
+[8000]
+}

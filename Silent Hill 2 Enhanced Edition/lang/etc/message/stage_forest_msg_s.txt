@@ -1,0 +1,301 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 43
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Hay algo en el pozo.
+[ffff]
+[1000]
+[8000]
+¿Qué es esto...?
+[ffff]
+[1000]
+[8000]
+Cuando lo miro, siento como
+si alguien estuviera toqueteando
+dentro de mi cráneo.
+[ffff]
+[1000]
+[8000]
+Me produce una sensación extraña...
+[ffff]
+[9000]
+}
+{
+[8000]
+Una lápida normal.
+No tiene nada que ver conmigo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Este debe ser el cementerio
+de Silent Hill.
+[ffff]
+[9000]
+}
+{
+[8000]
+Todo está tranquilo.
+Creo que estamos solos.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+motosierra
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Perdone...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo, lo siento... eh, eh...
+Sólo estaba...
+[ffff]
+[8000]
+}
+{
+[8000]
+Tranquila, no pretendía asustarla.
+[ffff]
+[8000]
+}
+{
+[8000]
+Verá, me he perdido.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí. Estoy buscando Silent Hill.
+¿Sabe si se va por aquí?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh, sí...
+[ffff]
+[8000]
+}
+{
+[8000]
+Es difícil ver con esta niebla,
+pero solo hay una carretera.
+[ffff]
+[8000]
+}
+{
+[8000]
+No tiene pérdida.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gracias.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sí...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Creo que no debería ir allí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Esa... eh... esa ciudad...
+Hay algo... extraño en ella.
+[ffff]
+[8000]
+}
+{
+[8000]
+No sabría explicarlo, pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Es peligrosa?
+[ffff]
+[8000]
+}
+{
+[8000]
+Quizás... Y no es sólo
+por la niebla... Es, eh...
+[ffff]
+[8000]
+}
+{
+[8000]
+Entiendo. Tendré cuidado.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡No le estoy mintiendo!
+[ffff]
+[8000]
+}
+{
+[8000]
+No, no. La creo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero... Supongo que me da igual
+que sea peligrosa o no.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pienso ir de todas formas.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué?
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy buscando a alguien.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿A... A... A quién?
+[ffff]
+[8000]
+}
+{
+[8000]
+A alguien...
+muy importante para mí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Haría cualquier cosa por volver
+a estar con ella.
+[ffff]
+[8000]
+}
+{
+[8000]
+Yo también. Estoy buscando a mi mamá...
+A mi madre, quiero decir.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hace mucho que no la veo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pensaba que mi padre
+y mi hermano estarían aquí,
+pero tampoco los encuentro...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento... No es asunto suyo.
+[ffff]
+[8000]
+}
+{
+[8000]
+No, eh... Espero que los encuentre.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, lo mismo digo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Ocurre algo?
+[ffff]
+[8000]
+}
+{
+[8000]
+No, nada...
+Este lugar es muy tranquilo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, lo es...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿No está buscando a alguien?
+[ffff]
+[8000]
+}
+{
+[8000]
+Así es...
+[ffff]
+[8000]
+}

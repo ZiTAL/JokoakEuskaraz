@@ -1,0 +1,208 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 31
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¿Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Te has vuelto a equivocar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary está muerta.
+Tú la asesinaste.
+[ffff]
+[8000]
+}
+{
+[8000]
+María.
+[ffff]
+[8000]
+}
+{
+[8000]
+María... Lo nuestro se acabó.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué quieres decir?
+[ffff]
+[8000]
+}
+{
+[8000]
+Yo puedo ser tuya...
+Siempre me tendrás.
+[ffff]
+[8000]
+}
+{
+[8000]
+Y nunca te gritaré
+ni te haré sentir mal.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eso es lo que querías!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora lo entiendo todo.
+[ffff]
+[8000]
+}
+{
+[8000]
+El problema...
+es que tú no eres Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+No, James... No te dejaré.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Nunca dejaré
+que recuperes a Mary!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Perdóname...
+[ffff]
+[8000]
+}
+{
+[8000]
+Te dije que quería morir, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Quería que parara el dolor.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por eso lo hice, cariño.
+No soportaba verte sufrir...
+[ffff]
+[8000]
+}
+{
+[8000]
+No, esa no es toda la verdad.
+[ffff]
+[8000]
+}
+{
+[8000]
+También dijiste
+que no querías morir.
+[ffff]
+[8000]
+}
+{
+[8000]
+La verdad es...
+que en parte te odiaba.
+Por arruinarme la vida...
+[ffff]
+[8000]
+}
+{
+[8000]
+Me mataste y estás sufriendo
+por ello.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya basta, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora entiendo...
+por qué vine a esta ciudad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Me pregunto qué era lo que temía.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sin ti, Mary, no tengo nada...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora podemos estar juntos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora no puedo volver.
+No es momento de escapar.
+[ffff]
+[9000]
+}

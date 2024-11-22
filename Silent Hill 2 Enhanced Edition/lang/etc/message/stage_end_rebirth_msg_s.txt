@@ -1,0 +1,93 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+María.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo nuestro se acabó.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿¡Qué?!
+¡Pero... soy lo que tú querías!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary está muerta.
+¿No lo entiendes? ¡No volverá!
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero yo puedo ser tuya...
+Siempre me tendrás.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Nunca te haré daño, como ella!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué no me quieres?
+[ffff]
+[8000]
+}
+{
+[8000]
+Porque tú no eres Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sin Mary, nada tiene sentido.
+[ffff]
+[8000]
+}
+{
+[8000]
+Oh, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Venga ya, James!
+Debes estar bromeando.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora no puedo volver.
+No es momento de escapar.
+[ffff]
+[9000]
+}

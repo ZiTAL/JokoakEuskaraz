@@ -1,0 +1,171 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 16
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Hay una nota pegada en la puerta.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Querido Tim:
+ Tengo que irme a hacer un recado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Le dejo la llave de la casa
+al tío David (Ya sabes dónde
+vive, ¿no? La llave está
+en la habitación más cercana
+a la escalera del primer piso).
+
+ Volveré en cuanto pueda;
+cuídame la casa mientras
+estoy fuera, por favor.
+[ffff]
+[9000]
+}
+{
+[8000]
+Parece que hay algo metido
+dentro del retrete.
+[ffff]
+[1000]
+[8000]
+¿Vas a sacarlo?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Parece una cartera.
+Tiene una especie de nota.
+[ffff]
+[1000]
+[8000]
+[faff]
+[e0ff]
+ >> << >>
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una nota dentro de la cartera.
+[ffff]
+[1000]
+[8000]
+[faff]
+[e0ff]
+ >> << >>
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada más de interés.
+[ffff]
+[1000]
+[8000]
+No tiene sentido que siga buscando.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una caja fuerte pequeña.
+Está cerrada.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada dentro de la caja.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave de la escalera
+de los apartamentos
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave de la casa de Lyne
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave de la escalera
+de los apartamentos
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una página de periódico
+en el suelo. Parece antiguo.
+[ffff]
+[1000]
+[8000]
+No hay nada escrito que parezca
+particularmente interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay una cama vieja y rota.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada que parezca
+de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ahí no hay nada que parezca
+tener utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro.
+No tiene nada especialmente
+interesante.
+[ffff]
+[9000]
+}

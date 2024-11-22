@@ -1,0 +1,1808 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 224
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Usar
+[ffff]
+[8000]
+}
+{
+[8000]
+Recargar
+[ffff]
+[8000]
+}
+{
+[8000]
+Ajustar volumen
+[ffff]
+[8000]
+}
+{
+[8000]
+Interruptor
+[ffff]
+[8000]
+}
+{
+[8000]
+Encendida
+[ffff]
+[8000]
+}
+{
+[8000]
+Apagada
+[ffff]
+[8000]
+}
+{
+[8000]
+Examinar
+[ffff]
+[8000]
+}
+{
+[8000]
+Equipar
+[ffff]
+[8000]
+}
+{
+[8000]
+Desequipar
+[ffff]
+[8000]
+}
+{
+[8000]
+Opciones
+[ffff]
+[8000]
+}
+{
+[8000]
+Mapa
+[ffff]
+[8000]
+}
+{
+[8000]
+Notas
+[ffff]
+[8000]
+}
+{
+[8000]
+Estado
+[ffff]
+[8000]
+}
+{
+[8000]
+Equipo
+[ffff]
+[8000]
+}
+{
+[8000]
+Acción
+[ffff]
+[8000]
+}
+{
+[8000]
+Combinar
+[ffff]
+[8000]
+}
+{
+[8000]
+Parece que no puedo usar esto aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+Esto no se puede usar por sí solo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Esta combinación no tiene ningún sentido.
+[ffff]
+[9000]
+}
+{
+[8000]
+Poner en estante
+[ffff]
+[8000]
+}
+{
+[8000]
+Bebida(s) isotónica(s)
+[ffff]
+[8000]
+}
+{
+[8000]
+Devuelve la energía proporcionando nutrientes.
+Su efecto es bastante suave.
+[ffff]
+[8000]
+}
+{
+[8000]
+Botiquín(es)
+[ffff]
+[8000]
+}
+{
+[8000]
+Devuelve la energía curando heridas.
+Su efecto es moderado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ampolla(s)
+[ffff]
+[8000]
+}
+{
+[8000]
+Devuelve la energía calmando el dolor.
+Su efecto es potente.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pistola
+[ffff]
+[8000]
+}
+{
+[8000]
+Pistola ligera con capacidad para 10 balas.
+Poco potente, pero fácil de usar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bala(s) de pistola
+[ffff]
+[8000]
+}
+{
+[8000]
+Munición para pistola.
+[ffff]
+[8000]
+}
+{
+[8000]
+Escopeta
+[ffff]
+[8000]
+}
+{
+[8000]
+Puede llevar hasta 6 cartuchos.
+Es difícil de manejar, pero puede alcanzar
+a oponentes dispersos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cartucho(s) de escopeta
+[ffff]
+[8000]
+}
+{
+[8000]
+Munición para escopeta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Rifle de caza
+[ffff]
+[8000]
+}
+{
+[8000]
+Puede llevar hasta 4 balas.
+Tarda mucho en cargar, pero cada disparo
+es muy potente.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bala(s) de rifle
+[ffff]
+[8000]
+}
+{
+[8000]
+Munición para rifle de caza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hiper espray
+[ffff]
+[8000]
+}
+{
+[8000]
+Espray sospechoso.
+Se desconocen sus efectos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablón de madera
+[ffff]
+[8000]
+}
+{
+[8000]
+Un tablón de madera con clavos en un extremo.
+No hace mucho daño, pero es fácil de usar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cañería de acero
+[ffff]
+[8000]
+}
+{
+[8000]
+Cañería de acero de 1 metro.
+No es muy destructiva,
+pero tiene un buen alcance.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuchillo grande
+[ffff]
+[8000]
+}
+{
+[8000]
+Arma enorme empuñada por Cabeza Pirámide.
+Es difícil de usar, pero letal.
+[ffff]
+[8000]
+}
+{
+[8000]
+Motosierra
+[ffff]
+[8000]
+}
+{
+[8000]
+Motosierra con motor de gasolina.
+Un arma muy potente.
+[ffff]
+[8000]
+}
+{
+[8000]
+Linterna
+[ffff]
+[8000]
+}
+{
+[8000]
+Su interruptor es de acción inmediata.
+Va en el bolsillo del pecho.
+[ffff]
+[8000]
+}
+{
+[8000]
+Radio
+[ffff]
+[8000]
+}
+{
+[8000]
+Pequeña radio portátil.
+Genera interferencias cuando hay
+monstruos cerca.
+[ffff]
+[8000]
+}
+{
+[8000]
+Foto de Mary
+[ffff]
+[8000]
+}
+{
+[8000]
+Una foto de cuando todavía estaba sana.
+[ffff]
+[8000]
+}
+{
+[8000]
+Carta de Mary
+[ffff]
+[8000]
+}
+{
+[8000]
+En el sobre aparece el nombre de Mary
+escrito de su puño y letra.
+[ffff]
+[8000]
+}
+{
+[8000]
+Carta de Laura
+[ffff]
+[8000]
+}
+{
+[8000]
+Carta que Mary entregó, supuestamente,
+a Laura.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cinta de vídeo
+[ffff]
+[8000]
+}
+{
+[8000]
+Cinta de vídeo que me dejé en el hotel
+hace tres años.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuchillo de Angela
+[ffff]
+[8000]
+}
+{
+[8000]
+El cuchillo de Angela.
+No pienso usarlo como arma.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de perro
+[ffff]
+[8000]
+}
+{
+[8000]
+Hallada dentro de una caseta
+para perros. No sé dónde se usa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la entrada a los apartamentos
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave antigua que encontré en la ciudad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la habitación 202
+[ffff]
+[8000]
+}
+{
+[8000]
+En la parte superior tiene escrito el número 202.
+La encontré en la habitación 208.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del reloj
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave con un pequeño reloj.
+Estaba en un agujero en la pared
+de la habitación 202.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del patio
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la puerta que conduce del vestíbulo
+de la escalera oeste al patio.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la salida de emergencia
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la puerta de la escalera de emergencia.
+Hallada en el vestíbulo del tercer piso.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la casa de Lyne
+[ffff]
+[8000]
+}
+{
+[8000]
+Estaba en la mesa con el acertijo
+de las monedas.
+La etiqueta dice: «Lyne».
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la escalera de los apartamentos
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la puerta que va del vestíbulo
+de los apartamentos oeste a la escalera.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la sala de reconocimiento
+[ffff]
+[8000]
+}
+{
+[8000]
+La etiqueta dice: «Sala de reconocimiento».
+Hallada en la bata del vestuario de hombres.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del tejado
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del tejado del ala de oficinas.
+La encontré en la habitación del tercer piso
+del hospital, donde descansa María.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del toro morado
+[ffff]
+[8000]
+}
+{
+[8000]
+Tiene dibujado un toro morado.
+Estaba en el escritorio
+de la sala de documentos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del ojo de lapis
+[ffff]
+[8000]
+}
+{
+[8000]
+En la parte superior de la llave hay un ojo,
+y su iris está hecho de lapislázuli.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del ascensor
+[ffff]
+[8000]
+}
+{
+[8000]
+La etiqueta dice: «Ascensor ala pacientes».
+Estaba atascada en el desagüe de las duchas.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del almacén del sótano
+[ffff]
+[8000]
+}
+{
+[8000]
+Estaba dentro de la pared con
+aquella pintada extraña. Es la llave
+del almacén del sótano del hospital.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del vestíbulo del hospital
+[ffff]
+[8000]
+}
+{
+[8000]
+Hallada en el despacho del director.
+Es la llave del vestíbulo del hospital.
+[ffff]
+[8000]
+}
+{
+[8000]
+Vieja llave de bronce
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de bronce de aspecto antiguo.
+Estaba oculta detrás de una
+de las estatuas del parque.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave con escrito en espiral
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave con un cilindro delgado de 8 cm
+que contiene un escrito en espiral.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del falso acusado
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave dejada por un preso
+que fue ejecutado injustamente.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la habitación 312 del hotel
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la habitación 312 del hotel.
+Estaba sobre el mostrador de recepción.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la habitación 204 del hotel
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la habitación 204.
+La encontré en el maletín del guardarropa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del ascensor para empleados
+[ffff]
+[8000]
+}
+{
+[8000]
+La etiqueta dice: «Ascensor empleados».
+Hallada en la habitación 204.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del bar
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la puerta que va del bar
+del sótano del hotel al vestíbulo.
+La encontré en la sala de calderas.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave del pez
+[ffff]
+[8000]
+}
+{
+[8000]
+Va en un llavero con forma de pez.
+Estaba sobre la mesa del restaurante.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de las escaleras del hotel
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave de la puerta de la escalera
+al hall del tercer piso. Estaba oculta
+en la caja de música de la recepción.
+[ffff]
+[8000]
+}
+{
+[8000]
+Paquete de zumo en lata
+[ffff]
+[8000]
+}
+{
+[8000]
+Un paquete de seis latas con zumo caducado.
+Estaba en el vestíbulo del primer piso.
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda de la serpiente
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda grande grabada con la imagen
+de una serpiente.
+La encontré en aquella piscina vacía.
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda del anciano
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda grande grabada con la imagen
+del rostro de un anciano.
+La cogí de la rampa de salida de basuras.
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda del prisionero
+[ffff]
+[8000]
+}
+{
+[8000]
+Moneda grande grabada con la imagen
+de un prisionero. La hallé
+en el edificio oeste de apartamentos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mechón de pelo
+[ffff]
+[8000]
+}
+{
+[8000]
+Unos pelos largos y castaños.
+Estaban en aquella «caja».
+[ffff]
+[8000]
+}
+{
+[8000]
+Aguja torcida
+[ffff]
+[8000]
+}
+{
+[8000]
+Aguja torcida y oxidada.
+Estaba clavada en el osito de peluche
+del vestuario.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pila seca
+[ffff]
+[8000]
+}
+{
+[8000]
+La cogí en la habitación del hospital.
+Una pila seca normal.
+[ffff]
+[8000]
+}
+{
+[8000]
+Anillo de cobre
+[ffff]
+[8000]
+}
+{
+[8000]
+Encontrado en el sótano del hospital.
+Tiene grabado el dibujo de una araña.
+[ffff]
+[8000]
+}
+{
+[8000]
+Anillo de plomo
+[ffff]
+[8000]
+}
+{
+[8000]
+El anillo del refrigerador.
+Lleva grabado un repugnante rostro hinchado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Llave inglesa
+[ffff]
+[8000]
+}
+{
+[8000]
+La encontré en la calle Lindsey.
+Sirve para atornillar tuercas y pernos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla del opresor
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla metálica con el «opresor»
+dibujado en una de sus caras.
+Hallada en una celda.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla del cerdo glotón
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla metálica con el «cerdo glotón»
+dibujado en una de sus caras.
+Hallada en el comedor.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla de la seductora
+[ffff]
+[8000]
+}
+{
+[8000]
+Tablilla metálica con la «seductora»
+dibujada en una de sus caras.
+Hallada en las duchas.
+[ffff]
+[8000]
+}
+{
+[8000]
+Herradura
+[ffff]
+[8000]
+}
+{
+[8000]
+Herradura metálica. Estaba colgada
+en el portón de la plaza del patíbulo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mechero
+[ffff]
+[8000]
+}
+{
+[8000]
+Mechero metálico. Su llama parece más potente
+que la de un mechero normal.
+[ffff]
+[8000]
+}
+{
+[8000]
+Muñeco de cera
+[ffff]
+[8000]
+}
+{
+[8000]
+Muñeco hecho con cera.
+Estaba en el suelo de la celda.
+[ffff]
+[8000]
+}
+{
+[8000]
+Alicate
+[ffff]
+[8000]
+}
+{
+[8000]
+Herramienta para cortar alambres
+o cables eléctricos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Disolvente
+[ffff]
+[8000]
+}
+{
+[8000]
+Pequeña lata llena de disolvente.
+Estaba en el suelo del ascensor.
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música de la sirenita
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música con una figura
+del cuento de la sirenita.
+Hallada en la fuente del jardín.
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música de Cenicienta
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música con una figura
+del cuento de Cenicienta.
+Hallada en un baúl de la habitación 202.
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música de Blancanieves
+[ffff]
+[8000]
+}
+{
+[8000]
+Caja de música con una figura
+del cuento de Blancanieves.
+Hallada en la despensa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Abrelatas
+[ffff]
+[8000]
+}
+{
+[8000]
+Herramienta para abrir latas.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bombilla
+[ffff]
+[8000]
+}
+{
+[8000]
+Hallada dentro de una lata en la cocina del bar.
+Una bombilla normal.
+[ffff]
+[8000]
+}
+{
+[8000]
+Huevo de color de orín
+[ffff]
+[8000]
+}
+{
+[8000]
+Tiene el tamaño de un huevo de codorniz.
+Lo tenía Cabeza Pirámide.
+[ffff]
+[8000]
+}
+{
+[8000]
+Huevo escarlata
+[ffff]
+[8000]
+}
+{
+[8000]
+Tiene el tamaño de un huevo de codorniz.
+Lo tenía Cabeza Pirámide.
+[ffff]
+[8000]
+}
+{
+[8000]
+Libro «Memorias perdidas»
+[ffff]
+[8000]
+}
+{
+[8000]
+Un libro que relata la historia
+de esta ciudad y sus alrededores.
+[ffff]
+[8000]
+}
+{
+[8000]
+Libro «Ceremonia del Ser Carmesí»
+[ffff]
+[8000]
+}
+{
+[8000]
+Trata sobre un dios antiguo.
+El autor es anónimo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Crisma blanco
+[ffff]
+[8000]
+}
+{
+[8000]
+Una botella de cristal que contiene
+un ungüento blanco.
+[ffff]
+[8000]
+}
+{
+[8000]
+Copa de obsidiana
+[ffff]
+[8000]
+}
+{
+[8000]
+Copa de aspecto antiguo tallada en
+obsidiana pura. Hallada en el viejo museo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Parece el mismo tipo de pila
+que la que lleva la linterna.
+[ffff]
+[8000]
+}
+{
+[8000]
+La hoja está manchada con algo rojo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora que lo pienso, había un reloj grande
+en la habitación 208...
+[ffff]
+[8000]
+}
+{
+[8000]
+La otra cara de la moneda
+es una media luna.
+[ffff]
+[8000]
+}
+{
+[8000]
+Parece un anciano.
+[ffff]
+[8000]
+}
+{
+[8000]
+Este prisionero parece una mujer.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pone: «patio».
+[ffff]
+[8000]
+}
+{
+[8000]
+La primera vez que quise llevármela,
+aquella niña me pisó la mano.
+¿Qué será de ella...?
+[ffff]
+[8000]
+}
+{
+[8000]
+La etiqueta que lleva dice:
+«salida de emergencia».
+[ffff]
+[8000]
+}
+{
+[8000]
+Había una salida de emergencia
+en el extremo oeste del pasillo del 2.º piso.
+¿A lo mejor podré usarla allí?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta debe ser la llave de la nota que decía
+que «se la dieron al tío David».
+[ffff]
+[8000]
+}
+{
+[8000]
+Dice: «Escalera norte».
+[ffff]
+[8000]
+}
+{
+[8000]
+Dice: «Es la duda la que os conducirá
+hasta el Purgatorio».
+[ffff]
+[8000]
+}
+{
+[8000]
+La habitación 312 es donde nos alojamos
+Mary y yo hace tres años.
+[ffff]
+[8000]
+}
+{
+[8000]
+La etiqueta tiene escrito
+«Silent Hill» con mi letra.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sin duda, es la cinta que grabé
+por aquel entonces.
+[ffff]
+[8000]
+}
+{
+[8000]
+El tallo lleva una serpiente grabada.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+En mis sueños más inquietos
+veo esa ciudad.
+Silent Hill.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Me prometiste que volverías
+a llevarme allí algún día.
+Pero nunca lo hiciste.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Y ahora estoy allí, sola...
+En nuestro “lugar especial”...
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Esperándote...
+[ffff]
+[9000]
+}
+{
+[8000]
+El papel está en blanco.
+[ffff]
+[9000]
+}
+{
+[8000]
+El sobre está vacío.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Mi querida Laura:
+
+Le dejo esta carta a Rachel
+para que te la dé cuando
+yo me haya ido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ahora estoy muy lejos.
+En un lugar bello y tranquilo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Por favor, perdóname
+por no haberme despedido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Cuídate, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+No seas muy dura con las monjitas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura, con respecto a James...
+Sé que lo odias porque piensas
+que no me trata bien, pero,
+por favor, dale una oportunidad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Es cierto que a veces es un poco
+cascarrabias y que no se ríe mucho.
+Pero en el fondo es una buena persona.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura...
+Te quiero como si fueras
+mi propia hija.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Si las cosas hubieran ido
+de otra forma, te habría adoptado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Feliz 8.º cumpleaños, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tu amiga para siempre,
+Mary
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ El nombre surge de la leyenda del
+pueblo al que robaron sus tierras.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Este lugar era conocido como
+«El lugar de los espíritus silenciosos».
+Por «espíritus» entendían no sólo a
+sus familiares muertos, sino también
+los espíritus que, según creían,
+viven en los árboles, las rocas
+y el agua.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Cuenta la leyenda que aquí
+tenían lugar las ceremonias más
+sagradas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero no fueron los antepasados
+de quienes ahora viven en esta
+ciudad los que robaron las tierras
+a aquel pueblo. Hubo otros
+que llegaron antes.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+En aquel entonces, esta ciudad tenía
+otro nombre... pero se ha perdido
+en los anales de la historia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sólo sabemos que tuvo otro
+nombre y que, por alguna razón,
+la ciudad fue abandonada por
+sus habitantes.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hablad.
+Yo soy el Carmesí.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Las mentiras y la niebla
+no son tales, sino yo.
+Todos sabéis que yo soy Él.
+Sí, y Él soy yo.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+¡Creyentes, escuchadme!
+Veinte veintenas de hombres
+y siete mil bestias.
+Escuchad aquestas palabras
+y contadlas a los demás para
+que siempre sean obedecidas,
+incluso bajo la luz del orgulloso
+y cruel sol.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Os enviaré una amarga venganza
+y sufriréis mi eterna ira.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La belleza de la flor marchita
+y el último aliento del moribundo,
+aquestas son mis bendiciones.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Vos siempre me invocaréis a mí
+y a todo lo que soy en el lugar
+que es silencioso.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Oh, orgullosa esencia de la vida
+que vuela hacia el corazón.
+Oh, copa rebosante
+del vino más blanco,
+en vos es donde todo empieza.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Se ha quedado sin pilas?
+Por mucho que pulse el interruptor,
+no se enciende.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Está rota?
+No reacciona al pulsar el interruptor.
+[ffff]
+[8000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+bebida isotónica
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+botiquín
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+ampolla
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+pistola
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto las 
+[03ff]
+balas de pistola
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+escopeta
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto los 
+[03ff]
+cartuchos de escopeta
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+rifle de caza
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto los 
+[03ff]
+cartuchos de rifle
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+espray
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+tablón de madera
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+cañería de acero
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+cuchillo grande
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+motosierra
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+linterna
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+radio
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+foto de Mary
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+carta de Mary
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+carta de Laura
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+cuchillo de Angela
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+llave de la sala
+de reconocimiento
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+llave de la habitación
+312 del hotel
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+disolvente
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+caja de música
+de la sirenita
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+caja de música
+de Cenicienta
+[00ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+libro “Memorias perdidas”
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+crisma blanco
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+copa de obsidiana
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+llave de perro
+[00ff]
+
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+El reverso muestra una lápida.
+[ffff]
+[8000]
+}
+{
+[8000]
+El reverso muestra un huevo.
+[ffff]
+[8000]
+}

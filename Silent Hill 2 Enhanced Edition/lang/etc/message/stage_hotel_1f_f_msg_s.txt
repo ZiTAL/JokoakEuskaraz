@@ -1,0 +1,889 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 95
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Aprieto el botón,
+pero no pasa nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un piano normal.
+Nada de qué preocuparse.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Sr. James Sunderland:
+
+La cinta de vídeo que se dejó
+está guardada en la oficina
+del primer piso.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una caja de música.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a dar cuerda
+a la caja de música?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Esto no suena bien.
+[ffff]
+[1000]
+[8000]
+¿Está rota la caja de música?
+O quizás...
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una hendidura rectangular.
+[ffff]
+[1000]
+[8000]
+Tiene una placa delante
+con una inscripción.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Cuando regrese la extraviada,
+la nota agria se hará dulce.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+A pesar de ello, quiero seguir
+creyendo que ella fue feliz.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que no hablaba.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Fue la codicia la que tiñó
+de sangre su zapato.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que escapó a media noche.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Belleza: Bendición
+y maldición al mismo tiempo.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que despertó de la muerte.
+[ffff]
+[9000]
+}
+{
+[8000]
+Todavía no puedo dejar este hotel.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada dentro.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+“Esperándote”...
+[ffff]
+[1000]
+[8000]
+[00ff]
+¿Qué es esto...?
+[ffff]
+[1000]
+[8000]
+Habitación 312... Es en la que
+estuvimos Mary y yo...
+[ffff]
+[1000]
+[8000]
+Mary, ¿estás ahí?
+O quizás...
+[ffff]
+[1000]
+[8000]
+Tengo un 
+[03ff]
+mapa del hotel
+(para huéspedes)
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave de
+la habitación 312 del hotel
+[00ff]
+.
+[ffff]
+[1000]
+[8000]
+Es la llave de la habitación
+donde nos alojamos Mary y yo...
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+mapa del hotel
+(para empleados)
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+llave
+de las escaleras de hotel
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+cinta de vídeo
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+abrelatas
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+caja de música
+de Blancanieves
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del pez
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+caja de música
+de Blancanieves
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+caja de música
+de la sirenita
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto la 
+[03ff]
+caja de música
+de Cenicienta
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una 
+[03ff]
+caja de música
+de Blancanieves
+[00ff]
+.
+[ffff]
+[1000]
+[8000]
+¿Vas a coger
+la caja de música?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una 
+[03ff]
+caja de música
+de la sirenita
+[00ff]
+.
+[ffff]
+[1000]
+[8000]
+¿Vas a coger
+la caja de música?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una 
+[03ff]
+caja de música
+de Cenicienta
+[00ff]
+.
+[ffff]
+[1000]
+[8000]
+¿Vas a coger
+la caja de música?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Te he asustado?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, la verdad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Has venido a encontrar a Mary,
+¿no, James?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Lo has conseguido?
+[ffff]
+[8000]
+}
+{
+[8000]
+No... ¿tú también has venido
+por ella?
+[ffff]
+[8000]
+}
+{
+[8000]
+Está aquí, ¿no?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Si sabes dónde está, dímelo!
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy harta de andar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ojalá lo supiera...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero si lo dijo en su carta...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿¡Qué carta!?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Quieres leerla?
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero no se lo digas a Rachel, eh.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Quién es Rachel?
+[ffff]
+[8000]
+}
+{
+[8000]
+Nuestra enfermera.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cojí la carta de su cajón.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Mi querida Laura:
+
+Le dejo esta carta a Rachel
+para que te la dé cuando
+yo me haya ido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ahora estoy muy lejos.
+En un lugar bello y tranquilo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Por favor, perdóname
+por no haberme despedido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Cuídate, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+No seas muy dura con las monjitas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura, con respecto a James...
+Sé que lo odias porque piensas
+que no me trata bien, pero,
+por favor, dale una oportunidad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Es cierto que a veces es un poco
+cascarrabias y que no se ríe mucho.
+Pero en el fondo es una buena persona.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura...
+Te quiero como si fueras
+mi propia hija.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Si las cosas hubieran ido
+de otra forma, te habría adoptado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Feliz 8.º cumpleaños, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tu amiga para siempre,
+Mary
+[ffff]
+[9000]
+}
+{
+[8000]
+Laura... ¿cuántos años tienes?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mmm... Cumplí ocho la semana pasada.
+[ffff]
+[8000]
+}
+{
+[8000]
+Entonces Mary no pudo haber
+muerto... hace tres años...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De verdad está aquí?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Es este el lugar bello y tranquilo
+al que se refería?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary y yo hablamos mucho
+de Silent Hill.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hasta me enseñó todas sus fotos.
+Estaba como loca por volver.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por eso he venido aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Quizás lo entenderás
+cuando veas la otra carta...
+[ffff]
+[8000]
+}
+{
+[8000]
+La que Mary... ¿Eh?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Se me habrá caído!
+[ffff]
+[8000]
+}
+{
+[8000]
+Laura...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Tengo que encontrarla!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Laura!
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una hendidura rectangular.
+[ffff]
+[1000]
+[8000]
+Tiene una placa delante
+con una inscripción.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que no hablaba.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una hendidura rectangular.
+[ffff]
+[1000]
+[8000]
+Tiene una placa delante
+con una inscripción.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que escapó a media noche.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una hendidura rectangular.
+[ffff]
+[1000]
+[8000]
+Tiene una placa delante
+con una inscripción.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+El asiento de la princesa
+que despertó de la muerte.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un abrelatas
+bajo la cinta de vídeo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un piano.
+[ffff]
+[1000]
+[8000]
+Recuerdo que a Mary le gustaba
+mucho tocar el piano.
+[ffff]
+[1000]
+[8000]
+No se le daba muy bien...
+[ffff]
+[1000]
+[8000]
+pero a mí me encantaba
+escucharla tocar.
+[ffff]
+[1000]
+[8000]
+De eso hace ya mucho tiempo,
+antes incluso de casarnos.
+¿Por qué pienso en esto ahora...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Un plato vacío, un cuchillo,
+un tenedor y ya está.
+No hay nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un dibujo hecho por Laura...
+¿Es un gato?
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una caja de música
+de disco.
+[ffff]
+[1000]
+[8000]
+Parece que tiene algo escrito
+delante, pero está demasiado
+oscuro para verlo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un timbre.
+No creo que vaya a aparecer nadie.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada
+que parezca de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Parece que el teléfono está roto.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay más llaves.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro.
+No tiene nada especial.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante
+en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+La cerradura está rota.
+No puedo abrirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante
+en los documentos del escritorio.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay patatas y cebollas.
+Huelen un poco a podrido.
+[ffff]
+[9000]
+}
+{
+[8000]
+Manzanas y calabazas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una hilera de latas de fruta.
+Ya llevarán un tiempo caducadas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay bolsitas de té y galletitas.
+Están caducadas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una hilera de latas de zumo.
+No hay razón para llevármelas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay latas de sopa.
+Creo que aún no se han pasado,
+pero no tengo hambre.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada.
+Pero desprende un ligero
+olor a moho.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un reloj registrador.
+El reloj no funciona,
+supongo que estará roto.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un hornillo.
+[ffff]
+[1000]
+[8000]
+Por detrás hay algo escrito
+en letra pequeña:
+[fdff]
+[01ff]
+“Soy Johnny y estoy calentito”.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un calendario.
+Es del año pasado.
+[ffff]
+[9000]
+}
+{
+[8000]
+La persiana está cerrada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una caja de cartón.
+No hay nada dentro.
+[ffff]
+[9000]
+}
+{
+[8000]
+Papel higiénico...
+Ahora no lo necesito.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un carrito de lavandería.
+No hay nada útil dentro.
+[ffff]
+[9000]
+}

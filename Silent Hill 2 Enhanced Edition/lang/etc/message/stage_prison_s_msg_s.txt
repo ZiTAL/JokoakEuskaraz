@@ -1,0 +1,198 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 17
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[00ff]
+Hay algo escrito sobre el cuadro.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Te doy sangre para expiar
+los Tres Pecados.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Bajo el cuadro hay tres agujeros
+cuadrados.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Te doy sangre para expiar
+los Tres Pecados.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+tablilla del opresor
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He insertado la 
+[03ff]
+tablilla del opresor
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He insertado la 
+[03ff]
+tablilla del cerdo glotón
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He insertado la 
+[03ff]
+tablilla de la seductora
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+herradura
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+muñeco de cera
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+La puerta está cerrada firmemente.
+No puedo forzarla.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Hombre ardiendo
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+436 personas en un recital
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Mujer volando
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay tres cuerdas que cuelgan
+del patíbulo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay ropa manchada de sangre.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay revistas.
+Nada de interés.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay libros esparcidos por todo
+el suelo y sobre la cama.
+[ffff]
+[1000]
+[8000]
+[01ff]
+“Magia negra del abismo”
+“La resurrección de los muertos”
+[ffff]
+[1000]
+[8000]
+[01ff]
+“Crónicas de Agripa”
+“Manuscrito de los anillos
+ de hierro”
+[ffff]
+[1000]
+[8000]
+[00ff]
+No debería darles mucha importancia.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay libros esparcidos por todo
+el suelo y sobre la cama.
+[ffff]
+[1000]
+[8000]
+[01ff]
+“Sacrificios y el arte
+ de invocar al demonio”
+“Libro del profeta”
+[ffff]
+[1000]
+[8000]
+[01ff]
+“El día de los súcubos”
+“Los angeles caídos de la
+ gracia y el favor”
+[ffff]
+[1000]
+[8000]
+[00ff]
+No debería darles mucha importancia.
+[ffff]
+[9000]
+}

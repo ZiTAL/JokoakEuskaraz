@@ -1,0 +1,159 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 24
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¡Mamá!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mamá, te estaba buscando.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eres la única que me queda.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tal vez...
+entonces pueda descansar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mamá, ¿por qué corres?
+[ffff]
+[8000]
+}
+{
+[8000]
+Tú no eres mamá.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Es usted...!
+Lo... lo siento...
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela, no...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gracias por salvarme...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero ojalá no lo hubiera hecho.
+[ffff]
+[8000]
+}
+{
+[8000]
+Incluso mamá lo dijo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Me lo merecía...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡No, Angela, no es verdad!
+[ffff]
+[8000]
+}
+{
+[8000]
+No, no me compadezca.
+No me lo merezco...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿O se cree que puede salvarme?
+¿Me amará?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me cuidará?
+¿Curará mis penas?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eso pensaba.
+[ffff]
+[8000]
+}
+{
+[8000]
+James... Devuélvame ese cuchillo.
+[ffff]
+[8000]
+}
+{
+[8000]
+No... No lo haré.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Lo quiere para usted?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Yo? No... Nunca me suicidaría...
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí hace un calor terrible.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Usted también lo nota?
+[ffff]
+[8000]
+}
+{
+[8000]
+Para mí, siempre es así.
+[ffff]
+[8000]
+}

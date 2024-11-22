@@ -1,0 +1,99 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Mary... ¿de verdad estás
+en esta ciudad?
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Si de verdad quieres ver a Mary,
+deberías morir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero a lo mejor acabas en
+un lugar distinto al de Mary, James.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Aquí había un AGUJERO.
+Ahora ha desaparecido.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+espray
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un mapa.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una nota sobre el sofá.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Te espero en el bar Neely's
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un mapa.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Qué es ese símbolo que hay
+al final de Martin Street?
+[ffff]
+[9000]
+}
+{
+[8000]
+Lo he copiado en mi mapa.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+gema azul
+[00ff]
+.
+[ffff]
+[9000]
+}

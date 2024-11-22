@@ -1,0 +1,497 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 42
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¿¡Qué ha sido eso?!
+Ha sonado al norte de aquí...
+[ffff]
+[9000]
+}
+{
+[8000]
+Está muerto.
+¡¿Quién lo habrá matado...?!
+[ffff]
+[9000]
+}
+{
+[8000]
+No puedo ver bien por la oscuridad,
+pero creo que hay algo al otro lado
+del agujero.
+[ffff]
+[1000]
+[8000]
+¿Vas a investigar?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+No queda nada en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Esta nota...? Debe ser
+de la persona que vivía aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres agujas
+en tres alturas difieren.
+Una es gruesa,
+una es alta y otra fina.
+De lento a rápido
+a la derecha se mueven.
+Scott no se posa en el 3,
+sino que en el 15 atina.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay algo escrito en el reloj.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Las cicatrices del pasado
+deben eliminar el clavo
+que detiene el tiempo.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Qué es esto...?
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[01ff]
+Henry
+Mildred
+Scott
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres tamaños distintos,
+el tiempo pasó.
+Tres jóvenes dando
+vueltas alrededor del sol.
+Henry es bajo,
+y lento, lento va,
+Scott no puede parar,
+siempre en marcha está.
+[ffff]
+[9000]
+}
+{
+[8000]
+El reloj se ha parado en las 
+[e0ff]
+:
+y 15 segundos.
+[ffff]
+[9000]
+}
+{
+[8000]
+El reloj se ha parado en las 
+[e0ff]
+:
+y 15 segundos.
+[ffff]
+[1000]
+[8000]
+La esfera está cerrada.
+[ffff]
+[1000]
+[8000]
+No puedo acceder
+a las agujas del reloj.
+[ffff]
+[9000]
+}
+{
+[8000]
+En el suelo y las paredes
+hay arañazos, como de
+arrastrar algo pesado.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a empujar el reloj?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Por muy fuerte que empuje,
+no se mueve. Es como si
+estuviese pegado al suelo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una rampa de basura.
+[ffff]
+[1000]
+[8000]
+Hay algo raro atascado
+en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+Quizás si dejo caer algo pesado
+desde arriba...
+[ffff]
+[9000]
+}
+{
+[8000]
+Parece que la basura
+se ha soltado de la rampa.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay brazos y piernas esparcidos
+por todo el sofá.
+[ffff]
+[1000]
+[8000]
+Con suerte, serán de un maniquí...
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del reloj
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+linterna
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave
+de la habitación 202
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del reloj
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave
+de la habitación 202
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave de la salida
+de emergencia
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Dios mío...
+¡¿Quién podría hacer esto...?!
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una nota que lleva pegada
+un recorte de una revista.
+[ffff]
+[1000]
+[8000]
+En la parte de delante
+lleva escrito un título.
+[ffff]
+[1000]
+[8000]
+[01ff]
+“Buscando otra conclusión”
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«La ruta hacia el mañana»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El primer paso para una vida
+sana es evitar la enfermedad.
+Parecerá obvio, pero es
+muy importante.
+ Es mejor evitar las
+enfermedades que tener que
+buscar una cura tras enfermar.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Además, hay que tener
+una perspectiva positiva y
+optimista de la vida. De poco
+sirve preocuparse por las cosas
+que ocurrieron en el pasado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Tienes que salir y disfrutar
+del aire libre de vez en cuando,
+en lugar de quedarte sentado
+en tu casa, leyendo libros
+complejos.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Cómo ser una pareja feliz»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ ¿De verdad la amas?
+ ¿En la salud y en la enfermedad?
+ Si la amas de verdad, tienes
+que actuar. Lo importante es
+lo mucho que luches por ella.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ No te rindas, pase lo que
+pase. Da siempre otra
+oportunidad. Y a pesar de
+los momentos más duros, nunca
+te vayas con otra mujer.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Si llega el caso, debes estar
+dispuesto a dar tu vida
+por ella. Al fin y al cabo, el
+verdadero amor supone estar
+dispuesto a sacrificarse.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Sé fiel a tus sentimientos y,
+con suerte, todo saldrá bien.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Elegir la muerte»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Cuando la vida está llena
+de desesperación, algunos
+deciden acabar con todo.
+ Yo también elegí ese camino
+una vez.
+ En aquel momento pensé
+que no tenía otra salida.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Una vez tomé la decisión, esta
+se convirtió en lo único que me
+unía a este mundo.
+ A veces me ponía a llorar
+pensando en el pasado, pero
+sobre todo, lo que hacía era
+planificar una y otra vez cómo
+y cuándo me iba a suicidar.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Hice estupideces, cosas peligrosas.
+Pensé que daba lo mismo,
+iba a morir de todas formas,
+y me empeñé en tentar a la
+suerte.
+ Dejé de hablar con la gente,
+de darle importancia, aunque
+me distanciara de las amistades.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada que hacer.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada que parezca útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un periódico en el suelo.
+Pero no tiene nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un reloj grande. Está demasiado
+oscuro como para verlo bien.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un periódico.
+Parece muy antiguo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una televisión.
+No tiene nada raro.
+[ffff]
+[9000]
+}
+{
+[8000]
+No es más que un maniquí.
+Pero esta ropa...
+[ffff]
+[9000]
+}
+{
+[8000]
+Una máquina de coser.
+No tiene nada de especial.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada que parezca
+de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay mariposas muertas
+por el suelo y la cama.
+No hay nada más de interés.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada en las jaulas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una lavadora normal.
+No tiene interesante.
+[ffff]
+[9000]
+}

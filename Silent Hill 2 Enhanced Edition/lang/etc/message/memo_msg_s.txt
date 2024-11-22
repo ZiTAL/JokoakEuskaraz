@@ -1,0 +1,2195 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 109
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[fbff]
+Monumento del pantano
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«La ruta hacia el mañana»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Cómo ser una pareja feliz»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Elegir la muerte»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Arañazos de la pared
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Tres agujas en tres alturas difieren»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Tres tamaños distintos, el tiempo pasó»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Artículo sobre asesinato
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Folleto turístico
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Cartera del inodoro
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Fotografía rota
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Querido Tim»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Tres brillantes monedas en cinco agujeros»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Primero está el asiento del Incomparable»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Como monedas lanzadas al éter»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«A la derecha está la dama»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Historiales clínicos
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Diario del médico
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Mensaje en pizarra blanca
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Huellas en papel carbón
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Diario del tejado
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Jira jira jira los números»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Louise»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Es un ángel»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Koji la yave del direktor»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Trastada o regalo»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Paisaje ribereño»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Cuadro de Cabeza Pirámide
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Inscripción en la horca
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Leyenda del lago
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Periódico empapado en sangre
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Que alguien me salve»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Hombres muertos»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Diario del condenado
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Muerte sobre la cabeza del pecador»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota de la recepcionista
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Foto del baúl
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«lo sé, sé el número de la caja»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 1 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 2 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 3 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 4 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 5 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Nota n.º 6 del cadáver
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Periódicos del escaparate
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«El niño perdido no estaba»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«Muerte sobre la cabeza del pecador»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Palabras escritas en la pared
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Número escrito en la pizarra blanca
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Restos del pantano 
+[f7ff]
+XXXXXXXXX
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Los 
+[f7ff]
+XX met
+[f7ff]
+ros de tierra que
+rod
+[f7ff]
+ean es
+[f7ff]
+te monumento eran
+orginalmente un pantano, pero
+luego fueron ter
+[f7ff]
+raplena
+[f7ff]
+dos.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+De
+[f7ff]
+sde ha
+[f7ff]
+ce mucho, es
+[f7ff]
+te pantano
+[f7ff]
+
+recibió el apodo de «pantano sangriento»
+porque los 
+[f7ff]
+verdu
+[f7ff]
+gos vertían
+aquí el ag
+[f7ff]
+ua que utili
+[f7ff]
+zaban para
+limpiar sus he
+[f7ff]
+rramientas de ejec
+[f7ff]
+ución.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tal vez es po
+[f7ff]
+r esta razón q
+[f7ff]
+ue
+mucha ge
+[f7ff]
+nte af
+[f7ff]
+rima haber
+vi
+[f7ff]
+sto fantasmas e
+[f7ff]
+n la zona.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«La ruta hacia el mañana»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El primer paso para una vida
+sana es evitar la enfermedad.
+Parecerá obvio, pero es
+muy importante.
+ Es mejor evitar las
+enfermedades que tener que
+buscar una cura tras enfermar.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Además, hay que tener
+una perspectiva positiva y
+optimista de la vida. De poco
+sirve preocuparse por las cosas
+que ocurrieron en el pasado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Tienes que salir y disfrutar
+del aire libre de vez en cuando,
+en lugar de quedarte sentado
+en tu casa, leyendo libros
+complejos.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Cómo ser una pareja feliz»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ ¿De verdad la amas?
+ ¿En la salud y en la enfermedad?
+ Si la amas de verdad, tienes
+que actuar. Lo importante es
+lo mucho que luches por ella.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ No te rindas, pase lo que
+pase. Da siempre otra
+oportunidad. Y a pesar de
+los momentos más duros, nunca
+te vayas con otra mujer.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Si llega el caso, debes estar
+dispuesto a dar tu vida
+por ella. Al fin y al cabo, el
+verdadero amor supone estar
+dispuesto a sacrificarse.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Sé fiel a tus sentimientos y,
+con suerte, todo saldrá bien.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Elegir la muerte»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Cuando la vida está llena
+de desesperación, algunos
+deciden acabar con todo.
+ Yo también elegí ese camino
+una vez.
+ En aquel momento pensé
+que no tenía otra salida.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Una vez tomé la decisión, esta
+se convirtió en lo único que me
+unía a este mundo.
+ A veces me ponía a llorar
+pensando en el pasado, pero
+sobre todo, lo que hacía era
+planificar una y otra vez cómo
+y cuándo me iba a suicidar.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Hice estupideces, cosas peligrosas.
+Pensé que daba lo mismo,
+iba a morir de todas formas,
+y me empeñé en tentar a la
+suerte.
+ Dejé de hablar con la gente,
+de darle importancia, aunque
+me distanciara de las amistades.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[01ff]
+Henry
+Mildred
+Scott
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres agujas
+en tres alturas difieren.
+Una es gruesa,
+una es alta y otra fina.
+De lento a rápido
+a la derecha se mueven.
+Scott no se posa en el 3,
+sino que en el 15 atina.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres tamaños distintos,
+el tiempo pasó.
+Tres jóvenes dando
+vueltas alrededor del sol.
+Henry es bajo,
+y lento, lento va,
+Scott no puede parar,
+siempre en marcha está.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ La policía ha anunciado hoy
+que Walter Sullivan, detenido
+el día 18 de este mes por
+el brutal asesinato de Billy
+Locane y su hermana Miriam,
+se suicidó en su celda en
+la madrugada del 22.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Según la declaración de la policía,
+Sullivan se clavó una cuchara
+sopera en el cuello, cortándose
+la arteria carótida.
+
+ Cuando el guarda lo encontró,
+Sullivan ya había muerto
+desangrado, con la cuchara
+hendida cinco centímetros
+en el cuello.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Un antiguo compañero de escuela
+de Walter Sullivan, de su ciudad natal
+de Pleasant River, declaró:
+ «No parecía capaz de matar
+a un niño.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Pero recuerdo que justo antes
+de que lo detuvieran decía
+cosas extrañas, en plan:
+“Quiere matarme. Quiere
+castigarme. El monstruo...
+el demonio rojo.
+Perdonadme. Yo lo hice,
+¡pero no fui yo!”».
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El compañero añadió:
+«Ahora que lo pienso, creo que
+le faltaba algún tornillo».
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+¡Le damos la bienvenida
+a Silent Hill!
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Silent Hill es una pequeña y
+tranquila ciudad turística
+a orillas de un lago.
+Nos alegra que haya decidido
+visitarnos. Tómese un descanso
+de su ajetreada vida y disfrute
+de unas tranquilas vacaciones.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Hileras de pintorescas casas
+antiguas.
+ Un magnífico paisaje montañoso.
+ Y un lago que muestra las distintas
+facetas de su belleza a lo largo del
+día, de sol a sol.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Silent Hill le conmoverá y le hará
+sentir una paz profunda.
+Espero que su estancia sea agradable
+y sus recuerdos perduren
+para siempre.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Editor: Roger Widmark
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[e0ff]
+ >> << >>
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Querido Tim:
+ Tengo que irme a hacer un recado.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Le dejo la llave de la casa
+al tío David (Ya sabes dónde
+vive, ¿no? La llave está
+en la habitación más cercana
+a la escalera del primer piso).
+
+ Volveré en cuanto pueda;
+cuídame la casa mientras
+estoy fuera, por favor.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres brillantes monedas
+en cinco agujeros están
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+En un extremo se halla el
+seductor de la mujer de Adán
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Sopla el viento a
+espaldas de la mujer
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Y aquel que no tiene forma, el nulo,
+de lejos los tiene que ver
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El anciano junto a la
+serpiente no está
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Es a la izquierda del
+prisionero donde se pudrirá
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Primero está el asiento
+del Incomparable, Él,
+silencioso y vacío,
+inhumano y cruel
+Junto a él se sienta
+uno que sabe y admitirá
+Que el lugar del criado
+junto al trono está
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Docenas de pies,
+y ni un solo dedo tendrá
+Aquel que está oculto
+junto a él partirá
+Seductor de sueños,
+ser que el infierno ama
+Alejado del hombre,
+cercano a la dama
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombre y mujer
+todo lo pueden ver
+A la llamada del cuervo
+sin atender
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Silenciosos y ocultos
+puede que los dos sean
+Y no están ahí
+para que tú los veas
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Devolviéndolos donde
+estar deberían
+La bendición sobre ti caería
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Así hablo, dando la espalda
+a la estrella polar
+El nacimiento del sol es
+donde todo va a empezar
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Como monedas lanzadas
+al éter brumoso
+Nuestras almas caerán,
+sus culpas les habrán hundido
+A la Tierra han de llegar
+en un descenso doloroso
+Para "invertir" los pecados
+que han cometido
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Solo aquellos que entonen
+el mea culpa tres veces
+Conocerán la dicha,
+una felicidad sin creces
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La primera nota no la
+toca el enastado
+Aunque es ahí donde
+surge todo pecado
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La portadora de vida
+y portadora de desgracias
+De esta última los pecados
+no levantan suspicacias
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Aunque a la estela del anciano
+persigue nerviosa
+El alma de la amorfa
+se estremece temerosa
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El más silencioso
+ha saciado sus anhelos
+Peca menos al haber
+mitigado sus deseos
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Para el mayor de los pecadores
+su posición está elegida
+Y si tiene suerte
+tal vez su alma sea ungida
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+A la derecha está la dama.
+A la izquierda el anciano.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+En el centro se arrastra el otro.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Ahora sólo quedan dos espacios,
+pero aún no temas nada,
+el enigma está resuelto.
+El enigma está resuelto.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+[Jack Davis]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ha intentado suicidarse tres veces
+por razones desconocidas. Aunque
+suele ser un paciente modélico que
+cumple las órdenes del médico y la
+enfermera, hay que vigilarle de cerca
+debido a sus repentinas tendencias
+suicidas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+[Joseph Barkin]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Su enfermedad parece radicar
+en el hecho de que se considera
+culpable de la muerte de su hija.
+Sus síntomas sugieren una crisis
+psicótica y delirios paranoicos.
+Normalmente está tranquilo,
+pero tiene tendencias violentas
+cuando se altera.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+[Joshua Lewis]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tiene un historial de
+hospitalizaciones y numerosos
+asaltos, maltratos y otros actos
+violentos. Sufre de manías
+persecutorias y tiende a recurrir
+a la violencia.
+Hay que extremar las precauciones
+con este paciente.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ Todo el mundo está expuesto
+a esta enfermedad y, bajo las
+condiciones adecuadas, cualquier
+persona acabará arrastrada,
+como él, al "otro lado".
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Tal vez "otro lado" no sea
+la mejor descripción.
+ Al fin y al cabo, no hay
+un muro que separe ambos
+lados. Está en la frontera
+donde se cruzan la realidad
+e irrealidad.
+Es un lugar cercano y distante
+al mismo tiempo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Hay quien dice que esto no es
+ni siquiera una enfermedad.
+ No estoy de acuerdo. Soy médico,
+no un filósofo o un psiquiatra.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Pero a veces me planteo
+esa misma pregunta.
+ Es cierto que, para nosotros,
+sus imaginaciones no son más
+que las invenciones de una
+mente calenturienta.
+ Pero para él no existe otra
+realidad. Es más, está feliz
+en su mundo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Y me pregunto: ¿por qué
+debemos arrastrarle dolorosamente
+al mundo de nuestra propia
+realidad para curarle?
+[ffff]
+[1000]
+[8000]
+[00ff]
+Hay algo más escrito a mano.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Joseph me dio la llave.
+Será de esa caja.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ El número pin de este mes es T.
+El mes pasado era X y el
+del mes anterior fue el Z.
+ ¿Pero qué harán el próximo mes?
+No se puede hacer más
+con 4 números.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Además, ¿de verdad es necesario
+cambiar la combinación de
+la puerta del ala de pacientes
+tan a menudo?
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+lo sé el secreto les daré algo
+de qué ocuparse este refugio
+contra demonios ya no es útil
+él es mi instrumento debe
+cumplir mis órdenes sí
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+la caja será inútil ahora no debo
+olvidarlo 
+[e0ff]
+ muy bien
+él es lo peor ahora yo también
+seré libre y él me servirá soy
+un genio nadie puede detenerme
+puede detenerme nadie puede
+detenerme puede detener
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+lo sé sé el número de la caja 
+[e0ff]
+
+ya no puede ayudarle los botones ya
+no me asustan y nadie puede impedir
+quien soy no sé quién soy es quien
+soy es quien soy
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+9 de mayo
+Llueve.
+Llevo todo el día mirando
+por la ventana. Está tranquilo,
+no tengo nada que hacer.
+Todavía no me dejan salir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+10 de mayo
+Sigue lloviendo.
+He hablado con el médico.
+¿Me habrían salvado si no
+tuviera una familia que
+me echara de menos?
+Sé que doy pena, que soy débil.
+No todo el mundo puede
+ser fuerte.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+11 de mayo
+Vuelve a llover.
+Hoy la medicación
+me ha dado náuseas.
+Si sólo estoy mejor
+cuando me la tomo,
+¿entonces quién soy?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+12 de mayo
+Más lluvia.
+No quiero dar más problemas
+a nadie, pero no dejo de ser
+un estorbo.
+¿Por qué se considera un pecado
+abandonar la lucha?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Algunos dirán que es así, pero
+no saben lo que tengo que sufrir.
+Seré egoista, pero es lo
+que quiero.
+Esto es demasiado duro.
+Demasiado...
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+13 de mayo
+Ha clareado.
+Los médicos me han dicho que
+me dan el alta, que tengo que
+irme a casa.
+Y
+[08fd]
+[a0fe]
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[01ff]
+[00f9]
+Jira jira jira los números
+mejor no olvidarlos
+Por eso los eskriba aquí
+El otro, mi nombre secreto
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Louise
+Siempre cuidaré de ti
+¡Es mi destino!
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Es un ángel que nadie conoce
+sólo yo puedo ver a la dama de la
+puerta no pueden andar sobre
+su puente de hilos caerán por
+el peso de sus crímenes.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sus pecados son como horribles
+e hinchados cadáveres ella devora
+tanto pecado como pecador
+me salvará es un ángel.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Koji la yave del direktor la del
+museo. La escondi detrás de la
+mujer que reza cuando sali
+de excursion. La koji pero no la
+robe. No zoy un kriminal.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+«Paisaje ribereño»
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Allen Smith (Fecha de nacimiento
+y defunción desconocidas)
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Un paisaje antiguo de esta zona.
+Por el estilo, parece que se pintó
+sobre la década de 1820.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+En aquel entonces había mucha
+menos gente y apenas un puñado
+de edificios.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Te doy sangre para expiar
+los Tres Pecados.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ El lago Toluca es la principal
+atracción turística de la ciudad.
+ Este bello y cristalino lago
+tiene también un lado oculto.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Esta puede parecer la típica
+historia de fantasmas que existe
+en muchas de las viejas localidades
+de todo el país, pero en este
+caso, la leyenda es cierta.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ En un neblinoso día de
+noviembre de 1918, el Little
+Baroness, un barco lleno de
+turistas, no regresó a puerto.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Un artículo de la época se limitaba
+a decir que «lo más probable es
+que se haya hundido por alguna
+razón».
+ A pesar de la búsqueda policial,
+hasta hoy no se ha hallado ni un
+resto del barco ni de los 14
+cuerpos de la tripulación y el
+pasaje.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ En 1939 tuvo lugar un incidente
+aún más extraño.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Hay muchas páginas arrancadas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Muchos cadáveres yacen en el
+fondo del lago. Sus huesudas manos
+se alzan hacia los barcos que pasan
+por encima, quizás en busca de
+sus camaradas.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ El cu
+[f7ff]
+erpo d
+[f7ff]
+e un hombre que
+fue posteriormente identificado
+como Thomas Oro
+[f7ff]
+sco,
+[f7ff]
+ un leñador
+de 39 a
+[f7ff]
+ños
+[f7ff]
+, fue descubierto en
+[fdff]
+[f7ff]
+su habit
+[f7ff]
+ación tumbado bo
+[f7ff]
+ca
+[f7ff]
+
+[fdff]
+[f7ff]
+arriba.
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ La probable causa de la mue
+[f7ff]
+rte
+[f7ff]
+
+[fdff]
+[f7ff]
+fu
+[f7ff]
+eron varias puñaladas en la
+parte delantera del cuello y en
+el costado izquierdo, provocadas
+por un arma afilada.
+La muerte oc
+[f7ff]
+urrió
+[f7ff]
+ aproximadamente
+entre las 23:0
+[f7ff]
+0 y
+[f7ff]
+ la medianoche.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Debido a los indicios de lucha
+en la habitación y la ausencia
+del arma homicida, la policía está
+sos
+[f7ff]
+pech
+[f7ff]
+ando de un homicidio
+y ha abierto una investigación
+por asesinato.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Además, dado que no se había
+tocado el dinero de la habitación
+y que el Sr. Oro
+[f7ff]
+sco te
+[f7ff]
+nía
+antecedentes de alcoholismo y
+violencia, la polic
+[f7ff]
+ía sosp
+[f7ff]
+echa
+que e
+[f7ff]
+l mo
+[f7ff]
+tivo no fue un robo,
+[f7ff]
+ sino
+[f7ff]
+
+[fdff]
+[f7ff]
+algún tipo 
+[f7ff]
+de crimen p
+[f7ff]
+asio
+[f7ff]
+nal.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Él cometió un crimen diabólico.
+Redujo un hogar feliz
+a un montón de cenizas.
+Por eso debería morir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ellos también
+cometieron crímenes.
+Trataron de estafar
+y engañar a otros.
+Así que su recompensa
+también es la más lógica.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ese tampoco se merece el perdón,
+a mi amigo le falta la mano izquierda.
+Por eso su muerte no me importa.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+¿Y qué decir de él?
+Tampoco está libre de pecado.
+Aquí sólo hay uno
+que es inocente.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+El niño perdido no
+apareció por ninguna parte,
+así que no hubo pruebas
+de su culpabilidad.
+Su muerte fue una tragedia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Eso es todo lo que quiero decir.
+No fue ni justicia ni castigo.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombres muertos, hombres
+muertos y colgados del revés
+¿Cuántos hombres muertos ves?
+La lengua azul, plumas y brea
+El muerto gira y se balancea
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El primero mató al carnicero
+Lo descuartizó sobre un puchero
+Más tarde lo cocinó
+Y a sus invitados se lo ofreció
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El segundo con engaños
+A pobres niños raptó
+Y a los hombres repugnantes
+como esclavos los vendió
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Entrando de noche a hurtadillas
+El ladrón no vió las trampillas
+Y llena de alcohol su cabeza
+Despertó de mañana entre rejas
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El falsificador avezado
+Quiso pagar al contado
+Probó suerte pintando billetes
+Pero acabó entre grilletes
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Con ansias de gran beneficio
+Robó el oro de un edificio
+Lo envolvió y ocultó a la vista
+Pero nadie encontró su pista
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres casas ardieron de noche
+El sheriff recibió un reproche
+A un forastero echó el ojo
+Lo encerró, pateó y dejo cojo
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombres muertos, hombres
+muertos y colgados del revés
+¿Cuántos hombres muertos ves?
+Los seis fueron al mismo lugar
+Una cuerda que les va a ahorcar
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ No quiero morir.
+
+ Pero mañana subiré al patíbulo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Por favor, que alguien me responda,
+¿por qué debo morir al amanecer?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El prisionero que tengo al lado
+me cree. Dijo: "Porque están
+todos locos, y ya está".
+
+ Por supuesto, sé que su opinión
+no cambiará nada. Murmuró:
+"Ahora sabes por qué les di
+una paliza".
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El hombre que ejecutaron ayer,
+el que había dicho que su trabajo
+era vender sueños, dijo que eso
+no era verdad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Pero el que ejecutarán
+pasado mañana por raptar niños
+le gritó que sí era verdad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El hombre al que colgaron hoy
+no les contestó. Solo dijo:
+"Me matarán de todas formas".
+Lo arrestaron por malversación,
+así que que no espera clemencia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El que siempre sonríe
+tranquilamente dijo: "Yo soy feliz,
+pronto estaré con ella".
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ No quiero morir. Sólo quiero
+volver a casa. Pero sé que no
+lo haré. Aunque no haya hecho
+nada, este crimen me lo han
+achacado a mí.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Que alguien me salve.
+Esto no es un castigo.
+¡Están sedientos de sangre
+y yo soy el cordero a sacrificar!
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Podemos asignar la muerte
+sobre la cabeza del pecador,
+pero, ¿para qué?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Hoy, en nombre del castigo,
+formamos parte de una
+amarga comedia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tú, el colgado por el cuello,
+no tuviste nuestro perdón,
+sino nuestras maldiciones.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Cinco de ellos cometieron
+crímenes, seis salieron a beber
+y fueron capturados.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sólo uno era inocente,
+pero ellos no lo sabían.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Las manchas de sangre que quedan
+son prueba de su culpabilidad.
+Estos trillados caminos son los que
+llevan al infierno o al vacío.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Las vendas blancas
+manchadas de rojo,
+Los restos sobre
+la tierra quemada,
+Los llantos susurrados
+de la doncella.
+Sus contratos
+sin ningún sentido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Estos también son
+signos de culpabilidad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero uno de ellos fue
+ajusticiado sin razón.
+Lo mataron por temor
+y una imaginación
+desbocada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Solo, al final de una cuerda,
+no es nada menos que una
+desgracia para todos.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Sr. James Sunderland:
+
+La cinta de vídeo que se dejó
+está guardada en la oficina
+del primer piso.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+«Día neblinoso,
+restos del juicio»
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Pasillo ala pacientes
+del tercer piso: 7335
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Voy a escribir todo lo que
+he aprendido hasta ahora.
+Tal vez eso te sea
+de alguna ayuda.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Si estás leyendo esto,
+probablemente ya estoy muerto.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+He visto a esos demonios.
+Sé que estaban ahí.
+Pero mi amigo no vio nada.
+Si es así, ¿entonces lo que
+vi era una ilusión?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero aunque ese demonio que
+comía seres humanos fuese real
+o nada más que una alucinación...
+Una cosa de la que estoy seguro
+es que no tengo ninguna
+posibilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Parece que les atrae la luz.
+Por ese motivo, aquellos
+que necesitan luz para ver
+son sus presas naturales.
+También reaccionan a los sonidos.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Si quieres seguir viviendo,
+será mejor que te quedes
+en la oscuridad y en silencio.
+Pero seguramente eso no bastará
+para salvarte.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Si vas a luchar contra ellos,
+lo más importante es que mantener
+la calma. Es peligroso usar
+una pistola en pleno pánico.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Primero apunta bien y entonces
+aprieta el gatillo. Y no te
+olvides de rematarlos.
+Creo que la mayoría de esas
+criaturas se pueden matar,
+aunque sean más duras que
+una persona cualquiera.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Huye.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+¡Huye! ¡Huye! ¡Huye!
+¡Huye! ¡Huye! ¡Huye!
+¡Huye! ¡Huye! ¡Huye!
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Si de verdad quieres ver a Mary,
+deberías morir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero a lo mejor acabas en
+un lugar distinto al de Mary, James.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Aquí había un AGUJERO.
+Ahora ha desaparecido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+«Hay una carta y una llave inglesa»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+«La llave está en el parque»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Quien no tenga el valor suficiente
+para dejar que lo observen
+desde el abismo, no tendrá el valor
+suficiente para encararse a él.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La verdad sólo se encontrará
+avanzando hacia delante.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Sigue el mapa.
+Ahí hay una carta y una llave inglesa.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+O tal vez estés loco.
+La verdad suele traicionar a la gente.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Una parte de ese abismo
+está en la vieja sociedad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+La llave de la sociedad
+está en el parque.
+A los pies de la mujer que reza,
+bajo tierra, dentro de una caja.
+Para abrirla necesito
+una llave inglesa.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Mi paciente la enterró ahí.
+Yo lo sabía, pero no hice nada.
+Me incomodaba tener
+esa cosa tan cerca.
+Yo no buscaba la verdad,
+sólo buscaba tranquilidad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+También vi a esa cosa.
+Escapé, pero el museo
+también estaba sellado.
+Ahora nadie se atreve
+a acercarse a ese lugar.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Si aún no quieres detenerte, James,
+rezaré al Señor para que
+se apiade de tu alma eterna.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+«El sótano del sótano»
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Estaba encerrado en
+el sótano del sótano.
+Era muy pequeño y oscuro
+y yo tuve muchísimo miedo.
+Se me cayó mi precioso anillo.
+Pero nunca jamás volveré allí.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+Cuadro 1 de la celda
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Cuadro 2 de la celda
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Cuadro 3 de la celda
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+Hombre ardiendo
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Mujer volando
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+436 personas en un recital
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+Mapa del bar
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Mapa hallado cerca de un puente
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+Diario del guarda de la prisión
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ Los prisioneros no sienten
+remordimientos. De hecho,
+no se les pasa por la cabeza
+que puedan ser malvados.
+ Incluso el animal más analfabeto
+usará las pocas palabras que
+sepa para justificarse.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Y tendrán sueños así de
+insignificantes, que florecen
+incluso en la oscuridad.
+Los prisioneros no son ninguna
+excepción.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Al margen de lo infecta o detestable
+que sea la existencia y vida de uno,
+la naturaleza humana es pertinaz.
+[ffff]
+[9000]
+}

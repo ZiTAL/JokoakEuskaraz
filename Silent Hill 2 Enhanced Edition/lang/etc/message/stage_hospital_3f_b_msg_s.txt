@@ -1,0 +1,144 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 11
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+En la cama hay un trozo de papel.
+[ffff]
+[1000]
+[8000]
+Sólo son garabatos...
+Eh, tiene algo escrito.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Es un ángel que nadie conoce
+sólo yo puedo ver a la dama de la
+puerta no pueden andar sobre
+su puente de hilos caerán por
+el peso de sus crímenes.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sus pecados son como horribles
+e hinchados cadáveres ella devora
+tanto pecado como pecador
+me salvará es un ángel.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Es un ángel que nadie conoce
+sólo yo puedo ver a la dama de la
+puerta no pueden andar sobre
+su puente de hilos caerán por
+el peso de sus crímenes.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sus pecados son como horribles
+e hinchados cadáveres ella devora
+tanto pecado como pecador
+me salvará es un ángel.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+anillo de cobre
+[00ff]
+
+en la “mano” de la mujer pintada.
+[ffff]
+[9000]
+}
+{
+[8000]
+He puesto el 
+[03ff]
+anillo de plomo
+[00ff]
+
+en la “mano” de la mujer pintada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pulso los botones,
+pero el ascensor no reacciona.
+[ffff]
+[9000]
+}
+{
+[8000]
+En la puerta hay una mujer pintada.
+[ffff]
+[1000]
+[8000]
+Lo curioso es que la parte
+de la mano es tridimensional
+y sobresale.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pulso el botón,
+pero no ocurre nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+En la cama hay un trozo de papel.
+[ffff]
+[1000]
+[8000]
+Tiene algo escrito, pero está
+demasiado oscuro para leerlo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay frascos vacíos.
+¿Son de María?
+[ffff]
+[1000]
+[8000]
+¿María también está enferma...?
+[ffff]
+[9000]
+}
+{
+[8000]
+María no está aquí...
+¿Dónde habrá ido?
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada útil.
+[ffff]
+[9000]
+}

@@ -1,0 +1,626 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 38
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[01ff]
+Este hombre fue colgado
+por asesinato. La justicia
+y la venganza se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado por robo.
+La justicia y la venganza
+se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado por rapto.
+La justicia y la venganza
+se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado por estafa.
+La justicia y la venganza
+se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado
+por desfalco. La justicia
+y la venganza se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado
+por agresión con lesiones corporales.
+[ffff]
+[1000]
+[8000]
+[01ff]
+La justicia y la venganza
+se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado
+por falsificación. La justicia
+y la venganza se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Este hombre fue colgado
+por incendio provocado. La justicia
+y la venganza se han cumplido.
+[ffff]
+[9000]
+}
+{
+[8000]
+Su cara está cubierta con un papel.
+Hay algo escrito.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Él cometió un crimen diabólico.
+Redujo un hogar feliz
+a un montón de cenizas.
+Por eso debería morir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ellos también
+cometieron crímenes.
+Trataron de estafar
+y engañar a otros.
+Así que su recompensa
+también es la más lógica.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ese tampoco se merece el perdón,
+a mi amigo le falta la mano izquierda.
+Por eso su muerte no me importa.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+¿Y qué decir de él?
+Tampoco está libre de pecado.
+Aquí sólo hay uno
+que es inocente.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+El niño perdido no
+apareció por ninguna parte,
+así que no hubo pruebas
+de su culpabilidad.
+Su muerte fue una tragedia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Eso es todo lo que quiero decir.
+No fue ni justicia ni castigo.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombres muertos, hombres
+muertos y colgados del revés
+¿Cuántos hombres muertos ves?
+La lengua azul, plumas y brea
+El muerto gira y se balancea
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El primero mató al carnicero
+Lo descuartizó sobre un puchero
+Más tarde lo cocinó
+Y a sus invitados se lo ofreció
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El segundo con engaños
+A pobres niños raptó
+Y a los hombres repugnantes
+como esclavos los vendió
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Entrando de noche a hurtadillas
+El ladrón no vió las trampillas
+Y llena de alcohol su cabeza
+Despertó de mañana entre rejas
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El falsificador avezado
+Quiso pagar al contado
+Probó suerte pintando billetes
+Pero acabó entre grilletes
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Con ansias de gran beneficio
+Robó el oro de un edificio
+Lo envolvió y ocultó a la vista
+Pero nadie encontró su pista
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres casas ardieron de noche
+El sheriff recibió un reproche
+A un forastero echó el ojo
+Lo encerró, pateó y dejo cojo
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombres muertos, hombres
+muertos y colgados del revés
+¿Cuántos hombres muertos ves?
+Los seis fueron al mismo lugar
+Una cuerda que les va a ahorcar
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ No quiero morir.
+
+ Pero mañana subiré al patíbulo.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Por favor, que alguien me responda,
+¿por qué debo morir al amanecer?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El prisionero que tengo al lado
+me cree. Dijo: "Porque están
+todos locos, y ya está".
+
+ Por supuesto, sé que su opinión
+no cambiará nada. Murmuró:
+"Ahora sabes por qué les di
+una paliza".
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El hombre que ejecutaron ayer,
+el que había dicho que su trabajo
+era vender sueños, dijo que eso
+no era verdad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Pero el que ejecutarán
+pasado mañana por raptar niños
+le gritó que sí era verdad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El hombre al que colgaron hoy
+no les contestó. Solo dijo:
+"Me matarán de todas formas".
+Lo arrestaron por malversación,
+así que que no espera clemencia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ El que siempre sonríe
+tranquilamente dijo: "Yo soy feliz,
+pronto estaré con ella".
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ No quiero morir. Sólo quiero
+volver a casa. Pero sé que no
+lo haré. Aunque no haya hecho
+nada, este crimen me lo han
+achacado a mí.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Que alguien me salve.
+Esto no es un castigo.
+¡Están sedientos de sangre
+y yo soy el cordero a sacrificar!
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Podemos asignar la muerte
+sobre la cabeza del pecador,
+pero, ¿para qué?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Hoy, en nombre del castigo,
+formamos parte de una
+amarga comedia.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tú, el colgado por el cuello,
+no tuviste nuestro perdón,
+sino nuestras maldiciones.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Cinco de ellos cometieron
+crímenes, seis salieron a beber
+y fueron capturados.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sólo uno era inocente,
+pero ellos no lo sabían.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Las manchas de sangre que quedan
+son prueba de su culpabilidad.
+Estos trillados caminos son los que
+llevan al infierno o al vacío.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Las vendas blancas
+manchadas de rojo,
+Los restos sobre
+la tierra quemada,
+Los llantos susurrados
+de la doncella.
+Sus contratos
+sin ningún sentido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Estos también son
+signos de culpabilidad.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero uno de ellos fue
+ajusticiado sin razón.
+Lo mataron por temor
+y una imaginación
+desbocada.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Solo, al final de una cuerda,
+no es nada menos que una
+desgracia para todos.
+[ffff]
+[9000]
+}
+{
+[8000]
+Del techo cuelga una soga.
+[ffff]
+[1000]
+[8000]
+¿Vas a tirar de ella?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Sólo el que está libre
+de pecado te puede ayudar.
+Tira por error de la cuerda
+de un criminal y tu recompensa
+te será otorgada en la forma
+más extrañamente extraordinaria.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Pero ten cuidado sin embargo
+del castigo enviado
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay razón para volver
+a tirar de esto.
+[ffff]
+[9000]
+}
+{
+[8000]
+No podré girar la manivela
+hasta que quite las esposas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un nombre inscrito en la lápida.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Eddie Dombrowski
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un nombre inscrito en la lápida.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Angela Orosco
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un nombre inscrito en la lápida.
+[ffff]
+[1000]
+[8000]
+[01ff]
+James Sunderland
+[ffff]
+[9000]
+}
+{
+[8000]
+¿María?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿María...?
+[ffff]
+[8000]
+}
+{
+[8000]
+María, no...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué te ha pasado?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué...? ¿Por qué...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary...
+[ffff]
+[8000]
+}
+{
+[8000]
+En esta habitación no queda
+nada para mí...
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave
+del falso acusado
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del falso acusado
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un nombre inscrito en la lápida.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Walter Sullivan
+[ffff]
+[9000]
+}
+{
+[8000]
+El nombre en la lápida está
+demasiado rayado para leerlo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un epitafio.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Este delincuente bebió su última
+cerveza antes de ser ejecutado
+y enterrado aquí para su descanso
+eterno.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un nombre inscrito en la lápida.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Miriam K.: «Traidora»
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un hoyo profundo.
+Pero dentro no hay nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí ya no puedo hacer
+nada más.
+[ffff]
+[1000]
+[8000]
+No quiero dejarla aquí, pero
+tengo que hacerlo...
+[ffff]
+[9000]
+}
+{
+[8000]
+El papel que cubría la cara
+del cadáver ha caído aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a bajar?
+[f6ff]
+[ffff]
+[8000]
+}

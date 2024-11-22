@@ -1,0 +1,139 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 7
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Hay algo en el suelo.
+¿Es un diario...?
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+9 de mayo
+Llueve.
+Llevo todo el día mirando
+por la ventana. Está tranquilo,
+no tengo nada que hacer.
+Todavía no me dejan salir.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+10 de mayo
+Sigue lloviendo.
+He hablado con el médico.
+¿Me habrían salvado si no
+tuviera una familia que
+me echara de menos?
+Sé que doy pena, que soy débil.
+No todo el mundo puede
+ser fuerte.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+11 de mayo
+Vuelve a llover.
+Hoy la medicación
+me ha dado náuseas.
+Si sólo estoy mejor
+cuando me la tomo,
+¿entonces quién soy?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+12 de mayo
+Más lluvia.
+No quiero dar más problemas
+a nadie, pero no dejo de ser
+un estorbo.
+¿Por qué se considera un pecado
+abandonar la lucha?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Algunos dirán que es así, pero
+no saben lo que tengo que sufrir.
+Seré egoista, pero es lo
+que quiero.
+Esto es demasiado duro.
+Demasiado...
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+13 de mayo
+Ha clareado.
+Los médicos me han dicho que
+me dan el alta, que tengo que
+irme a casa.
+Y
+[08fd]
+[a0fe]
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay más anotaciones.
+[ffff]
+[1000]
+[8000]
+¿Qué hace un diario aquí?
+[ffff]
+[9000]
+}
+{
+[8000]
+La puerta no se abre.
+Algo la mantiene cerrada
+por el otro lado.
+[ffff]
+[1000]
+[8000]
+Por mucho que lo intente,
+no se abrirá.
+[ffff]
+[9000]
+}
+{
+[8000]
+La valla metálica está oxidada
+y se cae a cachos. Creo que se podría
+soltar con un buen empujón.
+[ffff]
+[9000]
+}
+{
+[8000]
+No creo que pueda seguir por aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del tejado
+[00ff]
+.
+[ffff]
+[9000]
+}

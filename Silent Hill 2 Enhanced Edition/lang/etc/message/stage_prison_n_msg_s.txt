@@ -1,0 +1,412 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 44
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Un cadáver. Está lleno
+de agujeros de bala.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay una revista.
+[ffff]
+[1000]
+[8000]
+Nunca la había visto.
+Será una revista local.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ El lago Toluca es la principal
+atracción turística de la ciudad.
+ Este bello y cristalino lago
+tiene también un lado oculto.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Esta puede parecer la típica
+historia de fantasmas que existe
+en muchas de las viejas localidades
+de todo el país, pero en este
+caso, la leyenda es cierta.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ En un neblinoso día de
+noviembre de 1918, el Little
+Baroness, un barco lleno de
+turistas, no regresó a puerto.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Un artículo de la época se limitaba
+a decir que «lo más probable es
+que se haya hundido por alguna
+razón».
+ A pesar de la búsqueda policial,
+hasta hoy no se ha hallado ni un
+resto del barco ni de los 14
+cuerpos de la tripulación y el
+pasaje.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ En 1939 tuvo lugar un incidente
+aún más extraño.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Hay muchas páginas arrancadas.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Muchos cadáveres yacen en el
+fondo del lago. Sus huesudas manos
+se alzan hacia los barcos que pasan
+por encima, quizás en busca de
+sus camaradas.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a saltar?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+No tiene sentido
+derretir la cera sin más.
+[ffff]
+[9000]
+}
+{
+[8000]
+Esto no sirve de nada
+por sí solo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Si quiero poner la cera en el agujero,
+antes tengo que derretirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una tapa en el suelo,
+pero no puedo abrirla.
+[ffff]
+[1000]
+[8000]
+Sólo queda una hendidura donde
+seguramente estaba la manilla.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+mapa de la prisión
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+tablilla
+del cerdo glotón
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+tablilla
+de la seductora
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+rifle de caza
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+mechero
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Matar a alguien no es para tanto.
+[ffff]
+[8000]
+}
+{
+[8000]
+Le pones la pistola
+en la cabeza y... ¡pum!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Lo... lo has matado?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Pe-pero no fue culpa mía!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Él me obligó!
+[ffff]
+[8000]
+}
+{
+[8000]
+Tranquilízate, Eddie.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuéntame qué ha pasado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ese tipo... ¡se... se lo merecía!
+[ffff]
+[8000]
+}
+{
+[8000]
+Yo no hice nada.
+¡Era él el que me seguía!
+[ffff]
+[8000]
+}
+{
+[8000]
+Además, ¡se burlaba de mí
+con la mirada!
+[ffff]
+[8000]
+}
+{
+[8000]
+Como aquel otro...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y lo has matado sólo por eso?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo que “sólo por eso”?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie, ¡no puedes matar a alguien
+sólo porque te mire mal!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡¿Ah, no?! ¿Por qué no?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hasta ahora, siempre he dejado
+que se metan conmigo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Igual que ese perro estúpido...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Él también se lo merecía!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eddie!
+[ffff]
+[8000]
+}
+{
+[8000]
+Je, je... Era broma, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya estaba muerto
+cuando llegué. De verdad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, me largo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Vas a irte solo?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eddie...!
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí hay un diario.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Los prisioneros no sienten
+remordimientos. De hecho,
+no se les pasa por la cabeza
+que puedan ser malvados.
+ Incluso el animal más analfabeto
+usará las pocas palabras que
+sepa para justificarse.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Y tendrán sueños así de
+insignificantes, que florecen
+incluso en la oscuridad.
+Los prisioneros no son ninguna
+excepción.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Al margen de lo infecta o detestable
+que sea la existencia y vida de uno,
+la naturaleza humana es pertinaz.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una pizarra. Han borrado
+lo que estaba escrito.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay documentos sobre el escritorio.
+No tienen nada que ver conmigo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Llamo a la puerta,
+pero no hay respuesta.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay una ducha.
+Pero está rota, no sale agua de ella.
+[ffff]
+[9000]
+}

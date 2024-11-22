@@ -1,0 +1,140 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 17
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Sí.
+[ffff]
+[8000]
+}
+{
+[8000]
+No.
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuando me desperté, estaba sola.
+[ffff]
+[8000]
+}
+{
+[8000]
+No queda nadie...
+¿Será por los monstruos?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y ahora que hago?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Lucho y sobrevivo...
+[ffff]
+[8000]
+}
+{
+[8000]
+o esos monstruos me atraparán?
+[ffff]
+[8000]
+}
+{
+[8000]
+No tengo ninguna razón
+para seguir viviendo, pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero me asusta morir.
+Le tengo mucho miedo al dolor.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Debería... escapar?
+[ffff]
+[8000]
+}
+{
+[8000]
+Quiero encontrar a alguien.
+No me gusta estar sola...
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero... ¿queda alguien vivo?
+[ffff]
+[8000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+cuchillo chino
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿No habrá otro arma, aparte
+de esta pistola? No me siento
+cómoda sólo con esto.
+[ffff]
+[9000]
+}
+{
+[8000]
+Está cerrada.
+[ffff]
+[1000]
+[8000]
+Alguien ha metido un chicle
+en la cerradura. No puedo
+abrirla desde este lado.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Heaven's Night
+[ffff]
+[1000]
+[8000]
+[00ff]
+El nombre de este establecimiento.
+[ffff]
+[9000]
+}
+{
+[8000]
+[78f8]
+ La siguiente historia se ha escrito
+como suplemento del juego principal.
+ Recomendamos jugarla sólo después
+de completar la historia principal.
+
+ ¿Deseas continuar?
+[ffff]
+[8000]
+}

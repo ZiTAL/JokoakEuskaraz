@@ -1,0 +1,240 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 36
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Sólo es una bola de la bolera.
+[ffff]
+[1000]
+[8000]
+Ahora mismo no puedo perder
+el tiempo con ella.
+[ffff]
+[9000]
+}
+{
+[8000]
+Entonces, ¿qué has hecho?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Robar, matar...?
+[ffff]
+[8000]
+}
+{
+[8000]
+No, nada de eso.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Ja! ¡No eres más
+que un vacaburro cobarde!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué me llamas eso?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿No dijiste
+que te perseguía la poli?
+[ffff]
+[8000]
+}
+{
+[8000]
+No, me largué
+porque estaba asustado.
+[ffff]
+[8000]
+}
+{
+[8000]
+No sé qué andará haciendo la poli.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero si has hecho algo malo,
+¿por qué no pediste perdón?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno... Yo también
+he salido corriendo muchas veces.
+[ffff]
+[8000]
+}
+{
+[8000]
+Les da igual. No me harán caso.
+[ffff]
+[8000]
+}
+{
+[8000]
+No me va a perdonar nadie.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Has encontrado a esa mujer?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo se llamaba? ¿Mary?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eddie?
+[ffff]
+[8000]
+}
+{
+[8000]
+Oh... Eh, tú eras...
+[ffff]
+[8000]
+}
+{
+[8000]
+James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nos conocimos en el edificio
+de apartamentos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, me acuerdo, pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Estás solo, Eddie?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh, no...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Adiós!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Espera! ¡Vuelve aquí!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eddie! ¡Vamos a por ella!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eh? ¿A por Laura? ¿Por qué...?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Laura? ¿Así se llama?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eso dijo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡La ciudad está llena de monstruos!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo puedes quedarte ahí sentado
+y comiendo pizza?
+[ffff]
+[8000]
+}
+{
+[8000]
+Dijo que se las podía apañar...
+[ffff]
+[8000]
+}
+{
+[8000]
+y que un gordo como yo
+le haría perder el tiempo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tú mismo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por cierto, ¿quién es esa niña?
+[ffff]
+[8000]
+}
+{
+[8000]
+No lo sé.
+Sólo sé su nombre.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo juro.
+[ffff]
+[8000]
+}

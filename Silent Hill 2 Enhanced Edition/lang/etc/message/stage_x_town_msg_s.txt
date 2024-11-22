@@ -1,0 +1,46 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 6
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Mary?
+[ffff]
+[8000]
+}
+{
+[8000]
+No... No eres tú.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me parezco a tu chica?
+[ffff]
+[8000]
+}
+{
+[8000]
+Me llamo... María.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí no tengo nada que hacer.
+[ffff]
+[9000]
+}

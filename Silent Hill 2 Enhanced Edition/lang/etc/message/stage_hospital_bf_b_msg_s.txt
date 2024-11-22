@@ -1,0 +1,546 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 75
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Hay todo tipo de cosas
+amontonadas en el estante.
+[ffff]
+[1000]
+[8000]
+Pero ninguna parece útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un estante.
+[ffff]
+[1000]
+[8000]
+No parece que haya nada en él.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un estante.
+[ffff]
+[1000]
+[8000]
+Hay huellas rojas sobre él.
+[ffff]
+[1000]
+[8000]
+¿Vas a mover el estante?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Koji la yave del direktor la del
+museo. La escondi detrás de la
+mujer que reza cuando sali
+de excursion. La koji pero no la
+robe. No zoy un kriminal.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una nota en el suelo.
+Es difícil de leer...
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Koji la yave del direktor la del
+museo. La escondi detrás de la
+mujer que reza cuando sali
+de excursion. La koji pero no la
+robe. No zoy un kriminal.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado el 
+[03ff]
+anillo de cobre
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del almacén
+del sótano
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+¡James!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mary!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah, María... Eres tú...
+Creí que estabas...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento...
+[ffff]
+[8000]
+}
+{
+[8000]
+En fin, me alegra que estés viva...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿¡“En fin”?!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo que “en fin”?
+[ffff]
+[8000]
+}
+{
+[8000]
+No te alegras mucho de verme.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Casi me matan!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué no has intentado salvarme?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Solo piensas en tu esposa muerta!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡No había pasado tanto miedo
+en toda mi vida!
+[ffff]
+[8000]
+}
+{
+[8000]
+No te importo lo más mínimo, ¿verdad?
+[ffff]
+[8000]
+}
+{
+[8000]
+No, es que...
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Entonces quédate conmigo!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡No vuelvas a dejarme sola!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Se supone que deberías cuidarme!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y Laura?
+¿La has encontrado?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, pero... se escapó.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Tenemos que encontrarla!
+[ffff]
+[8000]
+}
+{
+[8000]
+Parece que te importa mucho.
+¿La conoces?
+[ffff]
+[8000]
+}
+{
+[8000]
+Nunca la había visto.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero me da lástima.
+Está completamente sola...
+[ffff]
+[8000]
+}
+{
+[8000]
+Y por alguna razón...
+[ffff]
+[8000]
+}
+{
+[8000]
+creo que me corresponde
+a mí protegerla.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Hola a todos y gracias
+por estar con nosotros!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Bienvenidos a una nueva edición
+de “Trastada o regalo”!
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí o bien responde a las
+preguntas correctamente
+y se lleva un gran premio,
+[ffff]
+[8000]
+}
+{
+[8000]
+¡o no responde correctamente
+y sufre el castigo!
+[ffff]
+[8000]
+}
+{
+[8000]
+Todo depende de usted.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Y hoy, nuestro afortunado,
+o debería decir desafortunado
+concursante es James!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡James Sunderland!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Está listo para jugar
+a Trastada o regalo?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bien, pues ahí va
+la primera pregunta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tiovivo, casa encantada,
+[ffff]
+[8000]
+}
+{
+[8000]
+montaña rusa, noria
+y tazas de té.
+[ffff]
+[8000]
+}
+{
+[8000]
+En Silent Hill hay un emocionante
+parque de atracciones
+[ffff]
+[8000]
+}
+{
+[8000]
+que gusta tanto a niños
+como a adultos.
+[ffff]
+[8000]
+}
+{
+[8000]
+La pregunta es:
+¿Cómo se llama este parque
+de atracciones?
+[ffff]
+[8000]
+}
+{
+[8000]
+Uno: Fantasilandia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Dos: Parque de Atracciones
+Silent Hill.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tres: Parque de Atracciones
+del Lago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bien, pasamos a la pregunta
+número dos.
+[ffff]
+[8000]
+}
+{
+[8000]
+En Silent Hill tuvo lugar
+un horrible crimen hace unos años.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Dos hermanos, un niño y una niña,
+jugaban en la calle cuando fueron
+atacados y descuartizados con un hacha!
+[ffff]
+[8000]
+}
+{
+[8000]
+Carne desgarrada, huesos
+machacados, sangre, y al final...
+amargas lágrimas.
+[ffff]
+[8000]
+}
+{
+[8000]
+Qué terrible tragedia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Qué final tan horripilante
+para dos vidas tan inocentes.
+[ffff]
+[8000]
+}
+{
+[8000]
+Y ahora la pregunta:
+¿Cómo se llamaba el asesino
+que cometió este acto tan vil?
+[ffff]
+[8000]
+}
+{
+[8000]
+Uno: Walter Sullivan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Dos: Scott Fairbanks.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tres: Eric Gein.
+[ffff]
+[8000]
+}
+{
+[8000]
+Y ahora la tercera y última pregunta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Al sur del lago hay
+un barrio abandonado
+llamado South Vale.
+[ffff]
+[8000]
+}
+{
+[8000]
+Para ir de allí a Paleville,
+el complejo turístico
+al noroeste del lago,
+[ffff]
+[8000]
+}
+{
+[8000]
+sólo se puede tomar una calle.
+[ffff]
+[8000]
+}
+{
+[8000]
+Una y no más.
+[ffff]
+[8000]
+}
+{
+[8000]
+La tercera y última pregunta es:
+¿Cómo se llama esa calle?
+[ffff]
+[8000]
+}
+{
+[8000]
+Uno: Bachman Road.
+[ffff]
+[8000]
+}
+{
+[8000]
+Dos: Rendell Street.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tres: Nathan Avenue.
+[ffff]
+[8000]
+}
+{
+[8000]
+Y con esto acaban
+nuestras preguntas.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Tiene las respuestas?
+[ffff]
+[8000]
+}
+{
+[8000]
+Cuando las tenga, ¡diríjase
+al almacén del tercer piso
+para recoger los premios!
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero tenga cuidado.
+Si se equivoca...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, pues gracias a todos
+por haber estado con nosotros.
+Y hasta la vista.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Adiós!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué ha sido eso?
+[ffff]
+[8000]
+}

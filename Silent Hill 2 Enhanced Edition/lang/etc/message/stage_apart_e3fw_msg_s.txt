@@ -1,0 +1,93 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+He encontrado una 
+[03ff]
+pistola
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+La pared está llena
+de agujeros de bala.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay cartuchos vacíos
+tirados por el suelo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay una llave en el suelo,
+al otro lado de los barrotes.
+[ffff]
+[1000]
+[8000]
+Tal vez pueda alcanzarla
+si estiro el brazo.
+[ffff]
+[1000]
+[8000]
+¿Vas a cogerla?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Por mucho que me estire,
+no alcanzo la llave.
+[ffff]
+[1000]
+[8000]
+¿Quién es esa niña...?
+[ffff]
+[9000]
+}
+{
+[8000]
+¡Au!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Ja, ja!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eh, espera!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mierda!
+[ffff]
+[8000]
+}
+{
+[8000]
+Un carrito de la compra.
+¿Qué hace aquí?
+[ffff]
+[9000]
+}

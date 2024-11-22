@@ -1,0 +1,287 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+No necesito nada del estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aprieto el botón,
+pero no pasa nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+El maletín está cerrado.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada en el maletín.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay fotos esparcidas
+por toda la cama.
+[ffff]
+[1000]
+[8000]
+¿Qué es esto...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Parte de la foto ha sido tachada
+con un rotulador.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Qué es esto?
+Hay un aviso sobre el botón.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Peso permitido: una persona
+[ffff]
+[9000]
+}
+{
+[8000]
+El estante está vacío.
+[ffff]
+[9000]
+}
+{
+[8000]
+El estante está vacío.
+[ffff]
+[1000]
+[8000]
+Creo que puedo almacenar
+mis cosas aquí.
+[ffff]
+[1000]
+[8000]
+¿Vas a poner un objeto
+en el estante?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Puse: 
+[e0ff]
+ en el estante.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Vas a quitar todo lo que hay
+en el estante?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+caja de música
+de Cenicienta
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave
+de la habitación 204 del hotel
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave del ascensor
+para empleados
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave de
+la habitación 204 del hotel
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del ascensor
+para empleados
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave del pez
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado el 
+[03ff]
+disolvente
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante
+en el libro de notas.
+[ffff]
+[9000]
+}
+{
+[8000]
+No oigo nada por el auricular.
+¿Estará cortada la línea telefónica?
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada en el cajón.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay folletos turísticos.
+Ahora mismo no me interesan.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un libro.
+No parece muy útil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un libro abierto
+sobre el escritorio.
+Parece de medicina.
+[ffff]
+[1000]
+[8000]
+Ya he leído bastantes libros
+de medicina. Ninguno sirvió
+para nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada
+que parezca de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro de este hotel.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un timbre.
+No creo que vaya a aparecer nadie.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí están colgadas las normas
+para empleados. No tienen nada
+que ver conmigo.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay notas colgadas.
+Pero no dicen nada interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+La caja está vacía.
+[ffff]
+[9000]
+}
+{
+[8000]
+Creo que puedo almacenar
+mis cosas aquí.
+[ffff]
+[1000]
+[8000]
+¿Vas a poner un objeto
+en el estante?
+[f6ff]
+[ffff]
+[8000]
+}

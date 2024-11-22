@@ -1,0 +1,687 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 72
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Una foto...
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Tres brillantes monedas
+en cinco agujeros están
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+En un extremo se halla el
+seductor de la mujer de Adán
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Sopla el viento a
+espaldas de la mujer
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Y aquel que no tiene forma, el nulo,
+de lejos los tiene que ver
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El anciano junto a la
+serpiente no está
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Es a la izquierda del
+prisionero donde se pudrirá
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Primero está el asiento
+del Incomparable, Él,
+silencioso y vacío,
+inhumano y cruel
+Junto a él se sienta
+uno que sabe y admitirá
+Que el lugar del criado
+junto al trono está
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Docenas de pies,
+y ni un solo dedo tendrá
+Aquel que está oculto
+junto a él partirá
+Seductor de sueños,
+ser que el infierno ama
+Alejado del hombre,
+cercano a la dama
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hombre y mujer
+todo lo pueden ver
+A la llamada del cuervo
+sin atender
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Silenciosos y ocultos
+puede que los dos sean
+Y no están ahí
+para que tú los veas
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Devolviéndolos donde
+estar deberían
+La bendición sobre ti caería
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Así hablo, dando la espalda
+a la estrella polar
+El nacimiento del sol es
+donde todo va a empezar
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Como monedas lanzadas
+al éter brumoso
+Nuestras almas caerán,
+sus culpas les habrán hundido
+A la Tierra han de llegar
+en un descenso doloroso
+Para "invertir" los pecados
+que han cometido
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Solo aquellos que entonen
+el mea culpa tres veces
+Conocerán la dicha,
+una felicidad sin creces
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La primera nota no la
+toca el enastado
+Aunque es ahí donde
+surge todo pecado
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+La portadora de vida
+y portadora de desgracias
+De esta última los pecados
+no levantan suspicacias
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Aunque a la estela del anciano
+persigue nerviosa
+El alma de la amorfa
+se estremece temerosa
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+El más silencioso
+ha saciado sus anhelos
+Peca menos al haber
+mitigado sus deseos
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Para el mayor de los pecadores
+su posición está elegida
+Y si tiene suerte
+tal vez su alma sea ungida
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay algo escrito en la mesa.
+[ffff]
+[9000]
+}
+{
+[8000]
+En la mesa hay una hilera
+de cinco hoyos circulares
+de unos tres centímetros.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿En qué agujero vas a introducir
+la moneda?
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Qué moneda vas a sacar?
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+moneda
+del prisionero
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave
+de la casa de Lyne
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+crisma blanco
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante
+sobre el escritorio.
+[ffff]
+[9000]
+}
+{
+[8000]
+Es usted...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí...
+[ffff]
+[8000]
+}
+{
+[8000]
+Soy James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela...
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela... De acuerdo.
+[ffff]
+[8000]
+}
+{
+[8000]
+No sé lo que está planeando...
+[ffff]
+[8000]
+}
+{
+[8000]
+pero siempre hay alternativas.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De verdad?
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+Usted es como yo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Es más fácil huir.
+[ffff]
+[8000]
+}
+{
+[8000]
+Y esto es lo que nos merecemos.
+[ffff]
+[8000]
+}
+{
+[8000]
+No. No soy como usted.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Está asustado?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Lo siento.
+[ffff]
+[8000]
+}
+{
+[8000]
+No importa...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Ha encontrado a su madre?
+[ffff]
+[8000]
+}
+{
+[8000]
+Aún no. No la he visto.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Ella vivía en este edificio
+de apartamentos?
+[ffff]
+[8000]
+}
+{
+[8000]
+No lo sé...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sólo sabe que vivía
+en esta ciudad?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué ha dicho?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo lo sabe?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo he supuesto, porque
+la está buscando por aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡¿Cómo iba a saberlo?!
+[ffff]
+[8000]
+}
+{
+[8000]
+Claro...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Estoy en lo cierto?
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy tan cansada...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, ¿entonces por qué
+ha venido a esta ciudad?
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo... Lo siento.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Ha encontrado...
+a la persona que busca?
+[ffff]
+[8000]
+}
+{
+[8000]
+Aún no.
+[ffff]
+[8000]
+}
+{
+[8000]
+Se llama Mary. Es mi esposa...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento.
+[ffff]
+[8000]
+}
+{
+[8000]
+No importa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero... está muerta.
+No sé por qué creo que está aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Está muerta?
+[ffff]
+[8000]
+}
+{
+[8000]
+No se preocupe, no estoy loco.
+Por lo menos, no creo estarlo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Tengo que encontrar a mi mamá...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Quiere que la acompañe?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta ciudad es peligrosa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahora sé lo que quiso decir
+en el cementerio.
+[ffff]
+[8000]
+}
+{
+[8000]
+Me las apañaré.
+Además, le haría perder el tiempo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Qué me dice de eso?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me... lo guardaría?
+[ffff]
+[8000]
+}
+{
+[8000]
+Claro. No hay problema.
+[ffff]
+[8000]
+}
+{
+[8000]
+Si me lo quedo...
+[ffff]
+[8000]
+}
+{
+[8000]
+no sé que podría hacer.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡No!
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento... He sido mala...
+Por favor, no...
+[ffff]
+[8000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+A la derecha está la dama.
+A la izquierda el anciano.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+En el centro se arrastra el otro.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Ahora sólo quedan dos espacios,
+pero aún no temas nada,
+el enigma está resuelto.
+El enigma está resuelto.
+[ffff]
+[9000]
+}
+{
+[8000]
+La puerta no se abre.
+[ffff]
+[1000]
+[8000]
+Es como si alguna fuerza
+mantuviera la puerta cerrada
+por el otro lado...
+[ffff]
+[1000]
+[8000]
+y no quiera dejarme pasar
+hasta que encuentre algo...
+o a alguien...
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada en la estantería
+que parezca de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un osito de peluche.
+Sería del chico que vivía aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro.
+No tiene nada especialmente
+interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay revistas tiradas por el suelo.
+No tienen nada extraño.
+[ffff]
+[9000]
+}
+{
+[8000]
+No veo nada útil por aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada que parezca
+de utilidad.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ahí no hay nada que parezca
+tener utilidad.
+[ffff]
+[9000]
+}

@@ -1,0 +1,266 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 39
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Pulso los botones,
+pero el ascensor no reacciona.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Para qué se usará esto...?
+No quiero ni pensarlo...
+[ffff]
+[9000]
+}
+{
+[8000]
+Los cables no me dejan pasar.
+[ffff]
+[9000]
+}
+{
+[8000]
+¡Estás viva!
+[ffff]
+[8000]
+}
+{
+[8000]
+María... ¡pensé que esa cosa
+te había matado...!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Estás herida?
+[ffff]
+[8000]
+}
+{
+[8000]
+Para nada, tonto.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿María...?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Esa cosa... te apuñaló!
+¡Había sangre por todas partes!
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Apuñalarme?
+¿Qué quieres decir?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Nos persiguió hasta el ascensor!
+¡Y entonces...!
+[ffff]
+[8000]
+}
+{
+[8000]
+James, ¿de qué estás hablando?
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Hace un rato!
+¿No te acuerdas?
+[ffff]
+[8000]
+}
+{
+[8000]
+James, cariño...
+¿Te ha ocurrido algo?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Desde que nos separamos
+en aquel pasillo largo?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me estás confundiendo
+con otra persona?
+[ffff]
+[8000]
+}
+{
+[8000]
+Siempre fuiste un despistado...
+[ffff]
+[8000]
+}
+{
+[8000]
+Acuérdate de aquella vez
+en el hotel...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿María...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Dijiste que te habías llevado todo...
+[ffff]
+[8000]
+}
+{
+[8000]
+pero te dejaste la cinta de vídeo
+que grabamos.
+[ffff]
+[8000]
+}
+{
+[8000]
+Me pregunto si seguirá ahí...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Cómo sabes todo eso?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿No eres María?
+[ffff]
+[8000]
+}
+{
+[8000]
+No soy tu Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+Entonces, ¿eres María?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí... Si quieres que lo sea.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Lo único que quiero
+es una respuesta!
+[ffff]
+[8000]
+}
+{
+[8000]
+No importa quién soy...
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy aquí para ti, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Lo ves? Soy real.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿No quieres tocarme?
+[ffff]
+[8000]
+}
+{
+[8000]
+No... lo sé...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ven a buscarme.
+[ffff]
+[8000]
+}
+{
+[8000]
+No puedo hacer nada a través
+de estos barrotes.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bien... Quédate donde estás.
+[ffff]
+[8000]
+}
+{
+[8000]
+No tardaré...
+[ffff]
+[8000]
+}
+{
+[8000]
+He encontrado unos 
+[03ff]
+alicates
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado un 
+[03ff]
+cuchillo grande
+[00ff]
+.
+[ffff]
+[9000]
+}
