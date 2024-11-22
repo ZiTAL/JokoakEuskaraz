@@ -1,0 +1,165 @@
+Guardar en cualquier sitio
+
+Nombre no decidido
+
+Bosque
+
+Aparcamiento
+
+Caravana
+
+Apartam., escalera SO
+
+Apartam., habitaci3n 2.ê plta.
+
+Apartam. oeste, habit. 1.ê plta.
+
+Apartam. oeste, habit. 2.ê plta.
+
+Motel
+
+Hospital, recepci3n
+
+Hospital, habitaci3n 3.ê plta.
+
+Hospital, pasillo 1.ê plta.
+
+Hospital, escalera sur
+
+Hospital, vest-bulo
+
+Sociedad Hist3rica
+
+Prisi3n, comedor
+
+Prisi3n, lavabo
+
+Ascensor
+
+Pasillo del laberinto
+
+Catacumba
+
+Embarcadero
+
+Hotel, vest-bulo
+
+Hotel, cuarto del ascensor
+
+Hotel, vest-bulo, 3.ê plta.
+
+Hotel, vest-bulo, 1.ê plta.
+
+Selecciona un archivo guardado.
+
+A
+
+A
+
+A
+
+ÿDeseas formatearla?
+
+A
+
+A
+
+No hay un archivo de datos.
+
+Archivo de datos da1ado.
+
+1048
+
+Guardar en un archivo nuevo.
+
+Formateando.
+
+Error al formatear.
+
+1154
+
+Datos guardados.
+
+Fallo al guardar.
+
+Cargando.
+
+Carga completada.
+
+Fallo al cargar.
+
+Los datos est!n da1ados.
+
+ÿDeseas sobreescribir?
+
+ÿAbortar el guardado?
+
+A
+
+A
+
+N.ú de archivos
+
+A
+
+A
+
+A
+
+1430
+
+Acci3n
+
+Enigmas
+
+F!cil
+
+Normal
+
+Dif-cil
+
+Datos
+
+Fecha
+
+Guardado
+
+A
+
+A
+
+No se pueden crear m!s archivos
+
+ÿSeguro que quieres borrar
+estos datos guardados?
+
+1676
+
+Datos borrados.
+
+Error al borrar.
+
+Se necesitan  KB
+para crear un archivo adicional
+
+Se necesitan  KB
+para guardar un archivo nuevo
+
+Espacio libre:  KB
+
+Retroceso: Eliminar
+
+A
+
+A
+
+Carga r!pida completada
+
+A
+
+Extra
+
+Principiante
+
+Resultados de la partida
+
