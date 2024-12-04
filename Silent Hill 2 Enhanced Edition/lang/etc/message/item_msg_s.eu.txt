@@ -1,0 +1,1773 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 224
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Erabili
+[ffff]
+[8000]
+}
+{
+[8000]
+Kargatu
+[ffff]
+[8000]
+}
+{
+[8000]
+Doitu bolumena
+[ffff]
+[8000]
+}
+{
+[8000]
+Etengailua
+[ffff]
+[8000]
+}
+{
+[8000]
+Piztuta
+[ffff]
+[8000]
+}
+{
+[8000]
+Itzalita
+[ffff]
+[8000]
+}
+{
+[8000]
+Aztertu
+[ffff]
+[8000]
+}
+{
+[8000]
+Hornitu
+[ffff]
+[8000]
+}
+{
+[8000]
+Ekipamendua kendu
+[ffff]
+[8000]
+}
+{
+[8000]
+Aukerak
+[ffff]
+[8000]
+}
+{
+[8000]
+Mapa
+[ffff]
+[8000]
+}
+{
+[8000]
+Oharrak
+[ffff]
+[8000]
+}
+{
+[8000]
+Egoera
+[ffff]
+[8000]
+}
+{
+[8000]
+Taldea
+[ffff]
+[8000]
+}
+{
+[8000]
+Ekintza
+[ffff]
+[8000]
+}
+{
+[8000]
+Konbinatu
+[ffff]
+[8000]
+}
+{
+[8000]
+Badirudi ezin dudala hau hemen erabili.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hau ezin da bere kabuz erabili.
+[ffff]
+[9000]
+}
+{
+[8000]
+Konbinazio honek ez du zentzurik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Apalean jarri
+[ffff]
+[8000]
+}
+{
+[8000]
+Edari isotonikoa (k)
+[ffff]
+[8000]
+}
+{
+[8000]
+Energia itzultzen du mantenugaiak emanez.
+Bere eragina nahiko leuna da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Botikina (k)
+[ffff]
+[8000]
+}
+{
+[8000]
+Energia itzultzen du zauriak sendatuz.
+Bere eragina neurrizkoa da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Anpoilak
+[ffff]
+[8000]
+}
+{
+[8000]
+Energia itzultzen du mina baretuz.
+Bere eragina indartsua da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pistola
+[ffff]
+[8000]
+}
+{
+[8000]
+10 balako pistola arina.
+Ez oso indartsua, baina erabiltzeko erraza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pistola-bala (k)
+[ffff]
+[8000]
+}
+{
+[8000]
+Pistolarako munizioa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskopeta
+[ffff]
+[8000]
+}
+{
+[8000]
+6 kartutxo eraman ditzake.
+Maneiatzen zaila da, baina etsai ugari har ditzake.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskopeta-kartutxoa (k)
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskopetarako munizioa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ehiza-erriflea
+[ffff]
+[8000]
+}
+{
+[8000]
+Lau bala ere izan ditzake.
+Denbora asko behar du kargatzeko, baina tiro bakoitza
+oso indartsua da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Erriflearen bala (k)
+[ffff]
+[8000]
+}
+{
+[8000]
+Ehiza-erriflerako munizioa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hiper espray
+[ffff]
+[8000]
+}
+{
+[8000]
+Esprai susmagarria.
+Ez dakigu zer ondorio dituen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Egurrezko ohola
+[ffff]
+[8000]
+}
+{
+[8000]
+Egurrezko ohol bat, mutur batean iltzeak dituela.
+Ez du kalte handirik egiten, baina erabiltzeko erraza da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Altzairuzko tutuak
+[ffff]
+[8000]
+}
+{
+[8000]
+1 metroko altzairuzko hodia.
+Ez da oso suntsitzailea, baina irismen ona du.
+baina helmen ona du.
+[ffff]
+[8000]
+}
+{
+[8000]
+Labana handia
+[ffff]
+[8000]
+}
+{
+[8000]
+Arma handi bat Piramide Buruak hartuta.
+Zaila da erabiltzen, baina hilgarria.
+[ffff]
+[8000]
+}
+{
+[8000]
+Motozerra
+[ffff]
+[8000]
+}
+{
+[8000]
+Motozerra gasolinazko motorrarekin.
+Oso arma indartsua.
+[ffff]
+[8000]
+}
+{
+[8000]
+Linterna
+[ffff]
+[8000]
+}
+{
+[8000]
+Etengailuak berehala eragiten du.
+Bularreko poltsikoan doa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Irratia
+[ffff]
+[8000]
+}
+{
+[8000]
+Irrati eramangarri txikia.
+Interferentziak sortzen ditu inguruan munstroak daudenean.
+munstroak hurbil.
+[ffff]
+[8000]
+}
+{
+[8000]
+Maryren argazkia
+[ffff]
+[8000]
+}
+{
+[8000]
+Oraindik osasuntsu zegoeneko argazki bat.
+[ffff]
+[8000]
+}
+{
+[8000]
+Maryren gutuna
+[ffff]
+[8000]
+}
+{
+[8000]
+Gutunazalean Mary izena agertzen da.
+Bere letra da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lauraren gutuna
+[ffff]
+[8000]
+}
+{
+[8000]
+Maryk Laurari eman omen zion gutuna.
+Laura.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bideo-zinta
+[ffff]
+[8000]
+}
+{
+[8000]
+Duela hiru urte hotelean utzi nuen
+bideo-zinta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Angelaren labana
+[ffff]
+[8000]
+}
+{
+[8000]
+Angelaren labana.
+Ez dut arma gisa erabiliko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Txakur-giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Txakurrentzako etxola baten barruan aurkitu dute.
+Ez dakit non erabiltzen den.
+[ffff]
+[8000]
+}
+{
+[8000]
+Apartamentuetako sarrerako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Hirian aurkitu nuen antzinako giltza.
+[ffff]
+[8000]
+}
+{
+[8000]
+202. gelako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Goiko aldean 202 zenbakia dauka idatzita.
+208. gelan aurkitu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Erlojuaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Giltza erloju txiki batekin.
+202. gelako horman zegoen zulo batean.
+[ffff]
+[8000]
+}
+{
+[8000]
+Patioko giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Mendebaldeko eskaileraren ataritik
+patiora doan ateko giltza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Larrialdi-irteerako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Larrialdietako eskailerako ateko giltza.
+Hirugarren solairuko atarian aurkitua.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lyneren etxeko giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Mahaian zegoen txanponen igarkizunarekin.
+Etiketak dio: «Lyne».
+[ffff]
+[8000]
+}
+{
+[8000]
+Apartamentuetako eskailerako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Mendebaldeko apartamentuen ataritik
+eskailerara doan ateko giltza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Azterketa-gelako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Etiketak hau dio: «Aintzatespen-gela».
+Gizonen aldagelako mantalean aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Teilatuko giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Bulegoen hegaleko teilatuko giltza.
+Ospitaleko hirugarren solairuko gelan
+aurkitu nuen, Mariaren gelan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zezen morearen giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Zezen more bat marraztuta dauka.
+Dokumentu-gelako idazmahaian zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lapis-begiaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Giltzaren goialdean begi bat dago,
+eta bere irisa lapis lazuliz egina dago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Igogailuaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Etiketak hau dio: «Igogailua pazienteentzat».
+Dutxen hustubidean trabatuta zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sotoko biltegiko giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Hormaren barruan zegoen pintada arraro harekin.
+Ospitaleko sotoko giltza da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ospitaleko atariko giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Zuzendariaren bulegoan aurkitu dute.
+Ospitaleko atariko giltza da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Brontzezko giltza zaharra
+[ffff]
+[8000]
+}
+{
+[8000]
+Brontzezko giltza, antzinako itxurakoa.
+Parkeko estatuetako baten atzean
+ezkutatuta zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Giltza kiribilean idatzita
+[ffff]
+[8000]
+}
+{
+[8000]
+8 cm-ko zilindro mehe bat duen giltza,
+kiribil formako idazki bat duena.
+[ffff]
+[8000]
+}
+{
+[8000]
+Akusatu faltsuaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Bidegabe hil zuten preso batek
+utzitako giltza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hoteleko 312. logelako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Hoteleko 312. logelako giltza.
+Harrera-mahaiaren gainean zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hoteleko 204. gelako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+204. gelako giltza.
+Jantzitegiko maletatxoan aurkitu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Langileentzako igogailuaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Etiketak hau dio: «Erabilitako igogailua».
+204. gelan aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tabernako giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Hoteleko sotoko tabernatik
+atarira doan ateko giltza.
+Galdara-gelan aurkitu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Arrainaren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Arrain itxurako giltzatakoan doa.
+Jatetxeko mahai gainean zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hoteleko eskaileren giltza
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskaileratik hirugarren solairuko
+hallerako ateko giltza. Harrerako
+musika kaxan ezkutatuta zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Latako zukua
+[ffff]
+[8000]
+}
+{
+[8000]
+Sei lata, iraungitako zukuarekin.
+Lehen solairuko atarian zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sugearen txanpona
+[ffff]
+[8000]
+}
+{
+[8000]
+Suge baten irudiarekin
+grabatutako txanpon handia.
+Igerileku huts hartan aurkitu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Adinekoentzako txanpona
+[ffff]
+[8000]
+}
+{
+[8000]
+Agure baten aurpegiaren irudiarekin
+grabatutako txanpon handia.
+Zaborrak ateratzeko arrapalatik hartu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Presoaren moneta
+[ffff]
+[8000]
+}
+{
+[8000]
+Preso baten irudiarekin grabatutako
+txanpon handia. Mendebaldeko
+apartamentu-eraikinean aurkitu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ile-mataza
+[ffff]
+[8000]
+}
+{
+[8000]
+Ile luzeak eta gaztainondoak.
+Kutxa hartan zeuden.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orratz okerra
+[ffff]
+[8000]
+}
+{
+[8000]
+Orratz okerra eta herdoildua.
+Aldagelako peluxezko hartz txikian
+iltzatuta zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pila lehorra
+[ffff]
+[8000]
+}
+{
+[8000]
+Ospitaleko gelan hartu nuen.
+Pila lehor normal bat.
+[ffff]
+[8000]
+}
+{
+[8000]
+Kobrezko eraztuna
+[ffff]
+[8000]
+}
+{
+[8000]
+Ospitaleko sotoan aurkitu dute.
+Armiarma baten marrazkia grabatuta dauka.
+[ffff]
+[8000]
+}
+{
+[8000]
+Berunezko eraztuna
+[ffff]
+[8000]
+}
+{
+[8000]
+Hozkailuaren eraztuna.
+Aurpegi hanpatu nazkagarri bat dauka grabatuta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Giltza ingelesa
+[ffff]
+[8000]
+}
+{
+[8000]
+Lindsey kalean aurkitu nuen.
+Azkoinak eta bernoak torlojutzeko balio du.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zapaltzailearen oholtxoa
+[ffff]
+[8000]
+}
+{
+[8000]
+Metalezko oholtxoa, «zapaltzailea»
+aurpegi batean marraztuta duena.
+Ziega batean aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Txerri glotoiaren oholtxoa
+[ffff]
+[8000]
+}
+{
+[8000]
+«Glotoi txerria» aurpegi batean
+marraztuta duen taula metalikoa.
+Jangelan aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Limurtzailearen oholtxoa
+[ffff]
+[8000]
+}
+{
+[8000]
+Metalezko oholtxoa, aurpegi batean
+«seduzitzailea» marraztuta duena.
+Dutxetan aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ferra
+[ffff]
+[8000]
+}
+{
+[8000]
+Ferra metalikoa. Urkamendiko
+plazako atean zintzilik zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Metxeroa
+[ffff]
+[8000]
+}
+{
+[8000]
+Txiskeroa. Bere sugarrak txiskeroarena
+baino indartsuagoa dirudi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Argizarizko panpina
+[ffff]
+[8000]
+}
+{
+[8000]
+Argizariarekin egindako panpina.
+Ziegako zoruan zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aliketa
+[ffff]
+[8000]
+}
+{
+[8000]
+Alanbreak edo kable elektrikoak
+mozteko erreminta.
+[ffff]
+[8000]
+}
+{
+[8000]
+Disolbatzailea
+[ffff]
+[8000]
+}
+{
+[8000]
+Disolbatzailez betetako lata txikia.
+Igogailuaren zoruan zegoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Sirenatxoaren musika-kaxa
+[ffff]
+[8000]
+}
+{
+[8000]
+Sirenatxoaren ipuineko
+irudi bat duen musika-kaxa.
+Lorategiko iturrian aurkitua.
+[ffff]
+[8000]
+}
+{
+[8000]
+Errauskineren musika-kutxa
+[ffff]
+[8000]
+}
+{
+[8000]
+Musika kaxa, Errauskineren
+ipuineko irudi batekin.
+202. gelako kutxa batean aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Edurnezuriren musika-kutxa
+[ffff]
+[8000]
+}
+{
+[8000]
+Musika-kaxa, Edurnezuriren
+ipuineko irudi batekin.
+Bulegoan aurkitu dute.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lata-irekigailua
+[ffff]
+[8000]
+}
+{
+[8000]
+Latak irekitzeko tresna.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bonbilla
+[ffff]
+[8000]
+}
+{
+[8000]
+Lata baten barruan aurkitu zuten, tabernako sukaldean.
+Bonbilla normal bat.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pixa koloreko arrautza
+[ffff]
+[8000]
+}
+{
+[8000]
+Galeper arrautza baten tamaina du.
+Piramide Buruak zeukan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Arrautza eskarlata
+[ffff]
+[8000]
+}
+{
+[8000]
+Galeper arrautza baten tamaina du.
+Piramide Buruak zeukan.
+[ffff]
+[8000]
+}
+{
+[8000]
+«Memoria galduak» liburua
+[ffff]
+[8000]
+}
+{
+[8000]
+Liburu honek hiri honen eta
+inguruaren historia kontatzen du.
+[ffff]
+[8000]
+}
+{
+[8000]
+«Izaki Gorriminaren Zeremonia» liburua
+[ffff]
+[8000]
+}
+{
+[8000]
+Antzinako jainko bati buruzkoa da.
+Egilea anonimoa da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Krisma zuria
+[ffff]
+[8000]
+}
+{
+[8000]
+Kristalezko botila bat,
+ukendu zuri bat duena.
+[ffff]
+[8000]
+}
+{
+[8000]
+Obsidiana-kopa
+[ffff]
+[8000]
+}
+{
+[8000]
+Antzinako itxurako kopa, obsidiana
+hutsean zizelkatua. Museo zaharrean aurkitua.
+[ffff]
+[8000]
+}
+{
+[8000]
+Linternak daraman pila
+mota bera dirudi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hostoa zerbait gorriz zikinduta dago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain pentsatzen ari naizela,
+erloju handi bat zegoen 208 gelan...
+[ffff]
+[8000]
+}
+{
+[8000]
+Txanponaren beste aldea
+ilargi erdia da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Agure bat dirudi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Preso honek emakumea dirudi.
+[ffff]
+[8000]
+}
+{
+[8000]
+«Patioa» jartzen du.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eraman nahi izan nuen lehen aldian,
+haur hark eskua zapaldu zidan.
+Non egongo ote da...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Etiketak hau dio:
+«larrialdi-irteera».
+[ffff]
+[8000]
+}
+{
+[8000]
+Larrialdiko irteera bat zegoen
+2. solairuko korridorearen mendebaldeko muturrean.
+Agian han erabili ahal izango dut?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori izan behar da "osaba Davidi eman zioten"
+zioen oharraren giltza.
+[ffff]
+[8000]
+}
+{
+[8000]
+Honela dio: «Iparraldeko eskailera».
+[ffff]
+[8000]
+}
+{
+[8000]
+Honela dio: "Zalantza da Purgatoriora
+eramango zaituztena".
+[ffff]
+[8000]
+}
+{
+[8000]
+312. gelan hartzen dugu ostatu.
+Mary eta biok duela hiru urte.
+[ffff]
+[8000]
+}
+{
+[8000]
+Etiketak idatzita dauka
+«Silent Hill» nire letrarekin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zalantzarik gabe, garai hartan
+grabatu nuen zinta da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zurtoinak suge bat darama grabatuta.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Ametsik urdurienetan
+ikusten dut hiri hori.
+Silent Hill.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Egunen batean hara eramango ninduzula agindu zenidan.
+Baina ez zenuen inoiz egin.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Eta orain han nago, bakarrik...
+Gure "leku berezian"...
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zure zain...
+[ffff]
+[9000]
+}
+{
+[8000]
+Papera hutsik dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Gutun-azala hutsik dago.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Laura maitea:
+
+Gutun hau Racheli uzten diot,
+ni joandakoan
+eman diezazun.
+
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Orain oso urrun nago.
+Leku eder eta lasai batean.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Mesedez,
+barkatu ez agurtzeagatik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zaindu, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ez izan oso gogorra mojatxoekin.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura, Jamesi dagokionez...
+Badakit gorroto duzula uste
+duzulako ez nauela ondo tratatzen,
+baina, mesedez, eman aukera bat.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Egia da batzuetan kaskagogor samarra dela
+eta ez duela barre askorik egiten.
+Baina, funtsean, pertsona ona da.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura...
+Nire alaba bazina
+bezala maite zaitut.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Gauzak bestela joan balira,
+adoptatu egingo zintuzkedan.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zorionak, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zure laguna betiko,
+Mary
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Izena bere lurrak lapurtu zizkioten
+herriaren kondairatik sortzen da.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Leku horri «Espiritu isilen lekua»
+esaten zitzaion. «Izpiritu» gisa
+ulertzen zituzten, hildako senideak
+ez ezik, zuhaitzetan, harkaitzetan
+eta uretan bizi direla uste zuten
+espirituak ere.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Elezaharrak dioenez, hemen
+izaten ziren zeremoniarik
+sakratuenak.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Baina orain hiri honetan bizi direnen
+arbasoek ez zituzten herri hari
+lurrak lapurtu. Beste batzuk
+lehenago iritsi ziren.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Garai hartan, hiri honek
+beste izen bat zuen...
+baina historiaren urtekarietan galdu da.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Bakarrik dakigu beste izen bat izan zuela eta,
+arrazoiren batengatik, hiria bertan
+behera utzi zutela bertako biztanleek.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hitz egin.
+Ni Gorrimina naiz.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Gezurrak eta lainoa
+ez dira horrelakoak, ni baizik.
+Denok dakizue ni Bera naizela.
+Bai, eta bera ni naiz.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Fededunak, entzun! Lareun gizon
+eta zazpi mila piztia.
+Entzun hitz hauek eta kontatu besteei
+beti obedituak izan daitezen,
+baita eguzki harro eta krudelaren
+argipean ere.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Mendeku mingotsa bidaliko dizuet eta
+nire betiko haserrea pairatuko duzue.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Lore zimelduaren edertasuna
+eta hilzorian dagoenaren azken
+arnasa dira nire bedeinkazioak.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Zuk beti eskatuko didazu
+niri eta naizen guztiari
+isileko lekuan.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+O, bihotzerantz hegan doan
+bizitzaren esentzia harroa.
+O, ardo zurienaz betetako
+kopa, zugan hasten da dena.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pilarik gabe geratu zara?
+Etengailua sakatuta ere,
+ez da pizten.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hautsita dago?
+Ez du erreakzionatzen etengailua sakatzean.
+[ffff]
+[8000]
+}
+{
+[03ff]
+Edari isotonikoa
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Botikina
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Anpoila
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Pistola
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Pistola-balak    
+[8000]
+apalean jarri ditut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Eskopeta    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Eskopeta-kartutxoak    
+[8000]
+apalean jarri ditut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Ehiza-erriflea    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Errifle-kartutxoak    
+[8000]
+apalean jarri ditut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Espraia    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Egurrezko ohola    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Altzairuzko kaineria
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Labana handia    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Motozerra    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Linterna    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Irratia
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Maryren argazkia    
+[8000]
+jarri dut apalean.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Maryren gutuna    
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Lauraren gutuna    
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Angelaren labana    
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]    
+Azterketa gelako giltza
+[8000]
+apalean jarri dut.
+[03ff]
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Hoteleko 312. gelako giltza
+[8000]
+apalean jarri dut.
+[03ff]
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Disolbatzailea    
+[8000]
+apalean jarri dut.
+[03ff]
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Sirenatxoaren musika-kaxa
+[8000]
+apalean jarri dut.
+[03ff]
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Errauskinen musika-kutxa
+[8000]
+apalean jarri dut.
+[03ff]
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+"Memoria galduak" liburua
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Krisma zuria    
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Obsidiana-kopa    
+[8000]
+apalean jarri dut.
+
+[00ff]
+[ffff]
+[9000]
+}
+{
+[03ff]
+Txakur-giltza    
+[8000]
+apalean jarri dut.
+[00ff]
+[ffff]
+[9000]
+}
+{
+[8000]
+Atzealdean hilarri bat ageri da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Atzealdean arrautza bat ageri da.
+[ffff]
+[8000]
+}
+

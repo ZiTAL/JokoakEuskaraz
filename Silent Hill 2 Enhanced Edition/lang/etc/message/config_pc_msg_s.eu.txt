@@ -1,7 +1,7 @@
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
-ADDR:    
+ADDR:
 COUNT: 46
 
 John_Modest Production
@@ -10,97 +10,97 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Mover a izquierda.
+Ezkerrera mugitu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Mover a derecha.
+Eskuinera mugitu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Girar a la izquierda.
+Ezkerrera biratu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Girar a la derecha.
+Eskuinera biratu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Ir hacia delante
+Aurrerantz joan
 [ffff]
 [8000]
 }
 {
 [8000]
-Ir hacia atrás
+Atzerantz joan
 [ffff]
 [8000]
 }
 {
 [8000]
-Paso a la izquierda.
+Ezkerretara.
 [ffff]
 [8000]
 }
 {
 [8000]
-Paso a la derecha.
+Eskuinera.
 [ffff]
 [8000]
 }
 {
 [8000]
-Apuntar a izquierda.
+Ezkerretara apuntatu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Apuntar a derecha.
+Eskuinera apuntatu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Acción
+Ekintza
 [ffff]
 [8000]
 }
 {
 [8000]
-Cancelar
+Ezeztatu
 [ffff]
 [8000]
 }
 {
 [8000]
-Omitir/Pausa
+Ez egin/Pausa
 [ffff]
 [8000]
 }
 {
 [8000]
-Correr/Defensa
+Korrika/Defentsa
 [ffff]
 [8000]
 }
 {
 [8000]
-Modo de búsqueda
+Bilaketa modua
 [ffff]
 [8000]
 }
 {
 [8000]
-Inventario
+Inbentarioa
 [ffff]
 [8000]
 }
@@ -112,7 +112,7 @@ Linterna
 }
 {
 [8000]
-Fijar objetivo
+Helburua finkatzea
 [ffff]
 [8000]
 }
@@ -130,49 +130,49 @@ Esc
 }
 {
 [8000]
-Intro
+Sartu
 [ffff]
 [8000]
 }
 {
 [8000]
-Retroceso
+Atzera
 [ffff]
 [8000]
 }
 {
 [8000]
-Espacio
+Espazioa
 [ffff]
 [8000]
 }
 {
 [8000]
-Mayús izquierda.
+Ezkerreko maiusa.
 [ffff]
 [8000]
 }
 {
 [8000]
-Mayús derecha.
+Eskuineko maiusa.
 [ffff]
 [8000]
 }
 {
 [8000]
-Ctrl izquierdo.
+Ezkerreko Ctrl.
 [ffff]
 [8000]
 }
 {
 [8000]
-Ctrl derecho.
+Eskuineko Ctrl.
 [ffff]
 [8000]
 }
 {
 [8000]
-Alt izquierda.
+Ezkerreko Alt.
 [ffff]
 [8000]
 }
@@ -208,61 +208,61 @@ Fin
 }
 {
 [8000]
-Av Pág
+Av Pag
 [ffff]
 [8000]
 }
 {
 [8000]
-Re Pág
+Re Pag
 [ffff]
 [8000]
 }
 {
 [8000]
-Cursor izquierdo.
+Ezkerreko kurtsorea.
 [ffff]
 [8000]
 }
 {
 [8000]
-Cursor derecho.
+Eskuineko kurtsorea.
 [ffff]
 [8000]
 }
 {
 [8000]
-Cursor abajo
+Beheko kurtsorea
 [ffff]
 [8000]
 }
 {
 [8000]
-Cursor arriba
+Goiko kurtsorea
 [ffff]
 [8000]
 }
 {
 [8000]
-(T. num.)
+(T. zk.)
 [ffff]
 [8000]
 }
 {
 [8000]
-Intro
+Sartu
 [ffff]
 [8000]
 }
 {
 [8000]
-Pad izquierda.
+Ezkerreko pad.
 [ffff]
 [8000]
 }
 {
 [8000]
-Pad derecha.
+Eskuinetara.
 [ffff]
 [8000]
 }
@@ -280,7 +280,7 @@ Pad Abajo
 }
 {
 [8000]
-Botón
+Botoia
 [ffff]
 [8000]
 }
