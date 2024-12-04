@@ -1,0 +1,218 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 28
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Bai.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ilunegi dago
+mapa irakurtzeko.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez daukat inguru honetako maparik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itxita dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Orain irekita dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Morroiloa hautsita dagoela dirudi.
+Ezin dut ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ezin dut ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zer da hau...?
+[ffff]
+[1000]
+[8000]
+Begiratzen diodanean,
+norbait burezur barruan jotzen
+ariko balitz bezala sentitzen naiz.
+[ffff]
+[1000]
+[8000]
+Sentsazio arraroa ematen dit...
+[ffff]
+[9000]
+}
+{
+[03ff]
+Pistola-balak
+[00ff]
+[8000]
+aurkitu ditut.
+[ffff]
+[9000]
+}
+{
+[03ff]
+Eskopeta-kartutxoak
+[00ff]
+[8000]
+aurkitu ditut.
+[ffff]
+[9000]
+}
+{
+[03ff]
+Errifle-balak
+[00ff]
+[8000]
+aurkitu ditut.
+[ffff]
+[9000]
+}
+{
+[03ff]
+Edari isotonikoa
+[00ff]    
+[8000]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[03ff]
+Botikina
+[00ff]
+[8000]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[03ff]
+Anpoila
+[00ff]
+[8000]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Etengailua sakatu dut,
+baina ez dabil.
+[ffff]
+[9000]
+}
+{
+[8000]
+[02ff]
+Partida ezin da gorde
+proba-bertsioan.
+[ffff]
+[9000]
+}
+{
+[8000]
+DUALSHOCK 2 konektatu gabe
+[ffff]
+[8000]
+}
+{
+[8000]
+Konektatu aginte analogikoa (DUALSHOCK 2) 1. aginte-atakan
+[ffff]
+[8000]
+}
+{
+[8000]
+Diskoaren erretilua irekita
+[ffff]
+[8000]
+}
+{
+[8000]
+Diskoa ez da txertatu
+[ffff]
+[8000]
+}
+{
+[8000]
+Diskoa egiaztatzen
+[ffff]
+[8000]
+}
+{
+[8000]
+Disko okerra
+[ffff]
+[8000]
+}
+{
+[03ff]
+Errebolberrerako balak
+[00ff]
+[8000]
+aurkitu ditut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Konektatu berriro kontrolagailua
+kontrolagailu-atakara,
+[e0ff]
+eta sakatu START, jarraitzeko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Kargatzen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sakatu START botoia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Fitxategi batzuk eskuraezinak dira. Mesedez, berrezarri jokoa.
+Mesedez, berrezarri jokoa.
+[ffff]
+[8000]
+}
