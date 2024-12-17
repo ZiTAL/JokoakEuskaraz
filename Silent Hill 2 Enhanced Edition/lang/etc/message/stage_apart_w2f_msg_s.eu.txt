@@ -1,0 +1,165 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 16
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Ohar bat dago atean itsatsita.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Tim maitea:
+Mandatu bat egitera joan behar dut.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Etxeko giltza osaba Davidi
+utziko diot (Badakizu non
+bizi den, ezta? Giltza lehen
+solairuko eskaileratik
+hurbilen dagoen gelan dago).
+
+ Ahal bezain laster itzuliko
+naiz, zaindu etxea kanpoan
+nagoen bitartean, mesedez.
+[ffff]
+[9000]
+}
+{
+[8000]
+Komunean zerbait sartuta
+dagoela dirudi.
+[ffff]
+[1000]
+[8000]
+Aterako al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Kartera bat dirudi.
+Ohar moduko bat du.
+[ffff]
+[1000]
+[8000]
+[faff]
+[e0ff]
+ >> << >>
+[ffff]
+[9000]
+}
+{
+[8000]
+Ohar bat dago karteran.
+[ffff]
+[1000]
+[8000]
+[faff]
+[e0ff]
+ >> << >>
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer interesgarrik geratzen.
+[ffff]
+[1000]
+[8000]
+Ez du zentzurik bilatzen jarraitzeak.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kutxa gotor txiki bat.
+Itxita dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kutxan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Apartamentuetako eskailerako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Lyneren etxeko giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Apartamentuetako eskailerako giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Egunkari orri bat dago lurrean.
+Zaharra dirudi.
+[ffff]
+[1000]
+[8000]
+Ez dago ezer idatzirik bereziki
+interesgarria dirudienik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ohe zahar eta hautsi bat dago hemen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer erabilgarria
+dirudienik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hor ez dago ezer erabilgarria
+dirudienik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Koadro bat. Ez du ezer
+bereziki interesgarririk.
+[ffff]
+[9000]
+}

@@ -1,0 +1,69 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 8
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Kaka zaharra!
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Patioko giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Larrialdi-irteerako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Garbigailu normal bat.
+Ez da interesgarria.
+[ffff]
+[9000]
+}
+{
+[8000]
+Telefonoa ez dabil.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer interesgarririk
+ez egunkarian,
+ez aldizkarian.
+[ffff]
+[9000]
+}
+{
+[8000]
+Koadro bat dago zintzilik.
+Inguru honetako paisaia dirudi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Koadro bat dago zintzilik.
+Paisaia bitxia dirudi.
+[ffff]
+[9000]
+}

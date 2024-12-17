@@ -1,0 +1,92 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 10
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[03ff]
+Pistola
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Horma bala zuloz
+beteta dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kartutxo hutsak daude
+lurrean botata.
+[ffff]
+[9000]
+}
+{
+[8000]
+Giltza bat dago lurrean,
+barroteen beste aldean.
+[ffff]
+[1000]
+[8000]
+Agian, besoa luzatzen badut
+harrapatuko dut.
+[ffff]
+[1000]
+[8000]
+Harrapatuko al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Luzatzen banaiz ere,
+ez dut giltza hartzen.
+[ffff]
+[1000]
+[8000]
+Nor da neskatil hori?
+[ffff]
+[9000]
+}
+{
+[8000]
+Au!
+[ffff]
+[8000]
+}
+{
+[8000]
+Kar, kar!
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh, itxaron!
+[ffff]
+[8000]
+}
+{
+[8000]
+Kaka zaharra!
+[ffff]
+[8000]
+}
+{
+[8000]
+Erosketa-orga.
+Zer egiten du hemen?
+[ffff]
+[9000]
+}

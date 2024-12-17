@@ -1,0 +1,206 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 9
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Zer da hau...?
+Txutxumutxu aldizkari bat, ezta?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Poliziak gaur iragarri duenez,
+Walter Sullivan hilaren 18an
+atxilotu zuten, Billy Locane
+eta bere arreba Miriamen
+hilketa bortitzagatik, eta
+bere buruaz beste egin zuen
+bere ziegan, hilaren 22ko
+goizaldean.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Poliziaren deklarazioaren arabera,
+Sullivanek zopa-koilara bat sartu
+zuen lepoan, karotida arteria
+moztuz.
+
+ Zaindariak aurkitu zuenean,
+Sullivan odolustuta hil zen,
+koilara lepoan bost zentimetro
+arrailduta.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Walter Sullivanen eskolakide
+ohi batek, Pleasant River
+bere jaioterrikoak, zera
+adierazi zuen: «Ez zirudien
+haur bat hiltzeko gai zenik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Baina gogoan dut atxilotu
+baino lehentxeago gauza
+arraroak esaten zituela,
+plana betez: "Hil egin
+nahi nau. Zigortu egin
+nahi nau. Munstroa...
+deabru gorria. Barkatu.
+Nik egin nuen, baina ez
+nintzen ni izan!"».
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Lagunak gaineratu zuen:
+«Orain pentsatzen ari naizela,
+uste dut torlojuren bat
+falta zitzaiola».
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+ Poliziak gaur iragarri duenez,
+Walter Sullivan hilaren 18an
+atxilotu zuten, Billy Locane
+eta bere arreba Miriamen
+hilketa bortitzagatik, eta
+bere buruaz beste egin zuen
+bere ziegan, hilaren 22ko
+goizaldean.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Poliziaren deklarazioaren arabera,
+Sullivanek zopa-koilara bat sartu
+zuen lepoan, karotida arteria
+moztuz. Zaindariak aurkitu zuenean,
+Sullivan odolustuta hil zen,
+eta koilara 5 cm arrailduta
+zeukan lepoan.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Walter Sullivanen eskolakide ohi
+batek, Pleasant River bere
+jaioterrikoak, zera adierazi zuen:
+«Ez zirudien haur bat hiltzeko
+gai zenik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Baina gogoan dut atxilotu baino
+lehentxeago gauza arraroak
+esaten zituela, plana betez:
+"Hil egin nahi nau. Zigortu
+egin nahi nau. Munstroa...
+deabru gorria. Barkatu. Nik
+egin nuen, baina ez nintzen
+ni izan!"».
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Lagunak gaineratu zuen:
+«Orain pentsatzen ari naizela,
+uste dut torlojuren bat
+falta zitzaiola».
+[ffff]
+[9000]
+}
+{
+[8000]
+Ateak ez du amore ematen.
+[ffff]
+[1000]
+[8000]
+Badirudi zerbaitek beste
+aldetik bultzatzen duela.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zaborra da.
+Ez du ezertarako balio.
+[ffff]
+[9000]
+}
+{
+[8000]
+Atearen beste aldean ez dago
+larrialdietarako eskailerarik.
+[ffff]
+[1000]
+[8000]
+Aldameneko eraikina eraikitzean
+botako zenukete?
+[ffff]
+[1000]
+[8000]
+Uste dut aldameneko
+eraikinean sar naitekeela
+leiho honetatik.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Sugearen txanpona
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zabor-poltsa apurtu egin da
+eta bere edukiak nonahi
+zabaldu dira.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Agurearen txanpona
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Uste dut apartamentu honetan
+bilatzen jarraituko dudala.
+Zerbait ez zait egokitzen.
+[ffff]
+[9000]
+}
