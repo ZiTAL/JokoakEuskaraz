@@ -1,0 +1,209 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 31
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Berriro okertu zara.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary hilda dago.
+Zuk hil zenuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria.
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria... Gurea amaitu da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer esan nahi duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Zurea izan naiteke...
+Beti edukiko nauzu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta ez zaitut inoiz oihukatuko eta
+ez zaitut gaizki sentiaraziko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori da nahi zenuena!
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain dena ulertzen dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Arazoa zera da...
+zu ez zarela Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, James... Ez zaitut utziko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dizut inoiz utziko
+Mary berreskuratzen!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Barkatu...
+[ffff]
+[8000]
+}
+{
+[8000]
+Esan nizun hil egin nahi nuela, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mina gelditzea nahi nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik egin dut, laztana.
+Ezin nuen jasan zu sufritzen ikustea...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, hori ez da egia osoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez zenuela hil nahi
+ere esan zenuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Egia esan...
+neurri batean gorroto zintudan.
+Bizitza hondatzeagatik...
+[ffff]
+[8000]
+}
+{
+[8000]
+Hil egin nauzu eta sufritzen
+ari zara horregatik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nahikoa da, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain ulertzen dut...
+zergatik etorri naizen hiri honetara.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer zen beldur nintzena?
+[ffff]
+[8000]
+}
+{
+[8000]
+Zu gabe, Mary, ez daukat ezer...
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain elkarrekin egon gaitezke.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain ezin naiz itzuli.
+Ez da ihes egiteko unea.
+[ffff]
+[9000]
+}
+

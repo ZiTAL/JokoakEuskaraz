@@ -1,0 +1,94 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 13
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gurea amaitu da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer?
+Baina... zuk nahi zenuena naiz!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary hilda dago.
+Ez duzu ulertzen? Ez da itzuliko!
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina ni zurea izan naiteke...
+Beti edukiko nauzu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dizut inoiz minik egingo, berak bezala!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zergatik ez nauzu maite?
+[ffff]
+[8000]
+}
+{
+[8000]
+Zu ez zarelako Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary gabe, ezerk ez du zentzurik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Oh, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai zera, James!
+Txantxetan ariko zara.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain ezin naiz itzuli.
+Ez da ihes egiteko unea.
+[ffff]
+[9000]
+}
+
