@@ -96,7 +96,7 @@ Hay algo escrito.
 [8000]
 [faff]
 [01ff]
- Todo el mundo está expuesto
+vTodo el mundo está expuesto
 a esta enfermedad y, bajo las
 condiciones adecuadas, cualquier
 persona acabará arrastrada,
