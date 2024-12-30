@@ -1,0 +1,282 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 32
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Leihatila ez da irekitzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dirudi hemen ezer onik dagoenik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Orratz bat zegoen
+peluxean sartuta.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pelutxe bat besterik ez da.
+Ez dago besterik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Txabusinaren poltsikoan zerbait dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Laborategiko txabusina.
+Ez dago ezer bereziki
+interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Idazmakina bat.
+Ez dit ezertarako balio.
+[ffff]
+[9000]
+}
+{
+[8000]
+Idazmakina bat.
+Ez dit ezertarako balio.
+[ffff]
+[1000]
+[8000]
+Itxaron...
+Zer da hau...?
+[ffff]
+[1000]
+[8000]
+Ikatz-paperezko orri bat dago
+makinan sartuta.
+[ffff]
+[1000]
+[8000]
+Inprimatuta daukazuna irakur dezaket.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Badakit sekretuak emango dizuedala
+zer egin deabruen aurkako
+babesleku honetan. Ez da
+baliagarria. Nire tresnak nire
+aginduak bete behar ditu.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+kutxa alferrikakoa izango da
+orain ez dut ahaztu behar
+[e0ff]
+oso ongi bera da okerrena
+orain ni ere aske izango
+naiz eta berak balioko dit
+jenio bat naiz
+inork ezin nau geldiarazi
+inork ezin nau geldiarazi
+[ffff]
+[9000]
+}
+{
+[8000]
+Paper sakabanatuak.
+Hutsik daude.
+[ffff]
+[9000]
+}
+{
+[8000]
+Estalki bat dago igogailuaren
+dei botoiaren gainean.
+[ffff]
+[1000]
+[8000]
+Ez dut irekitzeko modurik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Botoiak sakatzen ditut,
+baina igogailuak ez du erreakzionatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Eskopeta bat
+[00ff]
+dago leihatilan.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Eskopeta bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Orratz oker bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Azterketa-gelako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Lapis-begiaren giltza
+[00ff]
+ aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Igogailuko giltza 
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ai!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer gertatzen da?
+[ffff]
+[8000]
+}
+{
+[8000]
+Arantza sartu dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ondo zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Badakit kutxaren zenbakia.
+[e0ff]
+
+jada ezin dio lagundu botoiek
+ez naute beldurtzen, eta inork
+ezin du eragotzi nor naizen
+ez dakit nor naizen naizena naiz
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen ez dago ezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Telebista bat.
+Apurtuta dagoela dirudi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen ez dago ezer erabilgarria dirudienik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Iragarki-taulan zerbait
+dago zintzilik.
+Baina ez dirudi
+interesgarria denik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ezin naiz poster zozo
+bati begira geratu.
+[ffff]
+[9000]
+}
+{
+[8000]
+Armairu barruan ez
+dago ezer berezirik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aldizkari bat. Oraintxe bertan
+ez dit ezertarako balio.
+[ffff]
+[9000]
+}
+{
+[8000]
+Poltsa bat. Hutsik dago.
+[ffff]
+[9000]
+}
