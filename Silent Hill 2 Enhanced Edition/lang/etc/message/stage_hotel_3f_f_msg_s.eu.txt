@@ -1,0 +1,409 @@
+TODO
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 61
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Aprieto el botón,
+pero no pasa nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un reproductor de vídeo.
+Creo que funciona.
+[ffff]
+[9000]
+}
+{
+[8000]
+Me he llevado la cinta de vídeo.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave
+de las escaleras del hotel
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He usado la 
+[03ff]
+llave de
+la habitación 312 del hotel
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+¿Ya estás grabando? Anda...
+[ffff]
+[8000]
+}
+{
+[8000]
+No sé por qué,
+pero me encanta este sitio.
+[ffff]
+[8000]
+}
+{
+[8000]
+Es tan tranquilo...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Sabes lo que he oído?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta zona solía ser un lugar sagrado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Creo que entiendo por qué.
+[ffff]
+[8000]
+}
+{
+[8000]
+Qué pena que tengamos
+que marcharnos...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor, prométeme que me
+traerás otra vez, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por fin te encuentro, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Tienes la carta?
+¿Has encontrado a Mary?
+[ffff]
+[8000]
+}
+{
+[8000]
+Si no, pongámonos en marcha.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De acuerdo?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary se ha ido.
+[ffff]
+[8000]
+}
+{
+[8000]
+Está muerta.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Mentiroso!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Eso es mentira!
+[ffff]
+[8000]
+}
+{
+[8000]
+No, es verdad...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Murió... porque estaba enferma?
+[ffff]
+[8000]
+}
+{
+[8000]
+No.
+[ffff]
+[8000]
+}
+{
+[8000]
+Yo la maté.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Asesino!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡¿Por qué lo hiciste?!
+¡Te odio!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Quiero que vuelva!
+¡Devuélvemela!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Lo sabía!
+¡No te importaba lo más mínimo!
+[ffff]
+[8000]
+}
+{
+[8000]
+¡Te odio, James!
+¡Te odio! ¡Te odio! ¡Te odio!
+[ffff]
+[8000]
+}
+{
+[8000]
+Siempre te estuvo esperando...
+¿Por qué...? ¿Por qué...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento...
+[ffff]
+[8000]
+}
+{
+[8000]
+La Mary que conoces no está aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Laura, lo siento.
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+¿Dónde estás?
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy esperando.
+Te estoy esperando.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor, ven a mí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me odias?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por eso no vienes a verme?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esa voz...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor, date prisa.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Acaso estás perdido?
+[ffff]
+[8000]
+}
+{
+[8000]
+Estoy cerca.
+Te espero cerca de aquí, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor.
+Quiero verte, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Me oyes?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+Por favor, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+James... James... ¿James...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí hay una televisión.
+Incluso cuando está enchufada,
+sólo veo ruido blanco.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada que ver.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ya no necesito
+el reproductor de vídeo.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada interesante
+escrito en el libro de notas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay un cuadro colgado.
+Parece un paisaje de esta zona.
+[ffff]
+[9000]
+}
+{
+[8000]
+Lo siento... Eh...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Quién... quién eres...?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Ha visto a una niña?
+[ffff]
+[8000]
+}
+{
+[8000]
+Es bajita, de pelo negro...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De qué estás hablando...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Da igual, escucha...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Has visto a mi esposa...?
+Se llama Mary.
+[ffff]
+[8000]
+}
+{
+[8000]
+¡¡¡Aaarrggghhhh!!!
+[ffff]
+[8000]
+}
