@@ -1,0 +1,292 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 29
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+[faff]
+[01ff]
+ Gerora Thomas Orosco egurgile gisa
+identifikatu zuten gizon baten gorpua
+39 urtekoa, ahoz gora etzanda
+aurkitu zuten bere gelan.
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+
+[fdff]
+[f7ff]
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Litekeena da heriotzaren
+kausa hainbat labankada
+izan zirela lepoaren
+aurrealdea eta ezkerreko
+saihetsean, eragindakoak
+arma zorrotz batengatik.
+Heriotza gutxi gorabehera
+gertatu zen 23:00etatik
+gauerdira.
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Logelako borroka zantzuen eta
+arma hiltzailearen faltaren
+ondorioz, polizia homizidio
+baten susmopean dago, eta
+hilketagatik ikerketa abiatu
+du.
+[f7ff]
+pech
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Gainera, gelako dirua ukitu
+ez zuenez eta Orosco jaunak
+alkoholismo- eta indarkeria-
+aurrekariak zituenez, poliziak
+susmatzen du arrazoia ez zela
+lapurreta bat izan, pasiozko
+krimenen bat baizik.
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+que e
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[ffff]
+[9000]
+}
+{
+[8000]
+Egunkari bat dago lurrean.
+[ffff]
+[1000]
+[8000]
+Odola dirudien zerbaitez
+zikinduta dago eta zati
+batzuk ezin dira irakurri.
+[ffff]
+[9000]
+}
+{
+[8000]
+Haurra hilda dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez, aita! Ez, mesedez!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ondo al zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela! Lasai.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez eman agindurik!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez da nire asmoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orduan, zer nahi duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah, ikusten dut, jatorrarena
+egiten ari da, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Badakit zer nahi duen.
+Berriro gauza berarekin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gauza bakarra dute buruan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez. Hori ez da egia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez duzu zertan gezurrik esan.
+Benga, izan zintzoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Edo behartu nazakezu.
+Jo nazazu, berak egiten zuen bezala.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gainera, zeure burua
+besterik ez duzu buruan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Txerri zikina...
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nazazu ukitu!
+[ffff]
+[8000]
+}
+{
+[8000]
+Botaka egiteko gogoa dut!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mary bere emaztea hilda
+zegoela esan zuen, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, gaixorik zegoen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gezurretan ari da!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ondo ezagutzen dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nuen berarekin egon nahi.
+Beste bat bilatuko genuke.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori barregarria da... Nik ez...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezin dut bere kasa utzi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itzuliko banintz ere, nora joango nintzateke...?
+[ffff]
+[1000]
+[8000]
+Ez dago itzulbiderik,
+ezta ihes egiteko lekurik ere.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hormak eta zorua egunkariz
+beteta daude. Ez dirudi ezer
+interesgarririk dagoenik.
+[ffff]
+[1000]
+[8000]
+Baina honek gaurko data du...
+Bai arraroa.
+[ffff]
+[9000]
+}
