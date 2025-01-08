@@ -1,0 +1,264 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 39
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Botoiak sakatzen ditut,
+baina igogailuak ez du erreakzionatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zertarako erabiliko da hau...?
+Ez dut pentsatu ere egin nahi...
+[ffff]
+[9000]
+}
+{
+[8000]
+Kableek ez didate pasatzen uzten.
+[ffff]
+[9000]
+}
+{
+[8000]
+Bizirik zaude!
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria... gauza horrek hil
+zintuela uste nuen...!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zaurituta zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Inola ere ez, tontolapiko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Gauza horrek... sastakatu zaitu!
+Odola zegoen nonahi!
+[ffff]
+[8000]
+}
+{
+[8000]
+Sastakatu?
+Zer esan nahi duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Igogailuraino jazarri gintuen!
+Eta orduan...!
+[ffff]
+[8000]
+}
+{
+[8000]
+James, zertaz ari zara?
+[ffff]
+[8000]
+}
+{
+[8000]
+Duela gutxi!
+Ez zara gogoratzen?
+[ffff]
+[8000]
+}
+{
+[8000]
+James, maitea...
+Zerbait gertatu zaizu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Korridore luze hartan
+banandu ginenetik?
+[ffff]
+[8000]
+}
+{
+[8000]
+Beste norbaitekin
+nahasten nauzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Beti izan zara despistatua...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gogoan izan orduko
+hura hotelean...
+[ffff]
+[8000]
+}
+{
+[8000]
+Maria...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Dena eraman duzula esan duzu...
+[ffff]
+[8000]
+}
+{
+[8000]
+baina grabatu genuen
+bideo-zinta utzi zenuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dakit hor jarraituko duen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Nola dakizu hori guztia?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez zara Maria?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez naiz zure Maria.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orduan, Maria zara?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai... Hala nahi izanez gero.
+[ffff]
+[8000]
+}
+{
+[8000]
+Erantzun bat besterik
+ez dut nahi!
+[ffff]
+[8000]
+}
+{
+[8000]
+Berdin dio nor naizen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Zuretzat nago hemen, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ikusten? Benetakoa naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nauzu ukitu nahi?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dakit...
+[ffff]
+[8000]
+}
+{
+[8000]
+Zatoz nire bila.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezin dut ezer egin
+barrote hauen bidez.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ongi... Geratu zauden lekuan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Laster...
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Aliketak
+[00ff]
+aurkitu ditut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Labana handi bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
