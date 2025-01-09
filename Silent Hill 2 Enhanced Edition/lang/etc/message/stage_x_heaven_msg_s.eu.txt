@@ -1,0 +1,139 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 17
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Bai.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez.
+[ffff]
+[8000]
+}
+{
+[8000]
+Esnatu nintzenean, bakarrik nengoen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dago inor...
+Munstroengatik ote?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta orain zer egingo dut?
+[ffff]
+[8000]
+}
+{
+[8000]
+Gogor egiten dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+edo munstro horiek harrapatuko naute?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dut bizitzeko arrazoirik,
+baina...
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina hiltzeak beldurtzen nau.
+Minaren beldur naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ihes egin beharko nuke?
+[ffff]
+[8000]
+}
+{
+[8000]
+Norbait aurkitu nahi dut.
+Ez zait gustatzen bakarrik egotea...
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina... geratzen al da inor bizirik?
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Labana txinatar bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez al dago beste armarik pistola
+honetaz aparte? Ez naiz eroso
+sentitzen honekin bakarrik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itxita dago.
+[ffff]
+[1000]
+[8000]
+Norbaitek txikle bat sartu
+du sarrailan. Ezin dut
+alde honetatik ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Heaven's Night
+[ffff]
+[1000]
+[8000]
+[00ff]
+Establezimendu honen izena.
+[ffff]
+[9000]
+}
+{
+[8000]
+[78f8]
+ Hurrengo istorioa joko
+nagusiaren gehigarri gisa
+idatzi da. Istorio nagusia osatu
+ondoren jokatzea gomendatzen dugu.
+
+ Jarraitu nahi al duzu?
+[ffff]
+[8000]
+}

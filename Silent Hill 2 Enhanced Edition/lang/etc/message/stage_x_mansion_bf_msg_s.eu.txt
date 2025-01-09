@@ -1,0 +1,39 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 2
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Plaka moduko bat dago lurrean.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Amy Baldwin
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Jainkoak gehiegi maitatu zuen.
+Zazpi urte ez ziren nahikoak.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+EZ HURBILDU
+SORGINDUTAKO ETXERA
+[ffff]
+[9000]
+}

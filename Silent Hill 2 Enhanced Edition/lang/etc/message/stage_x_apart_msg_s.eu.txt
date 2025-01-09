@@ -1,0 +1,102 @@
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 8
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+Honek parkera daraman kalezulora
+eraman beharko ninduke.
+[ffff]
+[1000]
+[8000]
+Baina Ernesti emandako
+hitza bete beharko nuke.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zerbait dago idatzita mahaian.
+[ffff]
+[1000]
+[8000]
+Ilunegi dago irakurtzeko.
+[ffff]
+[9000]
+}
+{
+[8000]
+Leihotik ondoko apartamentua
+ikus dezaket.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itxita dago.
+[ffff]
+[1000]
+[8000]
+Ohar bat dago atean itsatsita.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tim maitea:
+ Mandatu bat egitera joan behar dut.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Etxeko giltza osaba Davidi
+utziko diot (Badakizu non bizi
+den, ezta? Giltza lehen
+solairuko eskaileratik
+hurbilen dagoen gelan dago).
+
+ Ahal bezain laster
+itzuliko naiz, zaindu etxea
+kanpoan nagoen bitartean, mesedez.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Apartamentu-eraikinaren mapa bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Likido zuria
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kutxa gotor bat...
+Baina ez dakit nola ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Nazkagarria...
+[ffff]
+[9000]
+}
+

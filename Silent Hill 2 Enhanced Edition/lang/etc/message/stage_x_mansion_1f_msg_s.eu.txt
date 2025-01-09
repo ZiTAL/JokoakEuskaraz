@@ -1,0 +1,918 @@
+TODO
+SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 109
+
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
+
+BEGIN_SOURCE:
+{
+[8000]
+¿Conoces a una niña
+que se llama Amy?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué lo preguntas?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esta carta, “A mi querido papá”...
+la escribió una niña llamada
+Amy Baldwin.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eres su padre?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Dónde la has encontrado?
+[ffff]
+[8000]
+}
+{
+[8000]
+En la buhardilla.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah...
+[ffff]
+[8000]
+}
+{
+[8000]
+Qué estúpido...
+Ahora... cuando ya es demasiado
+tarde... entiendo el motivo.
+[ffff]
+[8000]
+}
+{
+[8000]
+Por qué ella estaba allí...
+[ffff]
+[8000]
+}
+{
+[8000]
+Por qué tenía en la mano aquel
+sobre vacío cuando... cuando cayó...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ernest, ¿Amy... no estará...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo siento.
+Siento habértelo recordado.
+[ffff]
+[8000]
+}
+{
+[8000]
+No tienes que disculparte.
+Tú no me lo has recordado.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nunca lo olvido...
+[ffff]
+[8000]
+}
+{
+[8000]
+María.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay cosas que olvidamos y cosas
+que nunca podremos olvidar...
+[ffff]
+[8000]
+}
+{
+[8000]
+Tiene gracia...
+No sé qué es más triste.
+[ffff]
+[8000]
+}
+{
+[8000]
+Han pasado diez años, pero sigo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ernest... Lo siento.
+No lo sabía...
+[ffff]
+[8000]
+}
+{
+[8000]
+No, no importa.
+[ffff]
+[8000]
+}
+{
+[8000]
+María, esa carta...
+[ffff]
+[8000]
+}
+{
+[8000]
+La dejaré aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gracias.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿María...?
+Entonces, tú debes ser...
+[ffff]
+[8000]
+}
+{
+[8000]
+Claro.
+Por eso podías verme.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Eh?
+[ffff]
+[8000]
+}
+{
+[8000]
+Entonces, ¿también puedo esperar
+un milagro?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De qué hablas?
+[ffff]
+[8000]
+}
+{
+[8000]
+En los apartamentos de al lado...
+hay una botella que contiene
+un líquido blanco.
+[ffff]
+[8000]
+}
+{
+[8000]
+No sé exactamente dónde está,
+pero sé que está ahí.
+[ffff]
+[8000]
+}
+{
+[8000]
+La necesito.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Y... quieres que la busque?
+[ffff]
+[8000]
+}
+{
+[8000]
+Por favor...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Por qué no vas a buscarla?
+[ffff]
+[8000]
+}
+{
+[8000]
+Créeme, si pudiese lo haría.
+Pero...
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Blanco...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Te abriré la puerta de la escalera.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ernest, ¿de verdad
+crees que funcionará?
+[ffff]
+[8000]
+}
+{
+[8000]
+No lo sé...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno, da igual. No me importa luchar
+por una causa imposible.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mejor eso que tirar la toalla
+y no hacer nada.
+[ffff]
+[8000]
+}
+{
+[8000]
+María... Gracias.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿De verdad crees en los milagros?
+[ffff]
+[8000]
+}
+{
+[8000]
+Esto es Silent Hill.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ya, tal vez sea ese el problema.
+[ffff]
+[8000]
+}
+{
+[8000]
+Oh, María... Piensas demasiado.
+Yo soy de aquí. Esta es mi ciudad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gracias, María.
+[ffff]
+[8000]
+}
+{
+[8000]
+Es el único objeto
+que yo no puedo obtener.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pero cuando me quise dar cuenta,
+ya no podía abandonar esta casa.
+[ffff]
+[8000]
+}
+{
+[8000]
+He pasado tanto tiempo...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí, pero... Bueno...
+[ffff]
+[8000]
+}
+{
+[8000]
+María, los dioses están aquí.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tú también lo sabes.
+Tu naciste en esta ciudad.
+[ffff]
+[8000]
+}
+{
+[8000]
+No estoy segura de que “dios”
+sea la palabra adecuada.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Crees en el destino?
+[ffff]
+[8000]
+}
+{
+[8000]
+La verdad es que no.
+[ffff]
+[8000]
+}
+{
+[8000]
+Entonces, no importa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ernest, ¿puedo abrirla?
+[ffff]
+[8000]
+}
+{
+[8000]
+Aquí no hay salida.
+No hay nada más.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lo sé.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bueno... ¿Y si te hubiese dicho
+que creía en el destino?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ese James... es un hombre malo.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿James...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Sí... Lo sé.
+[ffff]
+[8000]
+}
+{
+[8000]
+Te está buscando,
+pero no te busca a ti.
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Porque es bueno...?
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Tú... sabes algo?
+[ffff]
+[8000]
+}
+{
+[8000]
+Sí... María, eres...
+[ffff]
+[8000]
+}
+{
+[8000]
+Da igual, eso es lo que tú piensas.
+Pero en realidad no sabes nada.
+[ffff]
+[8000]
+}
+{
+[8000]
+Da igual.
+[ffff]
+[8000]
+}
+{
+[8000]
+Vale.
+[ffff]
+[8000]
+}
+{
+[8000]
+He encontrado el 
+[03ff]
+mapa de la mansión
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+La chimenea está tapiada.
+Y tiene escrito 
+[01ff]
+“No utilizar”
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Por alguna razón, la chimenea
+tiene una escalera.
+[ffff]
+[1000]
+[8000]
+En lo alto puedo ver
+una especie de agujero.
+[ffff]
+[1000]
+[8000]
+¿Vas a subir por la escalera?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+¿Vas a bajar por la escalera?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay una hendidura cuadrada
+en el centro de la lápida.
+[ffff]
+[1000]
+[8000]
+Y encima hay un epitafio
+tallado con esmero.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Contigo murió la alegría.
+Todo lo que queda es desesperación
+y un futuro de mañanas sin sentido.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Pero nunca renunciaré.
+Porque quiero volver a ver
+tu bella sonrisa.
+Porque quiero implorar
+la bendición de los dioses.
+Espero que llegue ese día.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Cuando las placas lo cubran todo,
+toda tristeza quedará
+también cubierta.
+Pero hasta que mis sueños
+se hagan realidad, tendré
+que aguantar todo el dolor.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Hay una llave firmemente
+incrustada en la piedra,
+por debajo de la hendidura.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Haga lo que haga,
+no puedo sacarla.
+[ffff]
+[9000]
+}
+{
+[8000]
+Has insertado la placa.
+[ffff]
+[1000]
+[8000]
+¿Vas a quitar una placa?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Has insertado la placa.
+[ffff]
+[1000]
+[8000]
+Los agujeros abiertos en
+las placas se superponen:
+Todavía se ve el otro lado.
+[ffff]
+[1000]
+[8000]
+¿Vas a quitar una placa?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Hay tres placas insertadas.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Memorias perdidas
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Confío plenamente —incluso
+podríais llamarlo fe— en el milagro
+conocido como la «resurrección
+de los muertos».
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+La Bestia entonó su canción
+en la colina donde la luz descendía.
+Con palabras de sangre, gotas
+de niebla y el vaso de la noche,
+la tumba se convirtió en
+un campo abierto.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+La gente sollozaba de temor
+y alegría en la reunión,
+pero mi fe en la salvación
+de Xuchilpaba no flaqueó.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+También es mencionada
+en las antiguas leyendas.
+Los primeros fieles no creían
+que la muerte fuese el final,
+sólo el camino por el que
+los fallecidos regresaban
+a la naturaleza.
+También creían que el proceso
+era reversible.
+[ffff]
+[1000]
+[8000]
+[00ff]
+Hay una nota
+al final de la página.
+[ffff]
+[1000]
+[8000]
+[00ff]
+¿Es de Ernest?
+¿Qué podría significar?
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Sangre=Rojo,
+Niebla=Blanco,
+Noche=Negro
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+placa negra
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado una 
+[03ff]
+placa roja
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+He encontrado la 
+[03ff]
+llave de la acacia
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+No puedo abrirla.
+[ffff]
+[9000]
+}
+{
+[8000]
+La persiana está cerrada.
+No puedo pasar por aquí.
+[ffff]
+[9000]
+}
+{
+[8000]
+Muerto...
+[ffff]
+[9000]
+}
+{
+[8000]
+La llave se ha soltado en cuanto
+las tres placas quedaron superpuestas.
+[ffff]
+[9000]
+}
+{
+[8000]
+Quité la 
+[03ff]
+placa blanca
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Quité la 
+[03ff]
+placa negra
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+Quité la 
+[03ff]
+placa roja
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+[20f9]
+[f9ff]
+Insertar tal cual.
+[f9ff]
+Girar 90 grados a la derecha e insertar.
+[f9ff]
+Girar 180 grados e insertar.
+[f9ff]
+Girar 90 grados a la izquierda e insertar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pongo la 
+[03ff]
+placa blanca
+[00ff]
+ en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pongo la 
+[03ff]
+placa negra
+[00ff]
+ en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pongo la 
+[03ff]
+placa roja
+[00ff]
+ en el agujero.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una hilera de platos.
+No hay nada que me interese.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay nada dentro. Lástima...
+[ffff]
+[9000]
+}
+{
+[8000]
+Un cuadro de flores.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un bodegón.
+[ffff]
+[9000]
+}
+{
+[8000]
+Un globo terráqueo.
+No me sirve para nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+No hay razón para que
+utilice el teléfono.
+[ffff]
+[9000]
+}
+{
+[8000]
+Una vitrina con platos decorativos.
+No es que sean muy interesantes.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un cubo y una fregona.
+Ahora no me apetece
+ponerme a limpiar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí no hay nada que pueda
+usar ahora.
+[ffff]
+[9000]
+}
+{
+[8000]
+No puedo seguir por aquí.
+La pared me corta el paso.
+[ffff]
+[9000]
+}
+{
+[8000]
+En el estante hay ediciones
+completas de libros
+de aspecto sesudo.
+[ffff]
+[1000]
+[8000]
+No hay nada que me interese.
+[ffff]
+[9000]
+}
+{
+[8000]
+Aquí hay un reloj, pero parece
+que ya no funciona.
+[ffff]
+[1000]
+[8000]
+No me sirve de nada.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hay libros sobre la mesa.
+Ninguno parece interesante.
+[ffff]
+[9000]
+}
+{
+[8000]
+El regalo de Amy para su padre,
+Ernest. Estaba junto con
+la tarjeta de cumpleaños.
+[ffff]
+[1000]
+[8000]
+Creo que lo dejaré aquí.
+[ffff]
+[9000]
+}
