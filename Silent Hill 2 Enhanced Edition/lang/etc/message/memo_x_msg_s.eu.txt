@@ -692,7 +692,6 @@ Argitaratzailea: Roger Widmark
 [8000]
 [faff]
 [e0ff]
- >> << >>
 [ffff]
 [9000]
 }
