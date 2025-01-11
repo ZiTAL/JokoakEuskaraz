@@ -75,7 +75,7 @@ Badakizu zer entzun dudan?
 [8000]
 Inguru hau leku sakratua izan ohi zen.
 [ffff]
-¡[8000]
+[8000]
 }
 {
 [8000]
@@ -177,7 +177,7 @@ Nik hil nuen.
 {
 [8000]
 Hiltzailea!
-¡[ffff]
+[ffff]
 [8000]
 }
 {
@@ -278,7 +278,7 @@ Ahots hori...
 [8000]
 Mesedez, azkar ibili.
 [ffff]
-¡[8000]
+[8000]
 }
 {
 [8000]
@@ -369,7 +369,7 @@ Nor... nor zara...?
 [8000]
 Neskato bat ikusi al duzu?
 [ffff]
-¡[8000]
+[8000]
 }
 {
 [8000]

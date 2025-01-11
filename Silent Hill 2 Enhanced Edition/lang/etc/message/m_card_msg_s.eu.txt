@@ -95,7 +95,7 @@ Ospitalea,  3. solairuko gela.
 [00ff]
 Ospitalea, 1. solairuko korridorea.
 [ffff]
-§[8000]
+[8000]
 }
 {
 [8000]
@@ -441,7 +441,7 @@ ezabatu nahi dituzula?
 {
 [8000]
 [01ff]
-§Ezabatzen...
+Ezabatzen...
 [ffff]
 [8000]
 }

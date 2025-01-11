@@ -20,7 +20,7 @@ Deskribapena besterik ez da geratzen.
 [8000]
 [faff]
 [01ff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [1000]
 [8000]
@@ -51,7 +51,7 @@ baino ez.
 [8000]
 [faff]
 [01ff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [1000]
 [8000]
@@ -81,8 +81,8 @@ gutxi batzuk baino ez.
 {
 [8000]
 [01ff]
-«Egun lainotsua,
-epaiketaren hondarrak»
+"Egun lainotsua,
+epaiketaren hondarrak"
 [ffff]
 [1000]
 [8000]

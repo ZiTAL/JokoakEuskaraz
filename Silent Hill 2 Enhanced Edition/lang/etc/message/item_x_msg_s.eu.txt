@@ -525,7 +525,7 @@ Lyneren etxeko giltza
 {
 [8000]
 Mahaian zegoen txanponen igarkizunarekin.
-Etiketak dio: «Lyne».
+Etiketak dio: "Lyne".
 
 [ffff]
 [8000]
@@ -551,7 +551,7 @@ Azterketa-gelako giltza
 }
 {
 [8000]
-Etiketak hau dio: «Aintzatespen-gela».
+Etiketak hau dio: "Aintzatespen-gela".
 Gizonen aldagelako mantalean aurkitu dute.
 [ffff]
 [8000]
@@ -605,7 +605,7 @@ Igogailuaren giltza
 }
 {
 [8000]
-Etiketak hau dio: «Igogailua pazienteentzat».
+Etiketak hau dio: "Igogailua pazienteentzat".
 Dutxen hustubidean trabatuta zegoen.
 [ffff]
 [8000]
@@ -711,7 +711,7 @@ Langileentzako igogailuaren giltza
 }
 {
 [8000]
-Etiketak hau dio: «Erabilitako igogailua».
+Etiketak hau dio: "Erabilitako igogailua".
 204. gelan aurkitu dute.
 [ffff]
 [8000]
@@ -900,7 +900,7 @@ Zapaltzailearen oholtxoa
 }
 {
 [8000]
-Metalezko oholtxoa, «zapaltzailea»
+Metalezko oholtxoa, "zapaltzailea"
 aurpegi batean marraztuta duena.
 Ziega batean aurkitu dute.
 [ffff]
@@ -908,13 +908,13 @@ Ziega batean aurkitu dute.
 }
 {
 [8000]
-Txerri glotoiaren oholtxoa
+Txerri tripontziaren egurtxoa
 [ffff]
 [8000]
 }
 {
 [8000]
-«Glotoi txerria» aurpegi batean
+Txerri tripontzia aurpegi batean
 marraztuta duen taula metalikoa.
 Jangelan aurkitu dute.
 [ffff]
@@ -929,7 +929,7 @@ Limurtzailearen oholtxoa
 {
 [8000]
 Metalezko oholtxoa, aurpegi batean
-«seduzitzailea» marraztuta duena.
+"seduzitzailea" marraztuta duena.
 Dutxetan aurkitu dute.
 [ffff]
 [8000]
@@ -1094,7 +1094,7 @@ Piramide Buruak zeukan.
 }
 {
 [8000]
-«Memoria galduak» liburua
+"Memoria galduak" liburua
 [ffff]
 [8000]
 }
@@ -1107,7 +1107,7 @@ historia kontatzen du.
 }
 {
 [8000]
-«Izaki Gorriminaren Zeremonia» liburua
+"Izaki Gorriminaren Zeremonia" liburua
 [ffff]
 [8000]
 }
@@ -1292,7 +1292,7 @@ Preso honek emakumea dirudi.
 }
 {
 [8000]
-«Patioa» jartzen du.
+"Patioa" jartzen du.
 [ffff]
 [8000]
 }
@@ -1307,7 +1307,7 @@ Zer gertatuko zaio...?
 {
 [8000]
 Etiketak honela dio:
-«larrialdi-irteera».
+"larrialdi-irteera".
 [ffff]
 [8000]
 }
@@ -1328,7 +1328,7 @@ zioten" zioen oharraren giltza.
 }
 {
 [8000]
-Honela dio: «Iparraldeko eskailera».
+Honela dio: "Iparraldeko eskailera".
 [ffff]
 [8000]
 }
@@ -1348,7 +1348,7 @@ Marik eta biok duela hiru urte.
 }
 {
 [8000]
-Etiketak «Silent Hill»
+Etiketak "Silent Hill"
 idatzita dauka nire letrarekin.
 [ffff]
 [8000]
@@ -1502,8 +1502,8 @@ herriaren kondairatik sortzen da.
 [8000]
 [faff]
 [01ff]
-Leku horri «Espiritu isilen lekua»
-esaten zitzaion. «Izpiritu» gisa
+Leku horri "Espiritu isilen lekua"
+esaten zitzaion. "Izpiritu" gisa
 ulertzen zituzten, hildako senideak
 ez ezik, zuhaitzetan, harkaitzetan
 eta uretan bizi direla uste zuten

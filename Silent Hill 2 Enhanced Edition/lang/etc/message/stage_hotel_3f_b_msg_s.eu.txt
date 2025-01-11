@@ -1,46 +1,7 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 5
+﻿--------------- strings=1 language=english
+---------------
+SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 5
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:
-{
-[8000]
-Bideo erreproduzigailu bat dago.
-Funtzionatzen duela uste dut.
-[ffff]
-[9000]
-}
-{
-[8000]
-Bideo-zinta hartu dut.
-[ffff]
-[9000]
-}
-{
-[8000]
-Botoiari eman diot,
-baina ez da ezer gertatzen.
-[ffff]
-[9000]
-}
-{
-[8000]
-[03ff]
-Txakur-giltza
-[00ff]
-erabili dut.
-[ffff]
-[9000]
-}
-{
-[8000]
-Sarraila apurtuta egon liteke.
-Ez dirudi ireki dezakedanik.
-[ffff]
-[9000]
-}
+BEGIN_SOURCE:{[8000]Bideo erreproduzigailu bat dago.Funtzionatzen duela uste dut.[ffff][9000]}{[8000]Bideo-zinta hartu dut.[ffff][9000]}{[8000]Botoiari eman diot,baina ez da ezer gertatzen.[ffff][9000]}{[8000][03ff]Txakur-giltza[00ff]erabili dut.[ffff][9000]}{[8000]Sarraila apurtuta egon liteke.Ez dirudi ireki dezakedanik.[ffff][9000]}

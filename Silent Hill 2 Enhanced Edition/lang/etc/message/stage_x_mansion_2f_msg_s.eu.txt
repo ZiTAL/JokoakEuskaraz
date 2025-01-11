@@ -294,7 +294,7 @@ mimosoideae azpifamilia. Lore
 hori edo zuri txikiak ditu,
 mahats-mordoka hazten direnak.
 Bere barietate arrunten artean
-«goma-zuhaitza» dago.
+"goma-zuhaitza" dago.
 [ffff]
 [1000]
 [8000]

@@ -24,7 +24,7 @@ Silent Hill.
 }
 {
 [8000]
-Egunen batean hara eramango
+Egunen batean hara eramango
 ninduzula agindu zenidan.
 Baina ez duzu inoiz egin.
 [ffff]
@@ -47,13 +47,13 @@ Zure zain...
 }
 {
 [8000]
-Ni ikustera noiz etorriko zaren zain.
+Ni ikustera noiz etorriko zaren zain.
 [ffff]
 [8000]
 }
 {
 [8000]
-EEz zara inoiz etortzen.
+Ez zara inoiz etortzen.
 [ffff]
 [8000]
 }
@@ -67,7 +67,7 @@ eta bakardadez josita.
 }
 {
 [8000]
-3Gauza izugarri bat egin nizun.
+Gauza izugarri bat egin nizun.
 Inoiz barkatuko ez
 didazun zerbait.
 [ffff]
@@ -75,21 +75,21 @@ didazun zerbait.
 }
 {
 [8000]
-NEzingo nuke aldatu,
+Ezingo nuke aldatu,
 baina ezinezkoa da.
 [ffff]
 [8000]
 }
 {
 [8000]
-<Hain patetikoa eta izugarria sentitzen
+Hain patetikoa eta izugarria sentitzen
 naiz hemen etzanda, zure zain...
 [ffff]
 [8000]
 }
 {
 [8000]
-<Egunero sabaian dauden pitzadurak
+Egunero sabaian dauden pitzadurak
 ikusten ditut eta hau guztia
 zein bidegabea den bakarrik
 pentsa dezaket...
@@ -98,7 +98,7 @@ pentsa dezaket...
 }
 {
 [8000]
-ãGaur medikua etorri da.
+Gaur medikua etorri da.
 Etxera egun batzuetarako
 itzul nintekeela esan dit.
 [ffff]
@@ -115,13 +115,13 @@ nire azken aukera...
 }
 {
 [8000]
-TUlertzen didazula uste dut...
+Ulertzen didazula uste dut...
 [ffff]
 [8000]
 }
 {
 [8000]
-Hala ere, pozik nago
+Hala ere, pozik nago
 etxera itzultzeaz.
 Zure falta neukan.
 [ffff]
@@ -138,14 +138,14 @@ benetan nahi etxera itzultzea.
 }
 {
 [8000]
-›Ni ikustera etortzen zarenean,
+Ni ikustera etortzen zarenean,
 ikusten dut zein gogorra den zuretzat...
 [ffff]
 [8000]
 }
 {
 [8000]
-JEz dakit gorrotatzen nauzun,
+Ez dakit gorrotatzen nauzun,
 errukitzen nauzun...
 edo nazka ematen dizudan...
 [ffff]
@@ -153,20 +153,20 @@ edo nazka ematen dizudan...
 }
 {
 [8000]
-OBenetan sentitzen dut.
+Benetan sentitzen dut.
 [ffff]
 [8000]
 }
 {
 [8000]
-EHil egingo zela jakin nuenean,
+Hil egingo zela jakin nuenean,
 ez nuen onartu nahi izan.
 [ffff]
 [8000]
 }
 {
 [8000]
-JEtengabe haserre nengoen eta nire
+Etengabe haserre nengoen eta nire
 pertsona maiteenei erasotzen
 nien. Batez ere zuri, James.
 [ffff]
@@ -174,7 +174,7 @@ nien. Batez ere zuri, James.
 }
 {
 [8000]
-|Horregatik ulertuko nuke ni gorrotatzea.
+Horregatik ulertuko nuke ni gorrotatzea.
 [ffff]
 [8000]
 }
@@ -188,13 +188,13 @@ nahi dut, James...
 }
 {
 [8000]
-ÒBeti maiteko zaitut.
+Beti maiteko zaitut.
 [ffff]
 [8000]
 }
 {
 [8000]
-©Gure bikote-bizitzak izan zuen amaiera
+Gure bikote-bizitzak izan zuen amaiera
 izango balu, ez luke munduan ezergatik
 aldatuko. Gauza zoragarriak
 pasatu genituen.
@@ -204,35 +204,35 @@ pasatu genituen.
 }
 {
 [8000]
-œGutun hau asko luzatzen ari da.
+Gutun hau asko luzatzen ari da.
 Agur esatera noa.
 [ffff]
 [8000]
 }
 {
 [8000]
-JEsan diot erizainari
+Esan diot erizainari
 emateko ni ez nagoenean.
 [ffff]
 [8000]
 }
 {
 [8000]
-JIrakurtzen duzunerako,
+Irakurtzen duzunerako,
 hilda egongo naiz.
 [ffff]
 [8000]
 }
 {
 [8000]
-rEzin dizut eskatu gogoratzea,
+Ezin dizut eskatu gogoratzea,
 baina ezin dut jasan ahaztea.
 [ffff]
 [8000]
 }
 {
 [8000]
-rAzken hauek gaixotasunarekin...
+Azken hauek gaixotasunarekin...
 asko sentitzen dut
 egin nizuna, egin nuena...
 [ffff]
@@ -240,14 +240,14 @@ egin nizuna, egin nuena...
 }
 {
 [8000]
-†Zuk hainbeste eman didazu, eta ni
+Zuk hainbeste eman didazu, eta ni
 ez naiz zuri erantzuteko gai izan.
 [ffff]
 [8000]
 }
 {
 [8000]
-†Horregatik nahi dut orain zure
+Horregatik nahi dut orain zure
 bizitza bizitzea. Egin zuretzat
 onena, James.
 [ffff]

@@ -583,7 +583,7 @@ Izen bat dago idatzita hilarrian.
 [1000]
 [8000]
 [01ff]
-Miriam K.: «Traidorea»
+Miriam K.: "Traidorea"
 [ffff]
 [9000]
 }

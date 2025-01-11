@@ -18,21 +18,21 @@ Urtegiaren monumentua
 {
 [8000]
 [fbff]
-«Goizerako ibilbidea»
+"Goizerako ibilbidea"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Nola izan bikote zoriontsua»
+"Nola izan bikote zoriontsua"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Heriotza aukeratu»
+"Heriotza aukeratu"
 [ffff]
 [8000]
 }
@@ -46,14 +46,14 @@ Hormako harramazkak
 {
 [8000]
 [fbff]
-«Hiru altuerako hiru orratz desberdinak dira»
+"Hiru altuerako hiru orratz desberdinak dira"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hiru tamaina desberdin, denborak aurrera egin zuen»
+"Hiru tamaina desberdin, denborak aurrera egin zuen"
 [ffff]
 [8000]
 }
@@ -88,35 +88,35 @@ Argazki hautsia
 {
 [8000]
 [fbff]
-«Tim maitea»
+"Tim maitea"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hiru txanpon distiratsu bost zulotan»
+"Hiru txanpon distiratsu bost zulotan"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Lehenengo, konparaezinaren idazpena dago»
+"Lehenengo, konparaezinaren idazpena dago"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Eterrera jaurtitako txanponak bezala»
+"Eterrera jaurtitako txanponak bezala"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Eskuinean emakumea dago»
+"Eskuinean emakumea dago"
 [ffff]
 [8000]
 }
@@ -158,42 +158,42 @@ Teilatuaren egunkaria
 {
 [8000]
 [fbff]
-«Zenbakiak buelta bueltaka»
+"Zenbakiak buelta bueltaka"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Louise»
+"Louise"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Aingerua da»
+"Aingerua da"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Koji la yave del direktor»
+"Koji la yave del direktor"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Gozokidxe edo ostidxe»
+"Gozokidxe edo ostidxe"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [8000]
 }
@@ -228,14 +228,14 @@ Odolez bustitako egunkaria
 {
 [8000]
 [fbff]
-«Norbaitek salba nazala»
+"Norbaitek salba nazala"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hildako gizonak»
+"Hildako gizonak"
 [ffff]
 [8000]
 }
@@ -249,7 +249,7 @@ Kondenatuaren egunkaria
 {
 [8000]
 [fbff]
-«Bekatariaren buruaren gaineko heriotza»
+"Bekatariaren buruaren gaineko heriotza"
 [ffff]
 [8000]
 }
@@ -270,7 +270,7 @@ Kutxaren argazkia
 {
 [8000]
 [fbff]
-«badakit, badakit kutxaren zenbakia»
+"badakit, badakit kutxaren zenbakia"
 [ffff]
 [8000]
 }
@@ -326,14 +326,14 @@ Erakusleihoko egunkariak
 {
 [8000]
 [fbff]
-«Galdutako haurra ez zegoen»
+"Galdutako haurra ez zegoen"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Bekatariaren buruaren gaineko heriotza»
+"Bekatariaren buruaren gaineko heriotza"
 [ffff]
 [8000]
 }
@@ -415,7 +415,7 @@ inguruan mamuak ikusi dituela.
 [8000]
 [faff]
 [01ff]
-«Goizerako ibilbidea»
+"Goizerako ibilbidea"
 [ffff]
 [1000]
 [8000]
@@ -455,7 +455,7 @@ liburu konplexuak irakurtzen.
 [8000]
 [faff]
 [01ff]
-«Nola izan bikote zoriontsua»
+"Nola izan bikote zoriontsua"
 [ffff]
 [1000]
 [8000]
@@ -500,7 +500,7 @@ prest egotea da.
 [8000]
 [faff]
 [01ff]
-«Heriotza aukeratu»
+"Heriotza aukeratu"
 [ffff]
 [1000]
 [8000]
@@ -614,7 +614,7 @@ arrailduta.
  Walter Sullivanen eskolakide ohi batek,
 Pleasant River bere jaioterrikoak,
 zera adierazi zuen:
-«Ez zirudien haur bat
+"Ez zirudien haur bat
 hiltzeko gai zenik.
 [ffff]
 [1000]
@@ -625,19 +625,19 @@ hiltzeko gai zenik.
 baino lehentxeago gauza
 arraroak esaten zituela,
 plana betez:
-«Hil egin nahi nau. Zigortu egin
+"Hil egin nahi nau. Zigortu egin
 nahi nau. Munstroa... deabru gorria.
 Barkatu. Nik egin nuen,
-baina ez nintzen ni izan!».
+baina ez nintzen ni izan!".
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
  Lagunak gaineratu zuen:
-«Orain pentsatzen ari naizela,
+"Orain pentsatzen ari naizela,
 uste dut torlojuren bat
-falta zitzaiola».
+falta zitzaiola".
 [ffff]
 [9000]
 }
@@ -693,7 +693,6 @@ Argitaratzailea: Roger Widmark
 [8000]
 [faff]
 [e0ff]
- >> << >>
 [ffff]
 [9000]
 }
@@ -1266,7 +1265,7 @@ Ez naiz kriminala.
 [8000]
 [faff]
 [01ff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [1000]
 [8000]
@@ -1336,8 +1335,8 @@ ez zen portura itzuli.
 [01ff]
  Garai hartako artikulu batek hauxe
 besterik ez zuen esaten:
-«litekeena da arrazoiren batengatik
-hondoratu izana».
+"litekeena da arrazoiren batengatik
+hondoratu izana".
  Poliziaren bilaketa gorabehera,
 gaur arte ez da aurkitu ez
 itsasontziaren hondarrik, ez
@@ -1784,8 +1783,8 @@ gordeta dago.
 {
 [8000]
 [01ff]
-«Egun lainotsua,
-epaiketaren hondarrak»
+"Egun lainotsua,
+epaiketaren hondarrak"
 [ffff]
 [9000]
 }
@@ -1931,14 +1930,14 @@ Orain desagertu egin da.
 {
 [8000]
 [fbff]
-«Gutuna eta giltza ingelesa daude»
+"Gutuna eta giltza ingelesa daude"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Giltza parkean dago»
+"Giltza parkean dago"
 [ffff]
 [8000]
 }
@@ -2030,7 +2029,7 @@ arimaz erruki dadin.
 {
 [8000]
 [fbff]
-«Sotoko sotoa»
+"Sotoko sotoa"
 [ffff]
 [8000]
 }

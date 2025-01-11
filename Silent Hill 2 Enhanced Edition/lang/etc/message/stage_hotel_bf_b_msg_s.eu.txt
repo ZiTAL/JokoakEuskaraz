@@ -1,42 +1,7 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 5
+﻿--------------- strings=1 language=english
+---------------
+SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 5
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:
-{
-[8000]
-Horma bat.
-Ezin naiz hemendik pasatu.
-[ffff]
-[9000]
-}
-{
-[8000]
-Disko-makina bat.
-Orain ez dit ezertarako balio.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hozkailua ez da irekitzen.
-[ffff]
-[9000]
-}
-{
-[8000]
-Armairua ez da irekitzen.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hemen ez dago ezer erabilgarririk.
-[ffff]
-[9000]
-}
+BEGIN_SOURCE:{[8000]Horma bat.Ezin naiz hemendik pasatu.[ffff][9000]}{[8000]Disko-makina bat.Orain ez dit ezertarako balio.[ffff][9000]}{[8000]Hozkailua ez da irekitzen.[ffff][9000]}{[8000]Armairua ez da irekitzen.[ffff][9000]}{[8000]Hemen ez dago ezer erabilgarririk.[ffff][9000]}

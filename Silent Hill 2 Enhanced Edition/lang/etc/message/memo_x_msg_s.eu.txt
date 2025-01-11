@@ -18,21 +18,21 @@ Urtegiaren monumentua
 {
 [8000]
 [fbff]
-«Goizerako ibilbidea»
+"Goizerako ibilbidea"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Nola izan bikote zoriontsua»
+"Nola izan bikote zoriontsua"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Heriotza aukeratu»
+"Heriotza aukeratu"
 [ffff]
 [8000]
 }
@@ -46,14 +46,14 @@ Hormako harramazkak
 {
 [8000]
 [fbff]
-«Hiru altuerako hiru orratz desberdinak dira»
+"Hiru altuerako hiru orratz desberdinak dira"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hiru tamaina desberdin, denborak aurrera egin zuen»
+"Hiru tamaina desberdin, denborak aurrera egin zuen"
 [ffff]
 [8000]
 }
@@ -88,35 +88,35 @@ Argazki hautsia
 {
 [8000]
 [fbff]
-«Tim maitea»
+"Tim maitea"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hiru txanpon distiratsu bost zulotan»
+"Hiru txanpon distiratsu bost zulotan"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Lehenengo, konparaezinaren idazpena dago»
+"Lehenengo, konparaezinaren idazpena dago"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Eterrera jaurtitako txanponak bezala»
+"Eterrera jaurtitako txanponak bezala"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Eskuinean dama dago»
+"Eskuinean dama dago"
 [ffff]
 [8000]
 }
@@ -158,42 +158,42 @@ Teilatuaren egunkaria
 {
 [8000]
 [fbff]
-«Buelta bueltaka zenbakiak»
+"Buelta bueltaka zenbakiak"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Louise»
+"Louise"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Aingerua da»
+"Aingerua da"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Koji la yave del direktor»
+"Koji la yave del direktor"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Gozokidxe edo ostidxe»
+"Gozokidxe edo ostidxe"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [8000]
 }
@@ -228,14 +228,14 @@ Odolez bustitako egunkaria
 {
 [8000]
 [fbff]
-«Norbaitek salba nazala»
+"Norbaitek salba nazala"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Hildako gizonak»
+"Hildako gizonak"
 [ffff]
 [8000]
 }
@@ -249,7 +249,7 @@ Kondenatuaren egunkaria
 {
 [8000]
 [fbff]
-«Bekatariaren buruaren gaineko heriotza»
+"Bekatariaren buruaren gaineko heriotza"
 [ffff]
 [8000]
 }
@@ -270,7 +270,7 @@ Kutxaren argazkia
 {
 [8000]
 [fbff]
-«badakit, badakit kutxaren zenbakia»
+"badakit, badakit kutxaren zenbakia"
 [ffff]
 [8000]
 }
@@ -326,14 +326,14 @@ Erakusleihoko egunkariak
 {
 [8000]
 [fbff]
-«Galdutako haurra ez zegoen»
+"Galdutako haurra ez zegoen"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Bekatariaren buruaren gaineko heriotza»
+"Bekatariaren buruaren gaineko heriotza"
 [ffff]
 [8000]
 }
@@ -369,11 +369,9 @@ metroak urtegi bat ziren organikoki,
 baina gero lubetak egin ziren.
 [f7ff]
 [f7ff]
-rod
 [f7ff]
 [f7ff]
 [f7ff]
-raplena
 [f7ff]
 [ffff]
 [1000]
@@ -387,10 +385,6 @@ zuten ura hona isurtzen zutelako.
 [f7ff]
 [f7ff]
 [f7ff]
-[f7ff]
-
-[f7ff]
-verdu
 [f7ff]
 [f7ff]
 [f7ff]
@@ -416,7 +410,7 @@ inguruan mamuak ikusi dituela.
 [8000]
 [faff]
 [01ff]
-«Goizerako ibilbidea»
+"Goizerako ibilbidea"
 [ffff]
 [1000]
 [8000]
@@ -456,7 +450,7 @@ irakurtzen.
 [8000]
 [faff]
 [01ff]
-«Nola izan bikote zoriontsua»
+"Nola izan bikote zoriontsua"
 [ffff]
 [1000]
 [8000]
@@ -501,7 +495,7 @@ zorte apur batekin, dena ondo aterako da.
 [8000]
 [faff]
 [01ff]
-«Heriotza aukeratu»
+"Heriotza aukeratu"
 [ffff]
 [1000]
 [8000]
@@ -619,7 +613,7 @@ arrailduta.
  Walter Sullivanen eskolakide ohi batek,
 Pleasant River bere jaioterrikoak,
 zera adierazi zuen:
-«Ez zirudien haur bat
+"Ez zirudien haur bat
 hiltzeko gai zenik.
 [ffff]
 [1000]
@@ -640,8 +634,8 @@ baina ez nintzen ni izan! ".
 [faff]
 [01ff]
  Lagunak gaineratu zuen:
-«Orain pentsatzen ari naizela,
-uste dut ez zegoela burutik sano».
+"Orain pentsatzen ari naizela,
+uste dut ez zegoela burutik sano".
 [ffff]
 [9000]
 }
@@ -1257,7 +1251,7 @@ lapurtu. Ez naiz kriminala.
 [8000]
 [faff]
 [01ff]
-«Ibaiertzeko paisaia»
+"Ibaiertzeko paisaia"
 [ffff]
 [1000]
 [8000]
@@ -1327,8 +1321,8 @@ ez zen portura itzuli.
 [01ff]
  Garai hartako artikulu batek
 hauxe besterik ez zuen esaten:
-«litekeena da arrazoiren
-batengatik hondoratu izana».
+"litekeena da arrazoiren
+batengatik hondoratu izana".
  Poliziaren bilaketa gorabehera,
 gaur arte ez da aurkitu ez
 itsasontziaren hondarrik, ez
@@ -1770,8 +1764,8 @@ dago gordeta.
 {
 [8000]
 [01ff]
-«Egun lainotsua,
-epaiketaren hondarrak»
+"Egun lainotsua,
+epaiketaren hondarrak"
 [ffff]
 [9000]
 }
@@ -1913,14 +1907,14 @@ Orain desagertu da.
 {
 [8000]
 [fbff]
-«Gutun bat eta giltza ingeles bat daude»
+"Gutun bat eta giltza ingeles bat daude"
 [ffff]
 [8000]
 }
 {
 [8000]
 [fbff]
-«Giltza parkean dago»
+"Giltza parkean dago"
 [ffff]
 [8000]
 }
@@ -2011,7 +2005,7 @@ Jainkoari zure betiko arimaz erruki dadin.
 {
 [8000]
 [fbff]
-«Sotoko sotoa»
+"Sotoko sotoa"
 [ffff]
 [8000]
 }
@@ -2138,7 +2132,7 @@ Entziklopedia botanikoa: Akazia
 {
 [8000]
 [fbff]
-«Memoria galduak»
+"Memoria galduak"
 [ffff]
 [8000]
 }
@@ -2189,7 +2183,7 @@ azpifamilia.
  Lore hori edo zuri txikiak
 ditu, mahats-mordoka hazten direnak.
  Bere barietate arrunten artean
-«goma-zuhaitza» dago.
+"goma-zuhaitza" dago.
 [ffff]
 [1000]
 [8000]
@@ -2234,8 +2228,8 @@ Memoria galduak
 [8000]
 [faff]
 [01ff]
-Konfiantza osoa dut — fedea ere dei
-zeniezaiokete — «hildakoen berpizkundea»
+Konfiantza osoa dut - fedea ere dei
+zeniezaiokete - "hildakoen berpizkundea"
 izenez ezagutzen den mirarian.
 [ffff]
 [1000]

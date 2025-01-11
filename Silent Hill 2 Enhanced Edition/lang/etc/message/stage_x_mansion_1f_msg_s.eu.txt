@@ -610,9 +610,9 @@ Memoria galduak
 [8000]
 [faff]
 [01ff]
-Konfiantza osoa dut — fedea ere
-dei zeniezaiokete —
-«hildakoen berpizkundea»
+Konfiantza osoa dut - fedea ere
+dei zeniezaiokete -
+"hildakoen berpizkundea"
 izenez ezagutzen den mirarian.
 [ffff]
 [1000]

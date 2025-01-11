@@ -58,7 +58,6 @@ Ohar moduko bat du.
 [8000]
 [faff]
 [e0ff]
- >> << >>
 [ffff]
 [9000]
 }
@@ -70,7 +69,6 @@ Ohar bat dago karteran.
 [8000]
 [faff]
 [e0ff]
- >> << >>
 [ffff]
 [9000]
 }

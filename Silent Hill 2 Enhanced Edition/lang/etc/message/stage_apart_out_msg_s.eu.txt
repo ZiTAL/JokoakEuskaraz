@@ -47,8 +47,8 @@ arrailduta.
  Walter Sullivanen eskolakide
 ohi batek, Pleasant River
 bere jaioterrikoak, zera
-adierazi zuen: «Ez zirudien
-haur bat hiltzeko gai zenik.
+adierazi zuen: "Ez zirudien
+haur bat hiltzeko gai zenik".
 [ffff]
 [1000]
 [8000]
@@ -62,16 +62,16 @@ nahi nau. Zigortu egin
 nahi nau. Munstroa...
 deabru gorria. Barkatu.
 Nik egin nuen, baina ez
-nintzen ni izan!"».
+nintzen ni izan!".
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
  Lagunak gaineratu zuen:
-«Orain pentsatzen ari naizela,
+"Orain pentsatzen ari naizela,
 uste dut torlojuren bat
-falta zitzaiola».
+falta zitzaiola".
 [ffff]
 [9000]
 }
@@ -107,8 +107,8 @@ zeukan lepoan.
  Walter Sullivanen eskolakide ohi
 batek, Pleasant River bere
 jaioterrikoak, zera adierazi zuen:
-«Ez zirudien haur bat hiltzeko
-gai zenik.
+"Ez zirudien haur bat hiltzeko
+gai zenik".
 [ffff]
 [1000]
 [8000]
@@ -121,16 +121,16 @@ esaten zituela, plana betez:
 egin nahi nau. Munstroa...
 deabru gorria. Barkatu. Nik
 egin nuen, baina ez nintzen
-ni izan!"».
+ni izan!".
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
  Lagunak gaineratu zuen:
-«Orain pentsatzen ari naizela,
+"Orain pentsatzen ari naizela,
 uste dut torlojuren bat
-falta zitzaiola».
+falta zitzaiola".
 [ffff]
 [9000]
 }

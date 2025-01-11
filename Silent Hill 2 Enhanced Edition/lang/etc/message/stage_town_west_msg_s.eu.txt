@@ -130,8 +130,8 @@ herriaren kondairatik sortzen da.
 [8000]
 [faff]
 [01ff]
-Leku horri «Espiritu isilen lekua»
-esaten zitzaion. «Izpiritu» gisa
+Leku horri "Espiritu isilen lekua"
+esaten zitzaion. "Izpiritu" gisa
 ulertzen zituzten, hildako senideak
 ez ezik, zuhaitzetan, harkaitzetan
 eta uretan bizi direla uste zuten
