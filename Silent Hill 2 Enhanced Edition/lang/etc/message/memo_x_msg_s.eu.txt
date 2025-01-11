@@ -762,8 +762,8 @@ urrundik ikusi behar ditu
 [fbff]
 [faff]
 [01ff]
-Agurea sugearen ondokoa
-ez dago
+Sugearen ondoan zegoen
+agurea ez dago
 [ffff]
 [1000]
 [8000]
@@ -902,10 +902,10 @@ ikaratu egiten da beldurrez
 [fbff]
 [faff]
 [01ff]
-Isilenak bere irrikak
-ase ditu
-Bere nahiak txikitxean
-gitxiago bekatuz
+Bekatari nagusiarentzat
+bere posizioa aukeratua dago
+Eta zortea badu agian
+bere arima bedeinkatu
 [ffff]
 [1000]
 [8000]

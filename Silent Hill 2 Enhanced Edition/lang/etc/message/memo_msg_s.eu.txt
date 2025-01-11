@@ -742,7 +742,7 @@ emaztearen limurtzailea dago.
 [faff]
 [01ff]
 Haizeak emakumearen
-bizkar jotzen du
+gibeletik jotzen du
 [ffff]
 [1000]
 [8000]
@@ -757,8 +757,8 @@ urrundik ikusi behar ditu
 [fbff]
 [faff]
 [01ff]
-Agurea ez dago
-sugearen ondoan.
+Sugearen ondoan zegoen
+agurea ez dago
 [ffff]
 [1000]
 [8000]
@@ -778,34 +778,34 @@ ustelduko da.
 Lehenik Paregabearen
 eserlekua dago, Bera,
 isila eta hutsa, ankerra
-eta krudela Bere ondoan
-esertzen da bat badakiena
-eta onartuko duena morroiaren
-lekua tronuaren
-ondoan dagoela
+eta krudela
+Bere ondoan esertzen da bat
+badakiena eta onartuko
+duena morroiaren lekua
+tronuaren ondoan dagoela
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Hamarnaka oin, eta hatz bakar
-bat ere ez, bere ondoan
-ezkutatuta dagoen Amets
-seduzitzailea abiatuko da,
-infernuak maite duen izakia,
-gizonarengandik urrun,
-damarengandik hurbil.
-
+Dozenaka oin,
+eta behatz bakar bat ere ez,
+Izkutatuta dagoen hori
+berarekin abiatuko da
+Amets-seduktorea,
+infernuak maite duena
+Gizonarengandik urrun,
+emakumetik hurbil
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Gizonak eta emakumeak dena
-ikus dezakete belearen
-deiari jaramonik
+Gizonak eta emakumeak
+dena ikus dezakete
+belearen deiari jaramonik
 egin gabe
 [ffff]
 [1000]
@@ -814,19 +814,17 @@ egin gabe
 [faff]
 [01ff]
 Isilak eta ezkutuak
-agian biak izango
-dira eta ez daude
-hor zuk ikusteko.
+agian biak izango dira
+Eta ez daude hor
+zuk ikusteko
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Egon beharko luketen
-lekura itzulita,
-bedeinkazioa zure gainera
-eroriko litzateke.
+Dagokien lekura bueltatuz
+Zuretzako bedeinkapena
 [ffff]
 [1000]
 [8000]
@@ -834,9 +832,9 @@ eroriko litzateke.
 [faff]
 [01ff]
 Horrela hitz egiten dut,
-izar polarrari bizkarra
-emanez Eguzkiaren sorrera da
-dena hasiko den tokia
+izar polarrari bizkarra emanez
+Eguzkiaren sorrera da dena
+hasiko den tokia
 [ffff]
 [9000]
 }
@@ -872,37 +870,27 @@ gabeko zoriona
 Lehen nota ez du
 jotzen enastatuak,
 baina hor sortzen da
-bekatu guztia.
+bekatu guztia
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Bizitzaren eramailea eta
-zorigaitzen eramailea
-Azken honetatik bekatuek
-ez dute mesfidantzarik sortzen
+Bizitzaren jabea
+eta zorigaitzen jabea
+Azken honen bekatuek ez dute
+mesfidantzarik sortzen
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Agurearen hilarriari urduri
-jarraitzen badio ere,
-amorfoaren arima ikaratu
-egiten da beldurrez.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Isilenak bere irrikak
-ase ditu, Pecak bere
-nahiak arindu
-dituelako izan ezik.
+Agurearen hilarriari
+urduri jarraitzen badio ere
+Amorfoaren arima
+ikaratu egiten da beldurrez
 [ffff]
 [1000]
 [8000]
@@ -912,7 +900,17 @@ dituelako izan ezik.
 Bekatari nagusiarentzat
 bere posizioa aukeratua dago
 Eta zortea badu agian
-bere arima ungida izango da
+bere arima bedeinkatu
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Bekatari nagusiarentzat
+bere posizioa aukeratua dago
+Eta zortea badu agian
+bere arima bedeinkatu
 [ffff]
 [9000]
 }

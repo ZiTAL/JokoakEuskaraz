@@ -1,4 +1,3 @@
-TODO
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
@@ -11,7 +10,7 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Una foto...
+Argazki bat...
 [ffff]
 [9000]
 }
@@ -20,48 +19,48 @@ Una foto...
 [fbff]
 [faff]
 [01ff]
-Tres brillantes monedas
-en cinco agujeros están
+Hiru txanpon distiratsu
+bost zulotan
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-En un extremo se halla el
-seductor de la mujer de Adán
+Mutur batean Adanen
+emaztearen limurtzailea dago
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Sopla el viento a
-espaldas de la mujer
+Haizeak emakumearen
+gibeletik jotzen du
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Y aquel que no tiene forma, el nulo,
-de lejos los tiene que ver
+Eta formarik ez duenak, deusezak,
+urrundik ikusi behar ditu
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-El anciano junto a la
-serpiente no está
+Sugearen ondoan zegoen
+agurea ez dago
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Es a la izquierda del
-prisionero donde se pudrirá
+Presoaren ezkerraldean
+ustelduko da.
 [ffff]
 [9000]
 }
@@ -70,67 +69,66 @@ prisionero donde se pudrirá
 [fbff]
 [faff]
 [01ff]
-Primero está el asiento
-del Incomparable, Él,
-silencioso y vacío,
-inhumano y cruel
-Junto a él se sienta
-uno que sabe y admitirá
-Que el lugar del criado
-junto al trono está
+Lehenik Paregabearen
+eserlekua dago, Bera,
+isila eta hutsa, ankerra
+eta krudela
+Bere ondoan esertzen da bat
+badakiena eta onartuko
+duena morroiaren lekua
+tronuaren ondoan dagoela
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Docenas de pies,
-y ni un solo dedo tendrá
-Aquel que está oculto
-junto a él partirá
-Seductor de sueños,
-ser que el infierno ama
-Alejado del hombre,
-cercano a la dama
+Dozenaka oin,
+eta behatz bakar bat ere ez,
+Izkutatuta dagoen hori
+berarekin abiatuko da
+Amets-seduktorea,
+infernuak maite duena
+Gizonarengandik urrun,
+emakumetik hurbil
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Hombre y mujer
-todo lo pueden ver
-A la llamada del cuervo
-sin atender
+Gizonak eta emakumeak
+dena ikus dezakete
+belearen deiari jaramonik
+egin gabe
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Silenciosos y ocultos
-puede que los dos sean
-Y no están ahí
-para que tú los veas
+Isilak eta ezkutuak
+agian biak izango dira
+Eta ez daude hor
+zuk ikusteko
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Devolviéndolos donde
-estar deberían
-La bendición sobre ti caería
+Dagokien lekura bueltatuz
+Zuretzako bedeinkapena
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Así hablo, dando la espalda
-a la estrella polar
-El nacimiento del sol es
-donde todo va a empezar
+Horrela hitz egiten dut,
+izar polarrari bizkarra emanez
+Eguzkiaren sorrera da dena
+hasiko den tokia
 [ffff]
 [9000]
 }
@@ -139,158 +137,152 @@ donde todo va a empezar
 [fbff]
 [faff]
 [01ff]
-Como monedas lanzadas
-al éter brumoso
-Nuestras almas caerán,
-sus culpas les habrán hundido
-A la Tierra han de llegar
-en un descenso doloroso
-Para "invertir" los pecados
-que han cometido
+Eter lanbrotsura jaurtitako
+txanponak bezala Gure arimak
+eroriko dira, haien erruak
+hondoratuko dituzte Lurra
+jaitsiera mingarri batean
+iritsiko da Egin dituzten
+bekatuak "alderantzikatzeko"
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Solo aquellos que entonen
-el mea culpa tres veces
-Conocerán la dicha,
-una felicidad sin creces
+Mea culpa hiru aldiz abesten
+dutenek bakarrik ezagutuko
+dute zoriona, hazirik
+gabeko zoriona
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-La primera nota no la
-toca el enastado
-Aunque es ahí donde
-surge todo pecado
+Lehen nota ez du
+jotzen enastatuak,
+baina hor sortzen da
+bekatu guztia
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-La portadora de vida
-y portadora de desgracias
-De esta última los pecados
-no levantan suspicacias
+Bizitzaren jabea
+eta zorigaitzen jabea
+Azken honen bekatuek ez dute
+mesfidantzarik sortzen
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Aunque a la estela del anciano
-persigue nerviosa
-El alma de la amorfa
-se estremece temerosa
+Agurearen hilarriari
+urduri jarraitzen badio ere
+Amorfoaren arima
+ikaratu egiten da beldurrez
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-El más silencioso
-ha saciado sus anhelos
-Peca menos al haber
-mitigado sus deseos
+Bekatari nagusiarentzat
+bere posizioa aukeratua dago
+Eta zortea badu agian
+bere arima bedeinkatu
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Para el mayor de los pecadores
-su posición está elegida
-Y si tiene suerte
-tal vez su alma sea ungida
+Bekatari nagusiarentzat
+bere posizioa aukeratua dago
+Eta zortea badu agian
+bere arima bedeinkatu
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay algo escrito en la mesa.
+Zerbait dago idatzita mahaian.
 [ffff]
 [9000]
 }
 {
 [8000]
-En la mesa hay una hilera
-de cinco hoyos circulares
-de unos tres centímetros.
+Mahaian, hiru zentimetro
+inguruko bost zulo
+biribileko ilara bat dago.
 [ffff]
 [9000]
 }
 {
 [8000]
-¿En qué agujero vas a introducir
-la moneda?
+Zein zulotan sartuko
+duzu txanpona?
 [ffff]
 [9000]
 }
 {
 [8000]
-¿Qué moneda vas a sacar?
+Zer txanpon aterako duzu?
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-moneda
-del prisionero
+Presoaren txanpona
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-llave
-de la casa de Lyne
+Lyneren etxeko giltza
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado un 
 [03ff]
-crisma blanco
+Krisma zuria
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada interesante
-sobre el escritorio.
+Idazmahaian ez dago
+ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Es usted...
+Zu zara...
 [ffff]
 [8000]
 }
 {
 [8000]
-Sí...
+Bai...
 [ffff]
 [8000]
 }
 {
 [8000]
-Soy James.
+James naiz.
 [ffff]
 [8000]
 }
@@ -302,293 +294,293 @@ Angela...
 }
 {
 [8000]
-Angela... De acuerdo.
+Angela... Ondo da.
 [ffff]
 [8000]
 }
 {
 [8000]
-No sé lo que está planeando...
+Ez dakit zer ari den prestatzen...
 [ffff]
 [8000]
 }
 {
 [8000]
-pero siempre hay alternativas.
+baina beti daude alternatibak.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿De verdad?
+Benetan?
 [ffff]
 [8000]
 }
 {
 [8000]
-Pero...
+Baina...
 [ffff]
 [8000]
 }
 {
 [8000]
-Usted es como yo.
+Zu ni bezalakoa zara.
 [ffff]
 [8000]
 }
 {
 [8000]
-Es más fácil huir.
+Errazagoa da ihes egitea.
 [ffff]
 [8000]
 }
 {
 [8000]
-Y esto es lo que nos merecemos.
+Eta hori da merezi duguna.
 [ffff]
 [8000]
 }
 {
 [8000]
-No. No soy como usted.
+Ez. Ez naiz zu bezalakoa.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Está asustado?
+Beldurtuta al zaude?
 [ffff]
 [8000]
 }
 {
 [8000]
-Eh... Lo siento.
+Eh... Sentitzen dut.
 [ffff]
 [8000]
 }
 {
 [8000]
-No importa...
+Berdin dio...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ha encontrado a su madre?
+Ama aurkitu al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-Aún no. No la he visto.
+Oraindik ez. Ez dut ikusi.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ella vivía en este edificio
-de apartamentos?
+Apartamentu-eraikin
+honetan bizi zen?
 [ffff]
 [8000]
 }
 {
 [8000]
-No lo sé...
+Ez dakit...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Sólo sabe que vivía
-en esta ciudad?
+Hiri honetan bizi zela
+bakarik al dakizu?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Qué ha dicho?
+Zer esan du?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Cómo lo sabe?
+Nola dakizu hori?
 [ffff]
 [8000]
 }
 {
 [8000]
-Bueno...
+Tira...
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo he supuesto, porque
-la está buscando por aquí.
+Suposatu dut,
+zure bila zabiltzalako.
 [ffff]
 [8000]
 }
 {
 [8000]
-¡¿Cómo iba a saberlo?!
+Nola jakingo nuen ba?
 [ffff]
 [8000]
 }
 {
 [8000]
-Claro...
+Noski...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Estoy en lo cierto?
+Zuzen al nago?
 [ffff]
 [8000]
 }
 {
 [8000]
-Estoy tan cansada...
+Hain nekatuta nago...
 [ffff]
 [8000]
 }
 {
 [8000]
-Bueno, ¿entonces por qué
-ha venido a esta ciudad?
+Orduan, zergatik etorri zara hiri honetara?
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo... Lo siento.
+Zera... Sentitzen dut.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ha encontrado...
-a la persona que busca?
+Aurkitu al duzu...
+bilatzen ari zinen pertsona?
 [ffff]
 [8000]
 }
 {
 [8000]
-Aún no.
+Oraindik ez.
 [ffff]
 [8000]
 }
 {
 [8000]
-Se llama Mary. Es mi esposa...
+Mari du izena. Nire emaztea da...
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo siento.
+Sentitzen dut.
 [ffff]
 [8000]
 }
 {
 [8000]
-No importa.
+Berdin dio.
 [ffff]
 [8000]
 }
 {
 [8000]
-Pero... está muerta.
-No sé por qué creo que está aquí.
+Baina... hilda dago.
+Ez dakit zergatik uste dudan hemen dagoela.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Está muerta?
+Hilda al dago?
 [ffff]
 [8000]
 }
 {
 [8000]
-No se preocupe, no estoy loco.
-Por lo menos, no creo estarlo...
+Ez kezkatu, ez nago erotuta.
+Ez dut uste...
 [ffff]
 [8000]
 }
 {
 [8000]
-Tengo que encontrar a mi mamá...
+Ama aurkitu behar dut...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Quiere que la acompañe?
+Laguntzea nahi al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-Esta ciudad es peligrosa.
+Hiri hau arriskutsua da.
 [ffff]
 [8000]
 }
 {
 [8000]
-Ahora sé lo que quiso decir
-en el cementerio.
+Orain badakit zer esan
+nahi zuen hilerrian.
 [ffff]
 [8000]
 }
 {
 [8000]
-Me las apañaré.
-Además, le haría perder el tiempo.
+Moldatuko naiz.
+Gainera, ez dut nire erruz
+denpora galtzerik nahi.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Qué me dice de eso?
+Zer diozu horretaz?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Me... lo guardaría?
+Gordeko zenidake?
 [ffff]
 [8000]
 }
 {
 [8000]
-Claro. No hay problema.
+Jakina. Ez dago arazorik.
 [ffff]
 [8000]
 }
 {
 [8000]
-Si me lo quedo...
+Hartzen badut...
 [ffff]
 [8000]
 }
 {
 [8000]
-no sé que podría hacer.
+ez dakit zer egin dezakedan.
 [ffff]
 [8000]
 }
 {
 [8000]
-¡No!
+Ez!
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo siento... He sido mala...
-Por favor, no...
+Sentitzen dut... Gaiztoa izan naiz...
+Mesedez, ez...
 [ffff]
 [8000]
 }
@@ -597,92 +589,91 @@ Por favor, no...
 [fbff]
 [faff]
 [01ff]
-A la derecha está la dama.
-A la izquierda el anciano.
+Eskuinean, dama dago.
+Ezkerrean agurea.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-En el centro se arrastra el otro.
+Erdian bestea arrastaka eramaten da.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Ahora sólo quedan dos espacios,
-pero aún no temas nada,
-el enigma está resuelto.
-El enigma está resuelto.
+Orain bi espazio baino ez dira geratzen,
+baina oraindik ez izan beldurrik,
+enigma konponduta dago.
+Enigma konponduta dago.
 [ffff]
 [9000]
 }
 {
 [8000]
-La puerta no se abre.
+Atea ez da irekitzen.
 [ffff]
 [1000]
 [8000]
-Es como si alguna fuerza
-mantuviera la puerta cerrada
-por el otro lado...
+Badirudi indarren
+batek atea beste
+aldetik itxita duela...
 [ffff]
 [1000]
 [8000]
-y no quiera dejarme pasar
-hasta que encuentre algo...
-o a alguien...
+eta ez niri pasatzen utzi nahi,
+zerbait aurkitu arte...
+edo norbait aurkitu arte...
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada en la estantería
-que parezca de utilidad.
+Apalategian ez dago ezer
+erabilgarria dirudienik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un osito de peluche.
-Sería del chico que vivía aquí.
+Peluxezko hartz txiki bat.
+Hemen bizi zen mutilarena izango zen.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un cuadro.
-No tiene nada especialmente
-interesante.
+Koadro bat.
+Ez du ezer bereziki interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay revistas tiradas por el suelo.
-No tienen nada extraño.
+Aldizkariak daude lurrean botata.
+Ez dute ezer arrarorik.
 [ffff]
 [9000]
 }
 {
 [8000]
-No veo nada útil por aquí.
+Hemen ez dut ezer erabilgarririk ikusten.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada que parezca
-de utilidad.
+Ez dago ezer
+erabilgarria dirudienik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Ahí no hay nada que parezca
-tener utilidad.
+Hor ez dago ezer
+erabilgarria dirudienik.
 [ffff]
 [9000]
 }
