@@ -1,4 +1,3 @@
-TODO
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
@@ -11,15 +10,14 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Aprieto el botón,
-pero no pasa nada.
+Botoiari ematen diot,
+baina ez da ezer gertatzen.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un piano normal.
-Nada de qué preocuparse.
+Piano normala.
 [ffff]
 [9000]
 }
@@ -27,144 +25,144 @@ Nada de qué preocuparse.
 [8000]
 [faff]
 [01ff]
-Sr. James Sunderland:
+James Sunderland jauna:
 
-La cinta de vídeo que se dejó
-está guardada en la oficina
-del primer piso.
+Utzitako zinta
+lehen solairuko
+bulegoan dago.
 [ffff]
 [9000]
 }
 {
 [8000]
-Una caja de música.
+Musika-kutxa bat.
 [ffff]
 [9000]
 }
 {
 [8000]
-¿Vas a dar cuerda
-a la caja de música?
+Musika-kutxa martxan
+jarriko al duzu?
 [f6ff]
 [ffff]
 [8000]
 }
 {
 [8000]
-Esto no suena bien.
+Honek ez du itxura onik.
 [ffff]
 [1000]
 [8000]
-¿Está rota la caja de música?
-O quizás...
+Musika kutxa hautsita
+al dago? Edo agian...
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 [ffff]
 [1000]
 [8000]
-Tiene una placa delante
-con una inscripción.
+Plaka bat dauka aurrean,
+inskripzio batekin.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-Cuando regrese la extraviada,
-la nota agria se hará dulce.
+Galdutakoa itzultzen denean,
+nota garratza gozoa izango da.
+[ffff]
+[9000]
+}
+{
+[8000]
+?[01ff]
+Hala eta guztiz ere, zoriontsu
+izan zela sinesten jarraitu nahi dut.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-A pesar de ello, quiero seguir
-creyendo que ella fue feliz.
+Printzesaren eserlekua,
+hitzik egiten ez zuena.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que no hablaba.
+Gutizia izan zen zapata
+odoleztatu ziona.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-Fue la codicia la que tiñó
-de sangre su zapato.
+Gauerdian ihes egin zuen
+printzesaren eserlekua.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que escapó a media noche.
+Edertasuna: bedeinkazioa
+eta madarikazioa aldi berean.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-Belleza: Bendición
-y maldición al mismo tiempo.
+Heriotzatik esnatu zen
+printzesaren eserlekua.
+[ffff]
+[9000]
+}
+{
+[8000]
+Oraindik ezin dut hotel hau utzi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Barruan ez dago ezer.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que despertó de la muerte.
-[ffff]
-[9000]
-}
-{
-[8000]
-Todavía no puedo dejar este hotel.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-“Esperándote”...
+"Zure zain"...
 [ffff]
 [1000]
 [8000]
 [00ff]
-¿Qué es esto...?
+Zer da hau...?
 [ffff]
 [1000]
 [8000]
-Habitación 312... Es en la que
-estuvimos Mary y yo...
+312. gela... Mary eta biok
+egon ginena...
 [ffff]
 [1000]
 [8000]
-Mary, ¿estás ahí?
-O quizás...
+Mary, hor zaude?
+Edo agian...
 [ffff]
 [1000]
 [8000]
-Tengo un 
+Badaukat
 [03ff]
-mapa del hotel
-(para huéspedes)
+hotelaren mapa
+(ostalarientzat)
 [00ff]
 .
 [ffff]
@@ -172,262 +170,240 @@ mapa del hotel
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-llave de
-la habitación 312 del hotel
+Hoteleko 312 gelako giltza
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [1000]
 [8000]
-Es la llave de la habitación
-donde nos alojamos Mary y yo...
+Maryk eta biok ostatu hartu
+genuen gelako giltza da...
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado un 
 [03ff]
-mapa del hotel
-(para empleados)
+Hoteleko mapa bat
+(langileentzat)
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado una 
 [03ff]
-llave
-de las escaleras de hotel
+Hoteleko eskaileretako giltza
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-cinta de vídeo
+Bideo-zinta
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado un 
 [03ff]
-abrelatas
+lara-irekigailua
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado una 
 [03ff]
-caja de música
-de Blancanieves
+Edurnezuriren musika-kutxa
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-llave del pez
+Arrainaren giltza 
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He puesto la 
 [03ff]
-caja de música
-de Blancanieves
+Edurnezuriren musika-kutxa
 [00ff]
-.
+jarri dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He puesto la 
 [03ff]
-caja de música
-de la sirenita
+Sirenatxoaren musika-kaxa
 [00ff]
-.
+jarri dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He puesto la 
 [03ff]
-caja de música
-de Cenicienta
+Errauskineren musika-kutxa
 [00ff]
-.
+jarri dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay una 
 [03ff]
-caja de música
-de Blancanieves
+Edurnezuriren musika-kutxa
 [00ff]
-.
+dago.
 [ffff]
 [1000]
 [8000]
-¿Vas a coger
-la caja de música?
+Musika kutxa
+hartuko al duzu?
 [f6ff]
 [ffff]
 [8000]
 }
 {
 [8000]
-Hay una 
 [03ff]
-caja de música
-de la sirenita
+Sirenatxoaren musika-kaxa
 [00ff]
-.
+dago.
 [ffff]
 [1000]
 [8000]
-¿Vas a coger
-la caja de música?
+Musika kutxa
+hartuko al duzu?
 [f6ff]
 [ffff]
 [8000]
 }
 {
 [8000]
-Hay una 
 [03ff]
-caja de música
-de Cenicienta
+Errauskineren musika-kutxa
 [00ff]
-.
+dago.
 [ffff]
 [1000]
 [8000]
-¿Vas a coger
-la caja de música?
+Musika kutxa
+hartuko al duzu?
 [f6ff]
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Te he asustado?
+Izutu egin al zaitut?
 [ffff]
 [8000]
 }
 {
 [8000]
-Sí, la verdad.
+Bai, egia esan.
 [ffff]
 [8000]
 }
 {
 [8000]
-Has venido a encontrar a Mary,
-¿no, James?
+Mary aurkitzera etorri zara,
+ezta, James?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Lo has conseguido?
+Lortu al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-No... ¿tú también has venido
-por ella?
+Ez... zu ere etorri zara
+haren bila?
 [ffff]
 [8000]
 }
 {
 [8000]
-Está aquí, ¿no?
+Hemen dago, ezta?
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Si sabes dónde está, dímelo!
+Non dagoen baldin badakizu, esadazu!
 [ffff]
 [8000]
 }
 {
 [8000]
-Estoy harta de andar.
+Ibiltzeaz nazkatuta nago.
 [ffff]
 [8000]
 }
 {
 [8000]
-Ojalá lo supiera...
+Jakingo banu...
 [ffff]
 [8000]
 }
 {
 [8000]
-Pero si lo dijo en su carta...
+Baina zure gutunean esan bazenuen...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿¡Qué carta!?
+Zer gutun?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Quieres leerla?
+Irakurri nahi al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-Pero no se lo digas a Rachel, eh.
+Baina ez esan Racheli, e.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Quién es Rachel?
+Nor da Rachel?
 [ffff]
 [8000]
 }
 {
 [8000]
-Nuestra enfermera.
+Gure erizaina.
 [ffff]
 [8000]
 }
 {
-[8000]
-Cojí la carta de su cajón.
+?[8000]
+Gutuna bere tiraderatik hartu nuen.
 [ffff]
 [8000]
 }
@@ -435,153 +411,153 @@ Cojí la carta de su cajón.
 [8000]
 [faff]
 [01ff]
-Mi querida Laura:
+Laura maitea:
 
-Le dejo esta carta a Rachel
-para que te la dé cuando
-yo me haya ido.
+Gutun hau Racheli uzten diot,
+ni joandakoan eman diezaiozun.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Ahora estoy muy lejos.
-En un lugar bello y tranquilo.
+Orain oso urrun nago.
+Leku eder eta lasai batean.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Por favor, perdóname
-por no haberme despedido.
+Mesedez, barkatu
+agur ez esateagatik.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Cuídate, Laura.
+Zaindu, Laura.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-No seas muy dura con las monjitas.
+Ez izan oso gogorra mojatxoekin.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Laura, con respecto a James...
-Sé que lo odias porque piensas
-que no me trata bien, pero,
-por favor, dale una oportunidad.
+Laura, Jamesi dagokionez...
+Badakit gorroto duzula uste
+duzulako ez nauela ondo tratatzen
+baina, mesedez, eman aukera bat.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Es cierto que a veces es un poco
-cascarrabias y que no se ríe mucho.
-Pero en el fondo es una buena persona.
+Egia da batzuetan kaskagogor
+samarra dela eta ez duela
+barre askorik egiten.
+Baina, funtsean, pertsona ona da.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
 Laura...
-Te quiero como si fueras
-mi propia hija.
+Nire alaba bazina
+bezala maite zaitut.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Si las cosas hubieran ido
-de otra forma, te habría adoptado.
+?Gauzak bestela joan balira,
+adoptatu egingo zintuzkedan.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Feliz 8.º cumpleaños, Laura.
+Zorionak, Laura.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Tu amiga para siempre,
+Zure laguna betiko,
 Mary
 [ffff]
 [9000]
 }
 {
 [8000]
-Laura... ¿cuántos años tienes?
+Laura... zenbat urte dituzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-Mmm... Cumplí ocho la semana pasada.
+Mmm... Zortzi urte bete nituen joan den astean.
 [ffff]
 [8000]
 }
 {
 [8000]
-Entonces Mary no pudo haber
-muerto... hace tres años...
+Orduan Mary ezin izan zen hil...
+duela hiru urte...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿De verdad está aquí?
+Benetan al zaude hemen?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Es este el lugar bello y tranquilo
-al que se refería?
+Hau al da aipatu duzun
+leku eder eta lasaia?
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary y yo hablamos mucho
-de Silent Hill.
+Maryk eta biok asko hitz egin
+genuen Silent Hill-i buruz.
 [ffff]
 [8000]
 }
 {
 [8000]
-Hasta me enseñó todas sus fotos.
-Estaba como loca por volver.
+Bere argazki guztiak ere erakutsi zizkidan.
+Zoratzen nengoen itzultzeko.
 [ffff]
 [8000]
 }
 {
 [8000]
-Por eso he venido aquí.
+Horregatik etorri naiz hona.
 [ffff]
 [8000]
 }
 {
 [8000]
-Quizás lo entenderás
-cuando veas la otra carta...
+Agian ulertuko duzu
+beste gutuna irakurtzean...
 [ffff]
 [8000]
 }
 {
 [8000]
-La que Mary... ¿Eh?
+Maryk... Eh?
 [ffff]
-[8000]
+?[8000]
 }
 {
 [8000]
-¡Se me habrá caído!
+Erori egingo zitzaidan!
 [ffff]
 [8000]
 }
@@ -593,298 +569,298 @@ Laura...
 }
 {
 [8000]
-¡Tengo que encontrarla!
+Aurkitu behar dut!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Laura!
+Laura!
 [ffff]
 [8000]
 }
 {
 [8000]
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 [ffff]
 [1000]
 [8000]
-Tiene una placa delante
-con una inscripción.
+Plaka bat dauka aurrean,
+inskripzio bat du.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que no hablaba.
+Printzesaren eserlekua,
+hitzik egiten ez zuena.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 [ffff]
 [1000]
 [8000]
-Tiene una placa delante
-con una inscripción.
+Plaka bat dauka aurrean,
+inskripzio bat du.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que escapó a media noche.
+Gauerdian ihes egin zuen
+printzesaren eserlekua.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 [ffff]
 [1000]
 [8000]
-Tiene una placa delante
-con una inscripción.
+Plaka bat dauka aurrean,
+inskripzio bat du.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-El asiento de la princesa
-que despertó de la muerte.
+Heriotzatik esnatu zen
+printzesaren eserlekua.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay un abrelatas
-bajo la cinta de vídeo.
+Lata-irekigailua dago
+bideo-zintaren azpian.
 [ffff]
-[9000]
+?[9000]
 }
 {
 [8000]
-Un piano.
+Pianoa.
 [ffff]
 [1000]
 [8000]
-Recuerdo que a Mary le gustaba
-mucho tocar el piano.
+Gogoan dut Maryk oso gogoko
+zuela pianoa jotzea.
 [ffff]
 [1000]
 [8000]
-No se le daba muy bien...
+Ez zen oso ona...
 [ffff]
 [1000]
 [8000]
-pero a mí me encantaba
-escucharla tocar.
+baina niri asko gustatzen
+zitzaidan jotzen entzutea.
 [ffff]
 [1000]
 [8000]
-De eso hace ya mucho tiempo,
-antes incluso de casarnos.
-¿Por qué pienso en esto ahora...?
+Hori aspaldi gertatu zen,
+ezkondu aurretik ere.
+Zergatik pentsatzen dut orain...?
 [ffff]
 [9000]
 }
 {
 [8000]
-Un plato vacío, un cuchillo,
-un tenedor y ya está.
-No hay nada interesante.
+Plater huts bat, labana bat,
+sardexka bat eta kito.
+Ez dago ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un dibujo hecho por Laura...
-¿Es un gato?
+Laurak egindako marrazki bat...
+Katu bat al da?
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay una caja de música
-de disco.
+Disko-musika
+kutxa bat dago.
 [ffff]
 [1000]
 [8000]
-Parece que tiene algo escrito
-delante, pero está demasiado
-oscuro para verlo.
+Badirudi zerbait idatzita
+duela aurrean, baina ilunegi
+dago ikusteko.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un timbre.
-No creo que vaya a aparecer nadie.
+Txirrina.
+Ez dut uste inor agertuko denik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí no hay nada
-que parezca de utilidad.
+hemen ez dago baliagarri
+dirudien ezer.
 [ffff]
 [9000]
 }
 {
 [8000]
-Parece que el teléfono está roto.
+Telefonoa hautsita dagoela dirudi.
+[ffff]
+[9000]
+}
+{
+?[8000]
+Ez dago beste giltzarik.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay más llaves.
+Koadro bat.
+Ez du ezer berezirik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un cuadro.
-No tiene nada especial.
+Ez dago ezer
+interesgarririk apalean.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada interesante
-en el estante.
+Sarraila hautsita dago.
+Ezin dut ireki.
 [ffff]
 [9000]
 }
 {
 [8000]
-La cerradura está rota.
-No puedo abrirla.
+Idazmahaiko dokumentuetan ez dago
+ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada interesante
-en los documentos del escritorio.
+hemen patatak eta tipulak daude.
+Ustel kiratsa darie.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí hay patatas y cebollas.
-Huelen un poco a podrido.
+Sagarrak eta kalabazak.
 [ffff]
 [9000]
 }
 {
 [8000]
-Manzanas y calabazas.
+Fruta lata ilara.
+Denbora daramate iraungita.
 [ffff]
 [9000]
 }
 {
 [8000]
-Una hilera de latas de fruta.
-Ya llevarán un tiempo caducadas.
+hemen te poltsatxoak eta galletak daude.
+Iraungita daude.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí hay bolsitas de té y galletitas.
-Están caducadas.
+Zuku laten ilara.
+Ez dago arrazoirik eramateko.
 [ffff]
 [9000]
 }
 {
 [8000]
-Una hilera de latas de zumo.
-No hay razón para llevármelas.
+Hemen zopa-latak daude.
+Uste dut ez daudela iraungita,
+baina ez naiz gose.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí hay latas de sopa.
-Creo que aún no se han pasado,
-pero no tengo hambre.
+Hemen ez dago ezer.
+Baina lizun-usaina
+dario.
+?[ffff]
+[9000]
+}
+{
+[8000]
+hemen erloju erregistratzaile bat dago.
+Erlojua ez dabil.
+Apurtuta egongo da.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí no hay nada.
-Pero desprende un ligero
-olor a moho.
+hemen ez dago ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí hay un reloj registrador.
-El reloj no funciona,
-supongo que estará roto.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un hornillo.
+Labetxo bat.
 [ffff]
 [1000]
 [8000]
-Por detrás hay algo escrito
-en letra pequeña:
+Atzean, letra txikiz idatzitako
+zerbait dago:
 [fdff]
 [01ff]
-“Soy Johnny y estoy calentito”.
+"Johnny naiz eta bero nago".
 [00ff]
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí hay un calendario.
-Es del año pasado.
+hemen egutegi bat dago.
+Iazkoa da.
 [ffff]
 [9000]
 }
 {
 [8000]
-La persiana está cerrada.
+Pertsiana itxita dago.
 [ffff]
 [9000]
 }
 {
 [8000]
-Una caja de cartón.
-No hay nada dentro.
+Kartoizko kaxa bat.
+Barruan ez dago ezer.
 [ffff]
 [9000]
 }
 {
 [8000]
-Papel higiénico...
-Ahora no lo necesito.
+Komuneko papera...
+Orain ez dut behar.
 [ffff]
 [9000]
 }
 {
 [8000]
-Un carrito de lavandería.
-No hay nada útil dentro.
+Garbitegiko kotxetxo bat.
+Barruan ez dago ezer baliogarririk.
 [ffff]
 [9000]
 }

@@ -347,7 +347,7 @@ Sí, la verdad.
 {
 [8000]
 Has venido a encontrar a Mary,
-¿no, James?
+?no, James?
 [ffff]
 [8000]
 }
@@ -359,14 +359,14 @@ Has venido a encontrar a Mary,
 }
 {
 [8000]
-No... ¿tú también has venido
+No... ?t? también has venido
 por ella?
 [ffff]
 [8000]
 }
 {
 [8000]
-Está aquí, ¿no?
+Está aquí, ?no?
 [ffff]
 [8000]
 }
