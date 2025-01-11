@@ -1,4 +1,3 @@
-TODO
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
@@ -11,94 +10,89 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Aprieto el botón,
-pero no pasa nada.
+Botoia estutzen dut,
+baina ez da ezer gertatzen.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay un reproductor de vídeo.
-Creo que funciona.
+Bideo erreproduzigailu bat dago.
+Funtzionatzen duela uste dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-Me he llevado la cinta de vídeo.
+Bideo-zinta eraman dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He usado la 
 [03ff]
-llave
-de las escaleras del hotel
+Hoteleko eskaileretako giltza
 [00ff]
-.
+erabili dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He usado la 
 [03ff]
-llave de
-la habitación 312 del hotel
+Hoteleko 312 gelako giltza
 [00ff]
-.
+erabili dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-¿Ya estás grabando? Anda...
+Grabatzen ari zara? Tira...
 [ffff]
 [8000]
 }
 {
 [8000]
-No sé por qué,
-pero me encanta este sitio.
+Ez dakit zergatik,
+baina leku hau asko gustatzen zait.
 [ffff]
 [8000]
 }
 {
 [8000]
-Es tan tranquilo...
+Hain da lasaia...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Sabes lo que he oído?
+Badakizu zer entzun dudan?
 [ffff]
 [8000]
 }
 {
 [8000]
-Esta zona solía ser un lugar sagrado.
+Inguru hau leku sakratua izan ohi zen.
+[ffff]
+¡[8000]
+}
+{
+[8000]
+Uste dut ulertzen dudala zergatik.
 [ffff]
 [8000]
 }
 {
 [8000]
-Creo que entiendo por qué.
+Lastima joan beharra...
 [ffff]
 [8000]
 }
 {
 [8000]
-Qué pena que tengamos
-que marcharnos...
-[ffff]
-[8000]
-}
-{
-[8000]
-Por favor, prométeme que me
-traerás otra vez, James...
+Mesedez, agindu berriro
+ekarriko nauzula, James...
 [ffff]
 [8000]
 }
@@ -110,300 +104,301 @@ Mary...
 }
 {
 [8000]
-Por fin te encuentro, James.
+Azkenean aurkituko zaitut, James.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Tienes la carta?
-¿Has encontrado a Mary?
+Baduzu gutuna? Aurkitu al duzu Mary?
 [ffff]
 [8000]
 }
 {
 [8000]
-Si no, pongámonos en marcha.
+Bestela, martxan jar gaitezen.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿De acuerdo?
+Konforme?
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary se ha ido.
+Mary joan egin da.
 [ffff]
 [8000]
 }
 {
 [8000]
-Está muerta.
+Hilda dago.
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Mentiroso!
+Gezurtia!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Eso es mentira!
+Hori gezurra da!
 [ffff]
 [8000]
 }
 {
 [8000]
-No, es verdad...
+Ez, egia da...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Murió... porque estaba enferma?
+Gaixorik zegoelako hil zen?
 [ffff]
 [8000]
 }
 {
 [8000]
-No.
+Ez.
 [ffff]
 [8000]
 }
 {
 [8000]
-Yo la maté.
+Nik hil nuen.
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Asesino!
+Hiltzailea!
+¡[ffff]
+[8000]
+}
+{
+[8000]
+Zergatik egin duzu?
+Gorroto zaitut!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡¿Por qué lo hiciste?!
-¡Te odio!
+Itzultzea nahi dut!
+Itzul iezadazu!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Quiero que vuelva!
-¡Devuélvemela!
+Banekien!
+Ez zitzaizun batere axola!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Lo sabía!
-¡No te importaba lo más mínimo!
+Gorroto zaitut, James!
+Gorroto zaitut!
+Gorroto zaitut!
+Gorroto zaitut!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Te odio, James!
-¡Te odio! ¡Te odio! ¡Te odio!
+Beti egon da zure zain...
+Zergatik...?
+Zergatik...?
 [ffff]
 [8000]
 }
 {
 [8000]
-Siempre te estuvo esperando...
-¿Por qué...? ¿Por qué...?
+Sentitzen dut...
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo siento...
+Ezagutzen duzun Mary ez dago hemen.
 [ffff]
 [8000]
 }
 {
 [8000]
-La Mary que conoces no está aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Laura, lo siento.
-[ffff]
-[8000]
-}
-{
-[8000]
-James...
-¿Dónde estás?
-[ffff]
-[8000]
-}
-{
-[8000]
-Estoy esperando.
-Te estoy esperando.
-[ffff]
-[8000]
-}
-{
-[8000]
-Por favor, ven a mí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me odias?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por eso no vienes a verme?
-[ffff]
-[8000]
-}
-{
-[8000]
-Esa voz...
-[ffff]
-[8000]
-}
-{
-[8000]
-Por favor, date prisa.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Acaso estás perdido?
-[ffff]
-[8000]
-}
-{
-[8000]
-Estoy cerca.
-Te espero cerca de aquí, James.
-[ffff]
-[8000]
-}
-{
-[8000]
-Por favor.
-Quiero verte, James.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me oyes?
+Laura, sentitzen dut.
 [ffff]
 [8000]
 }
 {
 [8000]
 James...
-Por favor, James...
+Non zaude?
 [ffff]
 [8000]
 }
 {
 [8000]
-James... James... ¿James...?
+Zain nago.
+Zure zain nago.
 [ffff]
 [8000]
 }
 {
 [8000]
-Aquí hay una televisión.
-Incluso cuando está enchufada,
-sólo veo ruido blanco.
+Mesedez, zatoz nigana.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gorroto al nauzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik ez zatoz ni ikustera?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahots hori...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mesedez, azkar ibili.
+[ffff]
+¡[8000]
+}
+{
+[8000]
+Galduta al zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Gertu nago. Hemendik gertu itxarongo dizut, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mesedez.
+Ikusi nahi zaitut, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Entzuten didazu?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+Mesedez, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+James... James... James...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hemen telebista bat dago.
+Entxufatuta dagoenean ere,
+zarata zuria besterik ez dut ikusten.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada que ver.
+Ez dago ezer ikusteko.
 [ffff]
 [9000]
 }
 {
 [8000]
-Ya no necesito
-el reproductor de vídeo.
+Ez dut bideo-irakurgailuaren
+beharrik.
 [ffff]
 [9000]
 }
 {
 [8000]
-No hay nada interesante
-escrito en el libro de notas.
+Ez dago ezer interesgarririk
+idatzirik oharren liburuan.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hay un cuadro colgado.
-Parece un paisaje de esta zona.
+Koadro bat dago zintzilik.
+Inguru honetako paisaia dirudi.
 [ffff]
 [9000]
 }
 {
 [8000]
-Lo siento... Eh...
+Sentitzen dut... Eh...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Quién... quién eres...?
+Nor... nor zara...?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ha visto a una niña?
+Neskato bat ikusi al duzu?
+[ffff]
+¡[8000]
+}
+{
+[8000]
+Txikia da, ile beltzekoa...
 [ffff]
 [8000]
 }
 {
 [8000]
-Es bajita, de pelo negro...
+Zertaz ari zara...?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿De qué estás hablando...?
+Berdin dio, entzun...
 [ffff]
 [8000]
 }
 {
 [8000]
-Da igual, escucha...
+Ikusi al duzu nire emaztea...?
+Mary du izena.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Has visto a mi esposa...?
-Se llama Mary.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡¡¡Aaarrggghhhh!!!
+Aaarrggghhhh!!!
 [ffff]
 [8000]
 }
