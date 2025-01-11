@@ -26,7 +26,7 @@ aurkitu dut.
 }
 {
 [8000]
-Mary...
+Mari...
 [ffff]
 [8000]
 }
@@ -45,7 +45,7 @@ Baina zu gabe, ezerk ez du zentzurik.
 }
 {
 [8000]
-Ezin naiz zu gabe bizi, Mary.
+Ezin naiz zu gabe bizi, Mari.
 [ffff]
 [8000]
 }
@@ -78,7 +78,7 @@ egiten dion boterea...
 }
 {
 [8000]
-Ah... Mary...
+Ah... Mari...
 [ffff]
 [8000]
 }

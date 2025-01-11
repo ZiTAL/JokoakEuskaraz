@@ -36,7 +36,7 @@ Bizirik zaude!
 }
 {
 [8000]
-Maria... gauza horrek hil
+Mari... gauza horrek hil
 zintuela uste nuen...!
 [ffff]
 [8000]
@@ -55,7 +55,7 @@ Inola ere ez, tontolapiko.
 }
 {
 [8000]
-Maria...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -129,7 +129,7 @@ hura hotelean...
 }
 {
 [8000]
-Maria...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -160,19 +160,19 @@ Nola dakizu hori guztia?
 }
 {
 [8000]
-Ez zara Maria?
+Ez zara Mari?
 [ffff]
 [8000]
 }
 {
 [8000]
-Ez naiz zure Maria.
+Ez naiz zure Mari.
 [ffff]
 [8000]
 }
 {
 [8000]
-Orduan, Maria zara?
+Orduan, Mari zara?
 [ffff]
 [8000]
 }

@@ -10,7 +10,7 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Mary?
+Mari?
 [ffff]
 [8000]
 }
@@ -23,14 +23,14 @@ akats bera egiteari?
 }
 {
 [8000]
-Mary hilda dago.
+Mari hilda dago.
 Zuk hil zenuen.
 [ffff]
 [8000]
 }
 {
 [8000]
-Maria...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -70,7 +70,7 @@ Hori da nahi zenuena!
 }
 {
 [8000]
-Ez naiz Mary bezalakoa...
+Ez naiz Mari bezalakoa...
 Nola arbuia nazakezu?
 [ffff]
 [8000]
@@ -102,7 +102,7 @@ Zuk ere hiltzea merezi duzu, James.
 }
 {
 [8000]
-Mary...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -172,7 +172,7 @@ zergatik ematen duzu hain triste?
 }
 {
 [8000]
-Mary...?
+Mari...?
 [ffff]
 [8000]
 }

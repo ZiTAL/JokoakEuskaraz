@@ -119,17 +119,17 @@ baina ilunegi dago irakurtzeko.
 {
 [8000]
 Hemen flasko hutsak daude.
-Mariarenak dira?
+Marirenak dira?
 [ffff]
 [1000]
 [8000]
-Maria ere gaixorik dago...?
+Mari ere gaixorik dago...?
 [ffff]
 [9000]
 }
 {
 [8000]
-Maria ez dago hemen...
+Mari ez dago hemen...
 Nora joan ote da?
 [ffff]
 [9000]

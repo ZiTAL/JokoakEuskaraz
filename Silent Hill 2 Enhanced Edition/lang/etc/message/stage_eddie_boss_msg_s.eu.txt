@@ -293,7 +293,7 @@ Gizaki bat...
 }
 {
 [8000]
-Mary... benetan hil zinen
+Mari... benetan hil zinen
 duela 3 urte...?
 [ffff]
 [8000]

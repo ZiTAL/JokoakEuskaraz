@@ -10,7 +10,7 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Maria eta Laura hemen daude oraindik.
+Mari eta Laura hemen daude oraindik.
 Ezin ditut zuen kasa utzi.
 [ffff]
 [9000]
@@ -264,7 +264,7 @@ Ahohandi alua...
 }
 {
 [8000]
-Nondik ezagutzen duzu Mary?
+Nondik ezagutzen duzu Mari?
 [ffff]
 [8000]
 }
@@ -294,7 +294,7 @@ Ez... Ez dut horrelakorik egingo.
 }
 {
 [8000]
-Maryren laguna nintzen...
+Mariren laguna nintzen...
 [ffff]
 [8000]
 }
@@ -331,7 +331,7 @@ Tira, ba ez nazazu sinistu!
 {
 [8000]
 Baina iaz,
-Mary dagoeneko...
+Mari dagoeneko...
 [ffff]
 [8000]
 }

@@ -532,21 +532,21 @@ Partidaren emaitzak
 {
 [8000]
 [00ff]
-Maria: Etxeko aretoa
+Mari: Etxeko aretoa
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Etxeko ataria
+Mari: Etxeko ataria
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Apartamentuak, 1. solairua.
+Mari: Apartamentuak, 1. solairua.
 [ffff]
 [8000]
 }
@@ -1350,7 +1350,7 @@ Amaiera: Berreskuratzea
 {
 [8000]
 [00ff]
-Amaiera: Maria
+Amaiera: Mari
 [ffff]
 [8000]
 }
@@ -1378,42 +1378,42 @@ Amaiera: Txakurra
 {
 [8000]
 [00ff]
-Maria: Heaven 's Night
+Mari: Heaven 's Night
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Hiria
+Mari: Hiria
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Etxea handia, 1. solairua.
+Mari: Etxea handia, 1. solairua.
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Etxea handia, 2. solairua.
+Mari: Etxea handia, 2. solairua.
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Etxea handia, sotoa
+Mari: Etxea handia, sotoa
 [ffff]
 [8000]
 }
 {
 [8000]
 [00ff]
-Maria: Apartamentuak
+Mari: Apartamentuak
 [ffff]
 [8000]
 }

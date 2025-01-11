@@ -257,7 +257,7 @@ Eta...?
 }
 {
 [8000]
-Eta ezin baduzu Mary aurkitu?
+Eta ezin baduzu Mari aurkitu?
 Zer egingo duzu?
 [ffff]
 [8000]

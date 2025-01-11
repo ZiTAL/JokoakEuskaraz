@@ -1,4 +1,3 @@
-TODO
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
@@ -11,53 +10,53 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-¿Qué ha sido de aquella niña...?
+Zer gertatu zaio neskato hari?
 [ffff]
 [1000]
 [8000]
-¿Podrá estar sola en
-una ciudad como esta?
+Bakarrik egon daiteke
+horrelako hiri batean?
 [ffff]
 [9000]
 }
 {
 [8000]
-Esta parte del terreno está
-más elevada de lo normal.
+Lurraren zati hori ohi
+baino gorago dago.
 [ffff]
 [1000]
 [8000]
-¿Habrá algo debajo?
+Zerbait dago azpian?
 [ffff]
 [1000]
 [8000]
-¿Vas a cavar?
+Zulatu behar duzu?
 [f6ff]
 [ffff]
 [8000]
 }
 {
 [8000]
-Había una pequeña caja metálica
-enterrada.
+Metalezko kutxa txiki bat
+zegoen lurperatuta.
 [ffff]
 [1000]
 [8000]
-La caja está cerrada con pernos.
-No puedo abrir la tapa.
+Kutxa bernoekin itxita dago.
+Ezin dut estalkia ireki.
 [ffff]
 [9000]
 }
 {
 [8000]
-La caja está cerrada con pernos.
-No puedo abrir la tapa.
+Kutxa bernoekin itxita dago.
+Ezin dut estalkia ireki.
 [ffff]
 [9000]
 }
 {
 [8000]
-Había una llave en la caja.
+Giltza bat zegoen kaxan.
 [ffff]
 [9000]
 }
@@ -65,20 +64,13 @@ Había una llave en la caja.
 [8000]
 [faff]
 [01ff]
-Víctima de persecución
-por l
+Kristauen jazarpenaren biktima.
+Jennifer Carroll harro eta ohorez bizi izan zen.
+Hemen gertatu zena ez da inoiz ahaztu behar.
 [f7ff]
-os cristi
 [f7ff]
-anos.
-Jenni
 [f7ff]
-fer
 [f7ff]
- Carroll
-vivió con orgullo y honor.
-Lo que ocurrió aquí
-nunca debe ser olvidado.
 [ffff]
 [9000]
 }
@@ -86,10 +78,10 @@ nunca debe ser olvidado.
 [8000]
 [faff]
 [01ff]
-Patrick Chester, hijo de Edward.
-Luchó y murió por el pueblo,
-por la libertad y por nuestro
-futuro. Su recuerdo perdura.
+Patrick Chester, Edwarden semea.
+Herriaren alde, askatasunaren alde
+eta gure etorkizunaren alde borrokatu
+eta hil zen. Bere oroitzapenak irauten du.
 [ffff]
 [9000]
 }
@@ -97,35 +89,33 @@ futuro. Su recuerdo perdura.
 [8000]
 [faff]
 [01ff]
-En recuerdo de los sesenta y siete
-que murieron por la enfermedad
-y duermen bajo el lago.
+Gaixotasunaren ondorioz hil ziren
+hirurogeita zazpi lagunak
+aintziraren azpian lo daude.
 [ffff]
 [9000]
 }
 {
 [8000]
-Tiene algo escrito, pero
-es imposible leerlo porque
-la superficie ha sido borrada.
+Zerbait idatzita dauka,
+baina ezinezkoa da irakurtzea,
+gainazala ezabatu egin baita.
 [ffff]
 [9000]
 }
 {
 [8000]
-Tiene un viejo candado
-que parece resistente.
+Giltzarrapo zahar bat dauka,
+gogorra dirudiena.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado un 
 [03ff]
-libro llamado
-“Memorias perdidas”
+"Galdutako memoriak" izeneko liburua
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
@@ -133,686 +123,679 @@ libro llamado
 [8000]
 [faff]
 [01ff]
- El nombre surge de la leyenda del
-pueblo al que robaron sus tierras.
+ Izena bere lurrak lapurtu zizkioten
+herriaren kondairatik sortzen da.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Este lugar era conocido como
-«El lugar de los espíritus silenciosos».
-Por «espíritus» entendían no sólo a
-sus familiares muertos, sino también
-los espíritus que, según creían,
-viven en los árboles, las rocas
-y el agua.
+Leku horri «Espiritu isilen lekua»
+esaten zitzaion. «Izpiritu» gisa
+ulertzen zituzten, hildako senideak
+ez ezik, zuhaitzetan, harkaitzetan
+eta uretan bizi direla uste zuten
+espirituak ere.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
- Cuenta la leyenda que aquí
-tenían lugar las ceremonias más
-sagradas.
+ Elezaharrak dioenez,
+hemen izaten ziren
+zeremoniarik sakratuenak.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Pero no fueron los antepasados
-de quienes ahora viven en esta
-ciudad los que robaron las tierras
-a aquel pueblo. Hubo otros
-que llegaron antes.
+Baina orain hiri honetan bizi
+direnen arbasoek ez zituzten
+herri hari lurrak lapurtu.
+Beste batzuk lehenago iritsi
+ziren.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-En aquel entonces, esta ciudad tenía
-otro nombre... pero se ha perdido
-en los anales de la historia.
+Garai hartan, hiri honek beste
+izen bat zuen... baina historiaren
+urtekarietan galdu da.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Sólo sabemos que tuvo otro
-nombre y que, por alguna razón,
-la ciudad fue abandonada por
-sus habitantes.
+Bakarrik dakigu beste izen bat
+izan zuela eta, arrazoiren
+batengatik, hiria bertan behera
+utzi zutela bertako biztanleek.
 [ffff]
 [9000]
 }
 {
 [8000]
-¡Tú!
+Zu!
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Has sido tú, no?
-La que me pisó la mano.
+Zu izan zara, ezta?
+Eskua zapaldu zidana.
 [ffff]
 [8000]
 }
 {
 [8000]
-No sé...
+Ez dakit...
 [ffff]
 [8000]
 }
 {
 [8000]
-A lo mejor...
+Agian...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Qué hace una niña como tú
-en un lugar como este?
+Zer egiten du zu bezalako neska
+batek horrelako leku batean?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Eh? ¿Estás ciego o qué te pasa?
+Eh? Itsu zaude edo zer gertatzen zaizu?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Qué es esa carta?
+Zer da gutun hori?
 [ffff]
 [8000]
 }
 {
 [8000]
-Nada que te importe.
+Axola zaizun ezer ez.
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Tú no amabas a Mary!
+Zuk ez zenuen Mari maite!
 [ffff]
 [8000]
 }
 {
 [8000]
-¡Espera!
+Itxoin!
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Cómo sabes el nombre de Mary?
+Nola dakizu Mariren izena?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Mary?
+Mari?
 [ffff]
 [8000]
 }
 {
 [8000]
-No... No eres tú.
+Ez... Ez zara zu.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Me parezco a tu chica?
+Zure neskaren antza al dut?
 [ffff]
 [8000]
 }
 {
 [8000]
-No... A mi esposa fallecida.
+Ez... Nire emazte hilarena.
 [ffff]
 [8000]
 }
 {
 [8000]
-No puedo creerlo...
+Ezin dut sinetsi...
 [ffff]
 [8000]
 }
 {
 [8000]
-Podrías ser su hermana gemela.
-Tu rostro, tu voz...
+Bere ahizpa bikia izan zintezke.
+Zure aurpegia, zure ahotsa...
 [ffff]
 [8000]
 }
 {
 [8000]
-Sólo tu pelo y tu ropa
-son diferentes.
+Zure ilea eta arropa
+bakarrik dira desberdinak.
 [ffff]
 [8000]
 }
 {
 [8000]
-Me llamo... María.
+Nire izena... Mari.
 [ffff]
 [8000]
 }
 {
 [8000]
-No tengo aspecto de fantasma.
-¿O sí?
+Ez dut mamu itxurarik.
+Ala bai?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ves? Estoy calentita.
+Ikusten? Bero-bero nago.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿De... verdad que no eres Mary?
+Benetan ez zara Mari?
 [ffff]
 [8000]
 }
 {
 [8000]
-Ya te lo he dicho... Soy María.
+Esan dizut... Mari naiz.
 [ffff]
 [8000]
 }
 {
 [8000]
-Lo siento, me he confundido.
+Barkatu, nahastu egin naiz.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Adónde vas?
+Nora zoaz?
 [ffff]
 [8000]
 }
 {
 [8000]
-Estoy buscando a Mary.
-¿La has visto?
+Mariren bila nabil.
+Ikusi al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿No has dicho que estaba muerta?
+Ez duzu esan hilda zegoela?
 [ffff]
 [8000]
 }
 {
 [8000]
-Ah, sí... Hace tres años.
+Ah, bai... Duela hiru urte.
 [ffff]
 [8000]
 }
 {
 [8000]
-Pero recibí una carta suya.
-Decía que esperaba en nuestro
-“lugar especial”.
+Baina zure gutun bat jaso nuen.
+Gure "leku berezian"
+espero omen zuen.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Y era este?
+Eta hau al zen?
 [ffff]
 [8000]
 }
 {
 [8000]
-En fin, que no la he visto.
+Tira, ez dut ikusi.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Este es vuestro único
-“lugar especial”?
+Hau da zuen "leku berezi"
+bakarra?
 [ffff]
 [8000]
 }
 {
 [8000]
-Bueno, supongo que también
-está el hotel.
+Beno, uste dut hotela
+ere hor dagoela.
 [ffff]
 [8000]
 }
 {
 [8000]
-El hotel del lago...
-Me pregunto si seguirá en pie.
+Aintzirako hotela...
+Ez dakit zutik jarraituko duen.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿El hotel Lakeview?
-Sí, sigue ahí.
+Lakeview hotela?
+Bai, hor dago.
 [ffff]
 [8000]
 }
 {
 [8000]
-Así que el hotel era vuestro
-“lugar especial”, ¿eh?
+Beraz, hotela zen zuen
+"leku berezia", ezta?
 [ffff]
 [8000]
 }
 {
 [8000]
-No me extraña...
+Ez naiz harritzen...
 [ffff]
 [8000]
 }
 {
 [8000]
-No te enfades.
-Sólo estaba bromeando.
+Ez haserretu.
+Txantxetan ari nintzen.
 [ffff]
 [8000]
 }
 {
 [8000]
-Además, no se va por ahí.
-Es por aquí.
+Gainera, ez da hortik joaten.
+Hemendik da.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Vienes conmigo?
+Nirekin al zatoz?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Ibas a dejarme tirada?
+Botata utzi behar ninduzun?
 [ffff]
 [8000]
 }
 {
 [8000]
-No, pero...
+Ez, baina...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Con todos estos monstruos?
+Munstro hauekin guztiekin?
 [ffff]
 [8000]
 }
 {
 [8000]
-No, no, solo que...
+Ez, ez, baina...
 [ffff]
 [8000]
 }
 {
 [8000]
-Estoy sola.
-Aquí no queda nadie.
+Bakarrik nago.
+Hemen ez dago inor.
 [ffff]
 [8000]
 }
 {
 [8000]
-Me parezco a Mary, ¿no?
-Tú la querías, ¿no es así?
+Mariren antza dut, ezta?
+Zuk nahi zenuen, ezta?
 [ffff]
 [8000]
 }
 {
 [8000]
-O tal vez la odiabas...
+Edo agian gorroto zenuen...
 [ffff]
 [8000]
 }
 {
 [8000]
-No digas tonterías.
+Ez esan txorakeriarik.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Entonces, algún problema?
+Orduan, arazoren bat?
 [ffff]
 [8000]
 }
 {
 [8000]
-No, no, claro que no.
+Ez, noski ezetz.
 [ffff]
 [8000]
 }
 {
 [8000]
-Esperaré aquí. Odio los bolos.
+Hemen itxarongo dut.
+Gorroto ditut boloak.
 [ffff]
 [8000]
 }
 {
 [8000]
-No he venido aquí a jugar, ¿sabes?
+Ez naiz hona jolastera etorri.
 [ffff]
 [8000]
 }
 {
 [8000]
-No tardes, ¿eh?
+Ez berandutu, e?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Has visto salir de aquí
-a una niña?
+Ikusi al duzu neskatoren bat
+hemendik irteten?
 [ffff]
 [8000]
 }
 {
 [8000]
-Sí, ¡iba demasiado rápido!
+Bai, azkarregi zihoan!
 [ffff]
 [8000]
 }
 {
 [8000]
-¿No piensas ir a buscarla?
+Ez al duzu haren bila joateko asmorik?
 [ffff]
 [8000]
 }
 {
 [8000]
-Al hotel no se va por aquí.
-¿No es cierto?
+Hotelera ez da hemendik joaten.
+Ez al da hala?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Adónde vas?
+Nora zoaz?
 [ffff]
 [8000]
 }
 {
 [8000]
-Por aquí no ha ido esa niña.
+Hemendik ez da neska hori pasatu.
 [ffff]
 [8000]
 }
 {
 [8000]
-He encontrado una 
 [03ff]
-cañería de acero
+Altzairuzko hodi bat
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado una 
 [03ff]
-llave inglesa
+Giltza ingelesa
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He usado la 
 [03ff]
-llave inglesa
+Giltza ingelesa 
 [00ff]
-.
+erabili dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He encontrado la 
 [03ff]
-vieja llave de bronce
+Brontzezko giltza zaharra
 [00ff]
-.
+aurkitu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-He usado la 
 [03ff]
-vieja llave de bronce
+Brontzezko giltza zaharra
 [00ff]
-.
+erabili dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-¡Por allí!
+Hortik!
 [ffff]
 [8000]
 }
 {
 [8000]
-He cogido la 
 [03ff]
-llave de perro
+Txakur-giltza
 [00ff]
-
-de la caseta.
+hartu dut etxolatik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aquí ya no hay nada que hacer.
-Creo que volveré a buscar a Mary...
+Hemen ez dago zereginik.
+Uste dut Mariren bila itzuliko naizela...
 [ffff]
 [9000]
 }
 {
 [8000]
-¿Has vuelto a matar a Mary?
+Mari berriz hil al duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-Esa no era Mary.
-Mary está muerta.
+Hori ez zen Mari.
+Mari hilda dago.
 [ffff]
 [8000]
 }
 {
 [8000]
-Eso era algo que...
+Hori zen zerbait...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿María?
+Mari?
 [ffff]
 [8000]
 }
 {
 [8000]
-María.
+Mari.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Qué, James?
+Zer, James?
 [ffff]
 [8000]
 }
 {
 [8000]
-Quiero que...
-Que estés conmigo...
+Zera nahi dut...
+Nirekin egon zaitezela...
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Estás seguro?
+Ziur al zaude?
 [ffff]
 [8000]
 }
 {
 [8000]
-Vamos. Salgamos de aquí.
+Goazen. Goazen hemendik.
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Y qué pasa con Mary?
+Eta Mari, zer?
 [ffff]
 [8000]
 }
 {
 [8000]
-No te preocupes,
-te tengo a ti.
+Ez kezkatu,
+zurekin nago.
 [ffff]
 [8000]
 }
 {
 [8000]
-Tengo que encontrar a Laura.
-No puedo dejarla sola.
+Laura aurkitu behar dut.
+Ezin dut bakarrik utzi.
 [ffff]
 [1000]
 [8000]
-Además... Quizás pueda decirme
-algo acerca de Mary.
+Gainera... Agian zerbait esan
+diezadake Mariri buruz.
 [ffff]
 [9000]
 }
 {
 [8000]
-Una pared normal.
-El dibujo parece hecho
-por un niño.
+Horma normal bat.
+Marrazkiak ume batek
+egina dirudi.
 [ffff]
 [9000]
 }
 {
 [8000]
-Sólo es basura.
-No tiene sentido buscar por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Parque Rosewater
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un mapa.
+Zaborra besterik ez da.
+Ez du zentzurik hemen bilatzeak.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-Hotel Lakeview
+Rosewater parkea
 [ffff]
 [9000]
 }
 {
 [8000]
-María está muerta.
-No pude protegerla.
+Barruan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen mapa bat dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Lakeview hotela
+[ffff]
+[9000]
+}
+{
+[8000]
+Mari hilda dago.
+Ezin izan dut babestu.
 [ffff]
 [8000]
 }
 {
 [8000]
-Una vez más,
-no pude hacer nada por evitarlo.
+Berriro ere,
+ezin izan nuen ezer egin.
 [ffff]
 [8000]
 }
 {
 [8000]
-Laura se ha ido a algún sitio.
+Laura norabait joan da.
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary...
-¿Qué... qué debería hacer?
+Mari...
+Zer egin beharko nuke?
 [ffff]
 [8000]
 }
 {
 [8000]
-¿Realmente... me estás esperando
-en algún lugar?
+Benetan...
+nire zain al zaude nonbait?
 [ffff]
 [8000]
 }
 {
 [8000]
-O es esta tu forma de...
+Edo hau da zure modua...
 [ffff]
 [8000]
 }
 {
 [8000]
-Voy a buscar a Mary...
-Es la única esperanza
-que me queda.
+Mariren bila noa...
+Hori da geratzen zaidan
+itxaropen bakarra.
 [ffff]
 [8000]
 }
 {
 [8000]
 [01ff]
-Sociedad Histórica de Silent Hill
+Silent Hill-eko Elkarte Historikoa
 [ffff]
 [9000]
 }
 {
 [8000]
-Este puente está en ruinas.
-No puedo llegar al hotel por aquí...
+Zubi hau hondatuta dago.
+Ezin naiz hotelera iritsi hemendik...
 [ffff]
 [9000]
 }
@@ -826,39 +809,39 @@ Heaven's Night
 {
 [8000]
 [01ff]
-Hotel Jack
+Jack hotela
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-Bolera de Pete
+Pete-ren bolatokia
 [ffff]
 [9000]
 }
 {
 [8000]
-Barcas al Parque de Atracciones
-del Lago y al hotel Lakeview
+Lakuko jolas-parkerako eta
+Lakeview hotelerako txalupak
 [ffff]
 [9000]
 }
 {
 [8000]
-Lo he copiado en mi mapa.
+Mapan kopiatu dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-Así que este es ese parque...
+Beraz, hau da parkea...
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary... ¿Estás aquí?
+Mari... Hemen al zaude?
 [ffff]
 [8000]
 }

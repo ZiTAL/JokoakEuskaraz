@@ -104,7 +104,7 @@ Aurkitu duzu emakume hori?
 }
 {
 [8000]
-Nola zuen izena? Mary?
+Nola zuen izena? Mari?
 [ffff]
 [8000]
 }

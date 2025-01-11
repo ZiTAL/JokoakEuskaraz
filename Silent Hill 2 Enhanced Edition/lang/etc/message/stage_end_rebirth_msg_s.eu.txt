@@ -16,7 +16,7 @@ James...
 }
 {
 [8000]
-Maria.
+Mari.
 [ffff]
 [8000]
 }
@@ -35,7 +35,7 @@ Baina... zuk nahi zenuena naiz!
 }
 {
 [8000]
-Mary hilda dago.
+Mari hilda dago.
 Ez duzu ulertzen? Ez da itzuliko!
 [ffff]
 [8000]
@@ -61,13 +61,13 @@ Zergatik ez nauzu maite?
 }
 {
 [8000]
-Zu ez zarelako Mary.
+Zu ez zarelako Mari.
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary gabe, ezerk ez du zentzurik.
+Mari gabe, ezerk ez du zentzurik.
 [ffff]
 [8000]
 }

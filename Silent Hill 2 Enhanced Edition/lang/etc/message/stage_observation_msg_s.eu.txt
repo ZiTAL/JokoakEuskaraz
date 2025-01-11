@@ -56,7 +56,7 @@ eserlekuan dago.
 }
 {
 [8000]
-Mary... benetan hiri
+Mari... benetan hiri
 honetan zaudela?
 [ffff]
 [8000]

@@ -485,19 +485,19 @@ James Sunderland
 }
 {
 [8000]
-Maria?
+Mari?
 [ffff]
 [8000]
 }
 {
 [8000]
-Maria...?
+Mari...?
 [ffff]
 [8000]
 }
 {
 [8000]
-Maria, ez...
+Mari, ez...
 [ffff]
 [8000]
 }
@@ -515,7 +515,7 @@ Zergatik...? Zergatik...?
 }
 {
 [8000]
-Mary...
+Mari...
 [ffff]
 [8000]
 }

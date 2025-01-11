@@ -99,13 +99,13 @@ James!
 }
 {
 [8000]
-Mary!
+Mari!
 [ffff]
 [8000]
 }
 {
 [8000]
-Ah, Maria... Zu zara...
+Ah, Mari... Zu zara...
 Uste nuen...
 [ffff]
 [8000]

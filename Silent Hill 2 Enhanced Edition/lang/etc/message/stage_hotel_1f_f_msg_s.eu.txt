@@ -149,12 +149,12 @@ Zer da hau...?
 [ffff]
 [1000]
 [8000]
-312. gela... Mary eta biok
+312. gela... Mari eta biok
 egon ginena...
 [ffff]
 [1000]
 [8000]
-Mary, hor zaude?
+Mari, hor zaude?
 Edo agian...
 [ffff]
 [1000]
@@ -177,7 +177,7 @@ aurkitu dut.
 [ffff]
 [1000]
 [8000]
-Maryk eta biok ostatu hartu
+Marik eta biok ostatu hartu
 genuen gelako giltza da...
 [ffff]
 [9000]
@@ -323,7 +323,7 @@ Bai, egia esan.
 }
 {
 [8000]
-Mary aurkitzera etorri zara,
+Mari aurkitzera etorri zara,
 ezta, James?
 [ffff]
 [8000]
@@ -486,7 +486,7 @@ Zorionak, Laura.
 [faff]
 [01ff]
 Zure laguna betiko,
-Mary
+Mari
 [ffff]
 [9000]
 }
@@ -504,7 +504,7 @@ Mmm... Zortzi urte bete nituen joan den astean.
 }
 {
 [8000]
-Orduan Mary ezin izan zen hil...
+Orduan Mari ezin izan zen hil...
 duela hiru urte...
 [ffff]
 [8000]
@@ -524,7 +524,7 @@ leku eder eta lasaia?
 }
 {
 [8000]
-Maryk eta biok asko hitz egin
+Marik eta biok asko hitz egin
 genuen Silent Hill-i buruz.
 [ffff]
 [8000]
@@ -551,7 +551,7 @@ beste gutuna irakurtzean...
 }
 {
 [8000]
-Maryk... Eh?
+Marik... Eh?
 [ffff]
 ?[8000]
 }
@@ -649,7 +649,7 @@ Pianoa.
 [ffff]
 [1000]
 [8000]
-Gogoan dut Maryk oso gogoko
+Gogoan dut Marik oso gogoko
 zuela pianoa jotzea.
 [ffff]
 [1000]

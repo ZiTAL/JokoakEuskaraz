@@ -98,7 +98,7 @@ ekarriko nauzula, James...
 }
 {
 [8000]
-Mary...
+Mari...
 [ffff]
 [8000]
 }
@@ -110,7 +110,7 @@ Azkenean aurkituko zaitut, James.
 }
 {
 [8000]
-Baduzu gutuna? Aurkitu al duzu Mary?
+Baduzu gutuna? Aurkitu al duzu Mari?
 [ffff]
 [8000]
 }
@@ -128,7 +128,7 @@ Konforme?
 }
 {
 [8000]
-Mary joan egin da.
+Mari joan egin da.
 [ffff]
 [8000]
 }
@@ -226,7 +226,7 @@ Sentitzen dut...
 }
 {
 [8000]
-Ezagutzen duzun Mary ez dago hemen.
+Ezagutzen duzun Mari ez dago hemen.
 [ffff]
 [8000]
 }
@@ -392,7 +392,7 @@ Berdin dio, entzun...
 {
 [8000]
 Ikusi al duzu nire emaztea...?
-Mary du izena.
+Mari du izena.
 [ffff]
 [8000]
 }

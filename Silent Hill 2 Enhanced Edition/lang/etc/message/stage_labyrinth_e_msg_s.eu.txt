@@ -224,7 +224,7 @@ Botaka egiteko gogoa dut!
 }
 {
 [8000]
-Mary bere emaztea hilda
+Mari bere emaztea hilda
 zegoela esan zuen, ezta?
 [ffff]
 [8000]

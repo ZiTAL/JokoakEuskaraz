@@ -16,7 +16,7 @@ James, zure zain egon naiz.
 }
 {
 [8000]
-Mary...
+Mari...
 [ffff]
 [8000]
 }
@@ -95,7 +95,7 @@ Eta nekatuta nengoen.
 {
 [8000]
 Eta horregatik behar zenuen
-Maria delako hori?
+Mari delako hori?
 [ffff]
 [8000]
 }

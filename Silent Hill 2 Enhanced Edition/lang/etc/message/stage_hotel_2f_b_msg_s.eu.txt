@@ -101,7 +101,7 @@ izeneko liburu bat aurkitu dut.
 }
 {
 [8000]
-Mary hil egingo dela...?
+Mari hil egingo dela...?
 Eh... Txantxa izan behar du...
 [ffff]
 [8000]

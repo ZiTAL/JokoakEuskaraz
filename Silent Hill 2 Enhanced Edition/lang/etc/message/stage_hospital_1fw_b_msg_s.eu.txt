@@ -35,7 +35,7 @@ Zer da?
 }
 {
 [8000]
-Maryren gutun bat.
+Mariren gutun bat.
 [ffff]
 [8000]
 }

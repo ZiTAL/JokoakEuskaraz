@@ -1895,7 +1895,7 @@ hil egin beharko zenuke.
 [8000]
 [faff]
 [01ff]
-Baina agian Mary ez den beste
+Baina agian Mari ez den beste
 leku batean bukatuko duzu, James.
 [ffff]
 [9000]

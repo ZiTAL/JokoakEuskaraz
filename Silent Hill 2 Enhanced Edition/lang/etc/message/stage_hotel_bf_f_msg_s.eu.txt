@@ -163,7 +163,7 @@ Barra.
 [ffff]
 [1000]
 [8000]
-Maryk eta biok elkarrekin
+Marik eta biok elkarrekin
 edan genuen taberna honetan.
 [ffff]
 [1000]

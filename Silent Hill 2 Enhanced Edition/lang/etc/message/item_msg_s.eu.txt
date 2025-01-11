@@ -338,7 +338,7 @@ munstroak hurbil.
 }
 {
 [8000]
-Maryren argazkia
+Mariren argazkia
 [ffff]
 [8000]
 }
@@ -350,13 +350,13 @@ Oraindik osasuntsu zegoeneko argazki bat.
 }
 {
 [8000]
-Maryren gutuna
+Mariren gutuna
 [ffff]
 [8000]
 }
 {
 [8000]
-Gutunazalean Mary izena agertzen da.
+Gutunazalean Mari izena agertzen da.
 Bere letra da.
 [ffff]
 [8000]
@@ -369,7 +369,7 @@ Lauraren gutuna
 }
 {
 [8000]
-Maryk Laurari eman omen zion gutuna.
+Marik Laurari eman omen zion gutuna.
 Laura.
 [ffff]
 [8000]
@@ -526,7 +526,7 @@ Teilatuko giltza
 [8000]
 Bulegoen hegaleko teilatuko giltza.
 Ospitaleko hirugarren solairuko gelan
-aurkitu nuen, Mariaren gelan.
+aurkitu nuen, Mariren gelan.
 [ffff]
 [8000]
 }
@@ -1192,7 +1192,7 @@ eramango zaituztena".
 {
 [8000]
 312. gelan hartzen dugu ostatu.
-Mary eta biok duela hiru urte.
+Mari eta biok duela hiru urte.
 [ffff]
 [8000]
 }
@@ -1338,7 +1338,7 @@ Zorionak, Laura.
 [faff]
 [01ff]
 Zure laguna betiko,
-Mary
+Mari
 [ffff]
 [9000]
 }
@@ -1637,7 +1637,7 @@ apalean jarri dut.
 }
 {
 [03ff]
-Maryren argazkia    
+Mariren argazkia    
 [8000]
 jarri dut apalean.
 [00ff]
@@ -1646,7 +1646,7 @@ jarri dut apalean.
 }
 {
 [03ff]
-Maryren gutuna    
+Mariren gutuna    
 [8000]
 apalean jarri dut.
 [00ff]

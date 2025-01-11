@@ -156,7 +156,7 @@ Zoaz etxera!
 }
 {
 [8000]
-Mary, zer diozu?
+Mari, zer diozu?
 [ffff]
 [8000]
 }

@@ -10,7 +10,7 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Mary...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -22,20 +22,20 @@ Berriro okertu zara.
 }
 {
 [8000]
-Mary hilda dago.
+Mari hilda dago.
 Zuk hil zenuen.
 [ffff]
 [8000]
 }
 {
 [8000]
-Maria.
+Mari.
 [ffff]
 [8000]
 }
 {
 [8000]
-Maria... Gurea amaitu da.
+Mari... Gurea amaitu da.
 [ffff]
 [8000]
 }
@@ -74,7 +74,7 @@ Orain dena ulertzen dut.
 {
 [8000]
 Arazoa zera da...
-zu ez zarela Mary.
+zu ez zarela Mari.
 [ffff]
 [8000]
 }
@@ -87,13 +87,13 @@ Ez, James... Ez zaitut utziko.
 {
 [8000]
 Ez dizut inoiz utziko
-Mary berreskuratzen!
+Mari berreskuratzen!
 [ffff]
 [8000]
 }
 {
 [8000]
-Mary...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -164,7 +164,7 @@ Nahikoa da, James.
 }
 {
 [8000]
-Mary...?
+Mari...?
 [ffff]
 [8000]
 }
@@ -189,7 +189,7 @@ Zer zen beldur nintzena?
 }
 {
 [8000]
-Zu gabe, Mary, ez daukat ezer...
+Zu gabe, Mari, ez daukat ezer...
 [ffff]
 [8000]
 }

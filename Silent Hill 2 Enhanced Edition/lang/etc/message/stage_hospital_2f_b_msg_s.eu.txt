@@ -70,7 +70,7 @@ Ezin duzu ireki?
 }
 {
 [8000]
-Ez. Maria, lagundu.
+Ez. Mari, lagundu.
 [ffff]
 [8000]
 }
