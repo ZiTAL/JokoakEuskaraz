@@ -23,49 +23,66 @@ Izenburua "Izaki Gorriminaren zeremonia" da.
 [fbff]
 [faff]
 [01ff]
-Hitz egin.Ni Gorrimina naiz.
+Hitz egin.
+Ni Gorrimina naiz.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Gezurrak eta lainoaez dira horrelakoak,ni baizik. Denok dakizueni Bera naizela.Bai, eta bera ni naiz.
+Gezurrak eta lainoaez dira
+horrelakoak,ni baizik.
+Denok dakizueni Bera naizela.Bai,
+eta bera ni naiz.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Fededunak, entzun!Hogei hogei gizon etazazpi mila piztia.Entzun hitz hauek etakontatu besteeibeti obedituak izan daitezen,baita eguzki harro eta krudelarenargipean ere.
+Fededunak, entzun!Hogei hogei
+gizon etazazpi mila piztia.
+Entzun hitz hauek etakontatu
+besteeibeti obedituak izan
+daitezen,baita eguzki
+harro eta krudelarenargipean
+ere.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Mendeku mingotsa bidaliko dizuet etanire betiko haserrea pairatuko duzue.
+Mendeku mingotsa bidaliko dizuetetanire
+betiko haserrea pairatuko duzue.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Lore zimelduaren edertasuna etahilzorian dagoenaren azken arnasadira nire bedeinkazioak.
+Lore zimelduaren edertasuna etahilzorian
+dagoenaren azken arnasadira
+nire bedeinkazioak.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Zuk beti eskatuko didazuniri eta naizen guztiariisileko lekuan.
+Zuk beti eskatuko didazuniri eta
+naizen guztiariisileko lekuan.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-O, bihotzerantz hegandoan bizitzaren esentziaharroa. O, ardo zurienazbetetako kopa,zugan hasten da dena.
+O, bihotzerantz hegandoan bizitzaren
+esentziaharroa.
+O, ardo zurienazbetetako kopa,
+zugan hasten da dena.
 [ffff]
 [9000]
 }
@@ -146,13 +163,16 @@ Ezinezkoa da jakitea.
 }
 {
 [8000]
-Hemen liburu bat dago.Ez dirudi ezer berezitarakobalioko duenik.
+Hemen liburu bat dago.
+Ez dirudi ezer 
+berezitarakobalioko duenik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hemen liburuxka turistikoak daude.Orain ez zaizkit interesatzen.
+Hemen liburuxka turistikoak daude.
+Orain ez zaizkit interesatzen.
 [ffff]
 [9000]
 }
