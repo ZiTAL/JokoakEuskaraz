@@ -4,4 +4,86 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 10
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Mari... benetanzaude hiri honetan?[ffff][8000]}{[8000][faff][01ff]Benetan Mari ikusi nahi baduzu,hil egin beharko zenuke.[ffff][1000][8000][faff][01ff]Baina agian Mari ez den besteleku batean bukatuko duzu, James.[ffff][9000]}{[8000][fbff][faff][01ff]Hemen ZULO bat zegoen.Orain desagertu egin da.[ffff][9000]}{[8000][03ff]Espraia[00ff]aurkitu dut.[ffff][9000]}{[8000]Hemen mapa bat dago.[ffff][9000]}{[8000]Ohar bat dago sofari buruz.[ffff][1000][8000][01ff]Neely-ren tabernan itxarongo zaitut.[ffff][9000]}{[8000]Hemen mapa bat dago.[ffff][9000]}{[8000]Zer da Martin Streetenamaieran dagoen sinbolo hori?[ffff][9000]}{[8000]Mapan kopiatu dut.[ffff][9000]}{[8000][03ff]Harribitxi urdin bat[00ff]aurkitu dut.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Mari... benetanzaude hiri honetan?
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Benetan Mari ikusi nahi baduzu,hil egin beharko zenuke.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Baina agian Mari ez den besteleku batean bukatuko duzu, James.
+[ffff]
+[9000]
+}
+{
+[8000]
+[fbff]
+[faff]
+[01ff]
+Hemen ZULO bat zegoen.Orain desagertu egin da.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Espraia
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen mapa bat dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ohar bat dago sofari buruz.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Neely-ren tabernan itxarongo zaitut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen mapa bat dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zer da Martin Streetenamaieran dagoen sinbolo hori?
+[ffff]
+[9000]
+}
+{
+[8000]
+Mapan kopiatu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Harribitxi urdin bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}

@@ -4,4 +4,184 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 30
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Mari?[ffff][8000]}{[8000]Noiz utziko diozuakats bera egiteari?[ffff][8000]}{[8000]Mari hilda dago.Zuk hil zenuen.[ffff][8000]}{[8000]Mari...?[ffff][8000]}{[8000]Zu zara...Baina jada ez zaitut behar.[ffff][8000]}{[8000]Zer?Adarra jotzen zabiltza, ezta?![ffff][8000]}{[8000]Zurea izan naiteke...Beti edukiko nauzu.[ffff][8000]}{[8000]Eta ez zaitut inoiz oihukatukoeta ez zaitut gaizki sentiaraziko.[ffff][8000]}{[8000]Hori da nahi zenuena![ffff][8000]}{[8000]Ez naiz Mari bezalakoa...Nola arbuia nazakezu?[ffff][8000]}{[8000]Orain ulertzen dut.[ffff][8000]}{[8000]Amesgaizto honi amaieraemateko ordua da.[ffff][8000]}{[8000]Ez! Ez zaitut utziko![ffff][8000]}{[8000]Zuk ere hiltzea merezi duzu, James.[ffff][8000]}{[8000]Mari...?[ffff][8000]}{[8000]James...[ffff][8000]}{[8000]Barkatu...[ffff][8000]}{[8000]Esan nizun hil egin nahi nuela, James.[ffff][8000]}{[8000]Mina gelditzea nahi nuen.[ffff][8000]}{[8000]Horregatik egin dut, laztana.Ezin nuen jasan zu sufritzen ikustea...[ffff][8000]}{[8000]Ez, hori ez da egia osoa.[ffff][8000]}{[8000]Ez zenuela hil nahiere esan zenuen.[ffff][8000]}{[8000]Egia esan, gorroto zintudan.Zutaz libratu nahi nuen.[ffff][8000]}{[8000]Nire bizitza berreskuratu nahi nuen...[ffff][8000]}{[8000]James... Hori egia bada,zergatik ematen duzu hain triste?[ffff][8000]}{[8000]Mari...?[ffff][8000]}{[8000]James...[ffff][8000]}{[8000]Mesedez...Mesedez, egizu zerbait nigatik.[ffff][8000]}{[8000]Jarraitu zure bizitzarekin.[ffff][8000]}{[8000]Orain ezin naiz itzuli.Ez da ihes egiteko unea.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Mari?
+[ffff]
+[8000]
+}
+{
+[8000]
+Noiz utziko diozuakats bera egiteari?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari hilda dago.Zuk hil zenuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Zu zara...Baina jada ez zaitut behar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer?Adarra jotzen zabiltza, ezta?!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zurea izan naiteke...Beti edukiko nauzu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta ez zaitut inoiz oihukatukoeta ez zaitut gaizki sentiaraziko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori da nahi zenuena!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez naiz Mari bezalakoa...Nola arbuia nazakezu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain ulertzen dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Amesgaizto honi amaieraemateko ordua da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez! Ez zaitut utziko!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zuk ere hiltzea merezi duzu, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Barkatu...
+[ffff]
+[8000]
+}
+{
+[8000]
+Esan nizun hil egin nahi nuela, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mina gelditzea nahi nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik egin dut, laztana.Ezin nuen jasan zu sufritzen ikustea...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, hori ez da egia osoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez zenuela hil nahiere esan zenuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Egia esan, gorroto zintudan.Zutaz libratu nahi nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nire bizitza berreskuratu nahi nuen...
+[ffff]
+[8000]
+}
+{
+[8000]
+James... Hori egia bada,zergatik ematen duzu hain triste?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari...?
+[ffff]
+[8000]
+}
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mesedez...Mesedez, egizu zerbait nigatik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Jarraitu zure bizitzarekin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orain ezin naiz itzuli.Ez da ihes egiteko unea.
+[ffff]
+[9000]
+}

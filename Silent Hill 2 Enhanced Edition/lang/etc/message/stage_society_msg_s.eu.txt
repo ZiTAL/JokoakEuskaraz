@@ -9,154 +9,247 @@ http://inetmedia.uni-dubna.ru/
 
 BEGIN_SOURCE:
 {
+
 [8000]
 Seguru hemen koadro bat egongo zela.
+
 [ffff]
+
 [1000]
+
 [8000]
 Deskribapena besterik ez da geratzen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 "Ibaiertzeko paisaia"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Allen Smith (Jaioteguna eta
 heriotza ezezagunak)
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Inguru honetako antzinako paisaia.
 Antza denez, 1820ko hamarkadan
 margotu zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Garai hartan askoz jende gutxiago
 zegoen eta eraikin gutxi batzuk
 baino ez.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 "Ibaiertzeko paisaia"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Allen Smith (Jaioteguna eta
 heriotza ezezagunak)
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Inguru honetako antzinako paisaia.
 Antza denez, 1820ko hamarkadan
 margotu zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Garai hartan askoz jende
 gutxiago zegoen eta eraikin
 gutxi batzuk baino ez.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [01ff]
 "Egun lainotsua,
 epaiketaren hondarrak"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [00ff]
 Bera da...
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Argazki honek ez du ezer berezirik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Beira-arasak ez du batere interesik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Argazki zahar asko daude.
 Hiri honetako argazkiak dirudite.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Testuak ez du ezer baliagarririk esaten.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Obsidiana-kopa bat
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Argazki bat dago zintzilik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Wiltse ikatz meategia
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Zulo sakon baten argazkia dago.
 Zer izan liteke...?
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Argazki bat dago zintzilik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Brookhaven ospitalea (1880)
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Ospitale hau etorkin talde
 batek ekarri zuen izurrite
@@ -165,21 +258,29 @@ zen. Jatorrian etxola bat
 baino ez zen, baina
 denborarekin hazten
 joan zen.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Zulo sakon baten argazkia dago.
 Zer izan liteke...?
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Brookhaven Ospitale zaharreko
 zuzendariaren argazki bat.
 Badirudi ospetsua zela hemen.
+
 [ffff]
+
 [9000]
 }

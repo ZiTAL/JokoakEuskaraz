@@ -4,6 +4,249 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 32
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Ez dut apaleko ezer behar.[ffff][9000]}{[8000]Botoia estutzen dut,baina ez da ezer gertatzen.[ffff][9000]}{[8000]Maleta itxita dago.[ffff][9000]}{[8000]Maletatxoan ez dago ezer.[ffff][9000]}{[8000]Argazkiak daudeohe osoan sakabanatuta.[ffff][1000][8000]Zer da hau...?[ffff][9000]}{[8000]Argazkiaren zati baterrotuladore batekin ezabatu da.[ffff][9000]}{[8000]Zer da hau?Abisu bat dago botoian.[ffff][1000][8000][01ff]Baimendutako pisua: pertsona bat[ffff][9000]}{[8000]Apala hutsik dago.[ffff][9000]}{[8000]Apala hutsik dago.[ffff][1000][8000]Uste dut nire gauzakhemen gorde ditzakedala.[ffff][1000][8000]Objektu bat jarrikoduzu apalean?[f6ff][ffff][8000]}{[8000]
+BEGIN_SOURCE:
+{
+[8000]
+Ez dut apaleko ezer behar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Botoia estutzen dut,baina ez da ezer gertatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Maleta itxita dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Maletatxoan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Argazkiak daudeohe osoan sakabanatuta.
+[ffff]
+[1000]
+[8000]
+Zer da hau...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Argazkiaren zati baterrotuladore batekin ezabatu da.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zer da hau?Abisu bat dago botoian.
+[ffff]
+[1000]
+[8000]
+[01ff]
+Baimendutako pisua: pertsona bat
+[ffff]
+[9000]
+}
+{
+[8000]
+Apala hutsik dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Apala hutsik dago.
+[ffff]
+[1000]
+[8000]
+Uste dut nire gauzakhemen gorde ditzakedala.
+[ffff]
+[1000]
+[8000]
+Objektu bat jarrikoduzu apalean?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
 
-[e0ff]jarri nuen apalean.[ffff][9000]}{[8000]Apalean dagoen guztiakenduko duzu?[f6ff][ffff][8000]}{[8000][03ff]Errauskinerenmusika-kutxa bat[00ff]aurkitu dut..[ffff][9000]}{[8000][03ff]Hoteleko 204. gelako giltza[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Langileen igogailuaren giltza[00ff]aurkitu dut.[ffff][9000]}{[8000] [03ff]Hoteleko 204. gelako giltza[00ff]erabili dut.[ffff][9000]}{[8000][03ff]Langileen igogailuko giltza[00ff]erabili dut.[ffff][9000]}{[8000][03ff]Arrainaren giltza[00ff]erabili dut.[ffff][9000]}{[8000][03ff]Disolbatzailea[00ff]erabili dut.[ffff][9000]}{[8000]Oharren liburuan ez dagoezer interesgarririk.[ffff][9000]}{[8000]Ez dut ezer entzuten entzungailuagatik.Telefono-linea moztuta egongo da?[ffff][9000]}{[8000]Tiraderan ez dago ezer.[ffff][9000]}{[8000]Hemen liburuxka turistikoak daude.Orain ez zaizkit interesatzen.[ffff][9000]}{[8000]Liburu bat. "Saretan zehar dantzan JAVA erabiliz"Ez dirudi oso erabilgarria denik.[ffff][9000]}{[8000]Liburu bat dago zabalikidazmahaiaren gainean.Medikuntzakoa dirudi.[ffff][1000][8000]Medikuntzako liburu askoirakurri ditut. Batek ereez zuen ezertarako balio izan.[ffff][9000]}{[8000]Hemen ez dago ezererabilgarria dirudienik.[ffff][9000]}{[8000]Ez dago ezer interesgarririk.[ffff][9000]}{[8000]Hotel honetako koadro bat.[ffff][9000]}{[8000]Txirrina.Ez dut uste inor agertuko denik.[ffff][9000]}{[8000]Hona hemen enplegatuentzakoarauak. Ez dute nirekinzerikusirik.[ffff][9000]}{[8000]Hemen oharrak daude zintzilik.Baina ez dute ezer interesgarririk esaten.[ffff][9000]}{[8000]Kutxa hutsik dago.[ffff][9000]}{[8000]Uste dut nire gauzakhemen gorde ditzakedala.[ffff][1000][8000]Objektu bat jarrikoduzu apalean?[f6ff][ffff][8000]}
+
+[e0ff]
+jarri nuen apalean.
+[ffff]
+[9000]
+}
+{
+[8000]
+Apalean dagoen guztiakenduko duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Errauskinerenmusika-kutxa bat
+[00ff]
+aurkitu dut..
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Hoteleko 204. gelako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Langileen igogailuaren giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+ 
+[03ff]
+Hoteleko 204. gelako giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Langileen igogailuko giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Arrainaren giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Disolbatzailea
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Oharren liburuan ez dagoezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dut ezer entzuten entzungailuagatik.Telefono-linea moztuta egongo da?
+[ffff]
+[9000]
+}
+{
+[8000]
+Tiraderan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen liburuxka turistikoak daude.Orain ez zaizkit interesatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Liburu bat. "Saretan zehar dantzan JAVA erabiliz"Ez dirudi oso erabilgarria denik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Liburu bat dago zabalikidazmahaiaren gainean.Medikuntzakoa dirudi.
+[ffff]
+[1000]
+[8000]
+Medikuntzako liburu askoirakurri ditut. Batek ereez zuen ezertarako balio izan.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen ez dago ezererabilgarria dirudienik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hotel honetako koadro bat.
+[ffff]
+[9000]
+}
+{
+[8000]
+Txirrina.Ez dut uste inor agertuko denik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hona hemen enplegatuentzakoarauak. Ez dute nirekinzerikusirik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen oharrak daude zintzilik.Baina ez dute ezer interesgarririk esaten.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kutxa hutsik dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Uste dut nire gauzakhemen gorde ditzakedala.
+[ffff]
+[1000]
+[8000]
+Objektu bat jarrikoduzu apalean?
+[f6ff]
+[ffff]
+[8000]
+}

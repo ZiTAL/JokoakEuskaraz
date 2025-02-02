@@ -4,4 +4,40 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 6
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Handik joan zen.[ffff][8000]}{[8000]Ez dago beste biderik?[ffff][8000]}{[8000]Bai, badago.[ffff][8000]}{[8000]Hortik.[ffff][8000]}{[8000]Ezin da. Itxita dago.[ffff][8000]}{[8000]James, ezin zara hortik joan.[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Handik joan zen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dago beste biderik?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, badago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hortik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezin da. Itxita dago.
+[ffff]
+[8000]
+}
+{
+[8000]
+James, ezin zara hortik joan.
+[ffff]
+[8000]
+}

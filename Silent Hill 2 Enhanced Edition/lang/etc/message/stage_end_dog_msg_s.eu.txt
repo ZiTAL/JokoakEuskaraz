@@ -4,4 +4,10 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 1
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Hau da, zuk antolatu duzu dena![ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Hau da, zuk antolatu duzu dena!
+[ffff]
+[8000]
+}

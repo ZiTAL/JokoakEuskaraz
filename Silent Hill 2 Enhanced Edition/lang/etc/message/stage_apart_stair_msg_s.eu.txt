@@ -4,4 +4,46 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 5
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Eskailerak hautsita daude.Ezin naiz gehiago igo.[ffff][9000]}{[8000][03ff]Zuku pakete bat[00ff]aurkitu dut latan.[ffff][9000]}{[8000][03ff]Apartamentu-eraikinaren mapa[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Mendebaldeko apartamentu-eraikinaren mapa[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Patioko giltza[00ff]erabili dut.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Eskailerak hautsita daude.Ezin naiz gehiago igo.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Zuku pakete bat
+[00ff]
+aurkitu dut latan.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Apartamentu-eraikinaren mapa
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Mendebaldeko apartamentu-eraikinaren mapa
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Patioko giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}

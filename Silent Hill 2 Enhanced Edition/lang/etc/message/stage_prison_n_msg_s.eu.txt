@@ -9,54 +9,81 @@ http://inetmedia.uni-dubna.ru/
 
 BEGIN_SOURCE:
 {
+
 [8000]
 Gorpu bat.
 Bala-zuloz beteta dago.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Hemen aldizkari bat dago.
+
 [ffff]
+
 [1000]
+
 [8000]
 Ez dut inoiz ikusi.
 Tokiko aldizkari bat izango da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Toluca lakua hiriko erakarpen
 turistiko nagusia da. Aintzira
 eder eta kristalino honek alde
 ezkutua ere badu.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Herrialde osoko herri
 zaharretako mamuen istorio
 tipikoa irudi dezake honek,
 baina kasu honetan,
 elezaharra egia da.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  1918ko azaroko egun lainotsu
 batean, Little Baroness,
 turistaz betetako itsasontzia,
 ez zen portura itzuli.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Garai hartako artikulu batek
 hauxe besterik ez zuen esaten:
@@ -67,279 +94,420 @@ gaur arte ez da aurkitu ez
 itsasontziaren hondarrik, ez
 tripulazioaren eta bidaiarien
 14 gorpurik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  1939an gertakari are
 arraroagoa gertatu zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [00ff]
 Orrialde asko kenduta daude.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Gorpu asko daude lakuaren
 hondoan. Bere esku hezurtsuak
 gainetik pasatzen diren
 itsasontzietarantz altxatzen
 dira, agian bere burkideen bila.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Salto egingo al duzu?
+
 [f6ff]
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Ez du zentzurik argizaria
 besterik gabe urtzeak.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Honek ez du
 ezertarako balio.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Argizaria zuloan jarri nahi badut,
 urtu egin behar dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Estalki bat dago lurrean,
 baina ezin dut ireki.
+
 [ffff]
+
 [1000]
+
 [8000]
 Zirrikitu bat besterik ez da geratzen,
 eskulekua zegoen lekuan.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Espetxeko mapa bat
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Txerri tripontziaren egurtxoa
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Limurtzailearen egurtxoa
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Ehiza-errifle bat
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [03ff]
 Txiskeroa
+
 [00ff]
 aurkitu dut.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Norbait hiltzea ez da hainbesterako.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Pistola buruan jarri
 eta... danba!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Hil egin al duzu?
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Ba... baina ez zen nire errua izan!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Behartu ninduen!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Lasai, Eddie.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Kontaidazu zer gertatu den.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Tipo horrek... merezi zuen!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Nik ez dut ezer egin.
 Bera zen atzetik zetorkidana!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Gainera, barre egiten
 zidan begiradaz!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Beste hura bezala...
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Eta horregatik bakarrik hil al duzu?
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Nola "horregatik bakarrik"?
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Eddie, ezin duzu inor hil
 gaizki begiratzen zaituelako!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 A, ez?! Zergatik ez?
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Orain arte, beti utzi
 diet adarra jotzen.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Txakur tentel hura bezala...
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Berak ere merezi zuen!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Eddie!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Kar, kar... Txantxa zen, James.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Hilda zegoen iritsi
 naizenerako. Benetan.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Tira, banoa.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Bakarrik joango al zara?
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Bai.
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Eddie...!
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
 Hemen egunkari bat dago.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Presoek ez dute damurik
 sentitzen. Izan ere, ez
@@ -348,58 +516,85 @@ gaiztoak izan daitezkeenik.
 Animalia analfabetoenak ere,
 dakizkien hitz apurrak erabiliko
 ditu bere burua zuritzeko.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Eta halako amets hutsalak
 izango dituzte,
 iluntasunean ere
 loratzen direnak.
 Presoak ez dira salbuespenak.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Norberaren existentzia eta bizitza
 infektatu edo higuingarria dena alde
 batera utzita, giza izaera iraunkorra da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Arbel bat. Idatzita
 zegoena ezabatu dute.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Idazmahaiari buruzko dokumentuak daude.
 Ez dute nirekin zerikusirik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Hemen ez dago ezer interesgarririk.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Atea jotzen dut,
 baina ez dago erantzunik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
 Hemen dutxa dago.
 Baina apurtuta dago, ez da urik ateratzen.
+
 [ffff]
+
 [9000]
 }

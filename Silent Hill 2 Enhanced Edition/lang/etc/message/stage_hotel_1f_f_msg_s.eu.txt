@@ -4,8 +4,786 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 95
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Botoiari ematen diot,baina ez da ezer gertatzen.[ffff][9000]}{[8000]Piano normala.[ffff][9000]}{[8000][faff][01ff]James Sunderland jauna:
+BEGIN_SOURCE:
+{
+[8000]
+Botoiari ematen diot,baina ez da ezer gertatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Piano normala.
+[ffff]
+[9000]
+}
+{
+[8000]
+[faff]
+[01ff]
+James Sunderland jauna:
 
-Utzitako zintalehen solairukobulegoan dago.[ffff][9000]}{[8000]Musika-kutxa bat.[ffff][9000]}{[8000]Musika-kutxa martxanjarriko al duzu?[f6ff][ffff][8000]}{[8000]Honek ez du itxura onik.[ffff][1000][8000]Musika kutxa hautsitaal dago? Edo agian...[ffff][9000]}{[8000]Zirrikitu angeluzuzen bat dago.[ffff][1000][8000]Plaka bat dauka aurrean,inskripzio batekin.[ffff][9000]}{[8000][01ff]Galdutakoa itzultzen denean,nota garratza gozoa izango da.[ffff][9000]}{[8000]?[01ff]Hala eta guztiz ere, zoriontsuizan zela sinesten jarraitu nahi dut.[ffff][9000]}{[8000][01ff]Printzesaren eserlekua,hitzik egiten ez zuena.[ffff][9000]}{[8000][01ff]Gutizia izan zen zapataodoleztatu ziona.[ffff][9000]}{[8000][01ff]Gauerdian ihes egin zuenprintzesaren eserlekua.[ffff][9000]}{[8000][01ff]Edertasuna: bedeinkazioaeta madarikazioa aldi berean.[ffff][9000]}{[8000][01ff]Heriotzatik esnatu zenprintzesaren eserlekua.[ffff][9000]}{[8000]Oraindik ezin dut hotel hau utzi.[ffff][9000]}{[8000]Barruan ez dago ezer.[ffff][9000]}{[8000][01ff]"Zure zain"...[ffff][1000][8000][00ff]Zer da hau...?[ffff][1000][8000]312. gela... Mari eta biokegon ginena...[ffff][1000][8000]Mari, hor zaude?Edo agian...[ffff][1000][8000]Badaukat[03ff]hotelaren mapa(ostalarientzat)[00ff].[ffff][9000]}{[8000][03ff]Hoteleko 312 gelako giltza[00ff]aurkitu dut.[ffff][1000][8000]Marik eta biok ostatu hartugenuen gelako giltza da...[ffff][9000]}{[8000][03ff]Hoteleko mapa bat(langileentzat)[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Hoteleko eskaileretako giltza[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Bideo-zinta[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]lara-irekigailua[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Edurnezuriren musika-kutxa[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Arrainaren giltza [00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Edurnezuriren musika-kutxa[00ff]jarri dut.[ffff][9000]}{[8000][03ff]Sirenatxoaren musika-kaxa[00ff]jarri dut.[ffff][9000]}{[8000][03ff]Errauskineren musika-kutxa[00ff]jarri dut.[ffff][9000]}{[8000][03ff]Edurnezuriren musika-kutxa[00ff]dago.[ffff][1000][8000]Musika kutxahartuko al duzu?[f6ff][ffff][8000]}{[8000][03ff]Sirenatxoaren musika-kaxa[00ff]dago.[ffff][1000][8000]Musika kutxahartuko al duzu?[f6ff][ffff][8000]}{[8000][03ff]Errauskineren musika-kutxa[00ff]dago.[ffff][1000][8000]Musika kutxahartuko al duzu?[f6ff][ffff][8000]}{[8000]Izutu egin al zaitut?[ffff][8000]}{[8000]Bai, egia esan.[ffff][8000]}{[8000]Mari aurkitzera etorri zara,ezta, James?[ffff][8000]}{[8000]Lortu al duzu?[ffff][8000]}{[8000]Ez... zu ere etorri zaraharen bila?[ffff][8000]}{[8000]Hemen dago, ezta?[ffff][8000]}{[8000]Non dagoen baldin badakizu, esadazu![ffff][8000]}{[8000]Ibiltzeaz nazkatuta nago.[ffff][8000]}{[8000]Jakingo banu...[ffff][8000]}{[8000]Baina zure gutunean esan bazenuen...[ffff][8000]}{[8000]Zer gutun?[ffff][8000]}{[8000]Irakurri nahi al duzu?[ffff][8000]}{[8000]Baina ez esan Racheli, e.[ffff][8000]}{[8000]Nor da Rachel?[ffff][8000]}{[8000]Gure erizaina.[ffff][8000]}{?[8000]Gutuna bere tiraderatik hartu nuen.[ffff][8000]}{[8000][faff][01ff]Laura maitea:
+Utzitako zintalehen solairukobulegoan dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Musika-kutxa bat.
+[ffff]
+[9000]
+}
+{
+[8000]
+Musika-kutxa martxanjarriko al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Honek ez du itxura onik.
+[ffff]
+[1000]
+[8000]
+Musika kutxa hautsitaal dago? Edo agian...
+[ffff]
+[9000]
+}
+{
+[8000]
+Zirrikitu angeluzuzen bat dago.
+[ffff]
+[1000]
+[8000]
+Plaka bat dauka aurrean,inskripzio batekin.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Galdutakoa itzultzen denean,nota garratza gozoa izango da.
+[ffff]
+[9000]
+}
+{
+[8000]
+?
+[01ff]
+Hala eta guztiz ere, zoriontsuizan zela sinesten jarraitu nahi dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Printzesaren eserlekua,hitzik egiten ez zuena.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Gutizia izan zen zapataodoleztatu ziona.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Gauerdian ihes egin zuenprintzesaren eserlekua.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Edertasuna: bedeinkazioaeta madarikazioa aldi berean.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Heriotzatik esnatu zenprintzesaren eserlekua.
+[ffff]
+[9000]
+}
+{
+[8000]
+Oraindik ezin dut hotel hau utzi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Barruan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+"Zure zain"...
+[ffff]
+[1000]
+[8000]
+[00ff]
+Zer da hau...?
+[ffff]
+[1000]
+[8000]
+312. gela... Mari eta biokegon ginena...
+[ffff]
+[1000]
+[8000]
+Mari, hor zaude?Edo agian...
+[ffff]
+[1000]
+[8000]
+Badaukat
+[03ff]
+hotelaren mapa(ostalarientzat)
+[00ff]
+.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Hoteleko 312 gelako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[1000]
+[8000]
+Marik eta biok ostatu hartugenuen gelako giltza da...
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Hoteleko mapa bat(langileentzat)
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Hoteleko eskaileretako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Bideo-zinta
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+lara-irekigailua
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Edurnezuriren musika-kutxa
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Arrainaren giltza 
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Edurnezuriren musika-kutxa
+[00ff]
+jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Sirenatxoaren musika-kaxa
+[00ff]
+jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Errauskineren musika-kutxa
+[00ff]
+jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Edurnezuriren musika-kutxa
+[00ff]
+dago.
+[ffff]
+[1000]
+[8000]
+Musika kutxahartuko al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Sirenatxoaren musika-kaxa
+[00ff]
+dago.
+[ffff]
+[1000]
+[8000]
+Musika kutxahartuko al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Errauskineren musika-kutxa
+[00ff]
+dago.
+[ffff]
+[1000]
+[8000]
+Musika kutxahartuko al duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Izutu egin al zaitut?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, egia esan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari aurkitzera etorri zara,ezta, James?
+[ffff]
+[8000]
+}
+{
+[8000]
+Lortu al duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez... zu ere etorri zaraharen bila?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hemen dago, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Non dagoen baldin badakizu, esadazu!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ibiltzeaz nazkatuta nago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Jakingo banu...
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina zure gutunean esan bazenuen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer gutun?
+[ffff]
+[8000]
+}
+{
+[8000]
+Irakurri nahi al duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina ez esan Racheli, e.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nor da Rachel?
+[ffff]
+[8000]
+}
+{
+[8000]
+Gure erizaina.
+[ffff]
+[8000]
+}
+{
+?
+[8000]
+Gutuna bere tiraderatik hartu nuen.
+[ffff]
+[8000]
+}
+{
+[8000]
+[faff]
+[01ff]
+Laura maitea:
 
-Gutun hau Racheli uzten diot,ni joandakoan eman diezaiozun.[ffff][1000][8000][faff][01ff]Orain oso urrun nago.Leku eder eta lasai batean.[ffff][1000][8000][faff][01ff]Mesedez, barkatuagur ez esateagatik.[ffff][1000][8000][faff][01ff]Zaindu, Laura.[ffff][1000][8000][faff][01ff]Ez izan oso gogorra mojatxoekin.[ffff][1000][8000][faff][01ff]Laura, Jamesi dagokionez...Badakit gorroto duzula usteduzulako ez nauela ondo tratatzenbaina, mesedez, eman aukera bat.[ffff][1000][8000][faff][01ff]Egia da batzuetan kaskagogorsamarra dela eta ez duelabarre askorik egiten.Baina, funtsean, pertsona ona da.[ffff][1000][8000][faff][01ff]Laura...Nire alaba bazinabezala maite zaitut.[ffff][1000][8000][faff][01ff]?Gauzak bestela joan balira,adoptatu egingo zintuzkedan.[ffff][1000][8000][faff][01ff]Zorionak, Laura.[ffff][1000][8000][faff][01ff]Zure laguna betiko,Mari[ffff][9000]}{[8000]Laura... zenbat urte dituzu?[ffff][8000]}{[8000]Mmm... Zortzi urte bete nituen joan den astean.[ffff][8000]}{[8000]Orduan Mari ezin izan zen hil...duela hiru urte...[ffff][8000]}{[8000]Benetan al zaude hemen?[ffff][8000]}{[8000]Hau al da aipatu duzunleku eder eta lasaia?[ffff][8000]}{[8000]Marik eta biok asko hitz egingenuen Silent Hill-i buruz.[ffff][8000]}{[8000]Bere argazki guztiak ere erakutsi zizkidan.Zoratzen nengoen itzultzeko.[ffff][8000]}{[8000]Horregatik etorri naiz hona.[ffff][8000]}{[8000]Agian ulertuko duzubeste gutuna irakurtzean...[ffff][8000]}{[8000]Marik... Eh?[ffff]?[8000]}{[8000]Erori egingo zitzaidan![ffff][8000]}{[8000]Laura...[ffff][8000]}{[8000]Aurkitu behar dut![ffff][8000]}{[8000]Laura![ffff][8000]}{[8000]Zirrikitu angeluzuzen bat dago.[ffff][1000][8000]Plaka bat dauka aurrean,inskripzio bat du.[ffff][9000]}{[8000][01ff]Printzesaren eserlekua,hitzik egiten ez zuena.[ffff][9000]}{[8000]Zirrikitu angeluzuzen bat dago.[ffff][1000][8000]Plaka bat dauka aurrean,inskripzio bat du.[ffff][9000]}{[8000][01ff]Gauerdian ihes egin zuenprintzesaren eserlekua.[ffff][9000]}{[8000]Zirrikitu angeluzuzen bat dago.[ffff][1000][8000]Plaka bat dauka aurrean,inskripzio bat du.[ffff][9000]}{[8000][01ff]Heriotzatik esnatu zenprintzesaren eserlekua.[ffff][9000]}{[8000]Lata-irekigailua dagobideo-zintaren azpian.[ffff]?[9000]}{[8000]Pianoa.[ffff][1000][8000]Gogoan dut Marik oso gogokozuela pianoa jotzea.[ffff][1000][8000]Ez zen oso ona...[ffff][1000][8000]baina niri asko gustatzenzitzaidan jotzen entzutea.[ffff][1000][8000]Hori aspaldi gertatu zen,ezkondu aurretik ere.Zergatik pentsatzen dut orain...?[ffff][9000]}{[8000]Plater huts bat, labana bat,sardexka bat eta kito.Ez dago ezer interesgarririk.[ffff][9000]}{[8000]Laurak egindako marrazki bat...Katu bat al da?[ffff][9000]}{[8000]Disko-musikakutxa bat dago.[ffff][1000][8000]Badirudi zerbait idatzitaduela aurrean, baina ilunegidago ikusteko.[ffff][9000]}{[8000]Txirrina.Ez dut uste inor agertuko denik.[ffff][9000]}{[8000]hemen ez dago baliagarridirudien ezer.[ffff][9000]}{[8000]Telefonoa hautsita dagoela dirudi.[ffff][9000]}{?[8000]Ez dago beste giltzarik.[ffff][9000]}{[8000]Koadro bat.Ez du ezer berezirik.[ffff][9000]}{[8000]Ez dago ezerinteresgarririk apalean.[ffff][9000]}{[8000]Sarraila hautsita dago.Ezin dut ireki.[ffff][9000]}{[8000]Idazmahaiko dokumentuetan ez dagoezer interesgarririk.[ffff][9000]}{[8000]hemen patatak eta tipulak daude.Ustel kiratsa darie.[ffff][9000]}{[8000]Sagarrak eta kalabazak.[ffff][9000]}{[8000]Fruta lata ilara.Denbora daramate iraungita.[ffff][9000]}{[8000]hemen te poltsatxoak eta galletak daude.Iraungita daude.[ffff][9000]}{[8000]Zuku laten ilara.Ez dago arrazoirik eramateko.[ffff][9000]}{[8000]Hemen zopa-latak daude.Uste dut ez daudela iraungita,baina ez naiz gose.[ffff][9000]}{[8000]Hemen ez dago ezer.Baina lizun-usainadario.?[ffff][9000]}{[8000]hemen erloju erregistratzaile bat dago.Erlojua ez dabil.Apurtuta egongo da.[ffff][9000]}{[8000]hemen ez dago ezer interesgarririk.[ffff][9000]}{[8000]Labetxo bat.[ffff][1000][8000]Atzean, letra txikiz idatzitakozerbait dago:[fdff][01ff]"Johnny naiz eta bero nago".[00ff][ffff][9000]}{[8000]hemen egutegi bat dago.Iazkoa da.[ffff][9000]}{[8000]Pertsiana itxita dago.[ffff][9000]}{[8000]Kartoizko kaxa bat.Barruan ez dago ezer.[ffff][9000]}{[8000]Komuneko papera...Orain ez dut behar.[ffff][9000]}{[8000]Garbitegiko kotxetxo bat.Barruan ez dago ezer baliogarririk.[ffff][9000]}
+Gutun hau Racheli uzten diot,ni joandakoan eman diezaiozun.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Orain oso urrun nago.Leku eder eta lasai batean.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Mesedez, barkatuagur ez esateagatik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zaindu, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Ez izan oso gogorra mojatxoekin.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura, Jamesi dagokionez...Badakit gorroto duzula usteduzulako ez nauela ondo tratatzenbaina, mesedez, eman aukera bat.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Egia da batzuetan kaskagogorsamarra dela eta ez duelabarre askorik egiten.Baina, funtsean, pertsona ona da.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Laura...Nire alaba bazinabezala maite zaitut.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+?Gauzak bestela joan balira,adoptatu egingo zintuzkedan.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zorionak, Laura.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Zure laguna betiko,Mari
+[ffff]
+[9000]
+}
+{
+[8000]
+Laura... zenbat urte dituzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Mmm... Zortzi urte bete nituen joan den astean.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orduan Mari ezin izan zen hil...duela hiru urte...
+[ffff]
+[8000]
+}
+{
+[8000]
+Benetan al zaude hemen?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hau al da aipatu duzunleku eder eta lasaia?
+[ffff]
+[8000]
+}
+{
+[8000]
+Marik eta biok asko hitz egingenuen Silent Hill-i buruz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bere argazki guztiak ere erakutsi zizkidan.Zoratzen nengoen itzultzeko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik etorri naiz hona.
+[ffff]
+[8000]
+}
+{
+[8000]
+Agian ulertuko duzubeste gutuna irakurtzean...
+[ffff]
+[8000]
+}
+{
+[8000]
+Marik... Eh?
+[ffff]
+?
+[8000]
+}
+{
+[8000]
+Erori egingo zitzaidan!
+[ffff]
+[8000]
+}
+{
+[8000]
+Laura...
+[ffff]
+[8000]
+}
+{
+[8000]
+Aurkitu behar dut!
+[ffff]
+[8000]
+}
+{
+[8000]
+Laura!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zirrikitu angeluzuzen bat dago.
+[ffff]
+[1000]
+[8000]
+Plaka bat dauka aurrean,inskripzio bat du.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Printzesaren eserlekua,hitzik egiten ez zuena.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zirrikitu angeluzuzen bat dago.
+[ffff]
+[1000]
+[8000]
+Plaka bat dauka aurrean,inskripzio bat du.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Gauerdian ihes egin zuenprintzesaren eserlekua.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zirrikitu angeluzuzen bat dago.
+[ffff]
+[1000]
+[8000]
+Plaka bat dauka aurrean,inskripzio bat du.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Heriotzatik esnatu zenprintzesaren eserlekua.
+[ffff]
+[9000]
+}
+{
+[8000]
+Lata-irekigailua dagobideo-zintaren azpian.
+[ffff]
+?
+[9000]
+}
+{
+[8000]
+Pianoa.
+[ffff]
+[1000]
+[8000]
+Gogoan dut Marik oso gogokozuela pianoa jotzea.
+[ffff]
+[1000]
+[8000]
+Ez zen oso ona...
+[ffff]
+[1000]
+[8000]
+baina niri asko gustatzenzitzaidan jotzen entzutea.
+[ffff]
+[1000]
+[8000]
+Hori aspaldi gertatu zen,ezkondu aurretik ere.Zergatik pentsatzen dut orain...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Plater huts bat, labana bat,sardexka bat eta kito.Ez dago ezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Laurak egindako marrazki bat...Katu bat al da?
+[ffff]
+[9000]
+}
+{
+[8000]
+Disko-musikakutxa bat dago.
+[ffff]
+[1000]
+[8000]
+Badirudi zerbait idatzitaduela aurrean, baina ilunegidago ikusteko.
+[ffff]
+[9000]
+}
+{
+[8000]
+Txirrina.Ez dut uste inor agertuko denik.
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen ez dago baliagarridirudien ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Telefonoa hautsita dagoela dirudi.
+[ffff]
+[9000]
+}
+{
+?
+[8000]
+Ez dago beste giltzarik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Koadro bat.Ez du ezer berezirik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezerinteresgarririk apalean.
+[ffff]
+[9000]
+}
+{
+[8000]
+Sarraila hautsita dago.Ezin dut ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Idazmahaiko dokumentuetan ez dagoezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen patatak eta tipulak daude.Ustel kiratsa darie.
+[ffff]
+[9000]
+}
+{
+[8000]
+Sagarrak eta kalabazak.
+[ffff]
+[9000]
+}
+{
+[8000]
+Fruta lata ilara.Denbora daramate iraungita.
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen te poltsatxoak eta galletak daude.Iraungita daude.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zuku laten ilara.Ez dago arrazoirik eramateko.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen zopa-latak daude.Uste dut ez daudela iraungita,baina ez naiz gose.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen ez dago ezer.Baina lizun-usainadario.?
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen erloju erregistratzaile bat dago.Erlojua ez dabil.Apurtuta egongo da.
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen ez dago ezer interesgarririk.
+[ffff]
+[9000]
+}
+{
+[8000]
+Labetxo bat.
+[ffff]
+[1000]
+[8000]
+Atzean, letra txikiz idatzitakozerbait dago:
+[fdff]
+[01ff]
+"Johnny naiz eta bero nago".
+[00ff]
+[ffff]
+[9000]
+}
+{
+[8000]
+hemen egutegi bat dago.Iazkoa da.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pertsiana itxita dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kartoizko kaxa bat.Barruan ez dago ezer.
+[ffff]
+[9000]
+}
+{
+[8000]
+Komuneko papera...Orain ez dut behar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Garbitegiko kotxetxo bat.Barruan ez dago ezer baliogarririk.
+[ffff]
+[9000]
+}

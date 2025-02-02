@@ -4,4 +4,280 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 46
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Ezkerrera mugitu.[ffff][8000]}{[8000]Eskuinera mugitu.[ffff][8000]}{[8000]Ezkerrera biratu.[ffff][8000]}{[8000]Eskuinera biratu.[ffff][8000]}{[8000]Aurrerantz joan[ffff][8000]}{[8000]Atzerantz joan[ffff][8000]}{[8000]Ezkerretara.[ffff][8000]}{[8000]Eskuinera.[ffff][8000]}{[8000]Ezkerretara apuntatu.[ffff][8000]}{[8000]Eskuinera apuntatu.[ffff][8000]}{[8000]Ekintza[ffff][8000]}{[8000]Ezeztatu[ffff][8000]}{[8000]Ez egin/Pausa[ffff][8000]}{[8000]Korrika/Defentsa[ffff][8000]}{[8000]Bilaketa modua[ffff][8000]}{[8000]Inbentarioa[ffff][8000]}{[8000]Linterna[ffff][8000]}{[8000]Helburua finkatzea[ffff][8000]}{[8000]Mapa[ffff][8000]}{[8000]Esc[ffff][8000]}{[8000]Sartu[ffff][8000]}{[8000]Atzera[ffff][8000]}{[8000]Espazioa[ffff][8000]}{[8000]Ezkerreko maiusa.[ffff][8000]}{[8000]Eskuineko maiusa.[ffff][8000]}{[8000]Ezkerreko Ctrl.[ffff][8000]}{[8000]Eskuineko Ctrl.[ffff][8000]}{[8000]Ezkerreko Alt.[ffff][8000]}{[8000]Tab[ffff][8000]}{[8000]Insert[ffff][8000]}{[8000]Inicio[ffff][8000]}{[8000]Supr[ffff][8000]}{[8000]Fin[ffff][8000]}{[8000]Av Pag[ffff][8000]}{[8000]Re Pag[ffff][8000]}{[8000]Ezkerreko kurtsorea.[ffff][8000]}{[8000]Eskuineko kurtsorea.[ffff][8000]}{[8000]Beheko kurtsorea[ffff][8000]}{[8000]Goiko kurtsorea[ffff][8000]}{[8000](T. zk.)[ffff][8000]}{[8000]Sartu[ffff][8000]}{[8000]Ezkerreko pad.[ffff][8000]}{[8000]Eskuinetara.[ffff][8000]}{[8000]Pad Arriba[ffff][8000]}{[8000]Pad Abajo[ffff][8000]}{[8000]Botoia[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Ezkerrera mugitu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuinera mugitu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerrera biratu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuinera biratu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aurrerantz joan
+[ffff]
+[8000]
+}
+{
+[8000]
+Atzerantz joan
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerretara.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuinera.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerretara apuntatu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuinera apuntatu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ekintza
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezeztatu
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez egin/Pausa
+[ffff]
+[8000]
+}
+{
+[8000]
+Korrika/Defentsa
+[ffff]
+[8000]
+}
+{
+[8000]
+Bilaketa modua
+[ffff]
+[8000]
+}
+{
+[8000]
+Inbentarioa
+[ffff]
+[8000]
+}
+{
+[8000]
+Linterna
+[ffff]
+[8000]
+}
+{
+[8000]
+Helburua finkatzea
+[ffff]
+[8000]
+}
+{
+[8000]
+Mapa
+[ffff]
+[8000]
+}
+{
+[8000]
+Esc
+[ffff]
+[8000]
+}
+{
+[8000]
+Sartu
+[ffff]
+[8000]
+}
+{
+[8000]
+Atzera
+[ffff]
+[8000]
+}
+{
+[8000]
+Espazioa
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerreko maiusa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuineko maiusa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerreko Ctrl.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuineko Ctrl.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerreko Alt.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tab
+[ffff]
+[8000]
+}
+{
+[8000]
+Insert
+[ffff]
+[8000]
+}
+{
+[8000]
+Inicio
+[ffff]
+[8000]
+}
+{
+[8000]
+Supr
+[ffff]
+[8000]
+}
+{
+[8000]
+Fin
+[ffff]
+[8000]
+}
+{
+[8000]
+Av Pag
+[ffff]
+[8000]
+}
+{
+[8000]
+Re Pag
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerreko kurtsorea.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuineko kurtsorea.
+[ffff]
+[8000]
+}
+{
+[8000]
+Beheko kurtsorea
+[ffff]
+[8000]
+}
+{
+[8000]
+Goiko kurtsorea
+[ffff]
+[8000]
+}
+{
+[8000]
+(T. zk.)
+[ffff]
+[8000]
+}
+{
+[8000]
+Sartu
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezkerreko pad.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eskuinetara.
+[ffff]
+[8000]
+}
+{
+[8000]
+Pad Arriba
+[ffff]
+[8000]
+}
+{
+[8000]
+Pad Abajo
+[ffff]
+[8000]
+}
+{
+[8000]
+Botoia
+[ffff]
+[8000]
+}

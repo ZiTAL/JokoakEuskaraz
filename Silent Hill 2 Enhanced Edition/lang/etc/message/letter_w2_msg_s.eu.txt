@@ -4,4 +4,17 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 2
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]James...[ffff][8000]}{[8000][78f8]Oso zoriontsu egin nauzu.[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+James...
+[ffff]
+[8000]
+}
+{
+[8000]
+[78f8]
+Oso zoriontsu egin nauzu.
+[ffff]
+[8000]
+}

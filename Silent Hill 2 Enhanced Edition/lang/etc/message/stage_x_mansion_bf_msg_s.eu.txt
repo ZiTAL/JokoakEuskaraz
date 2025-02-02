@@ -4,4 +4,31 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 2
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Plaka moduko bat dago lurrean.[ffff][1000][8000][fbff][faff][01ff]Amy Baldwin[ffff][1000][8000][fbff][faff][01ff]Jainkoak gehiegi maitatu zuen.Zazpi urte ez ziren nahikoak.[ffff][9000]}{[8000][01ff]EZ HURBILDUSORGINDUTAKO ETXERA[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Plaka moduko bat dago lurrean.
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Amy Baldwin
+[ffff]
+[1000]
+[8000]
+[fbff]
+[faff]
+[01ff]
+Jainkoak gehiegi maitatu zuen.Zazpi urte ez ziren nahikoak.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+EZ HURBILDUSORGINDUTAKO ETXERA
+[ffff]
+[9000]
+}

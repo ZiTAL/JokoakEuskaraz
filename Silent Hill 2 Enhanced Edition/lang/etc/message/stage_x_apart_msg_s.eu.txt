@@ -4,6 +4,84 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 8
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Honek parkera daraman kalezuloraeraman beharko ninduke.[ffff][1000][8000]Baina Ernesti emandakohitza bete beharko nuke.[ffff][9000]}{[8000]Zerbait dago idatzita mahaian.[ffff][1000][8000]Ilunegi dago irakurtzeko.[ffff][9000]}{[8000]Leihotik ondoko apartamentuaikus dezaket.[ffff][9000]}{[8000]Itxita dago.[ffff][1000][8000]Ohar bat dago atean itsatsita.[ffff][1000][8000][faff][01ff]Tim maitea: Mandatu bat egitera joan behar dut.[ffff][1000][8000][faff][01ff] Etxeko giltza osaba Davidiutziko diot (Badakizu non biziden, ezta? Giltza lehensolairuko eskaileratikhurbilen dagoen gelan dago).
+BEGIN_SOURCE:
+{
+[8000]
+Honek parkera daraman kalezuloraeraman beharko ninduke.
+[ffff]
+[1000]
+[8000]
+Baina Ernesti emandakohitza bete beharko nuke.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zerbait dago idatzita mahaian.
+[ffff]
+[1000]
+[8000]
+Ilunegi dago irakurtzeko.
+[ffff]
+[9000]
+}
+{
+[8000]
+Leihotik ondoko apartamentuaikus dezaket.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itxita dago.
+[ffff]
+[1000]
+[8000]
+Ohar bat dago atean itsatsita.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Tim maitea: Mandatu bat egitera joan behar dut.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Etxeko giltza osaba Davidiutziko diot (Badakizu non biziden, ezta? Giltza lehensolairuko eskaileratikhurbilen dagoen gelan dago).
 
- Ahal bezain lasteritzuliko naiz, zaindu etxeakanpoan nagoen bitartean, mesedez.[ffff][9000]}{[8000][03ff]Apartamentu-eraikinaren mapa bat[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Likido zuria[00ff]aurkitu dut.[ffff][9000]}{[8000]Kutxa gotor bat...Baina ez dakit nola ireki.[ffff][9000]}{[8000]Nazkagarria...[ffff][9000]}
+ Ahal bezain lasteritzuliko naiz, zaindu etxeakanpoan nagoen bitartean, mesedez.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Apartamentu-eraikinaren mapa bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Likido zuria
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Kutxa gotor bat...Baina ez dakit nola ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Nazkagarria...
+[ffff]
+[9000]
+}

@@ -4,4 +4,86 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 13
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Leku hau ez da baterealdatu hiru urtetan...[ffff][8000]}{[8000][03ff]Sirenatxoaren musika-kaxa[00ff]aurkitu dut.[ffff][9000]}{[8000]Mari...[ffff][8000]}{[8000]Hain... lasaia dirudizu...Barkatu esnatu izana.[ffff][8000]}{[8000]Baina zu gabe, ezerk ez du zentzurik.[ffff][8000]}{[8000]Ezin naiz zu gabe bizi, Mari.[ffff][8000]}{[8000]Hiri hau, Silent Hill...[ffff][8000]}{[8000]Jainko zaharrekez dute abandonatu...[ffff][8000]}{[8000]eta oraindik ere botereaematen diete gurtzen dituztenei...[ffff][8000]}{[8000]Heriotzari ere erronkaegiten dion boterea...[ffff][8000]}{[8000]Ah... Mari...[ffff][8000]}{[8000][01ff]OHARRASARTZEA DEBEKATUTA[ffff][9000]}{[8000]Txori forma duen iturri bat dago.Oraintxe bertan ez da urik ateratzen.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Leku hau ez da baterealdatu hiru urtetan...
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Sirenatxoaren musika-kaxa
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Mari...
+[ffff]
+[8000]
+}
+{
+[8000]
+Hain... lasaia dirudizu...Barkatu esnatu izana.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina zu gabe, ezerk ez du zentzurik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezin naiz zu gabe bizi, Mari.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hiri hau, Silent Hill...
+[ffff]
+[8000]
+}
+{
+[8000]
+Jainko zaharrekez dute abandonatu...
+[ffff]
+[8000]
+}
+{
+[8000]
+eta oraindik ere botereaematen diete gurtzen dituztenei...
+[ffff]
+[8000]
+}
+{
+[8000]
+Heriotzari ere erronkaegiten dion boterea...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah... Mari...
+[ffff]
+[8000]
+}
+{
+[8000]
+[01ff]
+OHARRASARTZEA DEBEKATUTA
+[ffff]
+[9000]
+}
+{
+[8000]
+Txori forma duen iturri bat dago.Oraintxe bertan ez da urik ateratzen.
+[ffff]
+[9000]
+}

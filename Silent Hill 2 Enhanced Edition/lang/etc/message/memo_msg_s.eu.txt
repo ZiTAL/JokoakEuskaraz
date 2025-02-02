@@ -9,361 +9,567 @@ http://inetmedia.uni-dubna.ru/
 
 BEGIN_SOURCE:
 {
+
 [8000]
+
 [fbff]
 Urtegiaren monumentua
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Goizerako ibilbidea"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Nola izan bikote zoriontsua"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Heriotza aukeratu"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Hormako harramazkak
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Hiru altuerako hiru orratz desberdinak dira"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Hiru tamaina desberdin, denborak aurrera egin zuen"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Hilketari buruzko artikulua
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Turismo-liburuxka
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Komunontziaren zorroa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Argazki hautsia
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Tim maitea"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Hiru txanpon distiratsu bost zulotan"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Lehenengo, konparaezinaren idazpena dago"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Eterrera jaurtitako txanponak bezala"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Eskuinean emakumea dago"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Historia klinikoak
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Medikuaren egunerokoa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Arbel zuriko mezua
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Arrastoak ikatz-paperean
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Teilatuaren egunkaria
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Zenbakiak buelta bueltaka"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Louise"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Aingerua da"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Koji la yave del direktor"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Gozokidxe edo ostidxe"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Ibaiertzeko paisaia"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Piramide buruaren koadroa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Urkabean izena ematea
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Lakuaren legenda
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Odolez bustitako egunkaria
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Norbaitek salba nazala"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Hildako gizonak"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Kondenatuaren egunkaria
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Bekatariaren buruaren gaineko heriotza"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Harreragilearen oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Kutxaren argazkia
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "badakit, badakit kutxaren zenbakia"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 1. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 2. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 3. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 4. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 5. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gorpuaren 6. oharra
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Erakusleihoko egunkariak
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Galdutako haurra ez zegoen"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Bekatariaren buruaren gaineko heriotza"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Horman idatzitako hitzak
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Arbel zurian idatzitako zenbakia
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 XXXXXXXXX urtegiaren hondakinak Monumentu hau inguratzen duten XX metroko lurrak urtegi bat ziren organikoki, baina gero lubetak egin zituzten. Aspaldidanik jaso zuen zingira horrek "zingira odoltsua" ezizena, borreroek beren gauzatze-tresnak garbitzeko erabiltzen zuten ura hona isurtzen zutelako. Agian horregatik jende askok dio inguruan mamuak ikusi dituela.
 Urtegiaren hondarrak
+
 [f7ff]
 XXXXXXXXX
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 urtegiaren hondakinak,
 monumentu hau inguratzen duten XX
@@ -376,50 +582,92 @@ gauzatze-tresnak garbitzeko erabiltzen
 zuten ura hona isurtzen zutelako.
 Agian horregatik jende askok dio
 inguruan mamuak ikusi dituela.
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 "Goizerako ibilbidea"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Bizitza osasuntsu baterako lehen
 urratsa gaixotasuna saihestea da.
@@ -428,83 +676,128 @@ oso garrantzitsua da. Hobe da
 gaixotasunak saihestea, gaixotu
 ondoren sendabidea bilatzea baino.
 
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Gainera, bizitzaren ikuspegi positiboa
 eta baikorra izan behar da.
 Ez du ezertarako balio iraganean
 gertatutako gauzez kezkatzeak.
 
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Irten eta aire libreaz gozatu
 behar duzu noizean behin,
 etxean eserita egon beharrean,
 liburu konplexuak irakurtzen.
 
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 "Nola izan bikote zoriontsua"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Benetan maite duzu? Osasunean
 eta gaixotasunean? Benetan
 maite baduzu, ekin egin
 behar diozu. Garrantzitsuena da
 zenbat borrokatzen duzun beragatik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Ez etsi, zer gerta ere. Beti
 ematen du beste aukera bat.
 Eta unerik gogorrenak izan
 arren, ez joan inoiz beste
 emakume batekin.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Kasua iristen bada, prest egon
 behar duzu haren alde bizitza
 emateko. Azken finean, benetako
 maitasuna sakrifikatzeko
 prest egotea da.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Izan leial zure sentimenduekin eta,
  zorte apur batekin, dena ondo aterako da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 "Heriotza aukeratu"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Bizitza etsipenez beteta dagoenean,
 batzuek dena amaitzea erabakitzen
@@ -512,10 +805,15 @@ dute. Nik ere behin aukeratu nuen
 bide hori.
 Une hartan pentsatu
 nuen ez nuela beste irtenbiderik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Behin erabakia hartu nuenean,
 hau bihurtu zen mundu honetara
@@ -525,10 +823,15 @@ iraganean pentsatzen, baina,
 batez ere, behin eta berriz
 planifikatzen nuen nola eta
 noiz egingo nuen neure buruaz beste.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Ergelkeriak egin ditut, gauza arriskutsuak.
  Berdin zitzaidala pentsatu nuen,
@@ -538,23 +841,34 @@ noiz egingo nuen neure buruaz beste.
  hari garrantzia emateari, nahiz eta
  adiskidetasunetik urrundu.
 
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [01ff]
 Henry
 Mildred
 Scott
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Hiru altuerako hiru orratz
 ezberdinak dira. Bat lodia da,
@@ -563,13 +877,19 @@ Astiro-astiro eskuinera
 mugitzen dira. Scott ez
 da 3.ean pausatzen,
 15.ean baizik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Hiru tamaina desberdin,
 denbora pasa zen. Hiru
@@ -578,12 +898,17 @@ bueltaka. Henry baxua da,
 eta motela, motela doa,
 Scott ezin da gelditu,
 beti martxan dago.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Poliziak gaur iragarri duenez,
 Walter Sullivan hilaren 18an
@@ -592,10 +917,15 @@ eta bere arreba Miriamen hilketa
 bortitzagatik, eta bere buruaz
 beste egin zuen bere ziegan,
 hilaren 22ko goizaldean.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Poliziaren deklarazioaren
 arabera, Sullivanek zopa-koilara
@@ -606,20 +936,30 @@ arteria moztuz.
 Sullivan odolustuta hil zen,
 koilara lepoan bost zentimetro
 arrailduta.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Walter Sullivanen eskolakide ohi batek,
 Pleasant River bere jaioterrikoak,
 zera adierazi zuen:
 "Ez zirudien haur bat
 hiltzeko gai zenik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Baina gogoan dut atxilotu
 baino lehentxeago gauza
@@ -629,28 +969,43 @@ plana betez:
 nahi nau. Munstroa... deabru gorria.
 Barkatu. Nik egin nuen,
 baina ez nintzen ni izan!".
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Lagunak gaineratu zuen:
 "Orain pentsatzen ari naizela,
 uste dut torlojuren bat
 falta zitzaiola".
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Ongi etorri
 Silent Hill!
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Silent Hill aintzira baten
 ertzean dagoen hiri turistiko
@@ -659,10 +1014,15 @@ Pozten gaitu bisitatzea erabaki
 izanak. Har ezazu atseden zure
 bizitza xelebre horretatik eta
 gozatu opor lasaiez.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Antzinako etxe bitxien ilarak.
 Paisaia menditsu bikaina.
@@ -670,42 +1030,67 @@ Eta laku bat, bere edertasunaren
 alderdi desberdinak erakusten
 dituena egunean zehar,
 eguzkitik eguzkira.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Silent Hillek hunkitu egingo
 zaitu eta bake sakona
 sentiaraziko dizu. Espero dut
 zure egonaldia atsegina izatea
 eta zure oroitzapenek betiko irautea.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Argitaratzailea: Roger Widmark
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [e0ff]
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Tim maitea:
  Mandatu bat egitera joan behar dut.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Etxeko giltza osaba Davidi
 utziko diot (Badakizu non bizi
@@ -716,63 +1101,105 @@ gelan dago).
  Ahal bezain laster itzuliko naiz,
 zaindu etxea kanpoan nagoen
 bitartean, mesedez.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Hiru txanpon distiratsu
 bost zulotan
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Mutur batean Adanen
 emaztearen limurtzailea dago.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Haizeak emakumearen
 gibeletik jotzen du
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Eta formarik ez duenak, deusezak,
 urrundik ikusi behar ditu
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Sugearen ondoan zegoen
 agurea ez dago
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Presoaren ezkerraldea
 ustelduko da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Lehenik Paregabearen
 eserlekua dago, Bera,
@@ -782,11 +1209,17 @@ Bere ondoan esertzen da bat
 badakiena eta onartuko
 duena morroiaren lekua
 tronuaren ondoan dagoela
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Dozenaka oin,
 eta behatz bakar bat ere ez,
@@ -796,51 +1229,81 @@ Amets-seduktorea,
 infernuak maite duena
 Gizonarengandik urrun,
 emakumetik hurbil
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Gizonak eta emakumeak
 dena ikus dezakete
 belearen deiari jaramonik
 egin gabe
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Isilak eta ezkutuak
 agian biak izango dira
 Eta ez daude hor
 zuk ikusteko
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Dagokien lekura bueltatuz
 Zuretzako bedeinkapena
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Horrela hitz egiten dut,
 izar polarrari bizkarra emanez
 Eguzkiaren sorrera da dena
 hasiko den tokia
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Eter lanbrotsura jaurtitako
 txanponak bezala Gure arimak
@@ -850,105 +1313,169 @@ jaitsiera mingarri batean
 iritsiko da Egin dituzten
 bekatuak "alderantzikatzeko"
 
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Mea culpa hiru aldiz abesten
 dutenek bakarrik ezagutuko
 dute zoriona, hazirik
 gabeko zoriona
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Lehen nota ez du
 jotzen enastatuak,
 baina hor sortzen da
 bekatu guztia
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Bizitzaren jabea
 eta zorigaitzen jabea
 Azken honen bekatuek ez dute
 mesfidantzarik sortzen
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Agurearen hilarriari
 urduri jarraitzen badio ere
 Amorfoaren arima
 ikaratu egiten da beldurrez
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Bekatari nagusiarentzat
 bere posizioa aukeratua dago
 Eta zortea badu agian
 bere arima bedeinkatu
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Bekatari nagusiarentzat
 bere posizioa aukeratua dago
 Eta zortea badu agian
 bere arima bedeinkatu
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Eskuinean, emakumea dago.
 Ezkerrean agurea.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Erdian bestea arrastaka dabil.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Orain bi espazio baino ez dira geratzen,
 baina oraindik ez izan beldurrik,
 enigma konponduta dago.
 Enigma konponduta dago.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 [Jack Davis]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Hiru aldiz saiatu da bere buruaz
 beste egiten, arrazoi ezezagunengatik.
@@ -957,16 +1484,26 @@ betetzen dituen paziente
 eredugarria izan ohi den arren,
 gertutik zaindu behar da bere
 bat-bateko joera suizidak direla eta.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 [Joseph Barkin]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Bere gaixotasuna, dirudienez,
 bere alabaren heriotzaren
@@ -976,16 +1513,26 @@ eta eldarnio paranoikoak
 iradokitzen dituzte. Normalean
 lasai egoten da, baina joera
 bortitzak izaten ditu asaldatzen denean.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 [Joshua Lewis]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Ospitalizazioak, eraso ugari,
 tratu txarrak eta beste
@@ -995,22 +1542,32 @@ indarkeriara jotzeko joera du.
 Arreta handiz ibili behar da
 paziente horrekin.
 
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Mundu guztia dago gaixotasun
 honen eraginpean eta, baldintza
 egokietan, edozein pertsonak,
 berak bezala,
 "beste aldera" eramango du.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Agian "beste alde bat"
 ez da deskribapenik onena.
@@ -1021,19 +1578,29 @@ Errealitatea eta
 errealitate eza gurutzatzen diren
 mugan dago. Leku hurbila eta aldi
 berean urruna da.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Batzuek diote hau ez dela
 gaixotasun bat ere. Ez nago ados.
 Medikua naiz, ez filosofo
 edo psikiatra.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Baina batzuetan galdera
 bera egiten diot neure
@@ -1044,33 +1611,52 @@ besterik ez direla. Baina
 berarentzat ez dago beste
 errealitaterik. Are gehiago,
 pozik dago bere munduan.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Eta neure buruari galdetzen diot:
 zergatik eraman behar dugu mingarriro
 geure errealitatearen
 mundura sendatzeko?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [00ff]
 Badago eskuz gehiago idatzitako zerbait.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Josephek giltza eman zidan.
 Kutxa horretakoa izango da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Hilabete honetako pin zenbakia T. da
 Joan den hilean X zen eta aurreko
@@ -1078,34 +1664,50 @@ hilekoa Z.
  Baina zer egingo dute datorren hilean?
 Ezin da gehiago egin
 4 zenbakirekin.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Gainera, benetan beharrezkoa da hain maiz gaixoen hegaleko atearen konbinazioa aldatzea?
 konbinazioa aldatzea
 pazienteen hegaleko atea
 hain sarri?
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Badakit sekretuak emango dizuedala
 zer egin deabruen aurkako babesleku
 honetan. Ez da baliagarria.
 Nire tresnak nire aginduak
 bete behar ditu.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 kutxa alferrikakoa izango da orain
 ez dut ahaztu behar
+
 [e0ff]
  oso ondo bera da okerrena
 orain ni  ere aske izango
@@ -1113,14 +1715,20 @@ naiz eta berak  balioko dit
 jenio bat naiz inork ezin nau
 geldiarazi inork ezin
 nau geldiarazi
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 badakit zein den kutxaren zenbakia, 
+
 [e0ff]
 
 dagoeneko ezin diote lagundu botoiek,
@@ -1128,12 +1736,17 @@ eta ez naute beldurtzen, eta inork
 ezin du eragotzi nor naizen,
 ez dakit nor naizen
 nor naizen.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Maiatzak 9
 Euria ari du.
@@ -1141,10 +1754,15 @@ Egun osoa daramat leihotik
 begira. Lasai dago, ez dut
 zereginik. Oraindik ez
 didate irteten uzten.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Maiatzak 10
 Euria ari du oraindik.
@@ -1155,10 +1773,15 @@ ez banu? Badakit pena ematen
 dudala, ahula naizela.
 Mundu guztia ezin da
 indartsua izan.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Maiatzak 11
 Euria ari du berriro.
@@ -1167,10 +1790,15 @@ eman dit.
 Hartzen dudanean
 bakarrik hobeto banago,
 orduan nor naiz?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Maiatzak 12
 Euri gehiago.
@@ -1179,10 +1807,15 @@ eman nahi, baina ez diot
 traba izateari uzten.
 Zergatik da bekatutzat
 borroka uztea?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Batzuek esango dute hala dela,
 baina ez dakite zer sufritu
@@ -1190,10 +1823,15 @@ behar dudan. Egoista izango naiz,
 baina hori da nahi dudana.
 Hau gogorregia da.
 Gehiegi...
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Maiatzak 13.
 Argitu du.
@@ -1201,137 +1839,210 @@ Medikuek esan didate
 alta ematen didatela,
 etxera joan behar dudala.
 Eta
+
 [08fd]
+
 [a0fe]
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [01ff]
+
 [00f9]
 Buelta ta buelta ta buelta,
 zenbakiak hobe ez ahaztea
 horregatik eskriba hemen bestea,
 nire izen sekretua
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Louise
 Beti zainduko zaitut,
 nire patua da!
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Inork ezagutzen ez duen
 aingerua da. Nik bakarrik
 ikus dezaket ateko dama.
 Ezin dute bere hari-zubiaren
 gainean ibili.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Bere bekatuak hilotz beldurgarri eta
 hanpatuak bezala dira berak
 irensten du bekatari batek
 salbatuko nauen aingerua da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Koji, direktorearen yave, museokoa.
 Txangoan ateratzen denean otoitz
 egiten duen emakumearen atzean
 ezkutatu dut. Koji, baina ez lapurtu.
 Ez naiz kriminala.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 "Ibaiertzeko paisaia"
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Allen Smith (Jaioteguna eta
 heriotza ezezagunak)
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Inguru honetako antzinako paisaia.
 Antza denez, 1820ko hamarkadan
 margotu zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Garai hartan askoz jende gutxiago
 zegoen eta eraikin gutxi batzuk
 baino ez.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Odola ematen dizut
 Hiru Bekatuak garbitzeko.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Toluca lakua hiriko erakarpen
 turistiko nagusia da. Aintzira
 eder eta kristalino honek alde
 ezkutua ere badu.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Herrialde osoko herri
 zaharretako mamuen istorio
 tipikoa irudi dezake honek,
 baina kasu honetan,
 elezaharra egia da.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  1918ko azaroko egun lainotsu batean,
 Little Baroness, turistaz betetako
 itsasontzia,
 ez zen portura itzuli.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Garai hartako artikulu batek hauxe
 besterik ez zuen esaten:
@@ -1342,58 +2053,96 @@ gaur arte ez da aurkitu ez
 itsasontziaren hondarrik, ez
 tripulazioaren eta bidaiarien
 14 gorpurik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 1939an gertakari are
 arraroagoa gertatu zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [00ff]
 Orrialde asko daude erauzita.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Gorpu asko daude lakuaren hondoan.
 Bere esku hezurtsuak gainetik
 pasatzen diren itsasontzietarantz
 altxatzen dira, agian
 bere burkideen bila.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Thomas Orosco 39 urteko
 egurgile gisa identifikatu
 zuten gizon baten gorpua
 aurkitu zuten bere gelan,
 ahoz gora etzanda.
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [fdff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [fdff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Litekeena da heriotza lepoaren
 aurrealdean eta ezkerreko
@@ -1402,32 +2151,53 @@ eman izana, arma zorrotz batek
 eraginda.
 Heriotza 23:00ak eta gauerdia
 artean gertatu zen.
-[f7ff]
+
 [f7ff]
 
+[f7ff]
+
+
 [fdff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Logelako borroka zantzuen
 eta arma hiltzailearen faltaren
 ondorioz, polizia homizidio
 baten susmopean dago, eta
 hilketagatik ikerketa abiatu du.
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Gainera, gelako dirua
 ukitu ez zuenez eta
@@ -1436,35 +2206,58 @@ eta indarkeria aurrekariak
 zituenez, poliziak susmatzen
 du ez zela lapurreta izan,
 pasiozko krimenena baizik.
-[f7ff]
-[f7ff]
-[f7ff]
-[f7ff]
-[f7ff]
-[f7ff]
-[f7ff]
+
 [f7ff]
 
+[f7ff]
+
+[f7ff]
+
+[f7ff]
+
+[f7ff]
+
+[f7ff]
+
+[f7ff]
+
+[f7ff]
+
+
 [fdff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [f7ff]
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Deabruzko krimena egin zuen.
 Etxe zoriontsu bat errauts
 pila batera murriztu zuen.
 Horregatik hil beharko nuke.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Haiek ere krimenak egin
 zituzten. Besteak
@@ -1472,48 +2265,74 @@ engainatzen saiatu
 ziren. Beraz,
 zure saria ere
 logikoena da.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Horrek ere ez du barkamenik merezi,
 nire lagunari ezkerreko eskua falta zaio.
 Horregatik ez dit axola haren heriotzak.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Eta zer esan berari buruz?
 Bekatutik ere
 ez dago libre.
 Hemen errugabea den
 bakarra dago.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Galdutako haurra ez zen inon
 agertu, eta, beraz, ez zen
 bere erruduntasunaren frogarik
 izan. Bere heriotza tragedia
 handia izan zen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Hori da esan nahi dudan guztia.
 Ez zen ez justizia ez zigorra izan.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Gizon hilak, gizon hilak eta
 alderantziz zintzilikatuak
@@ -1521,97 +2340,154 @@ Zenbat gizon ikusten dituzu
 hilik? Mingain urdina, lumak
 eta brea Hildakoa biratu eta
 kulunkatu egiten da
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Lehenengoak harakina hil zuen
 Lapiko baten gainean zatitu zuen
 Gero kozinatu zuen
 Eta gonbidatuei eskaini zien
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Bigarrenak engainuekin
 ume gaixoak bahitu zituen
 eta gizon nazkagarriak
 esklabuak bezala
 saldu zituen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Gauez ezkutuan sartu zen. Lapurrak ez zituen tranpak ikusi. Eta burua alkoholez bete zuen.
 
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Faltsifikatzaile trebeak
 eskudirutan ordaindu nahi izan zuen
 Zortea probatu zuen billeteak margotzen
 Baina girgilu artean amaitu zuen
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Etekin handiko irrikaz
 Urrea lapurtu zuen eraikin batetik
 Bildu eta ezkutatu zuen
 Baina inork ez zuen
 bere arrastoa aurkitu
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Hiru etxe erre ziren gauez.
 Sheriffak errieta egin zion
 kanpotar bati.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Gizon hilak, gizon hilak eta
 alderantziz zintzilikatuak
 Zenbat gizon ikusten dituzu hilik?
 Seiak leku berera joan ziren.
 Soka batek urkatuko ditu.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
  Ez dut hil nahi.
  
  Baina bihar urkamendira igoko naiz.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Mesedez, norbaitek erantzun diezadala,
 zergatik hil behar dut egunsentian?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Ondoan dudan presoak sinetsi egiten dit.
 Esan zuen:
@@ -1621,27 +2497,42 @@ Esan zuen:
 aldatuko. Xuxurlatu zuen:
 "Orain badakizu zergatik jipoitzen
 dituen".
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Atzo hil zuten gizonak,
 bere lana ametsak saltzea zela
 esan zuenak, esan zuen
 hori ez zela egia.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Baina etzi haurrak bahitzeagatik
 exekutatuko dutenak egia zela
 oihukatu zion.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Gaur urkatu duten gizonak ez
 die erantzun.
@@ -1650,88 +2541,138 @@ esan zuen.
 Dirua bidegabe erabiltzeagatik
 atxilotu zuten, beraz, ez du
 errukirik espero.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Beti lasai irribarre egiten
 duenak esan zuen:
 "Zoriontsua naiz, laster
 izango naiz berarekin".
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Ez dut hil nahi. Etxera itzuli nahi dut.
 Baina badakit ez dudala egingo.
 Ezer egin ez badut ere,
 krimen hau niri egotzi didate.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
  Norbaitek salba nazala.
 Hau ez da zigorra.
 Odolaren egarriz daude eta
 ni naiz sakrifikatu
 beharreko arkumea!
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Heriotza bekatariaren buru
 gainean jar dezakegu,
 baina zertarako?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Gaur, zigorraren izenean,
 komedia mingots
 baten parte gara.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Zuk, lepotik zintzilik, ez zenuen
 gure barkamena izan,
 gure madarikazioak baizik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Horietako bostek krimenak
 egin zituzten, seik edatera
 irten eta harrapatu egin zituzten.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Bakarra zen errugabea,
 baina haiek ez zekiten.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Geratzen diren odol orbanak
 erruduntasunaren froga dira.
 Bide trillatu horiek dira
 infernura edo hutsera daramatenak.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Benda zuriak
 gorriz zikinduak,
@@ -1741,93 +2682,142 @@ Dontzeilaren negar
 xuxurlatuak.
 Zure kontratuek
 ez dute zentzurik.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Horiek ere
 erruduntasun-zantzuak dira.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Baina haietako bat arrazoirik
 gabe hil zuten.
 Beldurragatik eta zuen
 irudimenagatik erahil zuten.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Bakarrik, soka baten amaieran,
 ez da ezbehar bat baino
 gutxiago denontzat.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 James Sunderland jauna:
 
 Bideo-zinta lehen
 solairuko bulegoan
 gordeta dago.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [01ff]
 "Egun lainotsua,
 epaiketaren hondarrak"
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Hirugarren solairuko
 pazienteentzako korridorea: 7335
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Orain arte ikasitako
 guztia idatziko dut.
 Agian hori lagungarri
 izango zaizu.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Hau irakurtzen ari bazara,
 hilda egongo naiz.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Deabru horiek ikusi ditut.
 Badakit hor zeundetela.
 Baina nire lagunak ez zuen
 ezer ikusi. Hala bada, orduan
 ikusi nuena ilusio bat zen?
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Baina gizakiak jaten
 zituen deabru hori
@@ -1835,44 +2825,64 @@ benetakoa izan arren,
 edo haluzinazio bat
 besterik ez...
 Ziur nago ez dudala aukerarik.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Badirudi argiak erakartzen dituela.
 Horregatik, ikusteko argia behar
 dutenak beren harrapakin naturalak
 dira. Soinuen aurrean ere
 erreakzionatzen dute.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Bizitzen jarraitu nahi
 baduzu, hobe duzu
 iluntasunean eta isilik
 geratzea. Baina hori ez
 da aski izango zu salbatzeko.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Haien aurka borrokatu behar
 baduzu, garrantzitsuena da
 lasai egotea. Arriskutsua da
 pistola bat erabiltzea
 izuaren erdian.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Lehenengo ondo apuntatzen du
 eta gero katua sakatzen du.
@@ -1880,113 +2890,180 @@ Eta ez ahaztu errematatzea.
 Uste dut izaki horietako gehienak
 hil daitezkeela, nahiz eta edozein
 pertsona baino gogorragoak izan.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Ospa.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Ihes! Ihes! Ihes!
 Ihes! Ihes! Ihes!
 Ihes! Ihes! Ihes!
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Benetan Mari ikusi nahi baduzu,
 hil egin beharko zenuke.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Baina agian Mari ez den beste
 leku batean bukatuko duzu, James.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Hemen ZULOA zegoen.
 Orain desagertu egin da.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
 "Gutuna eta giltza ingelesa daude"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 "Giltza parkean dago"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Amildegitik begira dezaten
 uzteko adina adorerik ez
 duenak ez du hari aurre
 egiteko adinako adorerik
 izango.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Egia aurrerantz
 baino ez da aurkituko.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Jarraitu mapa. Hor daude gutuna
 eta giltza ingelesa.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Edo agian erotuta zaude.
 Egia traizionatu egiten du jendeak.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Amildegi horren zati bat
 gizarte zaharrean dago.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Gizartearen giltza parkean dago. Otoitz egiten duen emakumearen oinetan, lurpean, kaxa baten barruan. Irekitzeko giltza ingeles bat behar dut.
 parkean dago.
@@ -1994,10 +3071,15 @@ Otoitz egiten duen emakumearen oinetan,
 lurpean, kutxa baten barruan.
 Irekitzeko, behar dut
 giltza ingeles bat.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Nire pazienteak hor lurperatu zuen.
 Banekien, baina ez nuen ezer egin.
@@ -2005,38 +3087,58 @@ Ondoezik nengoen gauza hori hain
 hurbil edukitzeaz. Nik ez nuen egia
 bilatzen, lasaitasuna besterik ez
 nuen bilatzen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Gauza hori ere ikusi nuen.
 Ihes egin nuen, baina museoa
 ere itxita zegoen. Orain inor
 ez da ausartzen leku horretara
 hurbiltzen.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Oraindik ez baduzu gelditu nahi, James,
 otoitz egingo diot Jaunari zure betiko
 arimaz erruki dadin.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
 "Sotoko sotoa"
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
+
 [faff]
+
 [01ff]
 Sotoko sotoan giltzapetuta zegoen.
 Oso txikia eta iluna nintzen,
@@ -2044,75 +3146,116 @@ eta beldur handia izan nuen.
 Eraztun ederra erori zait.
 Baina ez naiz sekula
 hara itzuliko.
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
 Gelaxkako 1. koadroa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gelaxkako 2. koadroa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Gelaxkako 3. koadroa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [01ff]
 Gizona sutan
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [01ff]
 Emakumea hegan
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [01ff]
 436 pertsona erreZITALdi batean
+
 [ffff]
+
 [9000]
 }
 {
+
 [8000]
+
 [fbff]
 Tabernaren mapa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Zubi baten ondoan aurkitutako mapa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [fbff]
 Espetxeko zaindariaren egunerokoa
+
 [ffff]
+
 [8000]
 }
 {
+
 [8000]
+
 [faff]
+
 [01ff]
 Presoek ez dute damurik
 sentitzen. Izan ere, ez
@@ -2121,23 +3264,35 @@ gaiztoak izan daitezkeenik.
 Animalia analfabetoenak ere,
 dakizkien hitz apurrak erabiliko
 ditu bere burua zuritzeko.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Eta halako amets hutsalak izango
 dituzte, iluntasunean ere loratzen
 direnak.
 Presoak ez dira salbuespenak.
+
 [ffff]
+
 [1000]
+
 [8000]
+
 [faff]
+
 [01ff]
 Norberaren existentzia eta bizitza
 infektatu edo higuingarria dena alde
 batera utzita, giza izaera iraunkorra da.
+
 [ffff]
+
 [9000]
 }

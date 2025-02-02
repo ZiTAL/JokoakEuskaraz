@@ -4,4 +4,280 @@ SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 46
 
 John_Modest Productionhttp://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Atea ez da irekitzen![ffff][9000]}{[8000]Eddie! Zertan ari zara?[ffff][8000]}{[8000]Eta zuk zer uste duzu?[ffff][8000]}{[8000]Kuxinak ere banituen.[ffff][8000]}{[8000]"Koipontzi alena!Nazkagarria zara!".[ffff][8000]}{[8000]"TOTOLODI ostidxe,zaborra besterik ez zara!".[ffff][8000]}{[8000]"ITXURE BAKO MONUE,amak ere ez zaitu maite!".[ffff][8000]}{[8000]Ba agian egia da.[ffff][8000]}{[8000]Agian lodikotea besterik ez naiz.[ffff][8000]}{[8000]Baina, badakizu gauza bat? Berdin diobat azkarra, tontoa, itsusiaedo ederra... bada[ffff][8000]}{[8000]Hilda badago,bost axola![ffff][8000]}{[8000]Eta hildakoek ez dute barre egiten.[ffff][8000]}{[8000]Hemendik aurrera, norbaitekbarre egiten badit...[ffff][8000]}{[8000]Akatuko dut. Erraz.[ffff][8000]}{[8000]Eddie, zoratu al zara?[ffff][8000]}{[8000]Banekien. Beste bat.[ffff][8000]}{[8000]Besteak bezalakoa zara, James.[ffff][8000]}{[8000]Aizu, ez nuen iraindu nahi...[ffff][8000]}{[8000]Berdin dio. Ulertzen dizut.[ffff][8000]}{[8000]Denbora hau guztia daramazuadarra jotzen, ezta?[ffff][8000]}{[8000]Elkar ezagutu genuenetik.[ffff][8000]}{[8000]Zoaz popatik hartzera, James![ffff][8000]}{[8000]James, badakizu nola sentitzen den bat?[ffff][8000]}{[8000]Gorrotatzen diotenean...Puteatzen diotenean...[ffff][8000]}{[8000]Txistua botatzen diotenean...Eta dena itxura fisikoagatik.[ffff][8000]}{[8000]Bizitza osoan barreegin dizutenean...[ffff][8000]}{[8000]Horregatik atera nintzenkorrika txakurra hil nuenean.[ffff][8000]}{[8000]Ume izutua zirudien.[ffff][8000]}{[8000]Bai, txakur hori akatu dut.Ondo egon da.[ffff][8000]}{[8000]Tripak kentzen saiatu zen!Eta azkenean hil egin zen.[ffff][8000]}{[8000]Gero bestea nire bila etorri zeneta tiro bat sartu nion hankan.[ffff][8000]}{[8000]Txakurrak baino negar gehiago egiten zuen![ffff][8000]}{[8000]Kosta egingo zaio futbolean jokatzeabelaunean geratzen zaionarekin.[ffff][8000]}{[8000]Uste duzu ondo dagoela jendea hiltzea?[ffff][8000]}{[8000]Laguntza behar duzu, Eddie![ffff][8000]}{[8000]Ez izan hain santua, James.[ffff][8000]}{[8000]Hiri honek zuriere deitu dizu.[ffff][8000]}{[8000]Zu eta biok berdinak gara.Ez gara besteak bezalakoak.[ffff][8000]}{[8000]Ez zenekien?[ffff][8000]}{[8000]Dantzara![ffff][8000]}{[8000]Eddie?[ffff][8000]}{[8000]Eddie...?[ffff][8000]}{[8000]Hara... Gizakibat hil dut...[ffff][8000]}{[8000]Gizaki bat...[ffff][8000]}{[8000]Mari... benetan hil zinenduela 3 urte...?[ffff][8000]}{[8000]Eddie...[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Atea ez da irekitzen!
+[ffff]
+[9000]
+}
+{
+[8000]
+Eddie! Zertan ari zara?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta zuk zer uste duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Kuxinak ere banituen.
+[ffff]
+[8000]
+}
+{
+[8000]
+"Koipontzi alena!Nazkagarria zara!".
+[ffff]
+[8000]
+}
+{
+[8000]
+"TOTOLODI ostidxe,zaborra besterik ez zara!".
+[ffff]
+[8000]
+}
+{
+[8000]
+"ITXURE BAKO MONUE,amak ere ez zaitu maite!".
+[ffff]
+[8000]
+}
+{
+[8000]
+Ba agian egia da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Agian lodikotea besterik ez naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina, badakizu gauza bat? Berdin diobat azkarra, tontoa, itsusiaedo ederra... bada
+[ffff]
+[8000]
+}
+{
+[8000]
+Hilda badago,bost axola!
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta hildakoek ez dute barre egiten.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hemendik aurrera, norbaitekbarre egiten badit...
+[ffff]
+[8000]
+}
+{
+[8000]
+Akatuko dut. Erraz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie, zoratu al zara?
+[ffff]
+[8000]
+}
+{
+[8000]
+Banekien. Beste bat.
+[ffff]
+[8000]
+}
+{
+[8000]
+Besteak bezalakoa zara, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aizu, ez nuen iraindu nahi...
+[ffff]
+[8000]
+}
+{
+[8000]
+Berdin dio. Ulertzen dizut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Denbora hau guztia daramazuadarra jotzen, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Elkar ezagutu genuenetik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zoaz popatik hartzera, James!
+[ffff]
+[8000]
+}
+{
+[8000]
+James, badakizu nola sentitzen den bat?
+[ffff]
+[8000]
+}
+{
+[8000]
+Gorrotatzen diotenean...Puteatzen diotenean...
+[ffff]
+[8000]
+}
+{
+[8000]
+Txistua botatzen diotenean...Eta dena itxura fisikoagatik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bizitza osoan barreegin dizutenean...
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik atera nintzenkorrika txakurra hil nuenean.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ume izutua zirudien.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, txakur hori akatu dut.Ondo egon da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Tripak kentzen saiatu zen!Eta azkenean hil egin zen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gero bestea nire bila etorri zeneta tiro bat sartu nion hankan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Txakurrak baino negar gehiago egiten zuen!
+[ffff]
+[8000]
+}
+{
+[8000]
+Kosta egingo zaio futbolean jokatzeabelaunean geratzen zaionarekin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Uste duzu ondo dagoela jendea hiltzea?
+[ffff]
+[8000]
+}
+{
+[8000]
+Laguntza behar duzu, Eddie!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez izan hain santua, James.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hiri honek zuriere deitu dizu.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zu eta biok berdinak gara.Ez gara besteak bezalakoak.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez zenekien?
+[ffff]
+[8000]
+}
+{
+[8000]
+Dantzara!
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hara... Gizakibat hil dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gizaki bat...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari... benetan hil zinenduela 3 urte...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eddie...
+[ffff]
+[8000]
+}
