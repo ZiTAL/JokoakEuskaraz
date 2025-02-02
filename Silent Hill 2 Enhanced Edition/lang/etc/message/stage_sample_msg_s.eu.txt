@@ -18,7 +18,6 @@ BEGIN_SOURCE:{
 [faff]
 [01ff]
  Poliziaren deklarazioaren arabera,Sullivanek zopa-koilara bat sartuzuen lepoan, karotida arteriamoztuz.
-
 Zaindariak aurkitu zuenean,Sullivan odolustuta hil zen,koilara lepoan bost zentimetroarrailduta.
 [ffff]
 [1000]

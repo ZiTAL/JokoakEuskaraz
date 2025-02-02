@@ -25,7 +25,6 @@ Piano normala.
 [faff]
 [01ff]
 James Sunderland jauna:
-
 Utzitako zintalehen solairukobulegoan dago.
 [ffff]
 [9000]
@@ -391,7 +390,6 @@ Gutuna bere tiraderatik hartu nuen.
 [faff]
 [01ff]
 Laura maitea:
-
 Gutun hau Racheli uzten diot,ni joandakoan eman diezaiozun.
 [ffff]
 [1000]

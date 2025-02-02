@@ -121,7 +121,6 @@ Establezimendu honen izena.
 [8000]
 [78f8]
  Hurrengo istorioa jokonagusiaren gehigarri gisaidatzi da. Istorio nagusia osatuondoren jokatzea gomendatzen dugu.
-
  Jarraitu nahi al duzu?
 [ffff]
 [8000]

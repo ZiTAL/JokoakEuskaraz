@@ -23,8 +23,6 @@ BEGIN_SOURCE:{
 [f7ff]
 [f7ff]
 [f7ff]
-
-
 [fdff]
 [f7ff]
 [f7ff]

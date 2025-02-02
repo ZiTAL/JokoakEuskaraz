@@ -1,161 +1,109 @@
 SOURCE_TARGET: 1
-
 VERSION: v1.4
-
 HEADER: 0 0
-
 ADDR:    
-
 COUNT: 38
 
 John_Modest Production
-
 http://inetmedia.uni-dubna.ru/
 
 BEGIN_SOURCE:
 {
-
 [8000]
-
 [01ff]
 Gizon hau hilketagatik
 urkatu zuten. Justizia
 eta mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hau lapurretagatik
 urkatu zuten. Justizia eta
 mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hau bahitu
 egin zuten. Justizia eta
 mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hau iruzurragatik
 urkatu zuten. Justizia eta
 mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hau diru-lapurretagatik
 urkatu zuten. Justizia eta
 mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hori gorputzeko
 lesioengatik urkatu zuten.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Justizia eta mendekua
 bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hau faltsifikatzeagatik
 urkatu zuten. Justizia eta
 mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [01ff]
 Gizon hori urkatu egin zuten
 eragindako sutearen ondorioz.
 Justizia eta mendekua bete egin dira.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Bere aurpegia paper batekin estalita dago.
 Zerbait idatzita dago.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [faff]
-
 [01ff]
 Deabruzko krimena egin zuen.
 Etxe zoriontsu bat errauts
 pila batera murriztu zuen.
 Horregatik hil beharko luke.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Haiek ere krimenak
 egin zituzten.
@@ -163,410 +111,260 @@ Besteak engainatzen
 saiatu ziren.
 Beraz, saria
 logikoena da.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Horrek ere ez du barkamenik merezi,
 nire lagunari ezkerreko eskua falta zaio.
 Horregatik ez dit axola haren heriotzak.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Eta zer esan berari buruz?
 Bekatutik ere ez dago libre.
 Hemen errugabea den bakarra
 dago.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Galdutako haurra ez zen
 inon agertu, eta, beraz,
 ez zen bere erruduntasunaren
 frogarik izan. Bere heriotza
 tragedia bat izan zen.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Hori da esan nahi dudan guztia.
 Ez zen ez justizia ez zigorra izan.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Gizon hilak, gizon hilak eta
 alderantziz zintzilikatuak
 Zenbat gizon hil dira?
 Mingain urdina, lumak eta brea
 Hildakoak bira eta kulunka
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Lehenengoak harakina hil zuen
 Lapiko baten gainean zatitu zuen
 Eta gero kozinatu
 Eta gonbidatuei eskaini zien
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Bigarrenak engainuekin
 Ume gaixoak bahitu zituen,
 Eta gizon nazkagarriak
 esklabo gisa saldu egin zituen.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Gauez ezkutuan sartu zenean,
 Lapurrak ez zituen tranpatxoak ikusi
 Eta alkoholez bete zuen burua
 Eta goizean burdin hesien artean esnatu zen
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Faltsifikatzaile trebeak
 Eskura ordaindu nahi izan
 Billeteak margotzen saiatu
 Baina girgilu artean amaitu
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Etekin handiko irrikaz
 Eraikin batetik urrea lapurtu
 Bildu eta begien bistan ezkutatu
 Baina inork ez zuen haren arrastorik aurkitu
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Hiru etxe erre ziren gauez
 Sheriffak errieta bat jaso
 Kanpotar bati begia bota
 Giltzapetu, ostikoka hasi eta herren utzi
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [fbff]
-
 [faff]
-
 [01ff]
 Gizon hilak, gizon hilak eta
 alderantziz zintzilikatuak,
 Zenbat gizon hildako ikusten dituzu?
 Seiak leku berera joan
 Urkatuko dituen soka batera
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [faff]
-
 [01ff]
  Ez dut hil nahi.
-
  Baina bihar urkamendira igoko naiz.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Mesedez, norbaitek erantzun diezadala,
 Zergatik hil behar dut egunsentian?
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Ondoan dudan presoak sinetsi
 egiten dit. Esan zuen:
 "Denak erotuta daudelako, eta kito".
-
  Badakit zure iritziak ez duela
 ezer aldatuko. Xuxurlatu zuen:
 "Orain badakizu zergatik eman
 nien jipoia".
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Atzo hil zuten gizonak,
  bere lana ametsak saltzea
  zela esan zuenak, esan zuen
  hori ez zela egia.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Baina etzi haurrak
 bahitzeagatik  exekutatuko
 dutenak egia zela oihukatu zion.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Gaur urkatu duten gizonak ez die
 erantzun. "Dena dela, hil egingo naute",
 esan zuen. Dirua bidegabe erabiltzeagatik
 atxilotu zuten, beraz, ez du errukirik
 espero.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Beti lasai irribarre egiten
 duenak esan zuen: "Zoriontsua naiz,
 laster izango naiz berarekin".
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Ez dut hil nahi. Etxera
 itzuli nahi dut. Baina
 badakit ez dudala egingo.
 Ezer egin ez badut ere, krimen
 hau niri egotzi didate.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
  Norbaitek salba nazala.
 Hau ez da zigorra.
 Odolaren egarriz daude eta
 ni naiz sakrifikatu beharreko arkumea!
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [faff]
-
 [01ff]
 Heriotza bekatariaren buru
 gainean jar dezakegu,
 baina zertarako?
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Gaur, zigorraren izenean,
 komedia mingots baten
 parte gara.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Zuk, lepotik zintzilik,
 ez zenuen gure barkamena izan,
 gure madarikazioak baizik.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Horietako bostek krimenak
 egin zituzten, seik edatera
 irten eta harrapatu egin zituzten.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Bakarra zen errugabea,
 baina haiek ez zekiten.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Geratzen diren odol orbanak
 erruduntasunaren froga dira.
 Bide trillatu horiek dira
 infernura edo hutsera daramatenak.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Benda zuriak
 gorriz zikinduak,
@@ -576,379 +374,247 @@ Dontzeilaren negar
 xuxurlatuak.
 Zentzugabeko
 kontratuak.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Horiek ere
 erruduntasun-zantzuak dira.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Baina haietako bat
 arrazoirik gabe hil
 zuten. Hil egin zuten
 beldurragatik eta irudimen
 hutsagatik.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [faff]
-
 [01ff]
 Bakarrik, soka baten
 amaieran, ez da ezbehar
 bat baino gutxiago denontzat.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Sabaitik soka bat zintzilik dago.
-
 [ffff]
-
 [1000]
-
 [8000]
 Sokatik tira egingo duzu?
-
 [f6ff]
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
-
 [faff]
-
 [01ff]
 Bekaturik gabe dagoenak
 bakarrik lagun diezazuke.
 Tiratu gaizkile baten
 sokatik eta zure saria modu
 harrigarrienean emango zaizu.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [faff]
-
 [01ff]
 Baina kontuz, hala ere,
 bidalitako zigorrarekin.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Ez dago arrazoirik soka
 berriz erabiltzeko.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Ezin izango dut biradera biratu
 eskuburdinak kendu arte.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Izen bat dago idatzita hilarrian.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Eddie Dombrowski
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Izen bat dago idatzita hilarrian.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Angela Orosco
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Izen bat dago idatzita hilarrian.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 James Sunderland
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Mari?
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Mari...?
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Mari, ez...
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Zer gertatu zaizu?
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Zergatik...? Zergatik...?
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Mari...
-
 [ffff]
-
 [8000]
 }
 {
-
 [8000]
 Dagoeneko gela honetan ez da
 niretzat ezer geratzen...
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [03ff]
 Akusatu faltsuaren giltza
-
 [00ff]
 aurkitu dut.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
-
 [03ff]
 Akusatu faltsuaren giltza
-
 [00ff]
 erabili dut.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Izen bat dago idatzita hilarrian.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Walter Sullivan
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Hilarriko izena marratuegia
 dago irakurtzeko.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Hemen epitafio bat dago.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Gaizkile honek bere azken
 garagardoa edan zuen hil
 aurretik eta hemen lurperatu
 zuten betiko atseden hartzeko.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Izen bat dago idatzita hilarrian.
-
 [ffff]
-
 [1000]
-
 [8000]
-
 [01ff]
 Miriam K.: "Traidorea"
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Hemen zulo sakon bat dago.
 Baina barruan ez dago ezer.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Hemen ezin dut
 beste ezer egin.
-
 [ffff]
-
 [1000]
-
 [8000]
 Ez dut hemen utzi nahi,
 baina egin behar dut...
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Gorpuaren aurpegia estaltzen
 zuen papera hemen erori da.
-
 [ffff]
-
 [9000]
 }
 {
-
 [8000]
 Jaitsiko al zara?
-
 [f6ff]
-
 [ffff]
-
 [8000]
 }

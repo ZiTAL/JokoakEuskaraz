@@ -64,7 +64,6 @@ atean jarri dut.
 [03ff]
 Arrautza eskarlata
 [00ff]
-
 atean jarri dut.
 [ffff]
 [9000]

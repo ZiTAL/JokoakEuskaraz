@@ -82,8 +82,6 @@ Objektu bat jarrikoduzu apalean?
 }
 {
 [8000]
-
-
 [e0ff]
 jarri nuen apalean.
 [ffff]

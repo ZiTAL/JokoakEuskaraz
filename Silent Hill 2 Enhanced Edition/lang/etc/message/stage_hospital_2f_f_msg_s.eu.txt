@@ -196,7 +196,6 @@ Bai.
 [01ff]
 Badakit kutxaren zenbakia.
 [e0ff]
-
 jada ezin dio lagundu botoiekez naute beldurtzen, eta inorkezin du eragotzi nor naizenez dakit nor naizen naizena naiz
 [ffff]
 [9000]

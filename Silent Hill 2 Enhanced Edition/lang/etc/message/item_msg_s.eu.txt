@@ -1161,10 +1161,7 @@ Gutun-azala hutsik dago.
 [faff]
 [01ff]
 Laura maitea:
-
 Gutun hau Racheli uzten diot,ni joandakoaneman diezazun.
-
-
 [ffff]
 [1000]
 [8000]
@@ -1343,8 +1340,6 @@ apalean jarri dut.
 Botikina
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1353,8 +1348,6 @@ apalean jarri dut.
 Anpoila
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1363,8 +1356,6 @@ apalean jarri dut.
 Pistola
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1373,8 +1364,6 @@ apalean jarri dut.
 Pistola-balak    
 [8000]
 apalean jarri ditut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1383,8 +1372,6 @@ apalean jarri ditut.
 Eskopeta    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1393,8 +1380,6 @@ apalean jarri dut.
 Eskopeta-kartutxoak    
 [8000]
 apalean jarri ditut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1403,8 +1388,6 @@ apalean jarri ditut.
 Ehiza-erriflea    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1413,8 +1396,6 @@ apalean jarri dut.
 Errifle-kartutxoak    
 [8000]
 apalean jarri ditut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1423,8 +1404,6 @@ apalean jarri ditut.
 Espraia    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1433,8 +1412,6 @@ apalean jarri dut.
 Egurrezko ohola    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1453,8 +1430,6 @@ apalean jarri dut.
 Labana handia    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1463,8 +1438,6 @@ apalean jarri dut.
 Motozerra    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1473,8 +1446,6 @@ apalean jarri dut.
 Linterna    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
@@ -1597,8 +1568,6 @@ apalean jarri dut.
 Obsidiana-kopa    
 [8000]
 apalean jarri dut.
-
-
 [00ff]
 [ffff]
 [9000]
