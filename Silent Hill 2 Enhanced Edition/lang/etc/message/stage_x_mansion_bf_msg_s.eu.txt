@@ -24,14 +24,16 @@ Amy Baldwin
 [fbff]
 [faff]
 [01ff]
-Jainkoak gehiegi maitatu zuen.Zazpi urte ez ziren nahikoak.
+Jainkoak gehiegi maitatu zuen.
+Zazpi urte ez ziren nahikoak.
 [ffff]
 [9000]
 }
 {
 [8000]
 [01ff]
-EZ HURBILDUSORGINDUTAKO ETXERA
+EZ HURBILDU
+SORGINDUTAKO ETXERA
 [ffff]
 [9000]
 }
