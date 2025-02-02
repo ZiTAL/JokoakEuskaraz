@@ -1,8 +1,11 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 34
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 34
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
 BEGIN_SOURCE:
 {
