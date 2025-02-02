@@ -7,7 +7,8 @@ COUNT: 29
 John_Modest Production
 http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{
+BEGIN_SOURCE:
+{
 [8000]
 [faff]
 [01ff]
