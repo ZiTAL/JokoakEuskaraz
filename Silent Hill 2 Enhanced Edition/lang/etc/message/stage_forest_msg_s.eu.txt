@@ -1,7 +1,283 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 43
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 43
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Putzuan zerbait dago.[ffff][1000][8000]Zer da hau...?[ffff][1000][8000]Begiratzen diodanean, norbaitjotzen ari balitz bezalasentitzen naiz.[ffff][1000][8000]Sentsazio arraroa ematen dit...[ffff][9000]}{[8000]Hilarri normal bat.Ez du zerikusirik nirekin.[ffff][9000]}{[8000]Hau Silent Hill-ekohilerria izango da.[ffff][9000]}{[8000]Dena lasai dago.Bakarrik gaudela uste dut.[ffff][9000]}{[8000][03ff]Motozerra[00ff]aurkitu dut.[ffff][9000]}{[8000]Barkatu...[ffff][8000]}{[8000]Barkatu... eh, eh...Bakarrik nenbilen...[ffff][8000]}{[8000]Lasai, ez zintudan izutu nahi.[ffff][8000]}{[8000]Galdu egin naiz.[ffff][8000]}{[8000]Zer?[ffff][8000]}{[8000]Bai. Silent Hille-n bila nabil.Ba al dakizu hemendik den?[ffff][8000]}{[8000]E, bai...[ffff][8000]}{[8000]Zaila da laino honekin ikustea,baina errepide bakarra dago.[ffff][8000]}{[8000]Ez du galerarik.[ffff][8000]}{[8000]Mila esker.[ffff][8000]}{[8000]Baina...[ffff][8000]}{[8000]Bai...?[ffff][8000]}{[8000]Ez nuke hara joan behar.[ffff][8000]}{[8000]Hori... e... hiri hori...Zerbait arraroa dago bertan.[ffff][8000]}{[8000]Ez dakit azaltzen, baina...[ffff][8000]}{[8000]Arriskutsua al da?[ffff][8000]}{[8000]Agian... Eta ez dalainoagatik bakarrik... Zera...[ffff][8000]}{[8000]Ulertzen dut. Kontuz ibiliko naiz.[ffff][8000]}{[8000]Ez naiz gezurretan ari![ffff][8000]}{[8000]Ez, ez. Sinesten dut.[ffff][8000]}{[8000]Baina... Berdin zaitarriskutsua den edo ez.[ffff][8000]}{[8000]Dena dela, joango naiz.[ffff][8000]}{[8000]Zergatik?[ffff][8000]}{[8000]Norbaiten bila nabil.[ffff][8000]}{[8000]A... A... Nori?[ffff][8000]}{[8000]Norbaiti...oso garrantzitsua da niretzat.[ffff][8000]}{[8000]Edozer egingo nukeberarekin egoteko.[ffff][8000]}{[8000]Ni ere bai. Nire amatxoren bila nabil...Nire ama, esan nahi dut.[ffff][8000]}{[8000]Aspaldian ez dut ikusi.[ffff][8000]}{[8000]Aita eta anaia hemen egongozirela uste nuen, bainaez ditut aurkitzen...[ffff][8000]}{[8000]Sentitzen dut... Ez da zure kontua.[ffff][8000]}{[8000]Ez, e... Aurkitzea espero dut.[ffff][8000]}{[8000]Bai, gauza bera diot.[ffff][8000]}{[8000]Zerbait gertatzen da?[ffff][8000]}{[8000]Ez, ezer ez...Leku hau oso lasaia da.[ffff][8000]}{[8000]Bai, hala da...[ffff][8000]}{[8000]Ez zara norbaiten bila ari?[ffff][8000]}{[8000]Hala da...[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Putzuan zerbait dago.
+[ffff]
+[1000]
+[8000]
+Zer da hau...?
+[ffff]
+[1000]
+[8000]
+Begiratzen diodanean, norbaitjotzen ari balitz bezalasentitzen naiz.
+[ffff]
+[1000]
+[8000]
+Sentsazio arraroa ematen dit...
+[ffff]
+[9000]
+}
+{
+[8000]
+Hilarri normal bat.Ez du zerikusirik nirekin.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hau Silent Hill-ekohilerria izango da.
+[ffff]
+[9000]
+}
+{
+[8000]
+Dena lasai dago.Bakarrik gaudela uste dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Motozerra
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Barkatu...
+[ffff]
+[8000]
+}
+{
+[8000]
+Barkatu... eh, eh...Bakarrik nenbilen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Lasai, ez zintudan izutu nahi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Galdu egin naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai. Silent Hille-n bila nabil.Ba al dakizu hemendik den?
+[ffff]
+[8000]
+}
+{
+[8000]
+E, bai...
+[ffff]
+[8000]
+}
+{
+[8000]
+Zaila da laino honekin ikustea,baina errepide bakarra dago.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez du galerarik.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mila esker.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina...
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai...?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nuke hara joan behar.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori... e... hiri hori...Zerbait arraroa dago bertan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dakit azaltzen, baina...
+[ffff]
+[8000]
+}
+{
+[8000]
+Arriskutsua al da?
+[ffff]
+[8000]
+}
+{
+[8000]
+Agian... Eta ez dalainoagatik bakarrik... Zera...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ulertzen dut. Kontuz ibiliko naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez naiz gezurretan ari!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, ez. Sinesten dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina... Berdin zaitarriskutsua den edo ez.
+[ffff]
+[8000]
+}
+{
+[8000]
+Dena dela, joango naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zergatik?
+[ffff]
+[8000]
+}
+{
+[8000]
+Norbaiten bila nabil.
+[ffff]
+[8000]
+}
+{
+[8000]
+A... A... Nori?
+[ffff]
+[8000]
+}
+{
+[8000]
+Norbaiti...oso garrantzitsua da niretzat.
+[ffff]
+[8000]
+}
+{
+[8000]
+Edozer egingo nukeberarekin egoteko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ni ere bai. Nire amatxoren bila nabil...Nire ama, esan nahi dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aspaldian ez dut ikusi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Aita eta anaia hemen egongozirela uste nuen, bainaez ditut aurkitzen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Sentitzen dut... Ez da zure kontua.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, e... Aurkitzea espero dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, gauza bera diot.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zerbait gertatzen da?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez, ezer ez...Leku hau oso lasaia da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, hala da...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez zara norbaiten bila ari?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hala da...
+[ffff]
+[8000]
+}

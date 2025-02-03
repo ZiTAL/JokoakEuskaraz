@@ -1,7 +1,85 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:COUNT: 5
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:
+COUNT: 5
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Zuloa ilun dago etaezin dut ezer ikusi.[ffff][1000][8000]Salto egingo duzu?[f6ff][ffff][8000]}{[8000]Dokumentu moduko bat dago.[ffff][1000][8000][01ff]1820ko irailaren 11Preso-zenbakia: C-221[ffff][1000][8000][00ff]Gainerakoa irakurtezina da.Zer da hau...?[ffff][9000]}{[8000]Argazki bat dago zintzilik.[ffff][1000][8000][faff][01ff]Toluca preso-eremua[ffff][1000][8000][faff][01ff]Gerra Zibilean eraikia.Ondoren, Toluca presondegibihurtu zuten.[ffff][9000]}{[8000]Argazki bat dago zintzilik.[ffff][1000][8000][faff][01ff]Lotuneak eragindako heriotza[ffff][1000][8000][faff][01ff]Exekuzio bat espetxean.Lotura edo itotzearenondoriozko heriotza.Presoaren azken askatasunaheriotza aukeratzea da.[ffff][9000]}{[8000]Hemen koadro bat dago zintzilik.[ffff][1000][8000][faff][01ff]Oturuntza gorria eta zuriajainkoentzat[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Zuloa ilun dago etaezin dut ezer ikusi.
+[ffff]
+[1000]
+[8000]
+Salto egingo duzu?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Dokumentu moduko bat dago.
+[ffff]
+[1000]
+[8000]
+[01ff]
+1820ko irailaren 11Preso-zenbakia: C-221
+[ffff]
+[1000]
+[8000]
+[00ff]
+Gainerakoa irakurtezina da.Zer da hau...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Argazki bat dago zintzilik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Toluca preso-eremua
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Gerra Zibilean eraikia.Ondoren, Toluca presondegibihurtu zuten.
+[ffff]
+[9000]
+}
+{
+[8000]
+Argazki bat dago zintzilik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Lotuneak eragindako heriotza
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Exekuzio bat espetxean.Lotura edo itotzearenondoriozko heriotza.Presoaren azken askatasunaheriotza aukeratzea da.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen koadro bat dago zintzilik.
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+Oturuntza gorria eta zuriajainkoentzat
+[ffff]
+[9000]
+}

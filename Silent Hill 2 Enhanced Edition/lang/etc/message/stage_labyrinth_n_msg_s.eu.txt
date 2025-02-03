@@ -237,7 +237,6 @@ Urkatuko dituen soka batera
 [faff]
 [01ff]
  Ez dut hil nahi.
-
  Baina bihar urkamendira igoko naiz.
 [ffff]
 [1000]
@@ -254,7 +253,6 @@ Zergatik hil behar dut egunsentian?
  Ondoan dudan presoak sinetsi
 egiten dit. Esan zuen:
 "Denak erotuta daudelako, eta kito".
-
  Badakit zure iritziak ez duela
 ezer aldatuko. Xuxurlatu zuen:
 "Orain badakizu zergatik eman

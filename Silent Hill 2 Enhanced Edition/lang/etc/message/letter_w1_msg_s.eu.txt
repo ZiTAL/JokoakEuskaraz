@@ -198,7 +198,6 @@ Gure bikote-bizitzak izan zuen amaiera
 izango balu, ez luke munduan ezergatik
 aldatuko. Gauza zoragarriak
 pasatu genituen.
-
 [ffff]
 [8000]
 }

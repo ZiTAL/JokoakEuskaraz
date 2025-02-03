@@ -600,7 +600,6 @@ hilaren 22ko goizaldean.
 arabera, Sullivanek zopa-koilara
 bat sartu zuen lepoan, karotida
 arteria moztuz.
-
  Zaindariak aurkitu zuenean,
 Sullivan odolustuta hil zen,
 koilara lepoan bost zentimetro
@@ -711,7 +710,6 @@ utziko diot (Badakizu non bizi
 den, ezta? Giltza lehen
 solairuko eskaileratik hurbilen
 dagoen gelan dago).
-
  Ahal bezain laster itzuliko naiz,
 zaindu etxea kanpoan nagoen
 bitartean, mesedez.
@@ -1108,7 +1106,6 @@ inork ezin nau geldiarazi
 [01ff]
 badakit kutxaren zenbakia
 [e0ff]
-
 jada ezin dio lagundu botoiek
 ez naute beldurtzen, eta inork
 ezin du eragotzi nor naizen ez
@@ -1371,7 +1368,6 @@ etzanda.
 [f7ff]
 [f7ff]
 [f7ff]
-
 [fdff]
 [f7ff]
 [f7ff]
@@ -1406,7 +1402,8 @@ arma hiltzailetik, polizia
 eta ikerketa bat abiatu du hilketa batetik
 hilketagatik.
 [f7ff]
- [f7ff]
+ 
+[f7ff]
 [ffff]
 [1000]
 [8000]
@@ -1428,7 +1425,6 @@ que e
 [f7ff]
 [f7ff]
 [f7ff]
-
 [fdff]
 [f7ff]
 [f7ff]
@@ -1598,7 +1594,6 @@ zergatik hil behar dut egunsentian?
  Ondoan dudan presoak sinetsi
 egiten dit. Esan zuen: "Denak
 erotuta daudelako, eta kito".
-
  Badakit zure iritziak ez duela ezer aldatuko.
 Xuxurlatu zuen:
 "Orain badakizu zergatik
@@ -1753,7 +1748,6 @@ gutxiago denontzat.
 [faff]
 [01ff]
 James Sunderland jauna:
-
 Bideo-zinta lehen
 solairuko bulegoan
 dago gordeta.

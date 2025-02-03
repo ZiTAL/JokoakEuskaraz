@@ -1,7 +1,185 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 22
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 22
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Botoiari eman diot,baina ez da ezer gertatzen.[ffff][9000]}{[8000]Hemen elikagai batzukdaude lataratuta.[ffff][9000]}{[8000]Etiketarik gabeko lata bat dago.[ffff][9000]}{[8000]Lata bonbillaz beteta dago.[ffff][9000]}{[8000]Pote bat bonbillekin.Ez dut gehiago behar.[ffff][9000]}{[8000]Lanpara bat dago barran.[ffff][1000][8000]Baina ez du bonbillarik,beraz, ezin da piztu.[ffff][9000]}{[8000][03ff]Tabernako giltza[00ff]erabiltzen saiatu naiz,baina ilunegi dago sarrailarenbegia ikusteko.[ffff][9000]}{[8000][03ff]Disolbatzaile lata bat[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Tabernako giltza[00ff]aurkitu dut.[ffff][9000]}{[8000] [03ff]Bonbilla bat[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Disolbatzailea[00ff]erabili dut.[ffff][9000]}{[8000][03ff]Tabernako giltza[00ff]erabili dut.[ffff][9000]}{[8000][03ff]Bonbilla[00ff]jarri dut.[ffff][9000]}{[8000]Hozkailuko atea apurtuta dagoela dirudi.Ezin dut ireki.[ffff][9000]}{[8000]Sarraila apurtuta dago,ezin dut ireki.[ffff][9000]}{[8000]Karnata batzuk.[ffff][1000][8000]Badirudi lakuko arrantzaoso jarduera ezaguna delaturisten artean.[ffff][1000][8000]Ni ez naiz ona arrantzan, beraz,ez nuen zorterik probatu hemenegon nintzenean...[ffff][9000]}{[8000]Hemen disko makina bat dago.Ez du funtzionatzen,hautsita egon behar du.[ffff][9000]}{[8000]Barra.[ffff][1000][8000]Marik eta biok elkarrekinedan genuen taberna honetan.[ffff][1000][8000]Batzuetan badirudi eternitate batigaro dela, eta beste batzuetanbadirudi atzo izan zela.[ffff][9000]}{[8000]Hemen ardo botila hutsak daude.[ffff][9000]}{[8000]Hemen pitxer bat dago.Oraintxe bertan ez zait baliagarria.[ffff][9000]}{[8000]Koadro bat.Ez du ezer berezirik.[ffff][9000]}{[8000][01ff]Artizarraren malkoak[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Botoiari eman diot,baina ez da ezer gertatzen.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen elikagai batzukdaude lataratuta.
+[ffff]
+[9000]
+}
+{
+[8000]
+Etiketarik gabeko lata bat dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Lata bonbillaz beteta dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Pote bat bonbillekin.Ez dut gehiago behar.
+[ffff]
+[9000]
+}
+{
+[8000]
+Lanpara bat dago barran.
+[ffff]
+[1000]
+[8000]
+Baina ez du bonbillarik,beraz, ezin da piztu.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Tabernako giltza
+[00ff]
+erabiltzen saiatu naiz,baina ilunegi dago sarrailarenbegia ikusteko.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Disolbatzaile lata bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Tabernako giltza
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+ 
+[03ff]
+Bonbilla bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Disolbatzailea
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Tabernako giltza
+[00ff]
+erabili dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Bonbilla
+[00ff]
+jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hozkailuko atea apurtuta dagoela dirudi.Ezin dut ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Sarraila apurtuta dago,ezin dut ireki.
+[ffff]
+[9000]
+}
+{
+[8000]
+Karnata batzuk.
+[ffff]
+[1000]
+[8000]
+Badirudi lakuko arrantzaoso jarduera ezaguna delaturisten artean.
+[ffff]
+[1000]
+[8000]
+Ni ez naiz ona arrantzan, beraz,ez nuen zorterik probatu hemenegon nintzenean...
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen disko makina bat dago.Ez du funtzionatzen,hautsita egon behar du.
+[ffff]
+[9000]
+}
+{
+[8000]
+Barra.
+[ffff]
+[1000]
+[8000]
+Marik eta biok elkarrekinedan genuen taberna honetan.
+[ffff]
+[1000]
+[8000]
+Batzuetan badirudi eternitate batigaro dela, eta beste batzuetanbadirudi atzo izan zela.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen ardo botila hutsak daude.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hemen pitxer bat dago.Oraintxe bertan ez zait baliagarria.
+[ffff]
+[9000]
+}
+{
+[8000]
+Koadro bat.Ez du ezer berezirik.
+[ffff]
+[9000]
+}
+{
+[8000]
+[01ff]
+Artizarraren malkoak
+[ffff]
+[9000]
+}

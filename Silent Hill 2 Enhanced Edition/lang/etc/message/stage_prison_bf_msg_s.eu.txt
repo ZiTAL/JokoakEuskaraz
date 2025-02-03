@@ -1,7 +1,96 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 10
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 10
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Hobe duzu hortik ez begiratzea.Ez dut uste barruan dagoenaikusi nahi dudanik.[ffff][9000]}{[8000]Zulo bat dago lurrean.Ezin dut hondoa ikusi.[ffff][1000][8000]Noraino iristen da...?[ffff][1000][8000]Jaitsiko zara?[f6ff][ffff][8000]}{[8000]Beste zulo bat...Benetan sartu behar al dut...?[ffff][1000][8000]Jaitsiko zara?[f6ff][ffff][8000]}{[8000]Morroiloa hautsita dagoela dirudi.Ezin dut ireki.[ffff][1000][8000]Ateraino hurbiltzen banaiz,barrutik kirats ustelausaindu dezaket.[ffff][9000]}{[8000]Gorpuari ustel-kiratsa dario.[ffff][9000]}{[8000]Gorpu hau zulotikbota behar al zuten?[ffff][9000]}{[8000]Mugitu al da, edoimajinatu berri dut...?[ffff][9000]}{[8000]Ene...Zuloan...[ffff][1000][8000]Ez dut ezer ikusi.[ffff][9000]}{[8000]Usain nazkagarria ateratzen da zulotik.[ffff][9000]}{[8000]Zerbait dago zuloan.Badirudi...[ffff][1000][8000]Zatituta dago...Ez, ezin dut begira jarraitu...[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Hobe duzu hortik ez begiratzea.Ez dut uste barruan dagoenaikusi nahi dudanik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zulo bat dago lurrean.Ezin dut hondoa ikusi.
+[ffff]
+[1000]
+[8000]
+Noraino iristen da...?
+[ffff]
+[1000]
+[8000]
+Jaitsiko zara?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Beste zulo bat...Benetan sartu behar al dut...?
+[ffff]
+[1000]
+[8000]
+Jaitsiko zara?
+[f6ff]
+[ffff]
+[8000]
+}
+{
+[8000]
+Morroiloa hautsita dagoela dirudi.Ezin dut ireki.
+[ffff]
+[1000]
+[8000]
+Ateraino hurbiltzen banaiz,barrutik kirats ustelausaindu dezaket.
+[ffff]
+[9000]
+}
+{
+[8000]
+Gorpuari ustel-kiratsa dario.
+[ffff]
+[9000]
+}
+{
+[8000]
+Gorpu hau zulotikbota behar al zuten?
+[ffff]
+[9000]
+}
+{
+[8000]
+Mugitu al da, edoimajinatu berri dut...?
+[ffff]
+[9000]
+}
+{
+[8000]
+Ene...Zuloan...
+[ffff]
+[1000]
+[8000]
+Ez dut ezer ikusi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Usain nazkagarria ateratzen da zulotik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Zerbait dago zuloan.Badirudi...
+[ffff]
+[1000]
+[8000]
+Zatituta dago...Ez, ezin dut begira jarraitu...
+[ffff]
+[9000]
+}

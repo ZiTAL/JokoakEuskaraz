@@ -1,9 +1,256 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 29
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 29
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000][faff][01ff] Gerora Thomas Orosco egurgile gisaidentifikatu zuten gizon baten gorpua39 urtekoa, ahoz gora etzandaaurkitu zuten bere gelan.[f7ff][f7ff][f7ff][f7ff][f7ff][f7ff][fdff][f7ff][f7ff][f7ff][f7ff]
-
-[fdff][f7ff][f7ff][ffff][1000][8000][faff][01ff] Litekeena da heriotzarenkausa hainbat labankadaizan zirela lepoarenaurrealdea eta ezkerrekosaihetsean, eragindakoakarma zorrotz batengatik.Heriotza gutxi gorabeheragertatu zen 23:00etatikgauerdira.[f7ff][f7ff][fdff][f7ff][f7ff][f7ff][f7ff][f7ff][f7ff][ffff][1000][8000][faff][01ff] Logelako borroka zantzuen etaarma hiltzailearen faltarenondorioz, polizia homizidiobaten susmopean dago, etahilketagatik ikerketa abiatudu.[f7ff]pech[f7ff][ffff][1000][8000][faff][01ff] Gainera, gelako dirua ukituez zuenez eta Orosco jaunakalkoholismo- eta indarkeria-aurrekariak zituenez, poliziaksusmatzen du arrazoia ez zelalapurreta bat izan, pasiozkokrimenen bat baizik.[f7ff][f7ff][f7ff][f7ff]que e[f7ff][f7ff][f7ff][f7ff][fdff][f7ff][f7ff][f7ff][f7ff][ffff][9000]}{[8000]Egunkari bat dago lurrean.[ffff][1000][8000]Odola dirudien zerbaitezzikinduta dago eta zatibatzuk ezin dira irakurri.[ffff][9000]}{[8000]Haurra hilda dago.[ffff][9000]}{[8000]Ez, aita! Ez, mesedez![ffff][8000]}{[8000]Ondo al zaude?[ffff][8000]}{[8000]Angela! Lasai.[ffff][8000]}{[8000]Ez eman agindurik![ffff][8000]}{[8000]Ez da nire asmoa.[ffff][8000]}{[8000]Orduan, zer nahi duzu?[ffff][8000]}{[8000]Ah, ikusten dut, jatorrarenaegiten ari da, ezta?[ffff][8000]}{[8000]Badakit zer nahi duen.Berriro gauza berarekin.[ffff][8000]}{[8000]Gauza bakarra dute buruan.[ffff][8000]}{[8000]Ez. Hori ez da egia.[ffff][8000]}{[8000]Ez duzu zertan gezurrik esan.Benga, izan zintzoa.[ffff][8000]}{[8000]Edo behartu nazakezu.Jo nazazu, berak egiten zuen bezala.[ffff][8000]}{[8000]Gainera, zeure buruabesterik ez duzu buruan.[ffff][8000]}{[8000]Txerri zikina...[ffff][8000]}{[8000]Angela...[ffff][8000]}{[8000]Ez nazazu ukitu![ffff][8000]}{[8000]Botaka egiteko gogoa dut![ffff][8000]}{[8000]Mari bere emaztea hildazegoela esan zuen, ezta?[ffff][8000]}{[8000]Bai, gaixorik zegoen...[ffff][8000]}{[8000]Gezurretan ari da![ffff][8000]}{[8000]Ondo ezagutzen dut...[ffff][8000]}{[8000]Ez nuen berarekin egon nahi.Beste bat bilatuko genuke.[ffff][8000]}{[8000]Hori barregarria da... Nik ez...[ffff][8000]}{[8000]Ezin dut bere kasa utzi.[ffff][9000]}{[8000]Itzuliko banintz ere, nora joango nintzateke...?[ffff][1000][8000]Ez dago itzulbiderik,ezta ihes egiteko lekurik ere.[ffff][9000]}{[8000]Hormak eta zorua egunkarizbeteta daude. Ez dirudi ezerinteresgarririk dagoenik.[ffff][1000][8000]Baina honek gaurko data du...Bai arraroa.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+[faff]
+[01ff]
+ Gerora Thomas Orosco egurgile gisaidentifikatu zuten gizon baten gorpua39 urtekoa, ahoz gora etzandaaurkitu zuten bere gelan.
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Litekeena da heriotzarenkausa hainbat labankadaizan zirela lepoarenaurrealdea eta ezkerrekosaihetsean, eragindakoakarma zorrotz batengatik.Heriotza gutxi gorabeheragertatu zen 23:00etatikgauerdira.
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Logelako borroka zantzuen etaarma hiltzailearen faltarenondorioz, polizia homizidiobaten susmopean dago, etahilketagatik ikerketa abiatudu.
+[f7ff]
+pech
+[f7ff]
+[ffff]
+[1000]
+[8000]
+[faff]
+[01ff]
+ Gainera, gelako dirua ukituez zuenez eta Orosco jaunakalkoholismo- eta indarkeria-aurrekariak zituenez, poliziaksusmatzen du arrazoia ez zelalapurreta bat izan, pasiozkokrimenen bat baizik.
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+que e
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[fdff]
+[f7ff]
+[f7ff]
+[f7ff]
+[f7ff]
+[ffff]
+[9000]
+}
+{
+[8000]
+Egunkari bat dago lurrean.
+[ffff]
+[1000]
+[8000]
+Odola dirudien zerbaitezzikinduta dago eta zatibatzuk ezin dira irakurri.
+[ffff]
+[9000]
+}
+{
+[8000]
+Haurra hilda dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez, aita! Ez, mesedez!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ondo al zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela! Lasai.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez eman agindurik!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez da nire asmoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orduan, zer nahi duzu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Ah, ikusten dut, jatorrarenaegiten ari da, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Badakit zer nahi duen.Berriro gauza berarekin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gauza bakarra dute buruan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez. Hori ez da egia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez duzu zertan gezurrik esan.Benga, izan zintzoa.
+[ffff]
+[8000]
+}
+{
+[8000]
+Edo behartu nazakezu.Jo nazazu, berak egiten zuen bezala.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gainera, zeure buruabesterik ez duzu buruan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Txerri zikina...
+[ffff]
+[8000]
+}
+{
+[8000]
+Angela...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nazazu ukitu!
+[ffff]
+[8000]
+}
+{
+[8000]
+Botaka egiteko gogoa dut!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari bere emaztea hildazegoela esan zuen, ezta?
+[ffff]
+[8000]
+}
+{
+[8000]
+Bai, gaixorik zegoen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gezurretan ari da!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ondo ezagutzen dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez nuen berarekin egon nahi.Beste bat bilatuko genuke.
+[ffff]
+[8000]
+}
+{
+[8000]
+Hori barregarria da... Nik ez...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ezin dut bere kasa utzi.
+[ffff]
+[9000]
+}
+{
+[8000]
+Itzuliko banintz ere, nora joango nintzateke...?
+[ffff]
+[1000]
+[8000]
+Ez dago itzulbiderik,ezta ihes egiteko lekurik ere.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hormak eta zorua egunkarizbeteta daude. Ez dirudi ezerinteresgarririk dagoenik.
+[ffff]
+[1000]
+[8000]
+Baina honek gaurko data du...Bai arraroa.
+[ffff]
+[9000]
+}

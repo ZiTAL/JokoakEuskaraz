@@ -427,7 +427,6 @@ Bistakoa dirudi, baina
 oso garrantzitsua da. Hobe da
 gaixotasunak saihestea, gaixotu
 ondoren sendabidea bilatzea baino.
-
 [ffff]
 [1000]
 [8000]
@@ -437,7 +436,6 @@ ondoren sendabidea bilatzea baino.
 eta baikorra izan behar da.
 Ez du ezertarako balio iraganean
 gertatutako gauzez kezkatzeak.
-
 [ffff]
 [1000]
 [8000]
@@ -447,7 +445,6 @@ gertatutako gauzez kezkatzeak.
 behar duzu noizean behin,
 etxean eserita egon beharrean,
 liburu konplexuak irakurtzen.
-
 [ffff]
 [9000]
 }
@@ -537,7 +534,6 @@ noiz egingo nuen neure buruaz beste.
  Jendearekin hitz egiteari utzi nion,
  hari garrantzia emateari, nahiz eta
  adiskidetasunetik urrundu.
-
 [ffff]
 [9000]
 }
@@ -712,7 +708,6 @@ utziko diot (Badakizu non bizi
 den, ezta? Giltza lehen solairuko
 eskaileratik hurbilen dagoen
 gelan dago).
-
  Ahal bezain laster itzuliko naiz,
 zaindu etxea kanpoan nagoen
 bitartean, mesedez.
@@ -849,7 +844,6 @@ hondoratuko dituzte Lurra
 jaitsiera mingarri batean
 iritsiko da Egin dituzten
 bekatuak "alderantzikatzeko"
-
 [ffff]
 [1000]
 [8000]
@@ -994,7 +988,6 @@ Mania pertsekutorioak ditu eta
 indarkeriara jotzeko joera du.
 Arreta handiz ibili behar da
 paziente horrekin.
-
 [ffff]
 [9000]
 }
@@ -1122,7 +1115,6 @@ nau geldiarazi
 [01ff]
 badakit zein den kutxaren zenbakia, 
 [e0ff]
-
 dagoeneko ezin diote lagundu botoiek,
 eta ez naute beldurtzen, eta inork
 ezin du eragotzi nor naizen,
@@ -1404,7 +1396,6 @@ Heriotza 23:00ak eta gauerdia
 artean gertatu zen.
 [f7ff]
 [f7ff]
-
 [fdff]
 [f7ff]
 [f7ff]
@@ -1444,7 +1435,6 @@ pasiozko krimenena baizik.
 [f7ff]
 [f7ff]
 [f7ff]
-
 [fdff]
 [f7ff]
 [f7ff]
@@ -1549,7 +1539,6 @@ saldu zituen.
 [faff]
 [01ff]
 Gauez ezkutuan sartu zen. Lapurrak ez zituen tranpak ikusi. Eta burua alkoholez bete zuen.
-
 [ffff]
 [1000]
 [8000]
@@ -1616,7 +1605,6 @@ zergatik hil behar dut egunsentian?
 Ondoan dudan presoak sinetsi egiten dit.
 Esan zuen:
 "Denak erotuta daudelako, eta kito".
-
  Badakit zure iritziak ez duela ezer
 aldatuko. Xuxurlatu zuen:
 "Orain badakizu zergatik jipoitzen
@@ -1773,7 +1761,6 @@ gutxiago denontzat.
 [faff]
 [01ff]
 James Sunderland jauna:
-
 Bideo-zinta lehen
 solairuko bulegoan
 gordeta dago.

@@ -486,7 +486,6 @@ Erlojuaren giltza
 [8000]
 Giltza erloju txiki batekin.
 202. gelako horman zegoen zulo batean.
-
 [ffff]
 [8000]
 }
@@ -526,7 +525,6 @@ Lyneren etxeko giltza
 [8000]
 Mahaian zegoen txanponen igarkizunarekin.
 Etiketak dio: "Lyne".
-
 [ffff]
 [8000]
 }
@@ -580,7 +578,6 @@ Zezen morearen giltza
 [8000]
 Zezen more bat marraztuta dauka.
 Dokumentu-gelako idazmahaian zegoen.
-
 [ffff]
 [8000]
 }
@@ -1413,7 +1410,6 @@ Gutun-azala hutsik dago.
 [faff]
 [01ff]
 Laura maitea:
-
 Gutun hau Racheli
 uzten diot, ni joandakoan
 eman diezazun.
@@ -1576,7 +1572,6 @@ hauek eta kontatu besteei
 beti obedituak izan daitezen,
 baita eguzki harro eta
 krudelaren argipean ere.
-
 [ffff]
 [1000]
 [8000]
@@ -1949,4 +1944,3 @@ jarri dut apalean.
 [ffff]
 [9000]
 }
-

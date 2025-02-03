@@ -1,7 +1,7 @@
 SOURCE_TARGET: 1
 VERSION: v1.4
 HEADER: 0 0
-ADDR:
+ADDR:    
 COUNT: 35
 
 John_Modest Production
@@ -268,4 +268,3 @@ Oso zoriontsu egin nauzu.
 [ffff]
 [8000]
 }
-

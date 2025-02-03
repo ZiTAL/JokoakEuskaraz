@@ -1,7 +1,197 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 30
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 30
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Bide honetatik etorri naiz.Ez du zentzurik atzera itzultzeak.[ffff][9000]}{[8000]Ezin dut autoz jarraitu.Ibili beharko dut...[ffff][9000]}{[8000]Autoan mapa bat dago.Ideia ona litzateke bertara joatea.[ffff][9000]}{[8000]Dagoeneko ez dago ezer interesgarrik.[ffff][9000]}{[8000]Ez dago ezer bidaiarieneserlekuan.[ffff][9000]}{[8000]Ez dago ezer bidaiarieneserlekuan.[ffff][1000][8000]Mapa gidariareneserlekuan dago.[ffff][9000]}{[8000]Mari... benetan hirihonetan zaudela?[ffff][8000]}{[8000]Amesgaiztoetan ikusten duthiri hori.[ffff][8000]}{[8000]Silent Hill.[ffff][8000]}{[8000]Egunen batean hara eramangoninduzula agindu zenidan.[ffff][8000]}{[8000]Baina ez duzu inoiz egin.[ffff][8000]}{[8000]Eta orain han nago, bakarrik...[ffff][8000]}{[8000]Gure "leku berezian"...[ffff][8000]}{[8000]Zure zain...[ffff][8000]}{[8000]Gutun bat iritsi zait.[ffff][8000]}{[8000]Gutunazalak "Mari" zeukan idatzita.[ffff][8000]}{[8000]Nire emaztearen izena...[ffff][8000]}{[8000]Ez du zentzurik.Ezinezkoa da...[ffff][8000]}{[8000]Behin eta berrizerrepikatzen dut...[ffff][8000]}{[8000]Hildakoek ezin dutegutunik idatzi.[ffff][8000]}{[8000]Mari gaixotasun madarikatu harengatikhil zen duela hiru urte.[ffff][8000]}{[8000]Orduan, zergatiknabil bere bila?[ffff][8000]}{[8000]"Gure leku berezia"...Zer esan nahi zuen?[ffff][8000]}{[8000]Hiri hau guztia zengure leku berezia.[ffff][8000]}{[8000]Lakuaren ondoko parkehartaz ari ote zen?[ffff][8000]}{[8000]Han ematen dugu egun osoa.Biok bakarrik, urari begira.[ffff][8000]}{[8000]Mari han al dago benetan?[ffff][8000]}{[8000]Benetan bizirik al dago...nire zain?[ffff][8000]}{[8000][03ff]Silent Hill-en mapa bat[00ff]aurkitu dut.[ffff][9000]}{[8000]Daukazun asto-eztul horiez da batere normala...jaindu beharko zinateke.[ffff][8000]}
+BEGIN_SOURCE:
+{
+[8000]
+Bide honetatik etorri naiz.Ez du zentzurik atzera itzultzeak.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ezin dut autoz jarraitu.Ibili beharko dut...
+[ffff]
+[9000]
+}
+{
+[8000]
+Autoan mapa bat dago.Ideia ona litzateke bertara joatea.
+[ffff]
+[9000]
+}
+{
+[8000]
+Dagoeneko ez dago ezer interesgarrik.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer bidaiarieneserlekuan.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dago ezer bidaiarieneserlekuan.
+[ffff]
+[1000]
+[8000]
+Mapa gidariareneserlekuan dago.
+[ffff]
+[9000]
+}
+{
+[8000]
+Mari... benetan hirihonetan zaudela?
+[ffff]
+[8000]
+}
+{
+[8000]
+Amesgaiztoetan ikusten duthiri hori.
+[ffff]
+[8000]
+}
+{
+[8000]
+Silent Hill.
+[ffff]
+[8000]
+}
+{
+[8000]
+Egunen batean hara eramangoninduzula agindu zenidan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina ez duzu inoiz egin.
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta orain han nago, bakarrik...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gure "leku berezian"...
+[ffff]
+[8000]
+}
+{
+[8000]
+Zure zain...
+[ffff]
+[8000]
+}
+{
+[8000]
+Gutun bat iritsi zait.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gutunazalak "Mari" zeukan idatzita.
+[ffff]
+[8000]
+}
+{
+[8000]
+Nire emaztearen izena...
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez du zentzurik.Ezinezkoa da...
+[ffff]
+[8000]
+}
+{
+[8000]
+Behin eta berrizerrepikatzen dut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Hildakoek ezin dutegutunik idatzi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari gaixotasun madarikatu harengatikhil zen duela hiru urte.
+[ffff]
+[8000]
+}
+{
+[8000]
+Orduan, zergatiknabil bere bila?
+[ffff]
+[8000]
+}
+{
+[8000]
+"Gure leku berezia"...Zer esan nahi zuen?
+[ffff]
+[8000]
+}
+{
+[8000]
+Hiri hau guztia zengure leku berezia.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lakuaren ondoko parkehartaz ari ote zen?
+[ffff]
+[8000]
+}
+{
+[8000]
+Han ematen dugu egun osoa.Biok bakarrik, urari begira.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari han al dago benetan?
+[ffff]
+[8000]
+}
+{
+[8000]
+Benetan bizirik al dago...nire zain?
+[ffff]
+[8000]
+}
+{
+[8000]
+[03ff]
+Silent Hill-en mapa bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Daukazun asto-eztul horiez da batere normala...jaindu beharko zinateke.
+[ffff]
+[8000]
+}

@@ -1,9 +1,290 @@
-﻿--------------- strings=1 language=english
----------------
-SOURCE_TARGET: 1VERSION: v1.4HEADER:<WAIT><WAIT>ADDR:    COUNT: 44
+﻿SOURCE_TARGET: 1
+VERSION: v1.4
+HEADER: 0 0
+ADDR:    
+COUNT: 44
 
-John_Modest Productionhttp://inetmedia.uni-dubna.ru/
+John_Modest Production
+http://inetmedia.uni-dubna.ru/
 
-BEGIN_SOURCE:{[8000]Ez da besterik entzuten.[ffff][9000]}{[8000]Hozka biribil batdago atean.[ffff][9000]}{[8000]Orain ezin dut ihes egin.[ffff][9000]}{[8000]Ez dut behar.Orain gorpu bat besterik ez da.[ffff][9000]}{[8000][03ff]Pixa koloreko arrautza bat[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Arrautza gorri bat[00ff]aurkitu dut.[ffff][9000]}{[8000][03ff]Txiza koloreko arrautza[00ff]atean jarri dut.[ffff][9000]}{[8000][03ff]Arrautza eskarlata[00ff]
-
-atean jarri dut.[ffff][9000]}{[8000]Piramide burua ez da mugitzen.Ez dut gehiago kezkatu behar.[ffff][9000]}{[8000]James![ffff][8000]}{[8000]Geldi!Utzi bakean![ffff][8000]}{[8000]Utz gaitzazue bakean![ffff][8000]}{[8000]Ahula zen.[ffff][8000]}{[8000]Horregatik behar zintudan...[ffff][8000]}{[8000]Norbaitek nire bekatuengatikzigortzea behar nuen...[ffff][8000]}{[8000]Baina bukatu da...[ffff][8000]}{[8000]Egia osoa dakit... Honi guztiariamaiera emateko unea iritsi da.[ffff][8000]}{[8000]Zer nahi duzu, James?[ffff][8000]}{[8000]Eh... Loreak ekarri dizkizut...[ffff][8000]}{[8000]Loreak?Utikan loreak![ffff][8000]}{[8000]Zoaz etxera![ffff][8000]}{[8000]Mari, zer diozu?[ffff][8000]}{[8000]Begiratu niri! Nazkagarria naiz!Ez dut lorerik merezi.[ffff][8000]}{[8000]Gaixotasunaren etamedikazioaren arteanmunstroa ematen dut.[ffff][8000]}{[8000]Zeri begira zaude?[ffff][8000]}{[8000]Zoaz antzarrak ferratzera![ffff][8000]}{[8000]Eta utz nazazu bakean! SEP![ffff][8000]}{[8000]Ez naiz inoren onerakoeta laster hilko naiz.[ffff][8000]}{[8000]Agian gaur, agian bihar...[ffff][8000]}{[8000]Errazagoa litzateke ni erailtzea.[ffff][8000]}{[8000]Baina, jakina, ospitaleanire onetik ateratzen ari da.[ffff][8000]}{[8000]Ni bizirik mantentzea interesatzen zaie...[ffff][8000]}{[8000]Hemen zaude oraindik?[ffff][8000]}{[8000]Joateko esan dizutGorra zara ala?[ffff][8000]}{[8000]Eta ez itzuli![ffff][8000]}{[8000]James...Itxaron...[ffff][8000]}{[8000]Mesedez, ez joan...[ffff][8000]}{[8000]Geratu nirekin.Ez nazazu bakarrik utzi.[ffff][8000]}{[8000]Ez dut benetan esan.[ffff][8000]}{[8000]Mesedez, James...[ffff][8000]}{[8000]Esadazu dena ondo joango dela.[ffff][8000]}{[8000]Esadazu ez naizela hilko.[ffff][8000]}{[8000]Lagundu...[ffff][8000]}{[8000]Piramide buruakmugitzeari utzi dio.[ffff][1000][8000]Eskuan zerbait duela dirudi.[ffff][9000]}
+BEGIN_SOURCE:
+{
+[8000]
+Ez da besterik entzuten.
+[ffff]
+[9000]
+}
+{
+[8000]
+Hozka biribil batdago atean.
+[ffff]
+[9000]
+}
+{
+[8000]
+Orain ezin dut ihes egin.
+[ffff]
+[9000]
+}
+{
+[8000]
+Ez dut behar.Orain gorpu bat besterik ez da.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Pixa koloreko arrautza bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Arrautza gorri bat
+[00ff]
+aurkitu dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Txiza koloreko arrautza
+[00ff]
+atean jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+[03ff]
+Arrautza eskarlata
+[00ff]
+atean jarri dut.
+[ffff]
+[9000]
+}
+{
+[8000]
+Piramide burua ez da mugitzen.Ez dut gehiago kezkatu behar.
+[ffff]
+[9000]
+}
+{
+[8000]
+James!
+[ffff]
+[8000]
+}
+{
+[8000]
+Geldi!Utzi bakean!
+[ffff]
+[8000]
+}
+{
+[8000]
+Utz gaitzazue bakean!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ahula zen.
+[ffff]
+[8000]
+}
+{
+[8000]
+Horregatik behar zintudan...
+[ffff]
+[8000]
+}
+{
+[8000]
+Norbaitek nire bekatuengatikzigortzea behar nuen...
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina bukatu da...
+[ffff]
+[8000]
+}
+{
+[8000]
+Egia osoa dakit... Honi guztiariamaiera emateko unea iritsi da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zer nahi duzu, James?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eh... Loreak ekarri dizkizut...
+[ffff]
+[8000]
+}
+{
+[8000]
+Loreak?Utikan loreak!
+[ffff]
+[8000]
+}
+{
+[8000]
+Zoaz etxera!
+[ffff]
+[8000]
+}
+{
+[8000]
+Mari, zer diozu?
+[ffff]
+[8000]
+}
+{
+[8000]
+Begiratu niri! Nazkagarria naiz!Ez dut lorerik merezi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Gaixotasunaren etamedikazioaren arteanmunstroa ematen dut.
+[ffff]
+[8000]
+}
+{
+[8000]
+Zeri begira zaude?
+[ffff]
+[8000]
+}
+{
+[8000]
+Zoaz antzarrak ferratzera!
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta utz nazazu bakean! SEP!
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez naiz inoren onerakoeta laster hilko naiz.
+[ffff]
+[8000]
+}
+{
+[8000]
+Agian gaur, agian bihar...
+[ffff]
+[8000]
+}
+{
+[8000]
+Errazagoa litzateke ni erailtzea.
+[ffff]
+[8000]
+}
+{
+[8000]
+Baina, jakina, ospitaleanire onetik ateratzen ari da.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ni bizirik mantentzea interesatzen zaie...
+[ffff]
+[8000]
+}
+{
+[8000]
+Hemen zaude oraindik?
+[ffff]
+[8000]
+}
+{
+[8000]
+Joateko esan dizutGorra zara ala?
+[ffff]
+[8000]
+}
+{
+[8000]
+Eta ez itzuli!
+[ffff]
+[8000]
+}
+{
+[8000]
+James...Itxaron...
+[ffff]
+[8000]
+}
+{
+[8000]
+Mesedez, ez joan...
+[ffff]
+[8000]
+}
+{
+[8000]
+Geratu nirekin.Ez nazazu bakarrik utzi.
+[ffff]
+[8000]
+}
+{
+[8000]
+Ez dut benetan esan.
+[ffff]
+[8000]
+}
+{
+[8000]
+Mesedez, James...
+[ffff]
+[8000]
+}
+{
+[8000]
+Esadazu dena ondo joango dela.
+[ffff]
+[8000]
+}
+{
+[8000]
+Esadazu ez naizela hilko.
+[ffff]
+[8000]
+}
+{
+[8000]
+Lagundu...
+[ffff]
+[8000]
+}
+{
+[8000]
+Piramide buruakmugitzeari utzi dio.
+[ffff]
+[1000]
+[8000]
+Eskuan zerbait duela dirudi.
+[ffff]
+[9000]
+}
