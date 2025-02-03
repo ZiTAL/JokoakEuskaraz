@@ -80,7 +80,8 @@ Kaka zaharra!
 }
 {
 [8000]
-Erosketa-orga.Zer egiten du hemen?
+Erosketa-orga.
+Zer egiten du hemen?
 [ffff]
 [9000]
 }

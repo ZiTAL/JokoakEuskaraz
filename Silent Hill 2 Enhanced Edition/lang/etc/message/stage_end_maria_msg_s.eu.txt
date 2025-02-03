@@ -22,7 +22,8 @@ Mari...
 }
 {
 [8000]
-Sentitzen dut hainbeste berandutu izana.Barkatu atzerapena.
+Sentitzen dut hainbeste berandutu izana.
+Barkatu atzerapena.
 [ffff]
 [8000]
 }
@@ -34,7 +35,8 @@ Ez ninduzun ikusi nahi?
 }
 {
 [8000]
-Bai, ikusi nahi zintudan.Irudipen hutsa izan arren...
+Bai, ikusi nahi zintudan.
+Irudipen hutsa izan arren...
 [ffff]
 [8000]
 }
@@ -70,7 +72,8 @@ Badakit zama nintzela zuretzat.
 }
 {
 [8000]
-Gorrotatuko nindukezu.Horregatik bota ninduzun.
+Gorrotatuko nindukezu.
+Horregatik bota ninduzun.
 [ffff]
 [8000]
 }
@@ -82,7 +85,8 @@ Egia da... baliteke sentimenduhoriek inbaditu izana.
 }
 {
 [8000]
-Hiru urte luze izan ziren...Eta nekatuta nengoen.
+Hiru urte luze izan ziren...
+Eta nekatuta nengoen.
 [ffff]
 [8000]
 }
@@ -100,7 +104,8 @@ James, benetan uste duzu eginduzunagatik barkatukodizudala?
 }
 {
 [8000]
-Orain ezin naiz itzuli.Ez da ihes egiteko unea.
+Orain ezin naiz itzuli.
+Ez da ihes egiteko unea.
 [ffff]
 [9000]
 }

@@ -77,7 +77,8 @@ aurkitu dut.
 }
 {
 [8000]
-Kutxa gotor bat...Baina ez dakit nola ireki.
+Kutxa gotor bat...
+Baina ez dakit nola ireki.
 [ffff]
 [9000]
 }

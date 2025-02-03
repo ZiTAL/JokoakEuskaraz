@@ -166,7 +166,8 @@ Oharren liburuan ez dagoezer interesgarririk.
 }
 {
 [8000]
-Ez dut ezer entzuten entzungailuagatik.Telefono-linea moztuta egongo da?
+Ez dut ezer entzuten entzungailuagatik.
+Telefono-linea moztuta egongo da?
 [ffff]
 [9000]
 }
@@ -178,7 +179,8 @@ Tiraderan ez dago ezer.
 }
 {
 [8000]
-Hemen liburuxka turistikoak daude.Orain ez zaizkit interesatzen.
+Hemen liburuxka turistikoak daude.
+Orain ez zaizkit interesatzen.
 [ffff]
 [9000]
 }
@@ -190,7 +192,8 @@ Liburu bat. "Saretan zehar dantzan JAVA erabiliz"Ez dirudi oso erabilgarria deni
 }
 {
 [8000]
-Liburu bat dago zabalikidazmahaiaren gainean.Medikuntzakoa dirudi.
+Liburu bat dago zabalikidazmahaiaren gainean.
+Medikuntzakoa dirudi.
 [ffff]
 [1000]
 [8000]
@@ -218,7 +221,8 @@ Hotel honetako koadro bat.
 }
 {
 [8000]
-Txirrina.Ez dut uste inor agertuko denik.
+Txirrina.
+Ez dut uste inor agertuko denik.
 [ffff]
 [9000]
 }
@@ -230,7 +234,8 @@ Hona hemen enplegatuentzakoarauak. Ez dute nirekinzerikusirik.
 }
 {
 [8000]
-Hemen oharrak daude zintzilik.Baina ez dute ezer interesgarririk esaten.
+Hemen oharrak daude zintzilik.
+Baina ez dute ezer interesgarririk esaten.
 [ffff]
 [9000]
 }

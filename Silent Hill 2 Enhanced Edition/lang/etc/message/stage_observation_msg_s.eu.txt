@@ -10,19 +10,22 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Bide honetatik etorri naiz.Ez du zentzurik atzera itzultzeak.
+Bide honetatik etorri naiz.
+Ez du zentzurik atzera itzultzeak.
 [ffff]
 [9000]
 }
 {
 [8000]
-Ezin dut autoz jarraitu.Ibili beharko dut...
+Ezin dut autoz jarraitu.
+Ibili beharko dut...
 [ffff]
 [9000]
 }
 {
 [8000]
-Autoan mapa bat dago.Ideia ona litzateke bertara joatea.
+Autoan mapa bat dago.
+Ideia ona litzateke bertara joatea.
 [ffff]
 [9000]
 }
@@ -116,7 +119,8 @@ Nire emaztearen izena...
 }
 {
 [8000]
-Ez du zentzurik.Ezinezkoa da...
+Ez du zentzurik.
+Ezinezkoa da...
 [ffff]
 [8000]
 }
@@ -146,7 +150,8 @@ Orduan, zergatiknabil bere bila?
 }
 {
 [8000]
-"Gure leku berezia"...Zer esan nahi zuen?
+"Gure leku berezia"...
+Zer esan nahi zuen?
 [ffff]
 [8000]
 }
@@ -164,7 +169,8 @@ Lakuaren ondoko parkehartaz ari ote zen?
 }
 {
 [8000]
-Han ematen dugu egun osoa.Biok bakarrik, urari begira.
+Han ematen dugu egun osoa.
+Biok bakarrik, urari begira.
 [ffff]
 [8000]
 }
@@ -176,7 +182,8 @@ Mari han al dago benetan?
 }
 {
 [8000]
-Benetan bizirik al dago...nire zain?
+Benetan bizirik al dago...
+nire zain?
 [ffff]
 [8000]
 }
@@ -191,7 +198,8 @@ aurkitu dut.
 }
 {
 [8000]
-Daukazun asto-eztul horiez da batere normala...jaindu beharko zinateke.
+Daukazun asto-eztul horiez da batere normala...
+jaindu beharko zinateke.
 [ffff]
 [8000]
 }

@@ -148,13 +148,15 @@ James, badakizu nola sentitzen den bat?
 }
 {
 [8000]
-Gorrotatzen diotenean...Puteatzen diotenean...
+Gorrotatzen diotenean...
+Puteatzen diotenean...
 [ffff]
 [8000]
 }
 {
 [8000]
-Txistua botatzen diotenean...Eta dena itxura fisikoagatik.
+Txistua botatzen diotenean...
+Eta dena itxura fisikoagatik.
 [ffff]
 [8000]
 }
@@ -178,7 +180,8 @@ Ume izutua zirudien.
 }
 {
 [8000]
-Bai, txakur hori akatu dut.Ondo egon da.
+Bai, txakur hori akatu dut.
+Ondo egon da.
 [ffff]
 [8000]
 }
@@ -232,7 +235,8 @@ Hiri honek zuriere deitu dizu.
 }
 {
 [8000]
-Zu eta biok berdinak gara.Ez gara besteak bezalakoak.
+Zu eta biok berdinak gara.
+Ez gara besteak bezalakoak.
 [ffff]
 [8000]
 }

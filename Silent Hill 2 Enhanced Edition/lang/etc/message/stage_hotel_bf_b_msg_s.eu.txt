@@ -10,13 +10,15 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Horma bat.Ezin naiz hemendik pasatu.
+Horma bat.
+Ezin naiz hemendik pasatu.
 [ffff]
 [9000]
 }
 {
 [8000]
-Disko-makina bat.Orain ez dit ezertarako balio.
+Disko-makina bat.
+Orain ez dit ezertarako balio.
 [ffff]
 [9000]
 }

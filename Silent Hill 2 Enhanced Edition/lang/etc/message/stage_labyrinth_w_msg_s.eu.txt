@@ -88,7 +88,8 @@ Duela gutxi!Ez zara gogoratzen?
 }
 {
 [8000]
-James, maitea...Zerbait gertatu zaizu?
+James, maitea...
+Zerbait gertatu zaizu?
 [ffff]
 [8000]
 }

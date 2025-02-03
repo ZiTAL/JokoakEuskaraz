@@ -28,7 +28,8 @@ Orratz bat zegoenpeluxean sartuta.
 }
 {
 [8000]
-Pelutxe bat besterik ez da.Ez dago besterik.
+Pelutxe bat besterik ez da.
+Ez dago besterik.
 [ffff]
 [9000]
 }
@@ -40,23 +41,27 @@ Txabusinaren poltsikoan zerbait dago.
 }
 {
 [8000]
-Laborategiko txabusina.Ez dago ezer berezikiinteresgarririk.
+Laborategiko txabusina.
+Ez dago ezer berezikiinteresgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Idazmakina bat.Ez dit ezertarako balio.
+Idazmakina bat.
+Ez dit ezertarako balio.
 [ffff]
 [9000]
 }
 {
 [8000]
-Idazmakina bat.Ez dit ezertarako balio.
+Idazmakina bat.
+Ez dit ezertarako balio.
 [ffff]
 [1000]
 [8000]
-Itxaron...Zer da hau...?
+Itxaron...
+Zer da hau...?
 [ffff]
 [1000]
 [8000]
@@ -86,7 +91,8 @@ oso ongi bera da okerrenaorain ni ere aske izangonaiz eta berak balioko ditjenio
 }
 {
 [8000]
-Paper sakabanatuak.Hutsik daude.
+Paper sakabanatuak.
+Hutsik daude.
 [ffff]
 [9000]
 }
@@ -208,7 +214,8 @@ Hemen ez dago ezer interesgarririk.
 }
 {
 [8000]
-Telebista bat.Apurtuta dagoela dirudi.
+Telebista bat.
+Apurtuta dagoela dirudi.
 [ffff]
 [9000]
 }
@@ -220,7 +227,8 @@ Hemen ez dago ezer erabilgarria dirudienik.
 }
 {
 [8000]
-Iragarki-taulan zerbaitdago zintzilik.Baina ez dirudiinteresgarria denik.
+Iragarki-taulan zerbaitdago zintzilik.
+Baina ez dirudiinteresgarria denik.
 [ffff]
 [9000]
 }

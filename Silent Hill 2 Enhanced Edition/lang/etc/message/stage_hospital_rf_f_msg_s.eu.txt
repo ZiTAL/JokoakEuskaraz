@@ -10,7 +10,8 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Zerbait dago lurrean.Egunkari bat da...?
+Zerbait dago lurrean.
+Egunkari bat da...?
 [ffff]
 [9000]
 }
@@ -18,37 +19,52 @@ Zerbait dago lurrean.Egunkari bat da...?
 [8000]
 [faff]
 [01ff]
-Maiatzak 9Euria ari du.Egun osoa daramatleihotik begira.Lasai dago, ez dut zereginik.Oraindik ez didate irteten uzten.
+Maiatzak 9Euria ari du.
+Egun osoa daramatleihotik begira.
+Lasai dago, ez dut zereginik.
+Oraindik ez didate irteten uzten.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Maiatzak 10Euria ari du oraindik.Medikuarekin hitz egin dut.Salbatuko al ninduten nirefalta ez duten familia ez banu?Badakit pena ematen dudala,ahula naizela.Mundu guztia ezin daindartsua izan.
+Maiatzak 10Euria ari du oraindik.
+Medikuarekin hitz egin dut.
+Salbatuko al ninduten nirefalta ez duten familia ez banu?Badakit pena ematen dudala,ahula naizela.
+Mundu guztia ezin daindartsua izan.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Maiatzak 11Euria ari du berriro.Gaur medikazioakgoragalea eman dit.Hartzen dudaneanbakarrik hobeto banago,orduan nor naiz?
+Maiatzak 11Euria ari du berriro.
+Gaur medikazioakgoragalea eman dit.
+Hartzen dudaneanbakarrik hobeto banago,orduan nor naiz?
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Maiatzak 12Euri gehiago.Ez diot inori arazogehiago eman nahi,baina ez diot trabaizateari uzten.Zergatik da bekatutzatborroka uztea?
+Maiatzak 12Euri gehiago.
+Ez diot inori arazogehiago eman nahi,baina ez diot trabaizateari uzten.
+Zergatik da bekatutzatborroka uztea?
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Batzuek esango dute hala dela,baina ez dakite zer sufritu behar dudan.Egoista izango naiz,baina hori da nahi dudana.Hau gogorregia da.Gehiegi...
+Batzuek esango dute hala dela,baina ez dakite zer sufritu behar dudan.
+Egoista izango naiz,baina hori da nahi dudana.
+Hau gogorregia da.
+Gehiegi...
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Maiatzak 13Argitu du.Medikuek esan didatealta ematen didatela,etxera joan behar dudala.Eta
+Maiatzak 13Argitu du.
+Medikuek esan didatealta ematen didatela,etxera joan behar dudala.
+Eta
 [08fd]
 [a0fe]
 [ffff]
@@ -66,7 +82,8 @@ Zer egiten du egunkari batek hemen?
 }
 {
 [8000]
-Atea ez da irekitzen.Zerbaitek beste aldetikitxita mantentzen du.
+Atea ez da irekitzen.
+Zerbaitek beste aldetikitxita mantentzen du.
 [ffff]
 [1000]
 [8000]
@@ -76,7 +93,8 @@ Saiatu arren,ez da irekiko.
 }
 {
 [8000]
-Hesi metalikoa herdoilduta dago etaataketara erortzen da.Bultzada on batekin aska daitekeela uste dut.
+Hesi metalikoa herdoilduta dago etaataketara erortzen da.
+Bultzada on batekin aska daitekeela uste dut.
 [ffff]
 [9000]
 }

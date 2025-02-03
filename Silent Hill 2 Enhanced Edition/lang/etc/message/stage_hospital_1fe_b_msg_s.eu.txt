@@ -58,7 +58,8 @@ Egia aurrerantz bainoez da aurkituko.
 [fbff]
 [faff]
 [01ff]
-Jarraitu mapa.Hor daude gutun bat eta giltza ingeles bat.
+Jarraitu mapa.
+Hor daude gutun bat eta giltza ingeles bat.
 [ffff]
 [9000]
 }

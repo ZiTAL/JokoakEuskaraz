@@ -398,7 +398,8 @@ Zera... Sentitzen dut.
 }
 {
 [8000]
-Aurkitu al duzu...bilatzen ari zinen pertsona?
+Aurkitu al duzu...
+bilatzen ari zinen pertsona?
 [ffff]
 [8000]
 }
@@ -428,7 +429,8 @@ Berdin dio.
 }
 {
 [8000]
-Baina... hilda dago.Ez dakit zergatik uste dudan hemen dagoela.
+Baina... hilda dago.
+Ez dakit zergatik uste dudan hemen dagoela.
 [ffff]
 [8000]
 }
@@ -440,7 +442,8 @@ Hilda al dago?
 }
 {
 [8000]
-Ez kezkatu, ez nago erotuta.Ez dut uste...
+Ez kezkatu, ez nago erotuta.
+Ez dut uste...
 [ffff]
 [8000]
 }
@@ -470,7 +473,8 @@ Orain badakit zer esannahi zuen hilerrian.
 }
 {
 [8000]
-Moldatuko naiz.Gainera, ez dut nire erruzdenpora galtzerik nahi.
+Moldatuko naiz.
+Gainera, ez dut nire erruzdenpora galtzerik nahi.
 [ffff]
 [8000]
 }
@@ -512,7 +516,8 @@ Ez!
 }
 {
 [8000]
-Sentitzen dut... Gaiztoa izan naiz...Mesedez, ez...
+Sentitzen dut... Gaiztoa izan naiz...
+Mesedez, ez...
 [ffff]
 [8000]
 }
@@ -521,7 +526,8 @@ Sentitzen dut... Gaiztoa izan naiz...Mesedez, ez...
 [fbff]
 [faff]
 [01ff]
-Eskuinean, dama dago.Ezkerrean agurea.
+Eskuinean, dama dago.
+Ezkerrean agurea.
 [ffff]
 [1000]
 [8000]
@@ -535,7 +541,8 @@ Erdian bestea arrastaka eramaten da.
 [fbff]
 [faff]
 [01ff]
-Orain bi espazio baino ez dira geratzen,baina oraindik ez izan beldurrik,enigma konponduta dago.Enigma konponduta dago.
+Orain bi espazio baino ez dira geratzen,baina oraindik ez izan beldurrik,enigma konponduta dago.
+Enigma konponduta dago.
 [ffff]
 [9000]
 }
@@ -549,7 +556,8 @@ Badirudi indarrenbatek atea bestealdetik itxita duela...
 [ffff]
 [1000]
 [8000]
-eta ez niri pasatzen utzi nahi,zerbait aurkitu arte...edo norbait aurkitu arte...
+eta ez niri pasatzen utzi nahi,zerbait aurkitu arte...
+edo norbait aurkitu arte...
 [ffff]
 [9000]
 }
@@ -561,19 +569,22 @@ Apalategian ez dago ezererabilgarria dirudienik.
 }
 {
 [8000]
-Peluxezko hartz txiki bat.Hemen bizi zen mutilarena izango zen.
+Peluxezko hartz txiki bat.
+Hemen bizi zen mutilarena izango zen.
 [ffff]
 [9000]
 }
 {
 [8000]
-Koadro bat.Ez du ezer bereziki interesgarririk.
+Koadro bat.
+Ez du ezer bereziki interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aldizkariak daude lurrean botata.Ez dute ezer arrarorik.
+Aldizkariak daude lurrean botata.
+Ez dute ezer arrarorik.
 [ffff]
 [9000]
 }

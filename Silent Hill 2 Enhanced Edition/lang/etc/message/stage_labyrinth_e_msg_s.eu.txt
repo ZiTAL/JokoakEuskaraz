@@ -32,7 +32,8 @@ BEGIN_SOURCE:
 [8000]
 [faff]
 [01ff]
- Litekeena da heriotzarenkausa hainbat labankadaizan zirela lepoarenaurrealdea eta ezkerrekosaihetsean, eragindakoakarma zorrotz batengatik.Heriotza gutxi gorabeheragertatu zen 23:00etatikgauerdira.
+ Litekeena da heriotzarenkausa hainbat labankadaizan zirela lepoarenaurrealdea eta ezkerrekosaihetsean, eragindakoakarma zorrotz batengatik.
+Heriotza gutxi gorabeheragertatu zen 23:00etatikgauerdira.
 [f7ff]
 [f7ff]
 [fdff]
@@ -134,7 +135,8 @@ Ah, ikusten dut, jatorrarenaegiten ari da, ezta?
 }
 {
 [8000]
-Badakit zer nahi duen.Berriro gauza berarekin.
+Badakit zer nahi duen.
+Berriro gauza berarekin.
 [ffff]
 [8000]
 }
@@ -152,13 +154,15 @@ Ez. Hori ez da egia.
 }
 {
 [8000]
-Ez duzu zertan gezurrik esan.Benga, izan zintzoa.
+Ez duzu zertan gezurrik esan.
+Benga, izan zintzoa.
 [ffff]
 [8000]
 }
 {
 [8000]
-Edo behartu nazakezu.Jo nazazu, berak egiten zuen bezala.
+Edo behartu nazakezu.
+Jo nazazu, berak egiten zuen bezala.
 [ffff]
 [8000]
 }
@@ -218,7 +222,8 @@ Ondo ezagutzen dut...
 }
 {
 [8000]
-Ez nuen berarekin egon nahi.Beste bat bilatuko genuke.
+Ez nuen berarekin egon nahi.
+Beste bat bilatuko genuke.
 [ffff]
 [8000]
 }
@@ -250,7 +255,8 @@ Hormak eta zorua egunkarizbeteta daude. Ez dirudi ezerinteresgarririk dagoenik.
 [ffff]
 [1000]
 [8000]
-Baina honek gaurko data du...Bai arraroa.
+Baina honek gaurko data du...
+Bai arraroa.
 [ffff]
 [9000]
 }

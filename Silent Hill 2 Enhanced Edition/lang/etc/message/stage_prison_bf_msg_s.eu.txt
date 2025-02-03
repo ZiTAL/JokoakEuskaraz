@@ -10,13 +10,15 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Hobe duzu hortik ez begiratzea.Ez dut uste barruan dagoenaikusi nahi dudanik.
+Hobe duzu hortik ez begiratzea.
+Ez dut uste barruan dagoenaikusi nahi dudanik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Zulo bat dago lurrean.Ezin dut hondoa ikusi.
+Zulo bat dago lurrean.
+Ezin dut hondoa ikusi.
 [ffff]
 [1000]
 [8000]
@@ -31,7 +33,8 @@ Jaitsiko zara?
 }
 {
 [8000]
-Beste zulo bat...Benetan sartu behar al dut...?
+Beste zulo bat...
+Benetan sartu behar al dut...?
 [ffff]
 [1000]
 [8000]
@@ -42,7 +45,8 @@ Jaitsiko zara?
 }
 {
 [8000]
-Morroiloa hautsita dagoela dirudi.Ezin dut ireki.
+Morroiloa hautsita dagoela dirudi.
+Ezin dut ireki.
 [ffff]
 [1000]
 [8000]
@@ -70,7 +74,8 @@ Mugitu al da, edoimajinatu berri dut...?
 }
 {
 [8000]
-Ene...Zuloan...
+Ene...
+Zuloan...
 [ffff]
 [1000]
 [8000]
@@ -86,11 +91,13 @@ Usain nazkagarria ateratzen da zulotik.
 }
 {
 [8000]
-Zerbait dago zuloan.Badirudi...
+Zerbait dago zuloan.
+Badirudi...
 [ffff]
 [1000]
 [8000]
-Zatituta dago...Ez, ezin dut begira jarraitu...
+Zatituta dago...
+Ez, ezin dut begira jarraitu...
 [ffff]
 [9000]
 }

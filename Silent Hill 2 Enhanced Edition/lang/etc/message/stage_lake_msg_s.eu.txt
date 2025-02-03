@@ -31,7 +31,8 @@ Mari...
 }
 {
 [8000]
-Hain... lasaia dirudizu...Barkatu esnatu izana.
+Hain... lasaia dirudizu...
+Barkatu esnatu izana.
 [ffff]
 [8000]
 }
@@ -86,7 +87,8 @@ OHARRASARTZEA DEBEKATUTA
 }
 {
 [8000]
-Txori forma duen iturri bat dago.Oraintxe bertan ez da urik ateratzen.
+Txori forma duen iturri bat dago.
+Oraintxe bertan ez da urik ateratzen.
 [ffff]
 [9000]
 }

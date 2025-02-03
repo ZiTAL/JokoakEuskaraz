@@ -17,19 +17,22 @@ Heaven 's Night
 }
 {
 [8000]
-Mahai bat besterik ez da.Ez du ezer arrarorik.
+Mahai bat besterik ez da.
+Ez du ezer arrarorik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Eszenatoki bat.Ez du ezer arrarorik.
+Eszenatoki bat.
+Ez du ezer arrarorik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Lata hutsak, harraska,kartoizko kutxak...Ez dago ezer onik.
+Lata hutsak, harraska,kartoizko kutxak...
+Ez dago ezer onik.
 [ffff]
 [9000]
 }
@@ -41,37 +44,44 @@ Kutxa hutsik dago.
 }
 {
 [8000]
-Kartoizko kaxa batzuk pilatuta daude.Ez dirudi ezer onik dagoenik.
+Kartoizko kaxa batzuk pilatuta daude.
+Ez dirudi ezer onik dagoenik.
 [ffff]
 [9000]
 }
 {
 [8000]
-Likore-botilak. Orain ez ditut behar.Orain ez ditut behar.
+Likore-botilak. Orain ez ditut behar.
+Orain ez ditut behar.
 [ffff]
 [1000]
 [8000]
-Ez da ez dudala edaten.Izan ere, dezente edaten dut.
+Ez da ez dudala edaten.
+Izan ere, dezente edaten dut.
 [ffff]
 [1000]
 [8000]
-Oinazetik,bakardadetik ihes egiteko...Baina edariak ez du inoiz ezer aldatzen.
+Oinazetik,bakardadetik ihes egiteko...
+Baina edariak ez du inoiz ezer aldatzen.
 [ffff]
 [1000]
 [8000]
-Tira, orain ez dut behar.Zerbait egin behar dut.
+Tira, orain ez dut behar.
+Zerbait egin behar dut.
 [ffff]
 [9000]
 }
 {
 [8000]
-Likore-botilak.Ez dago ezer interesgarririk.
+Likore-botilak.
+Ez dago ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Pitxer bat.Ez dago ezer interesgarririk.
+Pitxer bat.
+Ez dago ezer interesgarririk.
 [ffff]
 [9000]
 }

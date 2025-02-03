@@ -34,7 +34,8 @@ Lata bonbillaz beteta dago.
 }
 {
 [8000]
-Pote bat bonbillekin.Ez dut gehiago behar.
+Pote bat bonbillekin.
+Ez dut gehiago behar.
 [ffff]
 [9000]
 }
@@ -114,7 +115,8 @@ jarri dut.
 }
 {
 [8000]
-Hozkailuko atea apurtuta dagoela dirudi.Ezin dut ireki.
+Hozkailuko atea apurtuta dagoela dirudi.
+Ezin dut ireki.
 [ffff]
 [9000]
 }
@@ -140,7 +142,8 @@ Ni ez naiz ona arrantzan, beraz,ez nuen zorterik probatu hemenegon nintzenean...
 }
 {
 [8000]
-Hemen disko makina bat dago.Ez du funtzionatzen,hautsita egon behar du.
+Hemen disko makina bat dago.
+Ez du funtzionatzen,hautsita egon behar du.
 [ffff]
 [9000]
 }
@@ -166,13 +169,15 @@ Hemen ardo botila hutsak daude.
 }
 {
 [8000]
-Hemen pitxer bat dago.Oraintxe bertan ez zait baliagarria.
+Hemen pitxer bat dago.
+Oraintxe bertan ez zait baliagarria.
 [ffff]
 [9000]
 }
 {
 [8000]
-Koadro bat.Ez du ezer berezirik.
+Koadro bat.
+Ez du ezer berezirik.
 [ffff]
 [9000]
 }

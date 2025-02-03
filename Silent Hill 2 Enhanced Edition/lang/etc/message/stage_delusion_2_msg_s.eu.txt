@@ -31,7 +31,8 @@ Dokumentu moduko bat dago.
 [1000]
 [8000]
 [00ff]
-Gainerakoa irakurtezina da.Zer da hau...?
+Gainerakoa irakurtezina da.
+Zer da hau...?
 [ffff]
 [9000]
 }
@@ -49,7 +50,8 @@ Toluca preso-eremua
 [8000]
 [faff]
 [01ff]
-Gerra Zibilean eraikia.Ondoren, Toluca presondegibihurtu zuten.
+Gerra Zibilean eraikia.
+Ondoren, Toluca presondegibihurtu zuten.
 [ffff]
 [9000]
 }
@@ -67,7 +69,9 @@ Lotuneak eragindako heriotza
 [8000]
 [faff]
 [01ff]
-Exekuzio bat espetxean.Lotura edo itotzearenondoriozko heriotza.Presoaren azken askatasunaheriotza aukeratzea da.
+Exekuzio bat espetxean.
+Lotura edo itotzearenondoriozko heriotza.
+Presoaren azken askatasunaheriotza aukeratzea da.
 [ffff]
 [9000]
 }

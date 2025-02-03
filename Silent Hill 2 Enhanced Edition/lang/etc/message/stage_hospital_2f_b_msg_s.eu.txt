@@ -21,7 +21,8 @@ Irekiko duzu?
 }
 {
 [8000]
-Hozkailuan ez dago ezer.Usain nazkagarria datorbarrutik.
+Hozkailuan ez dago ezer.
+Usain nazkagarria datorbarrutik.
 [ffff]
 [9000]
 }
@@ -111,7 +112,10 @@ Mila esker.
 [fbff]
 [faff]
 [01ff]
-Sotoko sotoan giltzapetuta zegoen.Oso txikia eta iluna nintzen,eta beldur handia izan nuen.Eraztun ederra erori zait.Baina ez naiz sekula haraitzuliko.
+Sotoko sotoan giltzapetuta zegoen.
+Oso txikia eta iluna nintzen,eta beldur handia izan nuen.
+Eraztun ederra erori zait.
+Baina ez naiz sekula haraitzuliko.
 [ffff]
 [9000]
 }
@@ -138,7 +142,10 @@ Ohean paper zati bat dago.
 [fbff]
 [faff]
 [01ff]
-Sotoko sotoan giltzapetuta zegoen.Oso txikia eta iluna nintzen,eta beldur handia izan nuen.Eraztun ederra erori zait.Baina ez naiz sekula haraitzuliko.
+Sotoko sotoan giltzapetuta zegoen.
+Oso txikia eta iluna nintzen,eta beldur handia izan nuen.
+Eraztun ederra erori zait.
+Baina ez naiz sekula haraitzuliko.
 [ffff]
 [9000]
 }

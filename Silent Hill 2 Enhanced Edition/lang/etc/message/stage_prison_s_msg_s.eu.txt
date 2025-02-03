@@ -90,7 +90,8 @@ aurkitu dut.
 }
 {
 [8000]
-Atea tinko itxita dago.Ezin dut behartu.
+Atea tinko itxita dago.
+Ezin dut behartu.
 [ffff]
 [9000]
 }
@@ -129,7 +130,8 @@ Hemen odolez zikindutako arropa dago.
 }
 {
 [8000]
-Hemen aldizkariak daude.Ez dago ezer interesgarrik.
+Hemen aldizkariak daude.
+Ez dago ezer interesgarrik.
 [ffff]
 [9000]
 }

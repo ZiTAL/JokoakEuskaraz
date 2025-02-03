@@ -28,7 +28,8 @@ Esnatu nintzenean, bakarrik nengoen.
 }
 {
 [8000]
-Ez dago inor...Munstroengatik ote?
+Ez dago inor...
+Munstroengatik ote?
 [ffff]
 [8000]
 }
@@ -58,7 +59,8 @@ Ez dut bizitzeko arrazoirik,baina...
 }
 {
 [8000]
-Baina hiltzeak beldurtzen nau.Minaren beldur naiz.
+Baina hiltzeak beldurtzen nau.
+Minaren beldur naiz.
 [ffff]
 [8000]
 }
@@ -70,7 +72,8 @@ Ihes egin beharko nuke?
 }
 {
 [8000]
-Norbait aurkitu nahi dut.Ez zait gustatzen bakarrik egotea...
+Norbait aurkitu nahi dut.
+Ez zait gustatzen bakarrik egotea...
 [ffff]
 [8000]
 }

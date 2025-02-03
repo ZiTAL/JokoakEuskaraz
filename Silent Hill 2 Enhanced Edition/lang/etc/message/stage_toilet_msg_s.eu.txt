@@ -33,7 +33,8 @@ Baina agian Mari ez den besteleku batean bukatuko duzu, James.
 [fbff]
 [faff]
 [01ff]
-Hemen ZULO bat zegoen.Orain desagertu egin da.
+Hemen ZULO bat zegoen.
+Orain desagertu egin da.
 [ffff]
 [9000]
 }

@@ -28,7 +28,8 @@ Zu zara geratzen zaidan bakarra.
 }
 {
 [8000]
-Agian...orduan atseden hartu ahal izango dut.
+Agian...
+orduan atseden hartu ahal izango dut.
 [ffff]
 [8000]
 }
@@ -88,7 +89,8 @@ Ez, Angela, ez da egia!
 }
 {
 [8000]
-Ez, ez nazazu erruki.Ez dut merezi...
+Ez, ez nazazu erruki.
+Ez dut merezi...
 [ffff]
 [8000]
 }
