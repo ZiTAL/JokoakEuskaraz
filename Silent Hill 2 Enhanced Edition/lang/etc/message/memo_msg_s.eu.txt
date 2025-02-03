@@ -2074,7 +2074,8 @@ Emakumea hegan
 {
 [8000]
 [01ff]
-436 pertsona erreZITALdi batean
+436 pertsona erre
+ZITALdi batean
 [ffff]
 [9000]
 }

@@ -85,7 +85,8 @@ Ez, James... Ez zaitut utziko.
 }
 {
 [8000]
-Ez dizut inoiz utzikoMari berreskuratzen!
+Ez dizut inoiz utziko
+Mari berreskuratzen!
 [ffff]
 [8000]
 }

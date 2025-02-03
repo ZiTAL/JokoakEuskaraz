@@ -85,7 +85,8 @@ Kutxan ez dago ezer.
 [8000]
 [faff]
 [01ff]
-LouiseBeti zainduko zaitut.
+Louise
+Beti zainduko zaitut.
 Nire patua da!
 [ffff]
 [9000]

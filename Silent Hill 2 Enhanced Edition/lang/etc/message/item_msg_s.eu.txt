@@ -1160,7 +1160,8 @@ Mari eta biok duela hiru urte.
 }
 {
 [8000]
-Etiketak idatzita daukaSilent Hill nire letrarekin.
+Etiketak idatzita dauka
+Silent Hill nire letrarekin.
 [ffff]
 [8000]
 }

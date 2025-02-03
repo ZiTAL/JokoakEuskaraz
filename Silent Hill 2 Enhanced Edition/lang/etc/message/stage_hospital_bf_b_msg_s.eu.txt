@@ -273,7 +273,8 @@ Dena zure esku dago.
 }
 {
 [8000]
-Eta gaur, gure zorionekoa,edo zoritxarreko lehiakideaJames da!
+Eta gaur, gure zorionekoa,edo zoritxarreko lehiakidea
+James da!
 [ffff]
 [8000]
 }
@@ -382,7 +383,8 @@ Zein amaiera lotsagarriabi bizitza inuzenteentzat.
 }
 {
 [8000]
-Eta orain galdera:Nola zuen izena ekintza ZiTALhori egin zuen hiltzaileak?
+Eta orain galdera:Nola zuen izena ekintza Zi
+TALhori egin zuen hiltzaileak?
 [ffff]
 [8000]
 }

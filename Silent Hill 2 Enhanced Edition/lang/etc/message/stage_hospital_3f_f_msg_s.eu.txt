@@ -19,7 +19,9 @@ Horman zerbait dago idatzita.
 [fbff]
 [01ff]
 [00f9]
-Buelta bueltaka zenbakiakhobe ez ahaztea horregatikeskriba hemen bestea,nire izen sekretua
+Buelta bueltaka zenbakiakhobe
+ez ahaztea horregatikeskriba
+hemen bestea, nire izen sekretua
 [ffff]
 [9000]
 }
@@ -75,7 +77,8 @@ Kutxan ez dago ezer.
 [8000]
 [faff]
 [01ff]
-LouiseBeti zainduko zaitut.
+Louise
+Beti zainduko zaitut.
 Nire patua da!
 [ffff]
 [9000]

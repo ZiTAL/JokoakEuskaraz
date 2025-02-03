@@ -124,7 +124,8 @@ Kutxa horretakoa izango da.
 [8000]
 [faff]
 [01ff]
- Hilabete honetako pin zenbakia T. daJoan den hilean X zen eta aurrekohilekoa Z. Baina zer egingo dutedatorren hilean? Ezin da gehiagoegin 4 zenbakirekin.
+ Hilabete honetako pin zenbakia T. da
+Joan den hilean X zen eta aurrekohilekoa Z. Baina zer egingo dutedatorren hilean? Ezin da gehiagoegin 4 zenbakirekin.
 [ffff]
 [1000]
 [8000]
@@ -175,7 +176,8 @@ Nora zoaz?
 }
 {
 [8000]
-Oraindik ez duguLaura aurkitu.
+Oraindik ez dugu
+Laura aurkitu.
 [ffff]
 [8000]
 }

@@ -63,14 +63,23 @@ Presoaren ezkerraldeanustelduko da.
 [fbff]
 [faff]
 [01ff]
-Lehenik Paregabeareneserlekua dago, Bera,isila eta hutsa, ankerraeta krudelaBere ondoan esertzen da batbadakiena eta onartukoduena morroiaren lekuatronuaren ondoan dagoela
+Lehenik Paregabeareneserlekua dago,
+Bera,isila eta hutsa,
+ankerraeta krudela
+Bere ondoan esertzen da
+batbadakiena eta onartukoduena
+morroiaren lekuatronuaren ondoan
+dagoela
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Dozenaka oin,eta behatz bakar bat ere ez,Izkutatuta dagoen horiberarekin abiatuko daAmets-seduktorea,infernuak maite duenaGizonarengandik urrun,emakumetik hurbil
+Dozenaka oin,eta behatz bakar bat ere ez,
+Izkutatuta dagoen horiberarekin abiatuko da
+Amets-seduktorea,infernuak maite duena
+Gizonarengandik urrun,emakumetik hurbil
 [ffff]
 [1000]
 [8000]
@@ -84,21 +93,24 @@ Gizonak eta emakumeakdena ikus dezaketebelearen deiari jaramonikegin gabe
 [fbff]
 [faff]
 [01ff]
-Isilak eta ezkutuakagian biak izango diraEta ez daude horzuk ikusteko
+Isilak eta ezkutuakagian biak izango dira
+Eta ez daude horzuk ikusteko
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Dagokien lekura bueltatuzZuretzako bedeinkapena
+Dagokien lekura bueltatuz
+Zuretzako bedeinkapena
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Horrela hitz egiten dut,izar polarrari bizkarra emanezEguzkiaren sorrera da denahasiko den tokia
+Horrela hitz egiten dut,izar polarrari bizkarra emanez
+Eguzkiaren sorrera da denahasiko den tokia
 [ffff]
 [9000]
 }
@@ -128,28 +140,32 @@ Lehen nota ez dujotzen enastatuak,baina hor sortzen dabekatu guztia
 [fbff]
 [faff]
 [01ff]
-Bizitzaren jabeaeta zorigaitzen jabeaAzken honen bekatuek ez dutemesfidantzarik sortzen
+Bizitzaren jabeaeta zorigaitzen jabea
+Azken honen bekatuek ez dutemesfidantzarik sortzen
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Agurearen hilarriariurduri jarraitzen badio ereAmorfoaren arimaikaratu egiten da beldurrez
+Agurearen hilarriariurduri jarraitzen badio ere
+Amorfoaren arimaikaratu egiten da beldurrez
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Bekatari nagusiarentzatbere posizioa aukeratua dagoEta zortea badu agianbere arima bedeinkatu
+Bekatari nagusiarentzatbere posizioa aukeratua dago
+Eta zortea badu agianbere arima bedeinkatu
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Bekatari nagusiarentzatbere posizioa aukeratua dagoEta zortea badu agianbere arima bedeinkatu
+Bekatari nagusiarentzatbere posizioa aukeratua dago
+Eta zortea badu agianbere arima bedeinkatu
 [ffff]
 [9000]
 }

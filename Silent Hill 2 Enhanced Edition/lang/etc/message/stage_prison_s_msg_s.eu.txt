@@ -17,7 +17,8 @@ Zerbait dago idatzita koadroari buruz.
 [8000]
 [faff]
 [01ff]
-Odola ematen dizutHiru Bekatuak garbitzeko.
+Odola ematen dizut
+Hiru Bekatuak garbitzeko.
 [ffff]
 [1000]
 [8000]
@@ -30,7 +31,8 @@ Koadroaren azpian hiruzulo karratu daude.
 [8000]
 [faff]
 [01ff]
-Odola ematen dizutHiru Bekatuak garbitzeko.
+Odola ematen dizut
+Hiru Bekatuak garbitzeko.
 [ffff]
 [9000]
 }
@@ -105,7 +107,9 @@ Gizona sutan
 {
 [8000]
 [01ff]
-436 pertsona erreZiTALdi batean
+436 pertsona erre
+Zi
+TALdi batean
 [ffff]
 [9000]
 }

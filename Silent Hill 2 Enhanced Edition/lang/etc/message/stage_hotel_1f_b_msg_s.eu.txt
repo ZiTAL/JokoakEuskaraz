@@ -222,7 +222,8 @@ Hemen zaude oraindik?
 }
 {
 [8000]
-Joateko esan dizutGorra zara ala?
+Joateko esan dizut
+Gorra zara ala?
 [ffff]
 [8000]
 }

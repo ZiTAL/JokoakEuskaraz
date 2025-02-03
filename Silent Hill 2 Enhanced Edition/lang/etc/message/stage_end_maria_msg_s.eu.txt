@@ -92,7 +92,8 @@ Eta nekatuta nengoen.
 }
 {
 [8000]
-Eta horregatik behar zenuenMari delako hori?
+Eta horregatik behar zenuen
+Mari delako hori?
 [ffff]
 [8000]
 }

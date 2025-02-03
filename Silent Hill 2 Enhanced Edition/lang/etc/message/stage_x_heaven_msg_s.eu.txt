@@ -94,7 +94,8 @@ aurkitu dut.
 }
 {
 [8000]
-Ez al dago beste armarik pistolahonetaz aparte? Ez naiz erososentitzen honekin bakarrik.
+Ez al dago beste armarik pistolahonetaz aparte?
+Ez naiz erososentitzen honekin bakarrik.
 [ffff]
 [9000]
 }
@@ -104,7 +105,8 @@ Itxita dago.
 [ffff]
 [1000]
 [8000]
-Norbaitek txikle bat sartudu sarrailan. Ezin dutalde honetatik ireki.
+Norbaitek txikle bat sartudu sarrailan.
+Ezin dutalde honetatik ireki.
 [ffff]
 [9000]
 }
@@ -123,7 +125,11 @@ Establezimendu honen izena.
 {
 [8000]
 [78f8]
- Hurrengo istorioa jokonagusiaren gehigarri gisaidatzi da. Istorio nagusia osatuondoren jokatzea gomendatzen dugu.
+ Hurrengo istorioa jokonagusiaren
+ gehigarri gisaidatzi da.
+ Istorio nagusia osatuondoren jokatzea
+ gomendatzen dugu.
+
  Jarraitu nahi al duzu?
 [ffff]
 [8000]

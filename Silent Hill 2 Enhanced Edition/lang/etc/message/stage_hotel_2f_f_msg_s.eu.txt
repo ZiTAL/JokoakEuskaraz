@@ -186,7 +186,9 @@ Orain ez zaizkit interesatzen.
 }
 {
 [8000]
-Liburu bat. "Saretan zehar dantzan JAVA erabiliz"Ez dirudi oso erabilgarria denik.
+Liburu bat.
+"Saretan zehar dantzan JAVA erabiliz"
+Ez dirudi oso erabilgarria denik.
 [ffff]
 [9000]
 }
@@ -197,7 +199,8 @@ Medikuntzakoa dirudi.
 [ffff]
 [1000]
 [8000]
-Medikuntzako liburu askoirakurri ditut. Batek ereez zuen ezertarako balio izan.
+Medikuntzako liburu askoirakurri ditut.
+Batek ereez zuen ezertarako balio izan.
 [ffff]
 [9000]
 }
@@ -228,7 +231,8 @@ Ez dut uste inor agertuko denik.
 }
 {
 [8000]
-Hona hemen enplegatuentzakoarauak. Ez dute nirekinzerikusirik.
+Hona hemen enplegatuentzakoarauak.
+Ez dute nirekinzerikusirik.
 [ffff]
 [9000]
 }
