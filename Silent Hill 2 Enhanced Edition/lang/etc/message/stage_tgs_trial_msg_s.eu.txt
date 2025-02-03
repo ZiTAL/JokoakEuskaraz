@@ -17,13 +17,15 @@ Zerbait idatzita dago.
 [8000]
 [faff]
 [01ff]
-Josephek giltza eman zidan.Kutxa horretakoa izango da.
+Josephek giltza eman zidan.
+Kutxa horretakoa izango da.
 [ffff]
 [9000]
 }
 {
 [8000]
-Laborategiko txabusina.Ez dago ezer berezikiinteresgarririk.
+Laborategiko txabusina.
+Ez dago ezer berezikiinteresgarririk.
 [ffff]
 [9000]
 }
@@ -68,7 +70,8 @@ Kutxan ez dago ezer.
 [ffff]
 [1000]
 [8000]
-Ez, oker nago...Barruan ile batzuk daude.
+Ez, oker nago...
+Barruan ile batzuk daude.
 [ffff]
 [9000]
 }
@@ -82,7 +85,9 @@ Kutxan ez dago ezer.
 [8000]
 [faff]
 [01ff]
-LouiseBeti zainduko zaitut.Nire patua da!
+Louise
+Beti zainduko zaitut.
+Nire patua da!
 [ffff]
 [9000]
 }
@@ -98,7 +103,8 @@ Hustubideko hodianzerbait dago sartuta.
 [ffff]
 [1000]
 [8000]
-Zuloa oso txikia da.Ezin dut eskua sartuharrapatzeko.
+Zuloa oso txikia da.
+Ezin dut eskua sartuharrapatzeko.
 [ffff]
 [1000]
 [8000]

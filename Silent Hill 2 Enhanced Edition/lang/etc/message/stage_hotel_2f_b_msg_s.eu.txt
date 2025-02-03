@@ -33,7 +33,8 @@ Ni Gorrimina naiz.
 [01ff]
 Gezurrak eta lainoaez dira
 horrelakoak,ni baizik.
-Denok dakizueni Bera naizela.Bai,
+Denok dakizueni Bera naizela.
+Bai,
 eta bera ni naiz.
 [ffff]
 [1000]
@@ -109,7 +110,8 @@ Benetan sentitzen dut.
 }
 {
 [8000]
-Baina zu medikua zara.Berorren lana jendea sendatzea da!
+Baina zu medikua zara.
+Berorren lana jendea sendatzea da!
 [ffff]
 [8000]
 }
@@ -151,7 +153,8 @@ Ez nago ziur...
 }
 {
 [8000]
-Hiru urte, gehienez.Sei hilabete... batek daki...
+Hiru urte, gehienez.
+Sei hilabete... batek daki...
 [ffff]
 [8000]
 }

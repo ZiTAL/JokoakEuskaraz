@@ -28,7 +28,8 @@ Sentsazio arraroa ematen dit...
 }
 {
 [8000]
-Hilarri normal bat.Ez du zerikusirik nirekin.
+Hilarri normal bat.
+Ez du zerikusirik nirekin.
 [ffff]
 [9000]
 }
@@ -40,7 +41,8 @@ Hau Silent Hill-ekohilerria izango da.
 }
 {
 [8000]
-Dena lasai dago.Bakarrik gaudela uste dut.
+Dena lasai dago.
+Bakarrik gaudela uste dut.
 [ffff]
 [9000]
 }
@@ -61,7 +63,8 @@ Barkatu...
 }
 {
 [8000]
-Barkatu... eh, eh...Bakarrik nenbilen...
+Barkatu... eh, eh...
+Bakarrik nenbilen...
 [ffff]
 [8000]
 }
@@ -85,7 +88,8 @@ Zer?
 }
 {
 [8000]
-Bai. Silent Hille-n bila nabil.Ba al dakizu hemendik den?
+Bai. Silent Hille-n bila nabil.
+Ba al dakizu hemendik den?
 [ffff]
 [8000]
 }
@@ -133,7 +137,8 @@ Ez nuke hara joan behar.
 }
 {
 [8000]
-Hori... e... hiri hori...Zerbait arraroa dago bertan.
+Hori... e... hiri hori...
+Zerbait arraroa dago bertan.
 [ffff]
 [8000]
 }
@@ -205,7 +210,8 @@ A... A... Nori?
 }
 {
 [8000]
-Norbaiti...oso garrantzitsua da niretzat.
+Norbaiti...
+oso garrantzitsua da niretzat.
 [ffff]
 [8000]
 }
@@ -217,7 +223,8 @@ Edozer egingo nukeberarekin egoteko.
 }
 {
 [8000]
-Ni ere bai. Nire amatxoren bila nabil...Nire ama, esan nahi dut.
+Ni ere bai. Nire amatxoren bila nabil...
+Nire ama, esan nahi dut.
 [ffff]
 [8000]
 }
@@ -259,7 +266,8 @@ Zerbait gertatzen da?
 }
 {
 [8000]
-Ez, ezer ez...Leku hau oso lasaia da.
+Ez, ezer ez...
+Leku hau oso lasaia da.
 [ffff]
 [8000]
 }

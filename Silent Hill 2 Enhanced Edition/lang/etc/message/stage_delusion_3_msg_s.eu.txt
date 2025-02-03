@@ -44,7 +44,8 @@ Ezin dut atea hemendik ireki.
 }
 {
 [8000]
-Ate bat dago lurrean.Itxita dago.
+Ate bat dago lurrean.
+Itxita dago.
 [ffff]
 [9000]
 }

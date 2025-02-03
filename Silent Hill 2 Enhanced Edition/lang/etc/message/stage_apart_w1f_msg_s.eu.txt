@@ -63,14 +63,23 @@ Presoaren ezkerraldeanustelduko da.
 [fbff]
 [faff]
 [01ff]
-Lehenik Paregabeareneserlekua dago, Bera,isila eta hutsa, ankerraeta krudelaBere ondoan esertzen da batbadakiena eta onartukoduena morroiaren lekuatronuaren ondoan dagoela
+Lehenik Paregabeareneserlekua dago,
+Bera,isila eta hutsa,
+ankerraeta krudela
+Bere ondoan esertzen da
+batbadakiena eta onartukoduena
+morroiaren lekuatronuaren ondoan
+dagoela
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Dozenaka oin,eta behatz bakar bat ere ez,Izkutatuta dagoen horiberarekin abiatuko daAmets-seduktorea,infernuak maite duenaGizonarengandik urrun,emakumetik hurbil
+Dozenaka oin,eta behatz bakar bat ere ez,
+Izkutatuta dagoen horiberarekin abiatuko da
+Amets-seduktorea,infernuak maite duena
+Gizonarengandik urrun,emakumetik hurbil
 [ffff]
 [1000]
 [8000]
@@ -84,21 +93,24 @@ Gizonak eta emakumeakdena ikus dezaketebelearen deiari jaramonikegin gabe
 [fbff]
 [faff]
 [01ff]
-Isilak eta ezkutuakagian biak izango diraEta ez daude horzuk ikusteko
+Isilak eta ezkutuakagian biak izango dira
+Eta ez daude horzuk ikusteko
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Dagokien lekura bueltatuzZuretzako bedeinkapena
+Dagokien lekura bueltatuz
+Zuretzako bedeinkapena
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Horrela hitz egiten dut,izar polarrari bizkarra emanezEguzkiaren sorrera da denahasiko den tokia
+Horrela hitz egiten dut,izar polarrari bizkarra emanez
+Eguzkiaren sorrera da denahasiko den tokia
 [ffff]
 [9000]
 }
@@ -128,28 +140,32 @@ Lehen nota ez dujotzen enastatuak,baina hor sortzen dabekatu guztia
 [fbff]
 [faff]
 [01ff]
-Bizitzaren jabeaeta zorigaitzen jabeaAzken honen bekatuek ez dutemesfidantzarik sortzen
+Bizitzaren jabeaeta zorigaitzen jabea
+Azken honen bekatuek ez dutemesfidantzarik sortzen
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Agurearen hilarriariurduri jarraitzen badio ereAmorfoaren arimaikaratu egiten da beldurrez
+Agurearen hilarriariurduri jarraitzen badio ere
+Amorfoaren arimaikaratu egiten da beldurrez
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Bekatari nagusiarentzatbere posizioa aukeratua dagoEta zortea badu agianbere arima bedeinkatu
+Bekatari nagusiarentzatbere posizioa aukeratua dago
+Eta zortea badu agianbere arima bedeinkatu
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Bekatari nagusiarentzatbere posizioa aukeratua dagoEta zortea badu agianbere arima bedeinkatu
+Bekatari nagusiarentzatbere posizioa aukeratua dago
+Eta zortea badu agianbere arima bedeinkatu
 [ffff]
 [9000]
 }
@@ -398,7 +414,8 @@ Zera... Sentitzen dut.
 }
 {
 [8000]
-Aurkitu al duzu...bilatzen ari zinen pertsona?
+Aurkitu al duzu...
+bilatzen ari zinen pertsona?
 [ffff]
 [8000]
 }
@@ -428,7 +445,8 @@ Berdin dio.
 }
 {
 [8000]
-Baina... hilda dago.Ez dakit zergatik uste dudan hemen dagoela.
+Baina... hilda dago.
+Ez dakit zergatik uste dudan hemen dagoela.
 [ffff]
 [8000]
 }
@@ -440,7 +458,8 @@ Hilda al dago?
 }
 {
 [8000]
-Ez kezkatu, ez nago erotuta.Ez dut uste...
+Ez kezkatu, ez nago erotuta.
+Ez dut uste...
 [ffff]
 [8000]
 }
@@ -470,7 +489,8 @@ Orain badakit zer esannahi zuen hilerrian.
 }
 {
 [8000]
-Moldatuko naiz.Gainera, ez dut nire erruzdenpora galtzerik nahi.
+Moldatuko naiz.
+Gainera, ez dut nire erruzdenpora galtzerik nahi.
 [ffff]
 [8000]
 }
@@ -512,7 +532,8 @@ Ez!
 }
 {
 [8000]
-Sentitzen dut... Gaiztoa izan naiz...Mesedez, ez...
+Sentitzen dut... Gaiztoa izan naiz...
+Mesedez, ez...
 [ffff]
 [8000]
 }
@@ -521,7 +542,8 @@ Sentitzen dut... Gaiztoa izan naiz...Mesedez, ez...
 [fbff]
 [faff]
 [01ff]
-Eskuinean, dama dago.Ezkerrean agurea.
+Eskuinean, dama dago.
+Ezkerrean agurea.
 [ffff]
 [1000]
 [8000]
@@ -535,7 +557,8 @@ Erdian bestea arrastaka eramaten da.
 [fbff]
 [faff]
 [01ff]
-Orain bi espazio baino ez dira geratzen,baina oraindik ez izan beldurrik,enigma konponduta dago.Enigma konponduta dago.
+Orain bi espazio baino ez dira geratzen,baina oraindik ez izan beldurrik,enigma konponduta dago.
+Enigma konponduta dago.
 [ffff]
 [9000]
 }
@@ -549,7 +572,8 @@ Badirudi indarrenbatek atea bestealdetik itxita duela...
 [ffff]
 [1000]
 [8000]
-eta ez niri pasatzen utzi nahi,zerbait aurkitu arte...edo norbait aurkitu arte...
+eta ez niri pasatzen utzi nahi,zerbait aurkitu arte...
+edo norbait aurkitu arte...
 [ffff]
 [9000]
 }
@@ -561,19 +585,22 @@ Apalategian ez dago ezererabilgarria dirudienik.
 }
 {
 [8000]
-Peluxezko hartz txiki bat.Hemen bizi zen mutilarena izango zen.
+Peluxezko hartz txiki bat.
+Hemen bizi zen mutilarena izango zen.
 [ffff]
 [9000]
 }
 {
 [8000]
-Koadro bat.Ez du ezer bereziki interesgarririk.
+Koadro bat.
+Ez du ezer bereziki interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Aldizkariak daude lurrean botata.Ez dute ezer arrarorik.
+Aldizkariak daude lurrean botata.
+Ez dute ezer arrarorik.
 [ffff]
 [9000]
 }

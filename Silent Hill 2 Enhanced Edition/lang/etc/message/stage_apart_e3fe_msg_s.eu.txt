@@ -34,7 +34,8 @@ aurkitu dut.
 }
 {
 [8000]
-Garbigailu normal bat.Ez da interesgarria.
+Garbigailu normal bat.
+Ez da interesgarria.
 [ffff]
 [9000]
 }
@@ -52,13 +53,15 @@ Ez dago ezer interesgarririkez egunkarian,ez aldizkarian.
 }
 {
 [8000]
-Koadro bat dago zintzilik.Inguru honetako paisaia dirudi.
+Koadro bat dago zintzilik.
+Inguru honetako paisaia dirudi.
 [ffff]
 [9000]
 }
 {
 [8000]
-Koadro bat dago zintzilik.Paisaia bitxia dirudi.
+Koadro bat dago zintzilik.
+Paisaia bitxia dirudi.
 [ffff]
 [9000]
 }

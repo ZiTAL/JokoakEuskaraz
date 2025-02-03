@@ -14,13 +14,15 @@ Ohean paper zati bat dago.
 [ffff]
 [1000]
 [8000]
-Zirriborroak besterik ez dira...E, zerbait dauka idatzita.
+Zirriborroak besterik ez dira...
+E, zerbait dauka idatzita.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Inork ezagutzen ez duenaingeru bat da. Nik bakarrikikus dezaket ateko dama.Ezin dute bere hari-zubiarengainean ibili.
+Inork ezagutzen ez duenaingeru bat da. Nik bakarrikikus dezaket ateko dama.
+Ezin dute bere hari-zubiarengainean ibili.
 [ffff]
 [1000]
 [8000]
@@ -34,7 +36,8 @@ Bere bekatuak hilotz beldurgarrieta hanpatuak bezala dira berakirensten du bekat
 [8000]
 [faff]
 [01ff]
-Inork ezagutzen ez duen aingerubat da. Nik bakarrik ikus dezaketateko dama.Ezin dute bere hari-zubiarengainean ibili.
+Inork ezagutzen ez duen aingerubat da. Nik bakarrik ikus dezaketateko dama.
+Ezin dute bere hari-zubiarengainean ibili.
 [ffff]
 [1000]
 [8000]
@@ -96,7 +99,8 @@ Zerbait idatzita dauka,baina ilunegi dago irakurtzeko.
 }
 {
 [8000]
-Hemen flasko hutsak daude.Marirenak dira?
+Hemen flasko hutsak daude.
+Marirenak dira?
 [ffff]
 [1000]
 [8000]
@@ -106,7 +110,8 @@ Mari ere gaixorik dago...?
 }
 {
 [8000]
-Mari ez dago hemen...Nora joan ote da?
+Mari ez dago hemen...
+Nora joan ote da?
 [ffff]
 [9000]
 }

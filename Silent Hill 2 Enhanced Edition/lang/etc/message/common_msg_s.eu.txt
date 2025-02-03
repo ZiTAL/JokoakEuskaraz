@@ -22,7 +22,8 @@ Ez.
 }
 {
 [8000]
-Ilunegi dagomapa irakurtzeko.
+Ilunegi dago
+mapa irakurtzeko.
 [ffff]
 [9000]
 }
@@ -46,7 +47,8 @@ Orain irekita dago.
 }
 {
 [8000]
-Morroiloa hautsita dagoela dirudi.Ezin dut ireki.
+Morroiloa hautsita dagoela dirudi.
+Ezin dut ireki.
 [ffff]
 [9000]
 }
@@ -62,7 +64,9 @@ Zer da hau...?
 [ffff]
 [1000]
 [8000]
-Begiratzen diodanean,norbait burezur barruan jotzenariko balitz bezala sentitzen naiz.
+Begiratzen diodanean,
+norbait burezur barruan jotzenariko
+balitz bezala sentitzen naiz.
 [ffff]
 [1000]
 [8000]
@@ -185,7 +189,8 @@ aurkitu ditut.
 }
 {
 [8000]
-Konektatu berriro kontrolagailuakontrolagailu-atakara,
+Konektatu berriro kontrolagailua
+kontrolagailu-atakara,
 [e0ff]
 eta sakatu START, jarraitzeko.
 [ffff]
@@ -205,7 +210,8 @@ Sakatu START botoia.
 }
 {
 [8000]
-Fitxategi batzuk eskuraezinak dira. Mesedez, berrezarri jokoa.Mesedez, berrezarri jokoa.
+Fitxategi batzuk eskuraezinak dira.
+Mesedez, berrezarri jokoa.
 [ffff]
 [8000]
 }

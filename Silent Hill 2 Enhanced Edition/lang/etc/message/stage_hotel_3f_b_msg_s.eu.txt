@@ -10,7 +10,8 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Bideo erreproduzigailu bat dago.Funtzionatzen duela uste dut.
+Bideo erreproduzigailu bat dago.
+Funtzionatzen duela uste dut.
 [ffff]
 [9000]
 }
@@ -37,7 +38,8 @@ erabili dut.
 }
 {
 [8000]
-Sarraila apurtuta egon liteke.Ez dirudi ireki dezakedanik.
+Sarraila apurtuta egon liteke.
+Ez dirudi ireki dezakedanik.
 [ffff]
 [9000]
 }

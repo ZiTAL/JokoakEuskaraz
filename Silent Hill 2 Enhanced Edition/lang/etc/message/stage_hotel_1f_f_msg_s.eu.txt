@@ -396,7 +396,8 @@ Gutun hau Racheli uzten diot,ni joandakoan eman diezaiozun.
 [8000]
 [faff]
 [01ff]
-Orain oso urrun nago.Leku eder eta lasai batean.
+Orain oso urrun nago.
+Leku eder eta lasai batean.
 [ffff]
 [1000]
 [8000]
@@ -420,19 +421,22 @@ Ez izan oso gogorra mojatxoekin.
 [8000]
 [faff]
 [01ff]
-Laura, Jamesi dagokionez...Badakit gorroto duzula usteduzulako ez nauela ondo tratatzenbaina, mesedez, eman aukera bat.
+Laura, Jamesi dagokionez...
+Badakit gorroto duzula usteduzulako ez nauela ondo tratatzenbaina, mesedez, eman aukera bat.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Egia da batzuetan kaskagogorsamarra dela eta ez duelabarre askorik egiten.Baina, funtsean, pertsona ona da.
+Egia da batzuetan kaskagogorsamarra dela eta ez duelabarre askorik egiten.
+Baina, funtsean, pertsona ona da.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Laura...Nire alaba bazinabezala maite zaitut.
+Laura...
+Nire alaba bazinabezala maite zaitut.
 [ffff]
 [1000]
 [8000]
@@ -468,7 +472,8 @@ Mmm... Zortzi urte bete nituen joan den astean.
 }
 {
 [8000]
-Orduan Mari ezin izan zen hil...duela hiru urte...
+Orduan Mari ezin izan zen hil...
+duela hiru urte...
 [ffff]
 [8000]
 }
@@ -492,7 +497,8 @@ Marik eta biok asko hitz egingenuen Silent Hill-i buruz.
 }
 {
 [8000]
-Bere argazki guztiak ere erakutsi zizkidan.Zoratzen nengoen itzultzeko.
+Bere argazki guztiak ere erakutsi zizkidan.
+Zoratzen nengoen itzultzeko.
 [ffff]
 [8000]
 }
@@ -615,19 +621,22 @@ baina niri asko gustatzenzitzaidan jotzen entzutea.
 [ffff]
 [1000]
 [8000]
-Hori aspaldi gertatu zen,ezkondu aurretik ere.Zergatik pentsatzen dut orain...?
+Hori aspaldi gertatu zen,ezkondu aurretik ere.
+Zergatik pentsatzen dut orain...?
 [ffff]
 [9000]
 }
 {
 [8000]
-Plater huts bat, labana bat,sardexka bat eta kito.Ez dago ezer interesgarririk.
+Plater huts bat, labana bat,sardexka bat eta kito.
+Ez dago ezer interesgarririk.
 [ffff]
 [9000]
 }
 {
 [8000]
-Laurak egindako marrazki bat...Katu bat al da?
+Laurak egindako marrazki bat...
+Katu bat al da?
 [ffff]
 [9000]
 }
@@ -643,7 +652,8 @@ Badirudi zerbait idatzitaduela aurrean, baina ilunegidago ikusteko.
 }
 {
 [8000]
-Txirrina.Ez dut uste inor agertuko denik.
+Txirrina.
+Ez dut uste inor agertuko denik.
 [ffff]
 [9000]
 }
@@ -668,7 +678,8 @@ Ez dago beste giltzarik.
 }
 {
 [8000]
-Koadro bat.Ez du ezer berezirik.
+Koadro bat.
+Ez du ezer berezirik.
 [ffff]
 [9000]
 }
@@ -680,7 +691,8 @@ Ez dago ezerinteresgarririk apalean.
 }
 {
 [8000]
-Sarraila hautsita dago.Ezin dut ireki.
+Sarraila hautsita dago.
+Ezin dut ireki.
 [ffff]
 [9000]
 }
@@ -692,7 +704,8 @@ Idazmahaiko dokumentuetan ez dagoezer interesgarririk.
 }
 {
 [8000]
-hemen patatak eta tipulak daude.Ustel kiratsa darie.
+hemen patatak eta tipulak daude.
+Ustel kiratsa darie.
 [ffff]
 [9000]
 }
@@ -704,37 +717,44 @@ Sagarrak eta kalabazak.
 }
 {
 [8000]
-Fruta lata ilara.Denbora daramate iraungita.
+Fruta lata ilara.
+Denbora daramate iraungita.
 [ffff]
 [9000]
 }
 {
 [8000]
-hemen te poltsatxoak eta galletak daude.Iraungita daude.
+hemen te poltsatxoak eta galletak daude.
+Iraungita daude.
 [ffff]
 [9000]
 }
 {
 [8000]
-Zuku laten ilara.Ez dago arrazoirik eramateko.
+Zuku laten ilara.
+Ez dago arrazoirik eramateko.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hemen zopa-latak daude.Uste dut ez daudela iraungita,baina ez naiz gose.
+Hemen zopa-latak daude.
+Uste dut ez daudela iraungita,baina ez naiz gose.
 [ffff]
 [9000]
 }
 {
 [8000]
-Hemen ez dago ezer.Baina lizun-usainadario.?
+Hemen ez dago ezer.
+Baina lizun-usainadario.?
 [ffff]
 [9000]
 }
 {
 [8000]
-hemen erloju erregistratzaile bat dago.Erlojua ez dabil.Apurtuta egongo da.
+hemen erloju erregistratzaile bat dago.
+Erlojua ez dabil.
+Apurtuta egongo da.
 [ffff]
 [9000]
 }
@@ -760,7 +780,8 @@ Atzean, letra txikiz idatzitakozerbait dago:
 }
 {
 [8000]
-hemen egutegi bat dago.Iazkoa da.
+hemen egutegi bat dago.
+Iazkoa da.
 [ffff]
 [9000]
 }
@@ -772,19 +793,22 @@ Pertsiana itxita dago.
 }
 {
 [8000]
-Kartoizko kaxa bat.Barruan ez dago ezer.
+Kartoizko kaxa bat.
+Barruan ez dago ezer.
 [ffff]
 [9000]
 }
 {
 [8000]
-Komuneko papera...Orain ez dut behar.
+Komuneko papera...
+Orain ez dut behar.
 [ffff]
 [9000]
 }
 {
 [8000]
-Garbitegiko kotxetxo bat.Barruan ez dago ezer baliogarririk.
+Garbitegiko kotxetxo bat.
+Barruan ez dago ezer baliogarririk.
 [ffff]
 [9000]
 }

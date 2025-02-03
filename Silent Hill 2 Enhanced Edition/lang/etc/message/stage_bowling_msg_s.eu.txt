@@ -218,7 +218,8 @@ Nor da neska hori?
 }
 {
 [8000]
-Ez dakit.Bere izena baino ez dakit.
+Ez dakit.
+Bere izena baino ez dakit.
 [ffff]
 [8000]
 }

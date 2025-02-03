@@ -34,13 +34,15 @@ Zer?Baina... zuk nahi zenuena naiz!
 }
 {
 [8000]
-Mari hilda dago.Ez duzu ulertzen? Ez da itzuliko!
+Mari hilda dago.
+Ez duzu ulertzen? Ez da itzuliko!
 [ffff]
 [8000]
 }
 {
 [8000]
-Baina ni zurea izan naiteke...Beti edukiko nauzu.
+Baina ni zurea izan naiteke...
+Beti edukiko nauzu.
 [ffff]
 [8000]
 }
@@ -82,7 +84,8 @@ Bai zera, James!Txantxetan ariko zara.
 }
 {
 [8000]
-Orain ezin naiz itzuli.Ez da ihes egiteko unea.
+Orain ezin naiz itzuli.
+Ez da ihes egiteko unea.
 [ffff]
 [9000]
 }

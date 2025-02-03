@@ -47,19 +47,26 @@ Apalategia mugitu behar duzu?
 [8000]
 [faff]
 [01ff]
-Museoko zuzendaridxen giltzen hartun nauen.Errezetan dauen enbrien atzien ostu doten,bueltadie emoten jun zan naienien.Hartun ein nauen, baie enauen ostu.Enai kriminala ta.
+Museoko zuzendaridxen giltzen hartun nauen.
+Errezetan dauen enbrien atzien ostu doten,bueltadie emoten jun zan naienien.
+Hartun ein nauen, baie enauen ostu.
+Enai kriminala ta.
 [ffff]
 [9000]
 }
 {
 [8000]
-Ohar bat dago lurrean.Zaila da irakurtzen...
+Ohar bat dago lurrean.
+Zaila da irakurtzen...
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Museoko zuzendaridxen giltzen hartun nauen.Errezetan dauen enbrien atzien ostu doten,bueltadie emoten jun zan naienien.Hartun ein nauen, baie enauen ostu.Enai kriminala ta.
+Museoko zuzendaridxen giltzen hartun nauen.
+Errezetan dauen enbrien atzien ostu doten,bueltadie emoten jun zan naienien.
+Hartun ein nauen, baie enauen ostu.
+Enai kriminala ta.
 [ffff]
 [9000]
 }
@@ -95,7 +102,8 @@ Mari!
 }
 {
 [8000]
-Ah, Mari... Zu zara...Uste nuen...
+Ah, Mari... Zu zara...
+Uste nuen...
 [ffff]
 [8000]
 }
@@ -203,7 +211,8 @@ Aurkitu egin behar dugu!
 }
 {
 [8000]
-Badirudi asko axola zaizula.Ezagutzen duzu?
+Badirudi asko axola zaizula.
+Ezagutzen duzu?
 [ffff]
 [8000]
 }
@@ -215,7 +224,8 @@ Ez dut inoiz ikusi.
 }
 {
 [8000]
-Baina pena ematen dit.Bakarrik dago...
+Baina pena ematen dit.
+Bakarrik dago...
 [ffff]
 [8000]
 }
@@ -263,7 +273,8 @@ Dena zure esku dago.
 }
 {
 [8000]
-Eta gaur, gure zorionekoa,edo zoritxarreko lehiakideaJames da!
+Eta gaur, gure zorionekoa,edo zoritxarreko lehiakidea
+James da!
 [ffff]
 [8000]
 }
@@ -353,7 +364,8 @@ Bi anaia, mutiko bat eta neskato bat,kalean jolasean ari ziren aizkorabatekin er
 }
 {
 [8000]
-Haragi urratua, hezur birrinduak,odola, eta azkenean...malko mingotsak.
+Haragi urratua, hezur birrinduak,odola, eta azkenean...
+malko mingotsak.
 [ffff]
 [8000]
 }
@@ -371,7 +383,8 @@ Zein amaiera lotsagarriabi bizitza inuzenteentzat.
 }
 {
 [8000]
-Eta orain galdera:Nola zuen izena ekintza ZiTALhori egin zuen hiltzaileak?
+Eta orain galdera:Nola zuen izena ekintza Zi
+TALhori egin zuen hiltzaileak?
 [ffff]
 [8000]
 }
@@ -467,13 +480,15 @@ Eskura dituzunean, joanhirugarren solairuko biltegirasariak jasotzera!
 }
 {
 [8000]
-Baina kontuz ibili.Oker bazaude...
+Baina kontuz ibili.
+Oker bazaude...
 [ffff]
 [8000]
 }
 {
 [8000]
-Eskerrik asko denoigurekin egoteagatik.Eta ikusi arte.
+Eskerrik asko denoigurekin egoteagatik.
+Eta ikusi arte.
 [ffff]
 [8000]
 }

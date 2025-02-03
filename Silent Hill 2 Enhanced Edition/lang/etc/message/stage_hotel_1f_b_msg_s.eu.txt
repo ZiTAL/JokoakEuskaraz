@@ -28,7 +28,8 @@ Orain ezin dut ihes egin.
 }
 {
 [8000]
-Ez dut behar.Orain gorpu bat besterik ez da.
+Ez dut behar.
+Orain gorpu bat besterik ez da.
 [ffff]
 [9000]
 }
@@ -70,7 +71,8 @@ atean jarri dut.
 }
 {
 [8000]
-Piramide burua ez da mugitzen.Ez dut gehiago kezkatu behar.
+Piramide burua ez da mugitzen.
+Ez dut gehiago kezkatu behar.
 [ffff]
 [9000]
 }
@@ -220,7 +222,8 @@ Hemen zaude oraindik?
 }
 {
 [8000]
-Joateko esan dizutGorra zara ala?
+Joateko esan dizut
+Gorra zara ala?
 [ffff]
 [8000]
 }
@@ -232,7 +235,8 @@ Eta ez itzuli!
 }
 {
 [8000]
-James...Itxaron...
+James...
+Itxaron...
 [ffff]
 [8000]
 }
@@ -244,7 +248,8 @@ Mesedez, ez joan...
 }
 {
 [8000]
-Geratu nirekin.Ez nazazu bakarrik utzi.
+Geratu nirekin.
+Ez nazazu bakarrik utzi.
 [ffff]
 [8000]
 }

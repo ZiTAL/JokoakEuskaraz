@@ -10,7 +10,8 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Eskailerak hautsita daude.Ezin naiz gehiago igo.
+Eskailerak hautsita daude.
+Ezin naiz gehiago igo.
 [ffff]
 [9000]
 }

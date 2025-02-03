@@ -18,7 +18,8 @@ Silent Hill: Ongi etorri!
 [8000]
 [faff]
 [01ff]
- Silent Hill aintzira batenertzean dagoen hiri turistikotxiki eta lasaia da.Pozten gaitu bisitatzea erabakiizanak. Har ezazu atsedenzure bizitza xelebre horretatiketa gozatu opor lasaiez.
+ Silent Hill aintzira batenertzean dagoen hiri turistikotxiki eta lasaia da.
+Pozten gaitu bisitatzea erabakiizanak. Har ezazu atsedenzure bizitza xelebre horretatiketa gozatu opor lasaiez.
 [ffff]
 [1000]
 [8000]
@@ -30,7 +31,8 @@ Silent Hill: Ongi etorri!
 [8000]
 [faff]
 [01ff]
-Silent Hillek hunkituko zaitueta bake sakona sentiarazikodizu. Espero dut zure egonaldiaatsegina izatea eta zureoroitzapenek betiko irautea.bake sakona sentitzea.
+Silent Hillek hunkituko zaitueta bake sakona sentiarazikodizu. Espero dut zure egonaldiaatsegina izatea eta zureoroitzapenek betiko irautea.
+bake sakona sentitzea.
 [ffff]
 [1000]
 [8000]
@@ -60,7 +62,8 @@ Zer egin?
 }
 {
 [8000]
-Ez dut ezer egin.Zera... Zin dagit!
+Ez dut ezer egin.
+Zera... Zin dagit!
 [ffff]
 [8000]
 }
@@ -72,7 +75,8 @@ Horrela zegoen iritsi nintzenean...
 }
 {
 [8000]
-Nik... James dut izena.James Sunderland.
+Nik... James dut izena.
+James Sunderland.
 [ffff]
 [8000]
 }
@@ -90,7 +94,8 @@ Eddie... nor dasukaldeko hildakoa?
 }
 {
 [8000]
-Ez naiz ni izan.Zin dagit ez dudala inor hil.
+Ez naiz ni izan.
+Zin dagit ez dudala inor hil.
 [ffff]
 [8000]
 }
@@ -144,7 +149,8 @@ Eh... Esan dizut ez dakidala.
 }
 {
 [8000]
-Hiri honetakoa ere ez naiz.Nik bakarrik, bakarrik...
+Hiri honetakoa ere ez naiz.
+Nik bakarrik, bakarrik...
 [ffff]
 [8000]
 }
@@ -222,7 +228,8 @@ Hemen zaude oraindik?
 }
 {
 [8000]
-Bai, gaizki nago...Pasatuko zait.
+Bai, gaizki nago...
+Pasatuko zait.
 [ffff]
 [8000]
 }
@@ -262,7 +269,8 @@ Barruan ez dago ezer.
 }
 {
 [8000]
-Hemen koadro bat dago.Ez du ezer interesgarririk.
+Hemen koadro bat dago.
+Ez du ezer interesgarririk.
 [ffff]
 [9000]
 }

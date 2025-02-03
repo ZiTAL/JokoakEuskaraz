@@ -28,7 +28,8 @@ Esnatu nintzenean, bakarrik nengoen.
 }
 {
 [8000]
-Ez dago inor...Munstroengatik ote?
+Ez dago inor...
+Munstroengatik ote?
 [ffff]
 [8000]
 }
@@ -58,7 +59,8 @@ Ez dut bizitzeko arrazoirik,baina...
 }
 {
 [8000]
-Baina hiltzeak beldurtzen nau.Minaren beldur naiz.
+Baina hiltzeak beldurtzen nau.
+Minaren beldur naiz.
 [ffff]
 [8000]
 }
@@ -70,7 +72,8 @@ Ihes egin beharko nuke?
 }
 {
 [8000]
-Norbait aurkitu nahi dut.Ez zait gustatzen bakarrik egotea...
+Norbait aurkitu nahi dut.
+Ez zait gustatzen bakarrik egotea...
 [ffff]
 [8000]
 }
@@ -91,7 +94,8 @@ aurkitu dut.
 }
 {
 [8000]
-Ez al dago beste armarik pistolahonetaz aparte? Ez naiz erososentitzen honekin bakarrik.
+Ez al dago beste armarik pistolahonetaz aparte?
+Ez naiz erososentitzen honekin bakarrik.
 [ffff]
 [9000]
 }
@@ -101,7 +105,8 @@ Itxita dago.
 [ffff]
 [1000]
 [8000]
-Norbaitek txikle bat sartudu sarrailan. Ezin dutalde honetatik ireki.
+Norbaitek txikle bat sartudu sarrailan.
+Ezin dutalde honetatik ireki.
 [ffff]
 [9000]
 }
@@ -120,7 +125,11 @@ Establezimendu honen izena.
 {
 [8000]
 [78f8]
- Hurrengo istorioa jokonagusiaren gehigarri gisaidatzi da. Istorio nagusia osatuondoren jokatzea gomendatzen dugu.
+ Hurrengo istorioa jokonagusiaren
+ gehigarri gisaidatzi da.
+ Istorio nagusia osatuondoren jokatzea
+ gomendatzen dugu.
+
  Jarraitu nahi al duzu?
 [ffff]
 [8000]

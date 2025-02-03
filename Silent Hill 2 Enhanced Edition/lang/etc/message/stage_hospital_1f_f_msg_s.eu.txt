@@ -10,7 +10,8 @@ http://inetmedia.uni-dubna.ru/
 BEGIN_SOURCE:
 {
 [8000]
-Mari eta Laura hemen daude oraindik.Ezin ditut zuen kasa utzi.
+Mari eta Laura hemen daude oraindik.
+Ezin ditut zuen kasa utzi.
 [ffff]
 [9000]
 }
@@ -30,7 +31,8 @@ Hemen txartel moduko bat dago.
 [8000]
 [faff]
 [01ff]
-Hiru aldiz saiatu da bere buruazbeste egiten, arrazoi ezezagunengatik.Medikuaren eta erizainaren aginduakbetetzen dituen paziente eredugarriaizan ohi den arren, gertutik zaindubehar da bere bat-bateko joerasuizidak direla eta.
+Hiru aldiz saiatu da bere buruazbeste egiten, arrazoi ezezagunengatik.
+Medikuaren eta erizainaren aginduakbetetzen dituen paziente eredugarriaizan ohi den arren, gertutik zaindubehar da bere bat-bateko joerasuizidak direla eta.
 [ffff]
 [1000]
 [8000]
@@ -42,7 +44,8 @@ Hiru aldiz saiatu da bere buruazbeste egiten, arrazoi ezezagunengatik.Medikuaren
 [8000]
 [faff]
 [01ff]
-Bere gaixotasuna, dirudienez,bere alabaren heriotzarenerruduntzat hartzean datza.Haren sintomek krisi psikotikoaeta eldarnio paranoikoakiradokitzen dituzte. Normaleanlasai egoten da, baina joerabortitzak izaten ditu asaldatzendenean.
+Bere gaixotasuna, dirudienez,bere alabaren heriotzarenerruduntzat hartzean datza.
+Haren sintomek krisi psikotikoaeta eldarnio paranoikoakiradokitzen dituzte. Normaleanlasai egoten da, baina joerabortitzak izaten ditu asaldatzendenean.
 [ffff]
 [1000]
 [8000]
@@ -80,7 +83,8 @@ Zerbait idatzita dago.
 [8000]
 [faff]
 [01ff]
-Agian "beste alde bat"ez da deskribapenik onena.Azken finean, ez dago bialdeak bereizten dituenhormarik. Errealitatea etaerrealitate eza gurutzatzendiren mugan dago. Lekuhurbila eta aldi bereanurruna da.
+Agian "beste alde bat"ez da deskribapenik onena.
+Azken finean, ez dago bialdeak bereizten dituenhormarik. Errealitatea etaerrealitate eza gurutzatzendiren mugan dago. Lekuhurbila eta aldi bereanurruna da.
 [ffff]
 [1000]
 [8000]
@@ -92,7 +96,9 @@ Agian "beste alde bat"ez da deskribapenik onena.Azken finean, ez dago bialdeak b
 [8000]
 [faff]
 [01ff]
- Baina batzuetan galdera beraegiten diot neure buruari.Egia da, guretzat, harenirudipenak adimen berotubaten asmakuntzak besterikez direla. Baina berarentzatez dago beste errealitaterik.Are gehiago, pozik dagobere munduan.
+ Baina batzuetan galdera beraegiten diot neure buruari.
+Egia da, guretzat, harenirudipenak adimen berotubaten asmakuntzak besterikez direla. Baina berarentzatez dago beste errealitaterik.
+Are gehiago, pozik dagobere munduan.
 [ffff]
 [1000]
 [8000]
@@ -109,7 +115,8 @@ Badago eskuz gehiago idatzitako zerbait.
 [8000]
 [faff]
 [01ff]
-Josephek giltza eman zidan.Kutxa horretakoa izango da.
+Josephek giltza eman zidan.
+Kutxa horretakoa izango da.
 [ffff]
 [9000]
 }
@@ -117,7 +124,8 @@ Josephek giltza eman zidan.Kutxa horretakoa izango da.
 [8000]
 [faff]
 [01ff]
- Hilabete honetako pin zenbakia T. daJoan den hilean X zen eta aurrekohilekoa Z. Baina zer egingo dutedatorren hilean? Ezin da gehiagoegin 4 zenbakirekin.
+ Hilabete honetako pin zenbakia T. da
+Joan den hilean X zen eta aurrekohilekoa Z. Baina zer egingo dutedatorren hilean? Ezin da gehiagoegin 4 zenbakirekin.
 [ffff]
 [1000]
 [8000]
@@ -168,7 +176,8 @@ Nora zoaz?
 }
 {
 [8000]
-Oraindik ez duguLaura aurkitu.
+Oraindik ez dugu
+Laura aurkitu.
 [ffff]
 [8000]
 }
@@ -332,7 +341,8 @@ Iragarki-taulan zerbaitdago zintzilik. Baina ezdirudi interesgarria denik.
 }
 {
 [8000]
-Hainbat txosten eta dokumentu.Baina ez zait ezer interesatzen.
+Hainbat txosten eta dokumentu.
+Baina ez zait ezer interesatzen.
 [ffff]
 [9000]
 }
@@ -344,7 +354,8 @@ Ez dago ezer interesgarririk.
 }
 {
 [8000]
-Ohar batzuk daude.Baina inork ez du atentzioa ematen.
+Ohar batzuk daude.
+Baina inork ez du atentzioa ematen.
 [ffff]
 [9000]
 }
@@ -373,7 +384,8 @@ Armairuko sarraila hautsita dago.
 }
 {
 [8000]
-Dokumentuak daude mahaiosoan sakabanatuta.Ez dago atentzioa ematen duen ezer.
+Dokumentuak daude mahaiosoan sakabanatuta.
+Ez dago atentzioa ematen duen ezer.
 [ffff]
 [9000]
 }

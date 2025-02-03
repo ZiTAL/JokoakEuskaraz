@@ -557,8 +557,10 @@ ezberdinak dira. Bat lodia da,
 bat garaia eta bestea fina.
 Astiro-astiro eskuinera
 mugitzen dira. Scott ez
-da 3.ean pausatzen,
-15.ean baizik.
+da 3.
+ean pausatzen,
+15.
+ean baizik.
 [ffff]
 [9000]
 }
@@ -2072,7 +2074,8 @@ Emakumea hegan
 {
 [8000]
 [01ff]
-436 pertsona erreZITALdi batean
+436 pertsona erre
+ZITALdi batean
 [ffff]
 [9000]
 }

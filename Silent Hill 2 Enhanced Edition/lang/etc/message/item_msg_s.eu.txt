@@ -136,7 +136,8 @@ Edari isotonikoa (k)
 }
 {
 [8000]
-Energia itzultzen du mantenugaiak emanez.Bere eragina nahiko leuna da.
+Energia itzultzen du mantenugaiak emanez.
+Bere eragina nahiko leuna da.
 [ffff]
 [8000]
 }
@@ -148,7 +149,8 @@ Botikina (k)
 }
 {
 [8000]
-Energia itzultzen du zauriak sendatuz.Bere eragina neurrizkoa da.
+Energia itzultzen du zauriak sendatuz.
+Bere eragina neurrizkoa da.
 [ffff]
 [8000]
 }
@@ -160,7 +162,8 @@ Anpoilak
 }
 {
 [8000]
-Energia itzultzen du mina baretuz.Bere eragina indartsua da.
+Energia itzultzen du mina baretuz.
+Bere eragina indartsua da.
 [ffff]
 [8000]
 }
@@ -172,7 +175,8 @@ Pistola
 }
 {
 [8000]
-10 balako pistola arina.Ez oso indartsua, baina erabiltzeko erraza.
+10 balako pistola arina.
+Ez oso indartsua, baina erabiltzeko erraza.
 [ffff]
 [8000]
 }
@@ -196,7 +200,9 @@ Eskopeta
 }
 {
 [8000]
-6 kartutxo eraman ditzake.Maneiatzen zaila da, baina etsai ugari har ditzake.
+6 kartutxo eraman ditzake.
+Maneiatzen zaila da, baina etsai
+ugari har ditzake.
 [ffff]
 [8000]
 }
@@ -220,7 +226,9 @@ Ehiza-erriflea
 }
 {
 [8000]
-Lau bala ere izan ditzake.Denbora asko behar du kargatzeko, baina tiro bakoitzaoso indartsua da.
+Lau bala ere izan ditzake.
+Denbora asko behar du kargatzeko,
+baina tiro bakoitzaoso indartsua da.
 [ffff]
 [8000]
 }
@@ -244,7 +252,8 @@ Hiper espray
 }
 {
 [8000]
-Esprai susmagarria.Ez dakigu zer ondorio dituen.
+Esprai susmagarria.
+Ez dakigu zer ondorio dituen.
 [ffff]
 [8000]
 }
@@ -256,7 +265,8 @@ Egurrezko ohola
 }
 {
 [8000]
-Egurrezko ohol bat, mutur batean iltzeak dituela.Ez du kalte handirik egiten, baina erabiltzeko erraza da.
+Egurrezko ohol bat, mutur batean iltzeak dituela.
+Ez du kalte handirik egiten, baina erabiltzeko erraza da.
 [ffff]
 [8000]
 }
@@ -268,7 +278,10 @@ Altzairuzko tutuak
 }
 {
 [8000]
-1 metroko altzairuzko hodia.Ez da oso suntsitzailea, baina irismen ona du.baina helmen ona du.
+1 metroko altzairuzko hodia.
+Ez da oso suntsitzailea,
+baina irismen ona du.
+baina helmen ona du.
 [ffff]
 [8000]
 }
@@ -280,7 +293,8 @@ Labana handia
 }
 {
 [8000]
-Arma handi bat Piramide Buruak hartuta.Zaila da erabiltzen, baina hilgarria.
+Arma handi bat Piramide Buruak hartuta.
+Zaila da erabiltzen, baina hilgarria.
 [ffff]
 [8000]
 }
@@ -292,7 +306,8 @@ Motozerra
 }
 {
 [8000]
-Motozerra gasolinazko motorrarekin.Oso arma indartsua.
+Motozerra gasolinazko motorrarekin.
+Oso arma indartsua.
 [ffff]
 [8000]
 }
@@ -304,7 +319,8 @@ Linterna
 }
 {
 [8000]
-Etengailuak berehala eragiten du.Bularreko poltsikoan doa.
+Etengailuak berehala eragiten du.
+Bularreko poltsikoan doa.
 [ffff]
 [8000]
 }
@@ -316,7 +332,9 @@ Irratia
 }
 {
 [8000]
-Irrati eramangarri txikia.Interferentziak sortzen ditu inguruan munstroak daudenean.munstroak hurbil.
+Irrati eramangarri txikia.
+Interferentziak sortzen ditu inguruan munstroak daudenean.
+munstroak hurbil.
 [ffff]
 [8000]
 }
@@ -340,7 +358,8 @@ Mariren gutuna
 }
 {
 [8000]
-Gutunazalean Mari izena agertzen da.Bere letra da.
+Gutunazalean Mari izena agertzen da.
+Bere letra da.
 [ffff]
 [8000]
 }
@@ -352,7 +371,8 @@ Lauraren gutuna
 }
 {
 [8000]
-Marik Laurari eman omen zion gutuna.Laura.
+Marik Laurari eman omen zion gutuna.
+Laura.
 [ffff]
 [8000]
 }
@@ -376,7 +396,8 @@ Angelaren labana
 }
 {
 [8000]
-Angelaren labana.Ez dut arma gisa erabiliko.
+Angelaren labana.
+Ez dut arma gisa erabiliko.
 [ffff]
 [8000]
 }
@@ -388,7 +409,8 @@ Txakur-giltza
 }
 {
 [8000]
-Txakurrentzako etxola baten barruan aurkitu dute.Ez dakit non erabiltzen den.
+Txakurrentzako etxola baten barruan aurkitu dute.
+Ez dakit non erabiltzen den.
 [ffff]
 [8000]
 }
@@ -448,7 +470,8 @@ Larrialdi-irteerako giltza
 }
 {
 [8000]
-Larrialdietako eskailerako ateko giltza.Hirugarren solairuko atarian aurkitua.
+Larrialdietako eskailerako ateko giltza.
+Hirugarren solairuko atarian aurkitua.
 [ffff]
 [8000]
 }
@@ -460,7 +483,8 @@ Lyneren etxeko giltza
 }
 {
 [8000]
-Mahaian zegoen txanponen igarkizunarekin.Etiketak dio: Lyne.
+Mahaian zegoen txanponen igarkizunarekin.
+Etiketak dio: Lyne.
 [ffff]
 [8000]
 }
@@ -484,7 +508,8 @@ Azterketa-gelako giltza
 }
 {
 [8000]
-Etiketak hau dio: Aintzatespen-gela.Gizonen aldagelako mantalean aurkitu dute.
+Etiketak hau dio: Aintzatespen-gela.
+Gizonen aldagelako mantalean aurkitu dute.
 [ffff]
 [8000]
 }
@@ -496,7 +521,8 @@ Teilatuko giltza
 }
 {
 [8000]
-Bulegoen hegaleko teilatuko giltza.Ospitaleko hirugarren solairuko gelanaurkitu nuen, Mariren gelan.
+Bulegoen hegaleko teilatuko giltza.
+Ospitaleko hirugarren solairuko gelanaurkitu nuen, Mariren gelan.
 [ffff]
 [8000]
 }
@@ -508,7 +534,8 @@ Zezen morearen giltza
 }
 {
 [8000]
-Zezen more bat marraztuta dauka.Dokumentu-gelako idazmahaian zegoen.
+Zezen more bat marraztuta dauka.
+Dokumentu-gelako idazmahaian zegoen.
 [ffff]
 [8000]
 }
@@ -532,7 +559,8 @@ Igogailuaren giltza
 }
 {
 [8000]
-Etiketak hau dio: Igogailua pazienteentzat.Dutxen hustubidean trabatuta zegoen.
+Etiketak hau dio: Igogailua pazienteentzat.
+Dutxen hustubidean trabatuta zegoen.
 [ffff]
 [8000]
 }
@@ -544,7 +572,8 @@ Sotoko biltegiko giltza
 }
 {
 [8000]
-Hormaren barruan zegoen pintada arraro harekin.Ospitaleko sotoko giltza da.
+Hormaren barruan zegoen pintada arraro harekin.
+Ospitaleko sotoko giltza da.
 [ffff]
 [8000]
 }
@@ -556,7 +585,8 @@ Ospitaleko atariko giltza
 }
 {
 [8000]
-Zuzendariaren bulegoan aurkitu dute.Ospitaleko atariko giltza da.
+Zuzendariaren bulegoan aurkitu dute.
+Ospitaleko atariko giltza da.
 [ffff]
 [8000]
 }
@@ -568,7 +598,8 @@ Brontzezko giltza zaharra
 }
 {
 [8000]
-Brontzezko giltza, antzinako itxurakoa.Parkeko estatuetako baten atzeanezkutatuta zegoen.
+Brontzezko giltza, antzinako itxurakoa.
+Parkeko estatuetako baten atzeanezkutatuta zegoen.
 [ffff]
 [8000]
 }
@@ -604,7 +635,8 @@ Hoteleko 312. logelako giltza
 }
 {
 [8000]
-Hoteleko 312. logelako giltza.Harrera-mahaiaren gainean zegoen.
+Hoteleko 312. logelako giltza.
+Harrera-mahaiaren gainean zegoen.
 [ffff]
 [8000]
 }
@@ -616,7 +648,8 @@ Hoteleko 204. gelako giltza
 }
 {
 [8000]
-204. gelako giltza.Jantzitegiko maletatxoan aurkitu nuen.
+204. gelako giltza.
+Jantzitegiko maletatxoan aurkitu nuen.
 [ffff]
 [8000]
 }
@@ -640,7 +673,8 @@ Tabernako giltza
 }
 {
 [8000]
-Hoteleko sotoko tabernatikatarira doan ateko giltza.Galdara-gelan aurkitu nuen.
+Hoteleko sotoko tabernatikatarira doan ateko giltza.
+Galdara-gelan aurkitu nuen.
 [ffff]
 [8000]
 }
@@ -652,7 +686,8 @@ Arrainaren giltza
 }
 {
 [8000]
-Arrain itxurako giltzatakoan doa.Jatetxeko mahai gainean zegoen.
+Arrain itxurako giltzatakoan doa.
+Jatetxeko mahai gainean zegoen.
 [ffff]
 [8000]
 }
@@ -676,7 +711,8 @@ Latako zukua
 }
 {
 [8000]
-Sei lata, iraungitako zukuarekin.Lehen solairuko atarian zegoen.
+Sei lata, iraungitako zukuarekin.
+Lehen solairuko atarian zegoen.
 [ffff]
 [8000]
 }
@@ -688,7 +724,8 @@ Sugearen txanpona
 }
 {
 [8000]
-Suge baten irudiarekingrabatutako txanpon handia.Igerileku huts hartan aurkitu nuen.
+Suge baten irudiarekingrabatutako txanpon handia.
+Igerileku huts hartan aurkitu nuen.
 [ffff]
 [8000]
 }
@@ -700,7 +737,8 @@ Adinekoentzako txanpona
 }
 {
 [8000]
-Agure baten aurpegiaren irudiarekingrabatutako txanpon handia.Zaborrak ateratzeko arrapalatik hartu nuen.
+Agure baten aurpegiaren irudiarekingrabatutako txanpon handia.
+Zaborrak ateratzeko arrapalatik hartu nuen.
 [ffff]
 [8000]
 }
@@ -724,7 +762,8 @@ Ile-mataza
 }
 {
 [8000]
-Ile luzeak eta gaztainondoak.Kutxa hartan zeuden.
+Ile luzeak eta gaztainondoak.
+Kutxa hartan zeuden.
 [ffff]
 [8000]
 }
@@ -736,7 +775,8 @@ Orratz okerra
 }
 {
 [8000]
-Orratz okerra eta herdoildua.Aldagelako peluxezko hartz txikianiltzatuta zegoen.
+Orratz okerra eta herdoildua.
+Aldagelako peluxezko hartz txikianiltzatuta zegoen.
 [ffff]
 [8000]
 }
@@ -748,7 +788,8 @@ Pila lehorra
 }
 {
 [8000]
-Ospitaleko gelan hartu nuen.Pila lehor normal bat.
+Ospitaleko gelan hartu nuen.
+Pila lehor normal bat.
 [ffff]
 [8000]
 }
@@ -760,7 +801,8 @@ Kobrezko eraztuna
 }
 {
 [8000]
-Ospitaleko sotoan aurkitu dute.Armiarma baten marrazkia grabatuta dauka.
+Ospitaleko sotoan aurkitu dute.
+Armiarma baten marrazkia grabatuta dauka.
 [ffff]
 [8000]
 }
@@ -772,7 +814,8 @@ Berunezko eraztuna
 }
 {
 [8000]
-Hozkailuaren eraztuna.Aurpegi hanpatu nazkagarri bat dauka grabatuta.
+Hozkailuaren eraztuna.
+Aurpegi hanpatu nazkagarri bat dauka grabatuta.
 [ffff]
 [8000]
 }
@@ -784,7 +827,8 @@ Giltza ingelesa
 }
 {
 [8000]
-Lindsey kalean aurkitu nuen.Azkoinak eta bernoak torlojutzeko balio du.
+Lindsey kalean aurkitu nuen.
+Azkoinak eta bernoak torlojutzeko balio du.
 [ffff]
 [8000]
 }
@@ -796,7 +840,8 @@ Zapaltzailearen oholtxoa
 }
 {
 [8000]
-Metalezko oholtxoa, zapaltzaileaaurpegi batean marraztuta duena.Ziega batean aurkitu dute.
+Metalezko oholtxoa, zapaltzaileaaurpegi batean marraztuta duena.
+Ziega batean aurkitu dute.
 [ffff]
 [8000]
 }
@@ -808,7 +853,8 @@ Txerri glotoiaren oholtxoa
 }
 {
 [8000]
-Glotoi txerria aurpegi bateanmarraztuta duen taula metalikoa.Jangelan aurkitu dute.
+Glotoi txerria aurpegi bateanmarraztuta duen taula metalikoa.
+Jangelan aurkitu dute.
 [ffff]
 [8000]
 }
@@ -820,7 +866,8 @@ Limurtzailearen oholtxoa
 }
 {
 [8000]
-Metalezko oholtxoa, aurpegi bateanseduzitzailea marraztuta duena.Dutxetan aurkitu dute.
+Metalezko oholtxoa, aurpegi bateanseduzitzailea marraztuta duena.
+Dutxetan aurkitu dute.
 [ffff]
 [8000]
 }
@@ -856,7 +903,8 @@ Argizarizko panpina
 }
 {
 [8000]
-Argizariarekin egindako panpina.Ziegako zoruan zegoen.
+Argizariarekin egindako panpina.
+Ziegako zoruan zegoen.
 [ffff]
 [8000]
 }
@@ -880,7 +928,8 @@ Disolbatzailea
 }
 {
 [8000]
-Disolbatzailez betetako lata txikia.Igogailuaren zoruan zegoen.
+Disolbatzailez betetako lata txikia.
+Igogailuaren zoruan zegoen.
 [ffff]
 [8000]
 }
@@ -892,7 +941,8 @@ Sirenatxoaren musika-kaxa
 }
 {
 [8000]
-Sirenatxoaren ipuinekoirudi bat duen musika-kaxa.Lorategiko iturrian aurkitua.
+Sirenatxoaren ipuinekoirudi bat duen musika-kaxa.
+Lorategiko iturrian aurkitua.
 [ffff]
 [8000]
 }
@@ -916,7 +966,8 @@ Edurnezuriren musika-kutxa
 }
 {
 [8000]
-Musika-kaxa, Edurnezurirenipuineko irudi batekin.Bulegoan aurkitu dute.
+Musika-kaxa, Edurnezurirenipuineko irudi batekin.
+Bulegoan aurkitu dute.
 [ffff]
 [8000]
 }
@@ -940,7 +991,8 @@ Bonbilla
 }
 {
 [8000]
-Lata baten barruan aurkitu zuten, tabernako sukaldean.Bonbilla normal bat.
+Lata baten barruan aurkitu zuten, tabernako sukaldean.
+Bonbilla normal bat.
 [ffff]
 [8000]
 }
@@ -952,7 +1004,8 @@ Pixa koloreko arrautza
 }
 {
 [8000]
-Galeper arrautza baten tamaina du.Piramide Buruak zeukan.
+Galeper arrautza baten tamaina du.
+Piramide Buruak zeukan.
 [ffff]
 [8000]
 }
@@ -964,7 +1017,8 @@ Arrautza eskarlata
 }
 {
 [8000]
-Galeper arrautza baten tamaina du.Piramide Buruak zeukan.
+Galeper arrautza baten tamaina du.
+Piramide Buruak zeukan.
 [ffff]
 [8000]
 }
@@ -988,7 +1042,8 @@ Izaki Gorriminaren Zeremonia liburua
 }
 {
 [8000]
-Antzinako jainko bati buruzkoa da.Egilea anonimoa da.
+Antzinako jainko bati buruzkoa da.
+Egilea anonimoa da.
 [ffff]
 [8000]
 }
@@ -1060,7 +1115,8 @@ Patioa jartzen du.
 }
 {
 [8000]
-Eraman nahi izan nuen lehen aldian,haur hark eskua zapaldu zidan.Non egongo ote da...?
+Eraman nahi izan nuen lehen aldian,haur hark eskua zapaldu zidan.
+Non egongo ote da...?
 [ffff]
 [8000]
 }
@@ -1072,7 +1128,8 @@ Etiketak hau dio:larrialdi-irteera.
 }
 {
 [8000]
-Larrialdiko irteera bat zegoen2. solairuko korridorearen mendebaldeko muturrean.Agian han erabili ahal izango dut?
+Larrialdiko irteera bat zegoen2. solairuko korridorearen mendebaldeko muturrean.
+Agian han erabili ahal izango dut?
 [ffff]
 [8000]
 }
@@ -1096,13 +1153,15 @@ Honela dio: "Zalantza da Purgatorioraeramango zaituztena".
 }
 {
 [8000]
-312. gelan hartzen dugu ostatu.Mari eta biok duela hiru urte.
+312. gelan hartzen dugu ostatu.
+Mari eta biok duela hiru urte.
 [ffff]
 [8000]
 }
 {
 [8000]
-Etiketak idatzita daukaSilent Hill nire letrarekin.
+Etiketak idatzita dauka
+Silent Hill nire letrarekin.
 [ffff]
 [8000]
 }
@@ -1122,19 +1181,22 @@ Zurtoinak suge bat darama grabatuta.
 [8000]
 [faff]
 [01ff]
-Ametsik urdurienetanikusten dut hiri hori.Silent Hill.
+Ametsik urdurienetanikusten dut hiri hori.
+Silent Hill.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Egunen batean hara eramango ninduzula agindu zenidan.Baina ez zenuen inoiz egin.
+Egunen batean hara eramango ninduzula agindu zenidan.
+Baina ez zenuen inoiz egin.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Eta orain han nago, bakarrik...Gure "leku berezian"...
+Eta orain han nago, bakarrik...
+Gure "leku berezian"...
 [ffff]
 [1000]
 [8000]
@@ -1167,7 +1229,8 @@ Gutun hau Racheli uzten diot,ni joandakoaneman diezazun.
 [8000]
 [faff]
 [01ff]
-Orain oso urrun nago.Leku eder eta lasai batean.
+Orain oso urrun nago.
+Leku eder eta lasai batean.
 [ffff]
 [1000]
 [8000]
@@ -1191,19 +1254,22 @@ Ez izan oso gogorra mojatxoekin.
 [8000]
 [faff]
 [01ff]
-Laura, Jamesi dagokionez...Badakit gorroto duzula usteduzulako ez nauela ondo tratatzen,baina, mesedez, eman aukera bat.
+Laura, Jamesi dagokionez...
+Badakit gorroto duzula usteduzulako ez nauela ondo tratatzen,baina, mesedez, eman aukera bat.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Egia da batzuetan kaskagogor samarra delaeta ez duela barre askorik egiten.Baina, funtsean, pertsona ona da.
+Egia da batzuetan kaskagogor samarra delaeta ez duela barre askorik egiten.
+Baina, funtsean, pertsona ona da.
 [ffff]
 [1000]
 [8000]
 [faff]
 [01ff]
-Laura...Nire alaba bazinabezala maite zaitut.
+Laura...
+Nire alaba bazinabezala maite zaitut.
 [ffff]
 [1000]
 [8000]
@@ -1253,7 +1319,8 @@ Baina orain hiri honetan bizi direnenarbasoek ez zituzten herri harilurrak lapur
 [8000]
 [faff]
 [01ff]
-Garai hartan, hiri honekbeste izen bat zuen...baina historiaren urtekarietan galdu da.
+Garai hartan, hiri honekbeste izen bat zuen...
+baina historiaren urtekarietan galdu da.
 [ffff]
 [1000]
 [8000]
@@ -1268,21 +1335,25 @@ Bakarrik dakigu beste izen bat izan zuela eta,arrazoiren batengatik, hiria berta
 [fbff]
 [faff]
 [01ff]
-Hitz egin.Ni Gorrimina naiz.
+Hitz egin.
+Ni Gorrimina naiz.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Gezurrak eta lainoaez dira horrelakoak, ni baizik.Denok dakizue ni Bera naizela.Bai, eta bera ni naiz.
+Gezurrak eta lainoaez dira horrelakoak, ni baizik.
+Denok dakizue ni Bera naizela.
+Bai, eta bera ni naiz.
 [ffff]
 [1000]
 [8000]
 [fbff]
 [faff]
 [01ff]
-Fededunak, entzun! Lareun gizoneta zazpi mila piztia.Entzun hitz hauek eta kontatu besteeibeti obedituak izan daitezen,baita eguzki harro eta krudelarenargipean ere.
+Fededunak, entzun! Lareun gizoneta zazpi mila piztia.
+Entzun hitz hauek eta kontatu besteeibeti obedituak izan daitezen,baita eguzki harro eta krudelarenargipean ere.
 [ffff]
 [1000]
 [8000]
@@ -1310,7 +1381,8 @@ Zuk beti eskatuko didazuniri eta naizen guztiariisileko lekuan.
 [fbff]
 [faff]
 [01ff]
-O, bihotzerantz hegan doanbizitzaren esentzia harroa.O, ardo zurienaz betetakokopa, zugan hasten da dena.
+O, bihotzerantz hegan doanbizitzaren esentzia harroa.
+O, ardo zurienaz betetakokopa, zugan hasten da dena.
 [ffff]
 [9000]
 }

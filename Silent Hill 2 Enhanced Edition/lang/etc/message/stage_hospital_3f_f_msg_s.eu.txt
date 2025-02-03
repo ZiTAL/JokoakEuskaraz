@@ -19,7 +19,9 @@ Horman zerbait dago idatzita.
 [fbff]
 [01ff]
 [00f9]
-Buelta bueltaka zenbakiakhobe ez ahaztea horregatikeskriba hemen bestea,nire izen sekretua
+Buelta bueltaka zenbakiakhobe
+ez ahaztea horregatikeskriba
+hemen bestea, nire izen sekretua
 [ffff]
 [9000]
 }
@@ -60,7 +62,8 @@ Kutxan ez dago ezer.
 [ffff]
 [1000]
 [8000]
-Ez, oker nago...Ile batzuk daude.
+Ez, oker nago...
+Ile batzuk daude.
 [ffff]
 [9000]
 }
@@ -74,7 +77,9 @@ Kutxan ez dago ezer.
 [8000]
 [faff]
 [01ff]
-LouiseBeti zainduko zaitut.Nire patua da!
+Louise
+Beti zainduko zaitut.
+Nire patua da!
 [ffff]
 [9000]
 }
@@ -84,7 +89,8 @@ Zerbait dago hustubidean sartuta.
 [ffff]
 [1000]
 [8000]
-Zuloa oso txikia da.Ezin dut eskua sartuharrapatzeko.
+Zuloa oso txikia da.
+Ezin dut eskua sartuharrapatzeko.
 [ffff]
 [1000]
 [8000]
@@ -218,7 +224,8 @@ Mmm. Bai erosoa...
 }
 {
 [8000]
-Haren bila noa...Lauraren bila.
+Haren bila noa...
+Lauraren bila.
 [ffff]
 [8000]
 }
@@ -230,13 +237,15 @@ Ahal dudanean itzuliko naiz.
 }
 {
 [8000]
-Ondo jarriko naiz.Laura aurkitu duzu?
+Ondo jarriko naiz.
+Laura aurkitu duzu?
 [ffff]
 [8000]
 }
 {
 [8000]
-James, zerbait galdetu nahi dizut...Eta...?
+James, zerbait galdetu nahi dizut...
+Eta...?
 [ffff]
 [8000]
 }

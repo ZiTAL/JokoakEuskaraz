@@ -58,9 +58,12 @@ hiru orratz ezberdinak
 dira. Bat lodia da,
 bat garaia eta bestea fina.
 Astiro-astiro eskuinera
-mugitzen dira.Scott ez da
-3.ean pausatzen,
-15.ean baizik.
+mugitzen dira.
+Scott ez da
+3.
+ean pausatzen,
+15.
+ean baizik.
 [ffff]
 [9000]
 }

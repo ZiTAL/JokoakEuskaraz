@@ -711,7 +711,8 @@ Sakatu START botoia.
 }
 {
 [8000]
-Konektatu berriro kontrolagailua eta sakatu START jarraitzeko.eta sakatu START jarraitzeko.
+Konektatu berriro kontrolagailua eta sakatu START jarraitzeko.
+eta sakatu START jarraitzeko.
 [ffff]
 [8000]
 }
