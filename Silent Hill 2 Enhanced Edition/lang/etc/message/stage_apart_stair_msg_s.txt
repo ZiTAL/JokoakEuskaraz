@@ -1,0 +1,15 @@
+﻿--------------- strings=5 language=spanish
+---------------
+Las escaleras están rotas.
+	No puedo subir más.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>paquete
+	de zumo en lata<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del edificio
+	de apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del edificio
+	oeste de apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del patio<COLOR-WHITE>.<SEPARATORB>

@@ -1,0 +1,676 @@
+﻿--------------- strings=224 language=spanish
+---------------
+Usar
+---------------
+Recargar
+---------------
+Ajustar volumen
+---------------
+Interruptor
+---------------
+Encendida
+---------------
+Apagada
+---------------
+Examinar
+---------------
+Equipar
+---------------
+Desequipar
+---------------
+Opciones
+---------------
+Mapa
+---------------
+Notas
+---------------
+Estado
+---------------
+Equipo
+---------------
+Acción
+---------------
+Combinar
+---------------
+Parece que no puedo usar esto aquí.<SEPARATORB>
+---------------
+Esto no se puede usar por sí solo.<SEPARATORB>
+---------------
+Esta combinación no tiene ningún sentido.<SEPARATORB>
+---------------
+Poner en estante
+---------------
+Bebida(s) isotónica(s)
+---------------
+Devuelve la energía proporcionando nutrientes.
+	Su efecto es bastante suave.
+---------------
+Botiquín(es)
+---------------
+Devuelve la energía curando heridas.
+	Su efecto es moderado.
+---------------
+Ampolla(s)
+---------------
+Devuelve la energía calmando el dolor.
+	Su efecto es potente.
+---------------
+Pistola
+---------------
+Pistola ligera con capacidad para 10 balas.
+	Poco potente, pero fácil de usar.
+---------------
+Bala(s) de pistola
+---------------
+Munición para pistola.
+---------------
+Escopeta
+---------------
+Puede llevar hasta 6 cartuchos.
+	Es difícil de manejar, pero puede alcanzar
+	a oponentes dispersos.
+---------------
+Cartucho(s) de escopeta
+---------------
+Munición para escopeta.
+---------------
+Rifle de caza
+---------------
+Puede llevar hasta 4 balas.
+	Tarda mucho en cargar, pero cada disparo
+	es muy potente.
+---------------
+Bala(s) de rifle
+---------------
+Munición para rifle de caza.
+---------------
+Hiper espray
+---------------
+Espray sospechoso.
+	Se desconocen sus efectos.
+---------------
+Tablón de madera
+---------------
+Un tablón de madera con clavos en un extremo.
+	No hace mucho daño, pero es fácil de usar.
+---------------
+Cañería de acero
+---------------
+Cañería de acero de 1 metro.
+	No es muy destructiva,
+	pero tiene un buen alcance.
+---------------
+Cuchillo grande
+---------------
+Arma enorme empuñada por Cabeza Pirámide.
+	Es difícil de usar, pero letal.
+---------------
+Motosierra
+---------------
+Motosierra con motor de gasolina.
+	Un arma muy potente.
+---------------
+Linterna
+---------------
+Su interruptor es de acción inmediata.
+	Va en el bolsillo del pecho.
+---------------
+Radio
+---------------
+Pequeña radio portátil.
+	Genera interferencias cuando hay
+	monstruos cerca.
+---------------
+Foto de Mary
+---------------
+Una foto de cuando todavía estaba sana.
+---------------
+Carta de Mary
+---------------
+En el sobre aparece el nombre de Mary
+	escrito de su puño y letra.
+---------------
+Carta de Laura
+---------------
+Carta que Mary entregó, supuestamente,
+	a Laura.
+---------------
+Cinta de vídeo
+---------------
+Cinta de vídeo que me dejé en el hotel
+	hace tres años.
+---------------
+Cuchillo de Angela
+---------------
+El cuchillo de Angela.
+	No pienso usarlo como arma.
+---------------
+Llave de perro
+---------------
+Hallada dentro de una caseta
+	para perros. No sé dónde se usa.
+---------------
+Llave de la entrada a los apartamentos
+---------------
+Llave antigua que encontré en la ciudad.
+---------------
+Llave de la habitación 202
+---------------
+En la parte superior tiene escrito el número 202.
+	La encontré en la habitación 208.
+---------------
+Llave del reloj
+---------------
+Llave con un pequeño reloj.
+	Estaba en un agujero en la pared
+	de la habitación 202.
+---------------
+Llave del patio
+---------------
+Llave de la puerta que conduce del vestíbulo
+	de la escalera oeste al patio.
+---------------
+Llave de la salida de emergencia
+---------------
+Llave de la puerta de la escalera de emergencia.
+	Hallada en el vestíbulo del tercer piso.
+---------------
+Llave de la casa de Lyne
+---------------
+Estaba en la mesa con el acertijo
+	de las monedas.
+	La etiqueta dice: «Lyne».
+---------------
+Llave de la escalera de los apartamentos
+---------------
+Llave de la puerta que va del vestíbulo
+	de los apartamentos oeste a la escalera.
+---------------
+Llave de la sala de reconocimiento
+---------------
+La etiqueta dice: «Sala de reconocimiento».
+	Hallada en la bata del vestuario de hombres.
+---------------
+Llave del tejado
+---------------
+Llave del tejado del ala de oficinas.
+	La encontré en la habitación del tercer piso
+	del hospital, donde descansa María.
+---------------
+Llave del toro morado
+---------------
+Tiene dibujado un toro morado.
+	Estaba en el escritorio
+	de la sala de documentos.
+---------------
+Llave del ojo de lapis
+---------------
+En la parte superior de la llave hay un ojo,
+	y su iris está hecho de lapislázuli.
+---------------
+Llave del ascensor
+---------------
+La etiqueta dice: «Ascensor ala pacientes».
+	Estaba atascada en el desagüe de las duchas.
+---------------
+Llave del almacén del sótano
+---------------
+Estaba dentro de la pared con
+	aquella pintada extraña. Es la llave
+	del almacén del sótano del hospital.
+---------------
+Llave del vestíbulo del hospital
+---------------
+Hallada en el despacho del director.
+	Es la llave del vestíbulo del hospital.
+---------------
+Vieja llave de bronce
+---------------
+Llave de bronce de aspecto antiguo.
+	Estaba oculta detrás de una
+	de las estatuas del parque.
+---------------
+Llave con escrito en espiral
+---------------
+Llave con un cilindro delgado de 8 cm
+	que contiene un escrito en espiral.
+---------------
+Llave del falso acusado
+---------------
+Llave dejada por un preso
+	que fue ejecutado injustamente.
+---------------
+Llave de la habitación 312 del hotel
+---------------
+Llave de la habitación 312 del hotel.
+	Estaba sobre el mostrador de recepción.
+---------------
+Llave de la habitación 204 del hotel
+---------------
+Llave de la habitación 204.
+	La encontré en el maletín del guardarropa.
+---------------
+Llave del ascensor para empleados
+---------------
+La etiqueta dice: «Ascensor empleados».
+	Hallada en la habitación 204.
+---------------
+Llave del bar
+---------------
+Llave de la puerta que va del bar
+	del sótano del hotel al vestíbulo.
+	La encontré en la sala de calderas.
+---------------
+Llave del pez
+---------------
+Va en un llavero con forma de pez.
+	Estaba sobre la mesa del restaurante.
+---------------
+Llave de las escaleras del hotel
+---------------
+Llave de la puerta de la escalera
+	al hall del tercer piso. Estaba oculta
+	en la caja de música de la recepción.
+---------------
+Paquete de zumo en lata
+---------------
+Un paquete de seis latas con zumo caducado.
+	Estaba en el vestíbulo del primer piso.
+---------------
+Moneda de la serpiente
+---------------
+Moneda grande grabada con la imagen
+	de una serpiente.
+	La encontré en aquella piscina vacía.
+---------------
+Moneda del anciano
+---------------
+Moneda grande grabada con la imagen
+	del rostro de un anciano.
+	La cogí de la rampa de salida de basuras.
+---------------
+Moneda del prisionero
+---------------
+Moneda grande grabada con la imagen
+	de un prisionero. La hallé
+	en el edificio oeste de apartamentos.
+---------------
+Mechón de pelo
+---------------
+Unos pelos largos y castaños.
+	Estaban en aquella «caja».
+---------------
+Aguja torcida
+---------------
+Aguja torcida y oxidada.
+	Estaba clavada en el osito de peluche
+	del vestuario.
+---------------
+Pila seca
+---------------
+La cogí en la habitación del hospital.
+	Una pila seca normal.
+---------------
+Anillo de cobre
+---------------
+Encontrado en el sótano del hospital.
+	Tiene grabado el dibujo de una araña.
+---------------
+Anillo de plomo
+---------------
+El anillo del refrigerador.
+	Lleva grabado un repugnante rostro hinchado.
+---------------
+Llave inglesa
+---------------
+La encontré en la calle Lindsey.
+	Sirve para atornillar tuercas y pernos.
+---------------
+Tablilla del opresor
+---------------
+Tablilla metálica con el «opresor»
+	dibujado en una de sus caras.
+	Hallada en una celda.
+---------------
+Tablilla del cerdo glotón
+---------------
+Tablilla metálica con el «cerdo glotón»
+	dibujado en una de sus caras.
+	Hallada en el comedor.
+---------------
+Tablilla de la seductora
+---------------
+Tablilla metálica con la «seductora»
+	dibujada en una de sus caras.
+	Hallada en las duchas.
+---------------
+Herradura
+---------------
+Herradura metálica. Estaba colgada
+	en el portón de la plaza del patíbulo.
+---------------
+Mechero
+---------------
+Mechero metálico. Su llama parece más potente
+	que la de un mechero normal.
+---------------
+Muñeco de cera
+---------------
+Muñeco hecho con cera.
+	Estaba en el suelo de la celda.
+---------------
+Alicate
+---------------
+Herramienta para cortar alambres
+	o cables eléctricos.
+---------------
+Disolvente
+---------------
+Pequeña lata llena de disolvente.
+	Estaba en el suelo del ascensor.
+---------------
+Caja de música de la sirenita
+---------------
+Caja de música con una figura
+	del cuento de la sirenita.
+	Hallada en la fuente del jardín.
+---------------
+Caja de música de Cenicienta
+---------------
+Caja de música con una figura
+	del cuento de Cenicienta.
+	Hallada en un baúl de la habitación 202.
+---------------
+Caja de música de Blancanieves
+---------------
+Caja de música con una figura
+	del cuento de Blancanieves.
+	Hallada en la despensa.
+---------------
+Abrelatas
+---------------
+Herramienta para abrir latas.
+---------------
+Bombilla
+---------------
+Hallada dentro de una lata en la cocina del bar.
+	Una bombilla normal.
+---------------
+Huevo de color de orín
+---------------
+Tiene el tamaño de un huevo de codorniz.
+	Lo tenía Cabeza Pirámide.
+---------------
+Huevo escarlata
+---------------
+Tiene el tamaño de un huevo de codorniz.
+	Lo tenía Cabeza Pirámide.
+---------------
+Libro «Memorias perdidas»
+---------------
+Un libro que relata la historia
+	de esta ciudad y sus alrededores.
+---------------
+Libro «Ceremonia del Ser Carmesí»
+---------------
+Trata sobre un dios antiguo.
+	El autor es anónimo.
+---------------
+Crisma blanco
+---------------
+Una botella de cristal que contiene
+	un ungüento blanco.
+---------------
+Copa de obsidiana
+---------------
+Copa de aspecto antiguo tallada en
+	obsidiana pura. Hallada en el viejo museo.
+---------------
+Parece el mismo tipo de pila
+	que la que lleva la linterna.
+---------------
+La hoja está manchada con algo rojo.
+---------------
+Ahora que lo pienso, había un reloj grande
+	en la habitación 208...
+---------------
+La otra cara de la moneda
+	es una media luna.
+---------------
+Parece un anciano.
+---------------
+Este prisionero parece una mujer.
+---------------
+Pone: «patio».
+---------------
+La primera vez que quise llevármela,
+	aquella niña me pisó la mano.
+	¿Qué será de ella...?
+---------------
+La etiqueta que lleva dice:
+	«salida de emergencia».
+---------------
+Había una salida de emergencia
+	en el extremo oeste del pasillo del 2.º piso.
+	¿A lo mejor podré usarla allí?
+---------------
+Esta debe ser la llave de la nota que decía
+	que «se la dieron al tío David».
+---------------
+Dice: «Escalera norte».
+---------------
+Dice: «Es la duda la que os conducirá
+	hasta el Purgatorio».
+---------------
+La habitación 312 es donde nos alojamos
+	Mary y yo hace tres años.
+---------------
+La etiqueta tiene escrito
+	«Silent Hill» con mi letra.
+---------------
+Sin duda, es la cinta que grabé
+	por aquel entonces.
+---------------
+El tallo lleva una serpiente grabada.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>En mis sueños más inquietos
+	veo esa ciudad.
+	Silent Hill.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Me prometiste que volverías
+	a llevarme allí algún día.
+	Pero nunca lo hiciste.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Y ahora estoy allí, sola...
+	En nuestro “lugar especial”...
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Esperándote...<SEPARATORB>
+---------------
+El papel está en blanco.<SEPARATORB>
+---------------
+El sobre está vacío.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
+	
+	Le dejo esta carta a Rachel
+	para que te la dé cuando
+	yo me haya ido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
+	En un lugar bello y tranquilo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perdóname
+	por no haberme despedido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuídate, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
+	Sé que lo odias porque piensas
+	que no me trata bien, pero,
+	por favor, dale una oportunidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
+	cascarrabias y que no se ríe mucho.
+	Pero en el fondo es una buena persona.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+	Te quiero como si fueras
+	mi propia hija.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
+	de otra forma, te habría adoptado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.º cumpleaños, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
+	Mary<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
+	pueblo al que robaron sus tierras.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
+	«El lugar de los espíritus silenciosos».
+	Por «espíritus» entendían no sólo a
+	sus familiares muertos, sino también
+	los espíritus que, según creían,
+	viven en los árboles, las rocas
+	y el agua.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aquí
+	tenían lugar las ceremonias más
+	sagradas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
+	de quienes ahora viven en esta
+	ciudad los que robaron las tierras
+	a aquel pueblo. Hubo otros
+	que llegaron antes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad tenía
+	otro nombre... pero se ha perdido
+	en los anales de la historia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sólo sabemos que tuvo otro
+	nombre y que, por alguna razón,
+	la ciudad fue abandonada por
+	sus habitantes.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
+	Yo soy el Carmesí.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
+	no son tales, sino yo.
+	Todos sabéis que yo soy Él.
+	Sí, y Él soy yo.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¡Creyentes, escuchadme!
+	Veinte veintenas de hombres
+	y siete mil bestias.
+	Escuchad aquestas palabras
+	y contadlas a los demás para
+	que siempre sean obedecidas,
+	incluso bajo la luz del orgulloso
+	y cruel sol.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviaré una amarga venganza
+	y sufriréis mi eterna ira.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
+	y el último aliento del moribundo,
+	aquestas son mis bendiciones.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocaréis a mí
+	y a todo lo que soy en el lugar
+	que es silencioso.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
+	que vuela hacia el corazón.
+	Oh, copa rebosante
+	del vino más blanco,
+	en vos es donde todo empieza.<SEPARATORB>
+---------------
+¿Se ha quedado sin pilas?
+	Por mucho que pulse el interruptor,
+	no se enciende.
+---------------
+¿Está rota?
+	No reacciona al pulsar el interruptor.
+---------------
+He puesto la <COLOR-GREEN>bebida isotónica<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>botiquín<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>ampolla<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>pistola<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto las <COLOR-GREEN>balas de pistola<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>escopeta<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto los <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>rifle de caza<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto los <COLOR-GREEN>cartuchos de rifle<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>espray<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>tablón de madera<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>cañería de acero<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>cuchillo grande<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>motosierra<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>linterna<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>radio<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>foto de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>carta de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>carta de Laura<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>cuchillo de Angela<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de la sala
+	de reconocimiento<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de la habitación
+	312 del hotel<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>disolvente<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de música
+	de la sirenita<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de música
+	de Cenicienta<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>libro “Memorias perdidas”<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>crisma blanco<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de perro<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+El reverso muestra una lápida.
+---------------
+El reverso muestra un huevo.

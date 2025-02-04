@@ -1,0 +1,106 @@
+﻿--------------- strings=29 language=spanish
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El cu<HIDDEN-TEXT>erpo d<HIDDEN-TEXT>e un hombre que
+	fue posteriormente identificado
+	como Thomas Oro<HIDDEN-TEXT>sco,<HIDDEN-TEXT> un leñador
+	de 39 a<HIDDEN-TEXT>ños<HIDDEN-TEXT>, fue descubierto en
+	<HIDDEN-TEXT>su habit<HIDDEN-TEXT>ación tumbado bo<HIDDEN-TEXT>ca<HIDDEN-TEXT>
+	<HIDDEN-TEXT>arriba.<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE> La probable causa de la mue<HIDDEN-TEXT>rte<HIDDEN-TEXT>
+	<HIDDEN-TEXT>fu<HIDDEN-TEXT>eron varias puñaladas en la
+	parte delantera del cuello y en
+	el costado izquierdo, provocadas
+	por un arma afilada.
+	La muerte oc<HIDDEN-TEXT>urrió<HIDDEN-TEXT> aproximadamente
+	entre las 23:0<HIDDEN-TEXT>0 y<HIDDEN-TEXT> la medianoche.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Debido a los indicios de lucha
+	en la habitación y la ausencia
+	del arma homicida, la policía está
+	sos<HIDDEN-TEXT>pech<HIDDEN-TEXT>ando de un homicidio
+	y ha abierto una investigación
+	por asesinato.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Además, dado que no se había
+	tocado el dinero de la habitación
+	y que el Sr. Oro<HIDDEN-TEXT>sco te<HIDDEN-TEXT>nía
+	antecedentes de alcoholismo y
+	violencia, la polic<HIDDEN-TEXT>ía sosp<HIDDEN-TEXT>echa
+	que e<HIDDEN-TEXT>l mo<HIDDEN-TEXT>tivo no fue un robo,<HIDDEN-TEXT> sino<HIDDEN-TEXT>
+	<HIDDEN-TEXT>algún tipo <HIDDEN-TEXT>de crimen p<HIDDEN-TEXT>asio<HIDDEN-TEXT>nal.<SEPARATORB>
+---------------
+Hay un periódico en el suelo.
+
+Está manchado de algo que parece
+	sangre y hay partes que no se
+	pueden leer.<SEPARATORB>
+---------------
+La criatura está muerta.<SEPARATORB>
+---------------
+¡No, papá! ¡No, por favor!
+---------------
+¿Se encuentra bien?
+---------------
+¡Angela! Tranquila.
+---------------
+¡No me dé órdenes!
+---------------
+No es mi intención.
+---------------
+Entonces, ¿qué quiere?
+---------------
+Ah, ya veo, se está haciendo
+	el simpático, ¿no?
+---------------
+Ya sé lo que quiere.
+	Otra vez con lo mismo.
+---------------
+Solo piensan en una cosa.
+---------------
+No. Eso no es cierto.
+---------------
+No tiene porqué mentir.
+	Venga, sea sincero.
+---------------
+O también puede forzarme.
+	Pegarme, como hacía él.
+---------------
+Además, usted sólo piensa
+	en sí mismo.
+---------------
+Maldito cerdo...
+---------------
+Angela...
+---------------
+¡No me toque!
+---------------
+¡Me da ganas de vomitar!
+---------------
+Dijo que su mujer Mary
+	estaba muerta, ¿no?
+---------------
+Sí, estaba enferma...
+---------------
+¡Miente!
+---------------
+Le conozco bien...
+---------------
+Ya no quería estar con ella.
+	Se buscaría a otra.
+---------------
+Eso es ridículo... Yo nunca...
+---------------
+No puedo dejarla a su suerte.<SEPARATORB>
+---------------
+Aunque volviera, ¿a dónde iría...?
+
+No hay camino de vuelta
+	ni lugar al que escapar.<SEPARATORB>
+---------------
+Las paredes y el suelo están llenos
+	de periódicos. No parece que haya
+	nada de interés.
+
+Pero este lleva fecha de hoy...
+	Qué extraño.<SEPARATORB>

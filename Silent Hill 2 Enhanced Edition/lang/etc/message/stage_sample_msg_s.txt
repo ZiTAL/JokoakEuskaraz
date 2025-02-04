@@ -1,0 +1,85 @@
+﻿--------------- strings=30 language=spanish
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
+	que Walter Sullivan, detenido
+	el día 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidó en su celda en
+	la madrugada del 22.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
+	Sullivan se clavó una cuchara
+	sopera en el cuello, cortándose
+	la arteria carótida.
+	
+	 Cuando el guarda lo encontró,
+	Sullivan ya había muerto
+	desangrado, con la cuchara
+	hendida cinco centímetros
+	en el cuello.
+
+La puerta no cede.
+
+Parece como si algo la empujase
+	desde el otro lado.<SEPARATORB>
+---------------
+¿Vas a sacarlo?<SELECT-YES-OR-NO>
+---------------
+Una foto...<SEPARATORB>
+---------------
+Eh...
+---------------
+¡Au!
+---------------
+¡Ja, ja!
+---------------
+¡Eh, espera!
+---------------
+¡Mierda!
+---------------
+¿Laura?
+---------------
+¿Eh?
+---------------
+¿Cómo sabes mi nombre?
+---------------
+Eddie me lo dijo.
+---------------
+Gordo bocazas...
+---------------
+¿De qué conoces a Mary?
+---------------
+¿Por qué te importa tanto?
+---------------
+¿Es que no puedes decírmelo?
+---------------
+¿Me gritarás si no te lo digo?
+---------------
+No... No lo haré.
+---------------
+Yo era amiga de Mary...
+---------------
+Nos conocimos en el hospital.
+---------------
+Fue el año pasado...
+---------------
+¡Mentirosa!
+---------------
+Laura, no...
+---------------
+¡Bueno, pues no me creas!
+---------------
+Pero el año pasado,
+	Mary ya estaba...
+---------------
+Lo siento, Laura.
+---------------
+Este no es lugar para una niña.
+---------------
+Aquí hay muchas cosas extrañas...
+---------------
+No puedo creer que no tengas
+	ni un rasguño.
+---------------
+¿Por qué debería?

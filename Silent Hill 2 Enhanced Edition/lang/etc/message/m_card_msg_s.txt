@@ -1,0 +1,166 @@
+﻿--------------- strings=81 language=spanish
+---------------
+Guardar en cualquier sitio
+---------------
+Nombre no decidido
+---------------
+<COLOR-WHITE>Bosque
+---------------
+<COLOR-WHITE>Aparcamiento
+---------------
+<COLOR-WHITE>Caravana
+---------------
+<COLOR-WHITE>Apartam., escalera SO
+---------------
+<COLOR-WHITE>Apartam., habitación 2.ª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 1.ª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 2.ª plta.
+---------------
+<COLOR-WHITE>Motel
+---------------
+<COLOR-WHITE>Hospital, recepción
+---------------
+<COLOR-WHITE>Hospital, habitación 3.ª plta.
+---------------
+<COLOR-WHITE>Hospital, pasillo 1.ª plta.
+---------------
+<COLOR-WHITE>Hospital, escalera sur
+---------------
+<COLOR-WHITE>Hospital, vestíbulo
+---------------
+<COLOR-WHITE>Sociedad Histórica
+---------------
+<COLOR-WHITE>Prisión, comedor
+---------------
+<COLOR-WHITE>Prisión, lavabo
+---------------
+<COLOR-WHITE>Ascensor
+---------------
+<COLOR-WHITE>Pasillo del laberinto
+---------------
+<COLOR-WHITE>Catacumba
+---------------
+<COLOR-WHITE>Embarcadero
+---------------
+<COLOR-WHITE>Hotel, vestíbulo
+---------------
+<COLOR-WHITE>Hotel, cuarto del ascensor
+---------------
+<COLOR-WHITE>Hotel, vestíbulo, 3.ª plta.
+---------------
+<COLOR-WHITE>Hotel, vestíbulo, 1.ª plta.
+---------------
+Selecciona un archivo guardado.
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+¿Deseas formatearla?
+---------------
+A
+---------------
+A
+---------------
+No hay un archivo de datos.
+---------------
+Archivo de datos dañado.
+---------------
+<COLOR-BLUE>Es posible guardar.
+---------------
+Guardar en un archivo nuevo.
+---------------
+Formateando.
+---------------
+Error al formatear.
+---------------
+<COLOR-BLUE>Guardando...
+---------------
+Datos guardados.
+---------------
+Fallo al guardar.
+---------------
+Cargando.
+---------------
+Carga completada.
+---------------
+Fallo al cargar.
+---------------
+Los datos están dañados.
+---------------
+¿Deseas sobreescribir?
+---------------
+¿Abortar el guardado?
+---------------
+A
+---------------
+A
+---------------
+N.º de archivos
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+<COLOR-RED>No hay espacio disponible.
+---------------
+Acción
+---------------
+Enigmas
+---------------
+Fácil
+---------------
+Normal
+---------------
+Difícil
+---------------
+Datos
+---------------
+Fecha
+---------------
+Guardado
+---------------
+A
+---------------
+A
+---------------
+No se pueden crear más archivos
+---------------
+¿Seguro que quieres borrar
+	estos datos guardados?
+---------------
+<COLOR-BLUE>Borrando...
+---------------
+Datos borrados.
+---------------
+Error al borrar.
+---------------
+Se necesitan <VARIABLE-01> KB
+	para crear un archivo adicional
+---------------
+Se necesitan <VARIABLE-01> KB
+	para guardar un archivo nuevo
+---------------
+Espacio libre: <VARIABLE-01> KB
+---------------
+Retroceso: Eliminar
+---------------
+A
+---------------
+A
+---------------
+Carga rápida completada
+---------------
+A
+---------------
+Extra
+---------------
+Principiante
+---------------
+Resultados de la partida

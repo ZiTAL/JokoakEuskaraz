@@ -1,0 +1,61 @@
+﻿--------------- strings=11 language=spanish
+---------------
+En la cama hay un trozo de papel.
+
+Sólo son garabatos...
+	Eh, tiene algo escrito.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Es un ángel que nadie conoce
+	sólo yo puedo ver a la dama de la
+	puerta no pueden andar sobre
+	su puente de hilos caerán por
+	el peso de sus crímenes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sus pecados son como horribles
+	e hinchados cadáveres ella devora
+	tanto pecado como pecador
+	me salvará es un ángel.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Es un ángel que nadie conoce
+	sólo yo puedo ver a la dama de la
+	puerta no pueden andar sobre
+	su puente de hilos caerán por
+	el peso de sus crímenes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sus pecados son como horribles
+	e hinchados cadáveres ella devora
+	tanto pecado como pecador
+	me salvará es un ángel.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>anillo de cobre<COLOR-WHITE>
+	en la “mano” de la mujer pintada.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>anillo de plomo<COLOR-WHITE>
+	en la “mano” de la mujer pintada.<SEPARATORB>
+---------------
+Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+En la puerta hay una mujer pintada.
+
+Lo curioso es que la parte
+	de la mano es tridimensional
+	y sobresale.<SEPARATORB>
+---------------
+Pulso el botón,
+	pero no ocurre nada.<SEPARATORB>
+---------------
+En la cama hay un trozo de papel.
+
+Tiene algo escrito, pero está
+	demasiado oscuro para leerlo.<SEPARATORB>
+---------------
+Aquí hay frascos vacíos.
+	¿Son de María?
+
+¿María también está enferma...?<SEPARATORB>
+---------------
+María no está aquí...
+	¿Dónde habrá ido?<SEPARATORB>
+---------------
+Aquí no hay nada útil.<SEPARATORB>

@@ -1,0 +1,321 @@
+﻿--------------- strings=113 language=spanish
+---------------
+¿Qué ha sido de aquella niña...?
+
+¿Podrá estar sola en
+	una ciudad como esta?<SEPARATORB>
+---------------
+Esta parte del terreno está
+	más elevada de lo normal.
+
+¿Habrá algo debajo?
+
+¿Vas a cavar?<SELECT-YES-OR-NO>
+---------------
+Había una pequeña caja metálica
+	enterrada.
+
+La caja está cerrada con pernos.
+	No puedo abrir la tapa.<SEPARATORB>
+---------------
+La caja está cerrada con pernos.
+	No puedo abrir la tapa.<SEPARATORB>
+---------------
+Había una llave en la caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Víctima de persecución
+	por l<HIDDEN-TEXT>os cristi<HIDDEN-TEXT>anos.
+	Jenni<HIDDEN-TEXT>fer<HIDDEN-TEXT> Carroll
+	vivió con orgullo y honor.
+	Lo que ocurrió aquí
+	nunca debe ser olvidado.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Patrick Chester, hijo de Edward.
+	Luchó y murió por el pueblo,
+	por la libertad y por nuestro
+	futuro. Su recuerdo perdura.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>En recuerdo de los sesenta y siete
+	que murieron por la enfermedad
+	y duermen bajo el lago.<SEPARATORB>
+---------------
+Tiene algo escrito, pero
+	es imposible leerlo porque
+	la superficie ha sido borrada.<SEPARATORB>
+---------------
+Tiene un viejo candado
+	que parece resistente.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>libro llamado
+	“Memorias perdidas”<COLOR-WHITE>.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
+	pueblo al que robaron sus tierras.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
+	«El lugar de los espíritus silenciosos».
+	Por «espíritus» entendían no sólo a
+	sus familiares muertos, sino también
+	los espíritus que, según creían,
+	viven en los árboles, las rocas
+	y el agua.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aquí
+	tenían lugar las ceremonias más
+	sagradas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
+	de quienes ahora viven en esta
+	ciudad los que robaron las tierras
+	a aquel pueblo. Hubo otros
+	que llegaron antes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad tenía
+	otro nombre... pero se ha perdido
+	en los anales de la historia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sólo sabemos que tuvo otro
+	nombre y que, por alguna razón,
+	la ciudad fue abandonada por
+	sus habitantes.<SEPARATORB>
+---------------
+¡Tú!
+---------------
+¿Has sido tú, no?
+	La que me pisó la mano.
+---------------
+No sé...
+---------------
+A lo mejor...
+---------------
+¿Qué hace una niña como tú
+	en un lugar como este?
+---------------
+¿Eh? ¿Estás ciego o qué te pasa?
+---------------
+¿Qué es esa carta?
+---------------
+Nada que te importe.
+---------------
+¡Tú no amabas a Mary!
+---------------
+¡Espera!
+---------------
+¿Cómo sabes el nombre de Mary?
+---------------
+¿Mary?
+---------------
+No... No eres tú.
+---------------
+¿Me parezco a tu chica?
+---------------
+No... A mi esposa fallecida.
+---------------
+No puedo creerlo...
+---------------
+Podrías ser su hermana gemela.
+	Tu rostro, tu voz...
+---------------
+Sólo tu pelo y tu ropa
+	son diferentes.
+---------------
+Me llamo... María.
+---------------
+No tengo aspecto de fantasma.
+	¿O sí?
+---------------
+¿Ves? Estoy calentita.
+---------------
+¿De... verdad que no eres Mary?
+---------------
+Ya te lo he dicho... Soy María.
+---------------
+Lo siento, me he confundido.
+---------------
+¿Adónde vas?
+---------------
+Estoy buscando a Mary.
+	¿La has visto?
+---------------
+¿No has dicho que estaba muerta?
+---------------
+Ah, sí... Hace tres años.
+---------------
+Pero recibí una carta suya.
+	Decía que esperaba en nuestro
+	“lugar especial”.
+---------------
+¿Y era este?
+---------------
+En fin, que no la he visto.
+---------------
+¿Este es vuestro único
+	“lugar especial”?
+---------------
+Bueno, supongo que también
+	está el hotel.
+---------------
+El hotel del lago...
+	Me pregunto si seguirá en pie.
+---------------
+¿El hotel Lakeview?
+	Sí, sigue ahí.
+---------------
+Así que el hotel era vuestro
+	“lugar especial”, ¿eh?
+---------------
+No me extraña...
+---------------
+No te enfades.
+	Sólo estaba bromeando.
+---------------
+Además, no se va por ahí.
+	Es por aquí.
+---------------
+¿Vienes conmigo?
+---------------
+¿Ibas a dejarme tirada?
+---------------
+No, pero...
+---------------
+¿Con todos estos monstruos?
+---------------
+No, no, solo que...
+---------------
+Estoy sola.
+	Aquí no queda nadie.
+---------------
+Me parezco a Mary, ¿no?
+	Tú la querías, ¿no es así?
+---------------
+O tal vez la odiabas...
+---------------
+No digas tonterías.
+---------------
+¿Entonces, algún problema?
+---------------
+No, no, claro que no.
+---------------
+Esperaré aquí. Odio los bolos.
+---------------
+No he venido aquí a jugar, ¿sabes?
+---------------
+No tardes, ¿eh?
+---------------
+¿Has visto salir de aquí
+	a una niña?
+---------------
+Sí, ¡iba demasiado rápido!
+---------------
+¿No piensas ir a buscarla?
+---------------
+Al hotel no se va por aquí.
+	¿No es cierto?
+---------------
+¿Adónde vas?
+---------------
+Por aquí no ha ido esa niña.
+---------------
+He encontrado una <COLOR-GREEN>cañería de acero<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
+---------------
+¡Por allí!
+---------------
+He cogido la <COLOR-GREEN>llave de perro<COLOR-WHITE>
+	de la caseta.<SEPARATORB>
+---------------
+Aquí ya no hay nada que hacer.
+	Creo que volveré a buscar a Mary...<SEPARATORB>
+---------------
+¿Has vuelto a matar a Mary?
+---------------
+Esa no era Mary.
+	Mary está muerta.
+---------------
+Eso era algo que...
+---------------
+¿María?
+---------------
+María.
+---------------
+¿Qué, James?
+---------------
+Quiero que...
+	Que estés conmigo...
+---------------
+¿Estás seguro?
+---------------
+Vamos. Salgamos de aquí.
+---------------
+¿Y qué pasa con Mary?
+---------------
+No te preocupes,
+	te tengo a ti.
+---------------
+Tengo que encontrar a Laura.
+	No puedo dejarla sola.
+
+Además... Quizás pueda decirme
+	algo acerca de Mary.<SEPARATORB>
+---------------
+Una pared normal.
+	El dibujo parece hecho
+	por un niño.<SEPARATORB>
+---------------
+Sólo es basura.
+	No tiene sentido buscar por aquí.<SEPARATORB>
+---------------
+<COLOR-BLUE>Parque Rosewater<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
+Aquí hay un mapa.<SEPARATORB>
+---------------
+<COLOR-BLUE>Hotel Lakeview<SEPARATORB>
+---------------
+María está muerta.
+	No pude protegerla.
+---------------
+Una vez más,
+	no pude hacer nada por evitarlo.
+---------------
+Laura se ha ido a algún sitio.
+---------------
+Mary...
+	¿Qué... qué debería hacer?
+---------------
+¿Realmente... me estás esperando
+	en algún lugar?
+---------------
+O es esta tu forma de...
+---------------
+Voy a buscar a Mary...
+	Es la única esperanza
+	que me queda.
+---------------
+<COLOR-BLUE>Sociedad Histórica de Silent Hill<SEPARATORB>
+---------------
+Este puente está en ruinas.
+	No puedo llegar al hotel por aquí...<SEPARATORB>
+---------------
+<COLOR-BLUE>Heaven's Night<SEPARATORB>
+---------------
+<COLOR-BLUE>Hotel Jack<SEPARATORB>
+---------------
+<COLOR-BLUE>Bolera de Pete<SEPARATORB>
+---------------
+Barcas al Parque de Atracciones
+	del Lago y al hotel Lakeview<SEPARATORB>
+---------------
+Lo he copiado en mi mapa.<SEPARATORB>
+---------------
+Así que este es ese parque...
+---------------
+Mary... ¿Estás aquí?

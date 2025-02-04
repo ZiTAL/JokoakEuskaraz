@@ -1,0 +1,13 @@
+﻿--------------- strings=5 language=spanish
+---------------
+Una pared.
+	No puedo pasar por aquí.<SEPARATORB>
+---------------
+Una máquina de discos.
+	Ahora no me sirve de nada.<SEPARATORB>
+---------------
+La nevera no se abre.<SEPARATORB>
+---------------
+El armario no se abre.<SEPARATORB>
+---------------
+Aquí no hay nada útil.<SEPARATORB>

@@ -1,0 +1,13 @@
+﻿--------------- strings=6 language=spanish
+---------------
+James...
+---------------
+¿Mary?
+---------------
+No... No eres tú.
+---------------
+¿Me parezco a tu chica?
+---------------
+Me llamo... María.
+---------------
+Aquí no tengo nada que hacer.<SEPARATORB>

@@ -1,0 +1,104 @@
+﻿--------------- strings=32 language=spanish
+---------------
+No necesito nada del estante.<SEPARATORB>
+---------------
+Aprieto el botón,
+	pero no pasa nada.<SEPARATORB>
+---------------
+El maletín está cerrado.<SEPARATORB>
+---------------
+No hay nada en el maletín.<SEPARATORB>
+---------------
+Hay fotos esparcidas
+	por toda la cama.
+
+¿Qué es esto...?<SEPARATORB>
+---------------
+Parte de la foto ha sido tachada
+	con un rotulador.<SEPARATORB>
+---------------
+¿Qué es esto?
+	Hay un aviso sobre el botón.
+
+<COLOR-BLUE>Peso permitido: una persona<SEPARATORB>
+---------------
+El estante está vacío.<SEPARATORB>
+---------------
+El estante está vacío.
+
+Creo que puedo almacenar
+	mis cosas aquí.
+
+¿Vas a poner un objeto
+	en el estante?<SELECT-YES-OR-NO>
+---------------
+Puse: <VARIABLE-01> en el estante.<SEPARATORB>
+---------------
+¿Vas a quitar todo lo que hay
+	en el estante?<SELECT-YES-OR-NO>
+---------------
+He encontrado una <COLOR-GREEN>caja de música
+	de Cenicienta<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	de la habitación 204 del hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del ascensor
+	para empleados<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de
+	la habitación 204 del hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del ascensor
+	para empleados<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del pez<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado el <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+---------------
+No hay nada interesante
+	en el libro de notas.<SEPARATORB>
+---------------
+No oigo nada por el auricular.
+	¿Estará cortada la línea telefónica?<SEPARATORB>
+---------------
+No hay nada en el cajón.<SEPARATORB>
+---------------
+Aquí hay folletos turísticos.
+	Ahora mismo no me interesan.<SEPARATORB>
+---------------
+Un libro.
+	No parece muy útil.<SEPARATORB>
+---------------
+Hay un libro abierto
+	sobre el escritorio.
+	Parece de medicina.
+
+Ya he leído bastantes libros
+	de medicina. Ninguno sirvió
+	para nada.<SEPARATORB>
+---------------
+Aquí no hay nada
+	que parezca de utilidad.<SEPARATORB>
+---------------
+No hay nada interesante.<SEPARATORB>
+---------------
+Un cuadro de este hotel.<SEPARATORB>
+---------------
+Un timbre.
+	No creo que vaya a aparecer nadie.<SEPARATORB>
+---------------
+Aquí están colgadas las normas
+	para empleados. No tienen nada
+	que ver conmigo.<SEPARATORB>
+---------------
+Aquí hay notas colgadas.
+	Pero no dicen nada interesante.<SEPARATORB>
+---------------
+La caja está vacía.<SEPARATORB>
+---------------
+Creo que puedo almacenar
+	mis cosas aquí.
+
+¿Vas a poner un objeto
+	en el estante?<SELECT-YES-OR-NO>

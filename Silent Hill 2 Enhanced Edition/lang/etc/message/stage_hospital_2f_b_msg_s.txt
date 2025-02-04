@@ -1,0 +1,67 @@
+﻿--------------- strings=18 language=spanish
+---------------
+Hay una especie de nevera.
+
+¿Vas a abrirla?<SELECT-YES-OR-NO>
+---------------
+No queda nada en la nevera.
+	Un olor nauseabundo proviene
+	del interior.<SEPARATORB>
+---------------
+La puerta pesa demasiado
+	como para que yo pueda
+	abrirla por mí mismo.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>pila seca<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del almacén
+	del sótano<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado el <COLOR-GREEN>anillo de plomo<COLOR-WHITE>.<SEPARATORB>
+---------------
+¿No puedes abrirla?
+---------------
+No. María, échame una mano.
+---------------
+Venga ya...
+---------------
+se supone que tú eres el machote...
+---------------
+¿Qué puede hacer
+	una chica como yo?
+---------------
+¿Qué es esto?
+	No es muy bonito, ¿no?
+---------------
+Toma, James, para ti.
+---------------
+Vaya, gracias.
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
+	el sótano del sótano.
+	Era muy pequeño y oscuro
+	y yo tuve muchísimo miedo.
+	Se me cayó mi precioso anillo.
+	Pero nunca jamás volveré allí.<SEPARATORB>
+---------------
+Parte del papel de la pared
+	está roto. Hay algo pintado
+	por debajo.
+
+¿Buscan algo esas manos?
+
+¿O son sólo un signo de dolor?<SEPARATORB>
+---------------
+En la cama hay un trozo de papel.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
+	el sótano del sótano.
+	Era muy pequeño y oscuro
+	y yo tuve muchísimo miedo.
+	Se me cayó mi precioso anillo.
+	Pero nunca jamás volveré allí.<SEPARATORB>
+---------------
+En la cama hay un trozo de papel.
+
+Tiene algo escrito, pero está
+	demasiado oscuro para leerlo.<SEPARATORB>

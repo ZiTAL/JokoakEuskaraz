@@ -1,0 +1,70 @@
+﻿--------------- strings=28 language=spanish
+---------------
+Sí.
+---------------
+No.
+---------------
+Está demasiado oscuro
+	para leer el mapa.<SEPARATORB>
+---------------
+No tengo un mapa de esta zona.<SEPARATORB>
+---------------
+Está cerrada.<SEPARATORB>
+---------------
+Ahora está abierta.<SEPARATORB>
+---------------
+Parece que el cerrojo está roto.
+	No puedo abrirla.<SEPARATORB>
+---------------
+No puedo abrirla.<SEPARATORB>
+---------------
+¿Qué es esto...?
+
+Cuando lo miro, siento como
+	si alguien estuviera toqueteando
+	dentro de mi cráneo.
+
+Me produce una sensación extraña...<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>balas de pistola<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>balas de rifle<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>bebida isotónica<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>botiquín<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>ampolla<COLOR-WHITE>.<SEPARATORB>
+---------------
+He pulsado el interruptor,
+	pero no funciona.<SEPARATORB>
+---------------
+<COLOR-RED>No se puede guardar la partida
+	en la versión de prueba.<SEPARATORB>
+---------------
+DUALSHOCK®2 no conectado
+---------------
+Conecta el mando analógico (DUALSHOCK®2) en el puerto de mando 1
+---------------
+Bandeja del disco abierta
+---------------
+Disco no insertado
+---------------
+Comprobando disco
+---------------
+Disco equivocado
+---------------
+He encontrado <COLOR-GREEN>balas para revólver<COLOR-WHITE>.<SEPARATORB>
+---------------
+Vuelve a conectar el controlador
+	al puerto de controlador <VARIABLE-01>
+	y presiona START para continuar.
+---------------
+ Cargando...
+---------------
+Presiona el botón START.
+---------------
+Algunos archivos son inaccesibles.
+	Por favor, reinstala el juego.

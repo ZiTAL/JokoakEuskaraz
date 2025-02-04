@@ -1,0 +1,352 @@
+﻿--------------- strings=109 language=spanish
+---------------
+¿Conoces a una niña
+	que se llama Amy?
+---------------
+¿Por qué lo preguntas?
+---------------
+Esta carta, “A mi querido papá”...
+	la escribió una niña llamada
+	Amy Baldwin.
+---------------
+¿Eres su padre?
+---------------
+Sí.
+---------------
+¿Dónde la has encontrado?
+---------------
+En la buhardilla.
+---------------
+Ah...
+---------------
+Qué estúpido...
+	Ahora... cuando ya es demasiado
+	tarde... entiendo el motivo.
+---------------
+Por qué ella estaba allí...
+---------------
+Por qué tenía en la mano aquel
+	sobre vacío cuando... cuando cayó...
+---------------
+Ernest, ¿Amy... no estará...?
+---------------
+Lo siento.
+	Siento habértelo recordado.
+---------------
+No tienes que disculparte.
+	Tú no me lo has recordado.
+---------------
+Nunca lo olvido...
+---------------
+María.
+---------------
+Hay cosas que olvidamos y cosas
+	que nunca podremos olvidar...
+---------------
+Tiene gracia...
+	No sé qué es más triste.
+---------------
+Han pasado diez años, pero sigo...
+---------------
+Ernest... Lo siento.
+	No lo sabía...
+---------------
+No, no importa.
+---------------
+María, esa carta...
+---------------
+La dejaré aquí.
+---------------
+Gracias.
+---------------
+¿María...?
+	Entonces, tú debes ser...
+---------------
+Claro.
+	Por eso podías verme.
+---------------
+¿Eh?
+---------------
+Entonces, ¿también puedo esperar
+	un milagro?
+---------------
+¿De qué hablas?
+---------------
+En los apartamentos de al lado...
+	hay una botella que contiene
+	un líquido blanco.
+---------------
+No sé exactamente dónde está,
+	pero sé que está ahí.
+---------------
+La necesito.
+---------------
+¿Y... quieres que la busque?
+---------------
+Por favor...
+---------------
+¿Por qué no vas a buscarla?
+---------------
+Créeme, si pudiese lo haría.
+	Pero...
+---------------
+¿Blanco...?
+---------------
+Te abriré la puerta de la escalera.
+---------------
+Ernest, ¿de verdad
+	crees que funcionará?
+---------------
+No lo sé...
+---------------
+Bueno, da igual. No me importa luchar
+	por una causa imposible.
+---------------
+Mejor eso que tirar la toalla
+	y no hacer nada.
+---------------
+María... Gracias.
+---------------
+¿De verdad crees en los milagros?
+---------------
+Esto es Silent Hill.
+---------------
+Ya, tal vez sea ese el problema.
+---------------
+Oh, María... Piensas demasiado.
+	Yo soy de aquí. Esta es mi ciudad.
+---------------
+Gracias, María.
+---------------
+Es el único objeto
+	que yo no puedo obtener.
+---------------
+Pero cuando me quise dar cuenta,
+	ya no podía abandonar esta casa.
+---------------
+He pasado tanto tiempo...
+---------------
+Sí, pero... Bueno...
+---------------
+María, los dioses están aquí.
+---------------
+Tú también lo sabes.
+	Tu naciste en esta ciudad.
+---------------
+No estoy segura de que “dios”
+	sea la palabra adecuada.
+---------------
+¿Crees en el destino?
+---------------
+La verdad es que no.
+---------------
+Entonces, no importa.
+---------------
+Ernest, ¿puedo abrirla?
+---------------
+Aquí no hay salida.
+	No hay nada más.
+---------------
+Lo sé.
+---------------
+Bueno... ¿Y si te hubiese dicho
+	que creía en el destino?
+---------------
+Ese James... es un hombre malo.
+---------------
+¿James...?
+---------------
+Eh... Sí... Lo sé.
+---------------
+Te está buscando,
+	pero no te busca a ti.
+---------------
+¿Porque es bueno...?
+---------------
+¿Tú... sabes algo?
+---------------
+Sí... María, eres...
+---------------
+Da igual, eso es lo que tú piensas.
+	Pero en realidad no sabes nada.
+---------------
+Da igual.
+---------------
+Vale.
+---------------
+He encontrado el <COLOR-GREEN>mapa de la mansión<COLOR-WHITE>.<SEPARATORB>
+---------------
+La chimenea está tapiada.
+	Y tiene escrito <COLOR-BLUE>“No utilizar”<COLOR-WHITE>.<SEPARATORB>
+---------------
+Por alguna razón, la chimenea
+	tiene una escalera.
+
+En lo alto puedo ver
+	una especie de agujero.
+
+¿Vas a subir por la escalera?<SELECT-YES-OR-NO>
+---------------
+¿Vas a bajar por la escalera?<SELECT-YES-OR-NO>
+---------------
+Hay una hendidura cuadrada
+	en el centro de la lápida.
+
+Y encima hay un epitafio
+	tallado con esmero.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Contigo murió la alegría.
+	Todo lo que queda es desesperación
+	y un futuro de mañanas sin sentido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero nunca renunciaré.
+	Porque quiero volver a ver
+	tu bella sonrisa.
+	Porque quiero implorar
+	la bendición de los dioses.
+	Espero que llegue ese día.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuando las placas lo cubran todo,
+	toda tristeza quedará
+	también cubierta.
+	Pero hasta que mis sueños
+	se hagan realidad, tendré
+	que aguantar todo el dolor.
+
+<COLOR-WHITE>Hay una llave firmemente
+	incrustada en la piedra,
+	por debajo de la hendidura.
+
+<COLOR-WHITE>Haga lo que haga,
+	no puedo sacarla.<SEPARATORB>
+---------------
+Has insertado la placa.
+
+¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+---------------
+Has insertado la placa.
+
+Los agujeros abiertos en
+	las placas se superponen:
+	Todavía se ve el otro lado.
+
+¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+---------------
+Hay tres placas insertadas.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Memorias perdidas
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Confío plenamente —incluso
+	podríais llamarlo fe— en el milagro
+	conocido como la «resurrección
+	de los muertos».
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La Bestia entonó su canción
+	en la colina donde la luz descendía.
+	Con palabras de sangre, gotas
+	de niebla y el vaso de la noche,
+	la tumba se convirtió en
+	un campo abierto.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La gente sollozaba de temor
+	y alegría en la reunión,
+	pero mi fe en la salvación
+	de Xuchilpaba no flaqueó.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>También es mencionada
+	en las antiguas leyendas.
+	Los primeros fieles no creían
+	que la muerte fuese el final,
+	sólo el camino por el que
+	los fallecidos regresaban
+	a la naturaleza.
+	También creían que el proceso
+	era reversible.
+
+<COLOR-WHITE>Hay una nota
+	al final de la página.
+
+<COLOR-WHITE>¿Es de Ernest?
+	¿Qué podría significar?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sangre=Rojo,
+	Niebla=Blanco,
+	Noche=Negro<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+---------------
+No puedo abrirla.<SEPARATORB>
+---------------
+La persiana está cerrada.
+	No puedo pasar por aquí.<SEPARATORB>
+---------------
+Muerto...<SEPARATORB>
+---------------
+La llave se ha soltado en cuanto
+	las tres placas quedaron superpuestas.<SEPARATORB>
+---------------
+Quité la <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+---------------
+Quité la <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+---------------
+Quité la <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+---------------
+<GLOBALYOFFSET-BOARDPUZZLE><SELECTABLE-TEXT>Insertar tal cual.<SELECTABLE-TEXT>Girar 90 grados a la derecha e insertar.<SELECTABLE-TEXT>Girar 180 grados e insertar.<SELECTABLE-TEXT>Girar 90 grados a la izquierda e insertar.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa blanca<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa negra<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa roja<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
+Una hilera de platos.
+	No hay nada que me interese.<SEPARATORB>
+---------------
+No hay nada dentro. Lástima...<SEPARATORB>
+---------------
+Un cuadro de flores.<SEPARATORB>
+---------------
+Un bodegón.<SEPARATORB>
+---------------
+Un globo terráqueo.
+	No me sirve para nada.<SEPARATORB>
+---------------
+No hay razón para que
+	utilice el teléfono.<SEPARATORB>
+---------------
+Una vitrina con platos decorativos.
+	No es que sean muy interesantes.<SEPARATORB>
+---------------
+Aquí hay un cubo y una fregona.
+	Ahora no me apetece
+	ponerme a limpiar.<SEPARATORB>
+---------------
+Aquí no hay nada que pueda
+	usar ahora.<SEPARATORB>
+---------------
+No puedo seguir por aquí.
+	La pared me corta el paso.<SEPARATORB>
+---------------
+En el estante hay ediciones
+	completas de libros
+	de aspecto sesudo.
+
+No hay nada que me interese.<SEPARATORB>
+---------------
+Aquí hay un reloj, pero parece
+	que ya no funciona.
+
+No me sirve de nada.<SEPARATORB>
+---------------
+Hay libros sobre la mesa.
+	Ninguno parece interesante.<SEPARATORB>
+---------------
+El regalo de Amy para su padre,
+	Ernest. Estaba junto con
+	la tarjeta de cumpleaños.
+
+Creo que lo dejaré aquí.<SEPARATORB>

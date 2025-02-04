@@ -1,0 +1,73 @@
+﻿--------------- strings=22 language=spanish
+---------------
+Aprieto el botón,
+	pero no pasa nada.<SEPARATORB>
+---------------
+Aquí hay varios alimentos
+	enlatados.<SEPARATORB>
+---------------
+Hay una lata sin etiqueta.<SEPARATORB>
+---------------
+La lata está llena de bombillas.<SEPARATORB>
+---------------
+Una lata con bombillas.
+	No necesito más.<SEPARATORB>
+---------------
+Hay una lámpara en la barra.
+
+Pero no tiene bombilla,
+	así que no se puede encender.<SEPARATORB>
+---------------
+He intentado usar la <COLOR-GREEN>llave del bar<COLOR-WHITE>,
+	pero está demasiado oscuro
+	para ver el ojo de la cerradura.<SEPARATORB>
+---------------
+He encontrado una lata de <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del bar<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>bombilla<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado el <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del bar<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>bombilla<COLOR-WHITE>.<SEPARATORB>
+---------------
+La puerta de la nevera debe estar rota.
+	No puedo abrirla.<SEPARATORB>
+---------------
+La cerradura está rota,
+	no puedo abrirla.<SEPARATORB>
+---------------
+Una serie de cebos.
+
+Parece ser que la pesca en el lago
+	es una actividad muy popular
+	entre los turistas.
+
+Yo no soy bueno pescando,
+	así que no probé suerte
+	cuando estuve aquí...<SEPARATORB>
+---------------
+Aquí hay una máquina de discos.
+	No funciona, debe estar rota.<SEPARATORB>
+---------------
+La barra.
+
+Mary y yo bebimos juntos
+	en este bar.
+
+A veces parece que haya pasado
+	una eternidad y otras parece
+	que fue ayer.<SEPARATORB>
+---------------
+Aquí hay botellas de vino vacías.<SEPARATORB>
+---------------
+Aquí hay un jarrón.
+	Ahora mismo no me es útil.<SEPARATORB>
+---------------
+Un cuadro.
+	No tiene nada especial.<SEPARATORB>
+---------------
+<COLOR-BLUE>Lágrimas de Venus<SEPARATORB>

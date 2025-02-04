@@ -1,0 +1,109 @@
+﻿--------------- strings=9 language=spanish
+---------------
+¿Qué es esto...?
+	Una revista del corazón, ¿eh?
+
+<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
+	que Walter Sullivan, detenido
+	el día 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidó en su celda en
+	la madrugada del 22.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
+	Sullivan se clavó una cuchara
+	sopera en el cuello, cortándose
+	la arteria carótida.
+	
+	 Cuando el guarda lo encontró,
+	Sullivan ya había muerto
+	desangrado, con la cuchara
+	hendida cinco centímetros
+	en el cuello.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
+	de Walter Sullivan, de su ciudad natal
+	de Pleasant River, declaró:
+	 «No parecía capaz de matar
+	a un niño.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
+	de que lo detuvieran decía
+	cosas extrañas, en plan:
+	“Quiere matarme. Quiere
+	castigarme. El monstruo...
+	el demonio rojo.
+	Perdonadme. Yo lo hice,
+	¡pero no fui yo!”».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
+	«Ahora que lo pienso, creo que
+	le faltaba algún tornillo».<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
+	que Walter Sullivan, detenido
+	el día 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidó en su celda en
+	la madrugada del 22.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
+	Sullivan se clavó una cuchara
+	sopera  en el cuello, cortándose
+	la arteria carótida.
+	 Cuando el guarda lo encontró,
+	Sullivan ya había muerto
+	desangrado, y tenía la cuchara
+	hendida 5 cm en el cuello.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
+	de Walter Sullivan, de su ciudad natal
+	de Pleasant River, declaró:
+	 «No parecía capaz de matar
+	a un niño.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
+	de que lo detuvieran decía
+	cosas extrañas, en plan:
+	“Quiere matarme. Quiere
+	castigarme. El monstruo...
+	el demonio rojo.
+	Perdonadme. Yo lo hice,
+	¡pero no fui yo!”».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
+	«Ahora que lo pienso, creo que
+	le faltaba algún tornillo».<SEPARATORB>
+---------------
+La puerta no cede.
+
+Parece como si algo la empujase
+	desde el otro lado.<SEPARATORB>
+---------------
+Es basura.
+	No me sirve para nada.<SEPARATORB>
+---------------
+Al otro lado de la puerta
+	no hay una escalera de emergencia.
+
+¿La tirarían al construir
+	el edificio de al lado?
+
+Creo que puedo entrar
+	en el edificio de al lado
+	por esta ventana.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>moneda
+	de la serpiente<COLOR-WHITE>.<SEPARATORB>
+---------------
+La bolsa de basura se ha roto
+	y se han esparcido sus contenidos
+	por todas partes.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>moneda del anciano<COLOR-WHITE>.<SEPARATORB>
+---------------
+Creo que seguiré buscando
+	en este apartamento.
+	Hay algo que no me cuadra.<SEPARATORB>

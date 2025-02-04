@@ -1,0 +1,82 @@
+﻿--------------- strings=28 language=spanish
+---------------
+Hay algo escrito.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Joseph me dio la llave.
+	Será de esa caja.<SEPARATORB>
+---------------
+Una bata de laboratorio.
+	No hay nada especialmente
+	interesante.<SEPARATORB>
+---------------
+Hay algo escrito en la pared.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira jira jira los números
+	mejor no olvidarlos
+	Por eso los eskriba aquí
+	El otro, mi nombre secreto<SEPARATORB>
+---------------
+Hay una caja con muchas cerraduras.
+
+Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+---------------
+Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+---------------
+No hay nada dentro de la caja.
+
+No, me equivoco...
+	Dentro hay unos pelos.<SEPARATORB>
+---------------
+Ya no hay nada en la caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+	Siempre cuidaré de ti.
+	¡Es mi destino!<SEPARATORB>
+---------------
+Una caja cerrada.<SEPARATORB>
+---------------
+Hay algo metido en la tubería
+	de desagüe.
+
+El agujero es muy pequeño.
+	No puedo meter la mano para
+	alcanzarlo.
+
+Quizás si tuviese algún tipo de
+	herramienta larga y estrecha...<SEPARATORB>
+---------------
+No hay nada en el agujero.<SEPARATORB>
+---------------
+Giro la llave, pero no sale agua.<SEPARATORB>
+---------------
+Así nunca podré cogerlo.<SEPARATORB>
+---------------
+No es lo bastante largo.<SEPARATORB>
+---------------
+Hay una tapa sobre el botón
+	de llamada del ascensor.
+
+No tengo forma de abrirla.<SEPARATORB>
+---------------
+Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+El armario no se abre.<SEPARATORB>
+---------------
+No creo que pueda seguir por aquí.<SEPARATORB>
+---------------
+Aquí no hay nada interesante.<SEPARATORB>
+---------------
+No parece haber nada útil por aquí.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mechón de pelo<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>aguja torcida<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>

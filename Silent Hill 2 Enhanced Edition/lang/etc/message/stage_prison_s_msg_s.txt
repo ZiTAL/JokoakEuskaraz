@@ -1,0 +1,66 @@
+﻿--------------- strings=17 language=spanish
+---------------
+<COLOR-WHITE>Hay algo escrito sobre el cuadro.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
+	los Tres Pecados.
+
+<COLOR-WHITE>Bajo el cuadro hay tres agujeros
+	cuadrados.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
+	los Tres Pecados.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla del cerdo glotón<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla de la seductora<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>herradura<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>muñeco de cera<COLOR-WHITE>.<SEPARATORB>
+---------------
+La puerta está cerrada firmemente.
+	No puedo forzarla.<SEPARATORB>
+---------------
+<COLOR-BLUE>Hombre ardiendo<SEPARATORB>
+---------------
+<COLOR-BLUE>436 personas en un recital<SEPARATORB>
+---------------
+<COLOR-BLUE>Mujer volando<SEPARATORB>
+---------------
+Hay tres cuerdas que cuelgan
+	del patíbulo.<SEPARATORB>
+---------------
+Aquí hay ropa manchada de sangre.<SEPARATORB>
+---------------
+Aquí hay revistas.
+	Nada de interés.<SEPARATORB>
+---------------
+Hay libros esparcidos por todo
+	el suelo y sobre la cama.
+
+<COLOR-BLUE>“Magia negra del abismo”
+	“La resurrección de los muertos”
+
+<COLOR-BLUE>“Crónicas de Agripa”
+	“Manuscrito de los anillos
+	 de hierro”
+
+<COLOR-WHITE>No debería darles mucha importancia.<SEPARATORB>
+---------------
+Hay libros esparcidos por todo
+	el suelo y sobre la cama.
+
+<COLOR-BLUE>“Sacrificios y el arte
+	 de invocar al demonio”
+	“Libro del profeta”
+
+<COLOR-BLUE>“El día de los súcubos”
+	“Los angeles caídos de la
+	 gracia y el favor”
+
+<COLOR-WHITE>No debería darles mucha importancia.<SEPARATORB>

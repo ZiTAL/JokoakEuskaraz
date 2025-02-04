@@ -1,0 +1,70 @@
+﻿--------------- strings=7 language=spanish
+---------------
+Hay algo en el suelo.
+	¿Es un diario...?<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>9 de mayo
+	Llueve.
+	Llevo todo el día mirando
+	por la ventana. Está tranquilo,
+	no tengo nada que hacer.
+	Todavía no me dejan salir.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>10 de mayo
+	Sigue lloviendo.
+	He hablado con el médico.
+	¿Me habrían salvado si no
+	tuviera una familia que
+	me echara de menos?
+	Sé que doy pena, que soy débil.
+	No todo el mundo puede
+	ser fuerte.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>11 de mayo
+	Vuelve a llover.
+	Hoy la medicación
+	me ha dado náuseas.
+	Si sólo estoy mejor
+	cuando me la tomo,
+	¿entonces quién soy?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>12 de mayo
+	Más lluvia.
+	No quiero dar más problemas
+	a nadie, pero no dejo de ser
+	un estorbo.
+	¿Por qué se considera un pecado
+	abandonar la lucha?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Algunos dirán que es así, pero
+	no saben lo que tengo que sufrir.
+	Seré egoista, pero es lo
+	que quiero.
+	Esto es demasiado duro.
+	Demasiado...
+
+<CENTER-PARAGRAPH><COLOR-BLUE>13 de mayo
+	Ha clareado.
+	Los médicos me han dicho que
+	me dan el alta, que tengo que
+	irme a casa.
+	Y<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
+---------------
+No hay más anotaciones.
+
+¿Qué hace un diario aquí?<SEPARATORB>
+---------------
+La puerta no se abre.
+	Algo la mantiene cerrada
+	por el otro lado.
+
+Por mucho que lo intente,
+	no se abrirá.<SEPARATORB>
+---------------
+La valla metálica está oxidada
+	y se cae a cachos. Creo que se podría
+	soltar con un buen empujón.<SEPARATORB>
+---------------
+No creo que pueda seguir por aquí.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del tejado<COLOR-WHITE>.<SEPARATORB>

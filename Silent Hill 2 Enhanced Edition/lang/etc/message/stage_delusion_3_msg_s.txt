@@ -1,0 +1,33 @@
+﻿--------------- strings=8 language=spanish
+---------------
+Sólo es una pared.
+
+No puedo escalarla.<SEPARATORB>
+---------------
+Sólo es una pared.
+
+Eh, esta parte es distinta...
+
+Justo este punto no se parece
+	al resto de la pared.
+
+¿Habrá alguna forma de romperlo?<SEPARATORB>
+---------------
+No puedo abrir la puerta desde aquí.<SEPARATORB>
+---------------
+Hay una puerta en el suelo.
+	Está cerrada.<SEPARATORB>
+---------------
+Tras la puerta sólo hay oscuridad.
+
+No puedo ver el fondo.
+
+¿Vas a bajar?<SELECT-YES-OR-NO>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	con un escrito en espiral<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave
+	con un escrito en espiral<COLOR-WHITE>.<SEPARATORB>
+---------------
+He cambiado la <COLOR-GREEN>pila<COLOR-WHITE> de la linterna.<SEPARATORB>

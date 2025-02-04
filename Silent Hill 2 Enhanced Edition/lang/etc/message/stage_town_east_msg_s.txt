@@ -1,0 +1,196 @@
+﻿--------------- strings=34 language=spanish
+---------------
+No hay motivos para volver.
+	Voy a buscar a Mary...<SEPARATORB>
+---------------
+La calle está cortada.
+	Por aquí no puedo seguir.
+
+No puedo llegar al parque por aquí.
+	Tendré que encontrar otro camino.<SEPARATORB>
+---------------
+La calle se ha hundido.
+	Por aquí no puedo seguir.
+
+No puedo llegar al parque por aquí.
+	Tendré que encontrar otro camino.<SEPARATORB>
+---------------
+Muerto...
+	¿Habrá sido aquella criatura...?
+
+¿Qué está pasando
+	en esta ciudad...?<SEPARATORB>
+---------------
+Hay algo escrito.
+
+Por desgracia, la superficie
+	está deteriorada y me cuesta leerla.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
+	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
+	orginalmente un pantano, pero
+	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
+	recibió el apodo de «pantano sangriento»
+	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
+	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
+	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
+	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
+	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
+	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
+	orginalmente un pantano, pero
+	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
+	recibió el apodo de «pantano sangriento»
+	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
+	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
+	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
+	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
+	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+---------------
+No puedo escapar.
+
+Es peligroso darle la espalda
+	a este monstruo.<SEPARATORB>
+---------------
+Eh...
+---------------
+¿Está muerto?
+	¿Qué demonios es eso?
+---------------
+No es humano...
+---------------
+Ah, sí.
+---------------
+¿Está rota?
+---------------
+Ja......... esto... ..........
+	Ven .................. ......s...
+---------------
+..... ......... ......and.....
+---------------
+............. me has m............
+---------------
+Jam.........
+---------------
+¿Qué demonios...?
+---------------
+Será mejor que me la lleve.
+	Podría necesitarla.
+---------------
+He encontrado la <COLOR-GREEN>llave de la entrada
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la entrada
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Voy a escribir todo lo que
+	he aprendido hasta ahora.
+	Tal vez eso te sea
+	de alguna ayuda.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si estás leyendo esto,
+	probablemente ya estoy muerto.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>He visto a esos demonios.
+	Sé que estaban ahí.
+	Pero mi amigo no vio nada.
+	Si es así, ¿entonces lo que
+	vi era una ilusión?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero aunque ese demonio que
+	comía seres humanos fuese real
+	o nada más que una alucinación...
+	Una cosa de la que estoy seguro
+	es que no tengo ninguna
+	posibilidad.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Parece que les atrae la luz.
+	Por ese motivo, aquellos
+	que necesitan luz para ver
+	son sus presas naturales.
+	También reaccionan a los sonidos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si quieres seguir viviendo,
+	será mejor que te quedes
+	en la oscuridad y en silencio.
+	Pero seguramente eso no bastará
+	para salvarte.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Si vas a luchar contra ellos,
+	lo más importante es que mantener
+	la calma. Es peligroso usar
+	una pistola en pleno pánico.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Primero apunta bien y entonces
+	aprieta el gatillo. Y no te
+	olvides de rematarlos.
+	Creo que la mayoría de esas
+	criaturas se pueden matar,
+	aunque sean más duras que
+	una persona cualquiera.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Huye.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>¡Huye! ¡Huye! ¡Huye!
+	¡Huye! ¡Huye! ¡Huye!
+	¡Huye! ¡Huye! ¡Huye!<SEPARATORB>
+---------------
+Hay un bloc de notas en el suelo.<SEPARATORB>
+---------------
+Hay una nota rota en el suelo.<SEPARATORB>
+---------------
+¿¡Estas manchas... son sangre!?
+---------------
+Esa sombra...
+---------------
+Esa sombra me preocupa.
+	¿Qué era eso...?<SEPARATORB>
+---------------
+<COLOR-BLUE>La puerta que despierta
+	a la oscuridad, abriéndose
+	a pesadillas.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>O tal vez estés loco.
+	La verdad suele traicionar a la gente.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Una parte de ese abismo
+	está en la vieja sociedad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La llave de la sociedad
+	está en el parque.
+	A los pies de la mujer que reza,
+	bajo tierra, dentro de una caja.
+	Para abrirla necesito
+	una llave inglesa.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi paciente la enterró ahí.
+	Yo lo sabía, pero no hice nada.
+	Me incomodaba tener
+	esa cosa tan cerca.
+	Yo no buscaba la verdad,
+	sólo buscaba tranquilidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>También vi a esa cosa.
+	Escapé, pero el museo
+	también estaba sellado.
+	Ahora nadie se atreve
+	a acercarse a ese lugar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si aún no quieres detenerte, James,
+	rezaré al Señor para que
+	se apiade de tu alma eterna.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>

@@ -1,0 +1,32 @@
+﻿--------------- strings=13 language=spanish
+---------------
+James...
+---------------
+María.
+---------------
+Lo nuestro se acabó.
+---------------
+¿¡Qué?!
+	¡Pero... soy lo que tú querías!
+---------------
+Mary está muerta.
+	¿No lo entiendes? ¡No volverá!
+---------------
+Pero yo puedo ser tuya...
+	Siempre me tendrás.
+---------------
+¡Nunca te haré daño, como ella!
+---------------
+¿Por qué no me quieres?
+---------------
+Porque tú no eres Mary.
+---------------
+Sin Mary, nada tiene sentido.
+---------------
+Oh, James...
+---------------
+¡Venga ya, James!
+	Debes estar bromeando.
+---------------
+Ahora no puedo volver.
+	No es momento de escapar.<SEPARATORB>

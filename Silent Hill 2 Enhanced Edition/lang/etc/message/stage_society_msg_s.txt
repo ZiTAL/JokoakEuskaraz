@@ -1,0 +1,73 @@
+﻿--------------- strings=13 language=spanish
+---------------
+Seguramente aquí había un cuadro.
+
+Sólo queda la descripción.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>«Paisaje ribereño»
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
+	y defunción desconocidas)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
+	Por el estilo, parece que se pintó
+	sobre la década de 1820.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces había mucha
+	menos gente y apenas un puñado
+	de edificios.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>«Paisaje ribereño»
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
+	y defunción desconocidas)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
+	Por el estilo, parece que se pintó
+	sobre la década de 1820.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces había mucha
+	menos gente y apenas un puñado
+	de edificios.<SEPARATORB>
+---------------
+<COLOR-BLUE>«Día neblinoso,
+	restos del juicio»
+
+<COLOR-WHITE>Es él...<SEPARATORB>
+---------------
+Esta foto no tiene nada especial.<SEPARATORB>
+---------------
+La vitrina no tiene nada de interés.<SEPARATORB>
+---------------
+Hay muchas fotografías antiguas.
+	Parecen fotos de esta ciudad.<SEPARATORB>
+---------------
+El texto no dice nada útil.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay una foto colgada.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Mina de carbón Wiltse<SEPARATORB>
+---------------
+Hay una foto de un hoyo
+	muy profundo. ¿Qué podría ser...?<SEPARATORB>
+---------------
+Hay una foto colgada.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Hospital Brookhaven (1880)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Este hospital se edificó
+	en respuesta a la gran plaga
+	que trajo un grupo de
+	inmigrantes. Originalmente
+	era poco más que una casucha,
+	pero fue creciendo
+	con el tiempo.<SEPARATORB>
+---------------
+Hay una foto de un hoyo
+	muy profundo. ¿Qué podría ser...?<SEPARATORB>
+---------------
+Una foto del director del viejo
+	Hospital Brookhaven.
+	Parece que era famoso por aquí.<SEPARATORB>

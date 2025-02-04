@@ -1,0 +1,56 @@
+﻿--------------- strings=26 language=spanish
+---------------
+¡Espera! ¡Espera!
+	¡Tengo que coger algo!
+---------------
+Más tarde, ¿vale?
+---------------
+¡Pero es muy importante!
+---------------
+¿Qué es?
+---------------
+Una carta de Mary.
+---------------
+¿Eh?
+---------------
+¿Podemos ir a buscarla?
+---------------
+Sí, sí.
+---------------
+¡Venga, vamos!
+---------------
+¿Está ahí dentro?
+---------------
+Sí. Al fondo.
+---------------
+¿Qué haces, Laura?
+---------------
+Está... al fondo, en el escritorio.
+---------------
+¡Laura! ¡¿Qué estás haciendo?!
+---------------
+¡Ja, ja! ¡Te he engañado!
+---------------
+Abre la puerta, Laura...
+---------------
+¿Por qué debería hacerlo?
+	Soy una mentirosa, ¿no?
+---------------
+¿Quieres que abra?
+	¿Eh? ¿Eh? ¿De verdad?
+---------------
+¿Cuál es la palabra mágica?
+---------------
+¡Laura!
+---------------
+Vale, creo que no abriré...
+---------------
+Me parece que te voy a dejar ahí.
+---------------
+¡Maldita mocosa! ¡Ábreme!
+---------------
+¡Serás...! ¡Serás...!
+---------------
+¿Laura?
+---------------
+¡Caraculo!

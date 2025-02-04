@@ -1,0 +1,30 @@
+﻿--------------- strings=10 language=spanish
+---------------
+Mary... ¿de verdad estás
+	en esta ciudad?
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Si de verdad quieres ver a Mary,
+	deberías morir.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero a lo mejor acabas en
+	un lugar distinto al de Mary, James.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aquí había un AGUJERO.
+	Ahora ha desaparecido.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>espray<COLOR-WHITE>.<SEPARATORB>
+---------------
+Aquí hay un mapa.<SEPARATORB>
+---------------
+Hay una nota sobre el sofá.
+
+<COLOR-BLUE>Te espero en el bar Neely's<SEPARATORB>
+---------------
+Aquí hay un mapa.<SEPARATORB>
+---------------
+¿Qué es ese símbolo que hay
+	al final de Martin Street?<SEPARATORB>
+---------------
+Lo he copiado en mi mapa.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>gema azul<COLOR-WHITE>.<SEPARATORB>

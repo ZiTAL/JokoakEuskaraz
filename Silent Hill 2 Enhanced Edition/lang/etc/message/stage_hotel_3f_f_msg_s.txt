@@ -1,0 +1,147 @@
+﻿--------------- strings=61 language=spanish
+---------------
+Aprieto el botón,
+	pero no pasa nada.<SEPARATORB>
+---------------
+Hay un reproductor de vídeo.
+	Creo que funciona.<SEPARATORB>
+---------------
+Me he llevado la cinta de vídeo.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave
+	de las escaleras del hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de
+	la habitación 312 del hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+¿Ya estás grabando? Anda...
+---------------
+No sé por qué,
+	pero me encanta este sitio.
+---------------
+Es tan tranquilo...
+---------------
+¿Sabes lo que he oído?
+---------------
+Esta zona solía ser un lugar sagrado.
+---------------
+Creo que entiendo por qué.
+---------------
+Qué pena que tengamos
+	que marcharnos...
+---------------
+Por favor, prométeme que me
+	traerás otra vez, James...
+---------------
+Mary...
+---------------
+Por fin te encuentro, James.
+---------------
+¿Tienes la carta?
+	¿Has encontrado a Mary?
+---------------
+Si no, pongámonos en marcha.
+---------------
+¿De acuerdo?
+---------------
+Mary se ha ido.
+---------------
+Está muerta.
+---------------
+¡Mentiroso!
+---------------
+¡Eso es mentira!
+---------------
+No, es verdad...
+---------------
+¿Murió... porque estaba enferma?
+---------------
+No.
+---------------
+Yo la maté.
+---------------
+¡Asesino!
+---------------
+¡¿Por qué lo hiciste?!
+	¡Te odio!
+---------------
+¡Quiero que vuelva!
+	¡Devuélvemela!
+---------------
+¡Lo sabía!
+	¡No te importaba lo más mínimo!
+---------------
+¡Te odio, James!
+	¡Te odio! ¡Te odio! ¡Te odio!
+---------------
+Siempre te estuvo esperando...
+	¿Por qué...? ¿Por qué...?
+---------------
+Lo siento...
+---------------
+La Mary que conoces no está aquí.
+---------------
+Laura, lo siento.
+---------------
+James...
+	¿Dónde estás?
+---------------
+Estoy esperando.
+	Te estoy esperando.
+---------------
+Por favor, ven a mí.
+---------------
+¿Me odias?
+---------------
+¿Por eso no vienes a verme?
+---------------
+Esa voz...
+---------------
+Por favor, date prisa.
+---------------
+¿Acaso estás perdido?
+---------------
+Estoy cerca.
+	Te espero cerca de aquí, James.
+---------------
+Por favor.
+	Quiero verte, James.
+---------------
+¿Me oyes?
+---------------
+James...
+	Por favor, James...
+---------------
+James... James... ¿James...?
+---------------
+Aquí hay una televisión.
+	Incluso cuando está enchufada,
+	sólo veo ruido blanco.<SEPARATORB>
+---------------
+No hay nada que ver.<SEPARATORB>
+---------------
+Ya no necesito
+	el reproductor de vídeo.<SEPARATORB>
+---------------
+No hay nada interesante
+	escrito en el libro de notas.<SEPARATORB>
+---------------
+Hay un cuadro colgado.
+	Parece un paisaje de esta zona.<SEPARATORB>
+---------------
+Lo siento... Eh...
+---------------
+¿Quién... quién eres...?
+---------------
+¿Ha visto a una niña?
+---------------
+Es bajita, de pelo negro...
+---------------
+¿De qué estás hablando...?
+---------------
+Da igual, escucha...
+---------------
+¿Has visto a mi esposa...?
+	Se llama Mary.
+---------------
+¡¡¡Aaarrggghhhh!!!

@@ -1,0 +1,3 @@
+﻿--------------- strings=1 language=spanish
+---------------
+¡O sea, que todo fue obra tuya!

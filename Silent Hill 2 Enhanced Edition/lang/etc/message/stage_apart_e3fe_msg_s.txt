@@ -1,0 +1,23 @@
+﻿--------------- strings=8 language=spanish
+---------------
+¡Mierda!
+---------------
+He encontrado la <COLOR-GREEN>llave del patio<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	de la salida de emergencia<COLOR-WHITE>.<SEPARATORB>
+---------------
+Una lavadora normal.
+	No tiene interesante.<SEPARATORB>
+---------------
+El teléfono no funciona.<SEPARATORB>
+---------------
+No hay nada interesante
+	ni en el periódico,
+	ni en la revista.<SEPARATORB>
+---------------
+Hay un cuadro colgado.
+	Parece un paisaje de esta zona.<SEPARATORB>
+---------------
+Hay un cuadro colgado.
+	Parece un paisaje extraño.<SEPARATORB>

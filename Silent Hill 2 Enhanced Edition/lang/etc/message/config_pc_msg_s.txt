@@ -1,0 +1,93 @@
+﻿--------------- strings=46 language=spanish
+---------------
+Mover a izda.
+---------------
+Mover a dcha.
+---------------
+Girar a la izda.
+---------------
+Girar a la dcha.
+---------------
+Ir hacia delante
+---------------
+Ir hacia atrás
+---------------
+Paso a la izda.
+---------------
+Paso a la dcha.
+---------------
+Apuntar a izda.
+---------------
+Apuntar a dcha.
+---------------
+Acción
+---------------
+Cancelar
+---------------
+Omitir/Pausa
+---------------
+Correr/Defensa
+---------------
+Modo de búsqueda
+---------------
+Inventario
+---------------
+Linterna
+---------------
+Fijar objetivo
+---------------
+Mapa
+---------------
+Esc
+---------------
+Intro
+---------------
+Retroceso
+---------------
+Espacio
+---------------
+Mayús izda.
+---------------
+Mayús dcha.
+---------------
+Ctrl izdo.
+---------------
+Ctrl dcho.
+---------------
+Alt izda.
+---------------
+Tab
+---------------
+Insert
+---------------
+Inicio
+---------------
+Supr
+---------------
+Fin
+---------------
+Av Pág
+---------------
+Re Pág
+---------------
+Cursor izdo.
+---------------
+Cursor dcho.
+---------------
+Cursor abajo
+---------------
+Cursor arriba
+---------------
+(T. num.)
+---------------
+Intro
+---------------
+Pad Izda.
+---------------
+Pad Dcha.
+---------------
+Pad Arriba
+---------------
+Pad Abajo
+---------------
+Botón

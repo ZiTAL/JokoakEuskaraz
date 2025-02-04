@@ -1,0 +1,5 @@
+﻿--------------- strings=2 language=spanish
+---------------
+James...
+---------------
+<TEXT-POS-120>Me has hecho muy feliz.

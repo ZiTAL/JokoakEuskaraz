@@ -1,0 +1,42 @@
+﻿--------------- strings=16 language=spanish
+---------------
+James, te he estado esperando.
+---------------
+Mary...
+---------------
+Siento haber tardado tanto.
+---------------
+¿No querías verme?
+---------------
+Sí, quería verte.
+	Aunque fueras un espejismo...
+---------------
+Por eso vine aquí.
+---------------
+Eso no es cierto, ¿no?
+	Me mataste...
+---------------
+¡No podía verte sufrir!
+---------------
+No busques excusas, James.
+---------------
+Sé que era una carga para ti.
+---------------
+Me odiarías.
+	Por eso te deshiciste de mí.
+---------------
+Es cierto... puede que me hayan
+	invadido esos sentimientos.
+---------------
+Fueron tres largos años...
+	Y estaba... cansado.
+---------------
+¿Y por eso necesitabas
+	a esa tal María?
+---------------
+James, ¿de veras crees que
+	voy a perdonarte
+	por lo que hiciste?
+---------------
+Ahora no puedo volver.
+	No es momento de escapar.<SEPARATORB>

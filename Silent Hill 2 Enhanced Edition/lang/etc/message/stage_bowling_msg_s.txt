@@ -1,0 +1,85 @@
+﻿--------------- strings=36 language=spanish
+---------------
+Sólo es una bola de la bolera.
+
+Ahora mismo no puedo perder
+	el tiempo con ella.<SEPARATORB>
+---------------
+Entonces, ¿qué has hecho?
+---------------
+¿Robar, matar...?
+---------------
+No, nada de eso.
+---------------
+¡Ja! ¡No eres más
+	que un vacaburro cobarde!
+---------------
+¿Por qué me llamas eso?
+---------------
+¿No dijiste
+	que te perseguía la poli?
+---------------
+No, me largué
+	porque estaba asustado.
+---------------
+No sé qué andará haciendo la poli.
+---------------
+Pero si has hecho algo malo,
+	¿por qué no pediste perdón?
+---------------
+Bueno... Yo también
+	he salido corriendo muchas veces.
+---------------
+Les da igual. No me harán caso.
+---------------
+No me va a perdonar nadie.
+---------------
+¿Has encontrado a esa mujer?
+---------------
+¿Cómo se llamaba? ¿Mary?
+---------------
+¿Eddie?
+---------------
+Oh... Eh, tú eras...
+---------------
+James.
+---------------
+Nos conocimos en el edificio
+	de apartamentos.
+---------------
+Sí, me acuerdo, pero...
+---------------
+¿Estás solo, Eddie?
+---------------
+Eh, no...
+---------------
+¡Adiós!
+---------------
+¡Espera! ¡Vuelve aquí!
+---------------
+¡Eddie! ¡Vamos a por ella!
+---------------
+¿Eh? ¿A por Laura? ¿Por qué...?
+---------------
+¿Laura? ¿Así se llama?
+---------------
+Eso dijo.
+---------------
+¡La ciudad está llena de monstruos!
+---------------
+¿Cómo puedes quedarte ahí sentado
+	y comiendo pizza?
+---------------
+Dijo que se las podía apañar...
+---------------
+y que un gordo como yo
+	le haría perder el tiempo.
+---------------
+Tú mismo...
+---------------
+Por cierto, ¿quién es esa niña?
+---------------
+No lo sé.
+	Sólo sé su nombre.
+---------------
+Lo juro.

@@ -1,0 +1,54 @@
+﻿--------------- strings=24 language=spanish
+---------------
+¡Mamá!
+---------------
+Mamá, te estaba buscando.
+---------------
+Eres la única que me queda.
+---------------
+Tal vez...
+	entonces pueda descansar.
+---------------
+Mamá, ¿por qué corres?
+---------------
+Tú no eres mamá.
+---------------
+¡Es usted...!
+	Lo... lo siento...
+---------------
+Angela, no...
+---------------
+Gracias por salvarme...
+---------------
+Pero ojalá no lo hubiera hecho.
+---------------
+Incluso mamá lo dijo...
+---------------
+Me lo merecía...
+---------------
+¡No, Angela, no es verdad!
+---------------
+No, no me compadezca.
+	No me lo merezco...
+---------------
+¿O se cree que puede salvarme?
+	¿Me amará?
+---------------
+¿Me cuidará?
+	¿Curará mis penas?
+---------------
+Eso pensaba.
+---------------
+James... Devuélvame ese cuchillo.
+---------------
+No... No lo haré.
+---------------
+¿Lo quiere para usted?
+---------------
+¿Yo? No... Nunca me suicidaría...
+---------------
+Aquí hace un calor terrible.
+---------------
+¿Usted también lo nota?
+---------------
+Para mí, siempre es así.

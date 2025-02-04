@@ -1,0 +1,343 @@
+﻿--------------- strings=95 language=spanish
+---------------
+Aprieto el botón,
+	pero no pasa nada.<SEPARATORB>
+---------------
+Un piano normal.
+	Nada de qué preocuparse.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Sr. James Sunderland:
+	
+	La cinta de vídeo que se dejó
+	está guardada en la oficina
+	del primer piso.<SEPARATORB>
+---------------
+Una caja de música.<SEPARATORB>
+---------------
+¿Vas a dar cuerda
+	a la caja de música?<SELECT-YES-OR-NO>
+---------------
+Esto no suena bien.
+
+¿Está rota la caja de música?
+	O quizás...<SEPARATORB>
+---------------
+Hay una hendidura rectangular.
+
+Tiene una placa delante
+	con una inscripción.<SEPARATORB>
+---------------
+<COLOR-BLUE>Cuando regrese la extraviada,
+	la nota agria se hará dulce.<SEPARATORB>
+---------------
+<COLOR-BLUE>A pesar de ello, quiero seguir
+	creyendo que ella fue feliz.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que no hablaba.<SEPARATORB>
+---------------
+<COLOR-BLUE>Fue la codicia la que tiñó
+	de sangre su zapato.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que escapó a media noche.<SEPARATORB>
+---------------
+<COLOR-BLUE>Belleza: Bendición
+	y maldición al mismo tiempo.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que despertó de la muerte.<SEPARATORB>
+---------------
+Todavía no puedo dejar este hotel.<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
+<COLOR-BLUE>“Esperándote”...
+
+<COLOR-WHITE>¿Qué es esto...?
+
+Habitación 312... Es en la que
+	estuvimos Mary y yo...
+
+Mary, ¿estás ahí?
+	O quizás...
+
+Tengo un <COLOR-GREEN>mapa del hotel
+	(para huéspedes)<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de
+	la habitación 312 del hotel<COLOR-WHITE>.
+
+Es la llave de la habitación
+	donde nos alojamos Mary y yo...<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del hotel
+	(para empleados)<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave
+	de las escaleras de hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>cinta de vídeo<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>abrelatas<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>caja de música
+	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del pez<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de música
+	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de música
+	de la sirenita<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de música
+	de Cenicienta<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay una <COLOR-GREEN>caja de música
+	de Blancanieves<COLOR-WHITE>.
+
+¿Vas a coger
+	la caja de música?<SELECT-YES-OR-NO>
+---------------
+Hay una <COLOR-GREEN>caja de música
+	de la sirenita<COLOR-WHITE>.
+
+¿Vas a coger
+	la caja de música?<SELECT-YES-OR-NO>
+---------------
+Hay una <COLOR-GREEN>caja de música
+	de Cenicienta<COLOR-WHITE>.
+
+¿Vas a coger
+	la caja de música?<SELECT-YES-OR-NO>
+---------------
+¿Te he asustado?
+---------------
+Sí, la verdad.
+---------------
+Has venido a encontrar a Mary,
+	¿no, James?
+---------------
+¿Lo has conseguido?
+---------------
+No... ¿tú también has venido
+	por ella?
+---------------
+Está aquí, ¿no?
+---------------
+¡Si sabes dónde está, dímelo!
+---------------
+Estoy harta de andar.
+---------------
+Ojalá lo supiera...
+---------------
+Pero si lo dijo en su carta...
+---------------
+¿¡Qué carta!?
+---------------
+¿Quieres leerla?
+---------------
+Pero no se lo digas a Rachel, eh.
+---------------
+¿Quién es Rachel?
+---------------
+Nuestra enfermera.
+---------------
+Cojí la carta de su cajón.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
+	
+	Le dejo esta carta a Rachel
+	para que te la dé cuando
+	yo me haya ido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
+	En un lugar bello y tranquilo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perdóname
+	por no haberme despedido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuídate, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
+	Sé que lo odias porque piensas
+	que no me trata bien, pero,
+	por favor, dale una oportunidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
+	cascarrabias y que no se ríe mucho.
+	Pero en el fondo es una buena persona.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+	Te quiero como si fueras
+	mi propia hija.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
+	de otra forma, te habría adoptado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.º cumpleaños, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
+	Mary<SEPARATORB>
+---------------
+Laura... ¿cuántos años tienes?
+---------------
+Mmm... Cumplí ocho la semana pasada.
+---------------
+Entonces Mary no pudo haber
+	muerto... hace tres años...
+---------------
+¿De verdad está aquí?
+---------------
+¿Es este el lugar bello y tranquilo
+	al que se refería?
+---------------
+Mary y yo hablamos mucho
+	de Silent Hill.
+---------------
+Hasta me enseñó todas sus fotos.
+	Estaba como loca por volver.
+---------------
+Por eso he venido aquí.
+---------------
+Quizás lo entenderás
+	cuando veas la otra carta...
+---------------
+La que Mary... ¿Eh?
+---------------
+¡Se me habrá caído!
+---------------
+Laura...
+---------------
+¡Tengo que encontrarla!
+---------------
+¡Laura!
+---------------
+Hay una hendidura rectangular.
+
+Tiene una placa delante
+	con una inscripción.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que no hablaba.<SEPARATORB>
+---------------
+Hay una hendidura rectangular.
+
+Tiene una placa delante
+	con una inscripción.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que escapó a media noche.<SEPARATORB>
+---------------
+Hay una hendidura rectangular.
+
+Tiene una placa delante
+	con una inscripción.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que despertó de la muerte.<SEPARATORB>
+---------------
+Hay un abrelatas
+	bajo la cinta de vídeo.<SEPARATORB>
+---------------
+Un piano.
+
+Recuerdo que a Mary le gustaba
+	mucho tocar el piano.
+
+No se le daba muy bien...
+
+pero a mí me encantaba
+	escucharla tocar.
+
+De eso hace ya mucho tiempo,
+	antes incluso de casarnos.
+	¿Por qué pienso en esto ahora...?<SEPARATORB>
+---------------
+Un plato vacío, un cuchillo,
+	un tenedor y ya está.
+	No hay nada interesante.<SEPARATORB>
+---------------
+Un dibujo hecho por Laura...
+	¿Es un gato?<SEPARATORB>
+---------------
+Hay una caja de música
+	de disco.
+
+Parece que tiene algo escrito
+	delante, pero está demasiado
+	oscuro para verlo.<SEPARATORB>
+---------------
+Un timbre.
+	No creo que vaya a aparecer nadie.<SEPARATORB>
+---------------
+Aquí no hay nada
+	que parezca de utilidad.<SEPARATORB>
+---------------
+Parece que el teléfono está roto.<SEPARATORB>
+---------------
+No hay más llaves.<SEPARATORB>
+---------------
+Un cuadro.
+	No tiene nada especial.<SEPARATORB>
+---------------
+No hay nada interesante
+	en el estante.<SEPARATORB>
+---------------
+La cerradura está rota.
+	No puedo abrirla.<SEPARATORB>
+---------------
+No hay nada interesante
+	en los documentos del escritorio.<SEPARATORB>
+---------------
+Aquí hay patatas y cebollas.
+	Huelen un poco a podrido.<SEPARATORB>
+---------------
+Manzanas y calabazas.<SEPARATORB>
+---------------
+Una hilera de latas de fruta.
+	Ya llevarán un tiempo caducadas.<SEPARATORB>
+---------------
+Aquí hay bolsitas de té y galletitas.
+	Están caducadas.<SEPARATORB>
+---------------
+Una hilera de latas de zumo.
+	No hay razón para llevármelas.<SEPARATORB>
+---------------
+Aquí hay latas de sopa.
+	Creo que aún no se han pasado,
+	pero no tengo hambre.<SEPARATORB>
+---------------
+Aquí no hay nada.
+	Pero desprende un ligero
+	olor a moho.<SEPARATORB>
+---------------
+Aquí hay un reloj registrador.
+	El reloj no funciona,
+	supongo que estará roto.<SEPARATORB>
+---------------
+Aquí no hay nada interesante.<SEPARATORB>
+---------------
+Un hornillo.
+
+Por detrás hay algo escrito
+	en letra pequeña:
+	<COLOR-BLUE>“Soy Johnny y estoy calentito”.<COLOR-WHITE><SEPARATORB>
+---------------
+Aquí hay un calendario.
+	Es del año pasado.<SEPARATORB>
+---------------
+La persiana está cerrada.<SEPARATORB>
+---------------
+Una caja de cartón.
+	No hay nada dentro.<SEPARATORB>
+---------------
+Papel higiénico...
+	Ahora no lo necesito.<SEPARATORB>
+---------------
+Un carrito de lavandería.
+	No hay nada útil dentro.<SEPARATORB>

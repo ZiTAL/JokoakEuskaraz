@@ -1,0 +1,214 @@
+﻿--------------- strings=75 language=spanish
+---------------
+Hay todo tipo de cosas
+	amontonadas en el estante.
+
+Pero ninguna parece útil.<SEPARATORB>
+---------------
+Aquí hay un estante.
+
+No parece que haya nada en él.<SEPARATORB>
+---------------
+Aquí hay un estante.
+
+Hay huellas rojas sobre él.
+
+¿Vas a mover el estante?<SELECT-YES-OR-NO>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Koji la yave del direktor la del
+	museo. La escondi detrás de la
+	mujer que reza cuando sali
+	de excursion. La koji pero no la
+	robe. No zoy un kriminal.<SEPARATORB>
+---------------
+Hay una nota en el suelo.
+	Es difícil de leer...
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Koji la yave del direktor la del
+	museo. La escondi detrás de la
+	mujer que reza cuando sali
+	de excursion. La koji pero no la
+	robe. No zoy un kriminal.<SEPARATORB>
+---------------
+He encontrado el <COLOR-GREEN>anillo de cobre<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del almacén
+	del sótano<COLOR-WHITE>.<SEPARATORB>
+---------------
+¡James!
+---------------
+¡Mary!
+---------------
+Ah, María... Eres tú...
+	Creí que estabas...
+---------------
+Lo siento...
+---------------
+En fin, me alegra que estés viva...
+---------------
+¿¡“En fin”?!
+---------------
+¿Cómo que “en fin”?
+---------------
+No te alegras mucho de verme.
+---------------
+¡Casi me matan!
+---------------
+¿Por qué no has intentado salvarme?
+---------------
+¡Solo piensas en tu esposa muerta!
+---------------
+¡No había pasado tanto miedo
+	en toda mi vida!
+---------------
+No te importo lo más mínimo, ¿verdad?
+---------------
+No, es que...
+---------------
+¡Entonces quédate conmigo!
+---------------
+¡No vuelvas a dejarme sola!
+---------------
+¡Se supone que deberías cuidarme!
+---------------
+¿Y Laura?
+	¿La has encontrado?
+---------------
+Sí, pero... se escapó.
+---------------
+¡Tenemos que encontrarla!
+---------------
+Parece que te importa mucho.
+	¿La conoces?
+---------------
+Nunca la había visto.
+---------------
+Pero me da lástima.
+	Está completamente sola...
+---------------
+Y por alguna razón...
+---------------
+creo que me corresponde
+	a mí protegerla.
+---------------
+¡Hola a todos y gracias
+	por estar con nosotros!
+---------------
+¡Bienvenidos a una nueva edición
+	de “Trastada o regalo”!
+---------------
+Aquí o bien responde a las
+	preguntas correctamente
+	y se lleva un gran premio,
+---------------
+¡o no responde correctamente
+	y sufre el castigo!
+---------------
+Todo depende de usted.
+---------------
+¡Y hoy, nuestro afortunado,
+	o debería decir desafortunado
+	concursante es James!
+---------------
+¡James Sunderland!
+---------------
+¿Está listo para jugar
+	a Trastada o regalo?
+---------------
+Bien, pues ahí va
+	la primera pregunta.
+---------------
+Tiovivo, casa encantada,
+---------------
+montaña rusa, noria
+	y tazas de té.
+---------------
+En Silent Hill hay un emocionante
+	parque de atracciones
+---------------
+que gusta tanto a niños
+	como a adultos.
+---------------
+La pregunta es:
+	¿Cómo se llama este parque
+	de atracciones?
+---------------
+Uno: Fantasilandia.
+---------------
+Dos: Parque de Atracciones
+	Silent Hill.
+---------------
+Tres: Parque de Atracciones
+	del Lago.
+---------------
+Bien, pasamos a la pregunta
+	número dos.
+---------------
+En Silent Hill tuvo lugar
+	un horrible crimen hace unos años.
+---------------
+¡Dos hermanos, un niño y una niña,
+	jugaban en la calle cuando fueron
+	atacados y descuartizados con un hacha!
+---------------
+Carne desgarrada, huesos
+	machacados, sangre, y al final...
+	amargas lágrimas.
+---------------
+Qué terrible tragedia.
+---------------
+Qué final tan horripilante
+	para dos vidas tan inocentes.
+---------------
+Y ahora la pregunta:
+	¿Cómo se llamaba el asesino
+	que cometió este acto tan vil?
+---------------
+Uno: Walter Sullivan.
+---------------
+Dos: Scott Fairbanks.
+---------------
+Tres: Eric Gein.
+---------------
+Y ahora la tercera y última pregunta.
+---------------
+Al sur del lago hay
+	un barrio abandonado
+	llamado South Vale.
+---------------
+Para ir de allí a Paleville,
+	el complejo turístico
+	al noroeste del lago,
+---------------
+sólo se puede tomar una calle.
+---------------
+Una y no más.
+---------------
+La tercera y última pregunta es:
+	¿Cómo se llama esa calle?
+---------------
+Uno: Bachman Road.
+---------------
+Dos: Rendell Street.
+---------------
+Tres: Nathan Avenue.
+---------------
+Y con esto acaban
+	nuestras preguntas.
+---------------
+¿Tiene las respuestas?
+---------------
+Cuando las tenga, ¡diríjase
+	al almacén del tercer piso
+	para recoger los premios!
+---------------
+Pero tenga cuidado.
+	Si se equivoca...
+---------------
+Bueno, pues gracias a todos
+	por haber estado con nosotros.
+	Y hasta la vista.
+---------------
+¡Adiós!
+---------------
+¿Qué ha sido eso?

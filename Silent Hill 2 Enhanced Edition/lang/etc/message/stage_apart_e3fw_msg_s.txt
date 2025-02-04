@@ -1,0 +1,33 @@
+﻿--------------- strings=10 language=spanish
+---------------
+He encontrado una <COLOR-GREEN>pistola<COLOR-WHITE>.<SEPARATORB>
+---------------
+La pared está llena
+	de agujeros de bala.<SEPARATORB>
+---------------
+Hay cartuchos vacíos
+	tirados por el suelo.<SEPARATORB>
+---------------
+Hay una llave en el suelo,
+	al otro lado de los barrotes.
+
+Tal vez pueda alcanzarla
+	si estiro el brazo.
+
+¿Vas a cogerla?<SELECT-YES-OR-NO>
+---------------
+Por mucho que me estire,
+	no alcanzo la llave.
+
+¿Quién es esa niña...?<SEPARATORB>
+---------------
+¡Au!
+---------------
+¡Ja, ja!
+---------------
+¡Eh, espera!
+---------------
+¡Mierda!
+---------------
+Un carrito de la compra.
+	¿Qué hace aquí?<SEPARATORB>

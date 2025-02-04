@@ -1,0 +1,52 @@
+﻿--------------- strings=17 language=spanish
+---------------
+Sí.
+---------------
+No.
+---------------
+Cuando me desperté, estaba sola.
+---------------
+No queda nadie...
+	¿Será por los monstruos?
+---------------
+¿Y ahora que hago?
+---------------
+¿Lucho y sobrevivo...
+---------------
+o esos monstruos me atraparán?
+---------------
+No tengo ninguna razón
+	para seguir viviendo, pero...
+---------------
+Pero me asusta morir.
+	Le tengo mucho miedo al dolor.
+---------------
+¿Debería... escapar?
+---------------
+Quiero encontrar a alguien.
+	No me gusta estar sola...
+---------------
+Pero... ¿queda alguien vivo?
+---------------
+He encontrado un <COLOR-GREEN>cuchillo chino<COLOR-WHITE>.<SEPARATORB>
+---------------
+¿No habrá otro arma, aparte
+	de esta pistola? No me siento
+	cómoda sólo con esto.<SEPARATORB>
+---------------
+Está cerrada.
+
+Alguien ha metido un chicle
+	en la cerradura. No puedo
+	abrirla desde este lado.<SEPARATORB>
+---------------
+<COLOR-BLUE>Heaven's Night
+
+<COLOR-WHITE>El nombre de este establecimiento.<SEPARATORB>
+---------------
+<TEXT-POS-120> La siguiente historia se ha escrito
+	como suplemento del juego principal.
+	 Recomendamos jugarla sólo después
+	de completar la historia principal.
+	
+	 ¿Deseas continuar?

@@ -1,0 +1,982 @@
+﻿--------------- strings=109 language=spanish
+---------------
+<CENTER-PER-LINE>Monumento del pantano
+---------------
+<CENTER-PER-LINE>«La ruta hacia el mañana»
+---------------
+<CENTER-PER-LINE>«Cómo ser una pareja feliz»
+---------------
+<CENTER-PER-LINE>«Elegir la muerte»
+---------------
+<CENTER-PER-LINE>Arañazos de la pared
+---------------
+<CENTER-PER-LINE>«Tres agujas en tres alturas difieren»
+---------------
+<CENTER-PER-LINE>«Tres tamaños distintos, el tiempo pasó»
+---------------
+<CENTER-PER-LINE>Artículo sobre asesinato
+---------------
+<CENTER-PER-LINE>Folleto turístico
+---------------
+<CENTER-PER-LINE>Cartera del inodoro
+---------------
+<CENTER-PER-LINE>Fotografía rota
+---------------
+<CENTER-PER-LINE>«Querido Tim»
+---------------
+<CENTER-PER-LINE>«Tres brillantes monedas en cinco agujeros»
+---------------
+<CENTER-PER-LINE>«Primero está el asiento del Incomparable»
+---------------
+<CENTER-PER-LINE>«Como monedas lanzadas al éter»
+---------------
+<CENTER-PER-LINE>«A la derecha está la dama»
+---------------
+<CENTER-PER-LINE>Historiales clínicos
+---------------
+<CENTER-PER-LINE>Diario del médico
+---------------
+<CENTER-PER-LINE>Mensaje en pizarra blanca
+---------------
+<CENTER-PER-LINE>Huellas en papel carbón
+---------------
+<CENTER-PER-LINE>Diario del tejado
+---------------
+<CENTER-PER-LINE>«Jira jira jira los números»
+---------------
+<CENTER-PER-LINE>«Louise»
+---------------
+<CENTER-PER-LINE>«Es un ángel»
+---------------
+<CENTER-PER-LINE>«Koji la yave del direktor»
+---------------
+<CENTER-PER-LINE>«Trastada o regalo»
+---------------
+<CENTER-PER-LINE>«Paisaje ribereño»
+---------------
+<CENTER-PER-LINE>Cuadro de Cabeza Pirámide
+---------------
+<CENTER-PER-LINE>Inscripción en la horca
+---------------
+<CENTER-PER-LINE>Leyenda del lago
+---------------
+<CENTER-PER-LINE>Periódico empapado en sangre
+---------------
+<CENTER-PER-LINE>«Que alguien me salve»
+---------------
+<CENTER-PER-LINE>«Hombres muertos»
+---------------
+<CENTER-PER-LINE>Diario del condenado
+---------------
+<CENTER-PER-LINE>«Muerte sobre la cabeza del pecador»
+---------------
+<CENTER-PER-LINE>Nota de la recepcionista
+---------------
+<CENTER-PER-LINE>Foto del baúl
+---------------
+<CENTER-PER-LINE>«lo sé, sé el número de la caja»
+---------------
+<CENTER-PER-LINE>Nota n.º 1 del cadáver
+---------------
+<CENTER-PER-LINE>Nota n.º 2 del cadáver
+---------------
+<CENTER-PER-LINE>Nota n.º 3 del cadáver
+---------------
+<CENTER-PER-LINE>Nota n.º 4 del cadáver
+---------------
+<CENTER-PER-LINE>Nota n.º 5 del cadáver
+---------------
+<CENTER-PER-LINE>Nota n.º 6 del cadáver
+---------------
+<CENTER-PER-LINE>Periódicos del escaparate
+---------------
+<CENTER-PER-LINE>«El niño perdido no estaba»
+---------------
+<CENTER-PER-LINE>«Muerte sobre la cabeza del pecador»
+---------------
+<CENTER-PER-LINE>Palabras escritas en la pared
+---------------
+<CENTER-PER-LINE>Número escrito en la pizarra blanca
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
+	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
+	orginalmente un pantano, pero
+	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
+	recibió el apodo de «pantano sangriento»
+	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
+	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
+	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
+	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
+	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>«La ruta hacia el mañana»
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El primer paso para una vida
+	sana es evitar la enfermedad.
+	Parecerá obvio, pero es
+	muy importante.
+	 Es mejor evitar las
+	enfermedades que tener que
+	buscar una cura tras enfermar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Además, hay que tener
+	una perspectiva positiva y
+	optimista de la vida. De poco
+	sirve preocuparse por las cosas
+	que ocurrieron en el pasado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Tienes que salir y disfrutar
+	del aire libre de vez en cuando,
+	en lugar de quedarte sentado
+	en tu casa, leyendo libros
+	complejos.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>«Cómo ser una pareja feliz»
+
+<CENTER-PARAGRAPH><COLOR-BLUE> ¿De verdad la amas?
+	 ¿En la salud y en la enfermedad?
+	 Si la amas de verdad, tienes
+	que actuar. Lo importante es
+	lo mucho que luches por ella.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> No te rindas, pase lo que
+	pase. Da siempre otra
+	oportunidad. Y a pesar de
+	los momentos más duros, nunca
+	te vayas con otra mujer.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Si llega el caso, debes estar
+	dispuesto a dar tu vida
+	por ella. Al fin y al cabo, el
+	verdadero amor supone estar
+	dispuesto a sacrificarse.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Sé fiel a tus sentimientos y,
+	con suerte, todo saldrá bien.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>«Elegir la muerte»
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Cuando la vida está llena
+	de desesperación, algunos
+	deciden acabar con todo.
+	 Yo también elegí ese camino
+	una vez.
+	 En aquel momento pensé
+	que no tenía otra salida.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Una vez tomé la decisión, esta
+	se convirtió en lo único que me
+	unía a este mundo.
+	 A veces me ponía a llorar
+	pensando en el pasado, pero
+	sobre todo, lo que hacía era
+	planificar una y otra vez cómo
+	y cuándo me iba a suicidar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Hice estupideces, cosas peligrosas.
+	Pensé que daba lo mismo,
+	iba a morir de todas formas,
+	y me empeñé en tentar a la
+	suerte.
+	 Dejé de hablar con la gente,
+	de darle importancia, aunque
+	me distanciara de las amistades.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><COLOR-BLUE>Henry
+	Mildred
+	Scott<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres agujas
+	en tres alturas difieren.
+	Una es gruesa,
+	una es alta y otra fina.
+	De lento a rápido
+	a la derecha se mueven.
+	Scott no se posa en el 3,
+	sino que en el 15 atina.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres tamaños distintos,
+	el tiempo pasó.
+	Tres jóvenes dando
+	vueltas alrededor del sol.
+	Henry es bajo,
+	y lento, lento va,
+	Scott no puede parar,
+	siempre en marcha está.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
+	que Walter Sullivan, detenido
+	el día 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidó en su celda en
+	la madrugada del 22.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
+	Sullivan se clavó una cuchara
+	sopera en el cuello, cortándose
+	la arteria carótida.
+	
+	 Cuando el guarda lo encontró,
+	Sullivan ya había muerto
+	desangrado, con la cuchara
+	hendida cinco centímetros
+	en el cuello.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
+	de Walter Sullivan, de su ciudad natal
+	de Pleasant River, declaró:
+	 «No parecía capaz de matar
+	a un niño.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
+	de que lo detuvieran decía
+	cosas extrañas, en plan:
+	“Quiere matarme. Quiere
+	castigarme. El monstruo...
+	el demonio rojo.
+	Perdonadme. Yo lo hice,
+	¡pero no fui yo!”».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
+	«Ahora que lo pienso, creo que
+	le faltaba algún tornillo».<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>¡Le damos la bienvenida
+	a Silent Hill!
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill es una pequeña y
+	tranquila ciudad turística
+	a orillas de un lago.
+	Nos alegra que haya decidido
+	visitarnos. Tómese un descanso
+	de su ajetreada vida y disfrute
+	de unas tranquilas vacaciones.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Hileras de pintorescas casas
+	antiguas.
+	 Un magnífico paisaje montañoso.
+	 Y un lago que muestra las distintas
+	facetas de su belleza a lo largo del
+	día, de sol a sol.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill le conmoverá y le hará
+	sentir una paz profunda.
+	Espero que su estancia sea agradable
+	y sus recuerdos perduren
+	para siempre.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Roger Widmark<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
+	 Tengo que irme a hacer un recado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
+	al tío David (Ya sabes dónde
+	vive, ¿no? La llave está
+	en la habitación más cercana
+	a la escalera del primer piso).
+	
+	 Volveré en cuanto pueda;
+	cuídame la casa mientras
+	estoy fuera, por favor.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres brillantes monedas
+	en cinco agujeros están
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En un extremo se halla el
+	seductor de la mujer de Adán
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sopla el viento a
+	espaldas de la mujer
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Y aquel que no tiene forma, el nulo,
+	de lejos los tiene que ver
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El anciano junto a la
+	serpiente no está
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Es a la izquierda del
+	prisionero donde se pudrirá<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Primero está el asiento
+	del Incomparable, Él,
+	silencioso y vacío,
+	inhumano y cruel
+	Junto a él se sienta
+	uno que sabe y admitirá
+	Que el lugar del criado
+	junto al trono está
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Docenas de pies,
+	y ni un solo dedo tendrá
+	Aquel que está oculto
+	junto a él partirá
+	Seductor de sueños,
+	ser que el infierno ama
+	Alejado del hombre,
+	cercano a la dama
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombre y mujer
+	todo lo pueden ver
+	A la llamada del cuervo
+	sin atender
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Silenciosos y ocultos
+	puede que los dos sean
+	Y no están ahí
+	para que tú los veas
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Devolviéndolos donde
+	estar deberían
+	La bendición sobre ti caería
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Así hablo, dando la espalda
+	a la estrella polar
+	El nacimiento del sol es
+	donde todo va a empezar<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Como monedas lanzadas
+	al éter brumoso
+	Nuestras almas caerán,
+	sus culpas les habrán hundido
+	A la Tierra han de llegar
+	en un descenso doloroso
+	Para "invertir" los pecados
+	que han cometido
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Solo aquellos que entonen
+	el mea culpa tres veces
+	Conocerán la dicha,
+	una felicidad sin creces
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La primera nota no la
+	toca el enastado
+	Aunque es ahí donde
+	surge todo pecado
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La portadora de vida
+	y portadora de desgracias
+	De esta última los pecados
+	no levantan suspicacias
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aunque a la estela del anciano
+	persigue nerviosa
+	El alma de la amorfa
+	se estremece temerosa
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El más silencioso
+	ha saciado sus anhelos
+	Peca menos al haber
+	mitigado sus deseos
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Para el mayor de los pecadores
+	su posición está elegida
+	Y si tiene suerte
+	tal vez su alma sea ungida<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>A la derecha está la dama.
+	A la izquierda el anciano.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En el centro se arrastra el otro.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ahora sólo quedan dos espacios,
+	pero aún no temas nada,
+	el enigma está resuelto.
+	El enigma está resuelto.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ha intentado suicidarse tres veces
+	por razones desconocidas. Aunque
+	suele ser un paciente modélico que
+	cumple las órdenes del médico y la
+	enfermera, hay que vigilarle de cerca
+	debido a sus repentinas tendencias
+	suicidas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Su enfermedad parece radicar
+	en el hecho de que se considera
+	culpable de la muerte de su hija.
+	Sus síntomas sugieren una crisis
+	psicótica y delirios paranoicos.
+	Normalmente está tranquilo,
+	pero tiene tendencias violentas
+	cuando se altera.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tiene un historial de
+	hospitalizaciones y numerosos
+	asaltos, maltratos y otros actos
+	violentos. Sufre de manías
+	persecutorias y tiende a recurrir
+	a la violencia.
+	Hay que extremar las precauciones
+	con este paciente.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> Todo el mundo está expuesto
+	a esta enfermedad y, bajo las
+	condiciones adecuadas, cualquier
+	persona acabará arrastrada,
+	como él, al "otro lado".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Tal vez "otro lado" no sea
+	la mejor descripción.
+	 Al fin y al cabo, no hay
+	un muro que separe ambos
+	lados. Está en la frontera
+	donde se cruzan la realidad
+	e irrealidad.
+	Es un lugar cercano y distante
+	al mismo tiempo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Hay quien dice que esto no es
+	ni siquiera una enfermedad.
+	 No estoy de acuerdo. Soy médico,
+	no un filósofo o un psiquiatra.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero a veces me planteo
+	esa misma pregunta.
+	 Es cierto que, para nosotros,
+	sus imaginaciones no son más
+	que las invenciones de una
+	mente calenturienta.
+	 Pero para él no existe otra
+	realidad. Es más, está feliz
+	en su mundo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Y me pregunto: ¿por qué
+	debemos arrastrarle dolorosamente
+	al mundo de nuestra propia
+	realidad para curarle?
+
+<COLOR-WHITE>Hay algo más escrito a mano.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Joseph me dio la llave.
+	Será de esa caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El número pin de este mes es T.
+	El mes pasado era X y el
+	del mes anterior fue el Z.
+	 ¿Pero qué harán el próximo mes?
+	No se puede hacer más
+	con 4 números.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Además, ¿de verdad es necesario
+	cambiar la combinación de
+	la puerta del ala de pacientes
+	tan a menudo?<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sé el secreto les daré algo
+	de qué ocuparse este refugio
+	contra demonios ya no es útil
+	él es mi instrumento debe
+	cumplir mis órdenes sí
+
+<CENTER-PARAGRAPH><COLOR-BLUE>la caja será inútil ahora no debo
+	olvidarlo <VARIABLE-01> muy bien
+	él es lo peor ahora yo también
+	seré libre y él me servirá soy
+	un genio nadie puede detenerme
+	puede detenerme nadie puede
+	detenerme puede detener<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sé sé el número de la caja <VARIABLE-01>
+	ya no puede ayudarle los botones ya
+	no me asustan y nadie puede impedir
+	quien soy no sé quién soy es quien
+	soy es quien soy<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>9 de mayo
+	Llueve.
+	Llevo todo el día mirando
+	por la ventana. Está tranquilo,
+	no tengo nada que hacer.
+	Todavía no me dejan salir.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>10 de mayo
+	Sigue lloviendo.
+	He hablado con el médico.
+	¿Me habrían salvado si no
+	tuviera una familia que
+	me echara de menos?
+	Sé que doy pena, que soy débil.
+	No todo el mundo puede
+	ser fuerte.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>11 de mayo
+	Vuelve a llover.
+	Hoy la medicación
+	me ha dado náuseas.
+	Si sólo estoy mejor
+	cuando me la tomo,
+	¿entonces quién soy?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>12 de mayo
+	Más lluvia.
+	No quiero dar más problemas
+	a nadie, pero no dejo de ser
+	un estorbo.
+	¿Por qué se considera un pecado
+	abandonar la lucha?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Algunos dirán que es así, pero
+	no saben lo que tengo que sufrir.
+	Seré egoista, pero es lo
+	que quiero.
+	Esto es demasiado duro.
+	Demasiado...
+
+<CENTER-PARAGRAPH><COLOR-BLUE>13 de mayo
+	Ha clareado.
+	Los médicos me han dicho que
+	me dan el alta, que tengo que
+	irme a casa.
+	Y<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
+---------------
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira jira jira los números
+	mejor no olvidarlos
+	Por eso los eskriba aquí
+	El otro, mi nombre secreto<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+	Siempre cuidaré de ti
+	¡Es mi destino!<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Es un ángel que nadie conoce
+	sólo yo puedo ver a la dama de la
+	puerta no pueden andar sobre
+	su puente de hilos caerán por
+	el peso de sus crímenes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sus pecados son como horribles
+	e hinchados cadáveres ella devora
+	tanto pecado como pecador
+	me salvará es un ángel.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Koji la yave del direktor la del
+	museo. La escondi detrás de la
+	mujer que reza cuando sali
+	de excursion. La koji pero no la
+	robe. No zoy un kriminal.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>«Paisaje ribereño»
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
+	y defunción desconocidas)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
+	Por el estilo, parece que se pintó
+	sobre la década de 1820.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces había mucha
+	menos gente y apenas un puñado
+	de edificios.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
+	los Tres Pecados.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El lago Toluca es la principal
+	atracción turística de la ciudad.
+	 Este bello y cristalino lago
+	tiene también un lado oculto.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Esta puede parecer la típica
+	historia de fantasmas que existe
+	en muchas de las viejas localidades
+	de todo el país, pero en este
+	caso, la leyenda es cierta.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> En un neblinoso día de
+	noviembre de 1918, el Little
+	Baroness, un barco lleno de
+	turistas, no regresó a puerto.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Un artículo de la época se limitaba
+	a decir que «lo más probable es
+	que se haya hundido por alguna
+	razón».
+	 A pesar de la búsqueda policial,
+	hasta hoy no se ha hallado ni un
+	resto del barco ni de los 14
+	cuerpos de la tripulación y el
+	pasaje.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> En 1939 tuvo lugar un incidente
+	aún más extraño.
+
+<COLOR-WHITE>Hay muchas páginas arrancadas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Muchos cadáveres yacen en el
+	fondo del lago. Sus huesudas manos
+	se alzan hacia los barcos que pasan
+	por encima, quizás en busca de
+	sus camaradas.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El cu<HIDDEN-TEXT>erpo d<HIDDEN-TEXT>e un hombre que
+	fue posteriormente identificado
+	como Thomas Oro<HIDDEN-TEXT>sco,<HIDDEN-TEXT> un leñador
+	de 39 a<HIDDEN-TEXT>ños<HIDDEN-TEXT>, fue descubierto en
+	<HIDDEN-TEXT>su habit<HIDDEN-TEXT>ación tumbado bo<HIDDEN-TEXT>ca<HIDDEN-TEXT>
+	<HIDDEN-TEXT>arriba.<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE> La probable causa de la mue<HIDDEN-TEXT>rte<HIDDEN-TEXT>
+	<HIDDEN-TEXT>fu<HIDDEN-TEXT>eron varias puñaladas en la
+	parte delantera del cuello y en
+	el costado izquierdo, provocadas
+	por un arma afilada.
+	La muerte oc<HIDDEN-TEXT>urrió<HIDDEN-TEXT> aproximadamente
+	entre las 23:0<HIDDEN-TEXT>0 y<HIDDEN-TEXT> la medianoche.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Debido a los indicios de lucha
+	en la habitación y la ausencia
+	del arma homicida, la policía está
+	sos<HIDDEN-TEXT>pech<HIDDEN-TEXT>ando de un homicidio
+	y ha abierto una investigación
+	por asesinato.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Además, dado que no se había
+	tocado el dinero de la habitación
+	y que el Sr. Oro<HIDDEN-TEXT>sco te<HIDDEN-TEXT>nía
+	antecedentes de alcoholismo y
+	violencia, la polic<HIDDEN-TEXT>ía sosp<HIDDEN-TEXT>echa
+	que e<HIDDEN-TEXT>l mo<HIDDEN-TEXT>tivo no fue un robo,<HIDDEN-TEXT> sino<HIDDEN-TEXT>
+	<HIDDEN-TEXT>algún tipo <HIDDEN-TEXT>de crimen p<HIDDEN-TEXT>asio<HIDDEN-TEXT>nal.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Él cometió un crimen diabólico.
+	Redujo un hogar feliz
+	a un montón de cenizas.
+	Por eso debería morir.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ellos también
+	cometieron crímenes.
+	Trataron de estafar
+	y engañar a otros.
+	Así que su recompensa
+	también es la más lógica.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ese tampoco se merece el perdón,
+	a mi amigo le falta la mano izquierda.
+	Por eso su muerte no me importa.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>¿Y qué decir de él?
+	Tampoco está libre de pecado.
+	Aquí sólo hay uno
+	que es inocente.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>El niño perdido no
+	apareció por ninguna parte,
+	así que no hubo pruebas
+	de su culpabilidad.
+	Su muerte fue una tragedia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Eso es todo lo que quiero decir.
+	No fue ni justicia ni castigo.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
+	muertos y colgados del revés
+	¿Cuántos hombres muertos ves?
+	La lengua azul, plumas y brea
+	El muerto gira y se balancea
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El primero mató al carnicero
+	Lo descuartizó sobre un puchero
+	Más tarde lo cocinó
+	Y a sus invitados se lo ofreció
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El segundo con engaños
+	A pobres niños raptó
+	Y a los hombres repugnantes
+	como esclavos los vendió
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Entrando de noche a hurtadillas
+	El ladrón no vió las trampillas
+	Y llena de alcohol su cabeza
+	Despertó de mañana entre rejas
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El falsificador avezado
+	Quiso pagar al contado
+	Probó suerte pintando billetes
+	Pero acabó entre grilletes
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Con ansias de gran beneficio
+	Robó el oro de un edificio
+	Lo envolvió y ocultó a la vista
+	Pero nadie encontró su pista
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres casas ardieron de noche
+	El sheriff recibió un reproche
+	A un forastero echó el ojo
+	Lo encerró, pateó y dejo cojo
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
+	muertos y colgados del revés
+	¿Cuántos hombres muertos ves?
+	Los seis fueron al mismo lugar
+	Una cuerda que les va a ahorcar<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir.
+	
+	 Pero mañana subiré al patíbulo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Por favor, que alguien me responda,
+	¿por qué debo morir al amanecer?
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El prisionero que tengo al lado
+	me cree. Dijo: "Porque están
+	todos locos, y ya está".
+	
+	 Por supuesto, sé que su opinión
+	no cambiará nada. Murmuró:
+	"Ahora sabes por qué les di
+	una paliza".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El hombre que ejecutaron ayer,
+	el que había dicho que su trabajo
+	era vender sueños, dijo que eso
+	no era verdad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero el que ejecutarán
+	pasado mañana por raptar niños
+	le gritó que sí era verdad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El hombre al que colgaron hoy
+	no les contestó. Solo dijo:
+	"Me matarán de todas formas".
+	Lo arrestaron por malversación,
+	así que que no espera clemencia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El que siempre sonríe
+	tranquilamente dijo: "Yo soy feliz,
+	pronto estaré con ella".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir. Sólo quiero
+	volver a casa. Pero sé que no
+	lo haré. Aunque no haya hecho
+	nada, este crimen me lo han
+	achacado a mí.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Que alguien me salve.
+	Esto no es un castigo.
+	¡Están sedientos de sangre
+	y yo soy el cordero a sacrificar!<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Podemos asignar la muerte
+	sobre la cabeza del pecador,
+	pero, ¿para qué?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Hoy, en nombre del castigo,
+	formamos parte de una
+	amarga comedia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tú, el colgado por el cuello,
+	no tuviste nuestro perdón,
+	sino nuestras maldiciones.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cinco de ellos cometieron
+	crímenes, seis salieron a beber
+	y fueron capturados.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sólo uno era inocente,
+	pero ellos no lo sabían.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Las manchas de sangre que quedan
+	son prueba de su culpabilidad.
+	Estos trillados caminos son los que
+	llevan al infierno o al vacío.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Las vendas blancas
+	manchadas de rojo,
+	Los restos sobre
+	la tierra quemada,
+	Los llantos susurrados
+	de la doncella.
+	Sus contratos
+	sin ningún sentido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Estos también son
+	signos de culpabilidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero uno de ellos fue
+	ajusticiado sin razón.
+	Lo mataron por temor
+	y una imaginación
+	desbocada.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Solo, al final de una cuerda,
+	no es nada menos que una
+	desgracia para todos.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Sr. James Sunderland:
+	
+	La cinta de vídeo que se dejó
+	está guardada en la oficina
+	del primer piso.<SEPARATORB>
+---------------
+<COLOR-BLUE>«Día neblinoso,
+	restos del juicio»<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Pasillo ala pacientes
+	del tercer piso: 7335<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Voy a escribir todo lo que
+	he aprendido hasta ahora.
+	Tal vez eso te sea
+	de alguna ayuda.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si estás leyendo esto,
+	probablemente ya estoy muerto.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>He visto a esos demonios.
+	Sé que estaban ahí.
+	Pero mi amigo no vio nada.
+	Si es así, ¿entonces lo que
+	vi era una ilusión?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero aunque ese demonio que
+	comía seres humanos fuese real
+	o nada más que una alucinación...
+	Una cosa de la que estoy seguro
+	es que no tengo ninguna
+	posibilidad.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Parece que les atrae la luz.
+	Por ese motivo, aquellos
+	que necesitan luz para ver
+	son sus presas naturales.
+	También reaccionan a los sonidos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si quieres seguir viviendo,
+	será mejor que te quedes
+	en la oscuridad y en silencio.
+	Pero seguramente eso no bastará
+	para salvarte.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Si vas a luchar contra ellos,
+	lo más importante es que mantener
+	la calma. Es peligroso usar
+	una pistola en pleno pánico.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Primero apunta bien y entonces
+	aprieta el gatillo. Y no te
+	olvides de rematarlos.
+	Creo que la mayoría de esas
+	criaturas se pueden matar,
+	aunque sean más duras que
+	una persona cualquiera.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Huye.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>¡Huye! ¡Huye! ¡Huye!
+	¡Huye! ¡Huye! ¡Huye!
+	¡Huye! ¡Huye! ¡Huye!<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Si de verdad quieres ver a Mary,
+	deberías morir.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero a lo mejor acabas en
+	un lugar distinto al de Mary, James.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aquí había un AGUJERO.
+	Ahora ha desaparecido.<SEPARATORB>
+---------------
+<CENTER-PER-LINE>«Hay una carta y una llave inglesa»
+---------------
+<CENTER-PER-LINE>«La llave está en el parque»
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Quien no tenga el valor suficiente
+	para dejar que lo observen
+	desde el abismo, no tendrá el valor
+	suficiente para encararse a él.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La verdad sólo se encontrará
+	avanzando hacia delante.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sigue el mapa.
+	Ahí hay una carta y una llave inglesa.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>O tal vez estés loco.
+	La verdad suele traicionar a la gente.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Una parte de ese abismo
+	está en la vieja sociedad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La llave de la sociedad
+	está en el parque.
+	A los pies de la mujer que reza,
+	bajo tierra, dentro de una caja.
+	Para abrirla necesito
+	una llave inglesa.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi paciente la enterró ahí.
+	Yo lo sabía, pero no hice nada.
+	Me incomodaba tener
+	esa cosa tan cerca.
+	Yo no buscaba la verdad,
+	sólo buscaba tranquilidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>También vi a esa cosa.
+	Escapé, pero el museo
+	también estaba sellado.
+	Ahora nadie se atreve
+	a acercarse a ese lugar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si aún no quieres detenerte, James,
+	rezaré al Señor para que
+	se apiade de tu alma eterna.<SEPARATORB>
+---------------
+<CENTER-PER-LINE>«El sótano del sótano»
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
+	el sótano del sótano.
+	Era muy pequeño y oscuro
+	y yo tuve muchísimo miedo.
+	Se me cayó mi precioso anillo.
+	Pero nunca jamás volveré allí.<SEPARATORB>
+---------------
+<CENTER-PER-LINE>Cuadro 1 de la celda
+---------------
+<CENTER-PER-LINE>Cuadro 2 de la celda
+---------------
+<CENTER-PER-LINE>Cuadro 3 de la celda
+---------------
+<COLOR-BLUE>Hombre ardiendo<SEPARATORB>
+---------------
+<COLOR-BLUE>Mujer volando<SEPARATORB>
+---------------
+<COLOR-BLUE>436 personas en un recital<SEPARATORB>
+---------------
+<CENTER-PER-LINE>Mapa del bar
+---------------
+<CENTER-PER-LINE>Mapa hallado cerca de un puente
+---------------
+<CENTER-PER-LINE>Diario del guarda de la prisión
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> Los prisioneros no sienten
+	remordimientos. De hecho,
+	no se les pasa por la cabeza
+	que puedan ser malvados.
+	 Incluso el animal más analfabeto
+	usará las pocas palabras que
+	sepa para justificarse.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Y tendrán sueños así de
+	insignificantes, que florecen
+	incluso en la oscuridad.
+	Los prisioneros no son ninguna
+	excepción.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Al margen de lo infecta o detestable
+	que sea la existencia y vida de uno,
+	la naturaleza humana es pertinaz.<SEPARATORB>

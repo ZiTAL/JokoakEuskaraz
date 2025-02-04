@@ -1,0 +1,37 @@
+﻿--------------- strings=9 language=spanish
+---------------
+<COLOR-BLUE>Heaven's Night<SEPARATORB>
+---------------
+Sólo es una mesa.
+	No tiene nada extraño.<SEPARATORB>
+---------------
+Un escenario.
+	No tiene nada extraño.<SEPARATORB>
+---------------
+Latas vacías, fregadero,
+	cajas de cartón...
+	No hay nada útil.<SEPARATORB>
+---------------
+La caja está vacía.<SEPARATORB>
+---------------
+Hay varias cajas de cartón apiladas.
+	No parece que haya nada útil.<SEPARATORB>
+---------------
+Botellas de licor.
+	Ahora no las necesito.
+
+No es que no beba.
+	De hecho, bebo bastante.
+
+Para escapar del dolor,
+	de la soledad...
+	Pero la bebida nunca cambia nada.
+
+En fin, ahora no la necesito.
+	Hay algo que debo hacer.<SEPARATORB>
+---------------
+Botellas de licor.
+	No hay nada de interés.<SEPARATORB>
+---------------
+Un jarrón.
+	No hay nada de interés.<SEPARATORB>

@@ -1,0 +1,108 @@
+﻿--------------- strings=32 language=spanish
+---------------
+La taquilla no se abre.<SEPARATORB>
+---------------
+No parece haber nada útil por aquí.<SEPARATORB>
+---------------
+Había una aguja
+	clavada en el peluche.<SEPARATORB>
+---------------
+Sólo es un peluche.
+	No hay nada más.<SEPARATORB>
+---------------
+Hay algo en el bolsillo de la bata.<SEPARATORB>
+---------------
+Una bata de laboratorio.
+	No hay nada especialmente
+	interesante.<SEPARATORB>
+---------------
+Una máquina de escribir.
+	No me sirve para nada.<SEPARATORB>
+---------------
+Una máquina de escribir.
+	No me sirve para nada.
+
+Espera un momento...
+	¿Qué es esto...?
+
+Hay una hoja de papel carbón
+	que sigue metida en la máquina.
+
+Puedo leer lo que tiene impreso.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sé el secreto les daré algo
+	de qué ocuparse este refugio
+	contra demonios ya no es útil
+	él es mi instrumento debe
+	cumplir mis órdenes sí
+
+<CENTER-PARAGRAPH><COLOR-BLUE>la caja será inútil ahora no debo
+	olvidarlo <VARIABLE-01> muy bien
+	él es lo peor ahora yo también
+	seré libre y él me servirá soy
+	un genio nadie puede detenerme
+	puede detenerme nadie puede
+	detenerme puede detener<SEPARATORB>
+---------------
+Papeles desperdigados.
+	Están en blanco.<SEPARATORB>
+---------------
+Hay una tapa sobre el botón
+	de llamada del ascensor.
+
+No tengo forma de abrirla.<SEPARATORB>
+---------------
+Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+Hay una <COLOR-GREEN>escopeta<COLOR-WHITE> en la taquilla.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>escopeta<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>aguja torcida<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	de la sala de reconocimiento<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	del ojo de lapis<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+---------------
+¡Ay!
+---------------
+¿Qué ocurre?
+---------------
+Me he pinchado...
+---------------
+¿Estás bien?
+---------------
+Sí.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sé sé el número de la caja <VARIABLE-01>
+	ya no puede ayudarle los botones ya
+	no me asustan y nadie puede impedir
+	quien soy no sé quién soy es quien
+	soy es quien soy<SEPARATORB>
+---------------
+Aquí no hay nada interesante.<SEPARATORB>
+---------------
+Una televisión.
+	Parece que está rota.<SEPARATORB>
+---------------
+Aquí no hay nada que parezca útil.<SEPARATORB>
+---------------
+En el tablero de anuncios
+	hay algo colgado.
+	Pero no parece interesante.<SEPARATORB>
+---------------
+No puedo quedarme mirando
+	un estúpido póster.<SEPARATORB>
+---------------
+No hay nada especial
+	dentro del armario.<SEPARATORB>
+---------------
+Una revista. Ahora mismo
+	no me sirve para nada.<SEPARATORB>
+---------------
+Una bolsa. Está vacía.<SEPARATORB>

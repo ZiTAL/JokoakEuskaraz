@@ -1,0 +1,272 @@
+﻿--------------- strings=72 language=spanish
+---------------
+Una foto...<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres brillantes monedas
+	en cinco agujeros están
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En un extremo se halla el
+	seductor de la mujer de Adán
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sopla el viento a
+	espaldas de la mujer
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Y aquel que no tiene forma, el nulo,
+	de lejos los tiene que ver
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El anciano junto a la
+	serpiente no está
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Es a la izquierda del
+	prisionero donde se pudrirá<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Primero está el asiento
+	del Incomparable, Él,
+	silencioso y vacío,
+	inhumano y cruel
+	Junto a él se sienta
+	uno que sabe y admitirá
+	Que el lugar del criado
+	junto al trono está
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Docenas de pies,
+	y ni un solo dedo tendrá
+	Aquel que está oculto
+	junto a él partirá
+	Seductor de sueños,
+	ser que el infierno ama
+	Alejado del hombre,
+	cercano a la dama
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombre y mujer
+	todo lo pueden ver
+	A la llamada del cuervo
+	sin atender
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Silenciosos y ocultos
+	puede que los dos sean
+	Y no están ahí
+	para que tú los veas
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Devolviéndolos donde
+	estar deberían
+	La bendición sobre ti caería
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Así hablo, dando la espalda
+	a la estrella polar
+	El nacimiento del sol es
+	donde todo va a empezar<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Como monedas lanzadas
+	al éter brumoso
+	Nuestras almas caerán,
+	sus culpas les habrán hundido
+	A la Tierra han de llegar
+	en un descenso doloroso
+	Para "invertir" los pecados
+	que han cometido
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Solo aquellos que entonen
+	el mea culpa tres veces
+	Conocerán la dicha,
+	una felicidad sin creces
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La primera nota no la
+	toca el enastado
+	Aunque es ahí donde
+	surge todo pecado
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La portadora de vida
+	y portadora de desgracias
+	De esta última los pecados
+	no levantan suspicacias
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aunque a la estela del anciano
+	persigue nerviosa
+	El alma de la amorfa
+	se estremece temerosa
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El más silencioso
+	ha saciado sus anhelos
+	Peca menos al haber
+	mitigado sus deseos
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Para el mayor de los pecadores
+	su posición está elegida
+	Y si tiene suerte
+	tal vez su alma sea ungida<SEPARATORB>
+---------------
+Hay algo escrito en la mesa.<SEPARATORB>
+---------------
+En la mesa hay una hilera
+	de cinco hoyos circulares
+	de unos tres centímetros.<SEPARATORB>
+---------------
+¿En qué agujero vas a introducir
+	la moneda?<SEPARATORB>
+---------------
+¿Qué moneda vas a sacar?<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>moneda
+	del prisionero<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	de la casa de Lyne<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>crisma blanco<COLOR-WHITE>.<SEPARATORB>
+---------------
+No hay nada interesante
+	sobre el escritorio.<SEPARATORB>
+---------------
+Es usted...
+---------------
+Sí...
+---------------
+Soy James.
+---------------
+Angela...
+---------------
+Angela... De acuerdo.
+---------------
+No sé lo que está planeando...
+---------------
+pero siempre hay alternativas.
+---------------
+¿De verdad?
+---------------
+Pero...
+---------------
+Usted es como yo.
+---------------
+Es más fácil huir.
+---------------
+Y esto es lo que nos merecemos.
+---------------
+No. No soy como usted.
+---------------
+¿Está asustado?
+---------------
+Eh... Lo siento.
+---------------
+No importa...
+---------------
+¿Ha encontrado a su madre?
+---------------
+Aún no. No la he visto.
+---------------
+¿Ella vivía en este edificio
+	de apartamentos?
+---------------
+No lo sé...
+---------------
+¿Sólo sabe que vivía
+	en esta ciudad?
+---------------
+¿Qué ha dicho?
+---------------
+¿Cómo lo sabe?
+---------------
+Bueno...
+---------------
+Lo he supuesto, porque
+	la está buscando por aquí.
+---------------
+¡¿Cómo iba a saberlo?!
+---------------
+Claro...
+---------------
+¿Estoy en lo cierto?
+---------------
+Estoy tan cansada...
+---------------
+Bueno, ¿entonces por qué
+	ha venido a esta ciudad?
+---------------
+Lo... Lo siento.
+---------------
+¿Ha encontrado...
+	a la persona que busca?
+---------------
+Aún no.
+---------------
+Se llama Mary. Es mi esposa...
+---------------
+Lo siento.
+---------------
+No importa.
+---------------
+Pero... está muerta.
+	No sé por qué creo que está aquí.
+---------------
+¿Está muerta?
+---------------
+No se preocupe, no estoy loco.
+	Por lo menos, no creo estarlo...
+---------------
+Tengo que encontrar a mi mamá...
+---------------
+¿Quiere que la acompañe?
+---------------
+Esta ciudad es peligrosa.
+---------------
+Ahora sé lo que quiso decir
+	en el cementerio.
+---------------
+Me las apañaré.
+	Además, le haría perder el tiempo.
+---------------
+¿Qué me dice de eso?
+---------------
+¿Me... lo guardaría?
+---------------
+Claro. No hay problema.
+---------------
+Si me lo quedo...
+---------------
+no sé que podría hacer.
+---------------
+¡No!
+---------------
+Lo siento... He sido mala...
+	Por favor, no...
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>A la derecha está la dama.
+	A la izquierda el anciano.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En el centro se arrastra el otro.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ahora sólo quedan dos espacios,
+	pero aún no temas nada,
+	el enigma está resuelto.
+	El enigma está resuelto.<SEPARATORB>
+---------------
+La puerta no se abre.
+
+Es como si alguna fuerza
+	mantuviera la puerta cerrada
+	por el otro lado...
+
+y no quiera dejarme pasar
+	hasta que encuentre algo...
+	o a alguien...<SEPARATORB>
+---------------
+No hay nada en la estantería
+	que parezca de utilidad.<SEPARATORB>
+---------------
+Un osito de peluche.
+	Sería del chico que vivía aquí.<SEPARATORB>
+---------------
+Un cuadro.
+	No tiene nada especialmente
+	interesante.<SEPARATORB>
+---------------
+Hay revistas tiradas por el suelo.
+	No tienen nada extraño.<SEPARATORB>
+---------------
+No veo nada útil por aquí.<SEPARATORB>
+---------------
+No hay nada que parezca
+	de utilidad.<SEPARATORB>
+---------------
+Ahí no hay nada que parezca
+	tener utilidad.<SEPARATORB>

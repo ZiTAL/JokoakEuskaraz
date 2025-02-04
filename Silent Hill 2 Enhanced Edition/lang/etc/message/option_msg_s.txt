@@ -1,0 +1,521 @@
+﻿--------------- strings=259 language=spanish
+---------------
+Salir
+---------------
+Salir de las opciones
+---------------
+Nivel de brillo
+---------------
+Ajustar el brillo de la pantalla
+---------------
+<TEXT-POS-080>Cambia el nivel de brillo
+	hasta que las líneas horizontales
+	sean apenas perceptibles.
+---------------
+Ｎ<XOFFSET-04>ｉ<XOFFSET-06>ｖ<XOFFSET-04>ｅ<XOFFSET-06>ｌ<XOFFSET-04>　<VARIABLE-01>
+---------------
+Opciones de control
+---------------
+Cambiar los controles del juego
+---------------
+SALIR
+---------------
+Tipo <VARIABLE-01>
+---------------
+Seleccionar
+---------------
+Cancelar
+---------------
+Omitir
+---------------
+Acción
+---------------
+Apuntar
+---------------
+Linterna
+---------------
+Correr/Guardia
+---------------
+Modo de búsqueda
+---------------
+Paso izquierda
+---------------
+Paso derecha
+---------------
+Pausa
+---------------
+Objetos
+---------------
+Mapa
+---------------
+Opciones
+---------------
+REINICIAR
+---------------
+Posición de pantalla
+---------------
+Ajustar la posición de la pantalla
+---------------
+X: <VARIABLE-01>  Y: <VARIABLE-02>
+---------------
+Vibración
+---------------
+Ajustar la vibración del mando
+---------------
+Suave
+---------------
+Fuerte
+---------------
+Carga rápida
+---------------
+Cargar una partida al arrancar
+---------------
+Altavoces
+---------------
+Cambiar la configuración de altavoces
+---------------
+Estéreo
+---------------
+Estéreo/Altavoces
+---------------
+Estéreo/Auriculares
+---------------
+Monaural
+---------------
+Volumen de música
+---------------
+Ajustar la música de fondo
+---------------
+Volumen de efectos
+---------------
+Ajustar los efectos sonoros
+---------------
+Control de armas
+---------------
+Cambiar la forma de apuntar con armas
+---------------
+Pulsar
+---------------
+Alternativo
+---------------
+Color de la sangre
+---------------
+Establecer el color de la sangre
+---------------
+Verde
+---------------
+Violeta
+---------------
+Negra
+---------------
+Control de cámara
+---------------
+Cambiar el control de la cámara
+---------------
+Media vuelta
+---------------
+Cambiar la dirección de la media vuelta
+---------------
+Andar/Correr
+---------------
+Establecer la velocidad por defecto
+---------------
+Autoapuntado
+---------------
+Activar o desactivar el autoapuntado
+---------------
+Modo de cámara
+---------------
+Cambiar la acción del modo de búsqueda
+---------------
+Búsqueda
+---------------
+Mirar al personaje
+---------------
+Ajuste de munición
+---------------
+Cambiar el número de balas
+---------------
+x <VARIABLE-01>
+---------------
+Sí
+---------------
+No
+---------------
+Normal
+---------------
+Invertir
+---------------
+ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ
+---------------
+ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ　ＤＥＬ　<XOFFSET-02>Ｊ<XOFFSET-02>ＵＥＧＯ
+---------------
+Subtítulos
+---------------
+Activar o desactivar los subtítulos
+---------------
+Idioma
+---------------
+Seleccionar el idioma del juego
+---------------
+Japonés
+---------------
+Inglés
+---------------
+Alemán
+---------------
+Francés
+---------------
+Italiano
+---------------
+Castellano
+---------------
+Tipo de control
+---------------
+Estilo de rotación
+---------------
+Estilo de dirección
+---------------
+Seleccionar el tipo de control
+---------------
+Curar
+---------------
+¿Cambiar los ajustes?
+---------------
+Sí.
+---------------
+No.
+---------------
+Mirar alrededor
+---------------
+Mover/Girar
+---------------
+Mapa
+---------------
+Acercar
+---------------
+Alejar
+---------------
+Efecto de ruido
+---------------
+Ajustar el ruido de la pantalla
+---------------
+Ajustar la posición normal del mapa
+---------------
+Apuntar a dcha.
+---------------
+Apuntar a izda.
+---------------
+Andar
+---------------
+Correr
+---------------
+Analógico
+---------------
+Establecer la calidad del sonido
+---------------
+Calidad de sonido
+---------------
+Buena
+---------------
+Girar a la izda.:
+---------------
+Girar a la dcha.:
+---------------
+Ir hacia delante:
+---------------
+Ir hacia atrás:
+---------------
+Paso a la izda.:
+---------------
+Paso a la dcha.:
+---------------
+Acción:
+---------------
+Cancelar:
+---------------
+Omitir/Pausa:
+---------------
+Correr/Guardia:
+---------------
+Modo de búsqueda:
+---------------
+Inventario:
+---------------
+Linterna:
+---------------
+Mapa:
+---------------
+Curar:
+---------------
+Fijar objetivo:
+---------------
+Arma siguiente:
+---------------
+Arma anterior:
+---------------
+Recargar:
+---------------
+Desequipar arma:
+---------------
+Guardado rápido:
+---------------
+Carga rápida:
+---------------
+Mover a la izda.:
+---------------
+Mover a la dcha.:
+---------------
+Ir hacia delante:
+---------------
+Ir hacia atrás:
+---------------
+Objetivo izdo.:
+---------------
+Objetivo dcho.:
+---------------
+Acción:
+---------------
+Cancelar:
+---------------
+Omitir/Pausa:
+---------------
+Correr/Defensa:
+---------------
+Modo de búsqueda:
+---------------
+Inventario:
+---------------
+Linterna:
+---------------
+Mapa:
+---------------
+Curar:
+---------------
+Fijar objetivo:
+---------------
+Arma siguiente:
+---------------
+Arma anterior:
+---------------
+Recargar:
+---------------
+Desequipar arma:
+---------------
+Guardado rápido:
+---------------
+Carga rápida:
+---------------
+Reiniciar
+---------------
+¿¿¿???
+---------------
+Función
+---------------
+Teclado
+---------------
+Joystick
+---------------
+Eje X1
+---------------
+Eje Y1
+---------------
+Eje X2
+---------------
+Eje Y2
+---------------
+Eje X3
+---------------
+Eje Y3
+---------------
+Botón
+---------------
+Volver
+---------------
+Terminar
+---------------
+Opciones avanzadas
+---------------
+ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ　ＡＶＡＮＺＡＤＡＳ
+---------------
+Res. de imagen
+---------------
+320x240
+---------------
+640x480
+---------------
+800x600
+---------------
+1024x768
+---------------
+1280x1024
+---------------
+1600x1200
+---------------
+Sombras
+---------------
+No
+---------------
+Sí
+---------------
+Niebla
+---------------
+Simple
+---------------
+Compleja
+---------------
+Filtros avanzados
+---------------
+Sonido 3D
+---------------
+Sin virtualizar
+---------------
+Virtualizado leve
+---------------
+Virtualizar
+---------------
+Hardware 3D en uso
+---------------
+Dolby Digital 5.1
+---------------
+No disponible
+---------------
+Opciones del juego
+---------------
+Ver opciones de juego adicionales
+---------------
+Ver las opciones gráficas y de sonido
+---------------
+Destellos de luz
+---------------
+Texturas alta resol.
+---------------
+Mono
+---------------
+Estéreo
+---------------
+Cuadrafónico
+---------------
+Surround
+---------------
+Sonido 5.1
+---------------
+Sonido 7.1
+---------------
+Auriculares
+---------------
+Directo
+---------------
+Ajustar la resolución de pantalla
+---------------
+Usar sombras dinámicas
+---------------
+Cambiar la complejidad de la niebla
+---------------
+Usar efectos de filtro avanzados
+---------------
+Ajustar el sonido 3D por software
+---------------
+Usar sonido Dolby Digital 5.1
+---------------
+Activar los efectos de destellos de luz
+---------------
+Usar texturas en alta resolución
+---------------
+Menú de escenas
+---------------
+M E N Ú   D E   E S C E N A S
+---------------
+Ver las escenas del juego
+---------------
+Seleccionar una película
+---------------
+Introducción
+---------------
+Introducción (con voces)
+---------------
+James en los aseos
+---------------
+James y Angela en el cementerio
+---------------
+James y Eddie en los apartamentos
+---------------
+Angela con su cuchillo
+---------------
+James encuentra a Laura en la pared
+---------------
+James se encuentra con María
+---------------
+Flashback del hotel
+---------------
+María y James en el hospital
+---------------
+María entre rejas
+---------------
+Eddie en el suelo
+---------------
+Eddie se enfrenta a James
+---------------
+La cinta de Mary
+---------------
+Desenlace de James: María
+---------------
+Desenlace de James: Resurrección
+---------------
+Desenlace de James: Suicidio
+---------------
+Desenlace de James: Marcha
+---------------
+Desenlace de María
+---------------
+Desenlace del perro
+---------------
+Tráiler de SH2 para E3 2001
+---------------
+Tráiler de SH3 para E3 2002
+---------------
+Créditos de SH2 para PC
+---------------
+Tráiler de SH3 para TGS 2002
+---------------
+CARGAR
+---------------
+CONTINUAR
+---------------
+NUEVA PARTIDA
+---------------
+OPCIÓN
+---------------
+ESCENAS
+---------------
+SALIR
+---------------
+HISTORIA PRINCIPAL: CARTA DEL SILENCIOSO CIELO
+---------------
+HISTORIA SECUNDARIO: NACIDA DE UN DESEO
+---------------
+NIVEL DE ACCIÓN
+---------------
+NIVEL DE ENIGMAS
+---------------
+DIFÍCIL
+---------------
+NORMAL
+---------------
+FÁCIL
+---------------
+PRINCIPIANTE
+---------------
+HISTORIA PRINCIPAL: Carta del silencioso cielo
+---------------
+HISTORIA SECUNDARIA: Nacida de un deseo
+---------------
+Modo de imagen
+---------------
+Cambiar el modo de la imagen
+---------------
+En ventana
+---------------
+P. comp. en ventana
+---------------
+Pantalla completa

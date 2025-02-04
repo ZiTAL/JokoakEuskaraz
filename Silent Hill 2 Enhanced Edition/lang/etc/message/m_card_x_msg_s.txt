@@ -1,0 +1,445 @@
+﻿--------------- strings=217 language=spanish
+---------------
+Guardar en cualquier sitio
+---------------
+Nombre no decidido
+---------------
+<COLOR-WHITE>Bosque
+---------------
+<COLOR-WHITE>Aparcamiento
+---------------
+<COLOR-WHITE>Caravana
+---------------
+<COLOR-WHITE>Apartam., escalera SO
+---------------
+<COLOR-WHITE>Apartam., habitación 2.ª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 1.ª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 2.ª plta.
+---------------
+<COLOR-WHITE>Motel
+---------------
+<COLOR-WHITE>Hospital, recepción
+---------------
+<COLOR-WHITE>Hospital, habitación 3.ª plta.
+---------------
+<COLOR-WHITE>Hospital, pasillo 1.ª plta.
+---------------
+<COLOR-WHITE>Hospital, escalera sur
+---------------
+<COLOR-WHITE>Hospital, vestíbulo
+---------------
+<COLOR-WHITE>Sociedad Histórica
+---------------
+<COLOR-WHITE>Prisión, comedor
+---------------
+<COLOR-WHITE>Prisión, lavabo
+---------------
+<COLOR-WHITE>Ascensor
+---------------
+<COLOR-WHITE>Pasillo del laberinto
+---------------
+<COLOR-WHITE>Catacumba
+---------------
+<COLOR-WHITE>Embarcadero
+---------------
+<COLOR-WHITE>Hotel, vestíbulo
+---------------
+<COLOR-WHITE>Hotel, cuarto del ascensor
+---------------
+<COLOR-WHITE>Hotel, vestíbulo, 3.ª plta.
+---------------
+<COLOR-WHITE>Hotel, vestíbulo, 1.ª plta.
+---------------
+Selecciona un archivo guardado.
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+¿Deseas formatearla?
+---------------
+A
+---------------
+A
+---------------
+No hay un archivo de datos.
+---------------
+Archivo de datos dañado.
+---------------
+<COLOR-BLUE>Es posible guardar.
+---------------
+Guardar en un archivo nuevo.
+---------------
+Formateando.
+---------------
+Error al formatear.
+---------------
+<COLOR-BLUE>Guardando...
+---------------
+Datos guardados.
+---------------
+Fallo al guardar.
+---------------
+Cargando.
+---------------
+Carga completada.
+---------------
+Fallo al cargar.
+---------------
+Los datos están dañados.
+---------------
+¿Deseas sobreescribir?
+---------------
+¿Abortar el guardado?
+---------------
+A
+---------------
+A
+---------------
+N.º de archivos
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+<COLOR-RED>No hay espacio disponible.
+---------------
+Acción
+---------------
+Enigmas
+---------------
+Fácil
+---------------
+Normal
+---------------
+Difícil
+---------------
+Datos
+---------------
+Fecha
+---------------
+Guardado
+---------------
+A
+---------------
+A
+---------------
+No se pueden crear más archivos
+---------------
+¿Seguro que quieres borrar
+	estos datos guardados?
+---------------
+<COLOR-BLUE>Borrando...
+---------------
+Datos borrados.
+---------------
+Error al borrar.
+---------------
+Se necesitan <VARIABLE-01> KB
+	para crear un archivo adicional
+---------------
+Se necesitan <VARIABLE-01> KB
+	para guardar un archivo nuevo
+---------------
+Espacio libre: <VARIABLE-01> KB
+---------------
+Retroceso: Eliminar
+---------------
+A
+---------------
+A
+---------------
+Carga rápida completada
+---------------
+A
+---------------
+Extra
+---------------
+Principiante
+---------------
+Resultados de la partida
+---------------
+<COLOR-WHITE>María: Salón de la mansión
+---------------
+<COLOR-WHITE>María: Vestíbulo de la mansión
+---------------
+<COLOR-WHITE>María: Apartamentos, 1.ª plta.
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+Disco duro
+---------------
+Archivos
+---------------
+Al guardar se borró:
+---------------
+Al cargar se borró:
+---------------
+Archivo eliminado.
+---------------
+Pulsa Intro para continuar.
+---------------
+No apagues el ordenador.
+---------------
+No extraigas las unidades de memoria
+	ni desconectes ningún controlador.
+---------------
+Pulsa el botón START.
+---------------
+Vuelve a conectar el controlador
+	y pulsa START para continuar.
+---------------
+Se necesitan <VARIABLE-01> KB
+	para crear un archivo adicional
+---------------
+Se necesitan <VARIABLE-01> KB
+	para guardar un archivo nuevo
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+Comprobando disco duro
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+Iniciar instalación
+---------------
+A
+---------------
+Instalación completa.
+---------------
+Fallo en la instalación.
+---------------
+Instalando efectos
+---------------
+Comprobando DISCO DE MEMORIA...
+---------------
+Instalación terminada
+---------------
+<COLOR-RED>Partida dañada.
+---------------
+Carpeta dañada.
+---------------
+A
+---------------
+A
+---------------
+No se pudo guardar la partida.
+---------------
+Cargando partida guardada...
+---------------
+No se pudo cargar la partida.
+---------------
+Fallo al borrar.
+---------------
+Pulsa START para continuar.
+---------------
+A
+---------------
+Se necesitan <VARIABLE-01> KB
+	para crear un archivo adicional
+---------------
+Se necesitan <VARIABLE-01> KB
+	para guardar un archivo nuevo
+---------------
+Espacio libre: <VARIABLE-01> KB
+---------------
+A
+---------------
+A
+---------------
+¿Seguro que quieres borrar
+	estos datos guardados?
+---------------
+Error al borrar la partida.
+---------------
+No hay carpeta.
+---------------
+<COLOR-BLUE>Es posible guardar.
+---------------
+Archivos guardados de SILENT HILL 2
+---------------
+A
+---------------
+No puede crearse una carpeta nueva
+---------------
+Nivel cero
+---------------
+<COLOR-WHITE>Muestra TGS
+---------------
+<COLOR-WHITE>Servicios/Bar/Caravana
+---------------
+<COLOR-WHITE>Mirador
+---------------
+<COLOR-WHITE>Bosque
+---------------
+<COLOR-WHITE>Parte este de la ciudad
+---------------
+<COLOR-WHITE>Apartam. este, 1.ª plta.
+---------------
+<COLOR-WHITE>Apartam. este, 2.ª plta.
+---------------
+<COLOR-WHITE>Apartam. este, 3.ª plta. O
+---------------
+<COLOR-WHITE>Apartam. este, 3.ª plta. E
+---------------
+<COLOR-WHITE>Apartam. oeste, 1.ª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, 2.ª plta.
+---------------
+<COLOR-WHITE>Escaleras de apartamentos
+---------------
+<COLOR-WHITE>Exterior de apartamentos
+---------------
+<COLOR-WHITE>Parte oeste de la ciudad
+---------------
+<COLOR-WHITE>Bolera
+---------------
+<COLOR-WHITE>Exterior del Heaven's Night
+---------------
+<COLOR-WHITE>Heaven's Night
+---------------
+<COLOR-WHITE>Hospital, 1.ª planta
+---------------
+<COLOR-WHITE>Hospital, 2.ª planta
+---------------
+<COLOR-WHITE>Hospital, 3.ª planta
+---------------
+<COLOR-WHITE>Hospital, tejado/ascensor
+---------------
+<COLOR-WHITE>Hospital opuesto, 1.ª plta. O
+---------------
+<COLOR-WHITE>Hospital opuesto, 1.ª plta. E
+---------------
+<COLOR-WHITE>Hospital opuesto, 2.ª plta.
+---------------
+<COLOR-WHITE>Hospital opuesto, 3.ª plta.
+---------------
+<COLOR-WHITE>Hospital, sótano
+---------------
+<COLOR-WHITE>Hospital opuesto, pasillo
+---------------
+<COLOR-WHITE>Sociedad Histórica
+---------------
+<COLOR-WHITE>Zona extraña 1
+---------------
+<COLOR-WHITE>Zona extraña 2
+---------------
+<COLOR-WHITE>Norte de la prisión
+---------------
+<COLOR-WHITE>Sur de la prisión
+---------------
+<COLOR-WHITE>Sótanos de la prisión
+---------------
+<COLOR-WHITE>Laberinto, parte oeste
+---------------
+<COLOR-WHITE>Laberinto, parte este
+---------------
+<COLOR-WHITE>Laberinto, parte norte
+---------------
+<COLOR-WHITE>Enfrentamiento con Eddie
+---------------
+<COLOR-WHITE>Lago
+---------------
+<COLOR-WHITE>Hotel, sótano
+---------------
+<COLOR-WHITE>Hotel, 1.ª planta
+---------------
+<COLOR-WHITE>Hotel, 2.ª planta
+---------------
+<COLOR-WHITE>Hotel, 3.ª planta
+---------------
+<COLOR-WHITE>Hotel opuesto, sótano
+---------------
+<COLOR-WHITE>Hotel opuesto, 1.ª planta
+---------------
+<COLOR-WHITE>Hotel opuesto, 2.ª planta
+---------------
+<COLOR-WHITE>Hotel opuesto, 3.ª planta
+---------------
+<COLOR-WHITE>Hotel en llamas
+---------------
+<COLOR-WHITE>Desenlace: Recuperación
+---------------
+<COLOR-WHITE>Desenlace: María
+---------------
+<COLOR-WHITE>Desenlace: Suicidio
+---------------
+<COLOR-WHITE>Desenlace: Resurrección
+---------------
+<COLOR-WHITE>Desenlace: Perro
+---------------
+<COLOR-WHITE>María: Heaven's Night
+---------------
+<COLOR-WHITE>María: Ciudad
+---------------
+<COLOR-WHITE>María: Mansión, 1.ª plta.
+---------------
+<COLOR-WHITE>María: Mansión, 2.ª plta.
+---------------
+<COLOR-WHITE>María: Mansión, sótano
+---------------
+<COLOR-WHITE>María: Apartamentos
+---------------
+Guardado rápido

@@ -1,0 +1,213 @@
+﻿--------------- strings=59 language=spanish
+---------------
+¡Ah!
+---------------
+¿Hay alguien ahí...?
+---------------
+Abre.
+---------------
+¿Hola?
+---------------
+Basta.
+	Me estás molestando.
+---------------
+¡Ah...! Menos mal.
+	Por fin encuentro a alguien.
+---------------
+¿Puedes abrir la puerta?
+---------------
+No.
+---------------
+¿Por qué?
+---------------
+¿Tengo que contestar
+	a tus preguntas absurdas?
+---------------
+Sí.
+---------------
+Ah, no lo sabía.
+---------------
+Quiero estar solo.
+	La gente me molesta.
+---------------
+Sólo quería ver otro rostro humano.
+---------------
+¿Sabes lo que está pasando
+	en esta ciudad?
+---------------
+No queda nadie...
+	Sólo hay monstruos.
+---------------
+Sí, lo sé.
+---------------
+¿Y qué?
+---------------
+A mí me da igual.
+	Que no haya nadie aquí
+	significa que nadie me molesta.
+---------------
+¿Quieres estar solo
+	en este manicomio?
+---------------
+Sí, exactamente.
+---------------
+¿Cómo puedes decir que es
+	esta ciudad la que está loca?
+---------------
+Tal vez somos nosotros los locos.
+---------------
+Tú y yo... locos de remate.
+---------------
+¿Estás contenta?
+	¿Me dejarás en paz ahora?
+---------------
+Me llamo... María.
+	¿Cómo te llamas tú?
+---------------
+Ernest.
+---------------
+¿Hemingway?
+---------------
+Baldwin.
+---------------
+Ernest... Volveré.
+---------------
+Ernest, ¿estás ahí?
+---------------
+No, parece que no...
+---------------
+He encontrado una <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado unas <COLOR-GREEN>cerillas<COLOR-WHITE>.<SEPARATORB>
+---------------
+Este calendario es de hace diez años.
+	Hace diez años... en noviembre...<SEPARATORB>
+---------------
+Hay algo debajo de la silla.
+
+¿Es una tarjeta de cumpleaños?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>A MI QUERIDO PAPÁ:
+	¡FELIZ CUMPLEAÑOS!
+	AMY BALDWIN<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>tarjeta de cumpleaños
+	y el regalo<COLOR-WHITE>.<SEPARATORB>
+---------------
+Aquí hay un libro.
+	Parece una enciclopedia de plantas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Acacia
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Género de árboles de hoja perenne
+	de la familia de las fabáceas,
+	subfamilia mimosoideae.
+	 Tiene flores pequeñas de color
+	amarillo o blanco que crecen
+	en racimos.
+	 Entre sus variedades comunes
+	se incluye el «árbol gomero».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El árbol de la acacia es
+	un importante símbolo en
+	muchas religiones del mundo.
+	 En el cristianismo representa
+	la vida eterna y la moralidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> En el antiguo Egipto representaba
+	la pureza y el renacimiento, mientras
+	que en la antigua Babilonia era
+	considerado como un símbolo de vida
+	y el árbol de la diosa Ishtar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Para los antiguos judíos también
+	era un árbol sagrado, quienes
+	construyeron el Arca de la Alianza
+	con madera de acacia; para ellos
+	significaba una muerte tranquila
+	y la liberación del dolor.<SEPARATORB>
+---------------
+Aquí hay un reloj.
+
+Creo que está roto.
+	Las agujas no se mueven.<SEPARATORB>
+---------------
+En el estante no hay
+	libros interesantes.<SEPARATORB>
+---------------
+No hay nada interesante dentro
+	o encima de la chimenea.<SEPARATORB>
+---------------
+El estante está lleno de cuentos
+	de hadas y literatura infantil.
+
+Estoy segura de que nunca
+	los he leído, pero me resultan
+	familiares.<SEPARATORB>
+---------------
+Una cama de tamaño infantil.<SEPARATORB>
+---------------
+Hay una muñeca sobre la silla.
+
+Ahora que me fijo, está muy sucia.
+
+A quien viviese aquí
+	le debía de encantar.<SEPARATORB>
+---------------
+El estante está lleno de peluches.
+	No hay nada interesante.
+
+Ah, aquí hay un osito.
+
+No está muy bien hecho,
+	pero es bonito.
+
+Seguro que a Laura le gustaría.
+	La encantan los ositos.
+
+¿“Laura”...?
+
+¿De quién estoy hablando...?<SEPARATORB>
+---------------
+Una hilera de peluches.<SEPARATORB>
+---------------
+Aquí hay una vela.<SEPARATORB>
+---------------
+No puedo ver nada.
+	Si hubiera algo de luz...<SEPARATORB>
+---------------
+La vela encendida
+	da un poco de luz.<SEPARATORB>
+---------------
+Aquí hay una caja de madera.
+	No tiene nada de especial.<SEPARATORB>
+---------------
+Hay libros apilados en el suelo.
+	No hay nada interesante.
+
+De todas formas, nunca me interesó
+	demasiado la literatura
+	ni la filosofía.<SEPARATORB>
+---------------
+Sólo es basura.
+	No parece que haya nada útil.<SEPARATORB>
+---------------
+Un jarrón y una estatuilla
+	de un león. Ahora mismo
+	no me sirven de nada.<SEPARATORB>
+---------------
+Hay cuadros en la pared.
+	Aquí no hay nada fuera
+	de lo normal.<SEPARATORB>
+---------------
+No puedo seguir por aquí.
+	La pared me impide el paso.<SEPARATORB>
+---------------
+Dáselo...
+---------------
+a mi padre...
+---------------
+He usado una <COLOR-GREEN>cerilla<COLOR-WHITE> para encender
+	la vela.<SEPARATORB>

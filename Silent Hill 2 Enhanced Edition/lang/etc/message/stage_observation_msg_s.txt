@@ -1,0 +1,83 @@
+﻿--------------- strings=30 language=spanish
+---------------
+Vine por este camino.
+	No tiene sentido volver atrás.<SEPARATORB>
+---------------
+No puedo seguir en coche.
+	Tendré que andar...<SEPARATORB>
+---------------
+Hay un mapa en el coche.
+	Sería una buena idea cogerlo.<SEPARATORB>
+---------------
+No hay nada más de interés.<SEPARATORB>
+---------------
+No hay nada en el asiento
+	de pasajeros.<SEPARATORB>
+---------------
+No hay nada en el asiento
+	de pasajeros.
+
+El mapa está en el asiento
+	del conductor.<SEPARATORB>
+---------------
+Mary... ¿de verdad estás
+	en esta ciudad?
+---------------
+En mis sueños más inquietos
+	veo esa ciudad.
+---------------
+Silent Hill.
+---------------
+Me prometiste que volverías
+	a llevarme allí algún día.
+---------------
+Pero nunca lo hiciste.
+---------------
+Y ahora estoy allí, sola...
+---------------
+En nuestro “lugar especial”...
+---------------
+Esperándote...
+---------------
+Me llegó una carta.
+---------------
+El sobre tenía escrito “Mary”.
+---------------
+El nombre de mi mujer...
+---------------
+Es ridículo.
+	Es totalmente imposible...
+---------------
+No dejo de repetírmelo
+	una y otra vez...
+---------------
+Los muertos no pueden
+	escribir cartas.
+---------------
+Mary murió por aquella maldita
+	enfermedad hace tres años.
+---------------
+Entonces, ¿por qué
+	la estoy buscando?
+---------------
+“Nuestro lugar especial”...
+	¿A qué se refería?
+---------------
+Toda esta ciudad
+	era nuestro lugar especial.
+---------------
+¿Se referiría a aquel parque
+	junto al lago?
+---------------
+Pasamos allí todo el día.
+	Los dos solos, contemplando el agua.
+---------------
+¿Está allí Mary realmente?
+---------------
+¿De verdad está viva...
+	esperándome?
+---------------
+He encontrado un <COLOR-GREEN>mapa de Silent Hill<COLOR-WHITE>.<SEPARATORB>
+---------------
+Creo que deberías mirarte
+	esa tos...

@@ -1,0 +1,110 @@
+﻿--------------- strings=43 language=spanish
+---------------
+Hay algo en el pozo.
+
+¿Qué es esto...?
+
+Cuando lo miro, siento como
+	si alguien estuviera toqueteando
+	dentro de mi cráneo.
+
+Me produce una sensación extraña...<SEPARATORB>
+---------------
+Una lápida normal.
+	No tiene nada que ver conmigo.<SEPARATORB>
+---------------
+Este debe ser el cementerio
+	de Silent Hill.<SEPARATORB>
+---------------
+Todo está tranquilo.
+	Creo que estamos solos.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>motosierra<COLOR-WHITE>.<SEPARATORB>
+---------------
+Perdone...
+---------------
+Lo, lo siento... eh, eh...
+	Sólo estaba...
+---------------
+Tranquila, no pretendía asustarla.
+---------------
+Verá, me he perdido.
+---------------
+¿Qué?
+---------------
+Sí. Estoy buscando Silent Hill.
+	¿Sabe si se va por aquí?
+---------------
+Eh, sí...
+---------------
+Es difícil ver con esta niebla,
+	pero solo hay una carretera.
+---------------
+No tiene pérdida.
+---------------
+Gracias.
+---------------
+Pero...
+---------------
+¿Sí...?
+---------------
+Creo que no debería ir allí.
+---------------
+Esa... eh... esa ciudad...
+	Hay algo... extraño en ella.
+---------------
+No sabría explicarlo, pero...
+---------------
+¿Es peligrosa?
+---------------
+Quizás... Y no es sólo
+	por la niebla... Es, eh...
+---------------
+Entiendo. Tendré cuidado.
+---------------
+¡No le estoy mintiendo!
+---------------
+No, no. La creo.
+---------------
+Pero... Supongo que me da igual
+	que sea peligrosa o no.
+---------------
+Pienso ir de todas formas.
+---------------
+¿Por qué?
+---------------
+Estoy buscando a alguien.
+---------------
+¿A... A... A quién?
+---------------
+A alguien...
+	muy importante para mí.
+---------------
+Haría cualquier cosa por volver
+	a estar con ella.
+---------------
+Yo también. Estoy buscando a mi mamá...
+	A mi madre, quiero decir.
+---------------
+Hace mucho que no la veo.
+---------------
+Pensaba que mi padre
+	y mi hermano estarían aquí,
+	pero tampoco los encuentro...
+---------------
+Lo siento... No es asunto suyo.
+---------------
+No, eh... Espero que los encuentre.
+---------------
+Sí, lo mismo digo.
+---------------
+¿Ocurre algo?
+---------------
+No, nada...
+	Este lugar es muy tranquilo.
+---------------
+Sí, lo es...
+---------------
+¿No está buscando a alguien?
+---------------
+Así es...

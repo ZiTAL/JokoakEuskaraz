@@ -1,0 +1,123 @@
+﻿--------------- strings=38 language=spanish
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>¡Le damos la bienvenida
+	a Silent Hill!
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill es una pequeña y
+	tranquila ciudad turística
+	a orillas de un lago.
+	Nos alegra que haya decidido
+	visitarnos. Tómese un descanso
+	de su ajetreada vida y disfrute
+	de unas tranquilas vacaciones.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Hileras de pintorescas casas
+	antiguas.
+	 Un magnífico paisaje montañoso.
+	 Y un lago que muestra las distintas
+	facetas de su belleza a lo largo del
+	día, de sol a sol.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill le conmoverá y le hará
+	sentir una paz profunda.
+	Espero que su estancia sea agradable
+	y sus recuerdos perduren
+	para siempre.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Roger Widmark<SEPARATORB>
+---------------
+Aquí hay un folleto turístico
+	de la ciudad.<SEPARATORB>
+---------------
+¡No he sido yo!
+	¡Yo no lo hice!
+---------------
+¿Hacer el qué?
+---------------
+No he hecho nada.
+	¡Lo... Lo juro!
+---------------
+Ya estaba así cuando llegué...
+---------------
+Me... Me llamo James.
+	James Sunderland.
+---------------
+Eh, Eddie...
+---------------
+Eddie... ¿quién es
+	el muerto de la cocina?
+---------------
+No he sido yo.
+	Juro que no he matado a nadie.
+---------------
+¿No tendrás nada que ver con
+	esa cosa piramidal roja, no?
+---------------
+¿Cosa piramidal roja?
+	No sé de qué me hablas.
+---------------
+En serio.
+---------------
+Pero he visto unos monstruos
+	muy raros.
+---------------
+Me acojonaron,
+	por eso me metí aquí...
+---------------
+Bueno, esto tampoco parece
+	muy seguro.
+---------------
+¿Pero qué ha pasado aquí?
+---------------
+Eh... Te he dicho que no lo sé.
+---------------
+Ni siquiera soy de esta ciudad.
+	Yo sólo, sólo...
+---------------
+Ya. Algo te ha traído
+	a este lugar, ¿no?
+---------------
+Sí, digamos que sí...
+---------------
+Bueno, sea lo que sea...
+---------------
+deberías largarte pronto.
+---------------
+Ya, tienes razón. ¿Y tú qué?
+---------------
+Me iré en cuanto acabe
+	con lo que vine a hacer.
+---------------
+Eddie... Ten cuidado.
+---------------
+James, eh...
+---------------
+Eh... Lo mismo digo.
+---------------
+Eddie, ¿estás bien?
+---------------
+Sí, creo que sí...
+---------------
+¿Sigues aquí?
+---------------
+Sí, me encuentro mal...
+	Ya se me pasará.
+---------------
+Deberías largarte de esta ciudad
+	mientras puedas...
+---------------
+Ya, lo sé, pero...
+---------------
+¿Qué demonios...?
+	¿Quién pudo hacer esto...?<SEPARATORB>
+---------------
+La pared está cubierta de pósters
+	de fútbol y pintadas sin sentido.
+
+Me importan un rábano
+	las dos cosas.<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
+Aquí hay un cuadro.
+	No tiene nada interesante.<SEPARATORB>

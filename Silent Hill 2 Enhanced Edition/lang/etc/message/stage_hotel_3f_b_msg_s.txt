@@ -1,0 +1,14 @@
+﻿--------------- strings=5 language=spanish
+---------------
+Hay un reproductor de vídeo.
+	Creo que funciona.<SEPARATORB>
+---------------
+Me he llevado la cinta de vídeo.<SEPARATORB>
+---------------
+Aprieto el botón,
+	pero no pasa nada.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de perro<COLOR-WHITE>.<SEPARATORB>
+---------------
+La cerradura podría estar rota.
+	No parece que pueda abrirla.<SEPARATORB>

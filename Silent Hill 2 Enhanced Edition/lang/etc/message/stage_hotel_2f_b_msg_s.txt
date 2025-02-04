@@ -1,0 +1,76 @@
+﻿--------------- strings=16 language=spanish
+---------------
+No se oye nada más.<SEPARATORB>
+---------------
+El título es “Ceremonia del Ser Carmesí”.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
+	Yo soy el Carmesí.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
+	no son tales, sino yo.
+	Todos sabéis que yo soy Él.
+	Sí, y Él soy yo.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¡Creyentes, escuchadme!
+	Veinte veintenas de hombres
+	y siete mil bestias.
+	Escuchad aquestas palabras
+	y contadlas a los demás para
+	que siempre sean obedecidas,
+	incluso bajo la luz del orgulloso
+	y cruel sol.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviaré una amarga venganza
+	y sufriréis mi eterna ira.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
+	y el último aliento del moribundo,
+	aquestas son mis bendiciones.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocaréis a mí
+	y a todo lo que soy en el lugar
+	que es silencioso.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
+	que vuela hacia el corazón.
+	Oh, copa rebosante
+	del vino más blanco,
+	en vos es donde todo empieza.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>libro llamado
+	“Ceremonia del Ser Carmesí”<COLOR-WHITE>.<SEPARATORB>
+---------------
+¿Mary va a morir...?
+	Eh... Tiene que ser una broma...
+---------------
+Lo siento de veras.
+---------------
+Pero usted es médico.
+	¡Su trabajo es curar gente!
+---------------
+¡¿Cómo puede dejarla morir?!
+---------------
+Por favor, tranquilícese.
+---------------
+Como médico, prometo hacer
+	todo lo que esté en mi mano.
+---------------
+Pero... no hay un tratamiento eficaz
+	para su enfermedad.
+---------------
+¿Cuánto tiempo le queda?
+---------------
+Me temo que no estoy seguro...
+---------------
+Como máximo tres años.
+	Puede que seis meses...
+---------------
+Es imposible saberlo a ciencia cierta.
+---------------
+Aquí hay un libro.
+	No parece que vaya a servir
+	de nada en particular.<SEPARATORB>
+---------------
+Aquí hay folletos turísticos.
+	Ahora mismo no me interesan.<SEPARATORB>

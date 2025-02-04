@@ -1,0 +1,111 @@
+﻿--------------- strings=44 language=spanish
+---------------
+No se oye nada más.<SEPARATORB>
+---------------
+Hay una muesca redonda
+	en la puerta.<SEPARATORB>
+---------------
+No puedo escapar ahora.<SEPARATORB>
+---------------
+Ya no lo necesito.
+	Ahora no es más que un cadáver.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>huevo
+	de color de orín<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>huevo escarlata<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>huevo de color
+	de orín<COLOR-WHITE> en la puerta.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>huevo escarlata<COLOR-WHITE>
+	en la puerta.<SEPARATORB>
+---------------
+Cabeza Pirámide no se mueve.
+	Ya no tengo que preocuparme
+	más por él.<SEPARATORB>
+---------------
+¡James!
+---------------
+¡Basta!
+	¡Dejadla en paz!
+---------------
+¡Dejadnos en paz a los dos!
+---------------
+Era débil.
+---------------
+Por eso te necesitaba...
+---------------
+Necesitaba que alguien me castigase
+	por mis pecados...
+---------------
+Pero se acabó...
+---------------
+Sé toda la verdad... Ha llegado
+	el momento de poner fin a todo esto.
+---------------
+¿Qué quieres, James?
+---------------
+Eh... Te he traído unas flores...
+---------------
+¿Flores?
+	A la mierda con las flores.
+---------------
+¡Vete a casa!
+---------------
+Mary, ¿qué dices?
+---------------
+¡Mírame! ¡Soy repugnante!
+	No me merezco ninguna flor.
+---------------
+Entre la enfermedad
+	y la medicación...
+	parezco un monstruo.
+---------------
+¿Qué estás mirando?
+---------------
+¡Vete a tomar por saco!
+---------------
+¡Y déjame en paz!
+---------------
+No le soy útil a nadie...
+	y no tardaré en morirme.
+---------------
+Quizás hoy, tal vez mañana...
+---------------
+Sería más fácil que me mataran.
+---------------
+Pero, claro, el hospital
+	está sacando tajada de mí.
+---------------
+Les interesa mantenerme viva...
+---------------
+¿Sigues aquí?
+---------------
+¡Te he dicho que te vayas!
+	¡¿Estás sordo o qué?!
+---------------
+¡Y no vuelvas!
+---------------
+James...
+	Espera...
+---------------
+Por favor, no te vayas...
+---------------
+Quédate conmigo.
+	No me dejes sola.
+---------------
+No lo dije en serio.
+---------------
+Por favor, James...
+---------------
+Dime que todo irá bien.
+---------------
+Dime que no me voy a morir.
+---------------
+Ayúdame...
+---------------
+Cabeza Pirámide
+	ha dejado de moverse.
+
+Parece que tiene algo en la mano.<SEPARATORB>

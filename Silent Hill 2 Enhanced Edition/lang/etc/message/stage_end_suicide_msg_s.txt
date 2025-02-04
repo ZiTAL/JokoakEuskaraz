@@ -1,0 +1,75 @@
+﻿--------------- strings=31 language=spanish
+---------------
+¿Mary...?
+---------------
+Te has vuelto a equivocar.
+---------------
+Mary está muerta.
+	Tú la asesinaste.
+---------------
+María.
+---------------
+María... Lo nuestro se acabó.
+---------------
+¿Qué quieres decir?
+---------------
+Yo puedo ser tuya...
+	Siempre me tendrás.
+---------------
+Y nunca te gritaré
+	ni te haré sentir mal.
+---------------
+¡Eso es lo que querías!
+---------------
+Ahora lo entiendo todo.
+---------------
+El problema...
+	es que tú no eres Mary.
+---------------
+No, James... No te dejaré.
+---------------
+¡Nunca dejaré
+	que recuperes a Mary!
+---------------
+¿Mary...?
+---------------
+James...
+---------------
+Perdóname...
+---------------
+Te dije que quería morir, James.
+---------------
+Quería que parara el dolor.
+---------------
+Por eso lo hice, cariño.
+	No soportaba verte sufrir...
+---------------
+No, esa no es toda la verdad.
+---------------
+También dijiste
+	que no querías morir.
+---------------
+La verdad es...
+	que en parte te odiaba.
+	Por arruinarme la vida...
+---------------
+Me mataste y estás sufriendo
+	por ello.
+---------------
+Ya basta, James.
+---------------
+¿Mary...?
+---------------
+James...
+---------------
+Ahora entiendo...
+	por qué vine a esta ciudad.
+---------------
+Me pregunto qué era lo que temía.
+---------------
+Sin ti, Mary, no tengo nada...
+---------------
+Ahora podemos estar juntos.
+---------------
+Ahora no puedo volver.
+	No es momento de escapar.<SEPARATORB>

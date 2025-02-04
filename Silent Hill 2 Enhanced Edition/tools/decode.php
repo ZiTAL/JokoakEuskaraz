@@ -4,7 +4,8 @@ $dir   = "../lang/etc/message/";
 $files = scandir($dir);
 $files = array_filter($files, function($file)
 {
-	return !in_array($file, ['.', '..']);
+	if(preg_match("/.mes$/", $file))
+		return true;
 });
 $files = array_map(function($file) use ($dir)
 {
@@ -13,7 +14,7 @@ $files = array_map(function($file) use ($dir)
 
 foreach($files as $file)
 {
-	$command = "shtxtconv.exe {$file}";
+	$command = "sh2msg.exe {$file}";
 	echo "{$command}\n";
 	shell_exec($command);
 }

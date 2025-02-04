@@ -1,0 +1,93 @@
+﻿--------------- strings=39 language=spanish
+---------------
+Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+¿Para qué se usará esto...?
+	No quiero ni pensarlo...<SEPARATORB>
+---------------
+Los cables no me dejan pasar.<SEPARATORB>
+---------------
+¡Estás viva!
+---------------
+María... ¡pensé que esa cosa
+	te había matado...!
+---------------
+¿Estás herida?
+---------------
+Para nada, tonto.
+---------------
+¿María...?
+---------------
+¡Esa cosa... te apuñaló!
+	¡Había sangre por todas partes!
+---------------
+¿Apuñalarme?
+	¿Qué quieres decir?
+---------------
+¡Nos persiguió hasta el ascensor!
+	¡Y entonces...!
+---------------
+James, ¿de qué estás hablando?
+---------------
+¡Hace un rato!
+	¿No te acuerdas?
+---------------
+James, cariño...
+	¿Te ha ocurrido algo?
+---------------
+¿Desde que nos separamos
+	en aquel pasillo largo?
+---------------
+¿Me estás confundiendo
+	con otra persona?
+---------------
+Siempre fuiste un despistado...
+---------------
+Acuérdate de aquella vez
+	en el hotel...
+---------------
+¿María...?
+---------------
+Dijiste que te habías llevado todo...
+---------------
+pero te dejaste la cinta de vídeo
+	que grabamos.
+---------------
+Me pregunto si seguirá ahí...
+---------------
+¿Cómo sabes todo eso?
+---------------
+¿No eres María?
+---------------
+No soy tu Mary.
+---------------
+Entonces, ¿eres María?
+---------------
+Sí... Si quieres que lo sea.
+---------------
+¡Lo único que quiero
+	es una respuesta!
+---------------
+No importa quién soy...
+---------------
+Estoy aquí para ti, James.
+---------------
+¿Lo ves? Soy real.
+---------------
+¿No quieres tocarme?
+---------------
+No... lo sé...
+---------------
+Ven a buscarme.
+---------------
+No puedo hacer nada a través
+	de estos barrotes.
+---------------
+Bien... Quédate donde estás.
+---------------
+No tardaré...
+---------------
+He encontrado unos <COLOR-GREEN>alicates<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>cuchillo grande<COLOR-WHITE>.<SEPARATORB>

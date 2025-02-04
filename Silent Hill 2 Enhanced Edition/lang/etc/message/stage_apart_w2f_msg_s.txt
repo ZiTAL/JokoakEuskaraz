@@ -1,0 +1,65 @@
+﻿--------------- strings=16 language=spanish
+---------------
+Hay una nota pegada en la puerta.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
+	 Tengo que irme a hacer un recado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
+	al tío David (Ya sabes dónde
+	vive, ¿no? La llave está
+	en la habitación más cercana
+	a la escalera del primer piso).
+	
+	 Volveré en cuanto pueda;
+	cuídame la casa mientras
+	estoy fuera, por favor.<SEPARATORB>
+---------------
+Parece que hay algo metido
+	dentro del retrete.
+
+¿Vas a sacarlo?<SELECT-YES-OR-NO>
+---------------
+Parece una cartera.
+	Tiene una especie de nota.
+
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+---------------
+Hay una nota dentro de la cartera.
+
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+---------------
+No hay nada más de interés.
+
+No tiene sentido que siga buscando.<SEPARATORB>
+---------------
+Una caja fuerte pequeña.
+	Está cerrada.<SEPARATORB>
+---------------
+No hay nada dentro de la caja.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de la escalera
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la casa de Lyne<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la escalera
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay una página de periódico
+	en el suelo. Parece antiguo.
+
+No hay nada escrito que parezca
+	particularmente interesante.<SEPARATORB>
+---------------
+Aquí hay una cama vieja y rota.<SEPARATORB>
+---------------
+No hay nada que parezca
+	de utilidad.<SEPARATORB>
+---------------
+Ahí no hay nada que parezca
+	tener utilidad.<SEPARATORB>
+---------------
+Un cuadro.
+	No tiene nada especialmente
+	interesante.<SEPARATORB>

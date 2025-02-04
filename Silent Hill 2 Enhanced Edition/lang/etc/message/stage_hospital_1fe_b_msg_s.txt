@@ -1,0 +1,33 @@
+﻿--------------- strings=7 language=spanish
+---------------
+¿Está roto? Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del vestíbulo
+	del hospital<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del vestíbulo
+	del hospital<COLOR-WHITE>.<SEPARATORB>
+---------------
+He copiado esta información
+	en mi mapa.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Quien no tenga el valor suficiente
+	para dejar que lo observen
+	desde el abismo, no tendrá el valor
+	suficiente para encararse a él.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La verdad sólo se encontrará
+	avanzando hacia delante.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sigue el mapa.
+	Ahí hay una carta y una llave inglesa.<SEPARATORB>
+---------------
+Aquí hay un libro antiguo
+	sobre la historia de Silent Hill.<SEPARATORB>
+---------------
+Una hilera de libros sobre medicina,
+	la ciudad y la región.
+
+No tengo tiempo
+	para ponerme a leerlos.<SEPARATORB>

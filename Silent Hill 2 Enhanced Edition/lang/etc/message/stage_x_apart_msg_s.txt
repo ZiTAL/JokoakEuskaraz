@@ -1,0 +1,41 @@
+﻿--------------- strings=8 language=spanish
+---------------
+Esto debería llevarme al callejón
+	que conduce hasta el parque.
+
+Pero antes debería cumplir
+	la promesa que le hice a Ernest.<SEPARATORB>
+---------------
+Hay algo escrito en la mesa.
+
+Está demasiado oscuro para leerlo.<SEPARATORB>
+---------------
+Puedo ver el apartamento contiguo
+	desde la ventana.<SEPARATORB>
+---------------
+Está cerrada.
+
+Hay una nota pegada en la puerta.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
+	 Tengo que irme a hacer un recado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
+	al tío David (Ya sabes dónde
+	vive, ¿no? La llave está
+	en la habitación más cercana
+	a la escalera del primer piso).
+	
+	 Volveré en cuanto pueda;
+	cuídame la casa mientras
+	estoy fuera, por favor.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del edificio
+	de apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado el <COLOR-GREEN>líquido blanco<COLOR-WHITE>.<SEPARATORB>
+---------------
+Una caja fuerte...
+	Pero no sé como abrirla.<SEPARATORB>
+---------------
+Qué repugnante...<SEPARATORB>

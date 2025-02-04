@@ -1,0 +1,60 @@
+﻿--------------- strings=29 language=spanish
+---------------
+ＲＥＳＵＬＴＡＤＯＳ　<XOFFSET-08>ＤＥ　<XOFFSET-08>ＬＡ　<XOFFSET-08>ＰＡＲＴ<XOFFSET-03>Ｉ<XOFFSET-03>ＤＡ
+---------------
+Nivel de acción
+---------------
+Nivel de enigmas
+---------------
+FÁCIL
+---------------
+NORMAL
+---------------
+DIFÍCIL
+---------------
+Desenlace
+---------------
+Marcha
+---------------
+María
+---------------
+En el agua
+---------------
+Resurrección
+---------------
+PERRO
+---------------
+Desenlaces obtenidos
+---------------
+Partidas guardadas
+---------------
+Tiempo transcurrido
+---------------
+Distancia recorrida a pie
+---------------
+Distancia recorrida corriendo
+---------------
+Objetos obtenidos
+---------------
+Muertes por armas de fuego
+---------------
+Muertes cuerpo a cuerpo
+---------------
+Duración de la fase de la barca
+---------------
+Velocidad máxima en la barca
+---------------
+Daños totales
+---------------
+Categoría obtenida
+---------------
+EXTRA
+---------------
+PRINCIPIANTE
+---------------
+Es posible guardar
+	los datos del desenlace.
+---------------
+OVNI
+---------------
+Pulsa Intro para continuar.

@@ -1,0 +1,13 @@
+﻿--------------- strings=6 language=spanish
+---------------
+Se fue por allí.
+---------------
+¿No hay otro camino?
+---------------
+Sí, sí lo hay.
+---------------
+Por ahí.
+---------------
+No se puede. Está cerrado.
+---------------
+James, no puedes ir por ahí.
