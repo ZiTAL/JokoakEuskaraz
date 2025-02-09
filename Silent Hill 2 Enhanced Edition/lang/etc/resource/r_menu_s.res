@@ -1,35 +1,35 @@
 \hPAUSA
-\hReanudar
-\hGuardar partida
-\hCargar partida
-\hOpciones
-\hSalir
-\h¿Salir al menú principal?
-\hSí
-\hNo
-\c\hIntroduzca el disco de Silent Hill 2
+\hJarraitu
+\hPartida gorde
+\hPartida kargatu
+\hAukerak
+\hIrten
+\hMenu nagusira itzuli?
+\hBai
+\hEz
+\c\hSartu Silent Hill 2 diskoa
 \c\hPausa
-\c\hDisco incorrecto
-\c\hMando no conectado
-\c\hDisco no insertado
-\c\hBandeja de disco abierta
-\c\hCargando
-\c\hEspere, por favor...
-\c\hComprobando disco
-\c\h¿Salir al menú principal?
-\c\hSí
-\c\hNo
-Botón %d
-\hPARTIDA GUARDADA
-\hNO SE PUEDE GUARDAR
-\hNO HAY GUARDADO RÁPIDO
-\hCambiar resolución en d3d8.ini
-\hConfigurar a través de Windows
-\hVolumen general
-\hAjustar el volumen general
-\hIndicador de salud
-\hActivar el indicador de salud baja
-\hRes. renderizado
-\hAjustar la resolución de renderizado
-\hSonido 3D
-\hActivar efectos de sonido en 3D
+\c\hDisko okerra
+\c\hAgintea ez dago konektatuta
+\c\hDiskoa ez dago sartuta
+\c\hDisko-ontzia zabalik
+\c\hKargatzen
+\c\hItxaron, mesedez...
+\c\hDiskoa egiaztatzen
+\c\hMenura itzuli?
+\c\hBai
+\c\hEz
+%d botoia
+\hPARTIDA GORDE DA
+\hEZIN DA GORDE
+\hEZ DAGO GORDETZE AZKARRA
+\hBereizmena aldatu d3d8.ini fitxategian
+\hKonfiguratu Windows bidez
+\hBolumen orokorra
+\hDoitu bolumen orokorra
+\hOsasun-indikatzailea
+\hAktibatu osasun baxuko indikatzailea
+\hRenderizazio bereizmena
+\hDoitu renderizazio bereizmena
+\h3D soinua
+\hAktibatu 3D soinu-efektuak

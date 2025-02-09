@@ -1,7 +1,7 @@
 ﻿--------------- strings=10 language=spanish
 ---------------
-Mary... ¿de verdad estás
-	en esta ciudad?
+Mary... ziur al zaude
+	hiri honetan zaudela?ñ
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Si de verdad quieres ver a Mary,
 	deberías morir.
