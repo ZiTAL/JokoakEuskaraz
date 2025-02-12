@@ -1,30 +1,31 @@
 ﻿--------------- strings=10 language=spanish
 ---------------
-Mary... ziur al zaude
-	hiri honetan zaudela?ñ
+Mari... ziur al zaude
+	hiri honetan zaudela?
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Si de verdad quieres ver a Mary,
-	deberías morir.
+<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Mari ikusi nahi baduzu,
+	hil egin beharko zenuke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero a lo mejor acabas en
-	un lugar distinto al de Mary, James.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Mari ez dagoen
+	beste leku batean bukatuko duzu, James.<SEPARATORB>
+	 
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aquí había un AGUJERO.
-	Ahora ha desaparecido.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hemen ZULO bat zegoen.
+	Orain desagertu egin da.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>espray<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Espraia<COLOR-WHITE>aurkitu dut..<SEPARATORB>
 ---------------
-Aquí hay un mapa.<SEPARATORB>
+Hemen mapa bat dago.<SEPARATORB>
 ---------------
-Hay una nota sobre el sofá.
+Ohar bat dago sofa gainean.
 
-<COLOR-BLUE>Te espero en el bar Neely's<SEPARATORB>
+<COLOR-BLUE>Neely-ren tabernan itxarongo zaitut.<SEPARATORB>
 ---------------
-Aquí hay un mapa.<SEPARATORB>
+Hemen mapa bat dago.<SEPARATORB>
 ---------------
-¿Qué es ese símbolo que hay
-	al final de Martin Street?<SEPARATORB>
+Zer da Martin Street-en amaieran
+	dagoen sinbolo hori?<SEPARATORB>
 ---------------
-Lo he copiado en mi mapa.<SEPARATORB>
+Nire mapan kopiatu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>gema azul<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Harribitxi urdin bat<COLOR-WHITE> aurkitu dut..<SEPARATORB>

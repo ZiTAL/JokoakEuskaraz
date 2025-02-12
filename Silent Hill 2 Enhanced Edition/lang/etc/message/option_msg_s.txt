@@ -1,344 +1,344 @@
 ﻿--------------- strings=259 language=spanish
 ---------------
-Salir
+Irten
 ---------------
-Salir de las opciones
+Aukeretatik irten
 ---------------
-Nivel de brillo
+Distira-maila
 ---------------
-Ajustar el brillo de la pantalla
+Pantailaren distira doitu
 ---------------
-<TEXT-POS-080>Cambia el nivel de brillo
-	hasta que las líneas horizontales
-	sean apenas perceptibles.
+<TEXT-POS-080>Distira-maila aldatzen du
+	lerro horizontalak iritsi arte
+	nekez hauteman daitezkeenak.
 ---------------
-Ｎ<XOFFSET-04>ｉ<XOFFSET-06>ｖ<XOFFSET-04>ｅ<XOFFSET-06>ｌ<XOFFSET-04>　<VARIABLE-01>
+M A I L A
 ---------------
-Opciones de control
+Kontrol-aukerak
 ---------------
-Cambiar los controles del juego
+Jokoaren kontrolak aldatu
 ---------------
-SALIR
+IRTEN
 ---------------
-Tipo <VARIABLE-01>
+Mota <VARIABLE-01>
 ---------------
-Seleccionar
+Hautatu
 ---------------
-Cancelar
+Ezeztatu
 ---------------
-Omitir
+Alde batera utzi
 ---------------
-Acción
+Ekintza
 ---------------
-Apuntar
+Apuntatu
 ---------------
 Linterna
 ---------------
-Correr/Guardia
+Korrika/Babestu
 ---------------
-Modo de búsqueda
+Bilaketa modua
 ---------------
-Paso izquierda
+Ezkerrera pausua
 ---------------
-Paso derecha
+Eskuinera pausua
 ---------------
-Pausa
+Eten
 ---------------
-Objetos
+Objektuak
 ---------------
 Mapa
 ---------------
-Opciones
+Aukerak
 ---------------
-REINICIAR
+BERRIZ HASI
 ---------------
-Posición de pantalla
+Pantailaren posizioa
 ---------------
-Ajustar la posición de la pantalla
+Pantailaren posizioa doitu
 ---------------
 X: <VARIABLE-01>  Y: <VARIABLE-02>
 ---------------
-Vibración
+Bibrazioa
 ---------------
-Ajustar la vibración del mando
+Doitu agintearen bibrazioa
 ---------------
-Suave
+Bigun
 ---------------
-Fuerte
+Gogor
 ---------------
-Carga rápida
+Karga azkarra
 ---------------
-Cargar una partida al arrancar
+Hasterakoan partida kargatu
 ---------------
-Altavoces
+Bozgorailuak
 ---------------
-Cambiar la configuración de altavoces
+Bozgorailuen konfigurazioa aldatu
 ---------------
-Estéreo
+Estereoa
 ---------------
-Estéreo/Altavoces
+Estereoa/Bozgorailuak
 ---------------
-Estéreo/Auriculares
+Estereoa/Entzungailuak
 ---------------
-Monaural
+Monaurala
 ---------------
-Volumen de música
+Musika-bolumena
 ---------------
-Ajustar la música de fondo
+Atzeko musika doitu
 ---------------
-Volumen de efectos
+Efektuen bolumena
 ---------------
-Ajustar los efectos sonoros
+Soinu-efektuak doitzea
 ---------------
-Control de armas
+Armen kontrola
 ---------------
-Cambiar la forma de apuntar con armas
+Armekin apuntatzeko modua aldatu
 ---------------
-Pulsar
+Sakatu
 ---------------
-Alternativo
+Alternatiboa
 ---------------
-Color de la sangre
+Odolaren kolorea
 ---------------
-Establecer el color de la sangre
+Odolaren kolorea ezarri
 ---------------
-Verde
+Orlegia
 ---------------
-Violeta
+Morea
 ---------------
-Negra
+Beltza
 ---------------
-Control de cámara
+Kameraren kontrola
 ---------------
-Cambiar el control de la cámara
+Kameraren kontrola aldatu
 ---------------
-Media vuelta
+Buelta erdia
 ---------------
-Cambiar la dirección de la media vuelta
+Buelta erdiaren aldatu
 ---------------
-Andar/Correr
+Ibili/Korrika
 ---------------
-Establecer la velocidad por defecto
+Abiadura lehenetsia ezarri
 ---------------
-Autoapuntado
+Autoapuntatua
 ---------------
-Activar o desactivar el autoapuntado
+Autoapuntua aktibatzea edo desaktibatzea
 ---------------
-Modo de cámara
+Kamara modua
 ---------------
-Cambiar la acción del modo de búsqueda
+Bilaketa moduaren ekintza aldatzea
 ---------------
-Búsqueda
+Bilaketa
 ---------------
-Mirar al personaje
+Pertsonaiari begiratu
 ---------------
-Ajuste de munición
+Munizioa doitzea
 ---------------
-Cambiar el número de balas
+Bala-kopurua aldatu
 ---------------
 x <VARIABLE-01>
 ---------------
-Sí
+Bai
 ---------------
-No
+Ez
 ---------------
-Normal
+Normala
 ---------------
-Invertir
+Inbertitu
 ---------------
-ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ
+A U K E R A K
 ---------------
-ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ　ＤＥＬ　<XOFFSET-02>Ｊ<XOFFSET-02>ＵＥＧＯ
+J O K O A R E N  A U K E R A K
 ---------------
-Subtítulos
+Azpitituluak
 ---------------
-Activar o desactivar los subtítulos
+Azpitituluak aktibatu edo desaktibatu
 ---------------
-Idioma
+Hizkuntza
 ---------------
-Seleccionar el idioma del juego
+Aukeratu jokoaren hizkuntza
 ---------------
-Japonés
+Japoniera
 ---------------
-Inglés
+Ingelesa
 ---------------
-Alemán
+Alemana
 ---------------
-Francés
+Frantsesa
 ---------------
-Italiano
+Italiera
 ---------------
-Castellano
+Euskara
 ---------------
-Tipo de control
+Kontrol mota
 ---------------
-Estilo de rotación
+Errotazio-estiloa
 ---------------
-Estilo de dirección
+Norabide-estiloa
 ---------------
-Seleccionar el tipo de control
+Hautatu kontrol-mota
 ---------------
-Curar
+Sendatu
 ---------------
-¿Cambiar los ajustes?
+Doikuntzak aldatu?
 ---------------
-Sí.
+Bai.
 ---------------
-No.
+Ez.
 ---------------
-Mirar alrededor
+Begiratu ingurura
 ---------------
-Mover/Girar
+Mugitu/Biratu
 ---------------
 Mapa
 ---------------
-Acercar
+Hurbildu
 ---------------
-Alejar
+Urrundu
 ---------------
-Efecto de ruido
+Zarata-efektua
 ---------------
-Ajustar el ruido de la pantalla
+Pantailako zarata doitu
 ---------------
-Ajustar la posición normal del mapa
+Maparen posizio normala doitu
 ---------------
-Apuntar a dcha.
+Eskuinera apuntatu
 ---------------
-Apuntar a izda.
+Ezkerrera apuntatu
 ---------------
-Andar
+Ibili
 ---------------
-Correr
+Korrika
 ---------------
-Analógico
+Analogikoa
 ---------------
-Establecer la calidad del sonido
+Soinuaren kalitatea ezarri
 ---------------
-Calidad de sonido
+Soinu-kalitatea
 ---------------
-Buena
+Ona
 ---------------
-Girar a la izda.:
+Ezkerrera biratu:
 ---------------
-Girar a la dcha.:
+Eskuinera biratu:
 ---------------
-Ir hacia delante:
+Aurrerantz joan:
 ---------------
-Ir hacia atrás:
+Atzerantz joan:
 ---------------
-Paso a la izda.:
+Ezkerrera pausua:
 ---------------
-Paso a la dcha.:
+Eskuinera pausua:
 ---------------
-Acción:
+Ekintza:
 ---------------
-Cancelar:
+Ezeztatu:
 ---------------
-Omitir/Pausa:
+Isildu/Pausa:
 ---------------
-Correr/Guardia:
+Korrika/Babestu:
 ---------------
-Modo de búsqueda:
+Bilaketa modua:
 ---------------
-Inventario:
----------------
-Linterna:
----------------
-Mapa:
----------------
-Curar:
----------------
-Fijar objetivo:
----------------
-Arma siguiente:
----------------
-Arma anterior:
----------------
-Recargar:
----------------
-Desequipar arma:
----------------
-Guardado rápido:
----------------
-Carga rápida:
----------------
-Mover a la izda.:
----------------
-Mover a la dcha.:
----------------
-Ir hacia delante:
----------------
-Ir hacia atrás:
----------------
-Objetivo izdo.:
----------------
-Objetivo dcho.:
----------------
-Acción:
----------------
-Cancelar:
----------------
-Omitir/Pausa:
----------------
-Correr/Defensa:
----------------
-Modo de búsqueda:
----------------
-Inventario:
+Inbentarioa:
 ---------------
 Linterna:
 ---------------
 Mapa:
 ---------------
-Curar:
+Sendatu:
 ---------------
-Fijar objetivo:
+Helburua finkatu:
 ---------------
-Arma siguiente:
+Hurrengo arma:
 ---------------
-Arma anterior:
+Aurreko arma:
 ---------------
-Recargar:
+Kargatu:
 ---------------
-Desequipar arma:
+Arma kendu:
 ---------------
-Guardado rápido:
+Azkar gorde:
 ---------------
-Carga rápida:
+Azkar kargatu:
 ---------------
-Reiniciar
+Ezkerretara mugitu:
 ---------------
-¿¿¿???
+Eskuinera mugitu:
 ---------------
-Función
+Aurrerantz joan:
 ---------------
-Teclado
+Atzerantz joan:
+---------------
+Ezkerreko helburua:
+---------------
+Eskuineko helburua:
+---------------
+Ekintza:
+---------------
+Ezeztatu:
+---------------
+Isildu/Pausa:
+---------------
+Korrika/Babestu:
+---------------
+Bilaketa modua:
+---------------
+Inbentarioa:
+---------------
+Linterna:
+---------------
+Mapa:
+---------------
+Sendatu:
+---------------
+Helburua finkatzea:
+---------------
+Hurrengo arma:
+---------------
+Aurreko arma:
+---------------
+Kargatu:
+---------------
+Arma kendu:
+---------------
+Azkar gorde:
+---------------
+Azkar kargatu:
+---------------
+Berrabiarazi
+---------------
+???
+---------------
+Funtzioa
+---------------
+Teklatua
 ---------------
 Joystick
 ---------------
-Eje X1
+X1 ardatza
 ---------------
-Eje Y1
+Y1 ardatza
 ---------------
-Eje X2
+X2 ardatza
 ---------------
-Eje Y2
+Y2 ardatza
 ---------------
-Eje X3
+X3 ardatza
 ---------------
-Eje Y3
+Y3 ardatza
 ---------------
-Botón
+Botoia
 ---------------
-Volver
+Itzuli
 ---------------
-Terminar
+Amaitu
 ---------------
-Opciones avanzadas
+Aukera aurreratuak
 ---------------
-ＯＰＣ<XOFFSET-03>Ｉ<XOFFSET-03>ＯＮＥＳ　ＡＶＡＮＺＡＤＡＳ
+A U K E R A  A U R R E R A T U A K
 ---------------
-Res. de imagen
+Irudi-ebazpena
 ---------------
 320x240
 ---------------
@@ -352,170 +352,170 @@ Res. de imagen
 ---------------
 1600x1200
 ---------------
-Sombras
+Itzalak
 ---------------
-No
+Ez
 ---------------
-Sí
+Bai
 ---------------
-Niebla
+Lanbroa
 ---------------
-Simple
+Sinplea
 ---------------
-Compleja
+Konplexua
 ---------------
-Filtros avanzados
+Iragazki aurreratuak
 ---------------
-Sonido 3D
+3D soinua
 ---------------
-Sin virtualizar
+Birtualizatu gabe
 ---------------
-Virtualizado leve
+Birtualizazio arina
 ---------------
-Virtualizar
+Birtualizatu
 ---------------
-Hardware 3D en uso
+3D hardwarea erabiltzen
 ---------------
-Dolby Digital 5.1
+Dolby Digitala 5.1
 ---------------
-No disponible
+Ez dago eskuragarri
 ---------------
-Opciones del juego
+Jokoaren aukerak
 ---------------
-Ver opciones de juego adicionales
+Ikusi beste joko-aukera batzuk
 ---------------
-Ver las opciones gráficas y de sonido
+Ikusi aukera grafikoak eta soinu-aukerak
 ---------------
-Destellos de luz
+Argi-distirak
 ---------------
-Texturas alta resol.
+Erresol handiko testurak
 ---------------
 Mono
 ---------------
-Estéreo
+Estereoa
 ---------------
-Cuadrafónico
+Koadrafonikoa
 ---------------
 Surround
 ---------------
-Sonido 5.1
+Soinua 5.1
 ---------------
-Sonido 7.1
+Soinua 7.1
 ---------------
-Auriculares
+Entzungailuak
 ---------------
-Directo
+Zuzenean
 ---------------
-Ajustar la resolución de pantalla
+Pantailaren bereizmena doitu
 ---------------
-Usar sombras dinámicas
+Itzal dinamikoak erabili
 ---------------
-Cambiar la complejidad de la niebla
+Lanbroaren konplexutasuna aldatu
 ---------------
-Usar efectos de filtro avanzados
+Iragazki-efektu aurreratuak erabili
 ---------------
-Ajustar el sonido 3D por software
+Software bidezko 3D soinua doitu
 ---------------
-Usar sonido Dolby Digital 5.1
+Dolby Digital 5.1 soinua erabili
 ---------------
-Activar los efectos de destellos de luz
+Aktibatu argi-distiren efektuak
 ---------------
-Usar texturas en alta resolución
+Bereizmen handiko testurak erabili
 ---------------
-Menú de escenas
+Eszena-menua
 ---------------
-M E N Ú   D E   E S C E N A S
+E S Z E N A  -  M E N U A
 ---------------
-Ver las escenas del juego
+Jokoaren eszenak ikusi
 ---------------
-Seleccionar una película
+Film bat hautatu
 ---------------
-Introducción
+Sarrera
 ---------------
-Introducción (con voces)
+Sarrera (ahotsekin)
 ---------------
-James en los aseos
+James komunetan
 ---------------
-James y Angela en el cementerio
+James eta Angela hilerrian
 ---------------
-James y Eddie en los apartamentos
+James eta Eddie apartamentuetan
 ---------------
-Angela con su cuchillo
+Angela bere labanarekin
 ---------------
-James encuentra a Laura en la pared
+Jamesek paretan aurkitzen du Laura
 ---------------
-James se encuentra con María
+Jamesek Mariarekin topo egiten du
 ---------------
-Flashback del hotel
+Hoteleko flashbacka
 ---------------
-María y James en el hospital
+Mari eta James ospitalean
 ---------------
-María entre rejas
+Mari burdin hesien artean
 ---------------
-Eddie en el suelo
+Eddie lurrean
 ---------------
-Eddie se enfrenta a James
+Eddiek Jamesi aurre egin behar dio
 ---------------
-La cinta de Mary
+Mariren zinta
 ---------------
-Desenlace de James: María
+Jamesen amaiera: Mari
 ---------------
-Desenlace de James: Resurrección
+Jamesen amaiera: Berpizkundea
 ---------------
-Desenlace de James: Suicidio
+Jamesen amaiera: Suizidioa
 ---------------
-Desenlace de James: Marcha
+Jamesen amaiera: Martxa
 ---------------
-Desenlace de María
+Mariren amaiera
 ---------------
-Desenlace del perro
+Txakurraren amaiera
 ---------------
-Tráiler de SH2 para E3 2001
+SH2 trailerra E3 2001
 ---------------
-Tráiler de SH3 para E3 2002
+SH3 trailerra E3 2002
 ---------------
-Créditos de SH2 para PC
+SH2 kredituak PC
 ---------------
-Tráiler de SH3 para TGS 2002
+SH3 trailerra TGS 2002
 ---------------
-CARGAR
+KARGATU
 ---------------
-CONTINUAR
+JARRAITU
 ---------------
-NUEVA PARTIDA
+PARTIDA BERRIA
 ---------------
-OPCIÓN
+AUKERA
 ---------------
-ESCENAS
+ESZENAK
 ---------------
-SALIR
+IRTEN
 ---------------
-HISTORIA PRINCIPAL: CARTA DEL SILENCIOSO CIELO
+ZERU ISILAREN GUTUNA
 ---------------
-HISTORIA SECUNDARIO: NACIDA DE UN DESEO
+DLC: DESIO BATETIK SORTUA
 ---------------
-NIVEL DE ACCIÓN
+EKINTZA-MAILA
 ---------------
-NIVEL DE ENIGMAS
+ENIGMEN MAILA
 ---------------
-DIFÍCIL
+ZAILA
 ---------------
-NORMAL
+NORMALA
 ---------------
-FÁCIL
+ERRAZA
 ---------------
-PRINCIPIANTE
+HASIBERRIA
 ---------------
-HISTORIA PRINCIPAL: Carta del silencioso cielo
+Zeru isilaren gutuna
 ---------------
-HISTORIA SECUNDARIA: Nacida de un deseo
+DLC: Desio batetik sortua
 ---------------
-Modo de imagen
+Irudi modua
 ---------------
-Cambiar el modo de la imagen
+Irudiaren modua aldatzea
 ---------------
-En ventana
+Leihoan
 ---------------
-P. comp. en ventana
+Pantalla osoa lehioan
 ---------------
-Pantalla completa
+Pantalla osoa
