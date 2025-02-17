@@ -226,9 +226,9 @@ Ehiza-erriflea
 }
 {
 [8000]
-Lau bala ere izan ditzake.
+Lau bala har ditzake.
 Denbora asko behar du kargatzeko,
-baina tiro bakoitzaoso indartsua da.
+baina tiro bakoitza oso indartsua da.
 [ffff]
 [8000]
 }
@@ -293,7 +293,7 @@ Labana handia
 }
 {
 [8000]
-Arma handi bat Piramide Buruak hartuta.
+Ezpata-buruan Piramide Burua duen arma oso handia.
 Zaila da erabiltzen, baina hilgarria.
 [ffff]
 [8000]
@@ -673,7 +673,7 @@ Tabernako giltza
 }
 {
 [8000]
-Hoteleko sotoko tabernatikatarira doan ateko giltza.
+Hoteleko sotoko tabernatik atarira doan ateko giltza.
 Galdara-gelan aurkitu nuen.
 [ffff]
 [8000]
