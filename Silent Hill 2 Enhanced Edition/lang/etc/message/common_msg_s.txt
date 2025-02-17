@@ -1,70 +1,70 @@
 ﻿--------------- strings=28 language=spanish
 ---------------
-Sí.
+Bai.
 ---------------
-No.
+Ez.
 ---------------
-Está demasiado oscuro
-	para leer el mapa.<SEPARATORB>
+Ilunegi dago
+	mapa irakurtzeko.<SEPARATORB>
 ---------------
-No tengo un mapa de esta zona.<SEPARATORB>
+Ez daukat inguru honetako maparik.<SEPARATORB>
 ---------------
-Está cerrada.<SEPARATORB>
+Itxita dago.<SEPARATORB>
 ---------------
-Ahora está abierta.<SEPARATORB>
+Orain irekita dago.<SEPARATORB>
 ---------------
-Parece que el cerrojo está roto.
-	No puedo abrirla.<SEPARATORB>
+Sarraila hautsita dagoela dirudi.
+	Ezin dut ireki.<SEPARATORB>
 ---------------
-No puedo abrirla.<SEPARATORB>
+Ezin dut ireki.<SEPARATORB>
 ---------------
-¿Qué es esto...?
+Zer da hau...?
 
-Cuando lo miro, siento como
-	si alguien estuviera toqueteando
-	dentro de mi cráneo.
+Begiratzen diodanean,
+	norbait burezur barruan ikutzen ariko
+	balitz bezala sentitzen naiz.
 
-Me produce una sensación extraña...<SEPARATORB>
+Sentsazio arraroa ematen dit...<SEPARATORB>
 ---------------
-He encontrado <COLOR-GREEN>balas de pistola<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Pistola-balak<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-He encontrado <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Eskopeta-kartutxoak<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-He encontrado <COLOR-GREEN>balas de rifle<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Errifle-balak<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>bebida isotónica<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Edari isotonikoa<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>botiquín<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Botikina<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>ampolla<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Anpoila<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He pulsado el interruptor,
-	pero no funciona.<SEPARATORB>
+Etengailua sakatu dut,
+	baina ez dabil.<SEPARATORB>
 ---------------
-<COLOR-RED>No se puede guardar la partida
-	en la versión de prueba.<SEPARATORB>
+<COLOR-RED>Partida ezin da gorde
+	probazko bertsioan.<SEPARATORB>
 ---------------
-DUALSHOCK®2 no conectado
+DUALSHOCK®2 konektatu gabe
 ---------------
-Conecta el mando analógico (DUALSHOCK®2) en el puerto de mando 1
+Konektatu aginte analogikoa (DUALSHOCK®2) 1. aginte-atakan
 ---------------
-Bandeja del disco abierta
+Diskoaren erretilua irekita
 ---------------
-Disco no insertado
+Diskoa ez dago sartuta
 ---------------
-Comprobando disco
+Diskoa egiaztatzen
 ---------------
-Disco equivocado
+Disko okerra
 ---------------
-He encontrado <COLOR-GREEN>balas para revólver<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Errebolberrerako balak<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-Vuelve a conectar el controlador
-	al puerto de controlador <VARIABLE-01>
-	y presiona START para continuar.
+Konektatu berriro kontrolagailua
+	kontrolagailu-atakara: <VARIABLE-01>
+	eta sakatu START, jarraitzeko.
 ---------------
- Cargando...
+ Kargatzen...
 ---------------
-Presiona el botón START.
+Sakatu START botoia.
 ---------------
-Algunos archivos son inaccesibles.
-	Por favor, reinstala el juego.
+Fitxategi batzuk eskuraezinak dira.
+	Mesedez, jokoa berriz instalatu.
