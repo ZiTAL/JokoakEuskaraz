@@ -47,7 +47,7 @@ Orain irekita dago.
 }
 {
 [8000]
-Morroiloa hautsita dagoela dirudi.
+Sarraila hautsita dagoela dirudi.
 Ezin dut ireki.
 [ffff]
 [9000]
@@ -65,7 +65,7 @@ Zer da hau...?
 [1000]
 [8000]
 Begiratzen diodanean,
-norbait burezur barruan jotzenariko
+norbait burezur barruan ikutzen ariko
 balitz bezala sentitzen naiz.
 [ffff]
 [1000]
@@ -211,7 +211,7 @@ Sakatu START botoia.
 {
 [8000]
 Fitxategi batzuk eskuraezinak dira.
-Mesedez, berrezarri jokoa.
+Mesedez, jokoa berriz instalatu.
 [ffff]
 [8000]
 }
