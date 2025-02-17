@@ -1,40 +1,40 @@
 ﻿--------------- strings=46 language=spanish
 ---------------
-Mover a izda.
+Ezkerrera mugitu.
 ---------------
-Mover a dcha.
+Eskuinera mugitu.
 ---------------
-Girar a la izda.
+Ezkerrera biratu.
 ---------------
-Girar a la dcha.
+Eskuinera biratu.
 ---------------
-Ir hacia delante
+Aurrerantz joan
 ---------------
-Ir hacia atrás
+Atzerantz joan
 ---------------
-Paso a la izda.
+Ezkerretara.
 ---------------
-Paso a la dcha.
+Eskuinera.
 ---------------
-Apuntar a izda.
+Ezkerretara apuntatu.
 ---------------
-Apuntar a dcha.
+Eskuinera apuntatu.
 ---------------
-Acción
+Ekintza
 ---------------
-Cancelar
+Ezeztatu
 ---------------
-Omitir/Pausa
+Ez egin/Pausa
 ---------------
-Correr/Defensa
+Korrika/Defentsa
 ---------------
-Modo de búsqueda
+Bilaketa modua
 ---------------
-Inventario
+Inbentarioa
 ---------------
 Linterna
 ---------------
-Fijar objetivo
+Helburua finkatzea
 ---------------
 Mapa
 ---------------
@@ -42,19 +42,19 @@ Esc
 ---------------
 Intro
 ---------------
-Retroceso
+Ezabatu
 ---------------
-Espacio
+Espazioa
 ---------------
-Mayús izda.
+Ezkerreko maiusa.
 ---------------
-Mayús dcha.
+Eskuineko maiusa.
 ---------------
-Ctrl izdo.
+Ezkerreko Ctrl.
 ---------------
-Ctrl dcho.
+Eskuineko Ctrl.
 ---------------
-Alt izda.
+Ezkerreko Alt.
 ---------------
 Tab
 ---------------
@@ -70,24 +70,24 @@ Av Pág
 ---------------
 Re Pág
 ---------------
-Cursor izdo.
+Ezkerreko kurtsorea.
 ---------------
-Cursor dcho.
+Eskuineko kurtsorea.
 ---------------
-Cursor abajo
+Beheko kurtsorea
 ---------------
-Cursor arriba
+Goiko kurtsorea
 ---------------
-(T. num.)
+(T. zk.)
 ---------------
 Intro
 ---------------
-Pad Izda.
+Ezkerreko pad.
 ---------------
-Pad Dcha.
+Eskuineko pad.
 ---------------
-Pad Arriba
+Gorako pad.
 ---------------
-Pad Abajo
+Beherako pad.
 ---------------
-Botón
+Botoia
