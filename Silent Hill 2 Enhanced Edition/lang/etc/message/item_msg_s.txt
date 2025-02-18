@@ -396,281 +396,274 @@ Bonbilla
 Lata baten barruan aurkitu zuten, tabernako sukaldean.
 	Bonbilla normal bat.
 ---------------
-Huevo de color de orín
+Pixa koloreko arrautza
 ---------------
-Tiene el tamaño de un huevo de codorniz.
-	Lo tenía Cabeza Pirámide.
+Galeper arrautza baten tamaina du.
+	Piramide Buruak zeukan.
 ---------------
-Huevo escarlata
+Eskarlata arrautza
 ---------------
-Tiene el tamaño de un huevo de codorniz.
-	Lo tenía Cabeza Pirámide.
+Galeper arrautza baten tamaina du.
+	Piramide Buruak zeukan.
 ---------------
-Libro «Memorias perdidas»
+«Memoria galduak» liburua
 ---------------
-Un libro que relata la historia
-	de esta ciudad y sus alrededores.
+Liburu honek hiri honen eta inguruaren
+	historia kontatzen du.
 ---------------
-Libro «Ceremonia del Ser Carmesí»
+Izaki «Gorriminaren Zeremonia» liburua
 ---------------
-Trata sobre un dios antiguo.
-	El autor es anónimo.
+Antzinako jainko bati buruzkoa da.
+	Egilea ezezaguna da.
 ---------------
-Crisma blanco
+Krisma zuria
 ---------------
-Una botella de cristal que contiene
-	un ungüento blanco.
+Kristalezko botila bat,
+	ukendu zuri bat duena.
 ---------------
-Copa de obsidiana
+Obsidiana-kopa
 ---------------
-Copa de aspecto antiguo tallada en
-	obsidiana pura. Hallada en el viejo museo.
+Antzinako itxurako kopa, obsidiana hutsean zizelkatua.
+	Museo zaharrean aurkitua.
 ---------------
-Parece el mismo tipo de pila
-	que la que lleva la linterna.
+Linternak daraman pila
+	mota bera dirudi.
 ---------------
-La hoja está manchada con algo rojo.
+Hostoa zerbait gorriz zikinduta dago.
 ---------------
-Ahora que lo pienso, había un reloj grande
-	en la habitación 208...
+Orain pentsatzen ari naizela, erloju handi bat
+	zegoen 208 gelan...
 ---------------
-La otra cara de la moneda
-	es una media luna.
+Txanponaren beste aldea
+	ilargi erdia da.
 ---------------
-Parece un anciano.
+Agurea dirudi.
 ---------------
-Este prisionero parece una mujer.
+Preso honek emakumea dirudi.
 ---------------
-Pone: «patio».
+«Patioa» jartzen du.
 ---------------
-La primera vez que quise llevármela,
-	aquella niña me pisó la mano.
-	¿Qué será de ella...?
+Eraman nahi izan nuen lehen aldian,
+	haur hark eskua zapaldu zidan.
+	Non egongo ote da...?
 ---------------
-La etiqueta que lleva dice:
-	«salida de emergencia».
+Etiketak hau dio:
+	«larrialdi-irteera».
 ---------------
-Había una salida de emergencia
-	en el extremo oeste del pasillo del 2.º piso.
-	¿A lo mejor podré usarla allí?
+Larrialdiko irteera bat zegoen
+	2. solairuko korridorearen mendebaldeko muturrean.
+	Agian han erabili ahal izango dut?
 ---------------
-Esta debe ser la llave de la nota que decía
-	que «se la dieron al tío David».
+Hori izan behar da «osaba Davidi eman zioten»
+	zioen oharraren giltza.
 ---------------
-Dice: «Escalera norte».
+Honela dio: «Iparraldeko eskailera».
 ---------------
-Dice: «Es la duda la que os conducirá
-	hasta el Purgatorio».
+Honela dio: «Zalantza da Purgatoriora
+	eramango zaituztena».
 ---------------
-La habitación 312 es donde nos alojamos
-	Mary y yo hace tres años.
+Mari eta biok duela hiru urte
+	312. gelan hartu genuen ostatu.
 ---------------
-La etiqueta tiene escrito
-	«Silent Hill» con mi letra.
+Etiketak «Silent Hill»
+	idatzita dauka, nire letra da.
 ---------------
-Sin duda, es la cinta que grabé
-	por aquel entonces.
+Zalantzarik gabe, garai hartan
+	grabatu nuen zinta da.
 ---------------
-El tallo lleva una serpiente grabada.
+Zurtoinak suge bat darama grabatuta.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>En mis sueños más inquietos
-	veo esa ciudad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Ametsik zitaletan ikusten
+	dut hiri hori.
 	Silent Hill.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Me prometiste que volverías
-	a llevarme allí algún día.
-	Pero nunca lo hiciste.
+<CENTER-PARAGRAPH><COLOR-BLUE>Egunen batean hara eramango ninduzula
+	agindu zenidan.
+	Baina ez zenuen inoiz egin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Y ahora estoy allí, sola...
-	En nuestro “lugar especial”...
+<CENTER-PARAGRAPH><COLOR-BLUE>Eta orain han nago, bakarrik...
+	Gure "leku berezian"...
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Esperándote...<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Zure zain...<SEPARATORB>
 ---------------
-El papel está en blanco.<SEPARATORB>
+Papera hutsik dago.<SEPARATORB>
 ---------------
-El sobre está vacío.
+Gutun-azala hutsik dago.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
-	
-	Le dejo esta carta a Rachel
-	para que te la dé cuando
-	yo me haya ido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
-	En un lugar bello y tranquilo.
+	Gutun hau Racheli uzten diot,
+	ni joandakoan eman diezazun.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perdóname
-	por no haberme despedido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Orain oso urrun nago.
+	Leku eder eta lasai batean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Cuídate, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Mesedez,barkatu
+	ez agurtzeagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Laura.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
-	Sé que lo odias porque piensas
-	que no me trata bien, pero,
-	por favor, dale una oportunidad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
-	cascarrabias y que no se ríe mucho.
-	Pero en el fondo es una buena persona.
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jamesi dagokionez...
+	Badakit gorroto duzula uste
+	duzulako ez nauela ondo tratatzen,
+	baina, mesedez, eman aukera bat.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Egia da batzuetan kaskagogor samarra dela eta
+	ez duela barre askorik egiten.
+	Baina, funtsean, pertsona ona da.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Laura...
-	Te quiero como si fueras
-	mi propia hija.
+	Nire alaba bazina
+	bezala maite zaitut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
-	de otra forma, te habría adoptado.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gauzak bestela joan balira,
+	adoptatu egingo zintuzkedan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.º cumpleaños, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak, Laura zure 8. urtebetzeagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
-	Mary<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna, 
+	Mari<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
-	pueblo al que robaron sus tierras.
+<CENTER-PARAGRAPH><COLOR-BLUE> Izena bere lurrak lapurtu zizkioten
+	herriaren kondairatik sortzen da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
-	«El lugar de los espíritus silenciosos».
-	Por «espíritus» entendían no sólo a
-	sus familiares muertos, sino también
-	los espíritus que, según creían,
-	viven en los árboles, las rocas
-	y el agua.
+<CENTER-PARAGRAPH><COLOR-BLUE> Leku horri «Arima isilen lekua» esaten zitzaion.
+	«Arima» gisa ulertzen zituzten,
+	hildako senideakez ezik, arimak zuhaitzetan,
+	harkaitzetan eta uretan bizi zirela
+	uste baitzuten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aquí
-	tenían lugar las ceremonias más
-	sagradas.
+<CENTER-PARAGRAPH><COLOR-BLUE> Elezaharrak dioenez,
+	hemen izaten ziren zeremoniarik
+	sakratuenak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
-	de quienes ahora viven en esta
-	ciudad los que robaron las tierras
-	a aquel pueblo. Hubo otros
-	que llegaron antes.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina orain hiri honetan
+	bizi direnen arbasoek ez
+	zituzten herri hari lurrak
+	lapurtu. Beste batzuk lehenago
+	iritsi ziren.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad tenía
-	otro nombre... pero se ha perdido
-	en los anales de la historia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Garai hartan, hiri honek beste
+	izen bat zuen... baina historiaren
+	urtekarietan galdu da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sólo sabemos que tuvo otro
-	nombre y que, por alguna razón,
-	la ciudad fue abandonada por
-	sus habitantes.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarrik dakigu beste izen bat
+	izan zuela eta, arrazoiren
+	batengatik, bertako biztanleek
+	hiritik alde egin zutela.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
-	Yo soy el Carmesí.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hitz egin.
+	Ni Gorrimina naiz.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
-	no son tales, sino yo.
-	Todos sabéis que yo soy Él.
-	Sí, y Él soy yo.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gezurrak eta lainoa
+	ez dira horrelakoak, ni baizik.
+	Denok dakizue ni Bera naizela.
+	Bai, eta bera ni naiz.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¡Creyentes, escuchadme!
-	Veinte veintenas de hombres
-	y siete mil bestias.
-	Escuchad aquestas palabras
-	y contadlas a los demás para
-	que siempre sean obedecidas,
-	incluso bajo la luz del orgulloso
-	y cruel sol.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Fededunak, entzun!
+	Lareun gizon eta zazpi
+	mila piztia. Entzun hitz
+	hauek eta kontatu besteei
+	beti obedituak izan daitezen,
+	baita eguzki harro eta
+	krudelaren argipean ere.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviaré una amarga venganza
-	y sufriréis mi eterna ira.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mendeku mingotsa bidaliko dizuet eta
+	nire haserre amaigabea pairatuko duzue.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
-	y el último aliento del moribundo,
-	aquestas son mis bendiciones.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lore zimelduaren edertasuna eta
+	hilzorian dagoenaren azken
+	arnasa dira nire bedeinkazioak.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocaréis a mí
-	y a todo lo que soy en el lugar
-	que es silencioso.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Zuk beti eskatuko didazu
+	laguntza eta naizen
+	guztia isila den lekuan.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
-	que vuela hacia el corazón.
-	Oh, copa rebosante
-	del vino más blanco,
-	en vos es donde todo empieza.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>O, bihotzerantz hegan doan
+	bizitzaren esentzia
+	harroa. O, ardo zurienaz
+	betetako kopa, zugan
+	hasten da dena.
+<SEPARATORB>
 ---------------
-¿Se ha quedado sin pilas?
-	Por mucho que pulse el interruptor,
-	no se enciende.
+Pilarik gabe geratu al da?
+	Etengailua sakatuta ere,
+	ez da pizten.
 ---------------
-¿Está rota?
-	No reacciona al pulsar el interruptor.
+Hautsita al dago?
+	Ez du erreakzionatzen etengailua sakatzean.
 ---------------
-He puesto la <COLOR-GREEN>bebida isotónica<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Edari isotonikoa<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>botiquín<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Botikina<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>ampolla<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Anpoila<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>pistola<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Pistola<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto las <COLOR-GREEN>balas de pistola<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Pistola-balak<COLOR-WHITE>
+	 apalean jarri ditut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>escopeta<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Eskopeta<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto los <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Eskopeta-kartutxoak<COLOR-WHITE>
+	apalean jarri ditut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>rifle de caza<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Ehiza-erriflea<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto los <COLOR-GREEN>cartuchos de rifle<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Errifle-kartutxoak<COLOR-WHITE>
+	apalean jarri ditut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>espray<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Espraia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>tablón de madera<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Egurrezko ohola<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>cañería de acero<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Altzairuzko kaineria<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>cuchillo grande<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Labana handia<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>motosierra<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Motozerra<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>linterna<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Linterna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>radio<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Irratia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>foto de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Mariren argazkia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>carta de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Mariren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>carta de Laura<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Lauraren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>cuchillo de Angela<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Angelaren labana<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>llave de la sala
-	de reconocimiento<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Azterketa gelako giltza<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>llave de la habitación
-	312 del hotel<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Hoteleko 312. gelako giltza<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>disolvente<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Disolbatzailea<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>caja de música
-	de la sirenita<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Sirenatxoaren musika-kaxa<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>caja de música
-	de Cenicienta<COLOR-WHITE> en el estante.<SEPARATORB>
+<COLOR-GREEN>Errauskinen musika-kutxa<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>libro “Memorias perdidas”<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>"Memoria galduak" liburua<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>crisma blanco<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Krisma zuria<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Obsidiana-kopa<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>llave de perro<COLOR-WHITE>
-	en el estante.<SEPARATORB>
+<COLOR-GREEN>Txakur-giltza<COLOR-WHITE>
+	apalean jarri dut.<SEPARATORB>
 ---------------
-El reverso muestra una lápida.
+Atzealdean hilarri bat ageri da.
 ---------------
-El reverso muestra un huevo.
+Atzealdean arrautza bat ageri da.

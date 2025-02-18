@@ -1030,7 +1030,7 @@ Memoria galduak liburua
 }
 {
 [8000]
-Liburu honek hiri honen etainguruaren historia kontatzen du.
+Liburu honek hiri honen eta inguruaren historia kontatzen du.
 [ffff]
 [8000]
 }
@@ -1055,7 +1055,7 @@ Krisma zuria
 }
 {
 [8000]
-Kristalezko botila bat,ukendu zuri bat duena.
+Kristalezko botila bat, ukendu zuri bat duena.
 [ffff]
 [8000]
 }
@@ -1067,13 +1067,13 @@ Obsidiana-kopa
 }
 {
 [8000]
-Antzinako itxurako kopa, obsidianahutsean zizelkatua. Museo zaharrean aurkitua.
+
 [ffff]
 [8000]
 }
 {
 [8000]
-Linternak daraman pilamota bera dirudi.
+Linternak daraman pila mota bera dirudi.
 [ffff]
 [8000]
 }
@@ -1091,7 +1091,7 @@ Orain pentsatzen ari naizela,erloju handi bat zegoen 208 gelan...
 }
 {
 [8000]
-Txanponaren beste aldeailargi erdia da.
+Txanponaren beste aldea ilargi erdia da.
 [ffff]
 [8000]
 }
@@ -1128,7 +1128,7 @@ Etiketak hau dio:larrialdi-irteera.
 }
 {
 [8000]
-Larrialdiko irteera bat zegoen2. solairuko korridorearen mendebaldeko muturrean.
+Larrialdiko irteera bat zegoen 2. solairuko korridorearen mendebaldeko muturrean.
 Agian han erabili ahal izango dut?
 [ffff]
 [8000]
@@ -1167,7 +1167,7 @@ Silent Hill nire letrarekin.
 }
 {
 [8000]
-Zalantzarik gabe, garai hartangrabatu nuen zinta da.
+Zalantzarik gabe, garai hartan grabatu nuen zinta da.
 [ffff]
 [8000]
 }
@@ -1181,7 +1181,7 @@ Zurtoinak suge bat darama grabatuta.
 [8000]
 [faff]
 [01ff]
-Ametsik urdurienetanikusten dut hiri hori.
+Ametsik zitaletan ikusten dut hiri hori.
 Silent Hill.
 [ffff]
 [1000]
