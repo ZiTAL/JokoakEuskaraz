@@ -1,389 +1,386 @@
 ﻿--------------- strings=252 language=spanish
 ---------------
-Usar
+Erabili
 ---------------
-Recargar
+Kargatu
 ---------------
-Ajustar volumen
+Bolumena doitu
 ---------------
-Interruptor
+Etengailua
 ---------------
-Encendida
+Piztuta
 ---------------
-Apagada
+Itzalita
 ---------------
-Examinar
+Aztertu
 ---------------
-Equipar
+Ekipatu
 ---------------
-Desequipar
+Ekipamendua kendu
 ---------------
-Opciones
+Aukerak
 ---------------
 Mapa
 ---------------
-Notas
+Oharrak
 ---------------
-Estado
+Egoera
 ---------------
-Equipo
+Ekipamendua
 ---------------
-Acción
+ekintza
 ---------------
-Combinar
+Konbinatu
 ---------------
-Parece que no puedo usar esto aquí.<SEPARATORB>
+Badirudi ezin dudala hau hemen erabili.<SEPARATORB>
 ---------------
-Esto no se puede usar por sí solo.<SEPARATORB>
+Hau ezin da bere kabuz erabili.<SEPARATORB>
 ---------------
-Esta combinación no tiene ningún sentido.<SEPARATORB>
+Konbinazio honek ez du zentzurik.<SEPARATORB>
 ---------------
-Poner en estante
+Apalean jarri
 ---------------
-Bebida(s) isotónica(s)
+Edari isotonikoa(k)
 ---------------
-Devuelve la energía proporcionando nutrientes.
-	Su efecto es bastante suave.
+Energia ematen du elikagaiak emanez.
+	Eragin txikikoa.
 ---------------
-Botiquín(es)
+Botikina(k)
 ---------------
-Devuelve la energía curando heridas.
-	Su efecto es moderado.
+Energia ematen du zauriak sendatuz.
+	Eragin normala.
 ---------------
-Ampolla(s)
+Anpoila(k)
 ---------------
-Devuelve la energía calmando el dolor.
-	Su efecto es potente.
+Energia ematen du mina baretuz.
+	Oso erangikorra da.
 ---------------
 Pistola
 ---------------
-Pistola ligera con capacidad para 10 balas.
-	Poco potente, pero fácil de usar.
+10 balako pistola arina.
+	Ez oso indartsua, baina erabiltzeko erraza.
 ---------------
-Bala(s) de pistola
+Pistola-bala(k)
 ---------------
-Munición para pistola.
+Pistolarako munizioa.
 ---------------
-Escopeta
+Eskopeta
 ---------------
-Puede llevar hasta 6 cartuchos.
-	Es difícil de manejar, pero puede alcanzar
-	a oponentes dispersos.
+6 kartutxo eraman ditzake.
+	Maneiatzen zaila da, baina etsai
+	ugari zauritu ditzake.
 ---------------
-Cartucho(s) de escopeta
+Eskopeta-kartutxoa(k)
 ---------------
-Munición para escopeta.
+Eskopetarako munizioa.
 ---------------
-Rifle de caza
+Ehiza-erriflea
 ---------------
-Puede llevar hasta 4 balas.
-	Tarda mucho en cargar, pero cada disparo
-	es muy potente.
+Lau bala eraman ditzake.
+	Denbora asko behar du kargatzeko,
+	baina oso indartsua da.
 ---------------
-Bala(s) de rifle
+Erriflearen bala(k)
 ---------------
-Munición para rifle de caza.
+Ehiza-erriflerako munizioa.
 ---------------
-Revólver
+Errebolberra
 ---------------
-Puede llevar hasta 10 balas.
-	Es fácil de manejar, pero no es muy potente.
+10 bala eraman ditzake.
+	Erraza da erabiltzeko, baina ez da oso indartsua.
 ---------------
-Bala(s) de revólver
+Errebolberraren bala(k)
 ---------------
-Balas para revólver.
+Errebolberrerako balak.
 ---------------
-Hiper espray
+Hiper espraia
 ---------------
-Espray sospechoso.
-	Se desconocen sus efectos.
+Esprai susmagarria.
+	Ez dakigu zer ondorio dituen.
 ---------------
-Tablón de madera
+Egurrezko ohola
 ---------------
-Un tablón de madera con clavos en un extremo.
-	No hace mucho daño, pero es fácil de usar.
+Egurrezko ohol bat, mutur batean iltzeak dituela.
+	Ez du kalte handirik egiten, baina erabiltzeko erraza da.
 ---------------
-Cañería de acero
+Altzairuzko tutuak
 ---------------
-Cañería de acero de 1 metro.
-	No es muy destructiva,
-	pero tiene un buen alcance.
+Metro bateko altzairuzko hodia.
+	Potentzia gutxikoa,
+	baina irismen ona du.
 ---------------
-Cuchillo grande
+Labana handia
 ---------------
-Arma enorme empuñada por Cabeza Pirámide.
-	Es difícil de usar, pero letal.
+Arma handi bat ezpata-buruan Piramide Burua daukana.
+	Zaila da erabiltzeko, baina hilgarria.
 ---------------
-Motosierra
+Motozerra
 ---------------
-Motosierra con motor de gasolina.
-	Un arma muy potente.
+Gasolinazko motozerra.
+	Oso arma indartsua.
 ---------------
-Cuchillo chino
+Labana txinatarra
 ---------------
-Un cuchillo de hoja cuadrada.
-	Feo, pero potente y fácil de usar.
+Xafla karratuko aizto bat.
+	Zatarra, baina indartsua eta erabilerraza.
 ---------------
 Linterna
 ---------------
-Su interruptor es de acción inmediata.
-	Va en el bolsillo del pecho.
+Etengailua berehala dabil.
+	Bularreko poltsikoan doa.
 ---------------
-Radio
+Irratia
 ---------------
-Pequeña radio portátil.
-	Genera interferencias cuando hay
-	monstruos cerca.
+Irrati eramangarri txikia.
+	Interferentziak sortzen ditu
+	inguruan munstroak daudenean.
 ---------------
-Foto de Mary
+Mariren argazkia
 ---------------
-Una foto de cuando todavía estaba sana.
+Oraindik osasuntsu zegoeneko argazki bat.
 ---------------
-Carta de Mary
+Mariren gutuna
 ---------------
-En el sobre aparece el nombre de Mary
-	escrito de su puño y letra.
+Gutunazalean Mariren izena agertzen da,
+	bere letraz idatzia.
 ---------------
-Carta de Laura
+Lauraren gutuna
 ---------------
-Carta que Mary entregó, supuestamente,
-	a Laura.
+Marik ustez Laurari entregatu zion gutuna
 ---------------
-Cinta de vídeo
+Bideo-zinta
 ---------------
-Cinta de vídeo que me dejé en el hotel
-	hace tres años.
+Duela hiru urte hotelean
+	utzi nuen bideo-zinta.
 ---------------
-Cuchillo de Angela
+Angelaren labana
 ---------------
-El cuchillo de Angela.
-	No pienso usarlo como arma.
+Angelaren labana.
+	Ez dut arma gisa erabiliko.
 ---------------
-Llave de perro
+Txakur-giltza
 ---------------
-Hallada dentro de una caseta
-	para perros. No sé dónde se usa.
+Txakurrentzako etxola baten barruan
+	aurkitutakoa. Ez dakit non erabiltzen den.
 ---------------
-Llave de la entrada a los apartamentos
+Apartamentuetako sarrerako giltza
 ---------------
-Llave antigua que encontré en la ciudad.
+Hirian aurkitu nuen antzinako giltza.
 ---------------
-Llave de la habitación 202
+202. gelako giltza
 ---------------
-En la parte superior tiene escrito el número 202.
-	La encontré en la habitación 208.
+Goiko aldean 202 zenbakia dauka idatzita.
+	208. gelan aurkitu nuen.
 ---------------
-Llave del reloj
+Erlojuaren giltza
 ---------------
-Llave con un pequeño reloj.
-	Estaba en un agujero en la pared
-	de la habitación 202.
+Erloju txiki bat duen giltza.
+	202. gelako horman zegoen zulo batean.
 ---------------
-Llave del patio
+Patioko giltza
 ---------------
-Llave de la puerta que conduce del vestíbulo
-	de la escalera oeste al patio.
+Mendebaldeko eskaileraren ataritik
+	patiora doan ateko giltza.
 ---------------
-Llave de la salida de emergencia
+Larrialdi-irteerako giltza
 ---------------
-Llave de la puerta de la escalera de emergencia.
-	Hallada en el vestíbulo del tercer piso.
+Larrialdietako eskailerako ateko giltza.
+	Hirugarren solairuko ezkaratzean aurkitua.
 ---------------
-Llave de la casa de Lyne
+Lyneren etxeko giltza
 ---------------
-Estaba en la mesa con el acertijo
-	de las monedas.
-	La etiqueta dice: «Lyne».
+Mahaian zegoen txanponen igarkizunarekin.
+	Etiketak dio: «Lyne».
 ---------------
-Llave de la escalera de los apartamentos
+Apartamentuetako eskailerako giltza
 ---------------
-Llave de la puerta que va del vestíbulo
-	de los apartamentos oeste a la escalera.
+Mendebaldeko apartamentuen ataritik
+	eskailerara doan ateko giltza.
 ---------------
-Llave de la sala de reconocimiento
+Azterketa-gelako giltza
 ---------------
-La etiqueta dice: «Sala de reconocimiento».
-	Hallada en la bata del vestuario de hombres.
+Etiketak hau dio: «Aintzatespen-gela».
+	Gizonen aldagelako mantalean aurkitu dute.
 ---------------
-Llave del tejado
+Teilatuko giltza
 ---------------
-Llave del tejado del ala de oficinas.
-	La encontré en la habitación del tercer piso
-	del hospital, donde descansa María.
+Bulegoen hegaleko teilatuko giltza.
+	Ospitaleko hirugarren solairuko gelan
+	aurkitu nuen, Mariren gelan.
 ---------------
-Llave del toro morado
+Zezen morearen giltza
 ---------------
-Tiene dibujado un toro morado.
-	Estaba en el escritorio
-	de la sala de documentos.
+Zezen more bat marraztuta dauka.
+	Dokumentu-gelako idazmahaian zegoen.
 ---------------
-Llave del ojo de lapis
+Lapis-begiaren giltza
 ---------------
-En la parte superior de la llave hay un ojo,
-	y su iris está hecho de lapislázuli.
+Giltzaren goialdean begi bat dago,
+	eta bere irisa «lapis lazuliz» egina dago.
 ---------------
-Llave del ascensor
+Igogailuaren giltza
 ---------------
-La etiqueta dice: «Ascensor ala pacientes».
-	Estaba atascada en el desagüe de las duchas.
+Etiketak hau dio: «Igogailua pazienteentzat».
+	Dutxen hustubidean trabatuta zegoen.
 ---------------
-Llave del almacén del sótano
+Sotoko biltegiko giltza
 ---------------
-Estaba dentro de la pared con
-	aquella pintada extraña. Es la llave
-	del almacén del sótano del hospital.
+Hormaren barruan zegoen pintaketa
+	arraro harekin. Ospitaleko
+	sotoko giltza da.
 ---------------
-Llave del vestíbulo del hospital
+Ospitaleko atariko giltza
 ---------------
-Hallada en el despacho del director.
-	Es la llave del vestíbulo del hospital.
+Zuzendariaren bulegoan aurkitutakoa.
+	Ospitaleko atariko giltza da.
 ---------------
-Vieja llave de bronce
+Brontzezko giltza zaharra
 ---------------
-Llave de bronce de aspecto antiguo.
-	Estaba oculta detrás de una
-	de las estatuas del parque.
+Brontzezko giltza, antzinako itxurakoa.
+	Parkeko estatuetako baten atzean
+	ezkutatuta zegoen.
 ---------------
-Llave con escrito en espiral
+Kiribilean idazkia duen giltza
 ---------------
-Llave con un cilindro delgado de 8 cm
-	que contiene un escrito en espiral.
+8 cm-ko zilindro mehe bat duen giltza,
+	kiribil formako idazki bat duena.
 ---------------
-Llave del falso acusado
+Akusatu faltsuaren giltza
 ---------------
-Llave dejada por un preso
-	que fue ejecutado injustamente.
+Bidegabeki hil zuten preso
+	batek utzitako giltza.
 ---------------
-Llave de la habitación 312 del hotel
+Hoteleko 312. logelako giltza
 ---------------
-Llave de la habitación 312 del hotel.
-	Estaba sobre el mostrador de recepción.
+Hoteleko 312. logelako giltza.
+	Harrera-mahaiaren gainean zegoen.
 ---------------
-Llave de la habitación 204 del hotel
+Hoteleko 204. gelako giltza
 ---------------
-Llave de la habitación 204.
-	La encontré en el maletín del guardarropa.
+204. gelako giltza. Jantzitegiko
+	maletatxoan aurkitu nuen.
 ---------------
-Llave del ascensor para empleados
+Langileentzako igogailuaren giltza
 ---------------
-La etiqueta dice: «Ascensor empleados».
-	Hallada en la habitación 204.
+Etiketak hau dio: «Lagileen igogailua».
+	204. gelan aurkitutakoa.
 ---------------
-Llave del bar
+Tabernako giltza
 ---------------
-Llave de la puerta que va del bar
-	del sótano del hotel al vestíbulo.
-	La encontré en la sala de calderas.
+Hoteleko sotoko tabernatik atarira
+	doan ateko giltza. Galdara-gelan
+	aurkitu nuen.
 ---------------
-Llave del pez
+Arrainaren giltza
 ---------------
-Va en un llavero con forma de pez.
-	Estaba sobre la mesa del restaurante.
+Arrain itxurako giltzatakoan doa.
+	Jatetxeko mahai gainean zegoen.
 ---------------
-Llave de las escaleras del hotel
+Hoteleko eskaileren giltza
 ---------------
-Llave de la puerta de la escalera
-	al hall del tercer piso. Estaba oculta
-	en la caja de música de la recepción.
+Eskaileratik hirugarren solairuko
+	hallerako ateko giltza. Harrerako
+	musika kaxan ezkutatuta zegoen.
 ---------------
-Paquete de zumo en lata
+Latako zuku paketea
 ---------------
-Un paquete de seis latas con zumo caducado.
-	Estaba en el vestíbulo del primer piso.
+Sei latako pakete bat, iraungitako
+	zukuarekin. Lehen solairuko
+	ezkaratzean zegoen.
 ---------------
-Moneda de la serpiente
+Sugearen txanpona
 ---------------
-Moneda grande grabada con la imagen
-	de una serpiente.
-	La encontré en aquella piscina vacía.
+Suge baten irudiarekin grabatutako
+	txanpon handia. Igerileku huts
+	hartan aurkitu nuen.
 ---------------
-Moneda del anciano
+Agurearen txanpona
 ---------------
-Moneda grande grabada con la imagen
-	del rostro de un anciano.
-	La cogí de la rampa de salida de basuras.
+Agure baten aurpegiaren irudiarekin
+	grabatutako txanpon handia. Zaborrak
+	ateratzeko arrapalatik hartu nuen.
 ---------------
-Moneda del prisionero
+Presoaren moneta
 ---------------
-Moneda grande grabada con la imagen
-	de un prisionero. La hallé
-	en el edificio oeste de apartamentos.
+Preso baten irudiarekin grabatutako
+	txanpon handia. Mendebaldeko
+	apartamentu-eraikinean aurkitu nuen.
 ---------------
-Mechón de pelo
+Ile-mataza
 ---------------
-Unos pelos largos y castaños.
-	Estaban en aquella «caja».
+Gaztaina-koloreko ile luzeak.
+	«Kutxa» hartan zeuden.
 ---------------
-Aguja torcida
+Orratz okerra
 ---------------
-Aguja torcida y oxidada.
-	Estaba clavada en el osito de peluche
-	del vestuario.
+Orratz okerra eta herdoildua.
+	Aldagelako peluxezko hartz
+	txikian iltzatuta zegoen.
 ---------------
-Pila seca
+Pila lehorra
 ---------------
-La cogí en la habitación del hospital.
-	Una pila seca normal.
+Ospitaleko gelan hartu nuen.
+	Pila lehor normala.
 ---------------
-Anillo de cobre
+Kobrezko eraztuna
 ---------------
-Encontrado en el sótano del hospital.
-	Tiene grabado el dibujo de una araña.
+Ospitaleko sotoan aurkitu dute.
+	Armiarma baten marrazkia grabatuta dauka.
 ---------------
-Anillo de plomo
+Berunezko eraztuna
 ---------------
-El anillo del refrigerador.
-	Lleva grabado un repugnante rostro hinchado.
+Hozkailuaren eraztuna. Hanpatutako 
+	aurpegi nazkagarri bat dauka grabatuta.
 ---------------
-Llave inglesa
+Giltza ingelesa
 ---------------
-La encontré en la calle Lindsey.
-	Sirve para atornillar tuercas y pernos.
+Lindsey kalean aurkitu nuen. Azkoinak
+	eta bernoak torlojutzeko balio du.
 ---------------
-Tablilla del opresor
+Zapaltzailearen oholtxoa
 ---------------
-Tablilla metálica con el «opresor»
-	dibujado en una de sus caras.
-	Hallada en una celda.
+Metalezko oholtxoa, «zapaltzailea»
+	aurpegi batean marraztuta duena.
+	Ziega batean aurkitu dute.
 ---------------
-Tablilla del cerdo glotón
+Txerri tripontziaren egurtxoa
 ---------------
-Tablilla metálica con el «cerdo glotón»
-	dibujado en una de sus caras.
-	Hallada en el comedor.
+Txerri tripontzia aurpegi batean
+	marraztuta duen taula metalikoa.
+	Jangelan aurkitu dute.
 ---------------
-Tablilla de la seductora
+Limurtzailearen oholtxoa
 ---------------
-Tablilla metálica con la «seductora»
-	dibujada en una de sus caras.
-	Hallada en las duchas.
+Metalezko oholtxoa, aurpegi batean
+	«seduzitzailea» marraztuta duena.
+	Dutxetan aurkitu dute.
 ---------------
-Herradura
+Ferra
 ---------------
-Herradura metálica. Estaba colgada
-	en el portón de la plaza del patíbulo.
+Ferra metalikoa. Urkamendiko plazako
+	atean zintzilik zegoen.
 ---------------
-Mechero
+Txiskeroa
 ---------------
-Mechero metálico. Su llama parece más potente
-	que la de un mechero normal.
+Txiskeroa. Bere sugarrak txiskero arrun
+	batean baino indartsuagoa dirudi.	
 ---------------
-Muñeco de cera
+Argizarizko panpina
 ---------------
-Muñeco hecho con cera.
-	Estaba en el suelo de la celda.
+Argizariarekin egindako panpina.
+	Ziegako zoruan zegoen.
 ---------------
-Alicate
+Aliketa
 ---------------
-Herramienta para cortar alambres
-	o cables eléctricos.
+Alanbreak edo kable elektrikoak
+	mozteko tresna.
 ---------------
-Disolvente
+Disolbatzailea
 ---------------
-Pequeña lata llena de disolvente.
-	Estaba en el suelo del ascensor.
+Disolbatzailez betetako lata txikia.
+	Igogailuaren zoruan zegoen.
 ---------------
-Caja de música de la sirenita
+Sirenatxoaren musika-kaxa
 ---------------
 Caja de música con una figura
 	del cuento de la sirenita.
