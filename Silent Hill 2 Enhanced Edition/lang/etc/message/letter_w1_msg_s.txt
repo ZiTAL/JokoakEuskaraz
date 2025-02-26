@@ -1,107 +1,109 @@
 ﻿--------------- strings=33 language=spanish
 ---------------
-En mis sueños más inquietos
-	veo esa ciudad.
+Nire amesgaiztoetan
+	hiri hori ikusten dut.
 ---------------
 <TEXT-POS-026>Silent Hill.
 ---------------
-<TEXT-POS-037>Me prometiste que volverías
-	a llevarme allí algún día.
-	Pero nunca lo hiciste.
+<TEXT-POS-037>Egunen batean hara eramango
+	ninduzula agindu zenidan.
+	Baina ez duzu inoiz egin.
 ---------------
-<TEXT-POS-026>Y ahora estoy allí, sola...
+<TEXT-POS-026>Eta orain han nago, bakarrik...
 ---------------
-<TEXT-POS-026>En nuestro “lugar especial”...
-	Esperándote...
+<TEXT-POS-026>Gure "leku berezian"...
+	Zain... Zure zain...
 ---------------
-<TEXT-POS-111>Esperando a que vengas a verme.
+<TEXT-POS-111>Ni ikustera noiz etorriko zaren zain.
 ---------------
-<TEXT-POS-037>Pero no vienes nunca.
+<TEXT-POS-037>Baina ez zatoz inoiz.
 ---------------
-<TEXT-POS-027>Y yo espero, envuelta
-	en mi capullo de dolor y soledad.
+<TEXT-POS-027>Eta ni zain nago, oinazez
+	eta bakardadez josita.
 ---------------
-<TEXT-POS-019>Sé que te hice algo terrible.
-	Algo por lo que nunca
-	me perdonarás.
+<TEXT-POS-019>Gauza izugarri bat
+	egin nizun. Inoiz barkatuko
+	ez didazun zerbait.
 ---------------
-<TEXT-POS-046>Ojalá pudiera cambiarlo,
-	pero es imposible.
+<TEXT-POS-046>Aldatu nahiko nuke,
+	baina ezinezkoa da.
 ---------------
-<TEXT-POS-028>Me siento tan patética y horrible
-	aquí tumbada, esperándote...
+<TEXT-POS-028>Hain patetikoa eta nazkagarria sentitzen
+	naiz hemen etzanda, zure zain...
 ---------------
-<TEXT-POS-028>Cada día contemplo las grietas
-	que hay en el techo y solo
-	puedo pensar en lo injusto
-	que es todo esto...
+<TEXT-POS-028>Egunero sabaian dauden pitzadurak
+	ikusten ditut, eta hau guztia zein
+	bidegabea den bakarrik
+	pentsa dezaket...
 ---------------
-<TEXT-POS-195>Hoy ha venido el médico.
-	Me ha dicho que podía volver
-	a casa por unos días.
+<TEXT-POS-195>Gaur medikua etorri da.
+	Etxera egun batzuetarako
+	itzul nintekeela esan dit.
 ---------------
-<TEXT-POS-035>No es que mejore.
-	Más bien, esta puede ser
-	mi última oportunidad...
+<TEXT-POS-035>Ez dut hobera egiten.
+	Baina, hau izan daiteke
+	nire azken aukera..
 ---------------
-<TEXT-POS-052>Creo que me entiendes...
+<TEXT-POS-052>Ulertzen nauzula uste dut...
 ---------------
-<TEXT-POS-102>A pesar de ello, estoy contenta
-	de volver a casa.
-	Te he echado mucho de menos.
+<TEXT-POS-102>Hala ere, pozik nago
+	etxera itzultzeaz.
+	Zure falta neukan.
 ---------------
-<TEXT-POS-026>Pero tengo miedo, James.
-	Miedo de que realmente
-	no quieras que vuelva a casa.
+<TEXT-POS-026>Baina beldur naiz, James.
+	Beldur naiz ez ote duzun
+	benetan nahi etxera itzultzea.
 ---------------
-<TEXT-POS-123>Cuando vienes a verme,
-	veo lo duro que es para ti...
+<TEXT-POS-123>Ni ikustera etortzen zarenean,
+	ikusten dut zein gogorra den zuretzat...
 ---------------
-<TEXT-POS-042>No sé si me odias,
-	si me compadeces...
-	o si sólo te doy asco...
+<TEXT-POS-042>Ez dakit gorrotatzen nauzun,
+	errukitzen nauzun...
+	edo nazka ematen dizudan...
 ---------------
-<TEXT-POS-047>Lo siento de verdad.
+<TEXT-POS-047>Benetan sentitzen dut.
 ---------------
-<TEXT-POS-037>Cuando supe que iba a morir,
-	no quise aceptarlo.
+<TEXT-POS-037>Hil egingo nintzela jakin nuenean,
+	ez nuen onartu nahi izan.
 ---------------
-<TEXT-POS-042>Estaba constantemente enfadada
-	y atacaba a mis seres más queridos.
-	Sobre todo a ti, James.
+<TEXT-POS-042>Etengabe haserre nengoen
+	eta nire pertsona maiteenei
+	erasotzen nien. Batez ere zuri, James.
 ---------------
-<TEXT-POS-092>Por eso entendería que me odies.
+<TEXT-POS-092>Horregatik ulertuko nuke ni gorrotatzea.
 ---------------
-<TEXT-POS-080>Pero quiero que sepas
-	una cosa, James...
+<TEXT-POS-080>Baina gauza bat jakin dezazun
+	nahi dut, James...
 ---------------
-<TEXT-POS-178>Siempre te querré.
+<TEXT-POS-178>Urteak pasatuko dira,
+	baina beti maitatuko zaitut.
 ---------------
-<TEXT-POS-137>Aunque nuestra vida en pareja
-	tuviera el final que tuvo, no la
-	cambiaría por nada en el mundo.
-	Pasamos unos años maravillosos.
+<TEXT-POS-137>Gure bikote-bizitzak izan zuen
+	amaiera garratza izan bazuen ere,
+	ez nuke ezergatik aldatuko.
+	Gauza zoragarriak pasatu genituen.
 ---------------
-<TEXT-POS-124>Esta carta se está alargando mucho,
-	así que voy a despedirme.
+<TEXT-POS-124>Gutun hau asko luzatzen ari da,
+	beraz, agur esatera noa.
 ---------------
-<TEXT-POS-042>Le he dicho a la enfermera
-	que te la dé cuando yo ya no esté.
+<TEXT-POS-042>Erizainari esan diot
+	ni ez naizenean egongo emateko.
 ---------------
-<TEXT-POS-042>Así que, para cuando la leas,
-	ya estaré muerta.
+<TEXT-POS-042>Beraz, irakurtzen duzunerako,
+	hilda egongo naiz.
 ---------------
-<TEXT-POS-082>No puedo pedirte que me recuerdes,
-	pero no soporto la idea
-	de que me olvides.
+<TEXT-POS-082>Ezin dizut eskatu
+	nitaz gogoratzea, baina ezingo
+	nuke jasan ni ahaztea.
 ---------------
-<TEXT-POS-082>Estos últimos años,
-	con la enfermedad... lamento tanto
-	lo que te hice, lo que nos hice...
+<TEXT-POS-082>Azken urte hauek,
+	gaixotasuna dela eta... asko sentitzen
+	dut egin nizuna, egin nuena...
 ---------------
-<TEXT-POS-102>Tú me has dado tanto, y yo he
-	sido incapaz de corresponderte.
+<TEXT-POS-102>Zuk hainbeste eman didazu,
+	eta ni ez naiz zuri behar zenuen
+	arreta emateko gai izan.
 ---------------
-<TEXT-POS-102>Por eso quiero que ahora vivas
-	tu vida. Haz lo que sea mejor
-	para ti, James.
+<TEXT-POS-102>Horregatik, orain
+	zure bizitza bizitzea nahi dut.
+	Egin zuretzat onena, James.

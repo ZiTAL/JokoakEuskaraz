@@ -93,8 +93,8 @@ Zain... Zure zain...
 	hilda egongo naiz.
 ---------------
 <TEXT-POS-082>Ezin dizut eskatu
-	nitaz gogoratzea, baina ezin
-	dut jasan ni ahaztea.
+	nitaz gogoratzea, baina ezingo
+	nuke jasan ni ahaztea.
 ---------------
 <TEXT-POS-082>Azken urte hauek,
 	gaixotasuna dela eta... asko sentitzen
