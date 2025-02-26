@@ -188,7 +188,7 @@ nahi dut, James...
 }
 {
 [8000]
-Maiteko zaitut.
+Beti maiteko zaitut.
 [ffff]
 [8000]
 }
