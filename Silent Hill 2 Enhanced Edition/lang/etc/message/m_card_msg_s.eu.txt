@@ -462,7 +462,7 @@ Errorea ezabatzean.
 Behar dira
 [e0ff]
  KB
-fitxategi gehigarri bat sortzeko
+behar dira fitxategi bat gehiago sortzeko
 [ffff]
 [8000]
 }

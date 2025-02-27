@@ -1,106 +1,58 @@
 ﻿--------------- strings=81 language=spanish
 ---------------
-Guardar en cualquier sitio
+Edozein lekutan gorde
 ---------------
-Nombre no decidido
+Erabaki gabeko izena
 ---------------
-<COLOR-WHITE>Bosque
+<COLOR-WHITE>Basoa
 ---------------
-<COLOR-WHITE>Aparcamiento
+<COLOR-WHITE>Aparkalekua
 ---------------
-<COLOR-WHITE>Caravana
+<COLOR-WHITE>Karabana
 ---------------
-<COLOR-WHITE>Apartam., escalera SO
+<COLOR-WHITE>Apartam., SO eskailera
 ---------------
-<COLOR-WHITE>Apartam., habitación 2.ª plta.
+<COLOR-WHITE>Apartam., 2. solairuko gela.
 ---------------
-<COLOR-WHITE>Apartam. oeste, habit. 1.ª plta.
+<COLOR-WHITE>Apartam., Mendebaldea, 1. solairuko gela.
 ---------------
-<COLOR-WHITE>Apartam. oeste, habit. 2.ª plta.
+<COLOR-WHITE>Apartam., Mendebaldea, 2. solairuko gela.
 ---------------
 <COLOR-WHITE>Motel
 ---------------
-<COLOR-WHITE>Hospital, recepción
+<COLOR-WHITE>Ospitalea, harrera
 ---------------
-<COLOR-WHITE>Hospital, habitación 3.ª plta.
+<COLOR-WHITE>Ospitalea,  3. solairuko gela.
 ---------------
-<COLOR-WHITE>Hospital, pasillo 1.ª plta.
+<COLOR-WHITE>Ospitalea, 1. solairuko korridorea.
 ---------------
-<COLOR-WHITE>Hospital, escalera sur
+<COLOR-WHITE>Ospitalea, hegoaldeko eskailera
 ---------------
-<COLOR-WHITE>Hospital, vestíbulo
+<COLOR-WHITE>Ospitalea, ataria
 ---------------
-<COLOR-WHITE>Sociedad Histórica
+<COLOR-WHITE>Gizarte historikoa
 ---------------
-<COLOR-WHITE>Prisión, comedor
+<COLOR-WHITE>Espetxea, jangela
 ---------------
-<COLOR-WHITE>Prisión, lavabo
+<COLOR-WHITE>Espetxea, bainugela
 ---------------
-<COLOR-WHITE>Ascensor
+<COLOR-WHITE>Igogailua
 ---------------
-<COLOR-WHITE>Pasillo del laberinto
+<COLOR-WHITE>Labirintoko korridorea
 ---------------
-<COLOR-WHITE>Catacumba
+<COLOR-WHITE>Katakonba
 ---------------
-<COLOR-WHITE>Embarcadero
+<COLOR-WHITE>Moila
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo
+<COLOR-WHITE>Hotela, ataria
 ---------------
-<COLOR-WHITE>Hotel, cuarto del ascensor
+<COLOR-WHITE>Hotela, igogailuaren gela
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo, 3.ª plta.
+<COLOR-WHITE>Hotela, 3. solairuko ataria.
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo, 1.ª plta.
+<COLOR-WHITE>Hotela, 1. solairuko ataria.
 ---------------
-Selecciona un archivo guardado.
----------------
-A
----------------
-A
----------------
-A
----------------
-¿Deseas formatearla?
----------------
-A
----------------
-A
----------------
-No hay un archivo de datos.
----------------
-Archivo de datos dañado.
----------------
-<COLOR-BLUE>Es posible guardar.
----------------
-Guardar en un archivo nuevo.
----------------
-Formateando.
----------------
-Error al formatear.
----------------
-<COLOR-BLUE>Guardando...
----------------
-Datos guardados.
----------------
-Fallo al guardar.
----------------
-Cargando.
----------------
-Carga completada.
----------------
-Fallo al cargar.
----------------
-Los datos están dañados.
----------------
-¿Deseas sobreescribir?
----------------
-¿Abortar el guardado?
----------------
-A
----------------
-A
----------------
-N.º de archivos
+Hautatu gordetako fitxategi bat.
 ---------------
 A
 ---------------
@@ -108,59 +60,107 @@ A
 ---------------
 A
 ---------------
-<COLOR-RED>No hay espacio disponible.
----------------
-Acción
----------------
-Enigmas
----------------
-Fácil
----------------
-Normal
----------------
-Difícil
----------------
-Datos
----------------
-Fecha
----------------
-Guardado
+Formateatu nahi al duzu?
 ---------------
 A
 ---------------
 A
 ---------------
-No se pueden crear más archivos
+Ez dago datu-fitxategirik.
 ---------------
-¿Seguro que quieres borrar
-	estos datos guardados?
+Datuen fitxategia kaltetuta.
 ---------------
-<COLOR-BLUE>Borrando...
+<COLOR-BLUE>Gorde daiteke.
 ---------------
-Datos borrados.
+Gorde fitxategi berri batean.
 ---------------
-Error al borrar.
+Formateatzen.
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para crear un archivo adicional
+Errorea formateatzean.
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para guardar un archivo nuevo
+<COLOR-BLUE>Gordetzen...
 ---------------
-Espacio libre: <VARIABLE-01> KB
+Gordetako datuak.
 ---------------
-Retroceso: Eliminar
+Akatsa gertatu da gordetzean.
+---------------
+Kargatzen.
+---------------
+Karga beteta.
+---------------
+Akatsa kargatzean.
+---------------
+Datuak hondatuta daude.
+---------------
+Gainean idatzi?
+---------------
+Gordetakoa bertan behera utzi nahi al duzu?
 ---------------
 A
 ---------------
 A
 ---------------
-Carga rápida completada
+Artxibo-kopurua
 ---------------
 A
 ---------------
-Extra
+A
 ---------------
-Principiante
+A
 ---------------
-Resultados de la partida
+<COLOR-RED>Ez dago lekurik.
+---------------
+Ekintza
+---------------
+Igarkizunak
+---------------
+Erraza
+---------------
+Normala
+---------------
+Zaila
+---------------
+Datuak
+---------------
+Data
+---------------
+Gordeta
+---------------
+A
+---------------
+A
+---------------
+Ezin da fitxategi gehiago sortu
+---------------
+Ziur zaude gordetako datu horiek
+	ezabatu nahi al dituzula?
+---------------
+<COLOR-BLUE>Ezabatzen...
+---------------
+Datuak ezabatuta.
+---------------
+Errorea ezabatzean.
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi bat gehiago sortzeko
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berria sortzeko
+---------------
+Espazio librea: <VARIABLE-01> KB
+---------------
+Atzera: Ezabatu
+---------------
+A
+---------------
+A
+---------------
+Karga azkarra beteta
+---------------
+A
+---------------
+Estra
+---------------
+Hasiberria
+---------------
+Partidaren emaitzak
