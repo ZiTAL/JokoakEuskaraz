@@ -1,106 +1,58 @@
 ﻿--------------- strings=217 language=spanish
 ---------------
-Guardar en cualquier sitio
+Edozein lekutan gorde
 ---------------
-Nombre no decidido
+Erabaki gabeko izena
 ---------------
-<COLOR-WHITE>Bosque
+<COLOR-WHITE>Basoa
 ---------------
-<COLOR-WHITE>Aparcamiento
+<COLOR-WHITE>Aparkalekua
 ---------------
-<COLOR-WHITE>Caravana
+<COLOR-WHITE>Karabana
 ---------------
-<COLOR-WHITE>Apartam., escalera SO
+<COLOR-WHITE>Apartam., SO eskailera
 ---------------
-<COLOR-WHITE>Apartam., habitación 2.ª plta.
+<COLOR-WHITE>Apartam., 2. solairuko gela.
 ---------------
-<COLOR-WHITE>Apartam. oeste, habit. 1.ª plta.
+<COLOR-WHITE>Apartam., Mendebaldea, 1. solairuko gela.
 ---------------
-<COLOR-WHITE>Apartam. oeste, habit. 2.ª plta.
+<COLOR-WHITE>Apartam., Mendebaldea, 2. solairuko gela.
 ---------------
 <COLOR-WHITE>Motel
 ---------------
-<COLOR-WHITE>Hospital, recepción
+<COLOR-WHITE>Ospitalea, harrera
 ---------------
-<COLOR-WHITE>Hospital, habitación 3.ª plta.
+<COLOR-WHITE>Ospitalea, 3. solairuko gela.
 ---------------
-<COLOR-WHITE>Hospital, pasillo 1.ª plta.
+<COLOR-WHITE>Ospitalea, 1. solairuko korridorea.
 ---------------
-<COLOR-WHITE>Hospital, escalera sur
+<COLOR-WHITE>Ospitalea, hegoaldeko eskailera
 ---------------
-<COLOR-WHITE>Hospital, vestíbulo
+<COLOR-WHITE>Ospitalea, ataria
 ---------------
-<COLOR-WHITE>Sociedad Histórica
+<COLOR-WHITE>Gizarte historikoa
 ---------------
-<COLOR-WHITE>Prisión, comedor
+<COLOR-WHITE>Espetxea, jangela
 ---------------
-<COLOR-WHITE>Prisión, lavabo
+<COLOR-WHITE>Espetxea, bainugela
 ---------------
-<COLOR-WHITE>Ascensor
+<COLOR-WHITE>Igogailua
 ---------------
-<COLOR-WHITE>Pasillo del laberinto
+<COLOR-WHITE>Labirintoko korridorea
 ---------------
-<COLOR-WHITE>Catacumba
+<COLOR-WHITE>Katakonba
 ---------------
-<COLOR-WHITE>Embarcadero
+<COLOR-WHITE>Moila
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo
+<COLOR-WHITE>Hotela, ataria
 ---------------
-<COLOR-WHITE>Hotel, cuarto del ascensor
+<COLOR-WHITE>Hotela, igogailuaren gela
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo, 3.ª plta.
+<COLOR-WHITE>Hotela, 3. solairuko ataria.
 ---------------
-<COLOR-WHITE>Hotel, vestíbulo, 1.ª plta.
+<COLOR-WHITE>Hotela, 1. solairuko ataria.
 ---------------
-Selecciona un archivo guardado.
----------------
-A
----------------
-A
----------------
-A
----------------
-¿Deseas formatearla?
----------------
-A
----------------
-A
----------------
-No hay un archivo de datos.
----------------
-Archivo de datos dañado.
----------------
-<COLOR-BLUE>Es posible guardar.
----------------
-Guardar en un archivo nuevo.
----------------
-Formateando.
----------------
-Error al formatear.
----------------
-<COLOR-BLUE>Guardando...
----------------
-Datos guardados.
----------------
-Fallo al guardar.
----------------
-Cargando.
----------------
-Carga completada.
----------------
-Fallo al cargar.
----------------
-Los datos están dañados.
----------------
-¿Deseas sobreescribir?
----------------
-¿Abortar el guardado?
----------------
-A
----------------
-A
----------------
-N.º de archivos
+Hautatu gordetako fitxategi bat.
 ---------------
 A
 ---------------
@@ -108,68 +60,47 @@ A
 ---------------
 A
 ---------------
-<COLOR-RED>No hay espacio disponible.
----------------
-Acción
----------------
-Enigmas
----------------
-Fácil
----------------
-Normal
----------------
-Difícil
----------------
-Datos
----------------
-Fecha
----------------
-Guardado
+Formateatu nahi al duzu?
 ---------------
 A
 ---------------
 A
 ---------------
-No se pueden crear más archivos
+Ez dago datu-fitxategirik.
 ---------------
-¿Seguro que quieres borrar
-	estos datos guardados?
+Datuen fitxategia kaltetuta.
 ---------------
-<COLOR-BLUE>Borrando...
+<COLOR-BLUE>Gorde daiteke.
 ---------------
-Datos borrados.
+Fitxategi berri batean gorde.
 ---------------
-Error al borrar.
+Formateatzen.
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para crear un archivo adicional
+Errorea formateatzerakoan.
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para guardar un archivo nuevo
+<COLOR-BLUE>Gordetzen...
 ---------------
-Espacio libre: <VARIABLE-01> KB
+Datuak gordeta.
 ---------------
-Retroceso: Eliminar
+Gordetzerakoan akatsa gertatu da.
+---------------
+Kargatzen.
+---------------
+Karga eginda.
+---------------
+Kargatzean akatsa gertatu da.
+---------------
+Datuak hondatuta daude.
+---------------
+Gainean idatzi?
+---------------
+Gordetakoa bertan behera utzi nahi al duzu?
 ---------------
 A
 ---------------
 A
 ---------------
-Carga rápida completada
----------------
-A
----------------
-Extra
----------------
-Principiante
----------------
-Resultados de la partida
----------------
-<COLOR-WHITE>María: Salón de la mansión
----------------
-<COLOR-WHITE>María: Vestíbulo de la mansión
----------------
-<COLOR-WHITE>María: Apartamentos, 1.ª plta.
+Artxibo-kopurua
 ---------------
 A
 ---------------
@@ -177,7 +108,68 @@ A
 ---------------
 A
 ---------------
+<COLOR-RED>Ez dago lekurik.
+---------------
+Ekintza
+---------------
+Igarkizunak
+---------------
+Erraza
+---------------
+Normala
+---------------
+Zaila
+---------------
+Datuak
+---------------
+Data
+---------------
+Gordeta
+---------------
 A
+---------------
+A
+---------------
+Ezin dira fitxategi gehiago sortu
+---------------
+Ziur zaude gordetako datu horiek
+	ezabatu nahi al dituzula?
+---------------
+<COLOR-BLUE>Ezabatzen...
+---------------
+Datuak ezabatuta.
+---------------
+Errorea ezabatzean.
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi bat gehiago sortzeko
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berria sortzeko
+---------------
+Espazio librea: <VARIABLE-01> KB
+---------------
+Atzera: Ezabatu
+---------------
+A
+---------------
+A
+---------------
+Karga azkarra eginda
+---------------
+A
+---------------
+Estra
+---------------
+Hasiberria
+---------------
+Partidaren emaitzak
+---------------
+<COLOR-WHITE>Mari: Etxeko aretoa
+---------------
+<COLOR-WHITE>Mari: Etxeko ataria
+---------------
+<COLOR-WHITE>Mari: Apartamentuak, 1. solairua.
 ---------------
 A
 ---------------
@@ -207,42 +199,6 @@ A
 ---------------
 A
 ---------------
-Disco duro
----------------
-Archivos
----------------
-Al guardar se borró:
----------------
-Al cargar se borró:
----------------
-Archivo eliminado.
----------------
-Pulsa Intro para continuar.
----------------
-No apagues el ordenador.
----------------
-No extraigas las unidades de memoria
-	ni desconectes ningún controlador.
----------------
-Pulsa el botón START.
----------------
-Vuelve a conectar el controlador
-	y pulsa START para continuar.
----------------
-Se necesitan <VARIABLE-01> KB
-	para crear un archivo adicional
----------------
-Se necesitan <VARIABLE-01> KB
-	para guardar un archivo nuevo
----------------
-A
----------------
-A
----------------
-A
----------------
-Comprobando disco duro
----------------
 A
 ---------------
 A
@@ -251,6 +207,42 @@ A
 ---------------
 A
 ---------------
+Disko gogorra
+---------------
+Artxiboak
+---------------
+Gordetzean, ezabatu da:
+---------------
+Kargatzean ezabatu da:
+---------------
+Fitxategia ezabatu da.
+---------------
+Sakatu Intro jarraitzeko.
+---------------
+Ez itzali ordenagailua.
+---------------
+Ez atera memoria-unitateak
+	eta ez deskonektatu kontrolagailurik.
+---------------
+Sakatu START botoia.
+---------------
+Konektatu berriro kontrolagailua
+	eta sakatu START jarraitzeko.
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berri bat sortzeko
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berri bat gordetzeko
+---------------
+A
+---------------
+A
+---------------
+A
+---------------
+Disko gogorra egiaztatzen
+---------------
 A
 ---------------
 A
@@ -263,183 +255,191 @@ A
 ---------------
 A
 ---------------
-Iniciar instalación
----------------
 A
 ---------------
-Instalación completa.
----------------
-Fallo en la instalación.
----------------
-Instalando efectos
----------------
-Comprobando DISCO DE MEMORIA...
----------------
-Instalación terminada
----------------
-<COLOR-RED>Partida dañada.
----------------
-Carpeta dañada.
+A
 ---------------
 A
 ---------------
 A
 ---------------
-No se pudo guardar la partida.
----------------
-Cargando partida guardada...
----------------
-No se pudo cargar la partida.
----------------
-Fallo al borrar.
----------------
-Pulsa START para continuar.
+Instalatzen hasi
 ---------------
 A
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para crear un archivo adicional
+Instalazioa eginda.
 ---------------
-Se necesitan <VARIABLE-01> KB
-	para guardar un archivo nuevo
+Akatsa instalazioan.
 ---------------
-Espacio libre: <VARIABLE-01> KB
+Efektuak instalatzen
+---------------
+MEMORIA-DISKOA egiaztatzen...
+---------------
+Instalazioa amaitua
+---------------
+<COLOR-RED>Partida kaltetua.
+---------------
+Karpeta kaltetua.
+---------------
+A
+---------------
+A
+---------------
+Ezin izan da partida gorde.
+---------------
+Gordetako partida kargatzen...
+---------------
+Ezin izan da partida kargatu.
+---------------
+Akatsa ezabatzean.
+---------------
+Sakatu START jarraitzeko.
+---------------
+A
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berri bat sortzeko
+---------------
+<VARIABLE-01> KB
+	behar dira fitxategi berri bat gordetzeko
+---------------
+Espazio librea: <VARIABLE-01> KB
 ---------------
 A
 ---------------
 A
 ---------------
-¿Seguro que quieres borrar
-	estos datos guardados?
+Ziur al zaude gordetako datuak
+	ezabatu nahi dituzula?
 ---------------
-Error al borrar la partida.
+Errorea partida ezabatzean.
 ---------------
-No hay carpeta.
+Ez dago karpetarik.
 ---------------
-<COLOR-BLUE>Es posible guardar.
+<COLOR-BLUE>Gorde daiteke.
 ---------------
-Archivos guardados de SILENT HILL 2
+Gordetako SILENT HILL 2 fitxategiak
 ---------------
 A
 ---------------
-No puede crearse una carpeta nueva
+Ezin da karpeta berririk sortu
 ---------------
-Nivel cero
+Zero maila
 ---------------
-<COLOR-WHITE>Muestra TGS
+<COLOR-WHITE>TGS lagina
 ---------------
-<COLOR-WHITE>Servicios/Bar/Caravana
+<COLOR-WHITE>Zerbitzuak/Taberna/Karabana
 ---------------
-<COLOR-WHITE>Mirador
+<COLOR-WHITE>Begiratokia
 ---------------
-<COLOR-WHITE>Bosque
+<COLOR-WHITE>Basoa
 ---------------
-<COLOR-WHITE>Parte este de la ciudad
+<COLOR-WHITE>Hiriaren ekialdea
 ---------------
-<COLOR-WHITE>Apartam. este, 1.ª plta.
+<COLOR-WHITE>Apartam. Ekialdea, 1. solairua.
 ---------------
-<COLOR-WHITE>Apartam. este, 2.ª plta.
+<COLOR-WHITE>Apartam. Ekialdea, 2. solairua.
 ---------------
-<COLOR-WHITE>Apartam. este, 3.ª plta. O
+<COLOR-WHITE>Apartam. Ekialdea, 3. solairua. O
 ---------------
-<COLOR-WHITE>Apartam. este, 3.ª plta. E
+<COLOR-WHITE>Apartam. Ekialdea, 3. solairua. E
 ---------------
-<COLOR-WHITE>Apartam. oeste, 1.ª plta.
+<COLOR-WHITE>Apartam. Mendebaldeko 1. solairua.
 ---------------
-<COLOR-WHITE>Apartam. oeste, 2.ª plta.
+<COLOR-WHITE>Apartam. Mendebaldea, 2. solairua.
 ---------------
-<COLOR-WHITE>Escaleras de apartamentos
+<COLOR-WHITE>Apartamentu-eskailerak
 ---------------
-<COLOR-WHITE>Exterior de apartamentos
+<COLOR-WHITE>Apartamentuen kanpoaldea
 ---------------
-<COLOR-WHITE>Parte oeste de la ciudad
+<COLOR-WHITE>Hiriaren mendebaldea
 ---------------
-<COLOR-WHITE>Bolera
+<COLOR-WHITE>Bolatokia
 ---------------
-<COLOR-WHITE>Exterior del Heaven's Night
+<COLOR-WHITE>Heaven 's Night-en kanpoaldea
 ---------------
 <COLOR-WHITE>Heaven's Night
 ---------------
-<COLOR-WHITE>Hospital, 1.ª planta
+<COLOR-WHITE>Ospitalea, 1. solairua
 ---------------
-<COLOR-WHITE>Hospital, 2.ª planta
+<COLOR-WHITE>Ospitalea, 2. solairua
 ---------------
-<COLOR-WHITE>Hospital, 3.ª planta
+<COLOR-WHITE>Ospitalea, 3. solairua
 ---------------
-<COLOR-WHITE>Hospital, tejado/ascensor
+<COLOR-WHITE>Ospitalea, teilatua/igogailua
 ---------------
-<COLOR-WHITE>Hospital opuesto, 1.ª plta. O
+<COLOR-WHITE>Kontrako ospitalea, 1. solairua. O
 ---------------
-<COLOR-WHITE>Hospital opuesto, 1.ª plta. E
+<COLOR-WHITE>Kontrako ospitalea, 1. solairua. E
 ---------------
-<COLOR-WHITE>Hospital opuesto, 2.ª plta.
+<COLOR-WHITE>Kontrako ospitalea, 2. solairua.
 ---------------
-<COLOR-WHITE>Hospital opuesto, 3.ª plta.
+<COLOR-WHITE>Kontrako ospitalea, 3. solairua.
 ---------------
-<COLOR-WHITE>Hospital, sótano
+<COLOR-WHITE>Ospitalea, sotoa
 ---------------
-<COLOR-WHITE>Hospital opuesto, pasillo
+<COLOR-WHITE>Kontrako ospitalea, korridorea
 ---------------
-<COLOR-WHITE>Sociedad Histórica
+<COLOR-WHITE>Gizarte historikoa
 ---------------
-<COLOR-WHITE>Zona extraña 1
+<COLOR-WHITE>Eremu arraroa 1
 ---------------
-<COLOR-WHITE>Zona extraña 2
+<COLOR-WHITE>Eremu arraroa 2
 ---------------
-<COLOR-WHITE>Norte de la prisión
+<COLOR-WHITE>Espetxearen iparraldea
 ---------------
-<COLOR-WHITE>Sur de la prisión
+<COLOR-WHITE>Espetxearen hegoaldea
 ---------------
-<COLOR-WHITE>Sótanos de la prisión
+<COLOR-WHITE>Espetxeko sotoak
 ---------------
-<COLOR-WHITE>Laberinto, parte oeste
+<COLOR-WHITE>Labirintoa, mendebaldea
 ---------------
-<COLOR-WHITE>Laberinto, parte este
+<COLOR-WHITE>Labirintoa, ekialdea
 ---------------
-<COLOR-WHITE>Laberinto, parte norte
+<COLOR-WHITE>Labirintoa, iparraldea
 ---------------
-<COLOR-WHITE>Enfrentamiento con Eddie
+<COLOR-WHITE>Liskarra Eddieren aurka
 ---------------
-<COLOR-WHITE>Lago
+<COLOR-WHITE>Lakua
 ---------------
-<COLOR-WHITE>Hotel, sótano
+<COLOR-WHITE>Hotela, sotoa
 ---------------
-<COLOR-WHITE>Hotel, 1.ª planta
+<COLOR-WHITE>Hotela, 1. solairua
 ---------------
-<COLOR-WHITE>Hotel, 2.ª planta
+<COLOR-WHITE>Hotela, 2. solairua
 ---------------
-<COLOR-WHITE>Hotel, 3.ª planta
+<COLOR-WHITE>Hotela, 3. solairua
 ---------------
-<COLOR-WHITE>Hotel opuesto, sótano
+<COLOR-WHITE>Kontrako hotela, sotoa
 ---------------
-<COLOR-WHITE>Hotel opuesto, 1.ª planta
+<COLOR-WHITE>Kontrako hotela, 1. solairua
 ---------------
-<COLOR-WHITE>Hotel opuesto, 2.ª planta
+<COLOR-WHITE>Kontrako hotela, 2. solairua
 ---------------
-<COLOR-WHITE>Hotel opuesto, 3.ª planta
+<COLOR-WHITE>Kontrako hotela, 3. solairua
 ---------------
-<COLOR-WHITE>Hotel en llamas
+<COLOR-WHITE>Hotela sutan
 ---------------
-<COLOR-WHITE>Desenlace: Recuperación
+<COLOR-WHITE>Amaiera: Susperraldia
 ---------------
-<COLOR-WHITE>Desenlace: María
+<COLOR-WHITE>Amaiera: Mari
 ---------------
-<COLOR-WHITE>Desenlace: Suicidio
+<COLOR-WHITE>Amaiera: Suizidioa
 ---------------
-<COLOR-WHITE>Desenlace: Resurrección
+<COLOR-WHITE>Amaiera: Berpizkundea
 ---------------
-<COLOR-WHITE>Desenlace: Perro
+<COLOR-WHITE>Amaiera: Txakurra
 ---------------
-<COLOR-WHITE>María: Heaven's Night
+<COLOR-WHITE>Mari: Heaven's Night
 ---------------
-<COLOR-WHITE>María: Ciudad
+<COLOR-WHITE>Mari: Hiria
 ---------------
-<COLOR-WHITE>María: Mansión, 1.ª plta.
+<COLOR-WHITE>Mari: Etxea handia, 1. solairua.
 ---------------
-<COLOR-WHITE>María: Mansión, 2.ª plta.
+<COLOR-WHITE>Mari: Etxea handia, 2. solairua.
 ---------------
-<COLOR-WHITE>María: Mansión, sótano
+<COLOR-WHITE>Mari: Etxea handia, sotoa
 ---------------
-<COLOR-WHITE>María: Apartamentos
+<COLOR-WHITE>Mari: Apartamentuak
 ---------------
-Guardado rápido
+Azkar gordetzea

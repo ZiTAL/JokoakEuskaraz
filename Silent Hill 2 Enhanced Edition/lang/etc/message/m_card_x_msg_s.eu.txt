@@ -699,7 +699,7 @@ Ez itzali ordenagailua.
 }
 {
 [8000]
-Ez atera memoria-unitateak etaez deskonektatu kontrolagailurik.
+Ez atera memoria-unitateak eta ez deskonektatu kontrolagailurik.
 [ffff]
 [8000]
 }
@@ -955,7 +955,7 @@ A
 }
 {
 [8000]
-Ziur zaude gordetako datuhoriek ezabatu nahi dituzula?
+Ziur zaude gordetako datu horiek ezabatu nahi dituzula?
 [ffff]
 [8000]
 }

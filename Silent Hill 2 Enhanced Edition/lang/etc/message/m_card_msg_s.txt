@@ -22,7 +22,7 @@ Erabaki gabeko izena
 ---------------
 <COLOR-WHITE>Ospitalea, harrera
 ---------------
-<COLOR-WHITE>Ospitalea,  3. solairuko gela.
+<COLOR-WHITE>Ospitalea, 3. solairuko gela.
 ---------------
 <COLOR-WHITE>Ospitalea, 1. solairuko korridorea.
 ---------------
@@ -72,23 +72,23 @@ Datuen fitxategia kaltetuta.
 ---------------
 <COLOR-BLUE>Gorde daiteke.
 ---------------
-Gorde fitxategi berri batean.
+Fitxategi berri batean gorde.
 ---------------
 Formateatzen.
 ---------------
-Errorea formateatzean.
+Errorea formateatzerakoan.
 ---------------
 <COLOR-BLUE>Gordetzen...
 ---------------
-Gordetako datuak.
+Datuak gordeta.
 ---------------
-Akatsa gertatu da gordetzean.
+Gordetzerakoan akatsa gertatu da.
 ---------------
 Kargatzen.
 ---------------
-Karga beteta.
+Karga eginda.
 ---------------
-Akatsa kargatzean.
+Kargatzean akatsa gertatu da.
 ---------------
 Datuak hondatuta daude.
 ---------------
@@ -130,7 +130,7 @@ A
 ---------------
 A
 ---------------
-Ezin da fitxategi gehiago sortu
+Ezin dira fitxategi gehiago sortu
 ---------------
 Ziur zaude gordetako datu horiek
 	ezabatu nahi al dituzula?
@@ -155,7 +155,7 @@ A
 ---------------
 A
 ---------------
-Karga azkarra beteta
+Karga azkarra eginda
 ---------------
 A
 ---------------
