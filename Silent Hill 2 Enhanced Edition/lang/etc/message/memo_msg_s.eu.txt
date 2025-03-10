@@ -18,7 +18,7 @@ Urtegiaren monumentua
 {
 [8000]
 [fbff]
-"Goizerako ibilbidea"
+"Etorkizunerako ibilbidea"
 [ffff]
 [8000]
 }

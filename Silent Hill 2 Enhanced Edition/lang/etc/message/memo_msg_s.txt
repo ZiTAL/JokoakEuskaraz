@@ -1,311 +1,306 @@
 ﻿--------------- strings=109 language=spanish
 ---------------
-<CENTER-PER-LINE>Monumento del pantano
+<CENTER-PER-LINE>Urtegiaren monumentua
 ---------------
-<CENTER-PER-LINE>«La ruta hacia el mañana»
+<CENTER-PER-LINE>«Etorkizunerako ibilbidea»
 ---------------
-<CENTER-PER-LINE>«Cómo ser una pareja feliz»
+<CENTER-PER-LINE>«Nola izan bikote zoriontsua»
 ---------------
-<CENTER-PER-LINE>«Elegir la muerte»
+<CENTER-PER-LINE>«Heriotza aukeratu»
 ---------------
-<CENTER-PER-LINE>Arañazos de la pared
+<CENTER-PER-LINE>Hormako harramazkak
 ---------------
-<CENTER-PER-LINE>«Tres agujas en tres alturas difieren»
+<CENTER-PER-LINE>«Hiru altueratan dauden orratzak desberdinak dira»
 ---------------
-<CENTER-PER-LINE>«Tres tamaños distintos, el tiempo pasó»
+<CENTER-PER-LINE>«Hiru tamaina desberdin, denborak aurrera egin zuen»
 ---------------
-<CENTER-PER-LINE>Artículo sobre asesinato
+<CENTER-PER-LINE>Hilketari buruzko artikulua
 ---------------
-<CENTER-PER-LINE>Folleto turístico
+<CENTER-PER-LINE>Turismo-liburuxka
 ---------------
-<CENTER-PER-LINE>Cartera del inodoro
+<CENTER-PER-LINE>Komunontziaren zorroa
 ---------------
-<CENTER-PER-LINE>Fotografía rota
+<CENTER-PER-LINE>Apurtutako argazkia
 ---------------
-<CENTER-PER-LINE>«Querido Tim»
+<CENTER-PER-LINE>Tim maitea»
 ---------------
-<CENTER-PER-LINE>«Tres brillantes monedas en cinco agujeros»
+<CENTER-PER-LINE>«Hiru txanpon distiratsu bost zulotan»
 ---------------
-<CENTER-PER-LINE>«Primero está el asiento del Incomparable»
+<CENTER-PER-LINE>«Lehenengo, Konparaezinaren idazpena dago»
 ---------------
-<CENTER-PER-LINE>«Como monedas lanzadas al éter»
+<CENTER-PER-LINE>«Eterrera jaurtitako txanponak bezala»
 ---------------
-<CENTER-PER-LINE>«A la derecha está la dama»
+<CENTER-PER-LINE>«Eskuinean emakumea dago»
 ---------------
-<CENTER-PER-LINE>Historiales clínicos
+<CENTER-PER-LINE>Historia klinikoak
 ---------------
-<CENTER-PER-LINE>Diario del médico
+<CENTER-PER-LINE>Medikuaren egunerokoa
 ---------------
-<CENTER-PER-LINE>Mensaje en pizarra blanca
+<CENTER-PER-LINE>Arbel zuriko mezua
 ---------------
-<CENTER-PER-LINE>Huellas en papel carbón
+<CENTER-PER-LINE>Arrastoak ikatz-paperean
 ---------------
-<CENTER-PER-LINE>Diario del tejado
+<CENTER-PER-LINE>Teilatuaren egunkaria
 ---------------
-<CENTER-PER-LINE>«Jira jira jira los números»
+<CENTER-PER-LINE>«Zenbakiak buelta bueltaka»
 ---------------
 <CENTER-PER-LINE>«Louise»
 ---------------
-<CENTER-PER-LINE>«Es un ángel»
+<CENTER-PER-LINE>«Aingerua da»
 ---------------
-<CENTER-PER-LINE>«Koji la yave del direktor»
+<CENTER-PER-LINE>«Susendariaren giltsa artu nuen»
 ---------------
-<CENTER-PER-LINE>«Trastada o regalo»
+<CENTER-PER-LINE>«Gozokidxe edo ostidxe»
 ---------------
-<CENTER-PER-LINE>«Paisaje ribereño»
+<CENTER-PER-LINE>«Ibaiertzeko paisaia»
 ---------------
-<CENTER-PER-LINE>Cuadro de Cabeza Pirámide
+<CENTER-PER-LINE>Piramide buruaren koadroa
 ---------------
-<CENTER-PER-LINE>Inscripción en la horca
+<CENTER-PER-LINE>Urkabean izena ematea
 ---------------
-<CENTER-PER-LINE>Leyenda del lago
+<CENTER-PER-LINE>Lakuaren kondaira
 ---------------
-<CENTER-PER-LINE>Periódico empapado en sangre
+<CENTER-PER-LINE>Odolez bustitako egunkaria
 ---------------
-<CENTER-PER-LINE>«Que alguien me salve»
+<CENTER-PER-LINE>«Norbaitek salba nazala»
 ---------------
-<CENTER-PER-LINE>«Hombres muertos»
+<CENTER-PER-LINE>«Hildako gizonak»
 ---------------
-<CENTER-PER-LINE>Diario del condenado
+<CENTER-PER-LINE>Kondenatuaren egunkaria
 ---------------
-<CENTER-PER-LINE>«Muerte sobre la cabeza del pecador»
+<CENTER-PER-LINE>«Bekatariaren buruaren gaineko heriotza»
 ---------------
-<CENTER-PER-LINE>Nota de la recepcionista
+<CENTER-PER-LINE>Harreragilearen oharra
 ---------------
-<CENTER-PER-LINE>Foto del baúl
+<CENTER-PER-LINE>Kutxaren argazkia
 ---------------
-<CENTER-PER-LINE>«lo sé, sé el número de la caja»
+<CENTER-PER-LINE>«badakit, badakit kutxaren zenbakia»
 ---------------
-<CENTER-PER-LINE>Nota n.º 1 del cadáver
+<CENTER-PER-LINE>Gorpuaren 1. oharra
 ---------------
-<CENTER-PER-LINE>Nota n.º 2 del cadáver
+<CENTER-PER-LINE>Gorpuaren 2. oharra
 ---------------
-<CENTER-PER-LINE>Nota n.º 3 del cadáver
+<CENTER-PER-LINE>Gorpuaren 3. oharra
 ---------------
-<CENTER-PER-LINE>Nota n.º 4 del cadáver
+<CENTER-PER-LINE>Gorpuaren 4. oharra
 ---------------
-<CENTER-PER-LINE>Nota n.º 5 del cadáver
+<CENTER-PER-LINE>Gorpuaren 5. oharra
 ---------------
-<CENTER-PER-LINE>Nota n.º 6 del cadáver
+<CENTER-PER-LINE>Gorpuaren 6. oharra
 ---------------
-<CENTER-PER-LINE>Periódicos del escaparate
+<CENTER-PER-LINE>Erakusleihoko egunkariak
 ---------------
-<CENTER-PER-LINE>«El niño perdido no estaba»
+<CENTER-PER-LINE>«Galdutako haurra ez zegoen»
 ---------------
-<CENTER-PER-LINE>«Muerte sobre la cabeza del pecador»
+<CENTER-PER-LINE>«Bekatariaren buruaren gaineko heriotza»
 ---------------
-<CENTER-PER-LINE>Palabras escritas en la pared
+<CENTER-PER-LINE>Horman idatzitako hitzak
 ---------------
-<CENTER-PER-LINE>Número escrito en la pizarra blanca
+<CENTER-PER-LINE>Arbel zurian idatzitako zenbakia
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+<CENTER-PARAGRAPH><COLOR-BLUE>Urtegiaren hondarrak <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
-	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
-	orginalmente un pantano, pero
-	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+<CENTER-PARAGRAPH><COLOR-BLUE>Monumentu hau inguratzen duten <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ro lur
+    hasieran zingira bat zen, baina
+    gero lurrez <HIDDEN-TEXT>beteta<HIDDEN-TEXT> izan zen.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
-	recibió el apodo de «pantano sangriento»
-	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
-	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
-	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+<CENTER-PARAGRAPH><COLOR-BLUE>Du<HIDDEN-TEXT>ela as<HIDDEN-TEXT>ko, zin<HIDDEN-TEXT>gira honek<HIDDEN-TEXT>
+    «pantano odoltsua» ezizena jaso zuen
+    <HIDDEN-TEXT>ber<HIDDEN-TEXT>takoek hemen isurtzen zutelako
+    erabiltzen zuten ur<HIDDEN-TEXT>a beren<HIDDEN-TEXT>
+    exekuzio tresnak garbitzeko.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
-	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
-	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Agian horre<HIDDEN-TEXT>gatik
+    jende askok dio
+    zonal<HIDDEN-TEXT>dean mamuak ikusi dituela.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«La ruta hacia el mañana»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Etorkizunerako ibilbidea»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El primer paso para una vida
-	sana es evitar la enfermedad.
-	Parecerá obvio, pero es
-	muy importante.
-	 Es mejor evitar las
-	enfermedades que tener que
-	buscar una cura tras enfermar.
+<CENTER-PARAGRAPH><COLOR-BLUE> Bizitza osasuntsu baterako lehen
+	urratsa gaixotasuna saihestea da.
+	Bistakoa dirudi, baina
+	oso garrantzitsua da. Hobe da
+	gaixotasunak saihestea, gaixotu
+	ondoren sendabidea bilatzea baino.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Además, hay que tener
-	una perspectiva positiva y
-	optimista de la vida. De poco
-	sirve preocuparse por las cosas
-	que ocurrieron en el pasado.
+<CENTER-PARAGRAPH><COLOR-BLUE> Gainera, bizitzaren ikuspegi positiboa
+	eta baikorra izan behar da.
+	Ez du ezertarako balio iraganean
+	gertatutako gauzez kezkatzeak.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Tienes que salir y disfrutar
-	del aire libre de vez en cuando,
-	en lugar de quedarte sentado
-	en tu casa, leyendo libros
-	complejos.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Irten eta aire libreaz gozatu
+	behar duzu noizean behin,
+	etxean eserita egon beharrean,
+	ulertzeko zailak diren liburuak irakurtzen.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«Cómo ser una pareja feliz»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Nola izan bikote zoriontsua»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> ¿De verdad la amas?
-	 ¿En la salud y en la enfermedad?
-	 Si la amas de verdad, tienes
-	que actuar. Lo importante es
-	lo mucho que luches por ella.
+<CENTER-PARAGRAPH><COLOR-BLUE> Benetan maite duzu? Osasunean
+	eta gaixotasunean? Benetan
+	maite baduzu, ekin egin
+	behar diozu. Garrantzitsuena da
+	zenbat borrokatzen duzun beragatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> No te rindas, pase lo que
-	pase. Da siempre otra
-	oportunidad. Y a pesar de
-	los momentos más duros, nunca
-	te vayas con otra mujer.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez etsi, edozer gertatuta ere.
+	Beti eman beste aukera bat.
+	Eta une gogorrak izan
+	arren, ez joan inoiz beste
+	emakume batekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Si llega el caso, debes estar
-	dispuesto a dar tu vida
-	por ella. Al fin y al cabo, el
-	verdadero amor supone estar
-	dispuesto a sacrificarse.
+<CENTER-PARAGRAPH><COLOR-BLUE> Kasua iristen bada, prest egon
+	behar duzu haren alde bizitza
+	emateko. Azken finean, benetako
+	maitasuna sakrifikatzeko
+	prest egotea baita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Sé fiel a tus sentimientos y,
-	con suerte, todo saldrá bien.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Izan leial zure sentimenduekin eta,
+	zorte apur batekin, dena ondo aterako da.	
+<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«Elegir la muerte»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Heriotza aukeratu»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Cuando la vida está llena
-	de desesperación, algunos
-	deciden acabar con todo.
-	 Yo también elegí ese camino
-	una vez.
-	 En aquel momento pensé
-	que no tenía otra salida.
+<CENTER-PARAGRAPH><COLOR-BLUE> Bizitza etsipenez beteta dagoenean,
+	batzuek dena amaitzea erabakitzen
+	dute. Nik ere behin aukeratu nuen
+	bide hori. Une hartan pentsatu
+	nuen ez nuela beste irtenbiderik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Una vez tomé la decisión, esta
-	se convirtió en lo único que me
-	unía a este mundo.
-	 A veces me ponía a llorar
-	pensando en el pasado, pero
-	sobre todo, lo que hacía era
-	planificar una y otra vez cómo
-	y cuándo me iba a suicidar.
+<CENTER-PARAGRAPH><COLOR-BLUE> Behin erabakia hartu nuenean,
+	hau bihurtu zen mundu honetara
+	lotzen ninduen gauza bakarra.
+	Batzuetan negarrez hasten nintzen
+	iraganean pentsatzen, baina,
+	batez ere, behin eta berriz
+	planifikatzen nuen nola eta
+	noiz egingo nuen neure buruaz beste.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Hice estupideces, cosas peligrosas.
-	Pensé que daba lo mismo,
-	iba a morir de todas formas,
-	y me empeñé en tentar a la
-	suerte.
-	 Dejé de hablar con la gente,
-	de darle importancia, aunque
-	me distanciara de las amistades.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Ergelkeriak egin ditut, gauza arriskutsuak.
+	Berdin zitzaidala pentsatu nuen,
+	hil egingo nintzela, eta zoria
+	tentatzen saiatu nintzen.
+	Jendearekin hitz egiteari utzi nion,
+	garrantzia emateari, nahiz eta
+	adiskidetasunetik urrundu.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE>Henry
 	Mildred
 	Scott<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres agujas
-	en tres alturas difieren.
-	Una es gruesa,
-	una es alta y otra fina.
-	De lento a rápido
-	a la derecha se mueven.
-	Scott no se posa en el 3,
-	sino que en el 15 atina.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru altuerako hiru orratz
+	ezberdinak dira.
+	Bat lodia da,
+	bat garaia eta bestea fina.
+	Astiro-astiro eskuinera
+	mugitzen dira. Scott ez
+	da 3. ean gelditzen,
+	15. ean baizik.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres tamaños distintos,
-	el tiempo pasó.
-	Tres jóvenes dando
-	vueltas alrededor del sol.
-	Henry es bajo,
-	y lento, lento va,
-	Scott no puede parar,
-	siempre en marcha está.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru tamaina desberdin,
+	denbora pasa zen. Hiru
+	gazte eguzkiaren inguruan
+	bueltaka. Henry baxua da,
+	eta motela, motel doa,
+	Scott ezin da gelditu,
+	beti martxan dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
-	que Walter Sullivan, detenido
-	el día 18 de este mes por
-	el brutal asesinato de Billy
-	Locane y su hermana Miriam,
-	se suicidó en su celda en
-	la madrugada del 22.
+TODO
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
+	Walter Sullivan hilaren 18an
+	atxilotu zuten, Billy Locane
+	eta bere arreba Miriamen hilketa
+	bortitzagatik, eta bere buruaz
+	beste egin zuen bere ziegan,
+	hilaren 22ko goizaldean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
-	Sullivan se clavó una cuchara
-	sopera en el cuello, cortándose
-	la arteria carótida.
-	
-	 Cuando el guarda lo encontró,
-	Sullivan ya había muerto
-	desangrado, con la cuchara
-	hendida cinco centímetros
-	en el cuello.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren
+	arabera, Sullivanek zopa-koilara
+	bat sartu zuen lepoan, karotida
+	arteria moztuz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
-	de Walter Sullivan, de su ciudad natal
-	de Pleasant River, declaró:
-	 «No parecía capaz de matar
-	a un niño.
+ 	 Zaindariak aurkitu zuenean,
+	Sullivan odolustuta zegoen,
+	koilara lepoan bost zentimetro
+	arrailduta zuela.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
-	de que lo detuvieran decía
-	cosas extrañas, en plan:
-	“Quiere matarme. Quiere
-	castigarme. El monstruo...
-	el demonio rojo.
-	Perdonadme. Yo lo hice,
-	¡pero no fui yo!”».
+<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivan-en eskolakide ohi batek,
+	Pleasant River bere jaioterri berberekoak,
+	zera adierazi zuen:
+	«Ez zirudien haur bat
+	hiltzeko gai zenik.»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
-	«Ahora que lo pienso, creo que
-	le faltaba algún tornillo».<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> 
+	Baina gogoan dut atxilotu
+	baino lehentxeago gauza
+	arraroak esaten zituela,
+	adibidez:
+	"Hil egin nahi nau. Zigortu.
+	Munstroa... deabru gorria.
+	Barkatu. Nik egin nuen,
+	baina ez nintzen ni izan!".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Lagunak gaineratu zuen:
+	«Orain pentsatzen ari naizela,
+	uste dut adarren bat
+	falta zitzaiola».<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>¡Le damos la bienvenida
-	a Silent Hill!
+<CENTER-PARAGRAPH><COLOR-BLUE>Ongi etorri
+Silent Hill-era!
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill es una pequeña y
-	tranquila ciudad turística
-	a orillas de un lago.
-	Nos alegra que haya decidido
-	visitarnos. Tómese un descanso
-	de su ajetreada vida y disfrute
-	de unas tranquilas vacaciones.
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill aintzira baten
+	ertzean dagoen hiri turistiko
+	txiki eta lasaia da.
+	Pozten gaitu bisitatzea erabaki
+	izanak. Har ezazu atseden zure
+	bizitza lanpetu horretatik eta
+	gozatu gurean opor lasaiez.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Hileras de pintorescas casas
-	antiguas.
-	 Un magnífico paisaje montañoso.
-	 Y un lago que muestra las distintas
-	facetas de su belleza a lo largo del
-	día, de sol a sol.
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako etxe bitxien ilarak.
+	Paisaia menditsu bikaina.
+	Eta laku bat, bere edertasunaren
+	alderdi desberdinak erakusten
+	dituena egun osoan zehar.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill le conmoverá y le hará
-	sentir una paz profunda.
-	Espero que su estancia sea agradable
-	y sus recuerdos perduren
-	para siempre.
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hillek hunkitu egingo
+	zaitu eta bake sakona
+	sentiaraziko dizu. Espero dut
+	zure egonaldia atsegina izatea
+	eta zure oroitzapenek betiko irautea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Roger Widmark<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Egilea: Roger Widmark<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
-	 Tengo que irme a hacer un recado.
+<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea:
+	Mandatu bat egitera joan behar dut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
-	al tío David (Ya sabes dónde
-	vive, ¿no? La llave está
-	en la habitación más cercana
-	a la escalera del primer piso).
-	
-	 Volveré en cuanto pueda;
-	cuídame la casa mientras
-	estoy fuera, por favor.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba Davidi
+	utziko diot (Badakizu non bizi
+	den, ezta? Giltza lehen solairuko
+	eskaileratik hurbilen dagoen
+	gelan dago).
+
+	Ahal bezain laster itzuliko naiz,
+	zaindu etxea kanpoan nagoen
+	bitartean, mesedez.
+<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres brillantes monedas
-	en cinco agujeros están
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru txanpon distiratsu
+	bost zulotan
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En un extremo se halla el
-	seductor de la mujer de Adán
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mutur batean Adanen
+	emaztearen limurtzailea dago.	
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sopla el viento a
-	espaldas de la mujer
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Haizeak emakumearen
+	gibeletik jotzen du
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Y aquel que no tiene forma, el nulo,
-	de lejos los tiene que ver
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Eta formarik ez duenak, deusezak,
+	urrunetik ikusi behar ditu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El anciano junto a la
-	serpiente no está
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sugearen ondoan zegoen
+	agurea ez dago
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Es a la izquierda del
-	prisionero donde se pudrirá<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Presoaren ezkerraldean
+	ustelduko da.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Primero está el asiento
 	del Incomparable, Él,
