@@ -2039,7 +2039,7 @@ hara itzuliko.
 {
 [8000]
 [fbff]
-Gelaxkako 1. koadroa
+Ziegako 1. koadroa
 [ffff]
 [8000]
 }
