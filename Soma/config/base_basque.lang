@@ -125,7 +125,7 @@
     <Entry Name="OutOfDate">Badirudi ez duzula zure kontrolagailu grafikoen azken bertsioa erabiltzen. Eguneratu itzazu errendimendu optimoa lortzeko.</Entry>
     <Entry Name="GameMode">JOLASTEKO MODUA:</Entry>
     <Entry Name="NormalMode">NORMALA</Entry>
-    <Entry Name="ExplorationMode">ASEGURUA</Entry>
+    <Entry Name="ExplorationMode">SEGURUA</Entry>
     <Entry Name="StartGame">HASI JOLASA</Entry>
     <Entry Name="NormalModeDescription">Munstroak arriskutsuak dira eta hil zaitzakete. Zure adimenaz eta zuhurtziaz baliatu behar duzu bizirik irauteko. As [u237] jokoa eman zen [u241] [u243].</Entry>
     <Entry Name="ExplorationModeDescription">Munstroek beldurra ematen jarraitzen dute, baina ezin zaituzte hil. Zuhurtasunik gabe joka dezakezu.</Entry>
@@ -189,7 +189,7 @@
     <Entry Name="Colon">Bi puntu</Entry>
     <Entry Name="SemiColon">Puntua eta koma</Entry>
     <Entry Name="Less">Baino txikiagoa</Entry>
-    <Entry Name="Greater">Handiagoa</Entry>
+    <Entry Name="Greater">Goikoa</Entry>
     <Entry Name="Question">Galdera</Entry>
     <Entry Name="At">Arroba</Entry>
     <Entry Name="LeftBracket">Ezkerreko parentesia</Entry>

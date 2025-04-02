@@ -131,7 +131,7 @@
       <Entry Name="OK">Onartu</Entry>
       <Entry Name="Cancel">Ezeztatu</Entry>
       <Entry Name="Back">Atzera</Entry>
-      <Entry Name="Play">Gaitzetsi.</Entry>
+      <Entry Name="Play">Entzun.</Entry>
       <Entry Name="Stop">Gelditu</Entry>
       <Entry Name="Playback">Errepikatu</Entry>
       <Entry Name="NumPadClear">C</Entry>
@@ -146,7 +146,7 @@
       <Entry Name="StationGUI_VersionNO">v. 3.02</Entry>
       <Entry Name="DoorControlApp_Label">Ateak blokeatzea</Entry>
       <Entry Name="DoorControlApp_Locked">BLOQ.</Entry>
-      <Entry Name="DoorControlApp_Unlocked">DESBLOQ.</Entry>
+      <Entry Name="DoorControlApp_Unlocked">DESBLOK.</Entry>
       <Entry Name="DoorControlApp_Broken">N/A</Entry>
       <Entry Name="DoorControlApp_PowerLevelHeader">SISTEMAREN ERROREA! BLOKEO AKTIBOEN MUGAK.</Entry>
       <Entry Name="DoorControlApp_PowerLevel_Pre">XEDAPEN BALIABIDEAK:</Entry>
@@ -163,7 +163,7 @@
       <Entry Name="CorruptedData_Restoring">Berrezartzen...</Entry>
       <Entry Name="CorruptedData_Results">Datu partzialen berreskuratze burutua!</Entry>
       <Entry Name="Panel_AccessDenied">SARBIDEA UKATUTA</Entry>
-      <Entry Name="Panel_Locked">CONEXIK GABE.</Entry>
+      <Entry Name="Panel_Locked">KONEXIORIK GABE.</Entry>
       <Entry Name="Panel_On">BAIMENDUTAKO SARBIDEA</Entry>
       <Entry Name="Panel_Off">OMNITOOLA HURBILTZEA</Entry>
       <Entry Name="PressureDiff_Status">EGOERA</Entry>
@@ -213,7 +213,7 @@
       <Entry Name="00_03_Time">10:50</Entry>
    </CATEGORY>
    <CATEGORY Name="Readables">
-      <Entry Name="NoteDiveSuits">Haimatsu Jantzi Ohiak: Erabilera egokia[br]Zure eta zure kideen segurtasunerako![br]1: Jarri neoprenozko jantzia eta arnesa.[br]2: Egiaztatu ETHan ikusmen-kalteak dauden.[br]3: Hanketatik hasita, finkatu piezak arnesean eta segi gorantz. Finkatu pieza guztiak batera, aurrera egin ahala. Utz iezaiozu lagun bati atzeko pieza eta gorputz-enborra laguntzen.[br]4: Ukitu besoko piezaren "Ziurtatu" botoia.[br]5: Ondoren, jantzia presioa berdintzen hasiko da eta oxigeno-depositura sartuko da.[br]6: Trajea ez bada autosella, tolestu motelgailuak eta saiatu berriro. Oraindik ez badabil, ez saiatu zu konpontzen! Jarri harremanetan mantentze-zerbitzuarekin.[br]Oharra: ETHak oso astunak dira eta jantziak konpentsatuko du. Zuk uste baino indartsuagoa izango zara. Kontuz ibili![br]Entrenamendu erregularra aplikatzen da: Ez eutsi arnasari, ez egon luzaroan, ez murgildu oso sakon, ez murgildu ekipamendua behar bezala ez badabil.</Entry>
+      <Entry Name="NoteDiveSuits">Haimatsu janzki gogorrak: Erabilera egokia[br]Zure eta zure kideen segurtasunerako![br]1: Jarri neoprenozko jantzia eta arnesa.[br]2: Egiaztatu ETHan ikusmen-kalteak dauden.[br]3: Hanketatik hasita, finkatu piezak arnesean eta segi gorantz. Finkatu pieza guztiak batera, aurrera egin ahala. Utz iezaiozu lagun bati atzeko pieza eta gorputz-enborrarekin laguntzen.[br]4: Ukitu besoko piezaren "Ziurtatu" botoia.[br]5: Ondoren, jantzia presioa berdintzen hasiko da eta oxigeno-depositura sartuko da.[br]6: Trajea ez bada autozigilatzen dena, tolestu motelgailuak eta saiatu berriro. Oraindik ez badabil, ez saiatu zu konpontzen! Jarri harremanetan mantentze-zerbitzuarekin.[br]Oharra: ETHak oso astunak dira eta jantziak konpentsatuko du. Zuk uste baino indartsuagoa izango zara. Kontuz ibili![br]Entrenamendu erregularra aplikatzen da: Ez eutsi arnasari, ez egon luzaroan, ez murgildu oso sakon, ez murgildu ekipamendua behar bezala ez badabil.</Entry>
       <Entry Name="SecurityTasklist1">Ataza-zerrenda[br]Biziraun ARCA proiektutik[br]Eragotzi jendea elkarren artean hiltzea[br]Bidali C-ra eta taldeari[br]Mantendu jendea salbu[br]Gozatu Armagedoneko gainerakoaz</Entry>
       <Entry Name="SecurityTasklist2">Akers ez dago bakarrik[br]gutxienez 3 agente izakiak[br]egiaztatu eta ateak zigilatu[br]jaitsi[br]anezka Omicronera</Entry>
    </CATEGORY>
@@ -238,18 +238,18 @@
       <Entry Name="EMAIL_1_FROM">David Munshi</Entry>
       <Entry Name="EMAIL_1_SUBJ">Neurografo-saioa</Entry>
       <Entry Name="EMAIL_1_DATE">2015eko apirilaren 30a</Entry>
-      <Entry Name="EMAIL_1_BODY">Eskerrik asko berriz ere gure ikerketan parte hartzeagatik. Eskaneatzea Torontoko Pace laborategietan egingo da, baina gonbidatuak garenez, gure sarbidea nahiko zaila da. Larunbaterako eskaneatze-saio bat programatzen saiatuko naiz. Baieztatuta nagoenean, zurekin harremanetan jarriko naiz berriro.[br][br]Adeitasunez, David Munshi</Entry>
+      <Entry Name="EMAIL_1_BODY">Eskerrik asko berriz ere gure ikerketan parte hartzeagatik. Eskaneatzea Torontoko Pace laborategietan egingo da, baina gonbidatuak garenez, gure sarbidea nahiko zaila da. Larunbaterako eskaneatze-saio bat programatzen saiatuko naiz. Baieztatzen dudanean, zurekin harremanetan jarriko naiz berriro.[br][br]Adeitasunez, David Munshi</Entry>
       <Entry Name="EMAIL_2_FROM">Erin Peake doktorea</Entry>
       <Entry Name="EMAIL_2_SUBJ">Errezeta berria</Entry>
-      <Entry Name="EMAIL_2_DATE">martes, 28 de abril de 2015</Entry>
+      <Entry Name="EMAIL_2_DATE">asteartea, 2015eko apirilaren 28a</Entry>
       <Entry Name="EMAIL_2_BODY">Jarrett jaun agurgarria:[br][br]Pozten nau zure buruko minak orain ez direla hain ohikoak jakiteak. Egindako azken proben arabera, bere garuna pixkanaka berreskuratzen ari da, baina oraindik goiz da kalteetara zein ondo egokituko den jakiteko. Odoljarioak, gutxienez, datozen hilabeteetan jarraituko du, eta ospitalera etorri beharko du zenbait aldiz, barrunbea drainatzeko eta odol-presioa pilatzea saihesteko.[br]Gehiegizko estres bat hilgarria izan daitekeenez, Prazosin errezetatu diot amesgaiztoetan laguntzeko. Kontsultatu jarraibideak eta hartu medikazioa, esan bezala.[br]Saiatu atseden asko hartzen. Datorren astean ikusiko dugu elkar.[br][br]Adeitasunez:[br]Erin Peake doktorea</Entry>
       <Entry Name="EMAIL_3_FROM">Jesse - Grimorioa</Entry>
       <Entry Name="EMAIL_3_SUBJ">Larunbat librea</Entry>
-      <Entry Name="EMAIL_3_DATE">martes, 1 de mayo de 2015</Entry>
+      <Entry Name="EMAIL_3_DATE">asteartea, 2015eko maiatzaren 1a</Entry>
       <Entry Name="EMAIL_3_BODY">Kaixo Jesse:[br][br]Ziurrenik ahaztuko zitzaizunez, hemen nago gogorarazteko bihar hitzordua dudala medikuarekin, eta horrek esan nahi du ez naizela lanera joango![br][br]Denda irekitzeko garaiz iritsiko zarela ziurtatu beharko duzu. Eta, mesedez, kendu mostradore atzean dauden kutxak, laneko arriskua baitira. Gainera, liburuak askoz hobeto saltzen dira apaletan badaude, jendeak ikus ditzakeen lekuetan.[br][br]Zorte on (beharko duzu)[br]- Simon</Entry>
       <Entry Name="GUIMailWindow">treemail 0.1</Entry>
       <Entry Name="GUIMailASimon">Simon.Jarrett@email.net</Entry>
-      <Entry Name="NewspaperCrash">Neska gazte bat hil zen hiriko erdigunean izandako istripu batean[br]Ostirala, 2015eko apirilaren 10a[br][br]TORONTO - Atzo, gidari batek arreta galdu zuen bere seme-alabekin, eta horrek semaforo gorri bat saltatu zuen eta Bloor Streeteko eta Spadina Roadeko elkargunea zeharkatzen zuen auto bat ez ikustea eragin zuen. Amak eta haurrek, monobolumen batean zihoazela, zauri arinak izan zituzten. Beste aldeak ez zuen hainbeste zorte izan. Autoak 23 urteko Ashley Hall kopilotuaren aldea jo zuenean, zauri larriak izan zituen, eta zauritutako odolak itota hil zen, anbulantzia istripua gertatu zen lekura iritsi aurretik. Ibilgailuaren gidaria, Simon Jarrett 26 urteko laguna, bizirik atera zen, baina istripuaren ondorioz garuneko kalte iraunkorrak izango dituela uste dute.[br][br]Monobolumenaren gidariak, poliziak ez du bere izena jakinarazi, istripu bat izan zela dio, eta ia saihestezina izan zela.</Entry>
+      <Entry Name="NewspaperCrash">Neska gazte bat hil zen hiriko erdigunean izandako istripu batean[br]Ostirala, 2015eko apirilaren 10a[br][br]TORONTO - Atzo, gidari batek arreta galdu zuen bere seme-alabekin, eta horrek semaforo gorri bat saltatu zuen eta Bloor Streeteko eta Spadina Roadeko elkargunea zeharkatzen zuen auto bat ez ikustea eragin zuen. Amak eta haurrek, monobolumen batean zihoazela, zauri arinak izan zituzten. Beste aldeak ez zuen hainbeste zorte izan. Autoak 23 urteko Ashley Hall kopilotuaren aldea jo zuenean, zauri larriak izan zituen, eta zauriak isuritako odolarekin itota hil zen, anbulantzia istripua gertatu zen lekura iritsi aurretik. Ibilgailuaren gidaria, Simon Jarrett 26 urteko laguna, bizirik atera zen, baina istripuaren ondorioz garuneko kalte iraunkorrak izango dituela uste dute.[br][br]Monobolumenaren gidariak, poliziak ez du bere izena jakinarazi, istripu bat izan zela dio, eta ia saihestezina izan zela.</Entry>
       <Entry Name="BookLemuriaFront">KATIGATUAK[br]Robyn McConnell</Entry>
       <Entry Name="BookLemuriaBack">Azkenean, Mark eta Diana Millerrek atseden har dezakete. Nahikoa diru aurreztu dute familia Hawaiiko oporretara eramateko. Baina eguzkia Waikiki hondartzan lehen egunean sartzen denean, Mark eta Dianaren paradisua amesgaizto bihurtzen da bainulariak milaka harizpi finek harrapatzen dituztenean olatuen azpitik. Poliki-poliki, bainulariak ur ilunetara erortzen dira. Arriskutik ihes egiteko etsita, Charlie, zazpi urteko semea, harrapatuko dute sasi beldurgarriek. Intrigagarria, mistikoa eta erabat beldurgarria. Katigatuek hasieratik bukaerara lotuko zaituzte.</Entry>
       <Entry Name="DVDRecoilFront">Erretiratze masiboa</Entry>
@@ -261,7 +261,7 @@
       <Entry Name="PhoneCallProgress">Deika...</Entry>
       <Entry Name="NotebookBack">Paul Berg</Entry>
       <Entry Name="UniMagTitle">PROBA ETA ERROREA</Entry>
-      <Entry Name="UniMagFront">Utzi bisturia alde batera! Garuna bakarrik senda daiteke![br]"Burmuinak eraldatzeko gaitasun harrigarria du, bere burua konpentsatzeko eta sendatzeko aukera ematen dion plastikotasuna" azaldu du Paul Bergek, Yorkeko Unibertsitateko (Toronto) Neurozientzia saileko graduondoko ikasleak. Hori da Bergek eta David Munshik, informatikako ikasleak, sustatu nahi duten ezaugarria. "Garunak zuzen jokatzea da kontua. Eta gauza sinpleekin lortzea espero dugu: ariketa, terapia eta medikazio leuna. "[br]Baina Munshi eta Berg ez dira panazea miragarri baten bila ari; paziente bakoitzarentzako tratamendurik onena aurkitzea da kontua. Nakajima neurografo bat erregistratzen hasten dira. "Helbidea adierazten duen argazki bat bezalakoa da", dio Munshik, "garuneko eskaner estatiko batek ez bezala, neurografoak zure garuna nora doan esan diezaguke. "</Entry>
+      <Entry Name="UniMagFront">Utzi bisturia alde batera! Garuna bakarrik senda daiteke![br]"Burmuinak eraldatzeko gaitasun harrigarria du, bere burua konpentsatzeko eta sendatzeko aukera ematen dion plastikotasuna" azaldu du Paul Bergek, Yorkeko Unibertsitateko (Toronto) Neurozientzia saileko graduondoko ikasleak. Hori da Bergek eta David Munshik, informatikako ikasleak, sustatu nahi duten ezaugarria. "Garunak zuzen jokatzea da kontua. Eta gauza sinpleekin lortzea espero dugu: ariketa, terapia eta medikazio leuna. "[br]Baina Munshi eta Berg ez dira panazea miragarri baten bila ari; paziente bakoitzarentzako tratamendurik onena aurkitzea da kontua. Nakajima neurografo bat erregistratzen hasi dira. "Helbidea adierazten duen argazki bat bezalakoa da", dio Munshik, "garuneko eskaner estatiko batek ez bezala, neurografoak zure garuna nora doan esan diezaguke. "</Entry>
       <Entry Name="UniMagBack">Ez da epe luzerako iragarpena, milisegundo batzuk baino ez dira, baina, eredu informatiko egokiarekin, Bergek eta Munshi-k mota guztietako tratamenduak eman ditzakete benetako garuna kaltetu gabe. "Saia gintezke zure burmuinari lasaigarri gaindosi bat ematen maratoi bat korritzen ari zaren bitartean", iradoki du Bergek, "Eredu informatiko bat besterik ez da. Zure tratamenduan porrot egin dezakegu milioi bat aldiz jarraian, bide egokia aurkitu arte. " Eta, azkenean tratamendu optimoa aurkitzen dutenean, benetako pazienteari aplikatzen diote. Oraindik ere lehen faseetan gaude, baina horien proiekzioak PACE laborategien arreta erakarri du, ekipamenduarekin eta lanerako espazioarekin lagunduko dutela agindu baitute. "Zure laguntza izateko zortea dugu," dio Bergek. "Orain, arreta-zentro izateari utzi eta benetan lan egiten hasi behar dugu. "</Entry>
       <Entry Name="GUI_PACE_LOGIN">SAIOAREN HASIERA</Entry>
       <Entry Name="GUI_PACE_USERNAME">Erabiltzailearen izena</Entry>
@@ -280,11 +280,11 @@
       <Entry Name="EMAIL_2_FROM">David Munshi</Entry>
       <Entry Name="EMAIL_2_SUBJ">GAIA: Prestatu zure gauzak</Entry>
       <Entry Name="EMAIL_2_DATE">2015eko apirilaren 27a</Entry>
-      <Entry Name="EMAIL_2_BODY">Kaixo Paul:[br]Aste honetan zure laborategia erabiltzeko aukeraz hitz egin dut PACErekin. Bihar goizerako erreserbatu dut eskanerra, baita ostiralerako ere. Ez da asko, baina esan zuten bulegoan erabil genezakeela harrera-gune hutsa. Zure ordenagailuak erabil ditzakegu modeloak exekutatzeko, eta, gainera, zulo bat libre geratzen bada, berehala sartu eta eskanerra erabil dezakegu.[br][br]Uste nuen probak egin genitzakeela bihar. Elkar eskaneatu dezakegu ekipoa erabiltzen ikasteko. Oso erraza izan behar du. Espero dut Erin Peake doktoreak norbait bidaltzea ostiralean. Zirkulazio-istripua izan duen paziente bat dauka. Interesgarria izango da.[br][br]- David</Entry>
+      <Entry Name="EMAIL_2_BODY">Kaixo Paul:[br]Aste honetan zure laborategia erabiltzeko aukeraz hitz egin dut PACErekin. Bihar goizerako erreserbatu dut eskanerra, baita ostiralerako ere. Ez da asko, baina esan zuten bulegoan erabil genezakeela harrera-gune hutsa. Zure ordenagailuak erabil ditzakegu modeloak exekutatzeko, eta, gainera, gordetzeko lekua geratzen bada, berehala sartu eta eskanerra erabil dezakegu.[br][br]Uste nuen probak egin genitzakeela bihar. Elkar eskaneatu dezakegu ekipoa erabiltzen ikasteko. Oso erraza izan behar du. Espero dut Erin Peake doktoreak norbait bidaltzea ostiralean. Zirkulazio-istripua izan duen paziente bat dauka. Interesgarria izango da.[br][br]- David</Entry>
       <Entry Name="EMAIL_3_FROM">David Munshi</Entry>
       <Entry Name="EMAIL_3_SUBJ">GAIA: Ezin gara sartu</Entry>
       <Entry Name="EMAIL_3_DATE">2015eko apirilaren 30a</Entry>
-      <Entry Name="EMAIL_3_BODY">Gaur denbora gehiago lortu dut laborategian. Zoritxarrez, inork ez zigun esan kodea aldatu zutenik. Beraz, Segurtasunera deitu dut, Wei irakaslearekin hitz egin dut gure proiektuaren inguruan erantzun dezan, eta, azkenean, PACEko departamentu juridikoko mandamas batekin harremanetan jartzea lortu dut, laborategia erabiltzeko baimena eman diezagukeena.[br][br]Ez dut baimenik kodea postaz edo testuz erreproduzitzeko, baina ohar bat edo zerbait utziko dut ahazten bazaigu ere.[br][br]- Paul</Entry>
+      <Entry Name="EMAIL_3_BODY">Gaur denbora gehiago lortu dut laborategian. Zoritxarrez, inork ez zigun esan kodea aldatu zutenik. Beraz, Segurtasunera deitu dut, Wei irakaslearekin hitz egin dut gure proiektuaren inguruan erantzun dezan, eta, azkenean, PACEko departamentu juridikoko nagusi batekin harremanetan jartzea lortu dut, laborategia erabiltzeko baimena eman diezagukeena.[br][br]Ez dut baimenik kodea postaz edo testuz erreproduzitzeko, baina ohar bat edo zerbait utziko dut ahazten bazaigu ere.[br][br]- Paul</Entry>
       <Entry Name="GUIMailAPaul">paul.berg@yorkuni.ca</Entry>
    </CATEGORY>
    <CATEGORY Name="01_01_upsilon_awake">
@@ -295,7 +295,7 @@
       <Entry Name="CorruptSuitStatus">0? abF3A [n] .-U</Entry>
       <Entry Name="OmniToolButton">Omnitoola</Entry>
       <Entry Name="SuitStatusButton">Inbentarioa</Entry>
-      <Entry Name="SuitStatus">INBENTARIOA: BDS 1-6[br][br][br]BDS n.1 - OK[br]BDS n.2 - OK[br]BDS n.3 - Kutsadura ezezaguna![br]BDS n.4 - OK[br]BDS n.5 - Erabiltzen[br]BDS n.6 - Erabiltzen[br][br][br]Oharra: Haimatsu ETH jantzi ohi guztiak Omicronen biltegiratuta daude</Entry>
+      <Entry Name="SuitStatus">INBENTARIOA: BDS 1-6 oinarrizko traje malguak[br][br]BDS 1. zbk - OK[br]BDS 2. zbk - OK[br]BDS 3. zbk - Kutsadura ezezaguna![br]BDS 4. zbk - OK[br]BDS 5. zbk - Erabiltzen[br]BDS 6. zbk - Erabiltzen[br][br][br]Oharra: Haimatsu ETH ExoTraje guztiak Omicron-en gordeta daude</Entry>
       <Entry Name="ButtonToolChipSetup">Erreminten txipa prestatzea</Entry>
       <Entry Name="ButtonBrainChipSetup">Kortex-txipa konfiguratzea</Entry>
       <Entry Name="ButtonOrientationVideo">Orientazioa</Entry>
@@ -311,7 +311,7 @@
       <Entry Name="UikadsScanas">[2104/05/09][br]ÚPSILON n.61633[br]% (/)[br]ZetaCache: grafikoak: legatua - DM_SJ[br]zabaldu...[br]Sub_Simon Jarrett[br]28xY, terminalScan[br]Aut_DavidMunshi2015v1[br]Toronto[br]= 6 (2 @ (573/3/6[br]-&gt; ApPS[br]... eragiketa ez dago erabilgarri...[br]-&gt;4416cWAUcf77[br]osatu...</Entry>
       <Entry Name="AmyNote1">Dena berdin dago. Isiltasunak berdin ematen du. Ezer gertatu ez balitz bezala. Horrek erakusten du zein independenteak garen. Mundu ezberdinetan bageunde bezala da.</Entry>
       <Entry Name="AmyNote2">Dardarek animalien bizitza egun batzuetan hurbilarazi zuten, baina gero dena baretu eta alde egin zuten. Orain, itzuli dira eta dena desberdina da. Kendu ezin diren egiturazko gel beltz lodi batekin zikinduta daude. Arrain gaixoak, ez dut uste laguntza aurkituko dutenik WAUn.</Entry>
-      <Entry Name="FishHaiku1">Bueltan eta desberdina[br]Kendu ezin den egiturazko gel lodia[br]WAUtik sortutako arrainak</Entry>
+      <Entry Name="FishHaiku1">Bueltan eta desberdin[br]Egiturazko gel lodia kendu ezin dutena[br]WAU-ko munstro arrain sortak</Entry>
       <Entry Name="FishHaiku2">Ezer gertatu ez balitz bezala[br]Dena berdin dago[br]Isiltasun guztia berdina da</Entry>
       <Entry Name="ConfiguringWindow">Omnitoola konfiguratzen</Entry>
       <Entry Name="ConfiguringTool">Segurtasun-kodeak eguneratzen</Entry>
@@ -370,7 +370,7 @@
       <Entry Name="ControlTerminalMail_Body_Amy_2">Nongoa: Wolchezk, Heather[br]Gaia: Aut. prozesua. Úpsilon[br][br]Lan ona. Errefortzuko turbo guztiak lortzen saiatzen da, eta ekoizpena % 60ra murrizten du. Ebakuazio guztiekin, erritmo baxu eta egonkorrarekin biziraun dezakegu. Ez dago sistema behartu beharrik. 20 eta 25 urte bitarteko ekoizpena lortu beharko genuke turboetara jo baino lehen.[br][br]Pathos-II osoko robotak gero eta aldrebesagoak bihurtzen ari dira eta, tamalez, ez dago desaktibazio unibertsaleko etengailurik. Kontuan hartuta ez garela Úpsilonera itzuliko, sektoreak zigilatzen saia zintezke, bertaratutakoak eremu sentikorretara sar ez daitezen.[br][br]Wolchezk</Entry>
       <Entry Name="ControlTerminalMail_Date_Amy_2">2103-05-03 @ 16:09:24</Entry>
       <Entry Name="ControlTerminalMail_Subject_Carl_1">Re: Re: Aut. prozesua Úpsilon</Entry>
-      <Entry Name="ControlTerminalMail_Body_Carl_1">Norentzat: Wolchezk, Heather[br]Gaia: Aut. prozesua. Úpsilon[br][br]Energia ekoizpena ziurtatu da.[br]Lantegiak zigilatu ditugu lantegia martxan mantentzeko. Alferrikako sistema guztiak deskonektatuak izan dira.[br]Norbaitek inoiz itzuli behar badu, jakin dezala energia-fluxuaren erreguladorea hari batetik zintzilik dagoela. Etengailuari ematen badiozu, ziurrenik ez da atzera bueltarik izango.[br][br]Hemendik goaz.[br]Carl</Entry>
+      <Entry Name="ControlTerminalMail_Body_Carl_1">Norentzat: Wolchezk, Heather[br]Gaia: Aut. prozesua. Úpsilon[br][br]Energia ekoizpena ziurtatu da.[br]Lantegiak zigilatu ditugu lantegia martxan mantentzeko. Alferrikako sistema guztiak deskonektatuak izan dira.[br]Norbaitek inoiz itzuli behar badu, jakin dezala energia-fluxuaren erreguladorea hari batetik zintzilik dagoela. Etengailuari ematen badiozu, ziurrenik ez da atzera bueltarik izango.[br][br]Goazen hemendik.[br]Carl</Entry>
       <Entry Name="ControlTerminalMail_Date_Carl_1">-</Entry>
       <Entry Name="ControlTerminalMail_DraftNotice">EGOERA: ZIRRIBORROA</Entry>
       <Entry Name="ControlTerminalMail_Send">BIDALI</Entry>
@@ -436,7 +436,7 @@
       <Entry Name="CommRoomRadioTerminalStation5">Lambda</Entry>
       <Entry Name="CommRoomRadioTerminalStation6">Tau</Entry>
       <Entry Name="CommRoomRadioTerminalStation7">Fi</Entry>
-      <Entry Name="ComputerPostIt">Blokeo-prozesua hasiz[br]Terminala egiaztatu xehetasun gehiago ikusteko</Entry>
+      <Entry Name="ComputerPostIt">Blokeo-prozesua hasita[br]Terminala egiaztatu xehetasun gehiago ikusteko</Entry>
       <Entry Name="TransformersOff">BEHARREZKO BERRABIARAZTEA</Entry>
       <Entry Name="TransformersOn">SISTEMA KONEKTATUA</Entry>
       <Entry Name="TransformersBroken">SISTEMAREN ERROREA</Entry>
@@ -461,14 +461,14 @@
       <Entry Name="RPM">rpm</Entry>
       <Entry Name="CommSystems">KOMUNIKAZIOAK</Entry>
       <Entry Name="Online">LERROAN</Entry>
-      <Entry Name="Offline">CONEXIK GABE.</Entry>
+      <Entry Name="Offline">KONEXIORIK GABE.</Entry>
       <Entry Name="Doors">ATEAK</Entry>
       <Entry Name="Locked">ITXIAK</Entry>
       <Entry Name="Wait">IREKITZEN</Entry>
       <Entry Name="Unlocked">IREKIAK</Entry>
       <Entry Name="ControlRoomPrompt">Zain</Entry>
       <Entry Name="StationWindowCaption">Geltokiak</Entry>
-      <Entry Name="StationStatusWindowCaption">Estatua</Entry>
+      <Entry Name="StationStatusWindowCaption">Egoera</Entry>
       <Entry Name="AmyReactorFlowNote">Irakurri hau![br]Sistema behartu dugu. Palanka aktibatzen baduzu, ez da atzera bueltarik izango. Konbentzituta egon behar duzu.</Entry>
       <Entry Name="CarlID">SEMKEN, CARL[br]ID: 0722</Entry>
       <Entry Name="AmyID">AZZARO, AMY[br]ID: 0735</Entry>
@@ -490,7 +490,7 @@
       <Entry Name="CommLogTerminal_Results">Berreraikitze partziala osatuta!</Entry>
       <Entry Name="AmyAirlockPostitNote">Zeta - Buelta eman![br]Úpsilon zigilatu dugu, funtzionatzen jarrai dezan. Ez ezazue izorratu.[br][br]A. Azzaro[br][br]Carlena ez zen nire errua izan.</Entry>
       <Entry Name="CityNote_1">NEW YORK[br]Egoera: deskonektatuta[br]Azken kontaktua: 2103ko urtarrilaren 10a - 19:24:05[br]Mezua:[br]Jonsy:[br][br]Bulegoa ixten ari da eta mundu guztia ari da ihes egiten. Esan nahi dut, hemengo guztion partetik, ohorea izan dela zuekin eta Úpsilonekin lan egitea. Ongi joan dadila, eta zorte on apokalipsiarekin.[br][br]- Ben</Entry>
-      <Entry Name="CityNote_2">CÁDIZ (laguntzailea)[br]Egoera: deskonektatua[br]Azken kontaktua: 2103ko urtarrilaren 12a - 5:12:09[br]Mezua:[br]Jonsy:[br]Badakit zuk askoz aukera gehiago dituzula bizirik irauteko, baina guk ikuspegi hobeak ditugu.[br][br]Osasuna!</Entry>
+      <Entry Name="CityNote_2">CADIZ (auxiliar)[br]Egoera: deskonektatuta[br]Azken kontaktua: 2103ko urtarrilaren 12a - 5:12:09[br]Mezua:[br]Jonsy:[br]Badakit zuk bizirik irauteko aukera gehiago dituzula, baina guk ikuspegi hobeak ditugu.[br][br]Osasuna!</Entry>      
       <Entry Name="CityNote_3">LONDRES[br]Egoera: deskonektatuta[br]Azken kontaktua: 2103ko urtarrilaren 11a - 12:00[br]Mezua:[br]Vigdis Jonsdottir andereñoa:[br][br]Sentitzen dut jakinarazi behar izatea bulegoa itxi egingo dela eta ezin diela Úpsilon eta Pathos-IIri euskarria eman. Aukera hau aprobetxatu nahi dut zuri, Jane Adams zure gainbegiraleari eta gainerako taldekideei eskerrak emateko. Talde bikaina zarete eta ziur nago gu erortzen garen tokian zuek ausardiaz jarraituko duzuela.[br][br]Agur bero bat,[br]James Bloom, sistemen zuzendaria</Entry>
       <Entry Name="CityNote_4">LISBOA (nagusia)[br]Egoera: deskonektatua[br]Azken kontaktua: 2103ko urtarrilaren 12a - 4:52:02[br]Mezua:[br]Defentsa-neurriei buruzko eguneratzea.[br]Talka saihesteko munduko komunitateak egindako azken ahaleginek porrot egin dute. Pathos-II-k azken ahalegin guztiak egin beharko lituzke talkaren ondorengo dardara saihestezinari aurre egiteko. Inpakturako aurreikusitako ordua: 05:13.[br]-LIS</Entry>
       <Entry Name="CommStationNoLink">Lotura LUMAR hautsita[br]Eskuzko sarrera behar da</Entry>
@@ -617,14 +617,14 @@
       <Entry Name="Answer_1_2">Aztoratuta sentitzen naiz: nortasun-aldaketa bat.</Entry>
       <Entry Name="Answer_1_3">Galduta sentitzen naiz: ez naiz existitzen.</Entry>
       <Entry Name="Question_2">3. Nola deskribatuko zenituzke zure zentzumenak?</Entry>
-      <Entry Name="Answer_2_0">Espero bezala, normala.</Entry>
+      <Entry Name="Answer_2_0">Espero bezala, normal.</Entry>
       <Entry Name="Answer_2_1">Inguruan dudana baino sentikorragoa eta kontzienteagoa naiz.</Entry>
       <Entry Name="Answer_2_2">Blokeatuta sentitzen naiz, zentzumenak lausotuta banitu bezala.</Entry>
       <Entry Name="Answer_2_3">Nire zentzumen natural bat edo gehiago falta zait.</Entry>
       <Entry Name="Question_3">4. Nola deskribatuko zenuke zure egoera berriaren sentsazioa?</Entry>
       <Entry Name="Answer_3_0">Atsegina.</Entry>
       <Entry Name="Answer_3_1">Ez zait gustatzen, zerbait ez doa ondo.</Entry>
-      <Entry Name="Answer_3_2">Nahasgarria da, dena egiten dut.</Entry>
+      <Entry Name="Answer_3_2">Harrigarria da, dena fabrikatua dirudi.</Entry>
       <Entry Name="Answer_3_3">Deprimentea. Dena faltsua dela uste dut.</Entry>
       <Entry Name="Question_4">5. Erabat gizaki ez izateak asaldatzen zaitu?</Entry>
       <Entry Name="Answer_4_0">Ez, ondo nago.</Entry>
@@ -658,7 +658,7 @@
       <Entry Name="CorextChipNotInserted">ERROREA: autokontrolerako kortex-txipa behar da.</Entry>
       <Entry Name="OmniToolStatus">Ongi etorri, Louise Meuron (ÚPSILON)</Entry>
       <Entry Name="LifeBoatCortexChip">ERROREA: kortex-txipa behar da</Entry>
-      <Entry Name="CometArticle_Text">Chris:[br]Gau osoan esna egon naiz. Lo egitea denbora galtzea iruditzen zitzaidan. Telebista piztuta daukat. Albistegiak kometaren etorreraz hitz egiten ari dira, Urtezaharreko atzerako kontua balitz bezala. Badakit zentzugabea dela hemen nirekin egotea desiratzea. Norbaitek bizirik irauteko aukerarik badu, zuek zarete olatuen azpian zaudetenak. Espero dut jarraitzea, bizitzak merezi du bizitzea.[br][br]Badirudi dena galtzera joateko zorian dagoela. Beno, hobe duzu Bidali sakatu uhinak harrapatu aurretik.[br][br]Harro nago zutaz.[br]Aita</Entry>
+      <Entry Name="CometArticle_Text">Chris:[br]Gau osoan esna egon naiz. Lo egitea denbora galtzea iruditzen zitzaidan. Telebista piztuta daukat. Albistegiak kometaren etorreraz hitz egiten ari dira, Urtezaharreko atzerako kontua balitz bezala. Badakit zentzugabea dela hemen nirekin egotea desiratzea. Norbaitek bizirik irauteko aukerarik badu, zuek zarete olatuen azpian zaudetenak. Espero dut jarraitzea, bizitzak merezi du bizitzea.[br][br]Badirudi dena pikutara joateko zorian dagoela. Beno, hobe duzu Bidali sakatu uhinak harrapatu aurretik.[br][br]Harro nago zutaz.[br]Aita</Entry>
    </CATEGORY>
    <CATEGORY Name="02_02_ms_curie_inside">
       <Entry Name="EscapePodSign">Larrialdietarako ontzia</Entry>
@@ -741,7 +741,7 @@
       <Entry Name="LaunchRecords">Lehengoratutako artxiboak</Entry>
       <Entry Name="BunkerApp_Log">Sarbide-erregistroa</Entry>
       <Entry Name="BunkerApp_Messages">Mezuak</Entry>
-      <Entry Name="BunkerApp_Map">Arloaren mapa</Entry>
+      <Entry Name="BunkerApp_Map">Gunearen mapa</Entry>
       <Entry Name="BunkerLogCaption">Erregistroa</Entry>
       <Entry Name="BunkerLog">2104-01-15 &gt;zepelin_control -remoto[br]2104-01-15 [zepelin_control] Urruneko sarbidea ukatua (err: 92874)[br]2104-01-15 &gt;zepelin_control -remoto -admin[br]2104-01-15 [zepelin_control] Urruneko sarbidea ukatua (err: 92886)[br]2104-01-15 [zepelin_control] FR_ANULIN_ANULAR-KOMOREBI[br]2104-01-15 [principal] Comando no vale[br]2104-01-15 [zepelin_control] Erantzungailu-eskubideak etenda (Err: 3948)[br]2104-01-15 [principal] QUETEJO15]</Entry>
       <Entry Name="BunkerMessages_0">Mezuak</Entry>
@@ -817,7 +817,7 @@
       <Entry Name="RobotManual_Name_2">BULL (AU3)</Entry>
       <Entry Name="RobotManual_Name_3">TOPA (m-AU9)</Entry>
       <Entry Name="RobotManual_Name_4">QUALIA (RV2)</Entry>
-      <Entry Name="RobotManual_Robot_1">K8 (AU8)[br]Adimena: AN-7U[br]Konplexua Klasea: Laguntzaile unibertsal arina[br]Urrutiko pilotua: N/A[br][br]Oharra[br]K8ak ahots-modulurik ez duen arren, argi eta soinu sinplifikatuen bidez komunikatzeko gai da.</Entry>
+      <Entry Name="RobotManual_Robot_1">K8 (AU8)[br]Adimena: AN-7U[br]Konplexua: Laguntzaile unibertsal arina[br]Urrutiko pilotua: N/A[br][br]Oharra[br]K8ak ahots-modulurik ez duen arren, argi eta soinu sinplifikatuen bidez komunikatzeko gai da.</Entry>
       <Entry Name="RobotManual_Robot_2">BULL (AU3)[br]Adimena: Konplexua AN-5U[br]Mota: Batez besteko langilea[br]Urrutiko pilotua: Bateragarria</Entry>
       <Entry Name="RobotManual_Robot_3">TOPA (m-AU9)[br]Inteligentzia: Konplexua AN-7U[br]Mota: Mini AU[br]Urrutiko pilotua: N/A</Entry>
       <Entry Name="RobotManual_Robot_4">QUALIA (RV2)[br]Inteligentzia: Oinarrizkoa A-2U[br]Mota: Ikerketa ontzia[br]Urrutiko pilotua: Derrigorrezkoa[br][br]Oharra:[br]Ontzi honek oinarrizko inteligentzia baino ez du. Pilotu bat behar da ekipamenduaren funtzio guztiak erabiltzeko.</Entry>
@@ -836,7 +836,7 @@
       <Entry Name="Loading">Kargatzen</Entry>
       <Entry Name="Troubleshoot">Arazoak identifikatzea</Entry>
       <Entry Name="Troubleshooting">Jatorria egiaztatzen...</Entry>
-      <Entry Name="ServerProblem">Errore-kodea: 06FF0A12[br]Ezin da ordenagailu zentralarekin konektatu.[br][br]Router berriro hasi azpimailako ganberan edo mantentze-zerbitzuarekin harremanetan jarri.</Entry>
+      <Entry Name="ServerProblem">Errore-kodea: 06FF0A12[br]Ezin da ordenagailu zentralarekin konektatu.[br][br]Routerra berrabiarazi eta azpimailako ganberan edo mantentze-zerbitzuarekin harremanetan jarri.</Entry>
       <Entry Name="Uploading">Igotzen...</Entry>
       <Entry Name="UploadComplete">Igoera betea!</Entry>
       <Entry Name="Info">Informazioa</Entry>
@@ -863,7 +863,7 @@
       <Entry Name="ScanSubject_2_Name">WAN, Brandon</Entry>
       <Entry Name="ScanSubject_2_Info">24. LOTEA[br]Mota: Nakajima neurografo konprimitua[br](jarraia, 3ms)[br]Harrapatua: 2103ko abuztuaren 25a[br]Egilea: Catherine Chun[br][br]SUBJEKTUA[br]Izena: Brandon Wan[br]Sexua: G[br]Jaioteguna: 2070eko urriaren 16a[br]Heriotza-data: --, --[br]Nazionalitatea: Txina (Sichuan)[br][br]OHARRAK[br]Delta errefuxiatua, konpontzailea. Strohmeierrentzat lan egiten du orain.</Entry>
       <Entry Name="ScanSubject_3_Name">BASS, Robin</Entry>
-      <Entry Name="ScanSubject_3_Info">25. LOTEA[br]Mota: Nakajima neurografo konprimitua[br](jarraia, 3ms)[br]Harrapatua: 2103ko abuztuaren 26a[br]Egilea: Catherine Chun[br][br]SUBJEKTUA[br]Izena: Robin Bass[br]Sexua: E[br]Jaioteguna: 2072ko abenduaren 10a[br]Heriotza-eguna: 233ko abuztuaren 26a[br]Nazionalitatea: Amerikarra (D.C.)[br][br]OHARRAK[br]Jarraitutasunaren beste joada suizida bat. Strohmeierrek laborategitik kanpo utzi nau berriro!</Entry>
+      <Entry Name="ScanSubject_3_Info">LOTE 25[br]Mota: Neurografia Nakajima konprimatua[br](jarraitua, 3ms)[br]Harrapatua: 2103ko abuztuaren 26a[br]Egilea: Catherine Chun[br][br]GAIA[br]Izena: Robin Bass[br]Generoa: G[br]Jaiotze data: 2072ko abenduaren 10a[br]Heriotza data: 2103ko abuztuaren 26a[br]Nazionalitatea: Amerikarra (D.C.)[br][br]OHARRAK[br]"jarraitutasunaren" izenean bere buruaz beste egindako beste bat. Strohmeierrek berriro nire laborategitik kanpo utzi nau!</Entry>
       <Entry Name="ScanSubject_4_Name">KOMOREBI, Maggie</Entry>
       <Entry Name="ScanSubject_4_Info">14. LOTEA[br]Mota: Nakajima neurografo konprimitua[br](jarraia, 3ms)[br]Harrapatua: 2103ko abuztuaren 8a[br]Egilea: Catherine Chun[br][br]SUBJEKTUA[br]Izena: Maggie Komorebi[br]Sexua: E[br]Jaioteguna: 2067ko urtarrilaren 4a[br]Heriotza-data: --, --[br]Nazionalitatea: Txina (H.K.)[br][br]OHARRAK[br]Antz handia dugu! Beste bizitza batean, seguru lagun handiak izango ginela.</Entry>
       <Entry Name="ScanSubject_5_Name">WOLCHEZK, Heather</Entry>
@@ -947,13 +947,13 @@
       <Entry Name="BrandonEntryFileName_3">233ko urriaren 7a</Entry>
       <Entry Name="BrandonEntryFileName_4">2104ko urtarrilaren 15a</Entry>
       <Entry Name="BrandonEntry_1">Azkenean, Akersek Delta ebakuatzea onartu du. Goya, Krier eta biok Zetara joan gara gaur. Akersek esan du pixka bat gehiago geratzeko asmoa zuela. Kabroi hori erotuta dago. Ni harro nago nire lanarekin, baina leku hori deprimentea da gainazalak piezak bidaltzeari utzi zionetik.</Entry>
-      <Entry Name="BrandonEntry_2">Nire ARCA eskanerra egin dut Aliziarekin batera. Strohmeierrek esan zidan ajea nirekin amaituko zela. A zer gilipollak. Hasieran ondo nengoen, baina handik ordu pare batera buruko min jasanezin bat sartu zitzaidan. Chun hori izan zen izugarriena. Hain da arraroa, non ileak puntan jartzen baitizkit.</Entry>
+      <Entry Name="BrandonEntry_2">Nire ARCA eskanerra egin dut Alice-rekin batera. Strohmeierrek esan zidan ajea nirekin amaituko zela. A zer gilipollak. Hasieran ondo nengoen, baina handik ordu pare batera buruko min jasanezin bat sartu zitzaidan. Chun hori izan zen izugarriena. Hain da arraroa, non ileak puntan jartzen baitizkit.</Entry>
       <Entry Name="BrandonEntry_3">Strohmeierrek paperak galdu zituen eta ARCA proiekturako etorkizuneko eskaner guztiak itxi zituen. Antza denez, Konradek jarraipenean parte hartu nahi zuen eta pilotuaren eserlekuan hoztu zen eskaneatu ondoren. Zerbaitek esaten dit segurtasun kode berriak jasoko ditugula.</Entry>
       <Entry Name="BrandonEntry_4">Oraintxe jakin dut Komorebiko estudioko taldea Deltara doala Akers jasotzera. Hilabete batzuk daramatza bakarrik. Ezin dut imajinatu zertan ibili zaren.</Entry>
       <Entry Name="CathTerminalEntry_1">ERREG. ESKANEATZEA</Entry>
       <Entry Name="CathTerminalEntry_2">PROGRAMA</Entry>
-      <Entry Name="CathTerminalFile_1">ARKAREN ESKANEATZE ERREGISTROA [2103][br]---------------[br][br]Chun, Catherine [4 jul][br]Ivashkin, Nicolai [5 jul][br]Hill, Jasper [6 jul][br]Lindwall, Sarah [7 jul][br]Pedersen, Ian [8 jul][br]Wolchezk, Heather [10 jul][br]Sarang, Mark [12 jul] (suicidio))[br][br]ARCA proiektua etenda Strohmeierrek Sarangen heriotza ikertzen duen bitartean.[br]Alvaro, Emma [29 jul][br]</Entry>
-      <Entry Name="CathTerminalFile_2">ESKANEATU PLANIFIKATUAK[br]---------------[br][br]Defreine, Joaquin [? sep][br]Strohmeier, John [? sep][br]Thabo, Richard [? sep][br]Adams, Jane [? sep][br]Shankar, Aashish [? sep][br]Daviau, Marishika [? sep][br]Evans, Shawn [? sep]</Entry>
+      <Entry Name="CathTerminalFile_1">ARKAREN ESKANEATZE ERREGISTROA [2103][br]---------------[br][br]Chun, Catherine [uzt 4][br]Ivashkin, Nicolai [uzt 5][br]Hill, Jasper [uzt 6][br]Lindwall, Sarah [uzt 7][br]Pedersen, Ian [uzt 8][br]Wolchezk, Heather [uzt 10][br]Sarang, Mark [uzt 12] (suizidioa))[br][br]ARCA proiektua etenda Strohmeierrek Sarangen heriotza ikertzen duen bitartean.[br]Alvaro, Emma [uzt 29][br]</Entry>
+      <Entry Name="CathTerminalFile_2">ESKANEATU PLANIFIKATUAK[br]---------------[br][br]Defreine, Joaquin [ira ?][br]Strohmeier, John [ira ?][br]Thabo, Richard [irai ?][br]Adams, Jane [irai ?][br]Shankar, Aashish [irai ?][br]Daviau, Marishika [irai ?][br]Evans, Shawn [irai ?]</Entry>
       <Entry Name="SimStress">ESTRESA</Entry>
       <Entry Name="CathsDataPad_Diary">EGUNERO</Entry>
       <Entry Name="CathsDataPad_Notes">RA KAPSULA</Entry>
@@ -1144,7 +1144,7 @@
       <Entry Name="ArkTerminalModuleType_1">tipo_ft_argia</Entry>
       <Entry Name="ArkTerminalModuleType_2">ur_mota</Entry>
       <Entry Name="ArkTerminalModuleType_3">landaredia_mota</Entry>
-      <Entry Name="ArkTerminalSetupStatus">Estatua</Entry>
+      <Entry Name="ArkTerminalSetupStatus">Egoera</Entry>
       <Entry Name="ArkTerminalSetupStatusOK">Ez da akatsik antzeman!</Entry>
       <Entry Name="ArkTerminalSetupStatusDependency">ERREK.</Entry>
       <Entry Name="ArkTerminalSetupStatusRequiredModule_Soma">sim_base REQ. tipo_soma</Entry>
@@ -1257,7 +1257,7 @@
       <Entry Name="SystemUpdateName_7">2104-01-07</Entry>
       <Entry Name="OpenDoorButton">Ireki</Entry>
       <Entry Name="CloseDoorButton">Itxi</Entry>
-      <Entry Name="DoorStatusButton">Estatua</Entry>
+      <Entry Name="DoorStatusButton">Egoera</Entry>
       <Entry Name="HiddenButton">UbVZrmsP</Entry>
       <Entry Name="DoorOpenFail">Berrogeialdia: ezin da atea ireki.</Entry>
       <Entry Name="BrokenAirlockError">AKATS MEKANIKOA[br][br]Erabili sarrera alternatiboa</Entry>
@@ -1350,9 +1350,9 @@
       <Entry Name="ButtonPuzzleReset">Sekuentzia berrabiarazi</Entry>
       <Entry Name="ButtonStatus">Geltokiaren laburpena</Entry>
       <Entry Name="ButtonRemoveLockdown">Baliogabetu</Entry>
-      <Entry Name="ButtonFloor0">Txikiagoa</Entry>
-      <Entry Name="ButtonFloor1">Atal nagusia</Entry>
-      <Entry Name="ButtonFloor2">Handiagoa</Entry>
+      <Entry Name="ButtonFloor0">Behekoa</Entry>
+      <Entry Name="ButtonFloor1">Solairu nagusia</Entry>
+      <Entry Name="ButtonFloor2">Goikoa</Entry>
       <Entry Name="ChargerNoCube">Kargatu beharreko bateria sartu</Entry>
       <Entry Name="ChargerBadValues">Energia ez da behar bezala bideratu. 3. ARLOA zuzentzea</Entry>
       <Entry Name="ChargerHatchOpen">Karga-unitateko atea ez dago zigilatuta.</Entry>
@@ -1386,7 +1386,7 @@
       <Entry Name="DivesuitTest2">Energia-iturria</Entry>
       <Entry Name="DivesuitTest3">Kortexaren jarduera</Entry>
       <Entry Name="DivesuitTest4">Gorputz-tenperatura</Entry>
-      <Entry Name="DivesuitFail">EPAITZA</Entry>
+      <Entry Name="DivesuitFail">AKATSA</Entry>
       <Entry Name="DivesuitOkay">OK</Entry>
       <Entry Name="DivesuitFinal">EZIN IZAN DA JANTZIA AKTIBATU</Entry>
       <Entry Name="DivesuitBigError">ERROREA ARRETA BEHAR DUEN JANTZIAN</Entry>
@@ -1577,7 +1577,7 @@
       <Entry Name="LogEntry_1">2103-08-03 @ 11:23:54 SINATUA: Julia Dahl | Richard Holland[br]* Lagin bilketa[br]* Egiaztapen fisikoak</Entry>
       <Entry Name="LogEntry_2">2103-08-03 @ 18:02:28 GATZA[br]SINATUA: Julia Dahl | Richard Holland[br]* Egiaztapena</Entry>
       <Entry Name="LogEntry_3">2103-09-13 @ 11:31:51 LLE[br]SINATUA: Alan Waldeck | Julia Dahl[br]* Tauren ebakuazioa</Entry>
-      <Entry Name="LogEntry_4">2103-09-13 @ 14:27:10 GATZA[br]SINATUA: Alan Waldeck | Julia Dahl[br]* Epaitza</Entry>
+      <Entry Name="LogEntry_4">2103-09-13 @ 14:27:10 GATZA[br]SINATUA: Alan Waldeck | Julia Dahl[br]* Akatsa</Entry>
       <Entry Name="LogEntry_5">2103-12-26 @ 14:01 LLE[br]SINATUA: Catherine Chun | Ian Pedersen | Sarah Lindwall | Nicolai Ivashkin | Jasper Hill[br]* ARCA Fira eraman</Entry>
       <Entry Name="LogEntry_6">2103-12-27 @ 8:00 GATZA[br]SINATUA: Alan Waldeck (urrutikoa)</Entry>
       <Entry Name="ObsMenuInventory">Inbentarioa</Entry>
@@ -1612,7 +1612,7 @@
       <Entry Name="BotRecall">Kentzea</Entry>
       <Entry Name="BotStatusEntry">Ezin dira datuak atera</Entry>
       <Entry Name="BotMenuControl">Kontrola</Entry>
-      <Entry Name="BotMenuStatus">Estatua</Entry>
+      <Entry Name="BotMenuStatus">Egoera</Entry>
       <Entry Name="BotMenuBroken">(Baliza deskonektatua)</Entry>
       <Entry Name="Unpowered">Energia gutxiegi</Entry>
       <Entry Name="navigationsign">Egon zaitez argietatik gertu[br]Urdinak TAU gidatzen du[br]Gorriak Eskalatzailea gidatzen du</Entry>
@@ -1628,7 +1628,7 @@
       <Entry Name="BulkheadStatus_Open">IREKI</Entry>
       <Entry Name="RadioactivityMsg">ERRADIAZIO ARRISKUA!</Entry>
       <Entry Name="LivingAreaDoorStatus_Locked">BLOQ. URRUTIKOA</Entry>
-      <Entry Name="LivingAreaDoorStatus_Unlocked">DESBLOQ.</Entry>
+      <Entry Name="LivingAreaDoorStatus_Unlocked">DESBLOK.</Entry>
       <Entry Name="AirlockDoorStatus_Flushing">HUSTU...</Entry>
       <Entry Name="AirlockDoorStatus_Error">ERROREA!</Entry>
       <Entry Name="AirlockPanelStatus_Waiting">Kargaren zain.</Entry>
@@ -1755,7 +1755,7 @@
       <Entry Name="IntercomApp_Room_4">Erizaintza</Entry>
       <Entry Name="IntercomApp_Room_5">Bulegoa: Auclair</Entry>
       <Entry Name="IntercomApp_Call">Deitu</Entry>
-      <Entry Name="IntercomApp_Hangup">Zintzilikatu</Entry>
+      <Entry Name="IntercomApp_Hangup">Eskegi</Entry>
       <Entry Name="AirlockApp_Label">Aire-esklusa kontrolatzea</Entry>
       <Entry Name="AirlockAppDoor_1">NAGUSIA</Entry>
       <Entry Name="AirlockAppDoor_2">BIGARREN MAILAKOA</Entry>
@@ -1952,7 +1952,7 @@
       <Entry Name="SimonTalking_9_InspectFridge_001_Player_001">Janari lasterra bakarrik. Zerbait osasuntsuagoa erosi beharko nuke etxera bidean.</Entry>
       <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_001">Eh, Simon. Jesse naiz! Asteburu honetan lan egiten duzu?</Entry>
       <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_002">Zerbait egin behar zenuen... asteburu honetan edo hurrengoan?</Entry>
-      <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_003">Bidali mezu bat edo zerbait. Tequieroteechodemenos!</Entry>
+      <Entry Name="AnswerMachine_10_AnswerMachine_001_Jerry_003">Bidali mezu bat edo zerbait. Maitezaitutzurefaltasentitzendut!</Entry>
       <Entry Name="AnswerMachine_10_AnswerMachine_002_AnswerMachine_001">Mezuen amaiera.</Entry>
       <Entry Name="AnswerMachine_10_AnswerMachine_003_Player_001">Zin dagizut tipoak arrain-memoria duela.</Entry>
       <Entry Name="SimonTalking_11_UseTV_001_Player_001">Telebista ikusteak buruko mina ematen dit. Eskerrik asko, garuna.</Entry>
@@ -1962,7 +1962,7 @@
       <Entry Name="AnswerMachine_13_NoNewMessages_001_AnswerMachine_001">Ez duzu mezu berririk.</Entry>
       <Entry Name="Phonecall_1_PhoneCallOver_001_Player_001">... Jainkoarren...</Entry>
       <Entry Name="SimonTalking_2_UnsentMailReaction_001_Player_001">Bidali sakatzea ahaztu zait. Zerbait gertatzen da? Esan dizut.</Entry>
-      <Entry Name="SimonTalking_2_SentMailReaction_001_Player_001">Hobe berandu inoiz baino.</Entry>
+      <Entry Name="SimonTalking_2_SentMailReaction_001_Player_001">hobe berandu inoiz ez baino.</Entry>
       <Entry Name="SimonTalking_2_UnsentMailReaction_HeardMsg_001_Player_001">Bidali sakatzea ahaztu zait.</Entry>
       <Entry Name="SimonTalking_10_AnswerMachine_NotReadMail_001_Player_001">Mezu bat ere bidali nion gogorarazteko, ezta?</Entry>
       <Entry Name="SimonTalking_10_AnswerMachine_SentMail_001_Player_001">Beno, bidali dut posta. Iritsia izango zen.</Entry>
@@ -1973,19 +1973,19 @@
       <Entry Name="Announcer_StationStPatrick_001_Announcer_001">St Patrick -- Hurrengo geltokia St Patrick da.</Entry>
       <Entry Name="Announcer_StationQueensPark_001_Announcer_001">Queen 's Park -- Hurrengo geltokia Queen' s Park da.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_001_Player_001">Jesse.</Entry>
-      <Entry Name="Simon_Phonecall_EmailSent_002_Jesse_001">Kaixo, Simon. Zure posta jaso dut. Zorte ona opa nahi nizun eta dena estalita daukagula esan.</Entry>
+      <Entry Name="Simon_Phonecall_EmailSent_002_Jesse_001">Kaixo, Simon. Zure posta jaso dut. Zorte ona opa nahi nizun eta dena kontrolpean daukagula esan.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_003_Player_001">Mila esker. Uste dut dendara itzuli ahal izango naizela eskaneatu ondoren.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_004_Jesse_001">Ez kezkatu. Matt eta Chris niri laguntzen ari dira.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_005_Player_001">S&amp;L-ko Matty?</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_006_Jesse_001">Ez duzu jakingo, ezta? Lanaldi osoa egingo du komikien sailean.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_007_Player_001">Hori da Ashleyren lana.</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_008_Jesse_001">Bai, ondo da. Badakizu...</Entry>
-      <Entry Name="Simon_Phonecall_EmailSent_009_Player_001">Ahaztu. Hutsunea hutsik uztea ez da inolako mesederik egitea. Ez da itzuliko naizenik ere.</Entry>
-      <Entry Name="Simon_Phonecall_EmailSent_010_Jesse_001">Zorte on. Espero dut nola inbertitu hiltzeko prozesu hori.</Entry>
+      <Entry Name="Simon_Phonecall_EmailSent_009_Player_001">Ahaztu ezazu. Hutsunea hutsik uzteak ez dio mesederik egiten. Gainera ez du ematen itzuliko denik.</Entry>
+      <Entry Name="Simon_Phonecall_EmailSent_010_Jesse_001">Zorte on. Espero dut heriotza prozesu hori guztia atzera botatzeko modua aurkitzea.</Entry>
       <Entry Name="simon_phonecall_emailsent_011_player_001">Hiltzeko kontu hori? A ze animoak ematen dituzun...</Entry>
       <Entry Name="Simon_Phonecall_EmailSent_012_Jesse_001">Eta zer besterik esan dezaket?</Entry>
       <Entry Name="simon_phonecall_emailsent_013_player_001">Gero arte, Jesse. Ez erre lokala ni ez nagoenean.</Entry>
-      <Entry Name="Simon_Phonecall_EmailSent_014_Jesse_001">Kanbioa eta motza, lagun.</Entry>
+      <Entry Name="Simon_Phonecall_EmailSent_014_Jesse_001">Cambio y corto, lagun.</Entry>
       <Entry Name="Simon_Phonecall_EmailNotSent_001_Player_001">Jesse.</Entry>
       <Entry Name="Simon_Phonecall_EmailNotSent_002_Jesse_001">Simon, zer dugu? Gaur dendara etorriko zaren jakin nahi nuen.</Entry>
       <Entry Name="Simon_Phonecall_EmailNotSent_003_Player_001">Agian geroago. Burmuineko eskaneatzea daukat, gogoratzen?</Entry>
@@ -2085,7 +2085,7 @@
       <Entry Name="datamine_2b_datamineairlockintercom_003_amy_001">Jasoa. Fabrikako zorua moztu duzu?</Entry>
       <Entry Name="datamine_2b_datamineairlockintercom_004_carl_001">Dena egina. Honek ia denak urrunduko ditu. Komunikazio zentroa ixtera noa.</Entry>
       <Entry Name="datamine_2b_datamineairlockintercom_005_amy_001">Baina ziurtatu irteera bat uzten duzula.</Entry>
-      <Entry Name="datamine_2b_datamineairlockintercom_006_carl_001">Fida zaitez nitaz: Zeta osasuntsu eta salba ezazu. Nahikoa potentzia aktibatuta utzi behar dugu itzuli behar ez izateko.</Entry>
+      <Entry Name="datamine_2b_datamineairlockintercom_006_carl_001">Fidatu nigan: Zetara osorik eramango zaitut. Ziurtatu behar dugu nahikoa energia aktibatuta uzten dugula itzuli behar ez izateko.</Entry>
       <Entry Name="datamine_2b_datamineairlockintercom_007_amy_001">Ulertua. Kanpamentuan ikusiko dugu elkar.</Entry>
       <Entry Name="datamine_2c_dataminesemiinfectedrobot_001_semiinfectedrobot_001">Arnasa gaizki hartzen du.</Entry>
       <Entry Name="datamine_2c_dataminesemiinfectedrobot_002_amy_001">Eh, zu. Badakizu hitz egiten? Hitz egin dezakezu besteek bezala?</Entry>
@@ -2120,7 +2120,7 @@
       <Entry Name="datamine_3b_datamineamyintercom_001_carl_001">Amy, hor zaude?</Entry>
       <Entry Name="datamine_3b_datamineamyintercom_002_amy_001">Hemen nago.</Entry>
       <Entry Name="datamine_3b_datamineamyintercom_003_carl_001">Joaten uzteko prest?</Entry>
-      <Entry Name="datamine_3b_datamineamyintercom_004_amy_001">Uste dut.</Entry>
+      <Entry Name="datamine_3b_datamineamyintercom_004_amy_001">Baietz uste dut.</Entry>
       <Entry Name="datamine_3b_datamineamyintercom_005_carl_001">Aukera gehiago egongo dira Zetara itzultzean arrainekin zen erroilua hartzeko.</Entry>
       <Entry Name="datamine_3b_datamineamyintercom_006_amy_001">Leku hau faltan botako dut.</Entry>
       <Entry Name="datamine_3b_datamineamyintercom_007_carl_001">Úpsilon?</Entry>
@@ -2156,7 +2156,7 @@
       <Entry Name="Datamine_OrientationVideo_3_001_Strohmeier_001">Hau da egin dezakezuna: ateak irekitzeko erabili ahal izango duzu, funtsean ate guztiak. Ezin baduzu, esan nahi du zerbait gaizki doala edo norbaitek ez zuela nahi zu hor sartzea. Eta orduan, zer egiten duzu?</Entry>
       <Entry Name="Datamine_OrientationVideo_4_001_Strohmeier_001">Sartu Omnitool hori terminal batean, ea modua aurkitzen duzun. Batzuetan, egon behar ez zenukeen lekuetan sartu beharko duzu.</Entry>
       <Entry Name="Datamine_OrientationVideo_4_002_Strohmeier_001">Modua aurkitu behar duzu, Jainkoaren izenean, horretarako ingeniaria zara.</Entry>
-      <Entry Name="Datamine_OrientationVideo_5_001_Strohmeier_001">Zer gehiago? Zaindu zure ekipamendua. Ez izan kapulu bat. Hori da guztia, funtsean. John Strohmeier naiz, Pathos-II-ko segurtasun agentea.</Entry>
+      <Entry Name="Datamine_OrientationVideo_5_001_Strohmeier_001">Zer gehiago? Zaindu zure ekipamendua. Ez izan artaburua. Hori da guztia, funtsean. John Strohmeier naiz, Pathos-II-ko segurtasun agentea.</Entry>
       <Entry Name="Datamine_OrientationVideo_5_002_Strohmeier_001">Bulego bat daukat Zetan. Zatoz ikustera konpondu ezin duzun gairen bat baduzu. Zorte on.</Entry>
       <Entry Name="Datamine_3F_TalkingDoorDrains_001_TalkingDoor_001">Ez, geldi, geldi!</Entry>
       <Entry Name="general_pickingupomnitool_001_player_001">Hau gorde egingo dut. Ondo etorriko zaidala iruditzen zait.</Entry>
@@ -2165,7 +2165,7 @@
       <Entry Name="general_helperjaneplugin_001_helperjane_001">Úpsilon 3 mantentze-kontsola, pilotu-idazpena barne, aktibatuta.</Entry>
       <Entry Name="general_helperjaneplugtoolchipfound_001_helperjane_001">Tresna-txipa aurkitu dugu.</Entry>
       <Entry Name="general_helperjaneupdatetoolchip_001_helperjane_001">Tresna-txiparen segurtasun-kode eguneratua.</Entry>
-      <Entry Name="General_SimonHurt_001_Player_001">Neurtu...</Entry>
+      <Entry Name="General_SimonHurt_001_Player_001">Kaka zaharra...</Entry>
    </CATEGORY>
    <CATEGORY Name="Voices_01_02_upsilon_inside">
       <Entry Name="ControlRoomContact_2D_FirstContact_1_001_Catherine_001">Zer gertatzen ari da? Kaixo? Ba al dago inor hor?</Entry>
@@ -2306,7 +2306,7 @@
       <Entry Name="CommRoomContact_CommRoomDialog_2_TorturedCarl_003_Player_001">Gutxi gorabehera. Ez dakit.</Entry>
       <Entry Name="CommRoomContact_CommRoomDialog_2_NoCarlMeeting_001_Catherine_001">Hau oso arraroa da.</Entry>
       <Entry Name="CommRoomContact_CommRoomDialog_2_NoCarlMeeting_002_Player_001">Ezta zuk esan ere...</Entry>
-      <Entry Name="SimonComments_WaterComment_001_Player_001">Neurtu, neurtu, neurtu... Non...? Zer egingo dut...? O, izorratu!</Entry>
+      <Entry Name="SimonComments_WaterComment_001_Player_001">joder, joder, joder... Non...? Zer egingo dut...? Kaka zaharra!</Entry>
       <Entry Name="CommRoomRecording_CommRoomRecording_1_001_Strasky_001">Jonsy. Zer moduz ebakuazioa?</Entry>
       <Entry Name="CommRoomRecording_CommRoomRecording_1_002_Jonsdottir_001">Lekualdatu behar dugun guztia daukagu, baina ezin dugu lantegia gainbegiratu gabe utzi.</Entry>
       <Entry Name="CommRoomRecording_CommRoomRecording_1_003_Jonsdottir_001">Adamsek Amy Azzaro eta Carl Semken uztea erabaki du automatizazio prozesua egin dezaten.</Entry>
@@ -2362,7 +2362,7 @@
       <Entry Name="CarlConstruct_4D_RobotDatamine_002_Amy_001">Carl!</Entry>
       <Entry Name="CarlConstruct_4D_RobotDatamine_003_Carl_001">Korri.</Entry>
       <Entry Name="CarlConstruct_4D_RobotDatamine_004_Amy_001">Urrundu nigandik, laztana!</Entry>
-      <Entry Name="CarlConstruct_4D_RobotDatamine_005_Amy_001">Puta handiaren semea.</Entry>
+      <Entry Name="CarlConstruct_4D_RobotDatamine_005_Amy_001">Putakume zital alena.</Entry>
       <Entry Name="CarlConstruct_4E_CarlConstructPlea_1_001_CarlConstruct_001">Amy, zu al zara? Zer gertatu da pilotuaren eserlekuarekin?</Entry>
       <Entry Name="simoncomments_carlbody_seebody_001_player_001">Hilda dago? Hilda dago.</Entry>
       <Entry Name="simoncomments_2a_lookatjonsi_001_player_001">Zer da hori? Zer ari zara?</Entry>
@@ -2501,8 +2501,8 @@
       <Entry Name="Echo_Datamine_AmyTheta_003_Echo_Amy_001">Soroak... alde egin behar izan nuen.</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_004_Echo_Peter_001">Carl zurekin dago?</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_005_Echo_Amy_001">Dena pikutara joan zen.</Entry>
-      <Entry Name="Echo_Datamine_AmyTheta_006_Echo_Peter_001">Itxaron. Energia automatizatua duzu, ezta? Landarea segurua da? Energia hori behar dugu zentroak aktibo mantentzeko...</Entry>
-      <Entry Name="Echo_Datamine_AmyTheta_007_Echo_Amy_001">Energiari aurre egitera! Eta zuk, Strasky! Makinek Carl hil dute!</Entry>
+      <Entry Name="Echo_Datamine_AmyTheta_006_Echo_Peter_001">Itxaron. Automatizatutako energia daukazu, ezta? Instalazioa segurua al da? Energia hori behar dugu zentroak aktibo mantentzeko...</Entry>
+      <Entry Name="Echo_Datamine_AmyTheta_007_Echo_Amy_001">Popatik energia! Eta popatik zuri, Strasky! Makinek Carl erail zuten!</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_008_Echo_Peter_001">Ai, egizu... Tira, lasai, dena ondo joango da. Itzul zaitezke Zetara?</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_009_Echo_Amy_001">Bai, baietz uste dut. Anezkara joango naiz, laguntzailearengana.</Entry>
       <Entry Name="Echo_Datamine_AmyTheta_010_Echo_Peter_001">Zorte on, Amy. Nire laguntza osoa duzu.</Entry>
@@ -2512,7 +2512,7 @@
    </CATEGORY>
    <CATEGORY Name="Voices_01_04_transport_station">
       <Entry Name="radio_simononenterlevel_001_player_001">Espero dezagun anezkek oraindik funtzionatzea.</Entry>
-      <Entry Name="Slideshow_Slideshow1_001_SlideshowNarrator_001">Ongi etorri Pathos-IIra, zure autobide espresa izarrei.</Entry>
+      <Entry Name="Slideshow_Slideshow1_001_SlideshowNarrator_001">Ongi etorri Pathos-IIra, zure autobide espresa izarretara.</Entry>
       <Entry Name="Slideshow_Slideshow2_001_SlideshowNarrator_001">Hirurogeiko hamarkadan meatzaritza-operazio termiko gisa hasi zena Omega espazio-kanoiaren egoitza bihurtu da orain, sateliteak eta espazio-zundak jaurtitzeko munduko modurik eskuragarriena.</Entry>
       <Entry Name="Slideshow_Slideshow3_001_SlideshowNarrator_001">Ozeano Atlantikoan dugun kokapen esklusiboari esker, bobinazko arroila erraldoi honek, maratoi bat baino luzeagoa denak, jaurtigaiak bota ditzake, karga erabilgarrian errekuntza-arriskurik gabe.</Entry>
       <Entry Name="Slideshow_Slideshow4_001_SlideshowNarrator_001">Estazioak hainbat zentro hartzen ditu eta zientzialari eta ingeniari talde zabala du. Elkarrekin munduko ontzirik sofistikatuenak sortu, muntatu eta jaurti ditzakete.</Entry>
@@ -2539,7 +2539,7 @@
       <Entry Name="CargoPod_CargoPadRecording_005_AmysHusband_001">Uste dut esaten saiatzen ari naizena dela: Zutaz harro nago. Eta zugandik urrun egotea zaila izan bada ere, ez naiz ezertaz damutzen. Zoriontsua naiz... eta hau esan nahi nuke zerua erori gabe.</Entry>
       <Entry Name="CargoPod_CargoPadRecording_006_AmysHusband_001">* barre ahula*</Entry>
       <Entry Name="CargoPod_CargoPadRecording_007_AmysHusband_001">Maite zaitut, Amy. Beti maite izan zaitut eta beti maiteko zaitut.</Entry>
-      <Entry Name="comments_canttakechipcomment_001_player_001">Neurtu, ondo zaude?</Entry>
+      <Entry Name="comments_canttakechipcomment_001_player_001">Joder, ondo zaude?</Entry>
       <Entry Name="amycorpse_amydeath_001_amycorpse_001">Mmmm...</Entry>
       <Entry Name="amycorpse_amydeath_002_player_002">O, izorratu!</Entry>
       <Entry Name="AmyRobot_AmyRobotAwakens_001_AmyRobot_001">Ados, banago. Zaindu mailak. Abisatu igotzen naizenean. Nire egoera monitorizatu nahi dut.</Entry>
@@ -2954,7 +2954,7 @@
       <Entry Name="simoncomments_3_comment_usecathchip_3_001_player_001">Robotetik atera dudan txipa Omnitoolean sartu beharko nuke Catherinek erantzunen bat eman diezadakeen ikusteko.</Entry>
       <Entry Name="terminal_3_comment_seelambdacomputer_001_player_001">Ordenagailua egiaztatu nahi duzu?</Entry>
       <Entry Name="terminal_3_comment_seelambdacomputer_002_catherineomnitool_001">Bai, bilatu ARCArekin zerikusia duen edozer.</Entry>
-      <Entry Name="simoncomments_3_comment_leavelambda_visitedlifeboat_001_player_001">Neurtu... Zerbait behar dut. Lambda kanpoan aurkitu dudan ontzian bilatu beharko nuke.</Entry>
+      <Entry Name="simoncomments_3_comment_leavelambda_visitedlifeboat_001_player_001">Joder... Zerbait behar dut. Lambda kanpoan aurkitu dudan ontzian bilatu beharko nuke.</Entry>
       <Entry Name="simoncomments_3_comment_leavelambda_notvisitedlifeboat_001_player_001">Tira ba. Beste guztia irekitzen duzu... segurtasun-baimen kontua da?</Entry>
       <Entry Name="simoncomments_3_restatemission_001_player_001">Lambda aurkitu dezaket, ados? Tira, hain handia da ozeano hau?</Entry>
       <Entry Name="cathandsimon_2_interactcathbeforeomnitoolfirst_001_player_001">Zer nahi zenuen egitea?</Entry>
@@ -2996,7 +2996,7 @@
       <Entry Name="cathmeeting_2a_plugincatherine_006_catherine_001">Arrazoi gehiago joateko.</Entry>
       <Entry Name="cathmeeting_2a_plugincatherine_007_player_001">Zer?</Entry>
       <Entry Name="cathmeeting_2a_plugincatherine_008_catherine_001">Tira, badakizu nolakoa den hau: ez begiratu eta ez hurbildu gehiegi. Zure zirkuituei eragingo die.</Entry>
-      <Entry Name="cathmeeting_2a_plugincatherine_009_player_001">Neurtu...</Entry>
+      <Entry Name="cathmeeting_2a_plugincatherine_009_player_001">Ostia...</Entry>
       <Entry Name="cathmeeting_2a_plugincatherine_010_catherine_001">Hemendik atera behar dugu.</Entry>
       <Entry Name="cathmeeting_2a_plugincatherine_011_player_001">Badakit, badakit. Banoa.</Entry>
       <Entry Name="cathmeeting_2b_returntolifeboat_1_001_player_001">Zer dira gauza horiek? Pertsonak dirudite. Oso jende hondatua...</Entry>
@@ -3057,7 +3057,7 @@
       <Entry Name="recording_7_zeppelintransmission_1_002_strasky_002">Wolchezkek esan zuen hortik konpon zenezakeela antena birkonektatuz.</Entry>
       <Entry Name="recording_7_zeppelintransmission_1_002_strasky_003">Dagoeneko ez du axola. Denok etorriko zarete?</Entry>
       <Entry Name="recording_7_zeppelintransmission_1_003_wan_001">Ez, ni bakarrik, Goya eta Krier. Akersek burugogor jokatu du.</Entry>
-      <Entry Name="recording_7_zeppelintransmission_1_004_strasky_001">Ongi da. Laster arte, Brandon. Ebakuazio zoriontsua!</Entry>
+      <Entry Name="recording_7_zeppelintransmission_1_004_strasky_001">Ongi da. Laster arte, Brandon. Ebakuazio zoriontsua opa dizut!</Entry>
       <Entry Name="datamine_2_dataminemaggie_003_maggie_001">Aurrera, Strasky. Hartzen nauzu?</Entry>
       <Entry Name="datamine_2_dataminemaggie_004_maggie_001">Zeta, entzun! Akers Zetara doa!</Entry>
       <Entry Name="datamine_2_dataminemaggie_005_strasky_001">Delta LUMAR Annex, seinale bat jasotzen, baina soinurik gabe.</Entry>
@@ -3097,7 +3097,7 @@
       <Entry Name="dialog_8_insertcatherineonplatform_012_catherine_001">Orduan, badakizu nola funtzionatzen duen. Tresna-txip berri bat lortu behar dugu eta aldatu.</Entry>
       <Entry Name="dialog_8_insertcatherineonplatform_013_player_001">Esango zenidake nola iritsi hurbilen duzun erreminta-txipen biltegira?</Entry>
       <Entry Name="dialog_8_insertcatherineonplatform_014_catherine_001">Errazagoa litzateke robot bat hartzea.</Entry>
-      <Entry Name="dialog_8_insertcatherineonplatform_015_player_001">Zer? Robot bati buruan mamporro bat eman eta txipak lapurtzen dizkiot?</Entry>
+      <Entry Name="dialog_8_insertcatherineonplatform_015_player_001">Zer? Robot bati buruan zartako bat eman eta txipak lapurtuko dizkiot?</Entry>
       <Entry Name="dialog_8_insertcatherineonplatform_016_catherine_001">Horko erreminta-kaxa horrek zorabio-makila bat duela dio. Hori erabil dezakezu.</Entry>
       <Entry Name="dialog_8_insertcatherineonplatform_017_player_001">Tira, ez diot inori minik eman nahi, hori ez da gehiegi?</Entry>
       <Entry Name="dialog_8_insertcatherineonplatform_018_catherine_001">Robot bat besterik ez da, Simon.</Entry>
@@ -3119,7 +3119,7 @@
       <Entry Name="comment_8_nottakingchip_001_player_001">Oraindik txipa behar dut Catherine konpontzeko.</Entry>
       <Entry Name="dialog_8_playerarriveswithchip_001_catherine_001">Erraz konpondu beharko litzateke.</Entry>
       <Entry Name="dialog_2_escapepoddistresssignal_001_automated voice_001">Jakinarazitako Deltako erreskate-taldea. Mesedez, geratu zuen eserlekuetan.</Entry>
-      <Entry Name="datamine_3_dataminelaunchsitecrew_001_evans_001">Ikusi duzu hori, ezta? Ikusi duzu Akersek nola injektatzen zien puta hori?</Entry>
+      <Entry Name="datamine_3_dataminelaunchsitecrew_001_evans_001">Ikusi duzu hori, ezta? Ikusi duzu Akersek nola injektatzen zien puta mierda hori?</Entry>
       <Entry Name="datamine_3_dataminelaunchsitecrew_002_maggie_001">Bete-betean harrapatu nau.</Entry>
       <Entry Name="datamine_3_dataminelaunchsitecrew_003_evans_001">Uste dut okertu egin dudala luzatzean. Nik... Odolusten ari dela sentitzen dut.</Entry>
       <Entry Name="datamine_3_dataminelaunchsitecrew_003_evans_002">Ikus dezakezu?</Entry>
@@ -3148,7 +3148,7 @@
       <Entry Name="goya_2_confusedrobotidling_005_goya_001">Asko nabaritzen da Astrid plataformatik kanpo dagoenean. Leku honek aldagela bat dirudi. Eta ez alde positiboan...</Entry>
       <Entry Name="goya_2_confusedrobotidling_006_goya_001">Ez dakit, osaba. Nik uste dut klasea mantendu dezakegula emakumeak ez badaude ere, ulertzen?</Entry>
       <Entry Name="goya_2_confusedrobotidling_007_goya_001">Bai, bai. Zenbat txorakeria esaten dituzun, Brandon. Ikusi zaitut Alice Koster agertzen denean, karga-zuzendari erabilgarria.</Entry>
-      <Entry Name="goya_2_confusedrobotidling_008_goya_001">Zuk zure karga erabilgarria kudeatzen utziko zenioke? Zer? Horrek ez du zentzurik. Tira, nahikoa da idiota egiteaz eta lan egiteaz.</Entry>
+      <Entry Name="goya_2_confusedrobotidling_008_goya_001">Zuk zure karga erabilgarria kudeatzen utziko zenioke? Zer? Horrek ez du zentzurik. Tira, nahikoa da tontolapikoarena egiteaz eta lan egiteaz.</Entry>
       <Entry Name="goya_2_confusedrobotidling_009_goya_001">Ahaztu, Akers, ez dut zurekin jokatuko. Xakea nahiko aspergarria ez balitz bezala... Lau mugimendutan irabazi behar duzu.</Entry>
       <Entry Name="goya_2_confusedrobotidling_010_goya_001">Mugitu al dituzu kanpoko ezkutuak? Ez! Fina, sortzen ari dena! Bai, bai, badakit teknikoki ez dela ezkutu bat. Ez dio axola, aurkitu dut.</Entry>
       <Entry Name="goya_2_confusedrobotidling_011_goya_001">Zergatik joan nahi zenuen Zetara? Zertarako izan arrain txiki bat urmael handi batean?</Entry>
@@ -3163,7 +3163,7 @@
       <Entry Name="dialog_8_returnnobaton_003_catherine_001">Ez ahaztu makila. Robotekin borrokatzeko beharko duzu.</Entry>
       <Entry Name="dialog_8_returnnobaton_004_catherine_001">Hartu makila erreminta-kaxatik. Ziur nago erabilgarria izango dela.</Entry>
       <Entry Name="dialog_8_fixcatherine_kate_001_player_001">Ba al dago alderik haien artean? Txiki bat aukeratu dut.</Entry>
-      <Entry Name="dialog_8_fixcatherine_kate_002_catherine_001">Ez, ez K-8 bat, oso monoak dira!</Entry>
+      <Entry Name="dialog_8_fixcatherine_kate_002_catherine_001">Ez, ez K-8 bat, oso politak dira!</Entry>
       <Entry Name="dialog_8_fixcatherine_kate_003_player_001">Zer?</Entry>
       <Entry Name="dialog_8_fixcatherine_kate_004_catherine_001">Ez kezkatu, harriak baino tontoagoak dira.</Entry>
       <Entry Name="dialog_8_fixcatherine_kate_005_player_001">Okerrena zara.</Entry>
@@ -3190,7 +3190,7 @@
       <Entry Name="goya_2_confusedrobotidling_damaged_1_008_goya_001">Kontu handiagoa izan behar da.</Entry>
       <Entry Name="goya_2_confusedrobotidling_damaged_2_001_goya_001">Laguntza behar dut!</Entry>
       <Entry Name="goya_2_confusedrobotidling_damaged_2_002_goya_001">Brandon? Tira, lagundu!</Entry>
-      <Entry Name="goya_2_confusedrobotidling_damaged_2_003_goya_001">Neurtu, jantzia urez betetzen ari da.</Entry>
+      <Entry Name="goya_2_confusedrobotidling_damaged_2_003_goya_001">Ostia puta, jantzia urez betetzen ari da.</Entry>
       <Entry Name="goya_2_confusedrobotidling_damaged_2_004_goya_001">Ene, odol asko dago.</Entry>
       <Entry Name="goya_2_confusedrobotidling_damaged_2_005_goya_001">Mutilak, izorratuta nago. Oso gaizki nago.</Entry>
       <Entry Name="goya_2_confusedrobotidling_damaged_2_006_goya_001">Brandon? Terry?</Entry>
@@ -3333,7 +3333,7 @@
       <Entry Name="datamine_7_dataminebrokenradio_001_akers_001">Entzuten didazu? Bai horixe.</Entry>
       <Entry Name="datamine_7_dataminebrokenradio_001_akers_002">Jakin zenezan nahi nuen. Ez nauzu itsu-itsuan aukeratu.</Entry>
       <Entry Name="datamine_7_dataminebrokenradio_001_akers_003">Deltako olatu geldiek, itsasertzaren kontra hautsiz, sekulako lozorroan jartzen zintuzten.</Entry>
-      <Entry Name="datamine_7_dataminebrokenradio_001_akers_004">Gauza ederra da, eta ez dut utziko neurekoikeriaz jokatzen. Lagunduko dizuet, babestuko zaituztet, lo zaudeten bitartean begiratuko zaituztet.</Entry>
+      <Entry Name="datamine_7_dataminebrokenradio_001_akers_004">Gauza ederra da, eta  Ez dut neurekoikeriaz jokatuko. Lagunduko dizuet, babestuko zaituztet, lo zaudeten bitartean begiratuko zaituztet.</Entry>
       <Entry Name="datamine_7_dataminebrokenradio_001_akers_005">Haiek ere bakea aurkituko dute WAUren unibertsoan.</Entry>
    </CATEGORY>
    <CATEGORY Name="Voices_02_05_theta_inside">
@@ -3372,16 +3372,16 @@
       <Entry Name="dialog_3_inbrandonsroomnofailedsimulation_001_catherine_001">Begiratu ingurura. Agian kodea lortzeko erabil dezakegun zerbait izango du.</Entry>
       <Entry Name="dialog_3_inbrandonsroomfailedsimulation_001_catherine_001">Hobeto ezagutzen badugu, simulazioa leunagoa izan daiteke.</Entry>
       <Entry Name="dialog_3_lookatbrandonsbadge_001_catherine_001">Konpontzailea da. Kodea jakin behar duzu.</Entry>
-      <Entry Name="dialog_3_readloveletter_001_player_001">Aliziaren ohar batek Brandonekin eskaneatu zutela pentsarazten dit.</Entry>
+      <Entry Name="dialog_3_readloveletter_001_player_001">Alice-ren ohar batek Brandonekin eskaneatu zutela pentsarazten dit.</Entry>
       <Entry Name="dialog_3_readloveletter_002_catherine_001">Etorkizun handikoa dirudi... Hori oso baliagarria izango zaigu.</Entry>
-      <Entry Name="dialog_3_afterdataminingintercom_001_player_001">Uste dut Alizia Brandonekin hizketan entzun dudala interkomunikatzaileagatik. Segur aski, alde egiteko prestatzen ari ziren.</Entry>
+      <Entry Name="dialog_3_afterdataminingintercom_001_player_001">Uste dut Alice Brandonekin hizketan entzun dudala interkomunikatzaileagatik. Segur aski, alde egiteko prestatzen ari ziren.</Entry>
       <Entry Name="dialog_3_afterdataminingintercom_002_catherine_001">Hori interkomunikatzailearengandik atera duzu? Transmisio-buferra izango da. Itxaron.</Entry>
       <Entry Name="dialog_3_afterdataminingintercom_002_catherine_002">Hori da behar duguna!</Entry>
       <Entry Name="datamining_3_intercomdatamining_002_alice_001">Brandon, prest zaude? Strohmeierrek dio joateko ordua dela.</Entry>
       <Entry Name="datamining_3_intercomdatamining_003_wan_001">Straskyk eta Alvarok beren gauzak prestatzeko zain nago. Jaitsi eta han ikusiko dugu elkar.</Entry>
       <Entry Name="datamining_3_intercomdatamining_004_alice_001">Ez berandutu.</Entry>
       <Entry Name="datamining_3_intercomdatamining_005_wan_001">Ez kezkatu. Jarraitu egin dizugu.</Entry>
-      <Entry Name="dialog_3_allbrandoncluesfound_001_catherine_001">Uste dut badugula, Simon. Interkomunikatzailearen Aliziaren ahotsa sintetizatu dezaket eta simulaziorako erabili.</Entry>
+      <Entry Name="dialog_3_allbrandoncluesfound_001_catherine_001">Uste dut badugula, Simon. Interkomunikatzailearen Alice-ren ahotsa sintetizatu dezaket eta simulaziorako erabili.</Entry>
       <Entry Name="dialog_3_allbrandoncluesfound_001_catherine_002">Engaina dezakegu seguru senti dadin eta fidatu dadin.</Entry>
       <Entry Name="dialog_3_allbrandoncluesfound_002_player_001">Primeran. Honek susmo ona ematen dit.</Entry>
       <Entry Name="dialog_3_allbrandoncluesfound_003_catherine_001">Lan ona interkomunikatzailearekin. Ez nekien datuak ateratzea ondo ematen zizunik. Nola egiten duzu?</Entry>
@@ -3456,7 +3456,7 @@
       <Entry Name="simulation_3_alicevoid_8_002_alice_001">Mesedez. Kode baten bila nabil.</Entry>
       <Entry Name="simulation_3_alicevoid_8_003_alice_001">Ez da pentsatzen duzuna, gu gara onak.</Entry>
       <Entry Name="simulation_3_alicevoid_9_001_wan_001">Zer deabru da hau? Zer egin didazue?</Entry>
-      <Entry Name="simulation_3_alicevoid_9_002_wan_001">Zer egin diozue Aliziari?</Entry>
+      <Entry Name="simulation_3_alicevoid_9_002_wan_001">Zer egin diozue Alice-ri?</Entry>
       <Entry Name="simulation_3_alicevoid_9_003_wan_001">Zaurituta badago, zurekin amaituko dut behingoz!</Entry>
       <Entry Name="simulation_3_alicecabin_2_001_alice_001">Primeran, ezta?</Entry>
       <Entry Name="simulation_3_alicecabin_2_002_alice_001">Gustatzen zaizu?</Entry>
@@ -3515,7 +3515,7 @@
       <Entry Name="datamining_5_dataminescanroomintercom_005_strasky_001">Ene, nola?</Entry>
       <Entry Name="datamining_5_dataminescanroomintercom_006_catherinedatamine_001">Máser tresna... Zer egingo dut?</Entry>
       <Entry Name="datamining_5_dataminescanroomintercom_007_strasky_001">Strohmeierri esan beharko diot.</Entry>
-      <Entry Name="datamining_5_dataminescanroomintercom_008_catherinedatamine_001">Ez, mesedez, oso gertu nago! Strohmeierrek ARCA proiektua itxiko du. Ez da nire errua jendeari eman izana bere buruaz beste egiteagatik.</Entry>
+      <Entry Name="datamining_5_dataminescanroomintercom_008_catherinedatamine_001">Ez, mesedez, oso gertu nago! Strohmeierrek ARCA proiektua itxiko du. Ez da nire errua jendeak bere buruaz beste egitea erabaki izana.</Entry>
       <Entry Name="datamining_5_dataminescanroomintercom_009_strasky_001">Catherine. Zer egingo duzu? Ezin izango duzu 140 kg-ko gorputz bat laborategitik atera.</Entry>
       <Entry Name="datamining_5_dataminescanroomintercom_010_catherinedatamine_001">Badakit.</Entry>
       <Entry Name="datamining_5_dataminescanroomintercom_011_strasky_001">Catherine, ondo zaude?</Entry>
@@ -3532,7 +3532,7 @@
       <Entry Name="recording_5_simonrecording_2_004_simonrecording_001">Hara, kontua korapilatu egiten da.</Entry>
       <Entry Name="recording_5_simonrecording_2_005_david_001">Ez kezkatu, erraza da. Astero kontrolatuko zaitugu plana doitzeko, behar izanez gero.</Entry>
       <Entry Name="recording_5_simonrecording_3_001__soundeffect_001">* monitore kardiologikoaren txistuak*</Entry>
-      <Entry Name="recording_5_simonrecording_3_002_david_001">Eredua oso egonkorra zen. Funtzionatu behar nuen.</Entry>
+      <Entry Name="recording_5_simonrecording_3_002_david_001">Eredua oso egonkorra zen. Funtzionatu behar zuen.</Entry>
       <Entry Name="recording_5_simonrecording_3_003_simonrecording_001">Ez da zure errua, David.</Entry>
       <Entry Name="recording_5_simonrecording_3_004_david_001">Gauzak beste era batera ateratzea gustatuko litzaidake.</Entry>
       <Entry Name="recording_5_simonrecording_3_005_simonrecording_001">Bai, niri ere bai.</Entry>
@@ -3598,9 +3598,9 @@
       <Entry Name="dialog_3_samescanupload_004_catherine_001">* hasperen etsigarria*</Entry>
       <Entry Name="dialog_3_samescanupload_005_catherine_001">* ufff*</Entry>
       <Entry Name="dialog_3_samescanupload_006_catherine_001">* hasperen zapuztua*</Entry>
-      <Entry Name="dialog_3_entersimroomalicemoduleready_001_catherine_001">Erabili dezakegun Aliziaren modulu bat bildu dut.</Entry>
+      <Entry Name="dialog_3_entersimroomalicemoduleready_001_catherine_001">Erabili dezakegun Alice-ren modulu bat bildu dut.</Entry>
       <Entry Name="dialog_3_entersimroomalicemoduleready_002_player_001">Brandonekin egongo da simulazioan.</Entry>
-      <Entry Name="dialog_3_entersimroomalicemoduleready_003_player_001">Gutxi gorabehera. Nik hitz egin beharko dut, baina ahotsa eta irudia Aliziarenak izango dira.</Entry>
+      <Entry Name="dialog_3_entersimroomalicemoduleready_003_player_001">Gutxi gorabehera. Nik hitz egin beharko dut, baina ahotsa eta irudia Alice-renak izango dira.</Entry>
       <Entry Name="dialog_2_whereiseveryone_1_001_catherine_001">Zer gertatu zaio jende guztiari?</Entry>
       <Entry Name="dialog_2_whereiseveryone_1_002_player_001">Leku hau hutsik dago oraingoz.</Entry>
       <Entry Name="dialog_2_whereiseveryone_1_003_catherine_001">Ez du zentzurik. Jakina, Zeta bizirauteko aukerarik onena da.</Entry>
@@ -3621,7 +3621,7 @@
       <Entry Name="dialog_2_catherinepluggedin_010_catherine_001">Tenperatura atsegina da, airea garbi dago, eguraldi ona egiten du.</Entry>
       <Entry Name="dialog_2_catherinepluggedin_011_player_001">Orduan, ARCAko jendea hor dabil mundu erreala dela irudikatzen?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_012_catherine_001">Ez duzu ezer imajinatu behar, erabat inguratzailea da.</Entry>
-      <Entry Name="dialog_2_catherinepluggedin_013_player_001">Eta buruaskia al da?</Entry>
+      <Entry Name="dialog_2_catherinepluggedin_013_player_001">Eta autosufizientea al da?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_014_catherine_001">Bai, eguzki-panelek bultzatutako zunda bati lotuta dago. Milaka urte iraun dezake.</Entry>
       <Entry Name="dialog_2_catherinepluggedin_015_player_001">Sinestezina da.</Entry>
       <Entry Name="dialog_2_catherinepluggedin_017_player_001">Pentsatu Lurra zer den eta gu gizateriaren azken hondarrak salbatu nahian... Zera... zera...</Entry>
@@ -3633,7 +3633,7 @@
       <Entry Name="dialog_2_catherinepluggedin_023_catherine_001">Berrogeialdian dago?</Entry>
       <Entry Name="dialog_2_catherinepluggedin_023_catherine_002">Itxaron.</Entry>
       <Entry Name="dialog_2_lookedatterminalmap_001_player_001">Badirudi zure lagun guztiak beheko pisura joan direla.</Entry>
-      <Entry Name="dialog_2_lookedatterminalmap_002_catherine_001">Zergatik utzi atea... eta habitata? Bai bitxia... Hau ez zait ilea gustatzen.</Entry>
+      <Entry Name="dialog_2_lookedatterminalmap_002_catherine_001">Zergatik utzi atea... eta habitata? Bai bitxia... Hau ez zait batere gustatzen.</Entry>
       <Entry Name="dialog_2_dockdoorneedcode_001_catherine_001">Segurtasun-kode bat behar dugu.</Entry>
       <Entry Name="dialog_2_dockdoorneedcode_002_player_001">Nola da zaila bat lortzea?</Entry>
       <Entry Name="dialog_2_dockdoorneedcode_003_catherine_001">Nahikoa. Ez da idatziz idazten den zerbait.</Entry>
@@ -3774,10 +3774,10 @@
       <Entry Name="dialog_hint_notfoundallbrandonsstuff_1_001_catherine_001">Zerbait falta zaigu... Jarraitu Brandon Wanen gelan bila.</Entry>
       <Entry Name="dialog_hint_notfoundallbrandonsstuff_2_001_catherine_001">Wanen gelan bilatzen jarraitzen du.</Entry>
       <Entry Name="dialog_hint_notusedsim_2_001_catherine_001">Egin simulazio bat aurkitu duzun txipetik.</Entry>
-      <Entry Name="dialog_hint_notfoundscanroomdata_1_001_catherine_001">Brandon dugu Aliziaren ondoan. Hasiera ona da, baina eskaneatu zintuzten aretoa simulatzeko modua aurkitu behar dugu.</Entry>
+      <Entry Name="dialog_hint_notfoundscanroomdata_1_001_catherine_001">Brandon dugu Alice-ren ondoan. Hasiera ona da, baina eskaneatu zintuzten aretoa simulatzeko modua aurkitu behar dugu.</Entry>
       <Entry Name="dialog_hint_notfoundscanroomdata_2_001_catherine_001">Wanen itxura egin behar dugu eskaneatu zuten aretoaren barruan.</Entry>
-      <Entry Name="dialog_hint_goteverything_1_001_catherine_001">Brandon Wanen itxura egin beharko genuke, Aliziarekin eskaneatzeko gela barruan bere burua harrapatu zuten egoeraren antza duen eszena batean.</Entry>
-      <Entry Name="dialog_hint_goteverything_2_001_catherine_001">Brandon Wanen simulazio bat egiten du Aliziaren ondoko eskaneatze-gelaren barruan.</Entry>
+      <Entry Name="dialog_hint_goteverything_1_001_catherine_001">Brandon Wanen itxura egin beharko genuke, Alice-rekin eskaneatzeko gela barruan bere burua harrapatu zuten egoeraren antza duen eszena batean.</Entry>
+      <Entry Name="dialog_hint_goteverything_2_001_catherine_001">Brandon Wanen simulazio bat egiten du Alice-ren ondoko eskaneatze-gelaren barruan.</Entry>
       <Entry Name="dialog_hint_notvisitedbrandon_2_001_catherine_001">Wanen gelan zerbait egongo da guri laguntzeko.</Entry>
       <Entry Name="dialog_hint_triedsimnoenv_2_001_catherine_001">Aurkitu ingurune digitala aldatzeko modu bat eta ondoren exekutatu berriro Brandon Wanen simulazioa.</Entry>
       <Entry Name="dialog_3_simulationdone_chipdestroyed_001_player_001">Atseden hartu bakean, Brandon.</Entry>
@@ -3785,7 +3785,7 @@
       <Entry Name="dialog_3_readbrandoncomputerfirst_002_catherine_001">Alice Koster? Saiatuko ginateke pentsarazten bera han dagoela simulazioan. Agian horrek hitz eginaraziko dio. Baina ez dakit nola... Segi bila.</Entry>
       <Entry Name="dialog_3_readbrandoncomputer_001_player_001">Dirudienez, Alice eta Brandon elkarrekin eskaneatu zituzten.</Entry>
       <Entry Name="dialog_3_readbrandoncomputer_002_catherine_001">Hori baliagarria izango zaigu.</Entry>
-      <Entry Name="dialog_3_readloveletterknowingaliceatscan_001_player_001">Aliziak eta Brandonek harreman bat zuten.</Entry>
+      <Entry Name="dialog_3_readloveletterknowingaliceatscan_001_player_001">Alice-k eta Brandonek harreman bat zuten.</Entry>
       <Entry Name="dialog_3_readloveletterknowingaliceatscan_002_catherine_001">Ongi. Orduan, eskaneatzean sartzeko modua aurkitu beharko genuke.</Entry>
       <Entry Name="dialog_3_readbrandoncomputerknowingaliceatscan_001_player_001">Alice eta Brandon elkarrekin zeuden eskaneatzean, zalantzarik gabe.</Entry>
       <Entry Name="dialog_3_readbrandoncomputerknowingaliceatscan_002_catherine_001">Pozten naiz jakiteaz. Agian erabil dezakegu.</Entry>
@@ -3800,7 +3800,7 @@
       <Entry Name="dialog_4_headingtoserversshort_001_catherine_002">"Ixo, Proxyk entzun dezake. "</Entry>
       <Entry Name="dialog_4_headingtoserversshort_001_catherine_003">Zer gertatu zaio Zetari? Ez dago azalpenik inon.</Entry>
       <Entry Name="dialog_4_headingtoserversshort_002_player_001">Ohartarazpen moduko bat dirudi.</Entry>
-      <Entry Name="dialog_3_simulation_usealice_001_catherine_001">Aliziaren modulua erabili beharko genuke simulazioan.</Entry>
+      <Entry Name="dialog_3_simulation_usealice_001_catherine_001">Alice-ren modulua erabili beharko genuke simulazioan.</Entry>
       <Entry Name="dialog_3_simulation_promptbrandonsroom_001_catherine_001">Brandon Wan pixka bat hobeto ezagutuko bagenu, errazagoa izango litzateke berarekin tratatzea. Bilatu bere gela.</Entry>
       <Entry Name="Comment_CathRoom_Banter1_001_Catherine_001">Ez dut uste hemen zerbait erabilgarria aurkituko duzunik.</Entry>
       <Entry Name="Comment_CathRoom_Banter2_001_Catherine_001">Ez duzu nire gela bilatu behar. Moldatuko gara.</Entry>
@@ -3823,7 +3823,7 @@
       <Entry Name="datamining_1e_datamineintercom_007_strohmeier_001">Zergatik? Horrek esan nahi du zu ere ezin zarela irten!</Entry>
       <Entry Name="datamining_1e_datamineintercom_008_brandon_001">Hori da salbu egoteko modu bakarra. Hartu anezka eta zoaz Omicronera.</Entry>
       <Entry Name="datamining_1e_datamineintercom_009_strohmeier_001">Madarikatua, Wan! Heroia izan behar zenuen, kabroi puska.</Entry>
-      <Entry Name="datamining_1e_datamineintercom_010_brandon_001">Zorte on. Eta esaiozu Aliziari maite dudala.</Entry>
+      <Entry Name="datamining_1e_datamineintercom_010_brandon_001">Zorte on. Eta esaiozu Alice-ri maite dudala.</Entry>
       <Entry Name="player_1h_doornotfixed_001_player_001">Oraindik ez dabil. Zerbait falta zait.</Entry>
       <Entry Name="player_1h_doornotfixed_002_player_001">Zerbait ez dago ondo konektatuta.</Entry>
       <Entry Name="player_1h_doornotfixed_003_player_001">Uste dut ez dudala ondo konpondu. Zer falta da?</Entry>
@@ -4057,7 +4057,7 @@
       <Entry Name="datamine_1_dataminejonsy_008_alvaro_001">Jonsy galtzen ari gara. Sartu egin behar dugu.</Entry>
       <Entry Name="datamine_1_dataminejonsy_009_strasky_001">Tira, ilaran!</Entry>
       <Entry Name="datamine_1_dataminejonsy_010_thabo_001">Alvaro, une honetan ezin dugu ezer egin beragatik. Sakatu estasi-etengailua eta proba egingo dugu eranskinean.</Entry>
-      <Entry Name="datamine_1_dataminestrasky_001_strasky_001">Ez da irekitzen, izorratzaile... Eta inork ez du erantzuten!</Entry>
+      <Entry Name="datamine_1_dataminestrasky_001_strasky_001">Ez da irekitzen, arraioa!... Eta inork ez du erantzuten!</Entry>
       <Entry Name="datamine_1_dataminestrasky_001_strasky_002">Putakume bat izan behar dugu hemen kanpoan hiltzen uzteko!</Entry>
       <Entry Name="datamine_1_dataminestrasky_002_alvaro_001">Ez duzu ulertzen? Hilda daude. Denak hilda daude.</Entry>
       <Entry Name="datamine_1_dataminestrasky_003_thabo_001">Bai, arrazoi duzu.</Entry>
@@ -4100,7 +4100,7 @@
       <Entry Name="dialog_3_idledialog_1_1_003_player_001">Hasteko, kutxa hiztuna izatea, gizakia ez izatea.</Entry>
       <Entry Name="dialog_3_idledialog_1_1_004_catherine_001">Ez dago hain gaizki.</Entry>
       <Entry Name="dialog_3_idledialog_1_2_001_player_001">Orduan, ez zaizu axola gorputzik ez izatea?</Entry>
-      <Entry Name="dialog_3_idledialog_1_2_002_catherine_001">Ba orain arte ez. Benetan autokontziente sentiarazten nauzu.</Entry>
+      <Entry Name="dialog_3_idledialog_1_2_002_catherine_001">Ba orain arte ez. Benetan Autokontziente sentiarazten nau.</Entry>
       <Entry Name="dialog_3_idledialog_1_2_003_player_001">Benga, benetan.</Entry>
       <Entry Name="dialog_3_idledialog_1_2_004_catherine_001">Egia esan, gizakia nintzela ere ez nintzen erosoegi sentitzen. Hau ez da askoz okerragoa.</Entry>
       <Entry Name="dialog_3_idledialog_1_3_001_player_001">Ni kikilduko nintzateke mugitzerik ez banu. Pozten naiz kaxak zu ukitzen zintuelako eta ez ni.</Entry>
@@ -4123,9 +4123,9 @@
       <Entry Name="dialog_3_idledialog_3_2_002_catherine_001">Zer esan nahi duzu?</Entry>
       <Entry Name="dialog_3_idledialog_3_2_003_player_001">Torontoren falta sentitzen dut, ez nire lagunak eta nire familia han daudelako, baizik eta badakidalako non egokitu. Toronton, badakit nor naizen.</Entry>
       <Entry Name="dialog_3_idledialog_3_2_004_catherine_001">Oso ohar interesgarria.</Entry>
-      <Entry Name="recording_3_bloodterminalrecording_001_darby_001">Herber, lasaigarriak geratzen zaizkigu? Txistualdi hauek akabatu egingo naute.</Entry>
+      <Entry Name="recording_3_bloodterminalrecording_001_darby_001">Herber, lasaigarriak geratzen zaizkigu? Txistu hauek akabatu egingo naute.</Entry>
       <Entry Name="recording_3_bloodterminalrecording_002_herber_001">Sentitzen dut. Gauza gogorrak geratzen zaizkigu, morfinaren mailakoak.</Entry>
-      <Entry Name="recording_3_bloodterminalrecording_003_darby_001">Hartuko dut. Burua lehertuko zait.</Entry>
+      <Entry Name="recording_3_bloodterminalrecording_003_darby_001">Hartuko dut. Burua lehertzear dut.</Entry>
       <Entry Name="recording_3_bloodterminalrecording_004_herber_001">Ezinezkoa, hori larrialdietarako da.</Entry>
       <Entry Name="recording_3_bloodterminalrecording_004_herber_002">Gainera, Cameronek uste du txistua baretuko dela JR % 100era iristen denean.</Entry>
       <Entry Name="recording_3_bloodterminalrecording_005_darby_001">Esaiezu azkar ibiltzeko, izorratzaile.</Entry>
@@ -4338,7 +4338,7 @@
       <Entry Name="general_commterminal_1_005_herber_001">Bai, Strask. Hala da.</Entry>
       <Entry Name="general_commterminal_1_006_strasky_001">Ados, baina kontuz ibili.</Entry>
       <Entry Name="general_commterminal_1_007_herber_001">Agur, Peter.</Entry>
-      <Entry Name="general_commterminal_2_001_lindwall_001">Omicron, hartuko gaituzu?</Entry>
+      <Entry Name="general_commterminal_2_001_lindwall_001">Omicron, entzuten nauzu?</Entry>
       <Entry Name="general_commterminal_2_002_herber_001">Argi eta garbi. Denok ondo?</Entry>
       <Entry Name="general_commterminal_2_003_lindwall_001">Hala egongo gara exotrajeen lagun egiten garenean.</Entry>
       <Entry Name="general_commterminal_2_004_herber_001">Ziur ohituko zarela.</Entry>
@@ -4348,7 +4348,7 @@
       <Entry Name="general_commterminal_2_008_lindwall_001">Entzun duzu, ezta?</Entry>
       <Entry Name="general_commterminal_2_009_herber_001">Ez kezkatu. Ez gara ahaztuko.</Entry>
       <Entry Name="general_commterminal_2_010_lindwall_001">Ados, irratiko isiltasunera goaz.</Entry>
-      <Entry Name="general_commterminal_2_011_herber_001">Zorte on, mutilak.</Entry>
+      <Entry Name="general_commterminal_2_011_herber_001">Zorte on!</Entry>
       <Entry Name="general_commterminal_4_001_herber_001">Tau, erantzun, mesedez. Hemen Raleigh Herber Omicronetik deika. Mesedez, Tau, erantzun.</Entry>
       <Entry Name="general_commterminal_4_002_automatedvoice_001">Ezin da konektatu. LUMAR errelea, irismenetik kanpo.</Entry>
       <Entry Name="general_commterminal_4_003_herber_001">Bai, bai. Ulertzen dut.</Entry>
@@ -4390,7 +4390,7 @@
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_005_herber_001">Harritzen zaitu hau guztia zer den jakiten saiatzeak? Nik ere amets horiek izan ditut...</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_006_herber_001">Ez dakit zer sinetsi.</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_007_suther_001">O, badakit. Dena, kutxa beltzen bat-bateko seinale-anplifikaziotik hasi eta Ross doktorea koman kristalezko poto batean sartuta edukitzeraino. Denok ari gara berotzen.</Entry>
-      <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_008_herber_001">Ezta zuk esan ere. Burua lehertuko zait.</Entry>
+      <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_008_herber_001">Benetan. Burua lehertzear dut.</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_009_herber_001">Hipotetikoki, WAU mutatzea eragotz genezake?</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_010_suther_001">Ez dabil horrela.</Entry>
       <Entry Name="hydroponicsaudiolog_hydroponicsaudiolog_011_herber_001">... ezta Alfa zentrorik balego ere?</Entry>
@@ -4556,7 +4556,7 @@
       <Entry Name="descent_simondiscussion_killed_001_player_001">Jakin al duzu zer gertatzen den hiltzen garenean? Hori posible da?</Entry>
       <Entry Name="descent_simondiscussion_killed_002_player_001">Heriotzaren ondoren bizitza mota bat badago, uste duzu nire lekua okupatuta egongo dela?</Entry>
       <Entry Name="descent_simondiscussion_killed_003_player_001">Benetako ni duela ehun urte hil zen. Oraindik ba al dago lekurik niretzat? Eta zer gertatzen da Omicronen hil nuen Simonekin?</Entry>
-      <Entry Name="descent_simondiscussion_killed_004_player_001">Zer uste duzu zuk, Catherine? Jende beraren kopia erredundantez betetako zerua al dago? Inor al dago hor goian iruzurti deituko nindukeenik?</Entry>
+      <Entry Name="descent_simondiscussion_killed_004_player_001">Zer uste duzu zuk, Catherine? Jende beraren kopia erredundantez betetako zerua al dago? Ba al da inor hor goian iruzurti deituko nindukeenik?</Entry>
       <Entry Name="descent_simondiscussion_left_001_player_001">Hiltzea pentsatu dut, Catherine. Omicronen utzi nuen Simoni hobeto hilda egongo zela pentsatu nuen.</Entry>
       <Entry Name="descent_simondiscussion_left_002_player_001">Kopia erredundantea da. Ez du inoiz nire bidaia esperimentatuko, bidaia osoa. Berak ez luke ulertuko. Nola egin behar nuen?</Entry>
       <Entry Name="descent_simondiscussion_left_003_player_001">Baina nik ezin nuen egin eta zuk bazenekien. Arrazoi zenuen ezkutatzen saiatzean.</Entry>
@@ -4643,12 +4643,12 @@
       <Entry Name="Lindwall_4_TalkToLastHuman_1_019_Player_001">ARKAren bila nabil.</Entry>
       <Entry Name="Lindwall_4_TalkToLastHuman_1_020_Lindwall_001">Zergatik? Zer dakizu zuk horretaz?</Entry>
       <Entry Name="Lindwall_4_TalkToLastHuman_1_021_Player_001">Gizateriaren azken itxaropena dela entzun dut.</Entry>
-      <Entry Name="Lindwall_4_TalkToLastHuman_1_022_Lindwall_001">Eta esan dezazula! Zertarako nahi duzu?</Entry>
+      <Entry Name="Lindwall_4_TalkToLastHuman_1_022_Lindwall_001">Bai horixe! Zertarako nahi duzu?</Entry>
       <Entry Name="Lindwall_4_TalkToLastHuman_1_023_Player_001">Firen kanoira eraman nahi dut. Espaziora jaurti.</Entry>
-      <Entry Name="lindwall_4_talktolasthuman_1_024_lindwall_001">Hori zen plana. Bera babesten egon naiz Taurera ekarri genuenetik. Ezin nuen hau alde batera utzi.</Entry>
+      <Entry Name="lindwall_4_talktolasthuman_1_024_lindwall_001">Hori zen plana. Bera babesten egon naiz Tau-ra ekarri genuenetik. Ezin nuen hau alde batera utzi.</Entry>
       <Entry Name="lindwall_4_talktolasthuman_1_026_lindwall_001">Egia esatea nahi baduzu, ez dut eztabaidatzeko indarrik. Eta ez dut astirik hurrengo kontzientea hemendik igaro arte itxaroteko. Aurrera. Tori.</Entry>
-      <Entry Name="lindwall_4_talktolasthuman_1_027_player_001">Mila esker. Zerbait eman diezazuket? Zerbait egin dezaket zure alde?</Entry>
-      <Entry Name="lindwall_4_talktolasthuman_1_028_lindwall_001">Hil nazakezu.</Entry>
+      <Entry Name="lindwall_4_talktolasthuman_1_027_player_001">Mila esker. Zerbait eman diezazuket? Egin dezaket zerbait zugatik?</Entry>
+      <Entry Name="lindwall_4_talktolasthuman_1_028_lindwall_001">Hil egin nazakezu.</Entry>
       <Entry Name="lindwall_4_talktolasthuman_1_029_player_001">Bai barregarria.</Entry>
       <Entry Name="Lindwall_4_TalkToLastHuman_2_001_Player_001">Zu hiltzearena benetan ari da?</Entry>
       <Entry Name="Lindwall_4_TalkToLastHuman_2_002_Lindwall_001">Ez, gustura geratuko nintzateke hemen lehortzen naizen arte.</Entry>
@@ -4696,7 +4696,7 @@
       <Entry Name="lindwall_4_killlasthuman_reenter_003_lindwall_001">Mesedez, ez joan. Oraindik ez.</Entry>
       <Entry Name="lindwall_4_killlasthuman_end_staying_001_lindwall_001">Simon, hor zaude oraindik?</Entry>
       <Entry Name="lindwall_4_killlasthuman_end_staying_002_player_001">Hemen nago, Sarah.</Entry>
-      <Entry Name="lindwall_4_killlasthuman_end_staying_003_lindwall_001">Ez utzi hiltzen, ados? Bidali itzazu kanpora. Izarrei.</Entry>
+      <Entry Name="lindwall_4_killlasthuman_end_staying_003_lindwall_001">Ez utzi hiltzen, ados? Bidali itzazu kanpora. Izarretara.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember1_001_hill_001">Zer egin dugu?</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember1_002_lindwall_001">Tira, saiatu ez pentsatzen.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember1_003_hill_001">Bizitza osoa. Gizon ona izan naiz. Kakaztu egin dugu, Sarah.</Entry>
@@ -4716,14 +4716,14 @@
       <Entry Name="ivashkin_3_crewmember_2_008_ivashkin_001">... mutil.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_001_lindwall_001">Ezin dugu ezer egin beragatik?</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_002_hill_001">Ez. Ez zaigu lasaigarririk geratzen. Pistola bat bagenu, hau litzateke ateratzeko unea.</Entry>
-      <Entry Name="datamine_3_dataminearkcrewmember3_003_lindwall_001">Ez nuen espero horrela bukatzea. Eskalatzailea Omicronera itzuli behar nuen.</Entry>
+      <Entry Name="datamine_3_dataminearkcrewmember3_003_lindwall_001">Ez nuen espero horrela bukatzerik. Eskalatzailea Omicronera itzuli behar nuen.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_004_hill_001">ARCA gabe?</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_005_lindwall_001">Ahaztu ARCA.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_006_hill_001">Ez, ezin duzu hori esan. Hori da geratzen zaigun baliozko gauza bakarra. Badakizu.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_007_lindwall_001">Bai, bai.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_008_hill_001">Hitz emadazu ez duzula utziko.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_009_lindwall_001">Egun batean denok hilda egongo gara eta orduan, zer?</Entry>
-      <Entry Name="datamine_3_dataminearkcrewmember3_010_hill_001">Hobe ordu arte salbu mantentzea. Ez dugu nahi WAUk bereganatzea, osorik irenstea.</Entry>
+      <Entry Name="datamine_3_dataminearkcrewmember3_010_hill_001">Hobe ordura arte salbu mantentzea. Ez dugu nahi WAUk bereganatzea, osorik irenstea.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_011_pedersen_001">Nik... Sentitzen dut, Catherine.</Entry>
       <Entry Name="datamine_3_dataminearkcrewmember3_012_hill_001">Ez da ezer gertatzen, Ian. Askatu. Askatu dena.</Entry>
       <Entry Name="lindwall_2_callinginfirmary_002_player_001">Ba al dago inor hor?</Entry>
@@ -4807,7 +4807,7 @@
       <Entry Name="blackbox_2_caveinblackbox_019__soundeffect_001">* tunela erori egiten da*</Entry>
       <Entry Name="dialog_3_rosstunnelchat_001_flesher_001">Oso gertu gaude.</Entry>
       <Entry Name="dialog_3_rosstunnelchat_002_player_001">Esadazu zer nahi duzun.</Entry>
-      <Entry Name="dialog_3_rosstunnelchat_003_flesher_001">WAUri oinak paratzea behar dut.</Entry>
+      <Entry Name="dialog_3_rosstunnelchat_003_flesher_001">WAU gelditu behar dut</Entry>
       <Entry Name="dialog_3_rosstunnelchat_004_player_001">Zer? Nola?</Entry>
       <Entry Name="dialog_3_rosstunnelchat_005_flesher_001">Zure jantziaren inguruan plisti-plasta dabilen proteina esklabizatua da WAU zintzilikatuko den soka.</Entry>
       <Entry Name="dialog_3_rosstunnelchat_006_player_001">Zertaz ari zara?</Entry>
@@ -4832,7 +4832,7 @@
       <Entry Name="dialog_3_simonescapeattempt_2_001_flesher_001">Geldi! Hau amaitu behar dugu!</Entry>
       <Entry Name="dialog_3_simonescapeattempt_3_001_player_001">Joder, kendu nire bidetik!</Entry>
       <Entry Name="dialog_3_simonescapeattempt_3_002_flesher_001">Ez dizut hondatzen utziko!</Entry>
-      <Entry Name="dialog_3_simonescapeattempt_4_001_flesher_001">Ez baduzu amaitzen, arduratuko naiz.</Entry>
+      <Entry Name="dialog_3_simonescapeattempt_4_001_flesher_001">Amaitzen ez baduzu, neu arduratuko naiz</Entry>
       <Entry Name="dialog_3_simonescapeattempt_5_finalcomment_001_flesher_001">Ados. Nahi duzun bezala.</Entry>
       <Entry Name="dialog_3_rossdemandsimondoit_1_001_flesher_001">Tira, egizu.</Entry>
       <Entry Name="dialog_3_rossdemandsimondoit_2_001_flesher_001">Ezin diot WAUri bere zikinkeria egiten jarraitu. Hil ezazu!</Entry>
@@ -4844,7 +4844,7 @@
       <Entry Name="dialog_2_rossbanter_1_001_flesher_001">Hemen dena gaizki atera da, Simon. Alfa zentroa.</Entry>
       <Entry Name="dialog_2_rossbanter_2_001_flesher_001">Hemen landatzen dugu Pathos-II irensten ari den minbiziaren hazia.</Entry>
       <Entry Name="dialog_2_rossbanter_3_001_flesher_001">Ez zuen horrela izan behar. Inork ez zigun esan hau gerta zitekeenik.</Entry>
-      <Entry Name="dialog_3_dodgedross_001_flesher_001">Mesedez, Simon. Gizateriak sufritu egingo du betierekotasun osoan!</Entry>
+      <Entry Name="dialog_3_dodgedross_001_flesher_001">Mesedez, Simon. Gizateriak sufritu egingo du eternitate osoan!</Entry>
       <Entry Name="dialog_3_wauswallowsross_noarm_001_player_001">Mesedez, zuk nahi zenuena egin dut.</Entry>
       <Entry Name="dialog_3_wauswallowsross_noarm_002_flesher_001">Ondo portatu zara, Simon. Baina ezin duzu alde egin.</Entry>
       <Entry Name="dialog_3_wauswallowsross_noarm_002_flesher_002">WAUk hilda jarraitzen duela ziurtatzeko modu bakarra eredu berriarekiko immunea den bakarra suntsitzea da.</Entry>
@@ -4951,9 +4951,9 @@
       <Entry Name="cathandsimon_4b_cath_launchreactiontosecond_20_001_player_001">Zer gertatzen da zamarekin?</Entry>
       <Entry Name="cathandsimon_4b_cath_launchreactiontosecond_20_002_catherine_001">Emaiozu segundo bat.</Entry>
       <Entry Name="cathandsimon_4b_cath_launchreactiontosecond_20_003_player_001">Etorkizunean banda zabalagoa izango zenutela uste nuen.</Entry>
-      <Entry Name="cathandsimon_4b_cath_cathisuploaded_001_player_001">Lasai egon behar duzu!</Entry>
+      <Entry Name="cathandsimon_4b_cath_cathisuploaded_001_player_001">Adarra jotzen ari zara?</Entry>
       <Entry Name="cathandsimon_4b_cath_launchplayerstressed_001_player_001">Tira, karga!</Entry>
-      <Entry Name="cathandsimon_4b_cath_simonisuploaded_001_player_001">Bai!!! Bai. Amarena! Lortu dugu! Kar-kar! Guaaau!</Entry>
+      <Entry Name="cathandsimon_4b_cath_simonisuploaded_001_player_001">Bai!!! Bai. Sekulakoa! Lortu dugu! Kar-kar! Guaaau!</Entry>
       <Entry Name="cathandsimon_5c_cath_talkafterwakeup_001_player_001">Hemen jarraitzen dut...? Hemen jarraitzen dut.</Entry>
       <Entry Name="cathandsimon_5c_cath_talkafterwakeup_002_player_001">Catherine? Catherine?</Entry>
       <Entry Name="cathandsimon_5c_cath_talkafterwakeup_003_catherine_001">Hemen nago.</Entry>
@@ -5011,10 +5011,10 @@
       <Entry Name="cathandsimon_1e_cath_playerfoundassembly_foundark_001_player_001">Horretan ari naiz.</Entry>
       <Entry Name="cathandsimon_1e_cath_playerfoundassembly_notfoundark_001_player_001">Ados, hartuko dut.</Entry>
       <Entry Name="cathandsimon_1g_cath_shellissetup_001_player_001">Kito?</Entry>
-      <Entry Name="cathandsimon_1g_cath_shellissetup_002_catherine_001">Ez naiz ezagutzen inolako arma handiekin... Tira, goazen. Sistema guztiak aktibatuta!</Entry>
+      <Entry Name="cathandsimon_1g_cath_shellissetup_002_catherine_001">Ez nago inolako armekin ohituta... Beno, goazen. Sistema guztiak aktibatuta!</Entry>
       <Entry Name="cathandsimon_1g_cath_shellissetup_003_player_001">Goazen.</Entry>
       <Entry Name="cathandsimon_1g_cath_shellissetup_004_catherine_001">Igo berriro eta kanoira joango gara.</Entry>
-      <Entry Name="comments_player_enters_level_001_player_001">Honek Fi izan behar du, ezta? Espero dut ARCA hona pieza batetik etortzea.</Entry>
+      <Entry Name="comments_player_enters_level_001_player_001">Honek Fi izan behar du, ezta? Espero dut ARCA osorik iristea.</Entry>
       <Entry Name="comments_ark_noclimb_first_001_player_001">Nola uste duzu...? Ezin naiz ARCArekin igo.</Entry>
       <Entry Name="comments_ark_noclimb_001_player_001">Benetan eraman behar dut ARKA hor goian?</Entry>
       <Entry Name="comments_ark_noclimb_002_player_001">Ez dakit ARCA gora eraman behar duzun.</Entry>
