@@ -1,60 +1,60 @@
 ﻿--------------- strings=29 language=spanish
 ---------------
-ＲＥＳＵＬＴＡＤＯＳ　<XOFFSET-08>ＤＥ　<XOFFSET-08>ＬＡ　<XOFFSET-08>ＰＡＲＴ<XOFFSET-03>Ｉ<XOFFSET-03>ＤＡ
+P A R T I D A R E N　<XOFFSET-08>　E M A I T Z A K
 ---------------
-Nivel de acción
+Ekintza-maila
 ---------------
-Nivel de enigmas
+Enigmen maila
 ---------------
-FÁCIL
+ERRAZA
 ---------------
-NORMAL
+NORMALA
 ---------------
-DIFÍCIL
+ZAILA
 ---------------
-Desenlace
+Amaiera
 ---------------
-Marcha
+Martxa
 ---------------
-María
+Mari
 ---------------
-En el agua
+Uretan
 ---------------
-Resurrección
+Berpizkundea
 ---------------
-PERRO
+TXAKURRA
 ---------------
-Desenlaces obtenidos
+Egindako enigmak
 ---------------
-Partidas guardadas
+Gordetako partidak
 ---------------
-Tiempo transcurrido
+Igarotako denbora
 ---------------
-Distancia recorrida a pie
+Oinez egindako distantzia
 ---------------
-Distancia recorrida corriendo
+Korrika egindako distantzia
 ---------------
-Objetos obtenidos
+Lortutako objektuak
 ---------------
-Muertes por armas de fuego
+Su-armek eragindako heriotzak
 ---------------
-Muertes cuerpo a cuerpo
+Gorputzez gorputzeko heriotzak
 ---------------
-Duración de la fase de la barca
+Txaluparen fasearen iraupena
 ---------------
-Velocidad máxima en la barca
+Txalupako gehienezko abiadura
 ---------------
-Daños totales
+Kalteak guztira
 ---------------
-Categoría obtenida
+Lortutako kategoria
 ---------------
-EXTRA
+ESTRA
 ---------------
-PRINCIPIANTE
+HASIBERRIA
 ---------------
-Es posible guardar
-	los datos del desenlace.
+Amaierako datuak
+	gorde daitezke.
 ---------------
-OVNI
+OHE (OVNI)
 ---------------
-Pulsa Intro para continuar.
+Sakatu Intro jarraitzeko.
