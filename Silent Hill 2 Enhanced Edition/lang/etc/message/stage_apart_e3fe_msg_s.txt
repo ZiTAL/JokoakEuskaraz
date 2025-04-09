@@ -1,23 +1,23 @@
 ﻿--------------- strings=8 language=spanish
 ---------------
-¡Mierda!
+Kaka zaharra!
 ---------------
-He encontrado la <COLOR-GREEN>llave del patio<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Patioko giltza<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	de la salida de emergencia<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Larrialdi-irteerako giltza<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-Una lavadora normal.
-	No tiene interesante.<SEPARATORB>
+Garbigailu normal bat.
+	Ez da interesgarria.<SEPARATORB>
 ---------------
-El teléfono no funciona.<SEPARATORB>
+Telefonoa ez dabil.<SEPARATORB>
 ---------------
-No hay nada interesante
-	ni en el periódico,
-	ni en la revista.<SEPARATORB>
+Ez dago ezer interesgarririk,
+	ez egunkarian,
+	ez aldizkarian.<SEPARATORB>
 ---------------
-Hay un cuadro colgado.
-	Parece un paisaje de esta zona.<SEPARATORB>
+Koadro bat dago eskegita.
+	Inguru honetako paisaia dirudi.
+Hay un cuadro colgado.<SEPARATORB>
 ---------------
-Hay un cuadro colgado.
-	Parece un paisaje extraño.<SEPARATORB>
+Koadro bat dago eskegita.
+	Paisaia bitxia dirudi.<SEPARATORB>
