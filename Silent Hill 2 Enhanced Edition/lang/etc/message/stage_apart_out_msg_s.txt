@@ -1,109 +1,111 @@
 ﻿--------------- strings=9 language=spanish
 ---------------
-¿Qué es esto...?
-	Una revista del corazón, ¿eh?
+Zer da hau...?
+Txutxumutxuen aldizkari bat, ezta?
 
-<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
-	que Walter Sullivan, detenido
-	el día 18 de este mes por
-	el brutal asesinato de Billy
-	Locane y su hermana Miriam,
-	se suicidó en su celda en
-	la madrugada del 22.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
+	Walter Sullivan hilaren 18an
+	atxilotu zuten, Billy Locane
+	eta bere arreba Miriamen
+	hilketa bortitzagatik, eta
+	bere buruaz beste egin zuen
+	bere ziegan, hilaren 22ko
+	goizaldean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
-	Sullivan se clavó una cuchara
-	sopera en el cuello, cortándose
-	la arteria carótida.
-	
-	 Cuando el guarda lo encontró,
-	Sullivan ya había muerto
-	desangrado, con la cuchara
-	hendida cinco centímetros
-	en el cuello.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
+	Sullivanek zopa-koilara bat sartu
+	zuen lepoan, karotida arteria
+	moztuz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
-	de Walter Sullivan, de su ciudad natal
-	de Pleasant River, declaró:
-	 «No parecía capaz de matar
-	a un niño.
+	 Zaindariak aurkitu zuenean,
+	Sullivan odolustuta hil zen,
+	koilara lepoan bost zentimetro
+	arrailduta zuela.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
-	de que lo detuvieran decía
-	cosas extrañas, en plan:
-	“Quiere matarme. Quiere
-	castigarme. El monstruo...
-	el demonio rojo.
-	Perdonadme. Yo lo hice,
-	¡pero no fui yo!”».
+<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivan-en eskolakide
+	ohi batek, Pleasant River
+	bere jaioterrikoak, zera
+	adierazi zuen: «Ez zirudien
+	haur bat hiltzeko gai zenik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
-	«Ahora que lo pienso, creo que
-	le faltaba algún tornillo».<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Baina gogoan dut atxilotu
+	baino lehentxeago gauza
+	arraroak esaten zituela,
+	adibidez: “Hil egin
+	nahi nau. Zigortu egin
+	nahi nau. Munstroa...
+	deabru gorria. Barkatu.
+	Nik egin nuen, baina ez
+	nintzen ni izan!”».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Lagunak gaineratu zuen:
+	«Orain pentsatzen ari naizela,
+	uste dut burutik pitzatuta zegoela».<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
-	que Walter Sullivan, detenido
-	el día 18 de este mes por
-	el brutal asesinato de Billy
-	Locane y su hermana Miriam,
-	se suicidó en su celda en
-	la madrugada del 22.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
+	Walter Sullivan hilaren 18an
+	atxilotu zuten, Billy Locane
+	eta bere arreba Miriamen
+	hilketa bortitzagatik, eta
+	bere buruaz beste egin zuen
+	bere ziegan, hilaren 22ko
+	goizaldean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
-	Sullivan se clavó una cuchara
-	sopera  en el cuello, cortándose
-	la arteria carótida.
-	 Cuando el guarda lo encontró,
-	Sullivan ya había muerto
-	desangrado, y tenía la cuchara
-	hendida 5 cm en el cuello.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
+	Sullivanek zopa-koilara bat sartu
+	zuen lepoan, karotida arteria
+	moztuz. Zaindariak aurkitu zuenean,
+	Sullivan odolustuta hil zen,
+	eta koilara 5 cm arrailduta
+	zeukan lepoan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compañero de escuela
-	de Walter Sullivan, de su ciudad natal
-	de Pleasant River, declaró:
-	 «No parecía capaz de matar
-	a un niño.
+<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivanen eskolakide ohi
+	batek, Pleasant River bere
+	jaioterrikoak, zera adierazi zuen:
+	 «Ez zirudien haur bat hiltzeko
+	gai zenik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
-	de que lo detuvieran decía
-	cosas extrañas, en plan:
-	“Quiere matarme. Quiere
-	castigarme. El monstruo...
-	el demonio rojo.
-	Perdonadme. Yo lo hice,
-	¡pero no fui yo!”».
+<CENTER-PARAGRAPH><COLOR-BLUE> Baina gogoan dut atxilotu baino
+	lehentxeago gauza arraroak
+	esaten zituela, plana betez:
+	“Hil egin nahi nau. Zigortu
+	egin nahi nau. Munstroa...
+	deabru gorria. Barkatu. Nik
+	egin nuen, baina ez nintzen
+	ni izan!”».
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El compañero añadió:
-	«Ahora que lo pienso, creo que
-	le faltaba algún tornillo».<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Lagunak gaineratu zuen:
+	«Orain pentsatzen ari naizela,
+	uste dut burutik pitzatuta zegoela».<SEPARATORB>
 ---------------
-La puerta no cede.
+Ateak ez du amore ematen.
 
-Parece como si algo la empujase
-	desde el otro lado.<SEPARATORB>
+Badirudi zerbaitek beste
+	aldetik bultzatzen duela.<SEPARATORB>
 ---------------
-Es basura.
-	No me sirve para nada.<SEPARATORB>
+Zaborra da.
+	Ez du ezertarako balio.<SEPARATORB>
 ---------------
-Al otro lado de la puerta
-	no hay una escalera de emergencia.
+Atearen beste aldean ez dago
+	larrialdietarako eskailerarik.
 
-¿La tirarían al construir
-	el edificio de al lado?
+Aldameneko eraikina eraikitzean
+	botako al zuten?
 
-Creo que puedo entrar
-	en el edificio de al lado
-	por esta ventana.<SEPARATORB>
+Uste dut aldameneko
+	eraikinean sar naitekeela
+	leiho honetatik.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>moneda
-	de la serpiente<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Sugearen txanpona
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-La bolsa de basura se ha roto
-	y se han esparcido sus contenidos
-	por todas partes.<SEPARATORB>
+Zabor-poltsa apurtu da
+	eta bere edukiak nonahi
+	zabaldu dira.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>moneda del anciano<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Agurearen txanpona
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-Creo que seguiré buscando
-	en este apartamento.
-	Hay algo que no me cuadra.<SEPARATORB>
+Uste dut apartamentu honetan
+	bilatzen jarraituko dudala.
+	Zerbait falta zaidala uste dut.<SEPARATORB>
