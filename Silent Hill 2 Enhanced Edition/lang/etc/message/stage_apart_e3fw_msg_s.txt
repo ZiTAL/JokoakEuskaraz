@@ -1,33 +1,33 @@
 ﻿--------------- strings=10 language=spanish
 ---------------
-He encontrado una <COLOR-GREEN>pistola<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Pistola<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-La pared está llena
-	de agujeros de bala.<SEPARATORB>
+Horma bala zuloz
+	beteta dago.<SEPARATORB>
 ---------------
-Hay cartuchos vacíos
-	tirados por el suelo.<SEPARATORB>
+Kartutxo hutsak daude
+	lurrean botata.<SEPARATORB>
 ---------------
-Hay una llave en el suelo,
-	al otro lado de los barrotes.
+Giltza bat dago lurrean,
+	barroteen beste aldean.
 
-Tal vez pueda alcanzarla
-	si estiro el brazo.
+Agian, besoa luzatzen badut
+	harrapatuko dut.
 
-¿Vas a cogerla?<SELECT-YES-OR-NO>
+Hartuko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Por mucho que me estire,
-	no alcanzo la llave.
+Ahalegin guztiak eginda ere,
+	ez naiz giltzera heltzeko gai.
 
-¿Quién es esa niña...?<SEPARATORB>
+Nor da neskatil hori?<SEPARATORB>
 ---------------
-¡Au!
+Au!
 ---------------
-¡Ja, ja!
+kar, kar!
 ---------------
-¡Eh, espera!
+E, itxarton!
 ---------------
-¡Mierda!
+Kaka zaharra!
 ---------------
-Un carrito de la compra.
-	¿Qué hace aquí?<SEPARATORB>
+Erosketa-orga.
+	Zer egiten du hemen?<SEPARATORB>
