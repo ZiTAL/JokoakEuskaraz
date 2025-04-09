@@ -1,218 +1,229 @@
 ﻿--------------- strings=42 language=spanish
 ---------------
 ¿¡Qué ha sido eso?!
-	Ha sonado al norte de aquí...<SEPARATORB>
+	Ha sonado al norte de aquí...
+Zer izan da hori?
+	Iparraldetik jo du...
+	<SEPARATORB>
 ---------------
-Está muerto.
-	¡¿Quién lo habrá matado...?!<SEPARATORB>
+Hilda dago.
+	Nork hil ote du...?!<SEPARATORB>
 ---------------
-No puedo ver bien por la oscuridad,
-	pero creo que hay algo al otro lado
-	del agujero.
+Ezin dut ondo ikusi iluntasunagatik,
+	baina zuloaren beste aldean
+	zerbait dagoela uste dut.
 
-¿Vas a investigar?<SELECT-YES-OR-NO>
+Ikertuko al duzu?<SELECT-YES-OR-NO>
 ---------------
-No queda nada en el agujero.<SEPARATORB>
+Zuloan ez dago ezer.<SEPARATORB>
 ---------------
-¿Esta nota...? Debe ser
-	de la persona que vivía aquí.<SEPARATORB>
+Ohar hau...? Hemen bizi zen
+	pertsonarena izango da.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres agujas
-	en tres alturas difieren.
-	Una es gruesa,
-	una es alta y otra fina.
-	De lento a rápido
-	a la derecha se mueven.
-	Scott no se posa en el 3,
-	sino que en el 15 atina.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru altuerako
+	hiru orratz ezberdinak dira.
+	Bat lodia da,
+	bat garaia eta
+	bestea fina.
+	Astiro-astiro eskuinera
+	mugitzen dira.
+	Scott ez da 3.ean gelditzen,
+	15.ean baizik.<SEPARATORB>
 ---------------
 Hay algo escrito en el reloj.
+Erlojuan zerbait idatzita dago.
 
-<COLOR-BLUE>Las cicatrices del pasado
-	deben eliminar el clavo
-	que detiene el tiempo.<SEPARATORB>
+<COLOR-BLUE>Iraganeko orbainek denbora
+	gelditzen duen iltzea
+	ezabatu behar dute.<SEPARATORB>
 ---------------
-¿Qué es esto...?<SEPARATORB>
+Zer da hau...?<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE>Henry
 	Mildred
 	Scott<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres tamaños distintos,
-	el tiempo pasó.
-	Tres jóvenes dando
-	vueltas alrededor del sol.
-	Henry es bajo,
-	y lento, lento va,
-	Scott no puede parar,
-	siempre en marcha está.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru tamaina desberdin,
+denbora pasa zen.
+Hiru gazte eguzkiaren
+inguruan bueltaka.
+Henry baxua da,
+eta motela, motel doa,
+Scott ezin da gelditu,
+beti martxan dago.<SEPARATORB>
 ---------------
-El reloj se ha parado en las <VARIABLE-01>:<VARIABLE-02>
-	y 15 segundos.<SEPARATORB>
+Erlojua honela gelditu da <VARIABLE-01>:<VARIABLE-02>
+	eta 15 segundo.<SEPARATORB>
 ---------------
-El reloj se ha parado en las <VARIABLE-01>:<VARIABLE-02>
-	y 15 segundos.
+Erlojua honela gelditu da <VARIABLE-01>:<VARIABLE-02>
+	eta 15 segundo.
 
-La esfera está cerrada.
+Esfera itxita dago.
 
-No puedo acceder
-	a las agujas del reloj.<SEPARATORB>
+Ezin naiz erlojuaren
+	orratzetara heldu.<SEPARATORB>
 ---------------
-En el suelo y las paredes
-	hay arañazos, como de
-	arrastrar algo pesado.<SEPARATORB>
+Lurrean eta hormetan harramazkak
+	daude, zerbait astuna
+	arrastaka eraman dutelakoan.<SEPARATORB>
 ---------------
-¿Vas a empujar el reloj?<SELECT-YES-OR-NO>
+Ordulariari bultza egingo al diozu?<SELECT-YES-OR-NO>
 ---------------
-Por muy fuerte que empuje,
-	no se mueve. Es como si
-	estuviese pegado al suelo.<SEPARATORB>
+Indarrez bultza eginda ere,
+	ez da mugitzen.
+	Lurrean itsatsita balego bezala dago.<SEPARATORB>
 ---------------
-Una rampa de basura.
+Zabor-arrapala bat.
 
-Hay algo raro atascado
-	en el agujero.<SEPARATORB>
+Zerbait arraroa dago
+	zuloan trabatuta.<SEPARATORB>
 ---------------
-Quizás si dejo caer algo pesado
-	desde arriba...<SEPARATORB>
+Agian zerbait astuna goitik
+	erortzen uzten badut...<SEPARATORB>
 ---------------
-Parece que la basura
-	se ha soltado de la rampa.<SEPARATORB>
+Zaborra arrapalatik
+	askatu dela dirudi.<SEPARATORB>
 ---------------
-Hay brazos y piernas esparcidos
-	por todo el sofá.
+Besoak eta hankak daude
+	sofa osoan sakabanatuta.
 
-Con suerte, serán de un maniquí...<SEPARATORB>
+Espero maniki batenak izatea, bestela...<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del reloj<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Erlojuaren giltza
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>linterna<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Linterna
+	<COLOR-WHITE> bat aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	de la habitación 202<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>202 gelako giltza
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del reloj<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Erlojuaren giltza
+	<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave
-	de la habitación 202<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>202 gelako giltza
+	<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de la salida
-	de emergencia<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Larrialdiko irteerako giltza
+	<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-Dios mío...
-	¡¿Quién podría hacer esto...?!
+Jaungoiko frakazabala...
+	Nork egin lezake hau?
 ---------------
-Hay una nota que lleva pegada
-	un recorte de una revista.
+Ohar batek aldizkari baten
+	ebakina darama itsatsita.
 
-En la parte de delante
-	lleva escrito un título.
+Aurreko aldean izenburua
+	dauka idatzita.
 
-<COLOR-BLUE>“Buscando otra conclusión”<SEPARATORB>
+<COLOR-BLUE>“Beste ondorio baten bila”<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«La ruta hacia el mañana»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Biharko egunerako ibilbidea»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El primer paso para una vida
-	sana es evitar la enfermedad.
-	Parecerá obvio, pero es
-	muy importante.
-	 Es mejor evitar las
-	enfermedades que tener que
-	buscar una cura tras enfermar.
+<CENTER-PARAGRAPH><COLOR-BLUE> Bizitza osasuntsu baterako
+	lehen urratsa gaixotasuna
+	saihestea da. Logikoa dirudi,
+	baina oso garrantzitsua da.
+	Hobe da gaixotasunak saihestea,
+	gaixotu ondoren sendabidea
+	bilatzea baino.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Además, hay que tener
-	una perspectiva positiva y
-	optimista de la vida. De poco
-	sirve preocuparse por las cosas
-	que ocurrieron en el pasado.
+<CENTER-PARAGRAPH><COLOR-BLUE> Gainera, bizitzaren ikuspegi
+	positiboa eta baikorra
+	izan behar da. Ez du
+	ezertarako balio iraganean
+	gertatutako gauzez kezkatzeak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Tienes que salir y disfrutar
-	del aire libre de vez en cuando,
-	en lugar de quedarte sentado
-	en tu casa, leyendo libros
-	complejos.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Noizean behin, irten eta
+	aire libreaz gozatu behar da,
+	etxean eserita egon
+	beharrean, liburu konplexuak
+	irakurtzen.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«Cómo ser una pareja feliz»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Nola izan bikote zoriontsua»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> ¿De verdad la amas?
-	 ¿En la salud y en la enfermedad?
-	 Si la amas de verdad, tienes
-	que actuar. Lo importante es
-	lo mucho que luches por ella.
+<CENTER-PARAGRAPH><COLOR-BLUE> Benetan maite al duzu? Osasunean
+	eta gaixotasunean? Benetan
+	maite baduzu, ekin egin behar
+	da. Garrantzitsuena da
+	zenbat borrokatzen duzun beragatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> No te rindas, pase lo que
-	pase. Da siempre otra
-	oportunidad. Y a pesar de
-	los momentos más duros, nunca
-	te vayas con otra mujer.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez etsi, datorrena datorrela.
+	Beti eman beste
+	aukera bat. Eta unerik
+	gogorrak igaro arren,
+	ez joan inoiz beste
+	emakume batekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Si llega el caso, debes estar
-	dispuesto a dar tu vida
-	por ella. Al fin y al cabo, el
-	verdadero amor supone estar
-	dispuesto a sacrificarse.
+<CENTER-PARAGRAPH><COLOR-BLUE> Kasua iristekotan,
+	prest egon behar duzu
+	haren alde bizitza emateko.
+	Azken finean, benetako
+	maitasuna sakrifikatzeko
+	prest egotea da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Sé fiel a tus sentimientos y,
-	con suerte, todo saldrá bien.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Izan leial zure sentimenduekin eta,
+zorte apur batekin, dena ondo aterako da.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«Elegir la muerte»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Heriotza aukeratu»
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Cuando la vida está llena
-	de desesperación, algunos
-	deciden acabar con todo.
-	 Yo también elegí ese camino
-	una vez.
-	 En aquel momento pensé
-	que no tenía otra salida.
+<CENTER-PARAGRAPH><COLOR-BLUE> Bizitza etsipenez beteta
+	dagoenean, batzuek dena
+	amaitzea erabakitzen dute.
+	Nik ere behin aukeratu
+	nuen bide hori. Une hartan
+	pentsatu nuen ez nuela beste
+	irtenbiderik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Una vez tomé la decisión, esta
-	se convirtió en lo único que me
-	unía a este mundo.
-	 A veces me ponía a llorar
-	pensando en el pasado, pero
-	sobre todo, lo que hacía era
-	planificar una y otra vez cómo
-	y cuándo me iba a suicidar.
+<CENTER-PARAGRAPH><COLOR-BLUE> Behin erabakia hartu nuenean,
+	hau bihurtu zen mundu honetara
+	lotzen ninduen gauza bakarra.
+	Batzuetan negarrez hasten
+	nintzen iraganaz pentsatzen,
+	baina, batez ere, behin eta
+	berriz planifikatzen nuen nola
+	eta noiz egingo nuen neure buruaz beste.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Hice estupideces, cosas peligrosas.
-	Pensé que daba lo mismo,
-	iba a morir de todas formas,
-	y me empeñé en tentar a la
-	suerte.
-	 Dejé de hablar con la gente,
-	de darle importancia, aunque
-	me distanciara de las amistades.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Ergelkeriak egin ditut, gauza
+	arriskutsuak. Bost axola,
+	hil egingo nintzela,
+	eta zoria tentatzen saiatu nintzen.
+	Jendearekin hitz egiteari utzi nion,
+	hari garrantzia emateari, nahiz eta
+	lagunetatik urrundu.<SEPARATORB>
 ---------------
-Aquí no hay nada que hacer.<SEPARATORB>
+Hemen ez dago zer eginik.<SEPARATORB>
 ---------------
-No hay nada que parezca útil.<SEPARATORB>
+Ez dago ezer erabilgarria dirudienik.<SEPARATORB>
 ---------------
-Hay un periódico en el suelo.
-	Pero no tiene nada interesante.<SEPARATORB>
+Egunkari bat dago lurrean.
+	Baina ez du ezer interesgarririk.<SEPARATORB>
 ---------------
-Un reloj grande. Está demasiado
-	oscuro como para verlo bien.<SEPARATORB>
+Erloju handi bat.
+	Ilunegi dago ondo ikusteko.<SEPARATORB>
 ---------------
-Aquí hay un periódico.
-	Parece muy antiguo.<SEPARATORB>
+Hemen egunkari bat dago.
+	Oso zaharra dirudi.<SEPARATORB>
 ---------------
-Una televisión.
-	No tiene nada raro.<SEPARATORB>
+Telebista bat.
+	Ez du ezer arrarorik.<SEPARATORB>
 ---------------
-No es más que un maniquí.
-	Pero esta ropa...<SEPARATORB>
+Manikia besterik ez da.
+	Baina arropa hau...<SEPARATORB>
 ---------------
-Una máquina de coser.
-	No tiene nada de especial.<SEPARATORB>
+Josteko makina.
+	Ez du ezer berezirik.<SEPARATORB>
 ---------------
-No hay nada que parezca
-	de utilidad.<SEPARATORB>
+	
+Ez dago ezer erabilgarria
+	<SEPARATORB>
 ---------------
-Hay mariposas muertas
-	por el suelo y la cama.
-	No hay nada más de interés.<SEPARATORB>
+Tximeleta hilak daude
+	lurrean eta ohean.
+	Ez dago ezer
+	interesgarririk.<SEPARATORB>
 ---------------
-No hay nada en las jaulas.<SEPARATORB>
+Kaioletan ez dago ezer.<SEPARATORB>
 ---------------
-Una lavadora normal.
-	No tiene interesante.<SEPARATORB>
+Garbigailu normal bat.
+	Ez da interesgarria.<SEPARATORB>
