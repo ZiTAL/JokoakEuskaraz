@@ -1,123 +1,118 @@
 ﻿--------------- strings=38 language=spanish
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>¡Le damos la bienvenida
-	a Silent Hill!
+<CENTER-PARAGRAPH><COLOR-BLUE>Ongi etorri
+	Silent Hill-era!
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill es una pequeña y
-	tranquila ciudad turística
-	a orillas de un lago.
-	Nos alegra que haya decidido
-	visitarnos. Tómese un descanso
-	de su ajetreada vida y disfrute
-	de unas tranquilas vacaciones.
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill aintzira baten ertzean dagoen
+	hiri txiki, turistiko eta lasaia da.
+	Pozten gaitu bisitatzea erabaki izanak.
+	Har ezazu atseden zure bizitza estresagarri
+	horretatik eta gozatu opor lasaiez.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Hileras de pintorescas casas
-	antiguas.
-	 Un magnífico paisaje montañoso.
-	 Y un lago que muestra las distintas
-	facetas de su belleza a lo largo del
-	día, de sol a sol.
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako etxe zahar bitxien ilarak.
+	Paisaia menditsu bikaina.
+	Eta laku bat, egunean zehar bere edertasunaren
+	alderdi desberdinak erakusten dituena.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill le conmoverá y le hará
-	sentir una paz profunda.
-	Espero que su estancia sea agradable
-	y sus recuerdos perduren
-	para siempre.
+<CENTER-PARAGRAPH><COLOR-BLUE> Silent Hille-k hunkituko zaitu,
+	eta bake sakona sentiaraziko dizu.
+	Espero dut zure egonaldia atsegina
+	izatea, eta zure oroitzapenek
+	betiko irautea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Roger Widmark<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Argitaratzailea: Roger Widmark<SEPARATORB>
 ---------------
-Aquí hay un folleto turístico
-	de la ciudad.<SEPARATORB>
+Hemen hiriko turismo
+	liburuxka bat dago.<SEPARATORB>
 ---------------
-¡No he sido yo!
-	¡Yo no lo hice!
+Ez naiz izan!
+	Nik ez nuen egin!
 ---------------
-¿Hacer el qué?
+Zer egin?
 ---------------
-No he hecho nada.
-	¡Lo... Lo juro!
+Ez dut ezer egin.
+	Zi... Zin dagit!
 ---------------
-Ya estaba así cuando llegué...
+Horrela zegoen iritsi nintzenean...
 ---------------
-Me... Me llamo James.
+James... James deitzen naiz.
 	James Sunderland.
 ---------------
-Eh, Eddie...
+E, Eddie...
 ---------------
-Eddie... ¿quién es
-	el muerto de la cocina?
+Eddie... nor da
+	sukaldean hilda dagoena?
 ---------------
-No he sido yo.
-	Juro que no he matado a nadie.
+Ez naiz ni izan.
+	Zin dagit ez dudala inor hil.
 ---------------
-¿No tendrás nada que ver con
-	esa cosa piramidal roja, no?
+Ez duzu zerikusirik izango
+	piramide-formako gauza gorri horrekin, ezta?
 ---------------
-¿Cosa piramidal roja?
-	No sé de qué me hablas.
+Piramide-formako gauza?
+	Ez dakit zertaz ari zaren.
 ---------------
-En serio.
+Benetan.
 ---------------
-Pero he visto unos monstruos
-	muy raros.
+Baina munstro arraro
+	batzuk ikusi ditut.
 ---------------
-Me acojonaron,
-	por eso me metí aquí...
+Beldurtu ninduten,
+	horregatik sartu nintzen hemen...
 ---------------
-Bueno, esto tampoco parece
-	muy seguro.
+Beno, honek ere ez dirudi
+	oso segurua denik.
 ---------------
-¿Pero qué ha pasado aquí?
+Baina zer gertatu da hemen?
 ---------------
-Eh... Te he dicho que no lo sé.
+E... Esan dizut ez dakidala.
 ---------------
-Ni siquiera soy de esta ciudad.
-	Yo sólo, sólo...
+Hiri honetakoa ere ez naiz.
+	Nik bakarrik, bakarrik...
 ---------------
-Ya. Algo te ha traído
-	a este lugar, ¿no?
+Bai. Zerbaitek ekarri zaitu
+	leku honetara, ezta?
 ---------------
-Sí, digamos que sí...
+Bai, baietz esango nuke...
 ---------------
-Bueno, sea lo que sea...
+Tira, nolanahi ere...
 ---------------
-deberías largarte pronto.
+hemendik alde egin beharko zenuke.
 ---------------
-Ya, tienes razón. ¿Y tú qué?
+Bai, arrazoi duzu. Eta zu zer?
 ---------------
-Me iré en cuanto acabe
-	con lo que vine a hacer.
+Egitera etorri naizena amaitu
+	bezain pronto joango naiz.
 ---------------
-Eddie... Ten cuidado.
+Eddie... Kontuz ibili.
 ---------------
-James, eh...
+James, e...
 ---------------
-Eh... Lo mismo digo.
+E... Gauza bera diotsut.
 ---------------
-Eddie, ¿estás bien?
+Eddie, ondo al zaude?
 ---------------
-Sí, creo que sí...
+Bai, uste dut baietz...
 ---------------
-¿Sigues aquí?
+Hemen al zaude?
 ---------------
-Sí, me encuentro mal...
-	Ya se me pasará.
+Bai, gaizki sentitzen naiz...
+	Pasatuko zait.
 ---------------
-Deberías largarte de esta ciudad
-	mientras puedas...
+Hiri honetatik alde egin
+	beharko zenuke ahal duzun bitartean...
 ---------------
-Ya, lo sé, pero...
+Badakit, baina...
 ---------------
-¿Qué demonios...?
-	¿Quién pudo hacer esto...?<SEPARATORB>
+Baina, ze osti...?
+	Nork egingo ote zuen hau...?<SEPARATORB>
 ---------------
-La pared está cubierta de pósters
-	de fútbol y pintadas sin sentido.
+Horma futboleko posterrez eta
+	zentzurik gabeko pintadaz estalita dago.
 
-Me importan un rábano
-	las dos cosas.<SEPARATORB>
+Niri bost axola.<SEPARATORB>
 ---------------
-No hay nada dentro.<SEPARATORB>
+Barruan ez dago ezer.<SEPARATORB>
 ---------------
-Aquí hay un cuadro.
-	No tiene nada interesante.<SEPARATORB>
+Hemen koadro bat dago.
+	Ez du ezer interesgarririk.<SEPARATORB>
