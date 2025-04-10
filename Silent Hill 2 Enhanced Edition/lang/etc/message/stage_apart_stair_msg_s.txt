@@ -1,15 +1,16 @@
 ﻿--------------- strings=5 language=spanish
 ---------------
-Las escaleras están rotas.
-	No puedo subir más.<SEPARATORB>
+Eskailerak hautsita daude.
+	Ezin naiz gehiago igo.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>paquete
-	de zumo en lata<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Zuku pakete bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mapa del edificio
-	de apartamentos<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Apartamentu-eraikinaren mapa
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mapa del edificio
-	oeste de apartamentos<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Mendebaldeko apartamentu-eraikinaren mapa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del patio<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Patioko giltza
+	<COLOR-WHITE> erabili dut.<SEPARATORB>
