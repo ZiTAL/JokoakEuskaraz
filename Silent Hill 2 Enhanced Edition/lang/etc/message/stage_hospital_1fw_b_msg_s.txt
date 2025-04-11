@@ -1,56 +1,56 @@
 ﻿--------------- strings=26 language=spanish
 ---------------
-¡Espera! ¡Espera!
-	¡Tengo que coger algo!
+Itxoin! Itxoin!
+	Zerbait hartu behar dut!
 ---------------
-Más tarde, ¿vale?
+Geroago, ados?
 ---------------
-¡Pero es muy importante!
+Baina oso garrantzitsua da!
 ---------------
-¿Qué es?
+Zer da?
 ---------------
-Una carta de Mary.
+Mariren gutun bat.
 ---------------
-¿Eh?
+Eh?
 ---------------
-¿Podemos ir a buscarla?
+Bila joan gaitezke?
 ---------------
-Sí, sí.
+Bai, bai.
 ---------------
-¡Venga, vamos!
+Aurrera, goazen!
 ---------------
-¿Está ahí dentro?
+Hor barruan al dago?
 ---------------
-Sí. Al fondo.
+Bai. Barruan.
 ---------------
-¿Qué haces, Laura?
+Zertan ari zara, Laura?
 ---------------
-Está... al fondo, en el escritorio.
+Barruan... dago, idazmahaian.
 ---------------
-¡Laura! ¡¿Qué estás haciendo?!
+Laura! Baina, zertan ari zara?
 ---------------
-¡Ja, ja! ¡Te he engañado!
+Kar, kar! Ziria sartu dizut!
 ---------------
-Abre la puerta, Laura...
+Ireki atea, Laura...
 ---------------
-¿Por qué debería hacerlo?
-	Soy una mentirosa, ¿no?
+Zergatik egin beharko nuke?
+	Gezurtia naiz, ezta?
 ---------------
-¿Quieres que abra?
-	¿Eh? ¿Eh? ¿De verdad?
+Irekitzea nahi al duzu?
+	E? E? Benetan?
 ---------------
-¿Cuál es la palabra mágica?
+Zein da hitz magikoa?
 ---------------
-¡Laura!
+Laura!
 ---------------
-Vale, creo que no abriré...
+Ondo da, uste dut ez dudala irekiko...
 ---------------
-Me parece que te voy a dejar ahí.
+Uste dut hor utziko zaitudala.
 ---------------
-¡Maldita mocosa! ¡Ábreme!
+Mukizu madarikatua! Ireki!
 ---------------
-¡Serás...! ¡Serás...!
+Baina...! Baina...!
 ---------------
-¿Laura?
+Laura?
 ---------------
-¡Caraculo!
+Arpikaka!
