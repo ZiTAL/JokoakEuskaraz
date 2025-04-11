@@ -1,42 +1,42 @@
 ﻿--------------- strings=16 language=spanish
 ---------------
-James, te he estado esperando.
+James, zure zain egon naiz.
 ---------------
-Mary...
+Mari...
 ---------------
-Siento haber tardado tanto.
+Barkatu atzerapena.
 ---------------
-¿No querías verme?
+Ez zenuen nirekin egon nahi?
 ---------------
-Sí, quería verte.
-	Aunque fueras un espejismo...
+Bai, zurekin egon nahi nuen.
+	Irudipen hutsa izan arren...
 ---------------
-Por eso vine aquí.
+Horregatik etorri naiz hona.
 ---------------
-Eso no es cierto, ¿no?
-	Me mataste...
+Hori ez da egia, ezta?
+	Hil egin ninduzun...
 ---------------
-¡No podía verte sufrir!
+Ezin zintudan sufritzen ikusi!
 ---------------
-No busques excusas, James.
+Ez jarri aitzakiarik, James.
 ---------------
-Sé que era una carga para ti.
+Badakit zuretzat zama nintzela.
 ---------------
-Me odiarías.
-	Por eso te deshiciste de mí.
+Gorrotatuko nindukezu.
+	Horregatik hil ninduzun.
 ---------------
-Es cierto... puede que me hayan
-	invadido esos sentimientos.
+Egia da... baliteke sentimendu
+	horiek inbaditu izana.
 ---------------
-Fueron tres largos años...
-	Y estaba... cansado.
+Hiru urte luze izan ziren...
+	Eta nekatuta nengoen.
 ---------------
-¿Y por eso necesitabas
-	a esa tal María?
+Eta horregatik behar zenuen
+	Mari delako hori?
 ---------------
-James, ¿de veras crees que
-	voy a perdonarte
-	por lo que hiciste?
+James, benetan uste al duzu egin zenidana
+	barkatuko dizudala?
 ---------------
-Ahora no puedo volver.
-	No es momento de escapar.<SEPARATORB>
+Orain ezin naiz itzuli.
+	Ez da ihes egiteko unea.
+Ahora no puedo volver.<SEPARATORB>
