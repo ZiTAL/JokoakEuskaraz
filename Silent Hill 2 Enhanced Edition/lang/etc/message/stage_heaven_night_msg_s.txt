@@ -2,36 +2,36 @@
 ---------------
 <COLOR-BLUE>Heaven's Night<SEPARATORB>
 ---------------
-Sólo es una mesa.
-	No tiene nada extraño.<SEPARATORB>
+Mahai bat besterik ez da.
+	Ez du ezer arrarorik.<SEPARATORB>
 ---------------
-Un escenario.
-	No tiene nada extraño.<SEPARATORB>
+Eszenatoki bat.
+	Ez du ezer arrarorik.<SEPARATORB>
 ---------------
-Latas vacías, fregadero,
-	cajas de cartón...
-	No hay nada útil.<SEPARATORB>
+Lata hutsak, harraska,
+	kartoizko kutxak...
+	Ez dago ezer erabilgarririk.<SEPARATORB>
 ---------------
-La caja está vacía.<SEPARATORB>
+Kutxa hutsik dago.<SEPARATORB>
 ---------------
-Hay varias cajas de cartón apiladas.
-	No parece que haya nada útil.<SEPARATORB>
+Kartoizko kaxa batzuk pilatuta daude.
+	Ez dirudi ezer erabilgarririk dagoenik.<SEPARATORB>
 ---------------
-Botellas de licor.
-	Ahora no las necesito.
+Likore-botilak.
+	Orain ez ditut behar.
 
-No es que no beba.
-	De hecho, bebo bastante.
+Ez da ez dudala edaten
+	Egia esan, nahikotxo edaten dut.
 
-Para escapar del dolor,
-	de la soledad...
-	Pero la bebida nunca cambia nada.
+Minetik, bakardadetik...
+	ihes egiteko.
+	Baina edateak ez du ezer konpontzen.
 
-En fin, ahora no la necesito.
-	Hay algo que debo hacer.<SEPARATORB>
+Beno, orain ez dut behar.
+	Zerbait egin behar baitut.<SEPARATORB>
 ---------------
-Botellas de licor.
-	No hay nada de interés.<SEPARATORB>
+Likore-botilak.
+	Ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Un jarrón.
-	No hay nada de interés.<SEPARATORB>
+Pitxer bat.
+	Ez dago ezer interesgarririk.<SEPARATORB>
