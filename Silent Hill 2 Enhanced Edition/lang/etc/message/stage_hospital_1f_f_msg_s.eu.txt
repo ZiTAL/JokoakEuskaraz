@@ -131,7 +131,7 @@ Joan den hilean X zen eta aurrekohilekoa Z. Baina zer egingo dutedatorren hilean
 [8000]
 [faff]
 [01ff]
- Gainera, benetan beharrezkoada hain maiz gaixoen hegalekoatearen konbinazioaaldatzea?
+ Gainera, benetan beharrezkoada hain maiz gaixoen hegalekoatearen konbinazioaaldatzea?>
 [ffff]
 [9000]
 }
@@ -406,7 +406,7 @@ Zer da artxibo hau...?
 [1000]
 [8000]
 [01ff]
-Nortasun-nahasmenduarenproba baten emaitzak.
+Nortasun-nahasmenduaren proba baten emaitzak.
 [ffff]
 [1000]
 [8000]
