@@ -1,75 +1,75 @@
 ﻿--------------- strings=31 language=spanish
 ---------------
-¿Mary...?
+Mari...?
 ---------------
-Te has vuelto a equivocar.
+Berriz erratu zara.
 ---------------
-Mary está muerta.
-	Tú la asesinaste.
+Mari hilda dago.
+	Zuk hil zenuen.
 ---------------
-María.
+Mari.
 ---------------
-María... Lo nuestro se acabó.
+Mari... Gurea amaitu da.
 ---------------
-¿Qué quieres decir?
+Zer esan nahi duzu?
 ---------------
-Yo puedo ser tuya...
-	Siempre me tendrás.
+Zurea izan naiteke...
+Betirako.
 ---------------
-Y nunca te gritaré
-	ni te haré sentir mal.
+Ez dizut inoiz oihukatuko eta
+    ez zaitut gaizki sentiaraziko.
 ---------------
-¡Eso es lo que querías!
+Hori da nahi zenuen ezta?!
 ---------------
-Ahora lo entiendo todo.
+Orain dena ulertzen dut.
 ---------------
-El problema...
-	es que tú no eres Mary.
+Arazoa zera da...
+	zu ez zarela Mari.
 ---------------
-No, James... No te dejaré.
+Ez, James... Ez dizut utziko...
 ---------------
-¡Nunca dejaré
-	que recuperes a Mary!
+Ez dizut inoiz utziko
+	Mari berreskuratzen!
 ---------------
-¿Mary...?
----------------
-James...
----------------
-Perdóname...
----------------
-Te dije que quería morir, James.
----------------
-Quería que parara el dolor.
----------------
-Por eso lo hice, cariño.
-	No soportaba verte sufrir...
----------------
-No, esa no es toda la verdad.
----------------
-También dijiste
-	que no querías morir.
----------------
-La verdad es...
-	que en parte te odiaba.
-	Por arruinarme la vida...
----------------
-Me mataste y estás sufriendo
-	por ello.
----------------
-Ya basta, James.
----------------
-¿Mary...?
+Mari...?
 ---------------
 James...
 ---------------
-Ahora entiendo...
-	por qué vine a esta ciudad.
+Barkatu...
 ---------------
-Me pregunto qué era lo que temía.
+Esan nizun hil nahi nuela, James.
 ---------------
-Sin ti, Mary, no tengo nada...
+Mina gelditzea nahi nuen.
 ---------------
-Ahora podemos estar juntos.
+Horregatik egin nuen, laztana.
+	Ezin nuen jasan zu sufritzen ikustea...
 ---------------
-Ahora no puedo volver.
-	No es momento de escapar.<SEPARATORB>
+Ez, hori ez da guztiz egia.
+---------------
+Ez zenuela hil nahiere esan zenuen.
+---------------
+Neurri batean...
+	Gorroto zintudan.
+	Nire bizitza infernu bilakatzeagatik...
+---------------
+Hil egin ninduzun
+	eta sufritzen
+	ari zara horregatik.
+---------------
+Nahikoa da, James.
+---------------
+Mari...?
+---------------
+James...
+---------------
+Orain ulertzen dut...
+	zergatik etorri nintzen hiri honetara.
+---------------
+Zeri beldur nintzen?
+---------------
+Zu gabe, Mari, ez naiz ezer...
+---------------
+Orain elkarrekin egon gaitezke.
+---------------
+Orain ezin naiz itzuli.
+	Ez da ihes egiteko unea.
