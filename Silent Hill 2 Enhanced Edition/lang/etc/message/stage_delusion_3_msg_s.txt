@@ -1,33 +1,33 @@
 ﻿--------------- strings=8 language=spanish
 ---------------
-Sólo es una pared.
+Horma bat besterik ez da.
 
-No puedo escalarla.<SEPARATORB>
+Ezin dut eskalatu.<SEPARATORB>
 ---------------
-Sólo es una pared.
+Horma bat besterik ez da.
 
-Eh, esta parte es distinta...
+E, zati hau desberdina da...
 
-Justo este punto no se parece
-	al resto de la pared.
+Hain juxtu, puntu honek ez du
+	paretaren beste aldearen antzik.
 
-¿Habrá alguna forma de romperlo?<SEPARATORB>
+Apurtzeko modurik egongo ote da?<SEPARATORB>
 ---------------
-No puedo abrir la puerta desde aquí.<SEPARATORB>
+Ezin dut atea hemendik ireki.<SEPARATORB>
 ---------------
-Hay una puerta en el suelo.
-	Está cerrada.<SEPARATORB>
+Ate bat dago lurrean.
+	Itxita dago.<SEPARATORB>
 ---------------
-Tras la puerta sólo hay oscuridad.
+Atearen atzean iluntasuna besterik ez dago.
 
-No puedo ver el fondo.
+Ezin dut barrukoa ikusi.
 
-¿Vas a bajar?<SELECT-YES-OR-NO>
+Jaitsiko al zara?<SELECT-YES-OR-NO>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	con un escrito en espiral<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Idatzi kiribildun bat daukan giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave
-	con un escrito en espiral<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Idatzi kiribildun bat daukan giltza
+		<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He cambiado la <COLOR-GREEN>pila<COLOR-WHITE> de la linterna.<SEPARATORB>
+Linternaren<COLOR-GREEN>pila<COLOR-WHITE> aldatu dut.<SEPARATORB>
