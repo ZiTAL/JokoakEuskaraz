@@ -1,33 +1,31 @@
 ﻿--------------- strings=7 language=spanish
 ---------------
-¿Está roto? Pulso los botones,
-	pero el ascensor no reacciona.<SEPARATORB>
+Hautsita al dago? Botoiak sakatzen ditut,
+	baina igogailuak ez dabil.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del vestíbulo
-	del hospital<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Ospitaleko atariko giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del vestíbulo
-	del hospital<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Ospitaleko atariko giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He copiado esta información
-	en mi mapa.<SEPARATORB>
+Informazio hau
+	nire mapan kopiatu dut.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Quien no tenga el valor suficiente
-	para dejar que lo observen
-	desde el abismo, no tendrá el valor
-	suficiente para encararse a él.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Norbera behatzen uzteko adina adorerik ez duenak
+	ez du hari aurre egiteko adorerik izango.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La verdad sólo se encontrará
-	avanzando hacia delante.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Egia aurrerantz joanez
+	bainoez da aurkituko.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sigue el mapa.
-	Ahí hay una carta y una llave inglesa.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jarraitu mapa.
+	Hor daude gutun bat eta giltza ingelesa.<SEPARATORB>
 ---------------
-Aquí hay un libro antiguo
-	sobre la historia de Silent Hill.<SEPARATORB>
+Hemen Silent Hill-en historiari
+	buruzko antzinako liburu bat dago.<SEPARATORB>
 ---------------
-Una hilera de libros sobre medicina,
-	la ciudad y la región.
+Medikuntzari, hiriari eta
+	eskualdeari buruzko liburu ilara bat.
 
-No tengo tiempo
-	para ponerme a leerlos.<SEPARATORB>
+Ez dut astirik liburu hauek
+	irakurtzen hasteko.<SEPARATORB>

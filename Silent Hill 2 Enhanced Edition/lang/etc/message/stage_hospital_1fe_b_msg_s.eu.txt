@@ -35,7 +35,7 @@ aurkitu dut.
 }
 {
 [8000]
-Informazio hau kopiatu dutnire mapan.
+Informazio hau kopiatu dut nire mapan.
 [ffff]
 [9000]
 }
