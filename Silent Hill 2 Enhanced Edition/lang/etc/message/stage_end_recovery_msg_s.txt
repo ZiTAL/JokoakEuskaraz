@@ -1,75 +1,75 @@
 ﻿--------------- strings=30 language=spanish
 ---------------
-¿Mary?
+Mari?
 ---------------
-¿Cuándo dejarás de cometer
-	el mismo error?
+Noiz utziko diozu
+	akats bera egiteari?
 ---------------
-Mary está muerta.
-	Tú la mataste.
+Mari hilda dago.
+	Zuk hil zenuen.
 ---------------
-¿María...?
+Maria...?
 ---------------
-Eres tú...
-	Pero ya no te necesito.
+Zu zara...
+	Baina jada ez zaitut behar.
 ---------------
-¿Qué?
-	¡Debes estar de guasa!
+Zer?
+	Adarra jotzen zabiltza, ezta?!
 ---------------
-Yo puedo ser tuya...
-	Siempre me tendrás.
+Zurea izan naiteke...
+	Betirako.
 ---------------
-Y nunca te gritaré
-	ni te haré sentir mal.
+Eta ez dizut inoiz oihukatuko
+	eta ez zaitut gaizki sentiaraziko.
 ---------------
-¡Es lo que querías!
+Hori da nahi zenuena!
 ---------------
-No soy como Mary...
-	¿Cómo puedes rechazarme?
+Ez naiz Mari bezalakoa...
+	Nola esango didazu ezetz?
 ---------------
-Ahora lo entiendo.
+Orain ulertzen dut.
 ---------------
-Es hora de poner punto final
-	a esta pesadilla.
+Amesgaizto honi amaiera
+	emateko ordua da.
 ---------------
-¡No! ¡No te dejaré!
+Ez! Ez dizut utziko!
 ---------------
-Tú también mereces morir, James.
+Zuk ere hiltzea merezi duzu, James.
 ---------------
-¿Mary...?
----------------
-James...
----------------
-Perdóname...
----------------
-Te dije que quería morir, James.
----------------
-Quería que parara el dolor.
----------------
-Por eso lo hice, cariño.
-	No soportaba verte sufrir...
----------------
-No, esa no es toda la verdad.
----------------
-También dijiste
-	que no querías morir.
----------------
-La verdad es que te odiaba.
-	Quería deshacerme de ti.
----------------
-Quería recuperar mi vida...
----------------
-James... Si eso es cierto,
-	¿por qué pareces tan triste?
----------------
-¿Mary...?
+Mari...?
 ---------------
 James...
 ---------------
-Por favor...
-	Por favor, haz algo por mí.
+Barkatu...
 ---------------
-Continúa con tu vida.
+Esan nizun hil egin nahi nuela, James.
 ---------------
-Ahora no puedo volver.
-	No es momento de escapar.<SEPARATORB>
+Mina gelditzea nahi nuen.
+---------------
+Horregatik egin nuen, laztana.
+	Ezin nuen jasan zu sufritzen ikustea...
+---------------
+Ez, hori ez da egia osoa.
+---------------
+Ez zenuela hil nahi
+	ere esan zenuen.
+---------------
+Egia esan, gorroto zintudan.
+	Zutaz libratu nahi nuen.
+---------------
+Nire bizitza berreskuratu nahi nuen...
+---------------
+James... Hori egia bada,
+	zergatik zaude goibel?
+---------------
+Mari...?
+---------------
+James...
+---------------
+Mesedez...
+	Mesedez, egizu zerbait nigatik.
+---------------
+Jarraitu zure bizitzarekin.
+---------------
+Orain ezin naiz itzuli.
+	Ez da ihes egiteko unea.<SEPARATORB>
