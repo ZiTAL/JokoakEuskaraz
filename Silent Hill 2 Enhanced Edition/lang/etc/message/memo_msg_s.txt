@@ -249,8 +249,7 @@
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Lagunak gaineratu zuen:
 	«Orain pentsatzen ari naizela,
-	uste dut adarren bat
-	falta zitzaiola».<SEPARATORB>
+	uste dut burutik pitzatuta zegoela».<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Ongi etorri
 Silent Hill-era!
@@ -352,9 +351,10 @@ Silent Hill-era!
 	txanponak bezala
 	Gure arimak eroriko dira,
 	haien erruak hondoratuko dituzte
-	Lurra jaitsiera mingarri
-	batean iritsiko da
-	Egin dituzten bekatuak "alderantzikatzeko"
+	Lurrarera jaitsiera mingarri
+	batean iritsiko dira
+	Egin dituzten bekatuei
+	"buelta" emateko
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mea culpa hiru aldiz abesten
 	dutenek bakarrik ezagutuko

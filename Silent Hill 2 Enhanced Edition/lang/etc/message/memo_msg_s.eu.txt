@@ -655,7 +655,7 @@ ertzean dagoen hiri turistiko
 txiki eta lasaia da.
 Pozten gaitu bisitatzea erabaki
 izanak. Har ezazu atseden zure
-bizitza xelebre horretatik eta
+bizitza lanpetu horretatik eta
 gozatu opor lasaiez.
 [ffff]
 [1000]
@@ -845,7 +845,7 @@ eroriko dira, haien erruak
 hondoratuko dituzte Lurra
 jaitsiera mingarri batean
 iritsiko da Egin dituzten
-bekatuak "alderantzikatzeko"
+bekatuei "buelta" emateko
 [ffff]
 [1000]
 [8000]

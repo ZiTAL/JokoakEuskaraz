@@ -6,7 +6,7 @@
 <CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill aintzira baten ertzean dagoen
 	hiri txiki, turistiko eta lasaia da.
 	Pozten gaitu bisitatzea erabaki izanak.
-	Har ezazu atseden zure bizitza estresagarri
+	Har ezazu atseden zure bizitza lanpetu
 	horretatik eta gozatu opor lasaiez.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako etxe zahar bitxien ilarak.

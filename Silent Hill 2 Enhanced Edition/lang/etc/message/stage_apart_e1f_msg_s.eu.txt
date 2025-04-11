@@ -19,7 +19,7 @@ Silent Hill: Ongi etorri!
 [faff]
 [01ff]
  Silent Hill aintzira batenertzean dagoen hiri turistikotxiki eta lasaia da.
-Pozten gaitu bisitatzea erabakiizanak. Har ezazu atsedenzure bizitza xelebre horretatiketa gozatu opor lasaiez.
+Pozten gaitu bisitatzea erabakiizanak. Har ezazu atsedenzure bizitza lanpetu horretatiketa gozatu opor lasaiez.
 [ffff]
 [1000]
 [8000]
