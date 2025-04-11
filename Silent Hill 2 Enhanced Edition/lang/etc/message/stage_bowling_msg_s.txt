@@ -1,85 +1,85 @@
 ﻿--------------- strings=36 language=spanish
 ---------------
-Sólo es una bola de la bolera.
+Bolatokiko bola bat besterik ez da.
 
-Ahora mismo no puedo perder
-	el tiempo con ella.<SEPARATORB>
+Oraintxe bertan ez dut honekin
+	denbora galtzeko gogorik.<SEPARATORB>
 ---------------
-Entonces, ¿qué has hecho?
+Orduan, zer egin duzu?
 ---------------
-¿Robar, matar...?
+Lapurtu, hil...?
 ---------------
-No, nada de eso.
+Ez, ez horixe.
 ---------------
-¡Ja! ¡No eres más
-	que un vacaburro cobarde!
+Bai zera! Koldar zikin eta zitala
+	besterik ez zara eta!
 ---------------
-¿Por qué me llamas eso?
+Zergatik deitzen didazu hori?
 ---------------
-¿No dijiste
-	que te perseguía la poli?
+Ez zenuen esan
+	polizia atzetik zenuela?
 ---------------
-No, me largué
-	porque estaba asustado.
+Ez, beldurtuta nengoelako
+	alde egin nuen.
 ---------------
-No sé qué andará haciendo la poli.
+Ez dakit polizia zertan dabilen.
 ---------------
-Pero si has hecho algo malo,
-	¿por qué no pediste perdón?
+Baina zerbait txarra egin baduzu,
+	zergatik ez duzu barkamena eskatu?
 ---------------
-Bueno... Yo también
-	he salido corriendo muchas veces.
+Tira... Ni ere
+	askotan korrika alde egin dut.
 ---------------
-Les da igual. No me harán caso.
+Berdin zaie. Ez didate kasurik egingo.
 ---------------
-No me va a perdonar nadie.
+Ez dit inork barkatuko.
 ---------------
-¿Has encontrado a esa mujer?
+Aurkitu al duzu emakume hori?
 ---------------
-¿Cómo se llamaba? ¿Mary?
+Nola zuen izena? Mari?
 ---------------
-¿Eddie?
+Eddie?
 ---------------
-Oh... Eh, tú eras...
+Oh... Zu zinen...
 ---------------
 James.
 ---------------
-Nos conocimos en el edificio
-	de apartamentos.
+Apartamentu-eraikinean
+	ezagutu genuen elkar.
 ---------------
-Sí, me acuerdo, pero...
+Bai, gogoratzen naiz, baina...
 ---------------
-¿Estás solo, Eddie?
+Bakarrik al zaude, Eddie?
 ---------------
-Eh, no...
+E, ez...
 ---------------
-¡Adiós!
+Agur!
 ---------------
-¡Espera! ¡Vuelve aquí!
+Itxoin! Itzuli!
 ---------------
-¡Eddie! ¡Vamos a por ella!
+Eddie! Goazen bere bila!
 ---------------
-¿Eh? ¿A por Laura? ¿Por qué...?
+Eh? Lauraren bila? Zergatik...?
 ---------------
-¿Laura? ¿Así se llama?
+Laura? Horrela deitzen al zen?
 ---------------
-Eso dijo.
+Hori esan zuen.
 ---------------
-¡La ciudad está llena de monstruos!
+Hiria munstroz beteta dago!
 ---------------
-¿Cómo puedes quedarte ahí sentado
-	y comiendo pizza?
+Nola egon zaitezke
+	hor eserita eta pizza jaten?
 ---------------
-Dijo que se las podía apañar...
+Moldatuko zela esan zuen...
 ---------------
-y que un gordo como yo
-	le haría perder el tiempo.
+eta ni bezalako lodikote batek
+	atzeratuko zuela.
 ---------------
-Tú mismo...
+Zu zeu...
 ---------------
-Por cierto, ¿quién es esa niña?
+Bide batez, nor da neska hori?
 ---------------
-No lo sé.
-	Sólo sé su nombre.
+Ez dakit.
+	Bere izena baino ez dakit.
 ---------------
-Lo juro.
+Zin dagit.
