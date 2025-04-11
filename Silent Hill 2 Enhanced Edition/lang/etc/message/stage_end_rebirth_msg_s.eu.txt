@@ -78,7 +78,7 @@ Oh, James...
 }
 {
 [8000]
-Bai zera, James!Txantxetan ariko zara.
+Bai zera, James! Txantxetan ariko zara.
 [ffff]
 [8000]
 }
