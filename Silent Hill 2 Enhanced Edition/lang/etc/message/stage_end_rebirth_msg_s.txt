@@ -29,5 +29,4 @@ Bai zera, James!
 	Adarra jotzen ari zara.
 ---------------
 Orain ezin naiz itzuli.
-	Ez da ihes egiteko unea.
-Ahora no puedo volver.<SEPARATORB>
+	Ez da ihes egiteko unea.<SEPARATORB>
