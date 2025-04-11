@@ -9,3 +9,7 @@ pase lo que pase -> datorrena datorrela
 izar polarra -> artizarra
 
 espazio -> hutsune
+
+egoista -> berekoia
+
+Buelta bueltaka -> jira ta bira
