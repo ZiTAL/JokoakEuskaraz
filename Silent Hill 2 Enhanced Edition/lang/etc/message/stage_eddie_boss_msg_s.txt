@@ -1,113 +1,113 @@
 ﻿--------------- strings=46 language=spanish
 ---------------
-¡La puerta no se abre!<SEPARATORB>
+Atea ez da irekitzen!<SEPARATORB>
 ---------------
-¡Eddie! ¡¿Qué estás haciendo?!
+Eddie! Zertan ari zara?
 ---------------
-¿Y tú qué crees?
+Eta zuk zer uste duzu?
 ---------------
-Me tenía hasta los cojones.
+Potrotaraino neukan.
 ---------------
-“¡Gordo, mierdecilla!
-	¡Me das asco!”.
+“Koipontzi alena!
+	Nazkagarria zara!”.
 ---------------
-“¡Bola de sebo,
-	no eres más que basura!”.
+"TOTOLODI ostidxe,
+	zaborra besterik ez zara!".
 ---------------
-“¡Eres tan feo que no te quiere
-	ni tu madre!”.
+“ITXURE BAKO MONUE, amak ere ez zaitu maite!”.
 ---------------
-Pues a lo mejor es verdad.
+Ba agian egia da.
 ---------------
-A lo mejor no soy más
-	que un gordo seboso de mierda.
+Agian lodikote ziztrin bat
+	besterik ez naiz.
 ---------------
-Pero, ¿sabes una cosa? Da igual
-	si uno es listo, tonto, feo, guapo...
+Baina, badakizu zer?
+	Berdin dio azkarra, tontoa,
+	itsusia edo ederra izatea...
 ---------------
-¡Si está muerto,
-	todo eso da igual!
+Hilda badago,
+	berdin du!
 ---------------
-Y los muertos no se ríen.
+Eta hildakoek ez dute barre egiten.
 ---------------
-A partir de ahora, como alguien
-	se burle de mí...
+Gaurtik aurrera, norbaitek
+	barre egiten badit...
 ---------------
-me lo cargo. Así de fácil.
+Akatuko dut. Erraz.
 ---------------
-Eddie, ¿se te ha ido la olla?
+Eddie, zoratu al zara?
 ---------------
-Lo sabía. Otro.
+Banekien. Beste bat.
 ---------------
-Eres como los demás, James.
+Besteak bezalakoa zara, James.
 ---------------
-¡Oye, no quería ofender...!
+Aizu, ez nuen iraindu nahi...
 ---------------
-Da igual. Te entiendo.
+Berdin dio. Ulertzen dizut.
 ---------------
-Llevas todo este tiempo
-	cachondeándote de mí, ¿no?
+Denbora hau guztia daramazu
+	adarra jotzen, ezta?
 ---------------
-Desde que nos conocimos.
+Ezagutu ginetetik.
 ---------------
-¡Muere, James!
+Zoaz popatik hartzera, James!
 ---------------
-¿Sabes cómo se siente uno, James?
+James, badakizu sentimendu hori... James?
 ---------------
-Cuando le odian...
-	Cuando le putean...
+Gorrotatzen zituztenean...
+	Puteatzen zituztenean...
 ---------------
-Cuando le escupen...
-	Y todo por el aspecto físico.
+Txistua botatzen dizutenean...
+	Eta dena itxura fisikoagatik.
 ---------------
-Cuando se han reído de uno
-	durante toda su puñetera vida...
+Bizitza osoan aurpegira barre
+	egin dizutenean...
 ---------------
-Por eso salí corriendo
-	cuando maté al perro.
+Horregatik atera nintzen
+	korrika txakurra hil nuenean.
 ---------------
-Parecía una cría asustada.
+Ume mokoa nirudien.
 ---------------
-Sí, maté a ese perro.
-	Estuvo bien.
+Bai, txakur hori akatu nuen.
+	Gustura gainera.
 ---------------
-¡Intentó arrancarse las tripas!
-	Y al final murió hecho un ovillo...
+Tripak kentzen saiatu zen!
+	Eta azkenean hil egin zen...
 ---------------
-Luego el otro vino a por mí
-	y le metí un tiro en la pierna.
+Gero bestea nire bila etorri zen
+	eta tiro bat bota nion hankara.
 ---------------
-¡Lloraba más que el perro!
+Txakurrak baino negar gehiago egiten zuen!
 ---------------
-Le va a costar jugar al fútbol
-	con lo que le queda de rodilla.
+Kosta egingo zaio futbolean jokatzea
+	belaunean daukan zulo hori dela eta.
 ---------------
-¿Crees que está bien matar a gente?
+Uste al duzu ondo dagoela jendea hiltzea?
 ---------------
-¡Necesitas ayuda, Eddie!
+Laguntza behar duzu, Eddie!
 ---------------
-No me seas tan santurrón, James.
+Ez izan ogi puska, James.
 ---------------
-Esta ciudad te ha llamado
-	a ti también.
+Hiri honek zuri
+	ere deitu dizu.
 ---------------
-Tú y yo somos iguales.
-	No somos como los demás.
+Zu eta biok berdinak gara.
+	Ez gara besteak bezalakoak.
 ---------------
-¡¿No lo sabías?!
+Ez zenekien?
 ---------------
-¡A bailar!
+Goazen dantzatzera!
 ---------------
 ¿Eddie?
 ---------------
-¿¡Eddie...!?
+Eddie...!?
 ---------------
-He... He matado a un...
-	ser humano...
+Hara... Gizaki bat...
+	hil dut...
 ---------------
-Un ser humano...
+Gizaki bat...
 ---------------
-Mary... ¿de verdad falleciste
-	hace tres años...?
+Mari... benetan duela 3
+	urte hil zinela...?
 ---------------
 Eddie...
