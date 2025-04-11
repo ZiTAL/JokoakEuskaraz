@@ -38,5 +38,4 @@ James, benetan uste al duzu egin zenidana
 	barkatuko dizudala?
 ---------------
 Orain ezin naiz itzuli.
-	Ez da ihes egiteko unea.
-Ahora no puedo volver.<SEPARATORB>
+	Ez da ihes egiteko unea.<SEPARATORB>
