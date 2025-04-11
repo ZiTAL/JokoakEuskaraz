@@ -1,110 +1,110 @@
 ﻿--------------- strings=43 language=spanish
 ---------------
-Hay algo en el pozo.
+Putzuan zerbait dago.
 
-¿Qué es esto...?
+Zer da hau...?
 
-Cuando lo miro, siento como
-	si alguien estuviera toqueteando
-	dentro de mi cráneo.
+Begiratzen diodanean, norbait buru barrua ikutzen
+	ari balitz bezala sentitzen naiz.
 
-Me produce una sensación extraña...<SEPARATORB>
+Sentsazio arraroa sortarazten dit...<SEPARATORB>
 ---------------
-Una lápida normal.
-	No tiene nada que ver conmigo.<SEPARATORB>
+Hilarri normal bat.
+	Ez du zerikusirik nirekin.<SEPARATORB>
 ---------------
-Este debe ser el cementerio
-	de Silent Hill.<SEPARATORB>
+Hau Silent Hill-eko
+	hilerria izango da.<SEPARATORB>
 ---------------
-Todo está tranquilo.
-	Creo que estamos solos.<SEPARATORB>
+Dena lasai dago.
+	Bakarrik gaudela uste dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>motosierra<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Motozerra
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Perdone...
+Barkatu...
 ---------------
-Lo, lo siento... eh, eh...
-	Sólo estaba...
+Barkatu... eh, eh...
+	Bakarrik nenbilen...
 ---------------
-Tranquila, no pretendía asustarla.
+Lasai, ez zintudan izutu nahi.
 ---------------
-Verá, me he perdido.
+Zera... galdu egin naiz.
 ---------------
-¿Qué?
+Zer?
 ---------------
-Sí. Estoy buscando Silent Hill.
-	¿Sabe si se va por aquí?
+Bai. Silent Hill-en bila nabil.
+	Ba al dakizu bidea hemendik al den?
 ---------------
-Eh, sí...
+E, bai...
 ---------------
-Es difícil ver con esta niebla,
-	pero solo hay una carretera.
+Zaila da behe-laino honekin ikustea,
+	baina errepide bakarra dago.
 ---------------
-No tiene pérdida.
+Ez zara galduko.
 ---------------
-Gracias.
+Mila esker.
 ---------------
-Pero...
+Baina...
 ---------------
-¿Sí...?
+Bai, esan
 ---------------
-Creo que no debería ir allí.
+Ez zenuke hara joan behar.
 ---------------
-Esa... eh... esa ciudad...
-	Hay algo... extraño en ella.
+Hori... e... hiri horretan...
+	Zerbait dago... zerbait arraroa dago bertan.
 ---------------
-No sabría explicarlo, pero...
+Ez dakit nola azaldu, baina...
 ---------------
-¿Es peligrosa?
+Arriskutsua al da?
 ---------------
-Quizás... Y no es sólo
-	por la niebla... Es, eh...
+Agian... Eta ez da
+	behe-lainoagatik bakarrik...
+	Zera... e...
 ---------------
-Entiendo. Tendré cuidado.
+Ulertzen dut. Kontuz ibiliko naiz.
 ---------------
-¡No le estoy mintiendo!
+Ez naiz gezurretan ari!
 ---------------
-No, no. La creo.
+Ez, ez. Sinesten dizut.
 ---------------
-Pero... Supongo que me da igual
-	que sea peligrosa o no.
+Baina... Berdin zait
+	arriskutsua bada edo ez.
 ---------------
-Pienso ir de todas formas.
+Dena dela, joango naiz.
 ---------------
-¿Por qué?
+Zergatik?
 ---------------
-Estoy buscando a alguien.
+Norbaiten bila nabil.
 ---------------
-¿A... A... A quién?
+N... N... Nori?
 ---------------
-A alguien...
-	muy importante para mí.
+Ba... norbait...
+	Niretzat oso garrantzitsua den nor norbait.
 ---------------
-Haría cualquier cosa por volver
-	a estar con ella.
+Edozer egingo nuke
+	berarekin berriz egoteko.
 ---------------
-Yo también. Estoy buscando a mi mamá...
-	A mi madre, quiero decir.
+Nik ere bai. Nire amatxoren bila nabil...
+	Nire ama, esan nahi dut.
 ---------------
-Hace mucho que no la veo.
+Aspaldian ez dut ikusi.
 ---------------
-Pensaba que mi padre
-	y mi hermano estarían aquí,
-	pero tampoco los encuentro...
+Aita eta anaia hemen egongo zirela uste nuen,
+	baina ez ditut aurkitzen...
 ---------------
-Lo siento... No es asunto suyo.
+Sentitzen dut... Ez da zure kontua.
 ---------------
-No, eh... Espero que los encuentre.
+Ez, e... Aurkitzea opa dizut.
 ---------------
-Sí, lo mismo digo.
+Eskerrik asko, nik ere zorte ona opa dizut.
 ---------------
-¿Ocurre algo?
+Zerbait gertatzen al da?
 ---------------
-No, nada...
-	Este lugar es muy tranquilo.
+Ez, ezer ez...
+	Leku hau oso lasaia da.
 ---------------
-Sí, lo es...
+Bai, hala da...
 ---------------
-¿No está buscando a alguien?
+Norbaiten bila ari al zara?
 ---------------
-Así es...
+Hala da bai...
