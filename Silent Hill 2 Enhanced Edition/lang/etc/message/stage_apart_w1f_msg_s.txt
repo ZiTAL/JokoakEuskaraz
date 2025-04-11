@@ -1,272 +1,273 @@
 ﻿--------------- strings=72 language=spanish
 ---------------
-Una foto...<SEPARATORB>
+Argazki bat...<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres brillantes monedas
-	en cinco agujeros están
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru txanpon distiratsu
+	bost zulotan daude
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En un extremo se halla el
-	seductor de la mujer de Adán
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mutur batean Adanen emaztearen
+	limurtzailea dago
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sopla el viento a
-	espaldas de la mujer
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Haizeak emakumearen
+		gibeletik jotzen du
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Y aquel que no tiene forma, el nulo,
-	de lejos los tiene que ver
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Eta formarik ez duenak, deusezak,
+	urrundik ikusi behar ditu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El anciano junto a la
-	serpiente no está
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sugearen ondoan zegoen
+		agurea ez dago
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Es a la izquierda del
-	prisionero donde se pudrirá<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Presoaren ezkerraldean
+	ustelduko da.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Primero está el asiento
-	del Incomparable, Él,
-	silencioso y vacío,
-	inhumano y cruel
-	Junto a él se sienta
-	uno que sabe y admitirá
-	Que el lugar del criado
-	junto al trono está
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lehenbizi Paregabearen
+	eserlekua dago,
+	Bera, isila eta hutsa,
+	ankerra eta krudela
+	Bere ondoan esertzen da
+	dakien bat eta onartuko duena
+	Morroiaren lekua tronuaren
+	ondoan dago
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Docenas de pies,
-	y ni un solo dedo tendrá
-	Aquel que está oculto
-	junto a él partirá
-	Seductor de sueños,
-	ser que el infierno ama
-	Alejado del hombre,
-	cercano a la dama
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Dozenaka oin, eta behatz
+	bakar bat ere ez,
+	Izkutatuta dagoen hori
+	berarekin abiatuko da
+	Amets-seduktorea,
+	infernuak maite duena
+	Gizonarengandik urrun,
+	emakumetik hurbil
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombre y mujer
-	todo lo pueden ver
-	A la llamada del cuervo
-	sin atender
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gizonak eta emakumeak
+	dena ikus dezakete
+	Belearen deiari jaramonik
+	egin gabe
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Silenciosos y ocultos
-	puede que los dos sean
-	Y no están ahí
-	para que tú los veas
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Isilak eta ezkutuak
+agian biak izango dira
+Eta ez daude hor
+zuk ikusteko
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Devolviéndolos donde
-	estar deberían
-	La bendición sobre ti caería
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Dagokien lekura bueltatuz
+	Zuretzako bedeinkapena
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Así hablo, dando la espalda
-	a la estrella polar
-	El nacimiento del sol es
-	donde todo va a empezar<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Horrela hitz egiten dut,
+	Iparrizarrari bizkarra emanez
+	Eguzkiaren sorrera da
+	dena hasiko den tokia<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Como monedas lanzadas
-	al éter brumoso
-	Nuestras almas caerán,
-	sus culpas les habrán hundido
-	A la Tierra han de llegar
-	en un descenso doloroso
-	Para "invertir" los pecados
-	que han cometido
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Eter lanbrotsura jaurtitako
+	txanponak bezala
+	Gure arimak eroriko dira,
+	haien erruak hondoratuko dituzte
+	Lurrarera jaitsiera mingarri
+	batean iritsiko dira
+	Egin dituzten bekatuei
+	"buelta" emateko
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Solo aquellos que entonen
-	el mea culpa tres veces
-	Conocerán la dicha,
-	una felicidad sin creces
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mea culpa hiru aldiz
+	abesten dutenek bakarrik
+	ezagutuko dute zoriona,
+	benetako zoriona
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La primera nota no la
-	toca el enastado
-	Aunque es ahí donde
-	surge todo pecado
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Enastatuak lehen nota
+	ez du jotzen,
+	baina hor sortzen da
+	bekatu guztia
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La portadora de vida
-	y portadora de desgracias
-	De esta última los pecados
-	no levantan suspicacias
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bizitzaren eta zorigaitzen jabea
+	Azken honen bekatuek ez dute
+	mesfidantzarik sortzen
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aunque a la estela del anciano
-	persigue nerviosa
-	El alma de la amorfa
-	se estremece temerosa
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Agurearen hilarriari urduri
+jarraitzen badio ere
+Amorfoaren arima ikaratu
+egiten da beldurrez
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El más silencioso
-	ha saciado sus anhelos
-	Peca menos al haber
-	mitigado sus deseos
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Isilena
+	bere desioak ase ditu
+	Gutxiago bekatzen du
+	bere nahiak baretu dituelako
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Para el mayor de los pecadores
-	su posición está elegida
-	Y si tiene suerte
-	tal vez su alma sea ungida<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bekataririk handienarentzat
+	lekua dago aukeratua
+	Eta zortea izanez
+	agian bere arima bedeinkatua izango da<SEPARATORB>
 ---------------
-Hay algo escrito en la mesa.<SEPARATORB>
+Mahaian zerbait idatzita dago.<SEPARATORB>
 ---------------
-En la mesa hay una hilera
-	de cinco hoyos circulares
-	de unos tres centímetros.<SEPARATORB>
+
+Mahaian, hiru zentimetro inguruko
+	bost zulo biribileko
+	ilara dago.<SEPARATORB>
 ---------------
-¿En qué agujero vas a introducir
-	la moneda?<SEPARATORB>
+Zein zulotan sartu
+	behar da txanpona?<SEPARATORB>
 ---------------
-¿Qué moneda vas a sacar?<SEPARATORB>
+Zer txanpon aterako duzu?<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>moneda
-	del prisionero<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Presoaren txanpona
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	de la casa de Lyne<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Lyne-ren etxeko giltza
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>crisma blanco<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Krisma zuria
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-No hay nada interesante
-	sobre el escritorio.<SEPARATORB>
+Idazmahaian ez dago
+	ezer interesgarririk.<SEPARATORB>
 ---------------
-Es usted...
+Zu al zara...
 ---------------
-Sí...
+Bai...
 ---------------
-Soy James.
+James naiz.
 ---------------
 Angela...
 ---------------
-Angela... De acuerdo.
+Angela... Ondo da.
 ---------------
-No sé lo que está planeando...
+Ez dakit zer ari den prestatzen...
 ---------------
-pero siempre hay alternativas.
+baina beti daude beste aukera batzuk.
 ---------------
-¿De verdad?
+Benetan?
 ---------------
-Pero...
+Baina...
 ---------------
-Usted es como yo.
+Zu ni bezalakoa zara.
 ---------------
-Es más fácil huir.
+Errazagoa da ihes egitea.
 ---------------
-Y esto es lo que nos merecemos.
+Eta hau da merezi duguna.
 ---------------
-No. No soy como usted.
+Ez. Ez naiz zu bezalakoa.
 ---------------
-¿Está asustado?
+Beldurtuta al zaude?
 ---------------
-Eh... Lo siento.
+Eh... Sentitzen dut.
 ---------------
-No importa...
+Ez du axola...
 ---------------
-¿Ha encontrado a su madre?
+Oraindik ez. Ez dut ikusi.
 ---------------
 Aún no. No la he visto.
 ---------------
-¿Ella vivía en este edificio
-	de apartamentos?
+Apartamentu-eraikin
+	honetan bizi al zen?
 ---------------
-No lo sé...
+Ez dakit...
 ---------------
-¿Sólo sabe que vivía
-	en esta ciudad?
+Hiri honetan bizi zela
+	bakarik al dakizu?
 ---------------
-¿Qué ha dicho?
+Zer esan duzu?
 ---------------
-¿Cómo lo sabe?
+Nola dakizu hori?
 ---------------
-Bueno...
+Tira...
 ---------------
-Lo he supuesto, porque
-	la está buscando por aquí.
+Suposatu dut,
+	bere bila zabiltzalako.
 ---------------
-¡¿Cómo iba a saberlo?!
+Baina nola?!
 ---------------
-Claro...
+Noski...
 ---------------
-¿Estoy en lo cierto?
+Zuzen al nago?
 ---------------
-Estoy tan cansada...
+Hain nekatuta nago...
 ---------------
-Bueno, ¿entonces por qué
-	ha venido a esta ciudad?
+Orduan, zergatik etorri
+	zara hiri honetara?
 ---------------
-Lo... Lo siento.
+Zera... Sentitzen dut.
 ---------------
-¿Ha encontrado...
-	a la persona que busca?
+Aurkitu al duzu...
+	bilatzen ari zinen pertsona?
 ---------------
-Aún no.
+Oraindik ez.
 ---------------
-Se llama Mary. Es mi esposa...
+Mari du izena. Nire emaztea da...
 ---------------
-Lo siento.
+Sentitzen dut.
 ---------------
-No importa.
+Ez du axola.
 ---------------
-Pero... está muerta.
-	No sé por qué creo que está aquí.
+Baina... hilda dago.
+	Ez dakit zergatik uste dudan hemen dagoela.
 ---------------
-¿Está muerta?
+Hilda al dago?
 ---------------
-No se preocupe, no estoy loco.
-	Por lo menos, no creo estarlo...
+Ez kezkatu, ez nago erotuta.
+	Ez dut uste behintzat...
 ---------------
-Tengo que encontrar a mi mamá...
+Nire ama aurkitu behar dut...
 ---------------
-¿Quiere que la acompañe?
+Laguntzea nahi al duzu?
 ---------------
-Esta ciudad es peligrosa.
+Hiri hau arriskutsua da.
 ---------------
-Ahora sé lo que quiso decir
-	en el cementerio.
+Orain ulertzen dut
+	hilerrian esandakoa.
 ---------------
-Me las apañaré.
-	Además, le haría perder el tiempo.
+Moldatuko naiz.
+	Gainera, ez dut nire erruz denpora galtzerik nahi.
 ---------------
-¿Qué me dice de eso?
+Zer diozu horretaz?
 ---------------
-¿Me... lo guardaría?
+Gordeko... al zenidake?
 ---------------
-Claro. No hay problema.
+Jakina. Arazo barik.
 ---------------
-Si me lo quedo...
+Hartzen badut...
 ---------------
-no sé que podría hacer.
+ez dakit zer egin dezakedan.
 ---------------
-¡No!
+Ez!
 ---------------
-Lo siento... He sido mala...
-	Por favor, no...
+Sentitzen dut... Gaiztoa izan naiz...
+	Mesedez, ez...
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>A la derecha está la dama.
-	A la izquierda el anciano.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Eskuinealdean, emakumea dago.
+	Ezkerraldean agurea.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>En el centro se arrastra el otro.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Erdian bestea arrastaka dabil.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Ahora sólo quedan dos espacios,
-	pero aún no temas nada,
-	el enigma está resuelto.
-	El enigma está resuelto.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi espazio baino ez dira geratzen,
+	baina oraindik ez izan beldurrik,
+	enigma konponduta dago.
+	Enigma konponduta dago.<SEPARATORB>
 ---------------
-La puerta no se abre.
+Atea ez da irekitzen.
 
-Es como si alguna fuerza
-	mantuviera la puerta cerrada
-	por el otro lado...
+Badirudi indarren batek
+	atea beste aldetik
+	itxita duela...
 
-y no quiera dejarme pasar
-	hasta que encuentre algo...
-	o a alguien...<SEPARATORB>
+eta dit pasatzen utzi nahi,
+	zerbait aurkitu arte...
+	edo norbait...<SEPARATORB>
 ---------------
-No hay nada en la estantería
-	que parezca de utilidad.<SEPARATORB>
+Apalategian ez dago ezer
+	erabilgarria dirudienik.<SEPARATORB>
 ---------------
-Un osito de peluche.
-	Sería del chico que vivía aquí.<SEPARATORB>
+Peluxezko hartz txiki bat.
+	Hemen bizi zen mutilarena izango zen.<SEPARATORB>
 ---------------
-Un cuadro.
-	No tiene nada especialmente
-	interesante.<SEPARATORB>
+Koadro bat.
+	Ez du ezer bereziki
+	interesgarririk.<SEPARATORB>
 ---------------
-Hay revistas tiradas por el suelo.
-	No tienen nada extraño.<SEPARATORB>
+Aldizkariak lurrean botata daude.
+	Ez dute ezer arrarorik.<SEPARATORB>
 ---------------
-No veo nada útil por aquí.<SEPARATORB>
+Hemen ez dut ezer
+	erabilgarririk ikusten.<SEPARATORB>
 ---------------
-No hay nada que parezca
-	de utilidad.<SEPARATORB>
+Ez dago ezer
+	erabilgarria dirudienik.<SEPARATORB>
 ---------------
-Ahí no hay nada que parezca
-	tener utilidad.<SEPARATORB>
+Ez dago erabilgarria dirudien
+	ezer.<SEPARATORB>
