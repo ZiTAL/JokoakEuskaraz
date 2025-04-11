@@ -1,65 +1,66 @@
 ﻿--------------- strings=16 language=spanish
 ---------------
-Hay una nota pegada en la puerta.<SEPARATORB>
+Ohar bat dago atean itsatsita.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
-	 Tengo que irme a hacer un recado.
+<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea:
+	Mandatu bat egitera joan behar naiz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
-	al tío David (Ya sabes dónde
-	vive, ¿no? La llave está
-	en la habitación más cercana
-	a la escalera del primer piso).
-	
-	 Volveré en cuanto pueda;
-	cuídame la casa mientras
-	estoy fuera, por favor.<SEPARATORB>
----------------
-Parece que hay algo metido
-	dentro del retrete.
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba David-i
+	utziko diot (Badakizu non
+	bizi den, ezta? Giltza lehen
+	solairuko eskaileratik
+	hurbilen dagoen gelan dago).
 
-¿Vas a sacarlo?<SELECT-YES-OR-NO>
+	 Ahal bezain laster itzuliko
+	naiz, zaindu etxea kanpoan
+	nagoen bitartean, mesedez.<SEPARATORB>
 ---------------
-Parece una cartera.
-	Tiene una especie de nota.
+Komunean zerbait sartuta
+	dagoela dirudi.
 
-<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+Aterako al duzu?<SELECT-YES-OR-NO>
 ---------------
-Hay una nota dentro de la cartera.
+Kartera bat dirudi.
+	Ohar moduko bat du.
 
 <CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
 ---------------
-No hay nada más de interés.
+Ohar bat dago kartera barruan.
 
-No tiene sentido que siga buscando.<SEPARATORB>
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
 ---------------
-Una caja fuerte pequeña.
-	Está cerrada.<SEPARATORB>
----------------
-No hay nada dentro de la caja.<SEPARATORB>
----------------
-He encontrado la <COLOR-GREEN>llave de la escalera
-	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
----------------
-He usado la <COLOR-GREEN>llave de la casa de Lyne<COLOR-WHITE>.<SEPARATORB>
----------------
-He usado la <COLOR-GREEN>llave de la escalera
-	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
----------------
-Hay una página de periódico
-	en el suelo. Parece antiguo.
+Ez dauka ezer gehiago.
 
-No hay nada escrito que parezca
-	particularmente interesante.<SEPARATORB>
+Ez du zentzurik bilatzen jarraitzeak.<SEPARATORB>
 ---------------
-Aquí hay una cama vieja y rota.<SEPARATORB>
+Kutxa gotor txiki bat.
+	Itxita dago.<SEPARATORB>
 ---------------
-No hay nada que parezca
-	de utilidad.<SEPARATORB>
+Kutxan ez dago ezer.<SEPARATORB>
 ---------------
-Ahí no hay nada que parezca
-	tener utilidad.<SEPARATORB>
+<COLOR-GREEN>Apartamentuetako eskailerako giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Un cuadro.
-	No tiene nada especialmente
-	interesante.<SEPARATORB>
+<COLOR-GREEN>Lyneren etxeko giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Apartamentuetako eskailerako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
+---------------
+Egunkari orri bat dago lurrean.
+	Zaharra dirudi.
+
+Ez dago ezer idatzirik bereziki
+	interesgarria dirudienik.<SEPARATORB>
+---------------
+Ohe zahar eta hautsi bat dago hemen.<SEPARATORB>
+---------------
+Ez dago ezer erabilgarria
+	dirudienik.<SEPARATORB>
+---------------
+Hor ez dago ezer erabilgarria
+	dirudienik.<SEPARATORB>
+---------------
+Koadro bat.
+	Ez du ezer
+	bereziki interesgarririk.<SEPARATORB>
