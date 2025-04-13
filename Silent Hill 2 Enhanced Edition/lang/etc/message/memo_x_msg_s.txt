@@ -165,12 +165,12 @@
 <CENTER-PARAGRAPH><COLOR-BLUE>«Heriotza aukeratu»
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Bizitza etsipenez beteta dagoenean,
-batzuek dena amaitzea erabakitzen
-dute.
- Nik ere behin aukeratu nuen
-bide hori.
- Une hartan pentsatu nuen ez
-nuela beste irtenbiderik.
+	batzuek dena amaitzea erabakitzen
+	dute.
+	Nik ere behin aukeratu nuen
+	bide hori.
+	Une hartan pentsatu nuen ez
+	nuela beste irtenbiderik.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Behin erabakia hartuta,
 	mundu honetara lotzen
@@ -179,7 +179,7 @@ nuela beste irtenbiderik.
 	iraganaz pentsatzen, baina,
 	batez ere, behin eta berriz
 	planifikatzen nuen nola eta noiz
-	egingo nuen neure buruaz beste.	
+	egingo nuen neure buruaz beste.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Ergelkeriak egin nituen,
 	gauza arriskutsuak.
@@ -220,7 +220,7 @@ nuela beste irtenbiderik.
 	eta bere arreba Miriamen hilketa
 	bortitzagatik, eta bere buruaz
 	beste egin zuen bere ziegan,
-	hilaren 22ko goizaldean.	
+	hilaren 22ko goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren
 	arabera, Sullivanek zopa-koilara
@@ -232,10 +232,10 @@ nuela beste irtenbiderik.
 	arrailduta zuelarik.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivanen eskolakide ohi batek,
-Pleasant River bere jaioterrikoak,
-zera adierazi zuen:
- «Ez zirudien haur bat
-hiltzeko gai zenik.
+	Pleasant River bere jaioterrikoak,
+	zera adierazi zuen:
+	«Ez zirudien haur bat
+	hiltzeko gai zenik.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Baina gogoan dut atxilotu baino
 	lehentxeago gauza arraroak esaten
@@ -262,10 +262,10 @@ hiltzeko gai zenik.
 	gozatu opor lasaiez.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako etxe bitxien ilarak.
- Paisaia menditsu bikaina.
- Eta laku bat, bere edertasunaren
-alderdi desberdinak erakusten dituena
-egunean zehar.
+	Paisaia menditsu bikaina.
+	Eta laku bat, bere edertasunaren
+	alderdi desberdinak erakusten dituena
+	egunean zehar.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Silent Hill-ek hunkitu egingo
 	zaitu eta bake sakona
@@ -297,7 +297,7 @@ egunean zehar.
 	emaztearen limurtzailea dago.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Haizeak emakumearen
-	gibeletik jotzen du	
+	gibeletik jotzen du
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Eta formarik ez duenak, deusezak,
 	urrundik ikusi behar ditu
@@ -371,9 +371,9 @@ egunean zehar.
 	benetako zoriona
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lehen nota ez du
-enastatuak jotzen,
-Baina hor sortzen da
-bekatu guztia
+	enastatuak jotzen,
+	Baina hor sortzen da
+	bekatu guztia
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bizitzaren eta
 	zorigaitzen jabea
@@ -390,7 +390,6 @@ bekatu guztia
 	bere desioak ase ditu
 	Gutxiago bekatu egiten du
 	bere nahiak baretu dituelako
-	
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bekataririk handienaren
 	posizioa aukeratua dago
@@ -403,9 +402,9 @@ bekatu guztia
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Erdian bestea arrastaka dabil.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi hutsune baino ez dira geratzen,
-baina oraindik ez izan beldurrik,
-enigma konponduta dago.
-Enigma konponduta dago.<SEPARATORB>
+	baina oraindik ez izan beldurrik,
+	enigma konponduta dago.
+	Enigma konponduta dago.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
 
@@ -420,12 +419,12 @@ Enigma konponduta dago.<SEPARATORB>
 <CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Bere gaixotasuna, dirudienez,
-bere alabaren heriotzaren erruduntzat
-hartzen duelako da. Haren sintomek krisi
-psikotikoa eta paranoiak dituela
-iradokitzen dituzte. Normalean lasai
-egoten da, baina joera bortitzak
-izaten ditu asaldatzen denean.
+	bere alabaren heriotzaren erruduntzat
+	hartzen duelako da. Haren sintomek krisi
+	psikotikoa eta paranoiak dituela
+	iradokitzen dituzte. Normalean lasai
+	egoten da, baina joera bortitzak
+	izaten ditu asaldatzen denean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
 
@@ -468,7 +467,7 @@ izaten ditu asaldatzen denean.
 	pozik dago bere munduan.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Eta neure buruari galdetzen diot:
-	zergatik ekarri	geure
+	zergatik ekarri geure
 	errealitatearen mundura
 	sendatu ahal izateko?
 
@@ -478,12 +477,12 @@ izaten ditu asaldatzen denean.
 	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Hilabete honetako pin
-zenbakia T. da
-Joan den hilean X zen
-eta aurreko hilekoa Z.
- Baina zer egingo dute
-datorren hilean? Ezin da
-gehiago egin 4 zenbakirekin.
+	zenbakia T. da
+	Joan den hilean X zen
+	eta aurreko hilekoa Z.
+	Baina zer egingo dute
+	datorren hilean? Ezin da
+	gehiago egin 4 zenbakirekin.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Gainera, benetan
 	beharrezkoa al da hain maiz
@@ -491,20 +490,20 @@ gehiago egin 4 zenbakirekin.
 	konbinazioa aldatzea?<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>badakit, sekretutxo
-bat esango dizuet
-deabruen aurkako
-babesleku honek ez du balio.
-Nire tresnak nire da eta
-nire aginduak bete behar ditu.
+	bat esango dizuet
+	deabruen aurkako
+	babesleku honek ez du balio.
+	Nire tresna nirea da eta
+	nire aginduak bete behar ditu.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>kutxa alferrikakoa izango da
-orain ez dut ahaztu behar <VARIABLE-01>
-oso ongi bera da txarrena orain
-ni ere aske izango naiz
-eta berak balioko dit
-jenio bat naiz
-inork ezin nau geldiarazi
-inork ezin nau geldiarazi<SEPARATORB>
+	orain ez dut ahaztu behar <VARIABLE-01>
+	oso ongi bera da txarrena orain
+	ni ere aske izango naiz
+	eta berak balioko dit
+	jenio bat naiz
+	inork ezin nau geldiarazi
+	inork ezin nau geldiarazi<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>
 badakit, badakit kutxaren zenbakia <VARIABLE-01>
@@ -551,7 +550,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	dudan. Berekoia izango naiz,
 	baina hori da nahi dudana.
 	Hau gogorregia da.
-	Gehiegi...	
+	Gehiegi...
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 13
 	Aterri da.
@@ -588,7 +587,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 <CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
-heriotza ezezagunak)
+	heriotza ezezagunak)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
 	Antza denez, 1820ko hamarkadan
@@ -602,9 +601,9 @@ heriotza ezezagunak)
 	odola ematen dizut<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Toluca lakua hiriko erakarpen
-turistiko nagusia da.
- Aintzira eder eta garden
-honek alde ezkutua ere badu.
+	turistiko nagusia da.
+	Aintzira eder eta garden
+	honek alde ezkutua ere badu.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Herri zaharretako mamuen istorio
 	tipikoa irudi dezake honek,
@@ -638,449 +637,432 @@ honek alde ezkutua ere badu.
 	altxatzen dira, agian bere
 	burkideen bila.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> El cu<HIDDEN-TEXT>erpo d<HIDDEN-TEXT>e un hombre que
-	fue posteriormente identificado
-	como Thomas Oro<HIDDEN-TEXT>sco,<HIDDEN-TEXT> un leñador
-	de 39 a<HIDDEN-TEXT>ños<HIDDEN-TEXT>, fue descubierto en
-	<HIDDEN-TEXT>su habit<HIDDEN-TEXT>ación tumbado bo<HIDDEN-TEXT>ca<HIDDEN-TEXT>
-	<HIDDEN-TEXT>arriba.<HIDDEN-TEXT>
+<CENTER-PARAGRAPH><COLOR-BLUE> Thomas Orosco 39 ur<HIDDEN-TEXT>teko eg<HIDDEN-TEXT>urgile gisa
+	identifi<HIDDEN-TEXT>katu zu<HIDDEN-TEXT>ten gizon baten gorpua
+	ahoz gora aur<HIDDEN-TEXT>kitu zut<HIDDEN-TEXT>en bere gelan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> La probable causa de la mue<HIDDEN-TEXT>rte<HIDDEN-TEXT>
-	<HIDDEN-TEXT>fu<HIDDEN-TEXT>eron varias puñaladas en la
-	parte delantera del cuello y en
-	el costado izquierdo, provocadas
-	por un arma afilada.
-	La muerte oc<HIDDEN-TEXT>urrió<HIDDEN-TEXT> aproximadamente
-	entre las 23:0<HIDDEN-TEXT>0 y<HIDDEN-TEXT> la medianoche.
+<CENTER-PARAGRAPH><COLOR-BLUE> Litekeena da hil<HIDDEN-TEXT>keta ar<HIDDEN-TEXT>ma zorrotz batez
+	lepo<HIDDEN-TEXT>aren aur<HIDDEN-TEXT>realdean eta ezkerreko
+	saihetsean hainbat labankada
+	hartzeagatik izan zela.
+	He<HIDDEN-TEXT>riot<HIDDEN-TEXT>za 23:00ak eta gauerdia
+	bitar<HIDDEN-TEXT>tean ge<HIDDEN-TEXT>rtatu zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Debido a los indicios de lucha
-	en la habitación y la ausencia
-	del arma homicida, la policía está
-	sos<HIDDEN-TEXT>pech<HIDDEN-TEXT>ando de un homicidio
-	y ha abierto una investigación
-	por asesinato.
+<CENTER-PARAGRAPH><COLOR-BLUE> Gelan gertatu zen borroka
+	zantzuengatik eta armarik
+	ez aur<HIDDEN-TEXT>kitze<HIDDEN-TEXT>agatik,
+	poliziak eta ikerketa abiatu du.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Además, dado que no se había
-	tocado el dinero de la habitación
-	y que el Sr. Oro<HIDDEN-TEXT>sco te<HIDDEN-TEXT>nía
-	antecedentes de alcoholismo y
-	violencia, la polic<HIDDEN-TEXT>ía sosp<HIDDEN-TEXT>echa
-	que e<HIDDEN-TEXT>l mo<HIDDEN-TEXT>tivo no fue un robo,<HIDDEN-TEXT> sino<HIDDEN-TEXT>
-	<HIDDEN-TEXT>algún tipo <HIDDEN-TEXT>de crimen p<HIDDEN-TEXT>asio<HIDDEN-TEXT>nal.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Gainera, logelan dirurik
+	topatu ez zutenez eta
+	Oro<HIDDEN-TEXT>sco ja<HIDDEN-TEXT>unak alkoholismo
+	eta in<HIDDEN-TEXT>dar<HIDDEN-TEXT>keria aurrekariak izanik,
+	po<HIDDEN-TEXT>li<HIDDEN-TEXT>ziak susmatzen du
+	ez zela lapurreta izan,
+	pasiozko krimenena baizik.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Él cometió un crimen diabólico.
-	Redujo un hogar feliz
-	a un montón de cenizas.
-	Por eso debería morir.
+<CENTER-PARAGRAPH><COLOR-BLUE>Krimen gaiztoa egin zuen.
+	Etxe zoriontsu bat errauts
+	pila batera murriztu zuen.
+	Horregatik hil beharko luke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ellos también
-	cometieron crímenes.
-	Trataron de estafar
-	y engañar a otros.
-	Así que su recompensa
-	también es la más lógica.
+<CENTER-PARAGRAPH><COLOR-BLUE>Haiek ere krimenak
+	egin zituzten.
+	Besteak engainatzen
+	saiatu ziren.
+	Beraz, saria izatea
+	logikoena da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ese tampoco se merece el perdón,
-	a mi amigo le falta la mano izquierda.
-	Por eso su muerte no me importa.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horrek ere ez du barkamenik merezi,
+	nire lagunari ezkerreko eskua
+	falta zaio. Horregatik bere
+	heriotzak ez dit axola.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>¿Y qué decir de él?
-	Tampoco está libre de pecado.
-	Aquí sólo hay uno
-	que es inocente.
+<CENTER-PARAGRAPH><COLOR-BLUE>Eta zer esan berari buruz?
+	Bera ere ez da bekatutik libratzen.
+	Hemen errugabea den bakarra dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>El niño perdido no
-	apareció por ninguna parte,
-	así que no hubo pruebas
-	de su culpabilidad.
-	Su muerte fue una tragedia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Galdutako haurra ez zen
+	inon agertu, eta, beraz,
+	ez zen bere erruduntasunaren
+	frogarik izan. Bere heriotza
+	tragikoa izan zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Eso es todo lo que quiero decir.
-	No fue ni justicia ni castigo.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Hori da esan nahi dudan guztia.
+	Ez zen ez justizia ez zigorra izan.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
-	muertos y colgados del revés
-	¿Cuántos hombres muertos ves?
-	La lengua azul, plumas y brea
-	El muerto gira y se balancea
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gizon hilak, gizon hilak eta
+	alderantziz zintzilikatuak
+	Zenbat gizon ikusten dituzu hilik?
+	Mingain urdina, lumak eta brea
+	Hildakoa biratu eta kulunkatzen dabil
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El primero mató al carnicero
-	Lo descuartizó sobre un puchero
-	Más tarde lo cocinó
-	Y a sus invitados se lo ofreció
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lehenengoak harakina hil zuen
+	Lapiko baten gainean zatitu zuen
+	Gero kozinatu zuen
+	Eta gonbidatuei eskaini zien
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El segundo con engaños
-	A pobres niños raptó
-	Y a los hombres repugnantes
-	como esclavos los vendió
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bigarrenak engainuekin
+	Ume gaixoak bahitu zituen
+	Eta gizon nazkagarriei
+	esklabuak bezala saldu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Entrando de noche a hurtadillas
-	El ladrón no vió las trampillas
-	Y llena de alcohol su cabeza
-	Despertó de mañana entre rejas
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gauez ezkutuan sartu zen
+	Lapurrak ez zituen tranpak ikusi
+	Eta mozkorrik
+	Giltzapetuta esnatu zen
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El falsificador avezado
-	Quiso pagar al contado
-	Probó suerte pintando billetes
-	Pero acabó entre grilletes
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Faltsifikatzaile trebeak
+	Eskudirutan ordaindu nahi zuen
+	Zortea probatu zuen billeteak margotzen
+	Baina kartzelan amaitu zuen
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Con ansias de gran beneficio
-	Robó el oro de un edificio
-	Lo envolvió y ocultó a la vista
-	Pero nadie encontró su pista
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Etekin handiko irrikaz
+	Eraikin batetik urrea lapurtu zuen
+	Bildu eta ezkutatu zuen
+	Baina inork ez zuen bere arrastoa aurkitu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres casas ardieron de noche
-	El sheriff recibió un reproche
-	A un forastero echó el ojo
-	Lo encerró, pateó y dejo cojo
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru etxe erre ziren gauez.
+	Sheriffak errieta jasoz
+	Kanpotar bat ikusi eta
+	Giltzapetu, jipoitu eta
+	herren utzi zuen
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
-	muertos y colgados del revés
-	¿Cuántos hombres muertos ves?
-	Los seis fueron al mismo lugar
-	Una cuerda que les va a ahorcar<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gizon hilak, gizon hilak
+	eta alderantziz zintzilikatuak
+	Zenbat gizon ikusten dituzu hilik?
+	Seiak leku berberera joan ziren
+	Soka batek urkatuko ditu<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir.
-	
-	 Pero mañana subiré al patíbulo.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez dut hil nahi.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Por favor, que alguien me responda,
-	¿por qué debo morir al amanecer?
+	 Baina bihar urkamendira igoko naiz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El prisionero que tengo al lado
-	me cree. Dijo: "Porque están
-	todos locos, y ya está".
-	
-	 Por supuesto, sé que su opinión
-	no cambiará nada. Murmuró:
-	"Ahora sabes por qué les di
-	una paliza".
+<CENTER-PARAGRAPH><COLOR-BLUE> Mesedez, norbaitek erantzun diezadala,
+	zergatik hil behar dut egunsentian?
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El hombre que ejecutaron ayer,
-	el que había dicho que su trabajo
-	era vender sueños, dijo que eso
-	no era verdad.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ondoan dudan presoak sinesten dit.
+	Esan zuen: "Denak
+	erotuta daudelako, eta kito".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Pero el que ejecutarán
-	pasado mañana por raptar niños
-	le gritó que sí era verdad.
+	Badakit bere iritziak ez duela
+	ezer aldatuko.
+	Xuxurlatu zuen:
+	"Orain badakizu zergatik
+	jipoitu nituen".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El hombre al que colgaron hoy
-	no les contestó. Solo dijo:
-	"Me matarán de todas formas".
-	Lo arrestaron por malversación,
-	así que que no espera clemencia.
+<CENTER-PARAGRAPH><COLOR-BLUE> Atzo hil zuten gizonak,
+	bere lana ametsak saltzea
+	zela esan zuenak,
+	esan zuen hori ez zela egia.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El que siempre sonríe
-	tranquilamente dijo: "Yo soy feliz,
-	pronto estaré con ella".
+<CENTER-PARAGRAPH><COLOR-BLUE> Baina etzi haurrak bahitzeagatik
+	exekutatuko dutenak egia zela
+	oihukatu zion.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir. Sólo quiero
-	volver a casa. Pero sé que no
-	lo haré. Aunque no haya hecho
-	nada, este crimen me lo han
-	achacado a mí.
+<CENTER-PARAGRAPH><COLOR-BLUE> Gaur urkatu duten gizonak
+	ez die erantzun. "Dena dela,
+	hil egingo naute", esan zuen.
+	Dirua bidegabe erabiltzeagatik
+	atxilotu zuten, beraz, ez du
+	errukirik espero.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Que alguien me salve.
-	Esto no es un castigo.
-	¡Están sedientos de sangre
-	y yo soy el cordero a sacrificar!<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Beti lasai irribarre egiten
+	duenak esan zuen: "Zoriontsua
+	naiz, laster izango naiz bere ondoan".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez dut hil nahi. Etxera itzuli
+	nahi dut. Baina badakit ez dudala
+	egingo. Ezer egin ez badut ere,
+	krimen hau niri egotzi didate.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Norbaitek salba nazala.
+	Hau ez da zigorra.
+	Odolaren egarriz daude eta ni naiz
+	sakrifikatu duten arkumea!<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Podemos asignar la muerte
-	sobre la cabeza del pecador,
-	pero, ¿para qué?
+<CENTER-PARAGRAPH><COLOR-BLUE>Heriotza bekatariaren
+	gain jar dezakegu,
+	baina zertarako?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Hoy, en nombre del castigo,
-	formamos parte de una
-	amarga comedia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gaur, zigorraren izenean,
+	komedia mingots
+	baten parte gara.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tú, el colgado por el cuello,
-	no tuviste nuestro perdón,
-	sino nuestras maldiciones.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zuk, lepotik zintzilik,
+	ez zenuen gure barkamena
+	izan, gure madarikazioak baizik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Cinco de ellos cometieron
-	crímenes, seis salieron a beber
-	y fueron capturados.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horietako bostek krimenak
+	egin zituzten, sei edatera
+	irten eta harrapatu zituzten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sólo uno era inocente,
-	pero ellos no lo sabían.
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarra zen errugabea,
+	baina haiek ez zekiten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Las manchas de sangre que quedan
-	son prueba de su culpabilidad.
-	Estos trillados caminos son los que
-	llevan al infierno o al vacío.
+<CENTER-PARAGRAPH><COLOR-BLUE>Geratzen diren odol orbanak
+	erruduntasunaren froga dira.
+	Askotan zaldutako bide horiek dira
+	infernura edo hutsera daramatenak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Las vendas blancas
-	manchadas de rojo,
-	Los restos sobre
-	la tierra quemada,
-	Los llantos susurrados
-	de la doncella.
-	Sus contratos
-	sin ningún sentido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Benda zuriak
+	gorriz zikinduak,
+	Hondarrak lur
+	errearen gainean,
+	Dontzeilaren
+	negar xuxurlatuak.
+	Zure kontratuek
+	ez dute zentzurik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Estos también son
-	signos de culpabilidad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horiek ere
+	erruduntasun-zantzuak dira.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero uno de ellos fue
-	ajusticiado sin razón.
-	Lo mataron por temor
-	y una imaginación
-	desbocada.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina haietako
+	bat arrazoirik gabe
+	hil zuten. Hil egin
+	Bere irudimen handiagatik
+	eta beldur zirelako hil zuten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Solo, al final de una cuerda,
-	no es nada menos que una
-	desgracia para todos.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarrik, soka baten amaieran,
+	guztiontzako zorigaitza
+	besterik ez da.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Sr. James Sunderland:
-	
-	La cinta de vídeo que se dejó
-	está guardada en la oficina
-	del primer piso.<SEPARATORB>
----------------
-<COLOR-BLUE>«Día neblinoso,
-	restos del juicio»<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Pasillo ala pacientes
-	del tercer piso: 7335<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Voy a escribir todo lo que
-	he aprendido hasta ahora.
-	Tal vez eso te sea
-	de alguna ayuda.
+<CENTER-PARAGRAPH><COLOR-BLUE>James Sunderland jauna:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si estás leyendo esto,
-	probablemente ya estoy muerto.<SEPARATORB>
+	Bideo-zinta lehen
+	solairuko bulegoan
+	gordeta dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>He visto a esos demonios.
-	Sé que estaban ahí.
-	Pero mi amigo no vio nada.
-	Si es así, ¿entonces lo que
-	vi era una ilusión?
+<COLOR-BLUE>«Egun lainotsua,
+	epaiketaren hondarrak»<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Hirugarren solairuko
+	pazienteentzako korridorea: 7335<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Orain arte ikasitako
+	guztia idatziko dut.
+	Agian hori lagungarri
+	izango zaizu.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero aunque ese demonio que
-	comía seres humanos fuese real
-	o nada más que una alucinación...
-	Una cosa de la que estoy seguro
-	es que no tengo ninguna
-	posibilidad.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Hau irakurtzen ari bazara,
+	hilda egongo naiz.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Parece que les atrae la luz.
-	Por ese motivo, aquellos
-	que necesitan luz para ver
-	son sus presas naturales.
-	También reaccionan a los sonidos.
+<CENTER-PARAGRAPH><COLOR-BLUE>Deabru horiek ikusi ditut.
+	Badakit hor zeundetela.
+	Baina nire lagunak ez zuen
+	ezer ikusi. Hala bada, orduan
+	ikusi nuena ilusio bat al zen?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si quieres seguir viviendo,
-	será mejor que te quedes
-	en la oscuridad y en silencio.
-	Pero seguramente eso no bastará
-	para salvarte.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina gizakiak jaten zituen
+	deabru hori benetakoa izan arren,
+	edo lilurapen bat besterik ez...
+	Ziur nago ez dudala aukerarik.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Si vas a luchar contra ellos,
-	lo más importante es que mantener
-	la calma. Es peligroso usar
-	una pistola en pleno pánico.
+<CENTER-PARAGRAPH><COLOR-BLUE>Badirudi argiak erakartzen dituela.
+	Horregatik, ikusteko argia behar
+	dutenak beren harrapakin naturalak
+	dira. Soinuen aurrean ere
+	erreakzionatzen dute.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Primero apunta bien y entonces
-	aprieta el gatillo. Y no te
-	olvides de rematarlos.
-	Creo que la mayoría de esas
-	criaturas se pueden matar,
-	aunque sean más duras que
-	una persona cualquiera.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bizitzen jarraitu nahi baduzu,
+	hobe duzu iluntasunean eta isilik
+	geratzea. Baina hori ez da aski
+	izango zu salbatzeko.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Huye.<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>¡Huye! ¡Huye! ¡Huye!
-	¡Huye! ¡Huye! ¡Huye!
-	¡Huye! ¡Huye! ¡Huye!<SEPARATORB>
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Si de verdad quieres ver a Mary,
-	deberías morir.
+<CENTER-PARAGRAPH><COLOR-BLUE>Haien aurka borrokatu behar baduzu,
+	garrantzitsuena lasai egotea da.
+	Arriskutsua da pistola erabiltzea
+	izuaren erdian.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero a lo mejor acabas en
-	un lugar distinto al de Mary, James.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Lehenengo ondo apuntatu eta
+	gero tiro egin. Eta ez
+	ahaztu errematatzea.
+	Uste dut izaki horietako
+	gehienak hil daitezkeela,
+	nahiz eta edozein pertsona
+	baino gogorragoak izan.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Aquí había un AGUJERO.
-	Ahora ha desaparecido.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Ospa.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE>«Hay una carta y una llave inglesa»
+<CENTER-PARAGRAPH><COLOR-BLUE>Ihes! Ihes! Ihes!
+	Ihes! Ihes! Ihes!
+	Ihes! Ihes! Ihes!<SEPARATORB>
 ---------------
-<CENTER-PER-LINE>«La llave está en el parque»
----------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Quien no tenga el valor suficiente
-	para dejar que lo observen
-	desde el abismo, no tendrá el valor
-	suficiente para encararse a él.
+<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Mari ikusi nahi baduzu,
+	hil egin beharko zenuke.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La verdad sólo se encontrará
-	avanzando hacia delante.
-
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sigue el mapa.
-	Ahí hay una carta y una llave inglesa.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Mari ez den beste
+	leku batean bukatuko duzu, James.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>O tal vez estés loco.
-	La verdad suele traicionar a la gente.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Una parte de ese abismo
-	está en la vieja sociedad.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>La llave de la sociedad
-	está en el parque.
-	A los pies de la mujer que reza,
-	bajo tierra, dentro de una caja.
-	Para abrirla necesito
-	una llave inglesa.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Mi paciente la enterró ahí.
-	Yo lo sabía, pero no hice nada.
-	Me incomodaba tener
-	esa cosa tan cerca.
-	Yo no buscaba la verdad,
-	sólo buscaba tranquilidad.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>También vi a esa cosa.
-	Escapé, pero el museo
-	también estaba sellado.
-	Ahora nadie se atreve
-	a acercarse a ese lugar.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Si aún no quieres detenerte, James,
-	rezaré al Señor para que
-	se apiade de tu alma eterna.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hemen ZULO bat zegoen.
+	Orain desagertu da.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE>«El sótano del sótano»
+<CENTER-PER-LINE>«Gutun bat eta giltza ingeles bat daude»
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
-	el sótano del sótano.
-	Era muy pequeño y oscuro
-	y yo tuve muchísimo miedo.
-	Se me cayó mi precioso anillo.
-	Pero nunca jamás volveré allí.<SEPARATORB>
+<CENTER-PER-LINE>«Giltza parkean dago»
 ---------------
-<CENTER-PER-LINE>Cuadro 1 de la celda
----------------
-<CENTER-PER-LINE>Cuadro 2 de la celda
----------------
-<CENTER-PER-LINE>Cuadro 3 de la celda
----------------
-<COLOR-BLUE>Hombre ardiendo<SEPARATORB>
----------------
-<COLOR-BLUE>Mujer volando<SEPARATORB>
----------------
-<COLOR-BLUE>436 personas en un recital<SEPARATORB>
----------------
-<CENTER-PER-LINE>Mapa del bar
----------------
-<CENTER-PER-LINE>Mapa hallado cerca de un puente
----------------
-<CENTER-PER-LINE>Diario del guarda de la prisión
----------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Los prisioneros no sienten
-	remordimientos. De hecho,
-	no se les pasa por la cabeza
-	que puedan ser malvados.
-	 Incluso el animal más analfabeto
-	usará las pocas palabras que
-	sepa para justificarse.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Amildegitik begira dezaten
+	uzteko adina adorerik ez duenak
+	ez du hari aurre egiteko adinako
+	adorerik izango.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Y tendrán sueños así de
-	insignificantes, que florecen
-	incluso en la oscuridad.
-	Los prisioneros no son ninguna
-	excepción.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Egia aurrera eginez
+	baino ez da aurkituko.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Al margen de lo infecta o detestable
-	que sea la existencia y vida de uno,
-	la naturaleza humana es pertinaz.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jarraitu mapa.
+	Hor daude gutun bat eta giltza ingeles bat.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE>Lápida del jardín interior
+<CENTER-PARAGRAPH><COLOR-BLUE>Edo agian erotuta zaude.
+	Egiak jendea traizionatzen du.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Amildegi horren zati bat
+	gizarte zaharkituan dago.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Gizartearen giltza parkean dago.
+	Otoitz egiten duen emakumearen
+	oinetan, lurpean,
+	kaxa baten barruan.
+	Irekitzeko giltza
+	ingeles bat behar dut.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Nire pazienteak hor lurperatu zuen.
+	Banekien, baina ez nuen ezer egin.
+	Ondoezik nengoen gauza hori hain
+	hurbil edukitzeaz. Nik ez nuen
+	egia bilatzen, lasaitasuna besterik
+	ez nuen bilatzen.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Nik ere gauza hori ikusi nuen.
+	Ihes egin nuen, baina museoa
+	ere itxita zegoen.
+	Orain inor ez da ausartzen
+	leku horretara hurbiltzen.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi,
+	James, Jainkoari otoitz egingo diot
+	zure arimaz betirako erruki dadin.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE>Enciclopedia botánica: Acacia
+<CENTER-PER-LINE>«Sotoko sotoa»
 ---------------
-<CENTER-PER-LINE>«Memorias perdidas»
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Sotoko sotoan giltzapetuta zegoen.
+	Oso txikia eta iluna zen,
+	eta beldur handia izan nuen.
+	Nire eraztun ederra erori zitzaidan.
+	Baina ez naiz sekula hara itzuliko.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Contigo murió la alegría.
-	Todo lo que queda es desesperación
-	y un futuro de mañanas sin sentido.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero nunca renunciaré.
-	Porque quiero volver a ver
-	tu bella sonrisa.
-	Porque quiero implorar
-	la bendición de los dioses.
-	Espero que llegue ese día.
-
-<CENTER-PARAGRAPH><COLOR-BLUE>Cuando las placas lo cubran todo,
-	toda tristeza quedará
-	también cubierta.
-	Pero hasta que mis sueños
-	se hagan realidad, tendré
-	que aguantar todo el dolor.<SEPARATORB>
+<CENTER-PER-LINE>Gelaxkako 1. koadroa
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Acacia
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Género de árboles de hoja perenne
-	de la familia de las fabáceas,
-	subfamilia mimosoideae.
-	 Tiene flores pequeñas de color
-	amarillo o blanco que crecen
-	en racimos.
-	 Entre sus variedades comunes
-	se incluye el «árbol gomero».
-
-<CENTER-PARAGRAPH><COLOR-BLUE> El árbol de la acacia es
-	un importante símbolo en
-	muchas religiones del mundo.
-	 En el cristianismo representa
-	la vida eterna y la moralidad.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> En el antiguo Egipto representaba
-	la pureza y el renacimiento, mientras
-	que en la antigua Babilonia era
-	considerado como un símbolo de vida
-	y el árbol de la diosa Ishtar.
-
-<CENTER-PARAGRAPH><COLOR-BLUE> Para los antiguos judíos también
-	era un árbol sagrado, quienes
-	construyeron el Arca de la Alianza
-	con madera de acacia; para ellos
-	significaba una muerte tranquila
-	y la liberación del dolor.<SEPARATORB>
+<CENTER-PER-LINE>Gelaxkako 2. koadroa
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Memorias perdidas
+<CENTER-PER-LINE>Gelaxkako 3. koadroa
+---------------
+<COLOR-BLUE>Gizona sutan<SEPARATORB>
+---------------
+<COLOR-BLUE>Emakumea hegan<SEPARATORB>
+---------------
+<COLOR-BLUE>436 pertsona erreZITALldi batean<SEPARATORB>
+---------------
+<CENTER-PER-LINE>Tabernaren mapa
+---------------
+<CENTER-PER-LINE>Zubi baten ondoan aurkitutako mapa
+---------------
+<CENTER-PER-LINE>Espetxeko zaindariaren egunerokoa
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> Presoek ez dute damurik sentitzen.
+	Izan ere, ez zaie burutik pasatzen
+	gaiztoak izan daitezkeenik.
+	Animalia analfabetoenak ere,
+	dakizkien hitz apurrak erabiliko
+	ditu bere burua zuritzeko.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Confío plenamente —incluso
-	podríais llamarlo fe— en el milagro
-	conocido como la «resurrección
-	de los muertos».
+<CENTER-PARAGRAPH><COLOR-BLUE> Eta halako amets hutsalak
+	izango dituzte, iluntasunean
+	ere loratzen direnak.
+	Presoak ez dira salbuespenak.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La Bestia entonó su canción
-	en la colina donde la luz descendía.
-	Con palabras de sangre, gotas
-	de niebla y el vaso de la noche,
-	la tumba se convirtió en
-	un campo abierto.
+<CENTER-PARAGRAPH><COLOR-BLUE> Norberaren existentzia eta bizitza
+	infektatu edo higuingarria dena alde
+	batera utzita, giza izaera iraunkorra da.<SEPARATORB>
+---------------
+<CENTER-PER-LINE>Barruko lorategiko hilarria
+---------------
+<CENTER-PER-LINE>Entziklopedia botanikoa: Akazia
+---------------
+<CENTER-PER-LINE>«Memoria galduak»
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Zurekin hil zen poza.
+	Etsipena eta zentzugabeko
+	goizen etorkizuna besterik
+	ez da geratzen.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La gente sollozaba de temor
-	y alegría en la reunión,
-	pero mi fe en la salvación
-	de Xuchilpaba no flaqueó.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez dut inoiz uko egingo.
+	Zure irribarre ederra berriz
+	ikusi nahi dudalako.
+	Jainkoen bedeinkapena
+	eskatu nahi dudalako.
+	Eegun hori iristea espero dut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>También es mencionada
-	en las antiguas leyendas.
-	Los primeros fieles no creían
-	que la muerte fuese el final,
-	sólo el camino por el que
-	los fallecidos regresaban
-	a la naturaleza.
-	También creían que el proceso
-	era reversible.
+<CENTER-PARAGRAPH><COLOR-BLUE>Plakek dena estaltzen dutenean,
+	tristura oro estalita geratuko da.
+	Baina nire ametsak egia bihurtu arte,
+	oinaze guztia jasan beharko dut.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Akazia
 
-<COLOR-WHITE>Hay algo anotado
-	al final de la página.
+<CENTER-PARAGRAPH><COLOR-BLUE> Fabazeoen familiako hosto iraunkorreko
+	zuhaitzen generoa, mimosoideae
+	azpifamilia.
+	Lore hori edo zuri txikiak
+	ditu, mahats-mordoka hazten direnak.
+	Bere barietate arrunten artean
+	«goma-zuhaitza» dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sangre=Rojo,
-	Niebla=Blanco,
-	Noche=Negro<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Akaziaren zuhaitza sinbolo
+	garrantzitsua da munduko
+	erlijio askotan. 
+	Kristautasunean betirako
+	bizitza eta moraltasuna
+	irudikatzen ditu.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako Egipton garbitasuna eta
+	berpizkundea irudikatzen zituen,
+	antzinako Babilonian Ishtar
+	jainkosaren biziaren eta zuhaitzaren
+	sinbolotzat hartzen zen bitartean.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako juduentzat ere zuhaitz
+	sakratua zen, Aliantzaren Arka
+	akaziaren egurrez eraiki zutenak;
+	haientzat heriotza lasaia eta
+	oinazearen askapena esan nahi zuen.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Memoria galduak
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Konfiantza osoa dut - fedea ere dei
+	zeniezaiokete - «hildakoen berpizkundea»
+	izenez ezagutzen den mirarian.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Piztiak bere kanta abestu zuen
+	argia jaisten zen muinoan.
+	Odol hitzak, laino tantak eta
+	gaueko edalontzia erabiliz,
+	hilobia zelai ireki bihurtu zen.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jendea beldurrez eta pozez negar-zotinka
+	pozez ari zen bileran, baina Xuchilpaba-ren
+	salbazioan nuen fedea ez zen ahuldu.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Antzinako elezaharretan ere
+	aipatzen da. Lehen fededunek
+	ez zuten uste heriotza amaiera
+	zenik, hildakoak naturara
+	itzultzeko bidea baizik.
+	Prozesua alderantzikagarria
+	zela ere uste zuten.
+
+<COLOR-WHITE>Orrialdearen amaieran
+	zerbait idatzita dago.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Odola = Gorria,
+	Lainoa = Zuria,
+	Gaua = Beltza<SEPARATORB>
