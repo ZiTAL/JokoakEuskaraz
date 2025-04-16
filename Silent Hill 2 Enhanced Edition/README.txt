@@ -17,4 +17,4 @@ Buelta bueltaka -> jira ta bira
 
 <HIDDEN-TEXT> beitu lerro bakotzien 2 egon bidiez
 
-stage_hospital_2f_b_msg_s
+stage_town_east_msg_s
