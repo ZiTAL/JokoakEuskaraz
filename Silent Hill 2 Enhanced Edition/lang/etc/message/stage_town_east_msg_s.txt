@@ -1,196 +1,188 @@
 ﻿--------------- strings=34 language=spanish
 ---------------
-No hay motivos para volver.
-	Voy a buscar a Mary...<SEPARATORB>
+Ez dago arrazoirik itzultzeko.
+	Mariren bila noa...<SEPARATORB>
 ---------------
-La calle está cortada.
-	Por aquí no puedo seguir.
+Kalea moztuta dago.
+	Hemendik ezin dut jarraitu.
 
-No puedo llegar al parque por aquí.
-	Tendré que encontrar otro camino.<SEPARATORB>
+Ezin naiz parkera iritsi.
+	Beste bide bat aurkitu beharko dut.<SEPARATORB>
 ---------------
-La calle se ha hundido.
-	Por aquí no puedo seguir.
+Kalea hondoratu egin da.
+	Hemendik ezin dut jarraitu.
 
-No puedo llegar al parque por aquí.
-	Tendré que encontrar otro camino.<SEPARATORB>
+Hemendik ezin naiz parkera iritsi.
+	Beste bide bat aurkitu beharko dut.<SEPARATORB>
 ---------------
-Muerto...
-	¿Habrá sido aquella criatura...?
+Hilda...
+	Izaki hura izan ote zen...?
 
-¿Qué está pasando
-	en esta ciudad...?<SEPARATORB>
+Zer gertatzen da
+	hiri honetan?<SEPARATORB>
 ---------------
-Hay algo escrito.
+Zerbait idatzita dago.
 
-Por desgracia, la superficie
-	está deteriorada y me cuesta leerla.
+Zoritxarrez, gainazala hondatuta dago
+	eta zaila egiten zait irakurtzea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+<CENTER-PARAGRAPH><COLOR-BLUE>Urtegiaren hondarrak <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
-	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
-	orginalmente un pantano, pero
-	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+<CENTER-PARAGRAPH><COLOR-BLUE>Mo<HIDDEN-TEXT>nu<HIDDEN-TEXT>mentua inguratzen duten XX metroko
+	lurrak ja<HIDDEN-TEXT>to<HIDDEN-TEXT>rriz zingira batenak ziren,
+	baina gero lu<HIDDEN-TEXT>be<HIDDEN-TEXT>tak egin zituzten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
-	recibió el apodo de «pantano sangriento»
-	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
-	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
-	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+<CENTER-PARAGRAPH><COLOR-BLUE>As<HIDDEN-TEXT>pa<HIDDEN-TEXT>ldi, zingira ho<HIDDEN-TEXT>rri<HIDDEN-TEXT> "zingira odoltsua"
+	ezizena <HIDDEN-TEXT>ja<HIDDEN-TEXT>rri zioten, borreroek beren
+	gauzatze-tresnak gar<HIDDEN-TEXT>bi<HIDDEN-TEXT>tzeko erabiltzen
+	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
-	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
-	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an horregatik jen<HIDDEN-TEXT>deak dio
+	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+<CENTER-PARAGRAPH><COLOR-BLUE>Urtegiaren hondarrak <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
-	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
-	orginalmente un pantano, pero
-	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+<CENTER-PARAGRAPH><COLOR-BLUE>Mo<HIDDEN-TEXT>nu<HIDDEN-TEXT>mentua inguratzen duten XX metroko
+	lurrak ja<HIDDEN-TEXT>to<HIDDEN-TEXT>rriz zingira batenak ziren,
+	baina gero lu<HIDDEN-TEXT>be<HIDDEN-TEXT>tak egin zituzten.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
-	recibió el apodo de «pantano sangriento»
-	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertían
-	aquí el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
-	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>ución.
+<CENTER-PARAGRAPH><COLOR-BLUE>As<HIDDEN-TEXT>pa<HIDDEN-TEXT>ldi, zingira ho<HIDDEN-TEXT>rri<HIDDEN-TEXT> "zingira odoltsua"
+	ezizena <HIDDEN-TEXT>ja<HIDDEN-TEXT>rri zioten, borreroek beren
+	gauzatze-tresnak gar<HIDDEN-TEXT>bi<HIDDEN-TEXT>tzeko erabiltzen
+	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razón q<HIDDEN-TEXT>ue
-	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
-	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an horregatik jen<HIDDEN-TEXT>deak dio
+	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>	
 ---------------
-No puedo escapar.
+Ezin dut ihes egin.
 
-Es peligroso darle la espalda
-	a este monstruo.<SEPARATORB>
+Arriskutsua da munstro
+	honi bizkarra ematea.<SEPARATORB>
 ---------------
 Eh...
 ---------------
-¿Está muerto?
-	¿Qué demonios es eso?
+Hilda al dago?
+	Zer osti da hori?
 ---------------
-No es humano...
+Ez da gizakia...
 ---------------
-Ah, sí.
+Ah, bai.
 ---------------
-¿Está rota?
+Apurtuta al dago?
 ---------------
-Ja......... esto... ..........
-	Ven .................. ......s...
+........... hau... ..........
+	Zatoz .................. ......s...
 ---------------
-..... ......... ......and.....
+..... ......... ......eta.....
 ---------------
-............. me has m............
+............. didaz............
 ---------------
 Jam.........
 ---------------
-¿Qué demonios...?
+Ze osti?
 ---------------
-Será mejor que me la lleve.
-	Podría necesitarla.
+Hobe dut eramatea.
+	Agian beharko dut.
 ---------------
-He encontrado la <COLOR-GREEN>llave de la entrada
-	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Apartamentuetako sarrerako giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de la entrada
-	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Apartamentuetako sarrerako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Voy a escribir todo lo que
-	he aprendido hasta ahora.
-	Tal vez eso te sea
-	de alguna ayuda.
+<CENTER-PARAGRAPH><COLOR-BLUE>Orain arte ikasitako guztia idatziko dut.
+	Agian hori lagungarri izango zaizu.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si estás leyendo esto,
-	probablemente ya estoy muerto.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Hau irakurtzen ari bazara,
+	ziur aski hilda egongo naiz.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>He visto a esos demonios.
-	Sé que estaban ahí.
-	Pero mi amigo no vio nada.
-	Si es así, ¿entonces lo que
-	vi era una ilusión?
+<CENTER-PARAGRAPH><COLOR-BLUE>Deabru horiek ikusi ditut.
+Badakit hor zegozela.
+Baina nire lagunak ez zuen
+ezer ikusi. Hala bada, orduan
+ikusi nuena ilusioa al zen?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero aunque ese demonio que
-	comía seres humanos fuese real
-	o nada más que una alucinación...
-	Una cosa de la que estoy seguro
-	es que no tengo ninguna
-	posibilidad.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina gizakiak jaten zituen
+deabru hori benetakoa izan
+arren, edo haluzinazioa
+besterik ez... 
+Argi daukadan gauza zera da,
+ez dudala aukerarik.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Parece que les atrae la luz.
-	Por ese motivo, aquellos
-	que necesitan luz para ver
-	son sus presas naturales.
-	También reaccionan a los sonidos.
+<CENTER-PARAGRAPH><COLOR-BLUE>Badirudi argiak erakartzen dituela.
+Horregatik, ikusteko argia behar
+dutenak beren harrapakin naturalak
+dira. Soinuen aurrean ere
+erreakzionatzen dute.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si quieres seguir viviendo,
-	será mejor que te quedes
-	en la oscuridad y en silencio.
-	Pero seguramente eso no bastará
-	para salvarte.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bizitzen jarraitu nahi baduzu,
+	hobe duzu iluntasunean
+	eta isilik geratzea.
+	Baina ziur aski salbatzeko
+	ez da nahikoa izango.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Si vas a luchar contra ellos,
-	lo más importante es que mantener
-	la calma. Es peligroso usar
-	una pistola en pleno pánico.
+<CENTER-PARAGRAPH><COLOR-BLUE>Haien aurka borrokatu behar baduzu,
+garrantzitsuena lasaitasuna da.
+Arriskutsua baita pistola
+beldurtuta erabiltzea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Primero apunta bien y entonces
-	aprieta el gatillo. Y no te
-	olvides de rematarlos.
-	Creo que la mayoría de esas
-	criaturas se pueden matar,
-	aunque sean más duras que
-	una persona cualquiera.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Lehenengo ondo apuntatu eta
+	gero tiro egin. Eta ez ahaztu
+	errematatzea. Uste dut izaki
+	horietako gehienak hil daitezkeela,
+	nahiz eta pertsonak baino
+	gogorragoak izan.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Huye.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Ihes!<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>¡Huye! ¡Huye! ¡Huye!
-	¡Huye! ¡Huye! ¡Huye!
-	¡Huye! ¡Huye! ¡Huye!<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Ihes! Ihes! Ihes! 
+	Ihes! Ihes! Ihes! 
+	Ihes! Ihes! Ihes! <SEPARATORB>
 ---------------
-Hay un bloc de notas en el suelo.<SEPARATORB>
+Ohar-kuaderno bat dago lurrean.<SEPARATORB>
 ---------------
-Hay una nota rota en el suelo.<SEPARATORB>
+Ohar apurtu bat dago lurrean.<SEPARATORB>
 ---------------
-¿¡Estas manchas... son sangre!?
+Orban hauek... odola al dira!?
 ---------------
-Esa sombra...
+Itzal hori...
 ---------------
-Esa sombra me preocupa.
-	¿Qué era eso...?<SEPARATORB>
+Itzal horrek kezkatzen nau.
+	Zer zen hori...?<SEPARATORB>
 ---------------
-<COLOR-BLUE>La puerta que despierta
-	a la oscuridad, abriéndose
-	a pesadillas.<SEPARATORB>
+<COLOR-BLUE>Iluntasuna esnatzen duen atea,
+amesgaiztoetara irekitzen dabil.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>O tal vez estés loco.
-	La verdad suele traicionar a la gente.
+<CENTER-PARAGRAPH><COLOR-BLUE>Edo agian erotuta zaude.
+	Egiak jendea traizionatzen du.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Una parte de ese abismo
-	está en la vieja sociedad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Amildegi horren zati bat
+	gizarte zaharrean dago.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>La llave de la sociedad
-	está en el parque.
-	A los pies de la mujer que reza,
-	bajo tierra, dentro de una caja.
-	Para abrirla necesito
-	una llave inglesa.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gizartearen giltza
+	parkean dago.
+	Otoitz egiten duen
+	emakumearen oinetan,
+	lurpean, kaxa baten barruan.
+	Irekitzeko giltza
+	ingeles bat behar dut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Mi paciente la enterró ahí.
-	Yo lo sabía, pero no hice nada.
-	Me incomodaba tener
-	esa cosa tan cerca.
-	Yo no buscaba la verdad,
-	sólo buscaba tranquilidad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Nire pazienteak hor lurperatu zuen.
+	Banekien, baina ez nuen ezer egin.
+	Ondoeza sortarazten zidan
+	gauza hori hain hurbil edukitzeak.
+	Nik ez nuen egia bilatzen,
+	lasaitasuna besterik ez.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>También vi a esa cosa.
-	Escapé, pero el museo
-	también estaba sellado.
-	Ahora nadie se atreve
-	a acercarse a ese lugar.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gauza hori ere ikusi nuen.
+	Ihes egin nuen, baina museoa
+	ere itxita zegoen.
+	Orain inor ez da ausartzen
+	leku horretara hurbiltzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si aún no quieres detenerte, James,
-	rezaré al Señor para que
-	se apiade de tu alma eterna.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi, James,
+	otoitz egingo diot Jaungoikoari
+	zure arimaz betirako erruki dadin.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Giltza ingeles bat
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
