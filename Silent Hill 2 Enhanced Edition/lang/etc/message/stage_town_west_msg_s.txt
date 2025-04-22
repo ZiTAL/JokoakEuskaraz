@@ -1,321 +1,322 @@
 ﻿--------------- strings=113 language=spanish
 ---------------
-¿Qué ha sido de aquella niña...?
+Non egongo ote da neskato hura?
 
-¿Podrá estar sola en
-	una ciudad como esta?<SEPARATORB>
+Bakarrik egon zitekeen
+	honelako hiri batean?<SEPARATORB>
 ---------------
-Esta parte del terreno está
-	más elevada de lo normal.
+Lurraren zati hori ohi
+	baino gorago dago.
 
-¿Habrá algo debajo?
+Zerbait al dago azpian?
 
-¿Vas a cavar?<SELECT-YES-OR-NO>
+Zulatuko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Había una pequeña caja metálica
-	enterrada.
+Metalezko kutxa txiki bat
+	zegoen lurperatuta.
 
-La caja está cerrada con pernos.
-	No puedo abrir la tapa.<SEPARATORB>
+Kutxa bernoekin itxita dago.
+	Ezin dut estalkia ireki.<SEPARATORB>
 ---------------
-La caja está cerrada con pernos.
-	No puedo abrir la tapa.<SEPARATORB>
+Kutxa bernoekin itxita dago.
+	Ezin dut estalkia ireki.<SEPARATORB>
 ---------------
-Había una llave en la caja.<SEPARATORB>
+Kutxa barruan giltza zegoen.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Víctima de persecución
-	por l<HIDDEN-TEXT>os cristi<HIDDEN-TEXT>anos.
-	Jenni<HIDDEN-TEXT>fer<HIDDEN-TEXT> Carroll
-	vivió con orgullo y honor.
-	Lo que ocurrió aquí
-	nunca debe ser olvidado.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Kristauen jazarpenaren bik<HIDDEN-TEXT>ti<HIDDEN-TEXT>ma.
+	Jennifer Carroll harro eta ohorez bizi izan zen.
+	Hemen ger<HIDDEN-TEXT>ta<HIDDEN-TEXT>tu zena ez da inoiz ahaztu behar.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Patrick Chester, hijo de Edward.
-	Luchó y murió por el pueblo,
-	por la libertad y por nuestro
-	futuro. Su recuerdo perdura.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Patrick Chester, Edwarden semea.
+	Herriaren alde, askatasunaren alde
+	eta gure etorkizunaren alde borrokatzeagatik
+	hil zen. Bere oroitzapenak irauten du.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>En recuerdo de los sesenta y siete
-	que murieron por la enfermedad
-	y duermen bajo el lago.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Gaixotasunaren ondorioz hil ziren
+	hirurogeita zazpi lagunen omenez eta
+	aintziraren azpian lo daude.<SEPARATORB>
 ---------------
-Tiene algo escrito, pero
-	es imposible leerlo porque
-	la superficie ha sido borrada.<SEPARATORB>
+Zerbait idatzita dauka,
+	baina ezinezkoa da irakurtzea,
+	gainazala ezabatu egin baita.<SEPARATORB>
 ---------------
-Tiene un viejo candado
-	que parece resistente.<SEPARATORB>
+Giltzarrapo zahar bat dauka,
+	gogorra dirudiena.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>libro llamado
-	“Memorias perdidas”<COLOR-WHITE>.<SEPARATORB>
+"Galdutako memoriak" izeneko liburua
+<COLOR-GREEN>“Galdutako memoriak” izeneko liburua
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
-	pueblo al que robaron sus tierras.
+<CENTER-PARAGRAPH><COLOR-BLUE> Izena bere lurrak lapurtu zizkioten
+	herriaren kondairatik dator.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
-	«El lugar de los espíritus silenciosos».
-	Por «espíritus» entendían no sólo a
-	sus familiares muertos, sino también
-	los espíritus que, según creían,
-	viven en los árboles, las rocas
-	y el agua.
+<CENTER-PARAGRAPH><COLOR-BLUE>Leku horri «Espiritu isilen lekua»
+	esaten zitzaion. «Izpiritu» gisa
+	ulertzen zituzten, hildako senideak
+	ez ezik, espirituak zuhaitzetan,
+	harkaitzetan eta uretan bizi direla
+	uste zuten ere.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aquí
-	tenían lugar las ceremonias más
-	sagradas.
+<CENTER-PARAGRAPH><COLOR-BLUE> Elezaharrak dioenez,
+	hemen izaten ziren
+	zeremoniarik sakratuenak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
-	de quienes ahora viven en esta
-	ciudad los que robaron las tierras
-	a aquel pueblo. Hubo otros
-	que llegaron antes.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina orain hiri honetan bizi
+	direnen arbasoek ez zituzten
+	herri hari lurrak lapurtu.
+	Beste batzuk lehenago iritsi
+	ziren.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad tenía
-	otro nombre... pero se ha perdido
-	en los anales de la historia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Garai hartan, hiri honek beste
+	izen bat zuen... baina historiaren
+	urtekarietan galdu da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sólo sabemos que tuvo otro
-	nombre y que, por alguna razón,
-	la ciudad fue abandonada por
-	sus habitantes.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarrik dakigu beste izen bat
+	izan zuela eta, arrazoiren
+	batengatik, hiria bertan behera
+	utzi zutela bertako biztanleek.<SEPARATORB>
 ---------------
-¡Tú!
+Zu!
 ---------------
-¿Has sido tú, no?
-	La que me pisó la mano.
+Zu izan zara, ezta?
+	Eskua zapaldu zidana.
 ---------------
-No sé...
+Ez dakit...
 ---------------
-A lo mejor...
+Agian...
 ---------------
-¿Qué hace una niña como tú
-	en un lugar como este?
+Zer egiten du zu bezalako neska
+	batek horrelako leku batean?
 ---------------
-¿Eh? ¿Estás ciego o qué te pasa?
+Eh? Itsu zaude edo zer gertatzen zaizu?
 ---------------
-¿Qué es esa carta?
+Zer da gutun hori?
 ---------------
-Nada que te importe.
+Axola zaizun ezer ez.
 ---------------
-¡Tú no amabas a Mary!
+Zuk ez zenuen Mari maite!
 ---------------
-¡Espera!
+Itxoin!
 ---------------
-¿Cómo sabes el nombre de Mary?
+Nola dakizu Mariren izena?
 ---------------
-¿Mary?
+Mari?
 ---------------
-No... No eres tú.
+Ez... Ez zara zu.
 ---------------
-¿Me parezco a tu chica?
+Zure neskaren antza al dut?
 ---------------
-No... A mi esposa fallecida.
+Ez... Nire emazte hilarena.
 ---------------
-No puedo creerlo...
+Ezin dut sinetsi...
 ---------------
-Podrías ser su hermana gemela.
-	Tu rostro, tu voz...
+Bere ahizpa bikia izan zintezke.
+	Zure aurpegia, zure ahotsa...
 ---------------
-Sólo tu pelo y tu ropa
-	son diferentes.
+Zure ilea eta arropa
+	bakarrik dira desberdinak.
 ---------------
-Me llamo... María.
+Nire izena... Mari da.
 ---------------
-No tengo aspecto de fantasma.
-	¿O sí?
+Ez dut mamu itxurarik.
+	Ala bai?
 ---------------
-¿Ves? Estoy calentita.
+Ikusten? Bero-bero nago.
 ---------------
-¿De... verdad que no eres Mary?
+Benetan ez zarela Mari?
 ---------------
-Ya te lo he dicho... Soy María.
+Esan dizut... Mari naiz.
 ---------------
-Lo siento, me he confundido.
+Barkatu, nahastu egin naiz.
 ---------------
-¿Adónde vas?
+Nora zoaz?
 ---------------
-Estoy buscando a Mary.
-	¿La has visto?
+Mariren bila nabil.
+	Ikusi al duzu?
 ---------------
-¿No has dicho que estaba muerta?
+Ez al duzu esan hilda zegoela?
 ---------------
-Ah, sí... Hace tres años.
+Ah, bai... Duela hiru urte.
 ---------------
 Pero recibí una carta suya.
 	Decía que esperaba en nuestro
 	“lugar especial”.
----------------
-¿Y era este?
----------------
-En fin, que no la he visto.
----------------
-¿Este es vuestro único
-	“lugar especial”?
----------------
-Bueno, supongo que también
-	está el hotel.
----------------
-El hotel del lago...
-	Me pregunto si seguirá en pie.
----------------
-¿El hotel Lakeview?
-	Sí, sigue ahí.
----------------
-Así que el hotel era vuestro
-	“lugar especial”, ¿eh?
----------------
-No me extraña...
----------------
-No te enfades.
-	Sólo estaba bromeando.
----------------
-Además, no se va por ahí.
-	Es por aquí.
----------------
-¿Vienes conmigo?
----------------
-¿Ibas a dejarme tirada?
----------------
-No, pero...
----------------
-¿Con todos estos monstruos?
----------------
-No, no, solo que...
----------------
-Estoy sola.
-	Aquí no queda nadie.
----------------
-Me parezco a Mary, ¿no?
-	Tú la querías, ¿no es así?
----------------
-O tal vez la odiabas...
----------------
-No digas tonterías.
----------------
-¿Entonces, algún problema?
----------------
-No, no, claro que no.
----------------
-Esperaré aquí. Odio los bolos.
----------------
-No he venido aquí a jugar, ¿sabes?
----------------
-No tardes, ¿eh?
----------------
-¿Has visto salir de aquí
-	a una niña?
----------------
-Sí, ¡iba demasiado rápido!
----------------
-¿No piensas ir a buscarla?
----------------
-Al hotel no se va por aquí.
-	¿No es cierto?
----------------
-¿Adónde vas?
----------------
-Por aquí no ha ido esa niña.
----------------
-He encontrado una <COLOR-GREEN>cañería de acero<COLOR-WHITE>.<SEPARATORB>
----------------
-He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
----------------
-He usado la <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
----------------
-He encontrado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
----------------
-He usado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
----------------
-¡Por allí!
----------------
-He cogido la <COLOR-GREEN>llave de perro<COLOR-WHITE>
-	de la caseta.<SEPARATORB>
----------------
-Aquí ya no hay nada que hacer.
-	Creo que volveré a buscar a Mary...<SEPARATORB>
----------------
-¿Has vuelto a matar a Mary?
----------------
-Esa no era Mary.
-	Mary está muerta.
----------------
-Eso era algo que...
----------------
-¿María?
----------------
-María.
----------------
-¿Qué, James?
----------------
-Quiero que...
-	Que estés conmigo...
----------------
-¿Estás seguro?
----------------
-Vamos. Salgamos de aquí.
----------------
-¿Y qué pasa con Mary?
----------------
-No te preocupes,
-	te tengo a ti.
----------------
-Tengo que encontrar a Laura.
-	No puedo dejarla sola.
 
-Además... Quizás pueda decirme
-	algo acerca de Mary.<SEPARATORB>
+Baina bere gutun bat jaso nuen.
+	Gure “leku berezian”
+	itxaroten zegoen.
 ---------------
-Una pared normal.
-	El dibujo parece hecho
-	por un niño.<SEPARATORB>
+Eta hau al zen?
 ---------------
-Sólo es basura.
-	No tiene sentido buscar por aquí.<SEPARATORB>
+Tira, ez dudala ikusi.
 ---------------
-<COLOR-BLUE>Parque Rosewater<SEPARATORB>
+Hau al da zuen
+	“leku berezi” bakarra?
 ---------------
-No hay nada dentro.<SEPARATORB>
+Beno, uste dut hotela
+	ere badela.
 ---------------
-Aquí hay un mapa.<SEPARATORB>
+Aintzirako hotela...
+	Ez dakit martxan jarraituko duen.
 ---------------
-<COLOR-BLUE>Hotel Lakeview<SEPARATORB>
+Lakeview hotela?
+	Bai, hor dago.
 ---------------
-María está muerta.
-	No pude protegerla.
+Beraz, hotela zen zuen
+	“leku berezia”, ezta?
 ---------------
-Una vez más,
-	no pude hacer nada por evitarlo.
+Ez nau harritzen...
 ---------------
-Laura se ha ido a algún sitio.
+Ez haserretu.
+	Txantxetan ari nintzen.
 ---------------
-Mary...
-	¿Qué... qué debería hacer?
+Gainera, hortik ez da.
+	Hemendik da.
 ---------------
-¿Realmente... me estás esperando
-	en algún lugar?
+Nirekin al zatoz?
 ---------------
-O es esta tu forma de...
+Botata utzi behar al ninduzun?
 ---------------
-Voy a buscar a Mary...
-	Es la única esperanza
-	que me queda.
+Ez, baina...
 ---------------
-<COLOR-BLUE>Sociedad Histórica de Silent Hill<SEPARATORB>
+Munstro hauekin guztiekin?
 ---------------
-Este puente está en ruinas.
-	No puedo llegar al hotel por aquí...<SEPARATORB>
+Ez, ez, baina...
+---------------
+Bakarrik nago.
+	Hemen ez dago inor.
+---------------
+Mariren antza dut, ezta?
+	Zuk maite zenuen, ezta?
+---------------
+Edo agian gorroto zenuen...
+---------------
+Ez esan txorakeriarik.
+---------------
+Orduan, arazoren bat?
+---------------
+Ez, noski ezetz.
+---------------
+Hemen itxarongo dut. Gorroto ditut bolatokiak.
+---------------
+Ez naiz hona jolastera etorri, bai?
+---------------
+Azkar ibili, e?
+---------------
+Ikusi al duzu neskatoren bat
+	hemendik irteten?
+---------------
+Bai, azkarregi zihoan!
+---------------
+Ez al duzu bere bila joateko asmorik?
+---------------
+Hotelera ez da hemendik joaten.
+	Ezta?
+---------------
+Nora zoaz?
+---------------
+Hemendik ez da neskato hori pasatu.
+---------------
+<COLOR-GREEN>Altzairuzko hodi bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Giltza ingelesa<COLOR-WHITE> aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Giltza ingelesa<COLOR-WHITE> erabili dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Brontzezko giltza zaharra<COLOR-WHITE> aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Brontzezko giltza zaharra<COLOR-WHITE> erabili dut.<SEPARATORB>
+---------------
+Hortik!
+---------------
+<COLOR-GREEN>Txakur-giltza<COLOR-WHITE>
+	etxolatik hartu dut.<SEPARATORB>
+---------------
+Hemen ez dago zereginik.
+	Uste dut Mariren bila itzuliko naizela...<SEPARATORB>
+---------------
+Mari berriz hil al duzu?
+---------------
+Hori ez zen Mari.
+	Mari hilda dago.
+---------------
+Hori zera, zen...
+---------------
+Mari?
+---------------
+Mari.
+---------------
+Zer, James?
+---------------
+Zera nahi dut...
+	Nirekin egotea...
+---------------
+Ziur al zaude?
+---------------
+Goazen. Goazen hemendik.
+---------------
+Eta Mari, zer?
+---------------
+Ez kezkatu,
+	zurekin nago.
+---------------
+Laura aurkitu behar dut.
+	Ezin dut bakarrik utzi.
+
+Gainera... Agian zerbait esan
+	diezadake Mariri buruz.<SEPARATORB>
+---------------
+Horma normal bat.
+	Marrazkiak ume batek
+	egina dirudi.<SEPARATORB>
+---------------
+Zaborra besterik ez da.
+	Ez du zentzurik hemen bilatzeak.<SEPARATORB>
+---------------
+<COLOR-BLUE>Rosewater parkea<SEPARATORB>
+---------------
+Barruan ez dago ezer.<SEPARATORB>
+---------------
+Hemen mapa bat dago.<SEPARATORB>
+---------------
+<COLOR-BLUE>Lakeview hotela<SEPARATORB>
+---------------
+Mari hilda dago.
+	Ezin izan nuen babestu.
+---------------
+Berriro ere,
+	ezin izan nuen ezer egin.
+---------------
+Laura norabait joan da.
+---------------
+Mari...
+	Zer egin beharko nuke?
+---------------
+Benetan...
+	nire zain al zaude nonbait?
+---------------
+Edo hau da zure modua...
+---------------
+Mariren bila noa...
+	Hori da geratzen zaidan
+	itxaropen bakarra.
+---------------
+<COLOR-BLUE>Silent Hill-eko Elkarte Historikoa<SEPARATORB>
+---------------
+Zubi hau hondatuta dago.
+	Ezin naiz hotelera iritsi hemendik...<SEPARATORB>
 ---------------
 <COLOR-BLUE>Heaven's Night<SEPARATORB>
 ---------------
-<COLOR-BLUE>Hotel Jack<SEPARATORB>
+<COLOR-BLUE>Jack hotela<SEPARATORB>
 ---------------
-<COLOR-BLUE>Bolera de Pete<SEPARATORB>
+<COLOR-BLUE>Pete-ren bolatokia<SEPARATORB>
 ---------------
-Barcas al Parque de Atracciones
-	del Lago y al hotel Lakeview<SEPARATORB>
+Lakuko jolas-parkerako eta
+	Lakeview hotelerako txalupak<SEPARATORB>
 ---------------
-Lo he copiado en mi mapa.<SEPARATORB>
+Daukadan mapan kopiatu dut.<SEPARATORB>
 ---------------
-Así que este es ese parque...
+Beraz, hau da parkea...
 ---------------
-Mary... ¿Estás aquí?
+Mari... Hemen al zaude?
