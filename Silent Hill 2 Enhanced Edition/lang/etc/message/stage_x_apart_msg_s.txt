@@ -1,41 +1,41 @@
 ﻿--------------- strings=8 language=spanish
 ---------------
-Esto debería llevarme al callejón
-	que conduce hasta el parque.
+Honek parkera daraman kalezulora
+	eraman beharko ninduke.
 
-Pero antes debería cumplir
-	la promesa que le hice a Ernest.<SEPARATORB>
----------------
-Hay algo escrito en la mesa.
 
-Está demasiado oscuro para leerlo.<SEPARATORB>
+Baina Ernesti emandako
+	hitza bete beharko nuke.<SEPARATORB>
 ---------------
-Puedo ver el apartamento contiguo
-	desde la ventana.<SEPARATORB>
----------------
-Está cerrada.
+Mahaian zerbait idatzita dago.
 
-Hay una nota pegada en la puerta.
+Ilunegi dago irakurtzeko.<SEPARATORB>
+---------------
+Leihotik ondoko apartamentua
+	ikus dezaket.<SEPARATORB>
+---------------
+Itxita dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
-	 Tengo que irme a hacer un recado.
+Ohar bat dago atean itsatsita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
-	al tío David (Ya sabes dónde
-	vive, ¿no? La llave está
-	en la habitación más cercana
-	a la escalera del primer piso).
-	
-	 Volveré en cuanto pueda;
-	cuídame la casa mientras
-	estoy fuera, por favor.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea: Mandatu bat
+	egitera joan behar naiz.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba David-i
+	utziko diot (Badakizu non biziden,
+	ezta? Giltza lehen solairuko
+	eskaileratik hurbilen dagoen gelan
+	dago). Ahal bezain laster itzuliko
+	naiz, zaindu etxea kanpoan nagoen
+	bitartean, mesedez.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mapa del edificio
-	de apartamentos<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Apartamentu-eraikinaren mapa bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado el <COLOR-GREEN>líquido blanco<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Likido zuria
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Una caja fuerte...
-	Pero no sé como abrirla.<SEPARATORB>
+Kutxa gotor bat...
+	Baina ez dakit nola ireki.<SEPARATORB>
 ---------------
-Qué repugnante...<SEPARATORB>
+Nazkagarria benetan...<SEPARATORB>
