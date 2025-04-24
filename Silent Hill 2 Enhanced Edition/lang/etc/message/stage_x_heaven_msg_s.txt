@@ -1,52 +1,53 @@
 ﻿--------------- strings=17 language=spanish
 ---------------
-Sí.
+Bai.
 ---------------
-No.
+Ez.
 ---------------
-Cuando me desperté, estaba sola.
+Esnatu nintzenean, bakarrik nengoen.
 ---------------
-No queda nadie...
-	¿Será por los monstruos?
+Ez dago inor...
+	Munstroengatik ote da?
 ---------------
-¿Y ahora que hago?
+Eta orain zer egingo dut?
 ---------------
-¿Lucho y sobrevivo...
+Borrokatu eta biziraun...
 ---------------
-o esos monstruos me atraparán?
+edo munstro horiek harrapatuko al naute?
 ---------------
-No tengo ninguna razón
-	para seguir viviendo, pero...
+Ez dut bizitzeko
+	arrazoirik, baina...
 ---------------
-Pero me asusta morir.
-	Le tengo mucho miedo al dolor.
+Baina hiltzeak beldurtzen nau.
+	Minaren beldur naiz.
 ---------------
-¿Debería... escapar?
+Ihes egin beharko nuke?
 ---------------
-Quiero encontrar a alguien.
-	No me gusta estar sola...
+Norbait aurkitu nahi dut.
+	Ez zait bakarrik egotea gustatzen...
 ---------------
-Pero... ¿queda alguien vivo?
+Baina... geratzen al da inor bizirik?
 ---------------
-He encontrado un <COLOR-GREEN>cuchillo chino<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Labana txinatar bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-¿No habrá otro arma, aparte
-	de esta pistola? No me siento
-	cómoda sólo con esto.<SEPARATORB>
+Ez al dago beste armarik
+	pistola honetaz aparte? Ez naiz eroso
+	sentitzen honekin bakarrik.<SEPARATORB>
 ---------------
-Está cerrada.
+Itxita dago.
 
-Alguien ha metido un chicle
-	en la cerradura. No puedo
-	abrirla desde este lado.<SEPARATORB>
+Norbaitek txikle bat sartu
+	du sarrailan. Ezin dut
+	alde honetatik ireki.<SEPARATORB>
 ---------------
 <COLOR-BLUE>Heaven's Night
 
-<COLOR-WHITE>El nombre de este establecimiento.<SEPARATORB>
+<COLOR-WHITE>Leku honen izena.<SEPARATORB>
 ---------------
-<TEXT-POS-120> La siguiente historia se ha escrito
-	como suplemento del juego principal.
-	 Recomendamos jugarla sólo después
-	de completar la historia principal.
-	
-	 ¿Deseas continuar?
+<TEXT-POS-120> Hurrengo istorioa jokon
+	nagusiaren gehigarri gisa idatzi da.
+	Istorio nagusia osatu
+	ondoren jokatzea
+	gomendatzen dugu.
+
+	Jarraitu nahi al duzu?
