@@ -1,9 +1,9 @@
 ﻿--------------- strings=4 language=spanish
 ---------------
-¡Ábrete!
+Ireki zaitez!
 ---------------
-¡No!
+Ez!
 ---------------
-¡James!
+James!
 ---------------
-¡María!
+Mari!
