@@ -1,11 +1,11 @@
 ﻿--------------- strings=2 language=spanish
 ---------------
-Hay una especie de placa en el suelo.
+Plaka moduko bat dago lurrean.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Amy Baldwin
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Dios la amó demasiado.
-	Siete años no eran suficientes.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jainkoak gehiegi maitatu zuen.
+	Zazpi urte ez ziren nahikoak.<SEPARATORB>
 ---------------
-<COLOR-BLUE>NO ACERCARSE
-	A LA CASA ENCANTADA<SEPARATORB>
+<COLOR-BLUE>EZ HURBILDU
+	SORGINDUTAKO ETXERA<SEPARATORB>
