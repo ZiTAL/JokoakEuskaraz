@@ -1,213 +1,211 @@
 ﻿--------------- strings=59 language=spanish
 ---------------
-¡Ah!
+Ah!
 ---------------
-¿Hay alguien ahí...?
+Norbait al dago hor...?
 ---------------
-Abre.
+Ireki.
 ---------------
-¿Hola?
+Kaixo?
 ---------------
-Basta.
-	Me estás molestando.
+Aski da.
+	Enbarazu egiten didazu.
 ---------------
-¡Ah...! Menos mal.
-	Por fin encuentro a alguien.
+Ah...! Eskerrak. Azkenean
+	norbait aurkitu dut.
 ---------------
-¿Puedes abrir la puerta?
+Atea ireki dezakezu?
 ---------------
-No.
+Ez.
 ---------------
-¿Por qué?
+Zergatik?
 ---------------
-¿Tengo que contestar
-	a tus preguntas absurdas?
+Zure galdera zentzugabeei
+	erantzun behar al diet?
 ---------------
-Sí.
+Bai.
 ---------------
-Ah, no lo sabía.
+Ah, ez nekien.
 ---------------
-Quiero estar solo.
-	La gente me molesta.
+Bakarrik egon nahi dut.
+	Jendeak gogaitu egiten nau.
 ---------------
-Sólo quería ver otro rostro humano.
+Beste giza aurpegi bat ikusi nahi nuen.
 ---------------
-¿Sabes lo que está pasando
-	en esta ciudad?
+Badakizu zer gertatzen
+	den hiri honetan?
 ---------------
-No queda nadie...
-	Sólo hay monstruos.
+Ez dago inor...
+	Munstroak baino ez daude.
 ---------------
-Sí, lo sé.
+Bai, badakit.
 ---------------
-¿Y qué?
+Eta zer?
 ---------------
-A mí me da igual.
-	Que no haya nadie aquí
-	significa que nadie me molesta.
+Niri berdin zait.
+	Hemen inor ez egoteak esan
+	nahi du inork ez nauela molestatzen.
 ---------------
-¿Quieres estar solo
-	en este manicomio?
+Bakarrik egon nahi
+	al duzu eroetxe honetan?
 ---------------
-Sí, exactamente.
+Bai, horixe.
 ---------------
-¿Cómo puedes decir que es
-	esta ciudad la que está loca?
+Nola esan dezakezu hiri
+	hau dela erotuta dagoena?
 ---------------
-Tal vez somos nosotros los locos.
+Agian gu geu gara zoroak.
 ---------------
-Tú y yo... locos de remate.
+Zu eta biok... erotuta.
 ---------------
-¿Estás contenta?
-	¿Me dejarás en paz ahora?
+Pozik al zaude?
+	Bakean utziko al nauzu orain?
 ---------------
-Me llamo... María.
-	¿Cómo te llamas tú?
+Nire izena... Mari da.
+	Zein da zure izena?
 ---------------
 Ernest.
 ---------------
-¿Hemingway?
+Hemingway?
 ---------------
 Baldwin.
 ---------------
-Ernest... Volveré.
+Ernest... Itzuliko naiz.
 ---------------
-Ernest, ¿estás ahí?
+Ernest, hor al zaude?
 ---------------
-No, parece que no...
+Ez, badirudi ezetz...
 ---------------
-He encontrado una <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka zuri bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Akaziaren giltza<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-He encontrado unas <COLOR-GREEN>cerillas<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Pospolo batzuk<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-Este calendario es de hace diez años.
-	Hace diez años... en noviembre...<SEPARATORB>
+Egutegi hau duela hamar urtekoa da.
+	Duela 10 urte... azaroan...<SEPARATORB>
 ---------------
-Hay algo debajo de la silla.
+Zerbait dago aulki azpian.
 
-¿Es una tarjeta de cumpleaños?
+Urtebetetze txartela al da?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>A MI QUERIDO PAPÁ:
-	¡FELIZ CUMPLEAÑOS!
+<CENTER-PARAGRAPH><COLOR-BLUE>AITA MAITEA:
+	ZORIONAK!
 	AMY BALDWIN<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>tarjeta de cumpleaños
-	y el regalo<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Urtebetetze txartela eta oparia<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------
-Aquí hay un libro.
-	Parece una enciclopedia de plantas.
+Hemen liburu bat dago.
+	Landareen entziklopedia dirudi.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Acacia
+<CENTER-PARAGRAPH><COLOR-BLUE>Akazia
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Género de árboles de hoja perenne
-	de la familia de las fabáceas,
-	subfamilia mimosoideae.
-	 Tiene flores pequeñas de color
-	amarillo o blanco que crecen
-	en racimos.
-	 Entre sus variedades comunes
-	se incluye el «árbol gomero».
+<CENTER-PARAGRAPH><COLOR-BLUE> Fabazeoen familiako hosto
+	iraunkorreko zuhaitzen generoa,
+	mimosoideae azpifamilia. Lore
+	hori edo zuri txikiak ditu,
+	mahats-mordoka hazten direnak.
+	Bere barietate arrunten artean
+	«goma-zuhaitza» dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El árbol de la acacia es
-	un importante símbolo en
-	muchas religiones del mundo.
-	 En el cristianismo representa
-	la vida eterna y la moralidad.
+<CENTER-PARAGRAPH><COLOR-BLUE> Akaziaren zuhaitza sinbolo
+	garrantzitsua da munduko
+	erlijio askotan.
+	Kristautasunean betiereko bizitza
+	eta moraltasuna irudikatzen ditu.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> En el antiguo Egipto representaba
-	la pureza y el renacimiento, mientras
-	que en la antigua Babilonia era
-	considerado como un símbolo de vida
-	y el árbol de la diosa Ishtar.
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako Egipton garbitasuna eta
+	berpizkundea irudikatzen zituen,
+	antzinako Babilonian Ishtar
+	jainkosaren biziaren eta
+	zuhaitzaren sinbolotzat
+	hartzen zen bitartean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Para los antiguos judíos también
-	era un árbol sagrado, quienes
-	construyeron el Arca de la Alianza
-	con madera de acacia; para ellos
-	significaba una muerte tranquila
-	y la liberación del dolor.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Antzinako juduentzat ere zuhaitz
+	sakratua zen, Aliantzaren Arka
+	akaziaren egurrez eraiki zutenak;
+	haientzat heriotza lasaia eta
+	oinazearen askapena esan nahi zuen.<SEPARATORB>
 ---------------
-Aquí hay un reloj.
+Hemen erloju bat dago.
 
-Creo que está roto.
-	Las agujas no se mueven.<SEPARATORB>
+Uste dut hautsita dagoela.
+	Orratzak ez dira mugitzen.<SEPARATORB>
 ---------------
-En el estante no hay
-	libros interesantes.<SEPARATORB>
+Apalean ez dago liburu
+	interesgarririk.<SEPARATORB>
 ---------------
-No hay nada interesante dentro
-	o encima de la chimenea.<SEPARATORB>
+Tximiniaren barruan edo gainean
+	ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-El estante está lleno de cuentos
-	de hadas y literatura infantil.
+Apalean maitagarri-ipuinak eta
+	haur-literatura daude.
 
-Estoy segura de que nunca
-	los he leído, pero me resultan
-	familiares.<SEPARATORB>
+Ziur nago ez ditudala
+	inoiz irakurri, baina
+	ezagunak egiten zaizkit.<SEPARATORB>
 ---------------
-Una cama de tamaño infantil.<SEPARATORB>
+Haurrentzako ohe bat.<SEPARATORB>
 ---------------
-Hay una muñeca sobre la silla.
+Panpina bat dago aulkian.
 
-Ahora que me fijo, está muy sucia.
+Orain begira, oso zikina dago.
 
-A quien viviese aquí
-	le debía de encantar.<SEPARATORB>
+Hemen bizi zenari
+	gustatuko zitzaion.<SEPARATORB>
 ---------------
-El estante está lleno de peluches.
-	No hay nada interesante.
+Apalean pelutxeak daude.
+	Ez dago ezer interesgarririk.
 
-Ah, aquí hay un osito.
+Ah, hemen hartz txiki bat dago.
 
-No está muy bien hecho,
-	pero es bonito.
+Ez dago oso ondo eginda,
+	baina polita da.
 
-Seguro que a Laura le gustaría.
-	La encantan los ositos.
+Ziur Laura-ri gustatuko litzaiokeela.
+	Oso gustuko dituzte hartzatxoak.
 
-¿“Laura”...?
+“Laura”...?
 
-¿De quién estoy hablando...?<SEPARATORB>
+Nori buruz ari naiz...?<SEPARATORB>
 ---------------
-Una hilera de peluches.<SEPARATORB>
+Pelutxe ilara bat.<SEPARATORB>
 ---------------
-Aquí hay una vela.<SEPARATORB>
+Hemen kandela bat dago.<SEPARATORB>
 ---------------
-No puedo ver nada.
-	Si hubiera algo de luz...<SEPARATORB>
+Ezin dut ezer ikusi.
+	Argi pixka bat balego...<SEPARATORB>
 ---------------
-La vela encendida
-	da un poco de luz.<SEPARATORB>
+Piztutako kandelak argi
+	pixka bat ematen du.<SEPARATORB>
 ---------------
-Aquí hay una caja de madera.
-	No tiene nada de especial.<SEPARATORB>
+Hemen egurrezko kutxa bat dago.
+	Ez du ezer berezirik.<SEPARATORB>
 ---------------
-Hay libros apilados en el suelo.
-	No hay nada interesante.
+Lurrean pilatutako liburuak daude.
+	Ez dago ezer interesgarririk.
 
-De todas formas, nunca me interesó
-	demasiado la literatura
-	ni la filosofía.<SEPARATORB>
+Dena den, literatura eta
+	filosofia ez zitzaizkidan
+	inoiz gehiegi interesatu.<SEPARATORB>
 ---------------
-Sólo es basura.
-	No parece que haya nada útil.<SEPARATORB>
+Zaborra besterik ez da.
+	Ez dauka ezer baliogarririk.<SEPARATORB>
 ---------------
-Un jarrón y una estatuilla
-	de un león. Ahora mismo
-	no me sirven de nada.<SEPARATORB>
+Pitxer bat eta lehoi baten
+	estatua txiki bat. Oraintxe
+	bertan ez didate ezertarako balio.<SEPARATORB>
 ---------------
-Hay cuadros en la pared.
-	Aquí no hay nada fuera
-	de lo normal.<SEPARATORB>
+Koadroak daude horman.
+	Hemen gauza normalak
+	besterik ez daude.<SEPARATORB>
 ---------------
-No puedo seguir por aquí.
-	La pared me impide el paso.<SEPARATORB>
+Ezin dut hemendik jarraitu.
+	Paretak ez dit pasatzen uzten.<SEPARATORB>
 ---------------
-Dáselo...
+Emaiozu...
 ---------------
-a mi padre...
+nire aitari...
 ---------------
-He usado una <COLOR-GREEN>cerilla<COLOR-WHITE> para encender
-	la vela.<SEPARATORB>
+<COLOR-GREEN>Pospoloa<COLOR-WHITE> erabili dut
+	kandela pizteko.<SEPARATORB>
