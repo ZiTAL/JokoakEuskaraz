@@ -1,352 +1,348 @@
 ﻿--------------- strings=109 language=spanish
 ---------------
-¿Conoces a una niña
-	que se llama Amy?
+Amy izeneko neskatorik
+	ezagutzen al duzu?
 ---------------
-¿Por qué lo preguntas?
+Zergatik galdetzen duzu?
 ---------------
-Esta carta, “A mi querido papá”...
-	la escribió una niña llamada
-	Amy Baldwin.
+Gutun hau, "Nire aita maitea",
+	Amy Baldwin izeneko neskato
+	batek idatzi zuen.
 ---------------
-¿Eres su padre?
+Bere aita al zara?
 ---------------
-Sí.
+Bai.
 ---------------
-¿Dónde la has encontrado?
+Non aurkitu duzu?
 ---------------
-En la buhardilla.
+Ganbaran.
 ---------------
 Ah...
 ---------------
-Qué estúpido...
-	Ahora... cuando ya es demasiado
-	tarde... entiendo el motivo.
+Zein inozoa...
+	Orain... beranduegi denean...
+	ulertzen dut arrazoia.
 ---------------
-Por qué ella estaba allí...
+Han zegoelako...
 ---------------
-Por qué tenía en la mano aquel
-	sobre vacío cuando... cuando cayó...
+Zergatik neukan kartazal
+	huts hura eskuan... erori zenean...
 ---------------
-Ernest, ¿Amy... no estará...?
+Ernest, Amy... ez da ba...?
 ---------------
-Lo siento.
-	Siento habértelo recordado.
+Sentitzen dut.
+	Barkatu gogoraraztea.
 ---------------
-No tienes que disculparte.
-	Tú no me lo has recordado.
+Ez duzu barkamenik eskatu behar.
+	Zuk ez didazu gogorarazi.
 ---------------
-Nunca lo olvido...
+Ez dut inoiz ahaztu...
 ---------------
-María.
+Mari.
 ---------------
-Hay cosas que olvidamos y cosas
-	que nunca podremos olvidar...
+Gauza batzuk ahazten ditugu,
+	beste batzuk aldiz, inoiz ez...
 ---------------
-Tiene gracia...
-	No sé qué es más triste.
+Grazia dauka...
+	Ez dakit zer den tristeagoa.
 ---------------
-Han pasado diez años, pero sigo...
+Hamar urte igaro dira, baina jarraitzen dut...
 ---------------
-Ernest... Lo siento.
-	No lo sabía...
+Ernest... Sentitzen dut.
+	Ez nekien...
 ---------------
-No, no importa.
+Ez, berdin dio.
 ---------------
-María, esa carta...
+Mari, gutun hori...
 ---------------
-La dejaré aquí.
+Hemen utziko dut.
 ---------------
-Gracias.
+Mila esker.
 ---------------
-¿María...?
-	Entonces, tú debes ser...
+Mari...?
+	Orduan, zu zara...
 ---------------
-Claro.
-	Por eso podías verme.
+Jakina.
+	Horregatik ikus nintzakezun.
 ---------------
-¿Eh?
+Eh?
 ---------------
-Entonces, ¿también puedo esperar
-	un milagro?
+Orduan, miraria ere
+	espero dezaket?
 ---------------
-¿De qué hablas?
+Zertaz ari zara?
 ---------------
-En los apartamentos de al lado...
-	hay una botella que contiene
-	un líquido blanco.
+Aldameneko apartamentuetan...
+	botila bat dago likido
+	zuri batekin.
 ---------------
-No sé exactamente dónde está,
-	pero sé que está ahí.
+Ez dakit zehazki non dagoen,
+	baina badakit hor dagoela.
 ---------------
-La necesito.
+Behar dut.
 ---------------
-¿Y... quieres que la busque?
+Eta... bilatzea nahi al duzu?
 ---------------
-Por favor...
+Mesedez...
 ---------------
-¿Por qué no vas a buscarla?
+Zergatik ez zoaz beraren bila?
 ---------------
-Créeme, si pudiese lo haría.
-	Pero...
+Sinetsidazu, ahal banu,
+	egingo nuke.
+	Baina...
 ---------------
-¿Blanco...?
+Zuria...?
 ---------------
-Te abriré la puerta de la escalera.
+Eskailerako atea irekiko dizut.
 ---------------
-Ernest, ¿de verdad
-	crees que funcionará?
+Ernest, benetan uste al duzu
+	funtzionatuko duela?
 ---------------
-No lo sé...
+Ez dakit...
 ---------------
-Bueno, da igual. No me importa luchar
-	por una causa imposible.
+Tira, berdin dio. Ez zait axola
+	ezinezko kausa baten
+	alde borrokatzea.
 ---------------
-Mejor eso que tirar la toalla
-	y no hacer nada.
+Hobe hori, amore eman eta
+	ezer ez egitea baino.
 ---------------
-María... Gracias.
+Mari... Mila esker.
 ---------------
-¿De verdad crees en los milagros?
+Benetan mirarietan sinesten al duzu?
 ---------------
-Esto es Silent Hill.
+Hau Silent Hill da.
 ---------------
-Ya, tal vez sea ese el problema.
+Bai, agian hori da arazoa.
 ---------------
-Oh, María... Piensas demasiado.
-	Yo soy de aquí. Esta es mi ciudad.
+O, Mari... Gehiegi pentsatzen duzu.
+	Hemengoa naiz. Hau nire hiria da.
 ---------------
-Gracias, María.
+Eskerrik asko, Mari.
 ---------------
-Es el único objeto
-	que yo no puedo obtener.
+Nik lortu ezin dudan
+	gauza bakarra da.
 ---------------
-Pero cuando me quise dar cuenta,
-	ya no podía abandonar esta casa.
+Baina konturatu nintzenean,
+	ezin nuen etxe hau utzi.
 ---------------
-He pasado tanto tiempo...
+Hainbeste denbora eta gero...
 ---------------
-Sí, pero... Bueno...
+Bai, baina... Tira...
 ---------------
-María, los dioses están aquí.
+Mari, jainkoak hemen daude.
 ---------------
-Tú también lo sabes.
-	Tu naciste en esta ciudad.
+Zuk ere badakizu.
+	Hiri honetan jaio zinen.
 ---------------
-No estoy segura de que “dios”
-	sea la palabra adecuada.
+Ez nago ziur “jainkoa”
+	hitz egokia ote den.
 ---------------
-¿Crees en el destino?
+Patuan sinesten al duzu?
 ---------------
-La verdad es que no.
+Egia esan, ez.
 ---------------
-Entonces, no importa.
+Orduan, berdin dio.
 ---------------
-Ernest, ¿puedo abrirla?
+Ernest, ireki al dezaket?
 ---------------
-Aquí no hay salida.
-	No hay nada más.
+Hemen ez dago irtenbiderik.
+	Ez dago besterik.
 ---------------
-Lo sé.
+Badakit.
 ---------------
-Bueno... ¿Y si te hubiese dicho
-	que creía en el destino?
+Tira... Eta patuan sinesten
+	nuela esan banizu?
 ---------------
-Ese James... es un hombre malo.
+James hori... gizon gaiztoa da.
 ---------------
-¿James...?
+James...?
 ---------------
-Eh... Sí... Lo sé.
+Eh... Bai... Badakit.
 ---------------
-Te está buscando,
-	pero no te busca a ti.
+Zure bila dabil,
+	baina ez dabil zu bilatzen.
 ---------------
-¿Porque es bueno...?
+Ona delako...?
 ---------------
-¿Tú... sabes algo?
+Zuk... ba al dakizu zerbait?
 ---------------
-Sí... María, eres...
+Bai... Mari, zu...
 ---------------
-Da igual, eso es lo que tú piensas.
-	Pero en realidad no sabes nada.
+Berdin dio, hori da zuk pentsatzen duzuna.
+	Baina benetan ez dakizu ezer.
 ---------------
-Da igual.
+Berdin dio.
 ---------------
-Vale.
+Ados.
 ---------------
-He encontrado el <COLOR-GREEN>mapa de la mansión<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Etxea handiaren mapa<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-La chimenea está tapiada.
-	Y tiene escrito <COLOR-BLUE>“No utilizar”<COLOR-WHITE>.<SEPARATORB>
+Tximinia itxita dago.
+Eta honako hau idatzita dauka:
+	<COLOR-BLUE>“Ez erabili”<COLOR-WHITE>.<SEPARATORB>
 ---------------
-Por alguna razón, la chimenea
-	tiene una escalera.
+Zeozengatik, tximiniak
+	eskailera bat dauka.
 
-En lo alto puedo ver
-	una especie de agujero.
+Goian zulo moduko
+	bat ikus dezaket.
 
-¿Vas a subir por la escalera?<SELECT-YES-OR-NO>
+Eskaileretan gora joango al zara?<SELECT-YES-OR-NO>
 ---------------
-¿Vas a bajar por la escalera?<SELECT-YES-OR-NO>
+Eskaileratik jaitsiko al zara?<SELECT-YES-OR-NO>
 ---------------
-Hay una hendidura cuadrada
-	en el centro de la lápida.
+Arraildura karratu bat dago
+	hilarriaren erdian.
 
-Y encima hay un epitafio
-	tallado con esmero.
+Eta gainean epitafio bat dago,
+	arreta handiz zizelkatua.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Contigo murió la alegría.
-	Todo lo que queda es desesperación
-	y un futuro de mañanas sin sentido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zurekin hil zen poza.
+	Etsipena eta zentzugabeko egunen
+	etorkizuna besterik ez da geratzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero nunca renunciaré.
-	Porque quiero volver a ver
-	tu bella sonrisa.
-	Porque quiero implorar
-	la bendición de los dioses.
-	Espero que llegue ese día.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez dut inoiz uko egingo.
+	Zure irribarre ederra ikusi nahi
+	dudalako.
+	Jainkoen bedeinkapena
+	eskatu nahi dudalako. Espero dut
+	egun hori iristea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Cuando las placas lo cubran todo,
-	toda tristeza quedará
-	también cubierta.
-	Pero hasta que mis sueños
-	se hagan realidad, tendré
-	que aguantar todo el dolor.
+<CENTER-PARAGRAPH><COLOR-BLUE>Plakek dena estaltzen dutenean,
+	tristura oro estalita geratuko da.
+	Baina nire ametsak egia bihurtu arte,
+	oinaze guztia jasan beharko dut.
 
-<COLOR-WHITE>Hay una llave firmemente
-	incrustada en la piedra,
-	por debajo de la hendidura.
+<COLOR-WHITE>Giltza bat dago harrian
+	sendo txertatuta,
+	arrailduraren azpian.
 
-<COLOR-WHITE>Haga lo que haga,
-	no puedo sacarla.<SEPARATORB>
+<COLOR-WHITE>Edozer eginda ere,
+	ezin dut atera.<SEPARATORB>
 ---------------
-Has insertado la placa.
+Plaka sartu duzu.
 
-¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+Plaka bat kenduko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Has insertado la placa.
+Plaka sartu duzu.
 
-Los agujeros abiertos en
-	las placas se superponen:
-	Todavía se ve el otro lado.
+Plaketan irekitako zuloak
+	gainjartzen dira:
+	Oraindik beste aldea ikusten da.
 
-¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+Plaka bat kenduko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Hay tres placas insertadas.<SEPARATORB>
+Hiru plaka sartuta daude.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Memorias perdidas
+<CENTER-PARAGRAPH><COLOR-BLUE>Memoria galduak
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Confío plenamente —incluso
-	podríais llamarlo fe— en el milagro
-	conocido como la «resurrección
-	de los muertos».
+<CENTER-PARAGRAPH><COLOR-BLUE>Konfiantza osoa dut —fedea ere
+	dei zeniezaiokete—
+	«hildakoen berpizkundea»
+	izenez ezagutzen den mirarian.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>La Bestia entonó su canción
-	en la colina donde la luz descendía.
-	Con palabras de sangre, gotas
-	de niebla y el vaso de la noche,
-	la tumba se convirtió en
-	un campo abierto.
+<CENTER-PARAGRAPH><COLOR-BLUE>Piztiak bere kanta abestu zuen
+	argia jaisten zen muinoan.
+	Odol hitzak, laino tantak eta
+	gaueko edalontzia erabiliz,
+	hilobia zelai ireki bihurtu zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>La gente sollozaba de temor
-	y alegría en la reunión,
-	pero mi fe en la salvación
-	de Xuchilpaba no flaqueó.
+<CENTER-PARAGRAPH><COLOR-BLUE>Jendea beldurrez eta pozez
+	zotinka ari zen bileran,
+	baina Xuchilpa-ren salbazioan
+	nuen fedea ez zen ahuldu.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>También es mencionada
-	en las antiguas leyendas.
-	Los primeros fieles no creían
-	que la muerte fuese el final,
-	sólo el camino por el que
-	los fallecidos regresaban
-	a la naturaleza.
-	También creían que el proceso
-	era reversible.
+<CENTER-PARAGRAPH><COLOR-BLUE>Antzinako elezaharretan
+	ere aipatzen da.
+	Lehen fededunek ez zuten
+	uste heriotza amaiera zenik,
+	hildakoak naturara itzultzeko
+	bidea baino.
+	Prozesua itzulgarria
+	zela ere uste zuten.
 
-<COLOR-WHITE>Hay una nota
-	al final de la página.
+<COLOR-WHITE>Orrialdearen amaieran
+	ohar bat dago.
 
-<COLOR-WHITE>¿Es de Ernest?
-	¿Qué podría significar?
+<COLOR-WHITE>Ernestena al da?
+	Zer esan nahiko du?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sangre=Rojo,
-	Niebla=Blanco,
-	Noche=Negro<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>	Odola=Gorria,
+	Behelainoa=Zuria,
+	Gaua=Beltza<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka beltz bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka gorri bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Akaziaren giltza<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-No puedo abrirla.<SEPARATORB>
+Ezin dut ireki.<SEPARATORB>
 ---------------
-La persiana está cerrada.
-	No puedo pasar por aquí.<SEPARATORB>
+Pertsiana itxita dago.
+	Ezin naiz hemendik pasatu.<SEPARATORB>
 ---------------
-Muerto...<SEPARATORB>
+Hilda...<SEPARATORB>
 ---------------
-La llave se ha soltado en cuanto
-	las tres placas quedaron superpuestas.<SEPARATORB>
+Giltza askatu egin da hiru plakak
+	bata bestearen gainean jarri bezain laster.<SEPARATORB>
 ---------------
-Quité la <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka zuria<COLOR-WHITE> kendu dut.<SEPARATORB>
 ---------------
-Quité la <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka beltza<COLOR-WHITE> kendu dut.<SEPARATORB>
 ---------------
-Quité la <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Plaka gorria<COLOR-WHITE> kendu dut.<SEPARATORB>
 ---------------
-<GLOBALYOFFSET-BOARDPUZZLE><SELECTABLE-TEXT>Insertar tal cual.<SELECTABLE-TEXT>Girar 90 grados a la derecha e insertar.<SELECTABLE-TEXT>Girar 180 grados e insertar.<SELECTABLE-TEXT>Girar 90 grados a la izquierda e insertar.<SEPARATORB>
+<GLOBALYOFFSET-BOARDPUZZLE><SELECTABLE-TEXT>Bere horretan txertatu.<SELECTABLE-TEXT>90 gradu eskuinera biratu eta sartu.<SELECTABLE-TEXT>180 gradu biratu eta txertatu.<SELECTABLE-TEXT>90 gradu ezkerrera biratu eta txertatu.<SEPARATORB>
 ---------------
-Pongo la <COLOR-GREEN>placa blanca<COLOR-WHITE> en el agujero.<SEPARATORB>
+<COLOR-GREEN>Plaka zuria<COLOR-WHITE> zuloan jarriko dut.<SEPARATORB>
 ---------------
-Pongo la <COLOR-GREEN>placa negra<COLOR-WHITE> en el agujero.<SEPARATORB>
+<COLOR-GREEN>Plaka beltza<COLOR-WHITE> zuloan jarriko dut.<SEPARATORB>
 ---------------
-Pongo la <COLOR-GREEN>placa roja<COLOR-WHITE> en el agujero.<SEPARATORB>
+<COLOR-GREEN>Plaka gorria<COLOR-WHITE> zuloan jarriko dut.<SEPARATORB>
 ---------------
-Una hilera de platos.
-	No hay nada que me interese.<SEPARATORB>
+Plater ilara.
+	Ez zait ezer interesatzen.<SEPARATORB>
 ---------------
-No hay nada dentro. Lástima...<SEPARATORB>
+Barruan ez dago ezer. Kaka zaharra...<SEPARATORB>
 ---------------
-Un cuadro de flores.<SEPARATORB>
+Loreen koadro bat.<SEPARATORB>
 ---------------
-Un bodegón.<SEPARATORB>
+Natura hila.<SEPARATORB>
 ---------------
-Un globo terráqueo.
-	No me sirve para nada.<SEPARATORB>
+Globo terrakeoa.
+	Ez dit ezertarako balio.<SEPARATORB>
 ---------------
-No hay razón para que
-	utilice el teléfono.<SEPARATORB>
+Ez dago arrazoirik
+	telefonoa erabiltzeko.<SEPARATORB>
 ---------------
-Una vitrina con platos decorativos.
-	No es que sean muy interesantes.<SEPARATORB>
+Bitrina plater apaingarriekin.
+	Ez dira oso interesgarriak.<SEPARATORB>
 ---------------
-Aquí hay un cubo y una fregona.
-	Ahora no me apetece
-	ponerme a limpiar.<SEPARATORB>
+Hemen kuboa eta lanbasa daude.
+	Orain ez dut garbitzeko gogorik.<SEPARATORB>
 ---------------
-Aquí no hay nada que pueda
-	usar ahora.<SEPARATORB>
+Hemen ez dago orain
+	erabil dezakedan ezer.<SEPARATORB>
 ---------------
-No puedo seguir por aquí.
-	La pared me corta el paso.<SEPARATORB>
+Ezin dut hemendik jarraitu.
+	Hormak bidea mozten dit.<SEPARATORB>
 ---------------
-En el estante hay ediciones
-	completas de libros
-	de aspecto sesudo.
+Apalean irakurtzeko konplexuak diren
+	liburuen edizio osoak daude.
 
-No hay nada que me interese.<SEPARATORB>
+Ez zait ezer interesatzen.<SEPARATORB>
 ---------------
-Aquí hay un reloj, pero parece
-	que ya no funciona.
+Hemen erloju bat dago,
+	baina badirudi ez dabilela.
 
-No me sirve de nada.<SEPARATORB>
+Ez dit ezertarako balio.<SEPARATORB>
 ---------------
-Hay libros sobre la mesa.
-	Ninguno parece interesante.<SEPARATORB>
+Liburuak daude mahai gainean.
+	Ez dirudite interesgarriak direnik.<SEPARATORB>
 ---------------
-El regalo de Amy para su padre,
-	Ernest. Estaba junto con
-	la tarjeta de cumpleaños.
+Amyren oparia bere aita Ernestentzat.
+	Urtebetetze txartelarekin batera zegoen.
 
-Creo que lo dejaré aquí.<SEPARATORB>
+Uste dut hemen utziko dudala.<SEPARATORB>
