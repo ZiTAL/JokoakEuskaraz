@@ -1,111 +1,111 @@
 ﻿--------------- strings=44 language=spanish
 ---------------
-No se oye nada más.<SEPARATORB>
+Ez da besterik entzuten.<SEPARATORB>
 ---------------
-Hay una muesca redonda
-	en la puerta.<SEPARATORB>
+Hozka biribil
+bat dago atean.<SEPARATORB>
 ---------------
-No puedo escapar ahora.<SEPARATORB>
+Orain ezin dut ihes egin.<SEPARATORB>
 ---------------
-Ya no lo necesito.
-	Ahora no es más que un cadáver.<SEPARATORB>
+Ez dut behar.
+	Orain gorpu bat besterik ez da.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>huevo
-	de color de orín<COLOR-WHITE>.<SEPARATORB>
+
+<COLOR-GREEN>Pixa koloreko arrautza bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>huevo escarlata<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Arrautza eskarlata<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>huevo de color
-	de orín<COLOR-WHITE> en la puerta.<SEPARATORB>
+<COLOR-GREEN>Txiza koloreko arrautza
+	<COLOR-WHITE> jarri dut atean.<SEPARATORB>
 ---------------
-He puesto el <COLOR-GREEN>huevo escarlata<COLOR-WHITE>
-	en la puerta.<SEPARATORB>
+<COLOR-GREEN>Arrautza eskarlata<COLOR-WHITE>
+	<COLOR-WHITE> jarri dut atean.<SEPARATORB>
 ---------------
-Cabeza Pirámide no se mueve.
-	Ya no tengo que preocuparme
-	más por él.<SEPARATORB>
+Piramide burua ez da mugitzen.
+	Ez naiz gehiago kezkatu behar.<SEPARATORB>
 ---------------
-¡James!
+James!
 ---------------
-¡Basta!
-	¡Dejadla en paz!
+Aski da!
+	Utzi bakean!
 ---------------
-¡Dejadnos en paz a los dos!
+Utz gaitzazue bioi bakean!
 ---------------
-Era débil.
+Ahula zen.
 ---------------
-Por eso te necesitaba...
+Horregatik behar zintudan...
 ---------------
-Necesitaba que alguien me castigase
-	por mis pecados...
+Norbaitek nire bekatuengatik
+	zigortzea behar nuen...
 ---------------
-Pero se acabó...
+Baina bukatu da...
 ---------------
-Sé toda la verdad... Ha llegado
-	el momento de poner fin a todo esto.
+Egia osoa dakit...
+	Honi guztiari amaiera
+	emateko unea iritsi da.
 ---------------
-¿Qué quieres, James?
+Zer nahi duzu, James?
 ---------------
-Eh... Te he traído unas flores...
+Eh... Loreak ekarri dizkizut...
 ---------------
-¿Flores?
-	A la mierda con las flores.
+Loreak?
+	Utikan loreak!
 ---------------
-¡Vete a casa!
+Zoaz etxera!
 ---------------
-Mary, ¿qué dices?
+Mari, zer diozu?
 ---------------
-¡Mírame! ¡Soy repugnante!
-	No me merezco ninguna flor.
+Begiratu niri! Nazkagarria naiz!
+	Ez dut lorerik merezi.
 ---------------
-Entre la enfermedad
-	y la medicación...
-	parezco un monstruo.
+Gaixotasunaren eta medikazioaren
+	artean munstroa ematen dut.
 ---------------
-¿Qué estás mirando?
+Zeri begira zaude?
 ---------------
-¡Vete a tomar por saco!
+Zoaz antzarrak ferratzera!
 ---------------
-¡Y déjame en paz!
+Eta utz nazazu bakean! SEP!
 ---------------
-No le soy útil a nadie...
-	y no tardaré en morirme.
+Ez naiz inoren onerako
+	eta laster hilko naiz.
 ---------------
-Quizás hoy, tal vez mañana...
+Agian gaur, agian bihar...
 ---------------
-Sería más fácil que me mataran.
+Errazagoa litzateke ni erailtzea.
 ---------------
-Pero, claro, el hospital
-	está sacando tajada de mí.
+Baina, jakina, ospitalea
+	nire lepotik etekina ateratzen ari da.
 ---------------
-Les interesa mantenerme viva...
+Ni bizirik mantentzea interesatzen zaie...
 ---------------
-¿Sigues aquí?
+Oraindik hemen jarraitzen al duzu?
 ---------------
-¡Te he dicho que te vayas!
-	¡¿Estás sordo o qué?!
+Joateko esan dizut
+	Gorra zara ala?
 ---------------
-¡Y no vuelvas!
+Eta ez itzuli!
 ---------------
 James...
-	Espera...
+	Itxaron...
 ---------------
-Por favor, no te vayas...
+Mesedez, ez zaitez joan...
 ---------------
-Quédate conmigo.
-	No me dejes sola.
+Geratu nirekin.
+	Ez nazazu bakarrik utzi.
 ---------------
-No lo dije en serio.
+Ez nuen benetan esan.
 ---------------
-Por favor, James...
+Mesedez, James...
 ---------------
-Dime que todo irá bien.
+Esadazu dena ondo joango dela.
 ---------------
-Dime que no me voy a morir.
+Esadazu ez naizela hilko.
 ---------------
-Ayúdame...
+Lagundu...
 ---------------
-Cabeza Pirámide
-	ha dejado de moverse.
+Piramide buruak
+	mugitzeari utzi dio.
 
-Parece que tiene algo en la mano.<SEPARATORB>
+Eskuan zerbait duela dirudi.<SEPARATORB>

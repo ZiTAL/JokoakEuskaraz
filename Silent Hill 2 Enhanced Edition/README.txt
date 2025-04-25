@@ -14,12 +14,10 @@ egoista -> berekoia
 
 Buelta bueltaka -> jira ta bira
 
-
 <HIDDEN-TEXT> beitu lerro bakotzien 2 egon bidiez
 
+gorri -> eskarlata
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_hospital_rf_f_msg_s.txt
-
-
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_to_heaven_msg_s.txt
