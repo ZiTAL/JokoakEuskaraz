@@ -1,117 +1,114 @@
 ﻿--------------- strings=95 language=spanish
 ---------------
-Aprieto el botón,
-	pero no pasa nada.<SEPARATORB>
+Botoiari ematen diot,
+	baina ez da ezer gertatzen.<SEPARATORB>
 ---------------
-Un piano normal.
-	Nada de qué preocuparse.<SEPARATORB>
+Pianoa.
+	Deus arduratzeko.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Sr. James Sunderland:
-	
-	La cinta de vídeo que se dejó
-	está guardada en la oficina
-	del primer piso.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>James Sunderland jauna:
+	Utzitako zinta
+	lehen solairuko
+	bulegoan dago.<SEPARATORB>
 ---------------
-Una caja de música.<SEPARATORB>
+Musika-kutxa bat.<SEPARATORB>
 ---------------
-¿Vas a dar cuerda
-	a la caja de música?<SELECT-YES-OR-NO>
+Musika-kutxa martxan
+	jarriko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Esto no suena bien.
+Honek ez du itxura onik.
 
-¿Está rota la caja de música?
-	O quizás...<SEPARATORB>
+Musika kutxa hautsita
+	al dago? Edo agian...<SEPARATORB>
 ---------------
-Hay una hendidura rectangular.
+Zirrikitu angelu zuzen bat dago.
 
-Tiene una placa delante
-	con una inscripción.<SEPARATORB>
+Plaka bat dauka aurrean,
+	inskripzio batekin.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Cuando regrese la extraviada,
-	la nota agria se hará dulce.<SEPARATORB>
+<COLOR-BLUE>Galdutakoa itzultzen denean,
+	nota garratza gozoa izango da.<SEPARATORB>
 ---------------
-<COLOR-BLUE>A pesar de ello, quiero seguir
-	creyendo que ella fue feliz.<SEPARATORB>
+<COLOR-BLUE>Hala eta guztiz ere,
+	zoriontsu izan zela sinesten
+	jarraitu nahi dut.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que no hablaba.<SEPARATORB>
+<COLOR-BLUE>Printzesaren eserlekua,
+	hitzik egiten ez zuena.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Fue la codicia la que tiñó
-	de sangre su zapato.<SEPARATORB>
+<COLOR-BLUE>Gutizia izan zen zapata
+	odoleztatu ziona.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que escapó a media noche.<SEPARATORB>
+<COLOR-BLUE>Gauerdian ihes egin zuen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Belleza: Bendición
-	y maldición al mismo tiempo.<SEPARATORB>
+<COLOR-BLUE>Edertasuna: bedeinkazioa
+	eta madarikazioa aldi berean.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que despertó de la muerte.<SEPARATORB>
+<COLOR-BLUE>Heriotzatik esnatu zen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
-Todavía no puedo dejar este hotel.<SEPARATORB>
+Oraindik ezin dut hotel hau utzi.<SEPARATORB>
 ---------------
-No hay nada dentro.<SEPARATORB>
+Barruan ez dago ezer.<SEPARATORB>
 ---------------
-<COLOR-BLUE>“Esperándote”...
+<COLOR-BLUE>“Zain... Zure zain”...
 
-<COLOR-WHITE>¿Qué es esto...?
+<COLOR-WHITE>Zer da hau...?
 
-Habitación 312... Es en la que
-	estuvimos Mary y yo...
+312. gela... Mari eta biok
+	egon ginena...
 
-Mary, ¿estás ahí?
-	O quizás...
+Mari, hor al zaude?
+	Edo agian...
 
-Tengo un <COLOR-GREEN>mapa del hotel
-	(para huéspedes)<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hotelaren mapa (ostalarientzat)
+	<COLOR-WHITE>daukat.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave de
-	la habitación 312 del hotel<COLOR-WHITE>.
+<COLOR-GREEN>Hoteleko 312 gelako giltza
+	<COLOR-WHITE>aurkitu dut.
 
-Es la llave de la habitación
-	donde nos alojamos Mary y yo...<SEPARATORB>
+Marik eta biok ostatu hartu
+	genuen gelako giltza da...<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mapa del hotel
-	(para empleados)<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko mapa bat(langileentzat)
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>llave
-	de las escaleras de hotel<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko eskaileretako giltza<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>cinta de vídeo<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Bideo-zinta<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>abrelatas<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>lara-irekigailua<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>caja de música
-	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Edurnezuriren musika-kutxa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del pez<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Arrainaren giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>caja de música
-	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Edurnezuriren musika-kutxa
+	<COLOR-WHITE> jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>caja de música
-	de la sirenita<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Sirenatxoaren musika-kaxa
+	<COLOR-WHITE>jarri dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>caja de música
-	de Cenicienta<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Errauskineren musika-kutxa
+	<COLOR-WHITE>jarri dut.<SEPARATORB>
 ---------------
-Hay una <COLOR-GREEN>caja de música
-	de Blancanieves<COLOR-WHITE>.
+<COLOR-GREEN>Edurnezuriren musika-kutxa
+	<COLOR-WHITE> jarri dut.
 
-¿Vas a coger
-	la caja de música?<SELECT-YES-OR-NO>
+Musika kutxa
+	hartuko al duzu?<SELECT-YES-OR-NO>
 ---------------
-Hay una <COLOR-GREEN>caja de música
-	de la sirenita<COLOR-WHITE>.
-
-¿Vas a coger
-	la caja de música?<SELECT-YES-OR-NO>
+<COLOR-GREEN>Sirenatxoaren musika-kaxa
+	<COLOR-WHITE>hartuko al duzu?.<SELECT-YES-OR-NO>
 ---------------
-Hay una <COLOR-GREEN>caja de música
-	de Cenicienta<COLOR-WHITE>.
+<COLOR-GREEN>Errauskineren musika-kutxa
+	<COLOR-WHITE>dago.
 
-¿Vas a coger
-	la caja de música?<SELECT-YES-OR-NO>
+Musika kutxa
+	hartuko al duzu?<SELECT-YES-OR-NO>
 ---------------
 ¿Te he asustado?
 ---------------
