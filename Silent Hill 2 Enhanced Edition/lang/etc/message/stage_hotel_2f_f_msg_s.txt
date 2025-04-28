@@ -1,104 +1,105 @@
 ﻿--------------- strings=32 language=spanish
 ---------------
-No necesito nada del estante.<SEPARATORB>
+Ez dut apaleko ezer behar.<SEPARATORB>
 ---------------
-Aprieto el botón,
-	pero no pasa nada.<SEPARATORB>
+Botoiari ematen diot,
+	baina ez da ezer gertatzen.<SEPARATORB>
 ---------------
-El maletín está cerrado.<SEPARATORB>
+Maletatxoa itxita dago.<SEPARATORB>
 ---------------
-No hay nada en el maletín.<SEPARATORB>
+Maletatxoan ez dago ezer.<SEPARATORB>
 ---------------
-Hay fotos esparcidas
-	por toda la cama.
+Argazkiak daude
+	ohe osoan sakabanatuta.
 
-¿Qué es esto...?<SEPARATORB>
+Zer da hau...?<SEPARATORB>
 ---------------
-Parte de la foto ha sido tachada
-	con un rotulador.<SEPARATORB>
+Argazkiaren zati bat
+	errotuladore batekin ezabatu da.<SEPARATORB>
 ---------------
-¿Qué es esto?
-	Hay un aviso sobre el botón.
+Zer da hau?
+	Abisu bat dago botoian.
 
-<COLOR-BLUE>Peso permitido: una persona<SEPARATORB>
+<COLOR-BLUE>Baimendutako pisua: pertsona bat<SEPARATORB>
 ---------------
-El estante está vacío.<SEPARATORB>
+Apala hutsik dago.<SEPARATORB>
 ---------------
-El estante está vacío.
+Apala hutsik dago.
 
-Creo que puedo almacenar
-	mis cosas aquí.
+Uste dut nire gauzak
+	hemen gorde ditzakedala.
 
-¿Vas a poner un objeto
-	en el estante?<SELECT-YES-OR-NO>
+Objektu bat jarriko
+	duzu apalean?<SELECT-YES-OR-NO>
 ---------------
-Puse: <VARIABLE-01> en el estante.<SEPARATORB>
+<VARIABLE-01> jarri dut apalean.<SEPARATORB>
 ---------------
-¿Vas a quitar todo lo que hay
-	en el estante?<SELECT-YES-OR-NO>
+Apalean dagoen guztia
+	kenduko al duzu?<SELECT-YES-OR-NO>
 ---------------
-He encontrado una <COLOR-GREEN>caja de música
-	de Cenicienta<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Errauskinerenmusika-kutxa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	de la habitación 204 del hotel<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko 204. gelako giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del ascensor
-	para empleados<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Langileen igogailuaren giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de
-	la habitación 204 del hotel<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko 204. gelako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del ascensor
-	para empleados<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Langileen igogailuko giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del pez<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Arrainaren giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He usado el <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Disolbatzailea<COLOR-WHITE>.<SEPARATORB>
 ---------------
-No hay nada interesante
-	en el libro de notas.<SEPARATORB>
+Oharren liburuan ez dago
+	ezer interesgarririk.<SEPARATORB>
 ---------------
-No oigo nada por el auricular.
-	¿Estará cortada la línea telefónica?<SEPARATORB>
+Ez dut ezer entzuten entzungailuagatik.
+	Telefono-linea moztuta egongo ote da?<SEPARATORB>
 ---------------
-No hay nada en el cajón.<SEPARATORB>
+Tiraderan ez dago ezer.<SEPARATORB>
 ---------------
-Aquí hay folletos turísticos.
-	Ahora mismo no me interesan.<SEPARATORB>
+Hemen liburuxka turistikoak daude.
+	Orain ez zaizkit interesatzen.<SEPARATORB>
 ---------------
-Un libro.
-	No parece muy útil.<SEPARATORB>
+Liburu bat.
+	"Zer da informatika? Ekaitz Zarraga"
+	Ez dirudi oso erabilgarria denik.<SEPARATORB>
 ---------------
-Hay un libro abierto
-	sobre el escritorio.
-	Parece de medicina.
+Liburu bat dago zabalik
+	idazmahaiaren gainean.
+	Medikuntzakoa dirudi.
 
-Ya he leído bastantes libros
-	de medicina. Ninguno sirvió
-	para nada.<SEPARATORB>
+Medikuntzako liburu asko
+	irakurri ditut. Batek ere ez
+	zuen ezertarako balio izan.<SEPARATORB>
 ---------------
-Aquí no hay nada
-	que parezca de utilidad.<SEPARATORB>
+Hemen ez dago ezer
+	erabilgarria dirudienik.<SEPARATORB>
 ---------------
-No hay nada interesante.<SEPARATORB>
+Ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Un cuadro de este hotel.<SEPARATORB>
+Hotel honetako koadro bat.<SEPARATORB>
 ---------------
-Un timbre.
-	No creo que vaya a aparecer nadie.<SEPARATORB>
+Txirrina.
+	Ez dut uste inor agertuko denik.<SEPARATORB>
 ---------------
-Aquí están colgadas las normas
-	para empleados. No tienen nada
-	que ver conmigo.<SEPARATORB>
+Hemen langileentzako oharrak daude jarrita.
+	Baina ez dute ezer interesgarririk esaten.<SEPARATORB>
 ---------------
-Aquí hay notas colgadas.
-	Pero no dicen nada interesante.<SEPARATORB>
+Hemen oharrak daude jarrita.
+	Baina ez dute ezer interesgarririk esaten.<SEPARATORB>
 ---------------
-La caja está vacía.<SEPARATORB>
+Kutxa hutsik dago.<SEPARATORB>
 ---------------
-Creo que puedo almacenar
-	mis cosas aquí.
+Uste dut nire gauzak
+	hemen gorde ditzakedala.
 
-¿Vas a poner un objeto
-	en el estante?<SELECT-YES-OR-NO>
+Objekturen bat jarriko
+	al duzu apalean?<SELECT-YES-OR-NO>
