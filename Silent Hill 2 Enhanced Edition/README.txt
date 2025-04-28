@@ -16,7 +16,7 @@ Buelta bueltaka -> jira ta bira
 
 <HIDDEN-TEXT> beitu lerro bakotzien 2 egon bidiez
 
-gorri -> eskarlata
+gorri -> eskarlata -> gorrimin
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_hotel_1f_f_msg_s
 

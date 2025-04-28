@@ -1,76 +1,74 @@
 ﻿--------------- strings=16 language=spanish
 ---------------
-No se oye nada más.<SEPARATORB>
+Ez da beste ezer entzuten.<SEPARATORB>
 ---------------
-El título es “Ceremonia del Ser Carmesí”.
+Izenburua “Izaki Gorriminaren zeremonia” da.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
-	Yo soy el Carmesí.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hitz egin.
+	Ni Gorrimina naiz.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
-	no son tales, sino yo.
-	Todos sabéis que yo soy Él.
-	Sí, y Él soy yo.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gezurrak eta lainoak ez dira
+	horrelakoak, ni baizik.
+	Denok dakizue ni Bera naizela.
+	Bai, eta bera ni naiz.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¡Creyentes, escuchadme!
-	Veinte veintenas de hombres
-	y siete mil bestias.
-	Escuchad aquestas palabras
-	y contadlas a los demás para
-	que siempre sean obedecidas,
-	incluso bajo la luz del orgulloso
-	y cruel sol.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Fededunak, entzun! Laurehun
+	gizon etazazpi mila piztia.
+	Entzun hitz hauek etakontatu
+	besteeibeti obedituak izan
+	daitezen,baita eguzki
+	harro eta krudelaren
+	argipean ere.	
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviaré una amarga venganza
-	y sufriréis mi eterna ira.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mendeku mingotsa bidaliko dizuet
+	eta nire betiko haserrea pairatuko duzue.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
-	y el último aliento del moribundo,
-	aquestas son mis bendiciones.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lore zimelduaren edertasuna eta
+	hilzorian dagoenaren azken arnasa
+	dira	nire bedeinkazioak.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocaréis a mí
-	y a todo lo que soy en el lugar
-	que es silencioso.
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Zuk beti eskatuko didazu
+	niri eta naizen guztiari
+	isila den lekuan.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
-	que vuela hacia el corazón.
-	Oh, copa rebosante
-	del vino más blanco,
-	en vos es donde todo empieza.<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>O, bihotzerantz hegan doan
+	bizitzaren esentzia harroa.
+	O, ardo zurienaz betetako kopa,
+	zugan hasten da dena.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>libro llamado
-	“Ceremonia del Ser Carmesí”<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>“Izaki Gorriminaren zeremonia”
+	<COLOR-WHITE>izeneko liburua aurkitu dut.<SEPARATORB>
 ---------------
-¿Mary va a morir...?
-	Eh... Tiene que ser una broma...
+Mari hil egingo dela...?
+	Eh... Txantxa izan behar du...
 ---------------
-Lo siento de veras.
+Benetan sentitzen dut.
 ---------------
-Pero usted es médico.
-	¡Su trabajo es curar gente!
+Baina zu medikua zara.
+	Zure lana jendea sendatzea da!
 ---------------
-¡¿Cómo puede dejarla morir?!
+Nola utz dezakezu hiltzen?
 ---------------
-Por favor, tranquilícese.
+Mesedez, lasaitu.
 ---------------
-Como médico, prometo hacer
-	todo lo que esté en mi mano.
+Mediku gisa, nire esku dagoen
+	guztia egingo dut.
 ---------------
-Pero... no hay un tratamiento eficaz
-	para su enfermedad.
+Baina... ez dago tratamendu
+	eraginkorrik gaixotasun horrentzat.
 ---------------
-¿Cuánto tiempo le queda?
+Zenbat denbora geratzen zaizu?
 ---------------
-Me temo que no estoy seguro...
+Ez nago ziur...
 ---------------
-Como máximo tres años.
-	Puede que seis meses...
+Hiru urte, gehienez.
+	Sei hilabete... batek daki...
 ---------------
-Es imposible saberlo a ciencia cierta.
+Ezinezkoa da jakitea.
 ---------------
-Aquí hay un libro.
-	No parece que vaya a servir
-	de nada en particular.<SEPARATORB>
+Hemen liburu bat dago.
+	Ez dirudi ezertarako
+	balioko didanik.<SEPARATORB>
 ---------------
-Aquí hay folletos turísticos.
-	Ahora mismo no me interesan.<SEPARATORB>
+Hemen liburuxka turistikoak daude.
+	Orain ez zaizkit interesatzen.<SEPARATORB>
