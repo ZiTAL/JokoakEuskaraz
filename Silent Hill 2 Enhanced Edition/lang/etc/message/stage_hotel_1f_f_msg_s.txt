@@ -111,230 +111,229 @@ Musika kutxa
 	hartuko al duzu?<SELECT-YES-OR-NO>
 ---------------
 ¿Te he asustado?
+Izutu egin al zaitut?
 ---------------
-Sí, la verdad.
+Ba... bai, egia esan bai.
 ---------------
-Has venido a encontrar a Mary,
-	¿no, James?
+Mariren bila zara,
+	ezta, James?
 ---------------
-¿Lo has conseguido?
+Lortu al duzu?
 ---------------
-No... ¿tú también has venido
-	por ella?
+Ez... zu ere etorri zara
+	haren bila?
 ---------------
-Está aquí, ¿no?
+Hemen dago, ezta?
 ---------------
-¡Si sabes dónde está, dímelo!
+Non dagoen baldin badakizu, esadazu!
 ---------------
-Estoy harta de andar.
+Ibiltzeaz nazkatuta nago.
 ---------------
-Ojalá lo supiera...
+Jakingo banu...
 ---------------
-Pero si lo dijo en su carta...
+Baina gutunean idatzi bazenuen...
 ---------------
-¿¡Qué carta!?
+Zer gutun?
 ---------------
-¿Quieres leerla?
+Irakurri nahi al duzu?
 ---------------
-Pero no se lo digas a Rachel, eh.
+Baina ez esan Racheli, e.
 ---------------
-¿Quién es Rachel?
+Nor da Rachel?
 ---------------
-Nuestra enfermera.
+Gure erizaina.
 ---------------
-Cojí la carta de su cajón.
+Gutuna bere tiraderatik hartu nuen.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
-	
-	Le dejo esta carta a Rachel
-	para que te la dé cuando
-	yo me haya ido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
-	En un lugar bello y tranquilo.
+	Gutun hau Rachel-i uzten diot,
+	ni joandakoan eman diezaiozun.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perdóname
-	por no haberme despedido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Orain oso urrun nago.
+	Leku eder eta lasai batean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Cuídate, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Mesedez, barkatu
+	agur ez esateagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Laura.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
-	Sé que lo odias porque piensas
-	que no me trata bien, pero,
-	por favor, dale una oportunidad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
-	cascarrabias y que no se ríe mucho.
-	Pero en el fondo es una buena persona.
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, James-i dagokionez...
+	Badakit gorroto duzula uste
+	duzulako ez nauela ondo tratatzen
+	baina, mesedez, eman aukera bat.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Egia da batzuetan kaskagogor
+	samarra dela eta ez duela
+	barre askorik egiten.
+	Baina, funtsean, pertsona ona da.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Laura...
-	Te quiero como si fueras
-	mi propia hija.
+	Nire alaba bazina
+	bezala maite zaitut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
-	de otra forma, te habría adoptado.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gauzak beste era batera izan balira,
+	adoptatu egingo zintuzkedan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.º cumpleaños, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urebetetzean, Laura.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
-	Mary<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna,
+	Mari<SEPARATORB>
 ---------------
-Laura... ¿cuántos años tienes?
+Laura... zenbat urte dituzu?
 ---------------
-Mmm... Cumplí ocho la semana pasada.
+Mmm... Zortzi urte bete nituen joan den astean.
 ---------------
-Entonces Mary no pudo haber
-	muerto... hace tres años...
+Orduan Mari ezin izan zen hil...
+	duela hiru urte...
 ---------------
-¿De verdad está aquí?
+Benetan hemen al dago?
 ---------------
-¿Es este el lugar bello y tranquilo
-	al que se refería?
+Hau al da aipatu duzun
+	leku eder eta lasaia?
 ---------------
-Mary y yo hablamos mucho
-	de Silent Hill.
+Marik eta biok asko hitz egin
+	genuen Silent Hill-i buruz.
 ---------------
-Hasta me enseñó todas sus fotos.
-	Estaba como loca por volver.
+Bere argazki guztiak ere erakutsi zizkidan.
+	Itzultzeko irrikitan.
 ---------------
-Por eso he venido aquí.
+Horregatik etorri naiz hona.
 ---------------
-Quizás lo entenderás
-	cuando veas la otra carta...
+Agian ulertuko duzu
+	beste gutuna irakurtzean...
 ---------------
-La que Mary... ¿Eh?
+Marik... Eh?
 ---------------
-¡Se me habrá caído!
+Erori egingo zitzaidan!
 ---------------
 Laura...
 ---------------
-¡Tengo que encontrarla!
+Aurkitu behar dut!
 ---------------
-¡Laura!
+Laura!
 ---------------
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 
-Tiene una placa delante
-	con una inscripción.<SEPARATORB>
+Plaka bat dauka aurrean,
+	inskripzio bat du.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que no hablaba.<SEPARATORB>
+<COLOR-BLUE>Printzesaren eserlekua,
+	hitzik egiten ez zuena.<SEPARATORB>
 ---------------
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 
-Tiene una placa delante
-	con una inscripción.<SEPARATORB>
+Plaka bat dauka aurrean,
+	inskripzio bat du.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que escapó a media noche.<SEPARATORB>
+<COLOR-BLUE>Gauerdian ihes egin zuen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
-Hay una hendidura rectangular.
+Zirrikitu angeluzuzen bat dago.
 
-Tiene una placa delante
-	con una inscripción.<SEPARATORB>
+Plaka bat dauka aurrean,
+	inskripzio bat du.<SEPARATORB>
 ---------------
-<COLOR-BLUE>El asiento de la princesa
-	que despertó de la muerte.<SEPARATORB>
+<COLOR-BLUE>Heriotzatik esnatu zen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
-Hay un abrelatas
-	bajo la cinta de vídeo.<SEPARATORB>
+Lata-irekigailua dago
+	bideo-zintaren azpian.<SEPARATORB>
 ---------------
-Un piano.
+Pianoa.
 
-Recuerdo que a Mary le gustaba
-	mucho tocar el piano.
+Gogoan dut Marik oso gogoko
+	zuela pianoa jotzea.
 
-No se le daba muy bien...
+Ez zen oso ona...
 
-pero a mí me encantaba
-	escucharla tocar.
+baina niri asko gustatzen
+	zitzaidan jotzen entzutea.
 
-De eso hace ya mucho tiempo,
-	antes incluso de casarnos.
-	¿Por qué pienso en esto ahora...?<SEPARATORB>
+Hori aspaldi gertatu zen,
+	ezkondu aurretik.
+	Zergatik pentsatzen dut orain honetaz...?<SEPARATORB>
 ---------------
-Un plato vacío, un cuchillo,
-	un tenedor y ya está.
-	No hay nada interesante.<SEPARATORB>
+Plater huts bat, labana bat,
+	sardexka bat eta kito.
+	Ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Un dibujo hecho por Laura...
-	¿Es un gato?<SEPARATORB>
+Laurak egindako marrazki bat...
+	Katu bat al da?<SEPARATORB>
 ---------------
-Hay una caja de música
-	de disco.
+Disko-musika kutxa bat dago.
 
-Parece que tiene algo escrito
-	delante, pero está demasiado
-	oscuro para verlo.<SEPARATORB>
+Badirudi zerbait idatzita
+	duela aurrean, baina ilunegi
+	dago ikusteko.<SEPARATORB>
 ---------------
-Un timbre.
-	No creo que vaya a aparecer nadie.<SEPARATORB>
+Txirrina.
+	Ez dut uste inor agertuko denik.<SEPARATORB>
 ---------------
-Aquí no hay nada
-	que parezca de utilidad.<SEPARATORB>
+hemen ez dago baliagarria
+	dirudien ezer.<SEPARATORB>
 ---------------
-Parece que el teléfono está roto.<SEPARATORB>
+Telefonoa hautsita dagoela dirudi.<SEPARATORB>
 ---------------
-No hay más llaves.<SEPARATORB>
+Ez dago giltza gehiago.<SEPARATORB>
 ---------------
-Un cuadro.
-	No tiene nada especial.<SEPARATORB>
+Koadro bat.
+	Ez du ezer berezirik.<SEPARATORB>
 ---------------
-No hay nada interesante
-	en el estante.<SEPARATORB>
+Ez dago ezer
+	interesgarririk apalean.<SEPARATORB>
 ---------------
-La cerradura está rota.
-	No puedo abrirla.<SEPARATORB>
+Sarraila hautsita dago.
+	Ezin dut ireki.<SEPARATORB>
 ---------------
-No hay nada interesante
-	en los documentos del escritorio.<SEPARATORB>
+Idazmahaiko dokumentuetan ez dago
+	ezer interesgarririk.<SEPARATORB>
 ---------------
-Aquí hay patatas y cebollas.
-	Huelen un poco a podrido.<SEPARATORB>
+Hemen patatak eta tipulak daude.
+	Ustel kiratsa darie.<SEPARATORB>
 ---------------
-Manzanas y calabazas.<SEPARATORB>
+Sagarrak eta kalabazak.<SEPARATORB>
 ---------------
-Una hilera de latas de fruta.
-	Ya llevarán un tiempo caducadas.<SEPARATORB>
+Fruta lata ilara.
+	Denbora daramate iraungita.<SEPARATORB>
 ---------------
-Aquí hay bolsitas de té y galletitas.
-	Están caducadas.<SEPARATORB>
+Hemen te poltsatxoak eta galletak daude.
+	Iraungita daude.<SEPARATORB>
 ---------------
-Una hilera de latas de zumo.
-	No hay razón para llevármelas.<SEPARATORB>
+Zuku laten ilara.
+	Ez dago arrazoirik eramateko.<SEPARATORB>
 ---------------
-Aquí hay latas de sopa.
-	Creo que aún no se han pasado,
-	pero no tengo hambre.<SEPARATORB>
+Hemen zopa-latak daude.
+	Uste dut ez daudela iraungita,
+	baina ez naiz gose.<SEPARATORB>
 ---------------
-Aquí no hay nada.
-	Pero desprende un ligero
-	olor a moho.<SEPARATORB>
+Hemen ez dago ezer.
+	Baina lizun-usaina dario.<SEPARATORB>
 ---------------
-Aquí hay un reloj registrador.
-	El reloj no funciona,
-	supongo que estará roto.<SEPARATORB>
+hemen erloju erregistratzaile bat dago.
+	Erlojua ez dabil.
+	Apurtuta egongo da.<SEPARATORB>
 ---------------
-Aquí no hay nada interesante.<SEPARATORB>
+Hemen ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Un hornillo.
+Labetxo bat.
 
-Por detrás hay algo escrito
-	en letra pequeña:
-	<COLOR-BLUE>“Soy Johnny y estoy calentito”.<COLOR-WHITE><SEPARATORB>
+Atzean, letra txikiz idatzitako
+	zerbait dago:
+	<COLOR-BLUE>“Johnny naiz eta bero nago”.<COLOR-WHITE><SEPARATORB>
 ---------------
-Aquí hay un calendario.
-	Es del año pasado.<SEPARATORB>
+Hemen egutegi bat dago.
+	Iazkoa da.<SEPARATORB>
 ---------------
-La persiana está cerrada.<SEPARATORB>
+Pertsiana itxita dago.<SEPARATORB>
 ---------------
-Una caja de cartón.
-	No hay nada dentro.<SEPARATORB>
+Kartoizko kaxa bat.
+	Barruan ez dago ezer.<SEPARATORB>
 ---------------
-Papel higiénico...
-	Ahora no lo necesito.<SEPARATORB>
+Komuneko papera...
+	Orain ez dut behar.<SEPARATORB>
 ---------------
-Un carrito de lavandería.
-	No hay nada útil dentro.<SEPARATORB>
+Garbitegiko kotxetxo bat.
+	Barruan ez dago ezer baliogarririk.<SEPARATORB>
