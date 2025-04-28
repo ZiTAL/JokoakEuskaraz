@@ -18,6 +18,8 @@ Buelta bueltaka -> jira ta bira
 
 gorri -> eskarlata -> gorrimin
 
+veitena -> hogei -> 400 gizon
+
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_hotel_2f_f_msg_s.txt
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_to_heaven_msg_s.txt
