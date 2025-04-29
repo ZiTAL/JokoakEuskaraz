@@ -145,7 +145,7 @@ Orduan, zer nahi duzu?
 {
 [8000]
 Ah, ikusten dut,
-jatorrarenaegiten ari da, ezta?
+jatorrarena egiten ari da, ezta?
 [ffff]
 [8000]
 }

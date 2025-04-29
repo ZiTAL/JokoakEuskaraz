@@ -1,286 +1,285 @@
 ﻿--------------- strings=38 language=spanish
 ---------------
-<COLOR-BLUE>Este hombre fue colgado
-	por asesinato. La justicia
-	y la venganza se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau hilketagatik
+	urkatu zuten. Justizia
+	eta mendekua bete dira.
+	<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado por robo.
-	La justicia y la venganza
-	se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau lapurretagatik
+	urkatu zuten. Justizia eta
+	mendekua bete dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado por rapto.
-	La justicia y la venganza
-	se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau bahitu
+	egin zuten. Justizia eta
+	mendekua bete dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado por estafa.
-	La justicia y la venganza
-	se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau iruzurragatik
+	urkatu zuten. Justizia eta
+	mendekua bete dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado
-	por desfalco. La justicia
-	y la venganza se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau diru-lapurretagatik
+	urkatu zuten. Justizia eta
+	mendekua bete egin dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado
-	por agresión con lesiones corporales.
+<COLOR-BLUE>Gizon hori gorputzeko
+	lesioak sortzeagatik urkatu zuten.
 
-<COLOR-BLUE>La justicia y la venganza
-	se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Justizia eta mendekua
+	bete dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado
-	por falsificación. La justicia
-	y la venganza se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hau faltsifikatzeagatik
+	urkatu zuten. Justizia eta
+	mendekua bete dira.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Este hombre fue colgado
-	por incendio provocado. La justicia
-	y la venganza se han cumplido.<SEPARATORB>
+<COLOR-BLUE>Gizon hori urkatu egin zuten
+	eragindako sutearen ondorioz.
+	Justizia eta mendekua bete dira.<SEPARATORB>
 ---------------
-Su cara está cubierta con un papel.
-	Hay algo escrito.<SEPARATORB>
+Bere aurpegia paper batekin estalita dago.
+	Zerbait idatzita dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Él cometió un crimen diabólico.
-	Redujo un hogar feliz
-	a un montón de cenizas.
-	Por eso debería morir.
+<CENTER-PARAGRAPH><COLOR-BLUE>Deabruak berak egingo zuen krimena egin zuen.
+	Etxe zoriontsu bat errauts
+	pila batera murriztu zuen.
+	Horregatik hil beharko luke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ellos también
-	cometieron crímenes.
-	Trataron de estafar
-	y engañar a otros.
-	Así que su recompensa
-	también es la más lógica.
+<CENTER-PARAGRAPH><COLOR-BLUE>Haiek ere krimenak
+	egin zituzten.
+	Besteak engainatzen
+	saiatu ziren.
+	Beraz, saria
+	logikoena da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Ese tampoco se merece el perdón,
-	a mi amigo le falta la mano izquierda.
-	Por eso su muerte no me importa.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horrek ere ez du barkamenik merezi,
+	nire lagunari ezkerreko eskua falta zaio.
+	Horregatik ez dit axola haren heriotzak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>¿Y qué decir de él?
-	Tampoco está libre de pecado.
-	Aquí sólo hay uno
-	que es inocente.
+<CENTER-PARAGRAPH><COLOR-BLUE>Eta zer esan berari buruz?
+	Bera ere ez da bekatutik libratzen.
+	Hemen errugabea den bakarra dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>El niño perdido no
-	apareció por ninguna parte,
-	así que no hubo pruebas
-	de su culpabilidad.
-	Su muerte fue una tragedia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Galdutako haurra ez zen
+	inon agertu, eta, beraz,
+	ez zen bere erruduntasunaren
+	frogarik izan. Bere heriotza
+	tragedia bat izan zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Eso es todo lo que quiero decir.
-	No fue ni justicia ni castigo.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Hori da esan nahi dudan guztia.
+	Ez zen ez justizia ez zigorra izan.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
-	muertos y colgados del revés
-	¿Cuántos hombres muertos ves?
-	La lengua azul, plumas y brea
-	El muerto gira y se balancea
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gizon hilak, gizon hilak eta
+	alderantziz eskegita
+	Zenbat gizon hil dira?
+	Mingain urdina, lumak eta brea
+	Hildakoak bira eta kulunka
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El primero mató al carnicero
-	Lo descuartizó sobre un puchero
-	Más tarde lo cocinó
-	Y a sus invitados se lo ofreció
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lehenengoak harakina hil zuen
+	Lapiko baten gainean zatitu zuen
+	Eta gero kozinatu
+	Eta gonbidatuei eskaini zien
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El segundo con engaños
-	A pobres niños raptó
-	Y a los hombres repugnantes
-	como esclavos los vendió
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Bigarrenak engainuekin
+	Ume gaixoak bahitu zituen,
+	Eta gizon nazkagarriak
+	esklabo gisa saldu zituen.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Entrando de noche a hurtadillas
-	El ladrón no vió las trampillas
-	Y llena de alcohol su cabeza
-	Despertó de mañana entre rejas
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gauez ezkutuan sartu zenean,
+	Lapurrak ez zituen tranpatxoak ikusi
+	Eta mozkortu goizean burdin
+	hesien artean esnatu zen
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El falsificador avezado
-	Quiso pagar al contado
-	Probó suerte pintando billetes
-	Pero acabó entre grilletes
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Faltsifikatzaile trebeak
+	Eskura ordaindu nahian
+	Billeteak margotzen saiatu
+	Baina girgilu artean amaitu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Con ansias de gran beneficio
-	Robó el oro de un edificio
-	Lo envolvió y ocultó a la vista
-	Pero nadie encontró su pista
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Etekin handiko irrikaz
+	Eraikin batetik urrea lapurtu
+	Bildu eta begien bistan ezkutatu
+	Baina inork ez zuen haren arrastorik aurkitu
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres casas ardieron de noche
-	El sheriff recibió un reproche
-	A un forastero echó el ojo
-	Lo encerró, pateó y dejo cojo
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hiru etxe erre ziren gauez
+	Sheriff-ak errieta jaso
+	Kanpotar bati begia bota
+	Giltzapetu, ostikoka hasi eta herren utzi
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
-	muertos y colgados del revés
-	¿Cuántos hombres muertos ves?
-	Los seis fueron al mismo lugar
-	Una cuerda que les va a ahorcar<SEPARATORB>
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gizon hilak, gizon hilak eta
+	alderantziz eskegita,
+	Zenbat gizon hildako ikusten dituzu?
+	Seiak leku berera joan
+	Urkatuko dituen soka batera<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir.
-	
-	 Pero mañana subiré al patíbulo.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez dut hil nahi.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Por favor, que alguien me responda,
-	¿por qué debo morir al amanecer?
+	Baina bihar urkamendira igoko naiz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El prisionero que tengo al lado
-	me cree. Dijo: "Porque están
-	todos locos, y ya está".
-	
-	 Por supuesto, sé que su opinión
-	no cambiará nada. Murmuró:
-	"Ahora sabes por qué les di
-	una paliza".
+<CENTER-PARAGRAPH><COLOR-BLUE> Mesedez, norbaitek erantzun diezadala,
+	Zergatik hil behar dut egunsentian?
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El hombre que ejecutaron ayer,
-	el que había dicho que su trabajo
-	era vender sueños, dijo que eso
-	no era verdad.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ondoan dudan presoak sinesten dit.
+	Esan zuen:
+	"Denak erotuta daudelako, eta kito".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Pero el que ejecutarán
-	pasado mañana por raptar niños
-	le gritó que sí era verdad.
+	Badakit zure iritziak ez duela
+	ezer aldatuko. Xuxurlatu zuen:
+	"Orain badakizu zergatik eman
+	nien jipoia".
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El hombre al que colgaron hoy
-	no les contestó. Solo dijo:
-	"Me matarán de todas formas".
-	Lo arrestaron por malversación,
-	así que que no espera clemencia.
+<CENTER-PARAGRAPH><COLOR-BLUE> Atzo hil zuten gizonak,
+	bere lana ametsak saltzea
+	zela esan zuenak, esan zuen
+	hori ez zela egia.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> El que siempre sonríe
-	tranquilamente dijo: "Yo soy feliz,
-	pronto estaré con ella".
+<CENTER-PARAGRAPH><COLOR-BLUE> Baina etzi haurrak
+	bahitzeagatik  exekutatuko
+	dutenak egia zela oihukatu zion.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir. Sólo quiero
-	volver a casa. Pero sé que no
-	lo haré. Aunque no haya hecho
-	nada, este crimen me lo han
-	achacado a mí.
+<CENTER-PARAGRAPH><COLOR-BLUE> Gaur urkatu duten gizonak ez die
+	erantzun. "Dena dela, hil egingo naute",
+	esan zuen. Dirua bidegabe erabiltzeagatik
+	atxilotu zuten, beraz, ez du errukirik
+	espero.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Que alguien me salve.
-	Esto no es un castigo.
-	¡Están sedientos de sangre
-	y yo soy el cordero a sacrificar!<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Beti lasai irribarre egiten
+	duenak esan zuen: "Zoriontsua naiz,
+	laster izango naiz berarekin".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez dut hil nahi. Etxera
+	itzuli nahi dut. Baina
+	badakit ez dudala egingo.
+	Ezer egin ez badut ere, krimen
+	hau niri egotzi didate.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Norbaitek salba nazala.
+	Hau ez da zigorra.
+	Odolaren egarriz daude eta
+	ni naiz sakrifikatu beharreko arkumea!<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Podemos asignar la muerte
-	sobre la cabeza del pecador,
-	pero, ¿para qué?
+<CENTER-PARAGRAPH><COLOR-BLUE>Heriotza bekatariaren errua dela
+	esan dezakegu,
+	baina zertarako?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Hoy, en nombre del castigo,
-	formamos parte de una
-	amarga comedia.
+<CENTER-PARAGRAPH><COLOR-BLUE>Gaur, zigorraren izenean,
+	komedia mingots baten
+	parte gara.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tú, el colgado por el cuello,
-	no tuviste nuestro perdón,
-	sino nuestras maldiciones.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zuk, lepotik zintzilik,
+	ez zenuen gure barkamena izan,
+	gure madarikazioak baizik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Cinco de ellos cometieron
-	crímenes, seis salieron a beber
-	y fueron capturados.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horietako bostek krimenak
+	egin zituzten, sei edatera
+	irten eta harrapatu zituzten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Sólo uno era inocente,
-	pero ellos no lo sabían.
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarra zen errugabea,
+	baina haiek ez zekiten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Las manchas de sangre que quedan
-	son prueba de su culpabilidad.
-	Estos trillados caminos son los que
-	llevan al infierno o al vacío.
+<CENTER-PARAGRAPH><COLOR-BLUE>Geratzen diren odol orbanak
+	erruduntasunaren froga dira.
+	Bide trillatu horiek dira
+	infernura edo hutsera daramatenak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Las vendas blancas
-	manchadas de rojo,
-	Los restos sobre
-	la tierra quemada,
-	Los llantos susurrados
-	de la doncella.
-	Sus contratos
-	sin ningún sentido.
+<CENTER-PARAGRAPH><COLOR-BLUE>Benda zuriak
+	gorriz zikinduak,
+	Hondarrak lur
+	errearen gainean,
+	Dontzeilaren negar
+	xuxurlatuak.
+	Zentzugabeko
+	kontratuak.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Estos también son
-	signos de culpabilidad.
+<CENTER-PARAGRAPH><COLOR-BLUE>Horiek ere
+	erruduntasun-zantzuak dira.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero uno de ellos fue
-	ajusticiado sin razón.
-	Lo mataron por temor
-	y una imaginación
-	desbocada.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina haietako bat
+	arrazoirik gabe hil
+	zuten. Beldurragatik eta irudimen
+	hutsagatik hil zuten.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Solo, al final de una cuerda,
-	no es nada menos que una
-	desgracia para todos.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bakarrik, soka baten
+	amaieran, ez da ezbehar
+	bat baino gutxiago denontzat.<SEPARATORB>
 ---------------
-Del techo cuelga una soga.
+Sabaitik soka bat zintzilik dago.
 
-¿Vas a tirar de ella?<SELECT-YES-OR-NO>
+Sokatik tira egingo al duzu?<SELECT-YES-OR-NO>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Sólo el que está libre
-	de pecado te puede ayudar.
-	Tira por error de la cuerda
-	de un criminal y tu recompensa
-	te será otorgada en la forma
-	más extrañamente extraordinaria.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bekaturik gabe dagoenak
+	bakarrik lagun diezazuke.
+	Tiratu gaizkile baten
+	sokatik eta zure saria modu
+	harrigarrienean emango zaizu.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Pero ten cuidado sin embargo
-	del castigo enviado<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina kontuz, hala ere,
+	bidalitako zigorrarekin.<SEPARATORB>
 ---------------
-No hay razón para volver
-	a tirar de esto.<SEPARATORB>
+Ez dago arrazoirik soka
+	berriz erabiltzeko.<SEPARATORB>
 ---------------
-No podré girar la manivela
-	hasta que quite las esposas.<SEPARATORB>
+Ezin izango dut biradera biratu
+	eskuburdinak kendu arte.<SEPARATORB>
 ---------------
-Hay un nombre inscrito en la lápida.
+Izen bat dago idatzita hilarrian.
 
 <COLOR-BLUE>Eddie Dombrowski<SEPARATORB>
 ---------------
-Hay un nombre inscrito en la lápida.
+Izen bat dago idatzita hilarrian.
 
 <COLOR-BLUE>Angela Orosco<SEPARATORB>
 ---------------
-Hay un nombre inscrito en la lápida.
+Izen bat dago idatzita hilarrian.
 
 <COLOR-BLUE>James Sunderland<SEPARATORB>
 ---------------
-¿María?
+Mari?
 ---------------
-¿María...?
+Mari...?
 ---------------
-María, no...
+Mari, ez...
 ---------------
-¿Qué te ha pasado?
+Zer gertatu zaizu?
 ---------------
-¿Por qué...? ¿Por qué...?
+Zergatik...? Zergatik...?
 ---------------
-Mary...
+Mari...
 ---------------
-En esta habitación no queda
-	nada para mí...<SEPARATORB>
+Dagoeneko gela honetan ez da
+	niretzat ezer geratzen...<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave
-	del falso acusado<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Akusatu faltsuaren giltza
+	<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del falso acusado<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Akusatu faltsuaren giltza
+	<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-Hay un nombre inscrito en la lápida.
+Izen bat dago idatzita hilarrian.
 
 <COLOR-BLUE>Walter Sullivan<SEPARATORB>
 ---------------
-El nombre en la lápida está
-	demasiado rayado para leerlo.<SEPARATORB>
+Hilarriko izena marratuegia
+	dago irakurtzeko.<SEPARATORB>
 ---------------
-Aquí hay un epitafio.
+Hemen epitafio bat dago.
 
-<COLOR-BLUE>Este delincuente bebió su última
-	cerveza antes de ser ejecutado
-	y enterrado aquí para su descanso
-	eterno.<SEPARATORB>
+<COLOR-BLUE>Gaizkile honek bere azken
+	garagardoa edan zuen hil
+	aurretik eta hemen lurperatu
+	zuten betiko atseden hartzeko.<SEPARATORB>
 ---------------
-Hay un nombre inscrito en la lápida.
+Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>Miriam K.: «Traidora»<SEPARATORB>
+<COLOR-BLUE>Miriam K.: «Traidorea»<SEPARATORB>
 ---------------
-Aquí hay un hoyo profundo.
-	Pero dentro no hay nada.<SEPARATORB>
+Hemen zulo sakon bat dago.
+	Baina barruan ez dago ezer.<SEPARATORB>
 ---------------
-Aquí ya no puedo hacer
-	nada más.
+Hemen ezin dut
+	beste ezer egin.
 
-No quiero dejarla aquí, pero
-	tengo que hacerlo...<SEPARATORB>
+Ez dut hemen utzi nahi,
+	baina egin behar dut...<SEPARATORB>
 ---------------
-El papel que cubría la cara
-	del cadáver ha caído aquí.<SEPARATORB>
+Gorpuaren aurpegia estaltzen
+	zuen papera hemen erori da.<SEPARATORB>
 ---------------
-¿Vas a bajar?<SELECT-YES-OR-NO>
+Jaitsiko al zara?<SELECT-YES-OR-NO>

@@ -1,83 +1,85 @@
 ﻿--------------- strings=30 language=spanish
 ---------------
-Vine por este camino.
-	No tiene sentido volver atrás.<SEPARATORB>
+Bide honetatik etorri naiz.
+	Ez du zentzurik atzera itzultzeak.<SEPARATORB>
 ---------------
-No puedo seguir en coche.
-	Tendré que andar...<SEPARATORB>
+Ezin dut autoz jarraitu.
+	Ibili beharko dut...<SEPARATORB>
 ---------------
-Hay un mapa en el coche.
-	Sería una buena idea cogerlo.<SEPARATORB>
+Autoan mapa bat dago.
+	Ideia ona litzateke bertara joatea.<SEPARATORB>
 ---------------
-No hay nada más de interés.<SEPARATORB>
+Dagoeneko ez dago ezer interesgarrik.<SEPARATORB>
 ---------------
-No hay nada en el asiento
-	de pasajeros.<SEPARATORB>
+Ez dago ezer bidaiarien
+	eserlekuan.<SEPARATORB>
 ---------------
-No hay nada en el asiento
-	de pasajeros.
+Ez dago ezer bidaiarien
+	eserlekuan.
 
-El mapa está en el asiento
-	del conductor.<SEPARATORB>
+Mapa gidariaren
+	eserlekuan dago.<SEPARATORB>
 ---------------
-Mary... ¿de verdad estás
-	en esta ciudad?
+Mari... benetan hiri
+	honetan zaudela?
 ---------------
-En mis sueños más inquietos
-	veo esa ciudad.
+Amesgaiztoetan ikusten dut
+	hiri hori.
 ---------------
 Silent Hill.
 ---------------
-Me prometiste que volverías
-	a llevarme allí algún día.
+Egunen batean hara eramango
+	ninduzula agindu zenidan.
 ---------------
-Pero nunca lo hiciste.
+Baina ez duzu inoiz hitza bete.
 ---------------
-Y ahora estoy allí, sola...
+Eta orain han nago, bakarrik...
 ---------------
-En nuestro “lugar especial”...
+Gure “leku berezian”...
 ---------------
-Esperándote...
+Zain... Zure zain...
 ---------------
 Me llegó una carta.
+Gutun bat iritsi zitzaidan.
 ---------------
-El sobre tenía escrito “Mary”.
+Gutunazalak "Mari" zeukan idatzita.
 ---------------
-El nombre de mi mujer...
+Nire emaztearen izena...
 ---------------
-Es ridículo.
-	Es totalmente imposible...
+Ez du zentzurik.
+	Ezinezkoa da...
 ---------------
-No dejo de repetírmelo
-	una y otra vez...
+Behin eta berriz
+	errepikatzen dut...
 ---------------
-Los muertos no pueden
-	escribir cartas.
+Hildakoek ezin dute
+	gutunik idatzi.
 ---------------
-Mary murió por aquella maldita
-	enfermedad hace tres años.
+Mari gaixotasun madarikatu harengatik
+	hil zen duela hiru urte.
 ---------------
-Entonces, ¿por qué
-	la estoy buscando?
+Orduan, zergatik
+	nabil bere bila?
 ---------------
-“Nuestro lugar especial”...
-	¿A qué se refería?
+“Gure leku berezia”...
+	Zer esan nahi zuen?
 ---------------
-Toda esta ciudad
-	era nuestro lugar especial.
+Hiri hau guztia zen
+	gure leku berezia.
 ---------------
-¿Se referiría a aquel parque
-	junto al lago?
+Lakuaren ondoko parke
+	hartaz ari ote zen?
 ---------------
-Pasamos allí todo el día.
-	Los dos solos, contemplando el agua.
+Han ematen dugu egun osoa.
+	Biok bakarrik, urari begira.
 ---------------
-¿Está allí Mary realmente?
+Mari han al dago benetan?
 ---------------
-¿De verdad está viva...
-	esperándome?
+Benetan bizirik al dago...
+	nire zain?
 ---------------
-He encontrado un <COLOR-GREEN>mapa de Silent Hill<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Silent Hill-en mapa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Creo que deberías mirarte
-	esa tos...
+Daukazun asto-eztul horiez da batere normala...
+	jaindu beharko zinateke...

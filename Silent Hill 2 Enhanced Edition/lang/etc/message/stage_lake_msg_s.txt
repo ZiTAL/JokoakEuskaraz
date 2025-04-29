@@ -1,35 +1,35 @@
 ﻿--------------- strings=13 language=spanish
 ---------------
-Este lugar no ha cambiado
-	en absoluto en tres años...
+Leku hau ez da batere
+	aldatu hiru urtetan...
 ---------------
-He encontrado una <COLOR-GREEN>caja de música
-	de la sirenita<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Sirenatxoaren musika-kaxa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Mary...
+Mari...
 ---------------
-Pareces tan... sosegada...
-	Siento haberte despertado.
+Hain... lasaia dirudizu...
+	Barkatu esnatu izana.
 ---------------
-Pero, sin ti, nada tiene sentido.
+Baina zu gabe, ezerk ez du zentzurik.
 ---------------
-No puedo vivir sin ti, Mary.
+Ezin naiz zu gabe bizi, Mari.
 ---------------
-Esta ciudad, Silent Hill...
+Hiri hau, Silent Hill...
 ---------------
-Los viejos dioses
-	no la han abandonado...
+Jainko zaharrek
+	ez dute abandonatu...
 ---------------
-y siguen otorgando poder
-	a aquellos que los veneran...
+eta oraindik ere boterea
+	ematen diete gurtzen dituztenei...
 ---------------
-Un poder que desafía
-	incluso a la muerte...
+Heriotzari ere aurre
+	egiten dion boterea...
 ---------------
-Ah... Mary...
+Ah... Mari...
 ---------------
-<COLOR-BLUE>AVISO
-	PROHIBIDO EL PASO<SEPARATORB>
+<COLOR-BLUE>OHARRA:
+	SARTZEA DEBEKATUTA<SEPARATORB>
 ---------------
-Hay una fuente con forma de pájaro.
-	Ahora mismo no sale agua.<SEPARATORB>
+Txori forma duen iturri bat dago.
+	Oraintxe bertan ez da urik ateratzen.<SEPARATORB>

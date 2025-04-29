@@ -1,93 +1,96 @@
 ﻿--------------- strings=39 language=spanish
 ---------------
-Pulso los botones,
-	pero el ascensor no reacciona.<SEPARATORB>
+Botoiak sakatzen ditut,
+	baina igogailuak ez du erreakzionatzen.<SEPARATORB>
 ---------------
-¿Para qué se usará esto...?
-	No quiero ni pensarlo...<SEPARATORB>
+Zertarako erabiliko da hau...?
+	Ez dut pentsatu ere egin nahi...<SEPARATORB>
 ---------------
-Los cables no me dejan pasar.<SEPARATORB>
+Kableek ez didate pasatzen uzten.<SEPARATORB>
 ---------------
-¡Estás viva!
+Bizirik zaude!
 ---------------
-María... ¡pensé que esa cosa
-	te había matado...!
+Mari... gauza horrek hil
+	zintuela uste nuen...!
 ---------------
-¿Estás herida?
+Zaurituta al zaude?
 ---------------
-Para nada, tonto.
+Inola ere ez, tontolapiko.
 ---------------
-¿María...?
+Mari...?
 ---------------
-¡Esa cosa... te apuñaló!
-	¡Había sangre por todas partes!
+Gauza horrek... sastakatu zaitu!
+	Odola zegoen nonahi!
 ---------------
-¿Apuñalarme?
-	¿Qué quieres decir?
+Sastakatu?
+	Zer esan nahi duzu?
 ---------------
-¡Nos persiguió hasta el ascensor!
-	¡Y entonces...!
+Igogailuraino jarraitu gintuen!
+	Eta orduan...!
 ---------------
-James, ¿de qué estás hablando?
+James, zertaz ari zara?
 ---------------
-¡Hace un rato!
-	¿No te acuerdas?
+Duela gutxi!
+	Ez al zara gogoratzen?
 ---------------
-James, cariño...
-	¿Te ha ocurrido algo?
+James, maitea...
+	Zerbait gertatu zaizu?
 ---------------
-¿Desde que nos separamos
-	en aquel pasillo largo?
+Korridore luze hartan
+	banandu ginenetik?
 ---------------
-¿Me estás confundiendo
-	con otra persona?
+Beste norbaitekin
+	nahasten nauzu?
 ---------------
-Siempre fuiste un despistado...
+Beti izan zara despistatua...
 ---------------
-Acuérdate de aquella vez
-	en el hotel...
+Gogoan izan orduko
+	hura hotelean...
 ---------------
-¿María...?
+Mari...?
 ---------------
-Dijiste que te habías llevado todo...
+Dena eraman duzula esan duzu...
 ---------------
-pero te dejaste la cinta de vídeo
-	que grabamos.
+baina grabatu genuen
+	bideo-zinta utzi zenuen.
 ---------------
-Me pregunto si seguirá ahí...
+Ez dakit hor jarraituko duen...
 ---------------
-¿Cómo sabes todo eso?
+Nola dakizu hori guztia?
 ---------------
-¿No eres María?
+Ez al zara Mari?
 ---------------
-No soy tu Mary.
+Ez naiz zure Mari.
 ---------------
-Entonces, ¿eres María?
+Orduan, Mari zara?
 ---------------
-Sí... Si quieres que lo sea.
+Bai... Hala nahi izanez gero.
 ---------------
-¡Lo único que quiero
-	es una respuesta!
+Erantzun bat besterik
+	ez dut nahi!
 ---------------
-No importa quién soy...
+Berdin dio nor naizen...
 ---------------
-Estoy aquí para ti, James.
+Zuretzat nago hemen, James.
 ---------------
-¿Lo ves? Soy real.
+Ikusten? Benetakoa naiz.
 ---------------
-¿No quieres tocarme?
+Ez nauzu ukitu nahi?
 ---------------
-No... lo sé...
+Ez... dakit...
 ---------------
-Ven a buscarme.
+Zatoz nire bila.
 ---------------
-No puedo hacer nada a través
-	de estos barrotes.
+Ezin dut ezer egin
+	barrote hauen bidez.
 ---------------
-Bien... Quédate donde estás.
+Ongi... Geratu zauden lekuan.
 ---------------
-No tardaré...
+Azkar egingo dut...
 ---------------
-He encontrado unos <COLOR-GREEN>alicates<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Aliketak
+<COLOR-WHITE>aurkitu ditut.<SEPARATORB>
+ 
 ---------------
-He encontrado un <COLOR-GREEN>cuchillo grande<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Labana handi bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>

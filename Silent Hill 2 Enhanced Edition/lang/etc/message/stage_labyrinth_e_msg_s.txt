@@ -1,106 +1,105 @@
 ﻿--------------- strings=29 language=spanish
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> El cu<HIDDEN-TEXT>erpo d<HIDDEN-TEXT>e un hombre que
-	fue posteriormente identificado
-	como Thomas Oro<HIDDEN-TEXT>sco,<HIDDEN-TEXT> un leñador
-	de 39 a<HIDDEN-TEXT>ños<HIDDEN-TEXT>, fue descubierto en
-	<HIDDEN-TEXT>su habit<HIDDEN-TEXT>ación tumbado bo<HIDDEN-TEXT>ca<HIDDEN-TEXT>
-	<HIDDEN-TEXT>arriba.<HIDDEN-TEXT>
+<CENTER-PARAGRAPH><COLOR-BLUE>Gerora Thomas Orosco egurgile gisa
+identifikatu zuten gizon baten go<HIDDEN-TEXT>rp<HIDDEN-TEXT>ua
+39 ur<HIDDEN-TEXT>te<HIDDEN-TEXT>koa, ahoz gora etzanda
+aur<HIDDEN-TEXT>ki<HIDDEN-TEXT>tu zuten bere gelan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> La probable causa de la mue<HIDDEN-TEXT>rte<HIDDEN-TEXT>
-	<HIDDEN-TEXT>fu<HIDDEN-TEXT>eron varias puñaladas en la
-	parte delantera del cuello y en
-	el costado izquierdo, provocadas
-	por un arma afilada.
-	La muerte oc<HIDDEN-TEXT>urrió<HIDDEN-TEXT> aproximadamente
-	entre las 23:0<HIDDEN-TEXT>0 y<HIDDEN-TEXT> la medianoche.
+<CENTER-PARAGRAPH><COLOR-BLUE> Litekeena da herio<HIDDEN-TEXT>tza<HIDDEN-TEXT>ren
+	kausa ha<HIDDEN-TEXT>in<HIDDEN-TEXT>bat labankada
+	izan zirela lepoaren
+	aurrealdea eta ezkerreko
+	saihetsean, eragindakoakarma
+	zorrotz batengatik.
+	He<HIDDEN-TEXT>ri<HIDDEN-TEXT>otza gutxi gorabehera
+	gertatu zen 23:0<HIDDEN-TEXT>0<HIDDEN-TEXT>etatik
+	gauerdira.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Debido a los indicios de lucha
-	en la habitación y la ausencia
-	del arma homicida, la policía está
-	sos<HIDDEN-TEXT>pech<HIDDEN-TEXT>ando de un homicidio
-	y ha abierto una investigación
-	por asesinato.
+<CENTER-PARAGRAPH><COLOR-BLUE> Logelako borroka zantzuen eta
+	arma hiltzailearen faltaren
+	ondorioz, polizia homizidio
+	baten sus<HIDDEN-TEXT>mo<HIDDEN-TEXT>pean dago, eta
+	hilketagatik ikerketa abiatudu.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Además, dado que no se había
-	tocado el dinero de la habitación
-	y que el Sr. Oro<HIDDEN-TEXT>sco te<HIDDEN-TEXT>nía
-	antecedentes de alcoholismo y
-	violencia, la polic<HIDDEN-TEXT>ía sosp<HIDDEN-TEXT>echa
-	que e<HIDDEN-TEXT>l mo<HIDDEN-TEXT>tivo no fue un robo,<HIDDEN-TEXT> sino<HIDDEN-TEXT>
-	<HIDDEN-TEXT>algún tipo <HIDDEN-TEXT>de crimen p<HIDDEN-TEXT>asio<HIDDEN-TEXT>nal.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Gainera, gelako dirua ukitu
+	ez zuenez eta Oro<HIDDEN-TEXT>sco ja<HIDDEN-TEXT>unak
+	alkoholismo eta indarkeria
+	aurrekariak zituenez,
+	poliziak susmatzen du arrazoia ez
+	zela la<HIDDEN-TEXT>pu<HIDDEN-TEXT>rreta izan, pasiozko
+	kri<HIDDEN-TEXT>me<HIDDEN-TEXT>nena baizik.<SEPARATORB>
 ---------------
-Hay un periódico en el suelo.
+Egunkari bat dago lurrean.
 
-Está manchado de algo que parece
-	sangre y hay partes que no se
-	pueden leer.<SEPARATORB>
+Odola dirudien zerbaitez
+zikinduta dago eta zati
+batzuk ezin dira irakurri.<SEPARATORB>
 ---------------
-La criatura está muerta.<SEPARATORB>
+Haurra hilda dago.<SEPARATORB>
 ---------------
-¡No, papá! ¡No, por favor!
+Ez, aita! Ez, mesedez!
 ---------------
-¿Se encuentra bien?
+Ondo al zaude?
 ---------------
-¡Angela! Tranquila.
+Angela! Lasai.
 ---------------
-¡No me dé órdenes!
+Ez eman agindurik!
 ---------------
-No es mi intención.
+Ez da nire asmoa.
 ---------------
-Entonces, ¿qué quiere?
+Orduan, zer nahi duzu?
 ---------------
-Ah, ya veo, se está haciendo
-	el simpático, ¿no?
+Ah, ikusten dut,
+	jatorrarena egiten ari da, ezta?
 ---------------
-Ya sé lo que quiere.
-	Otra vez con lo mismo.
+Badakit zer nahi duen.
+	Berriro gauza berarekin.
 ---------------
-Solo piensan en una cosa.
+Gauza bakarra dute buruan.
 ---------------
-No. Eso no es cierto.
+Ez. Hori ez da egia.
 ---------------
-No tiene porqué mentir.
-	Venga, sea sincero.
+Ez duzu zertan gezurrik esan.
+	Izan zintzoa.
 ---------------
-O también puede forzarme.
-	Pegarme, como hacía él.
+Edo behartu nazakezu.
+	Jo nazazu, berak egiten zuen bezala.
 ---------------
-Además, usted sólo piensa
-	en sí mismo.
+Gainera, zeure buruan
+	besterik ez duzu pentsatzen.
 ---------------
-Maldito cerdo...
+Txerri zikina...
 ---------------
 Angela...
 ---------------
-¡No me toque!
+Ez nazazu ukitu!
 ---------------
-¡Me da ganas de vomitar!
+Botaka egiteko gogoa dut!
 ---------------
-Dijo que su mujer Mary
-	estaba muerta, ¿no?
+Mari bere emaztea hilda
+	zegoela esan zuen, ezta?
 ---------------
-Sí, estaba enferma...
+Bai, gaixorik zegoen...
 ---------------
-¡Miente!
+Gezurretan ari da!
 ---------------
-Le conozco bien...
+Ondo ezagutzen dut...
 ---------------
-Ya no quería estar con ella.
-	Se buscaría a otra.
+Ez nuen berarekin egon nahi.
+	Beste bat bilatuko genuke.
 ---------------
-Eso es ridículo... Yo nunca...
+Horrek ez du ez hanka ez bururik... Nik inoiz ez...
 ---------------
-No puedo dejarla a su suerte.<SEPARATORB>
+Ezin dut bere kasa utzi.<SEPARATORB>
 ---------------
-Aunque volviera, ¿a dónde iría...?
+Itzuliko banintz ere, nora joango nintzateke...?
 
-No hay camino de vuelta
-	ni lugar al que escapar.<SEPARATORB>
+Ez dago itzulbiderik,
+	ezta ihes egiteko lekurik ere.<SEPARATORB>
 ---------------
-Las paredes y el suelo están llenos
-	de periódicos. No parece que haya
-	nada de interés.
+Hormak eta zorua egunkariz
+	beteta daude. Ez dirudi ezer
+	interesgarririk dagoenik.
 
-Pero este lleva fecha de hoy...
-	Qué extraño.<SEPARATORB>
+Baina hau gaurko da...
+	Bai arraroa.<SEPARATORB>

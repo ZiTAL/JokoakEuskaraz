@@ -22,7 +22,7 @@ veitena -> hogei -> 400 gizon
 
 zintzilik -> eskegita
 
-/home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_labyrinth_e_msg_s.txt
+/home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_prison_bf_msg_s
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_to_heaven_msg_s.txt
 
