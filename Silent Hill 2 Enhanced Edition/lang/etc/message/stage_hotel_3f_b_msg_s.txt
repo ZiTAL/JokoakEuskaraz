@@ -1,14 +1,15 @@
 ﻿--------------- strings=5 language=spanish
 ---------------
-Hay un reproductor de vídeo.
-	Creo que funciona.<SEPARATORB>
+Bideo erreproduzigailu bat dago.
+	Funtzionatzen duela uste dut.<SEPARATORB>
 ---------------
-Me he llevado la cinta de vídeo.<SEPARATORB>
+Bideo-zinta hartu dut.<SEPARATORB>
 ---------------
-Aprieto el botón,
-	pero no pasa nada.<SEPARATORB>
+Botoiari eman diot,
+	baina ez da ezer gertatzen.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de perro<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Txakur-giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-La cerradura podría estar rota.
-	No parece que pueda abrirla.<SEPARATORB>
+Sarraila apurtuta egon liteke.
+	Ez dirudi ireki dezakedanik.<SEPARATORB>

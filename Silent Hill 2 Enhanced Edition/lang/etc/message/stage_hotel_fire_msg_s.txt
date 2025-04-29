@@ -1,54 +1,57 @@
 ﻿--------------- strings=24 language=spanish
 ---------------
-¡Mamá!
+Ama!
 ---------------
-Mamá, te estaba buscando.
+Ama, zure bila nenbilen.
 ---------------
-Eres la única que me queda.
+Zu zara geratzen zaidan bakarra.
 ---------------
 Tal vez...
 	entonces pueda descansar.
+Agian...
+	orduan atseden hartuz
 ---------------
-Mamá, ¿por qué corres?
+Ama, zergatik egiten duzu korrika?
 ---------------
-Tú no eres mamá.
+Zu ez zara ama.
 ---------------
-¡Es usted...!
-	Lo... lo siento...
+Zu zara...!
+	Se... Sentitzen dut...
 ---------------
-Angela, no...
+Angela, ez...
 ---------------
-Gracias por salvarme...
+Eskerrik asko salbatzeagatik...
 ---------------
-Pero ojalá no lo hubiera hecho.
+Baina nahiago nuke egin izan ez bazenu.
 ---------------
-Incluso mamá lo dijo...
+Amak ere esan zuen...
 ---------------
-Me lo merecía...
+Merezi nuela...
 ---------------
-¡No, Angela, no es verdad!
+Ez, Angela, ez da egia!
 ---------------
-No, no me compadezca.
-	No me lo merezco...
+Ez, ez nazazu erruki.
+	Ez dut merezi...
 ---------------
-¿O se cree que puede salvarme?
-	¿Me amará?
+Edo salba nazakezula uste duzu?
+	Maiteko al nau?
 ---------------
-¿Me cuidará?
-	¿Curará mis penas?
+Zainduko nau?
+	Nire penak sendatuko ditu?
 ---------------
-Eso pensaba.
+Hori uste nuen.
 ---------------
-James... Devuélvame ese cuchillo.
+James... Emaidazu labana hori.
 ---------------
-No... No lo haré.
+Ez... Ez dut egingo.
 ---------------
-¿Lo quiere para usted?
+Zuretzat nahi al duzu?
 ---------------
-¿Yo? No... Nunca me suicidaría...
+Niretzat? Ez... Ez nuke inoiz
+	neure buruaz beste egingo...
 ---------------
-Aquí hace un calor terrible.
+Hemen bero izugarria egiten du.
 ---------------
-¿Usted también lo nota?
+Zuk ere nabaritzen al duzu?
 ---------------
-Para mí, siempre es así.
+Niretzat, beti da horrela.

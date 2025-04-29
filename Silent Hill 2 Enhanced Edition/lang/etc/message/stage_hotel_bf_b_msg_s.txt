@@ -1,13 +1,13 @@
 ﻿--------------- strings=5 language=spanish
 ---------------
-Una pared.
-	No puedo pasar por aquí.<SEPARATORB>
+Horma bat.
+	Ezin naiz hemendik pasatu.<SEPARATORB>
 ---------------
-Una máquina de discos.
-	Ahora no me sirve de nada.<SEPARATORB>
+Disko-makina bat.
+	Orain ez dit ezertarako balio.<SEPARATORB>
 ---------------
-La nevera no se abre.<SEPARATORB>
+Hozkailua ez da irekitzen.<SEPARATORB>
 ---------------
-El armario no se abre.<SEPARATORB>
+Armairua ez da irekitzen.<SEPARATORB>
 ---------------
-Aquí no hay nada útil.<SEPARATORB>
+Hemen ez dago ezer erabilgarririk.<SEPARATORB>

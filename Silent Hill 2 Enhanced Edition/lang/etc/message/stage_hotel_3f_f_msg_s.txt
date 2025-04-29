@@ -1,147 +1,149 @@
 ﻿--------------- strings=61 language=spanish
 ---------------
-Aprieto el botón,
-	pero no pasa nada.<SEPARATORB>
+Botoiari ematen diot,
+	baina ez da ezer gertatzen.<SEPARATORB>
 ---------------
-Hay un reproductor de vídeo.
-	Creo que funciona.<SEPARATORB>
+Bideo erreproduzigailu bat dago.
+	Funtzionatzen duela uste dut.<SEPARATORB>
 ---------------
-Me he llevado la cinta de vídeo.<SEPARATORB>
+Bideo-zinta eraman dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave
-	de las escaleras del hotel<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko eskaileretako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave de
-	la habitación 312 del hotel<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Hoteleko 312 gelako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-¿Ya estás grabando? Anda...
+Grabatzen ari al zara? Tira...
 ---------------
-No sé por qué,
-	pero me encanta este sitio.
+Ez dakit zergatik,
+	baina leku hau asko gustatzen zait.
 ---------------
-Es tan tranquilo...
+Hain da lasaia...
 ---------------
-¿Sabes lo que he oído?
+Badakizu zer entzun dudan?
 ---------------
-Esta zona solía ser un lugar sagrado.
+Inguru hau leku sakratua izan ohi zen.
 ---------------
-Creo que entiendo por qué.
+Uste dut ulertzen dudala zergatik.
 ---------------
-Qué pena que tengamos
-	que marcharnos...
+Lastima joan beharra...
 ---------------
-Por favor, prométeme que me
-	traerás otra vez, James...
+Mesedez, agindu berriro
+	etorriko garela, James...
 ---------------
-Mary...
+Mari...
 ---------------
-Por fin te encuentro, James.
+Azkenean aurkituko zaitut, James.
 ---------------
-¿Tienes la carta?
-	¿Has encontrado a Mary?
+Gutuna al daukazu?
+	Aurkitu al duzu Mari?
 ---------------
-Si no, pongámonos en marcha.
+Bestela, martxan jar gaitezen.
 ---------------
-¿De acuerdo?
+Konforme?
 ---------------
-Mary se ha ido.
+Mari joan da.
 ---------------
-Está muerta.
+Hilda dago.
 ---------------
-¡Mentiroso!
+Gezurtia!
 ---------------
-¡Eso es mentira!
+Hori gezurra da!
 ---------------
-No, es verdad...
+Ez, egia da...
 ---------------
-¿Murió... porque estaba enferma?
+Gaixorik zegoelako hil al zen?
 ---------------
-No.
+Ez.
 ---------------
-Yo la maté.
+Nik hil nuen.
 ---------------
-¡Asesino!
+Hiltzailea!
 ---------------
-¡¿Por qué lo hiciste?!
-	¡Te odio!
+Zergatik egin duzu?
+	Gorroto zaitut!
 ---------------
-¡Quiero que vuelva!
-	¡Devuélvemela!
+Itzultzea nahi dut!
+	Itzul iezadazu!
 ---------------
-¡Lo sabía!
-	¡No te importaba lo más mínimo!
+Banekien!
+	Ez zitzaizun batere axola!
 ---------------
-¡Te odio, James!
-	¡Te odio! ¡Te odio! ¡Te odio!
+Gorroto zaitut, James!
+	Gorroto zaitut!
+	Gorroto zaitut!
+	Gorroto zaitut!
 ---------------
-Siempre te estuvo esperando...
-	¿Por qué...? ¿Por qué...?
+Beti egon da zure zain...
+	Zergatik...? Zergatik...?
 ---------------
-Lo siento...
+Sentitzen dut...
 ---------------
-La Mary que conoces no está aquí.
+Ezagutzen duzun Mari ez dago hemen.
 ---------------
-Laura, lo siento.
----------------
-James...
-	¿Dónde estás?
----------------
-Estoy esperando.
-	Te estoy esperando.
----------------
-Por favor, ven a mí.
----------------
-¿Me odias?
----------------
-¿Por eso no vienes a verme?
----------------
-Esa voz...
----------------
-Por favor, date prisa.
----------------
-¿Acaso estás perdido?
----------------
-Estoy cerca.
-	Te espero cerca de aquí, James.
----------------
-Por favor.
-	Quiero verte, James.
----------------
-¿Me oyes?
+Laura, sentitzen dut.
 ---------------
 James...
-	Por favor, James...
+	Non zaude?
 ---------------
-James... James... ¿James...?
+Zain...
+	Zure zain...
 ---------------
-Aquí hay una televisión.
-	Incluso cuando está enchufada,
-	sólo veo ruido blanco.<SEPARATORB>
+Mesedez, zatoz nigana.
 ---------------
-No hay nada que ver.<SEPARATORB>
+Gorroto al nauzu?
 ---------------
-Ya no necesito
-	el reproductor de vídeo.<SEPARATORB>
+Horregatik ez zatoz ni ikustera?
 ---------------
-No hay nada interesante
-	escrito en el libro de notas.<SEPARATORB>
+Ahots hori...
 ---------------
-Hay un cuadro colgado.
-	Parece un paisaje de esta zona.<SEPARATORB>
+Mesedez, azkar ibili.
 ---------------
-Lo siento... Eh...
+Galduta zaude ala?
 ---------------
-¿Quién... quién eres...?
+Gertu nago.
+	Hemendik gertu
+	itxarongo zaitut, James.
 ---------------
-¿Ha visto a una niña?
+Mesedez.
+	Ikusi nahi zaitut, James.
 ---------------
-Es bajita, de pelo negro...
+Entzuten al nauzu?
 ---------------
-¿De qué estás hablando...?
+James...
+	Mesedez, James...
 ---------------
-Da igual, escucha...
+James... James... James...?
 ---------------
-¿Has visto a mi esposa...?
-	Se llama Mary.
+Hemen telebista bat dago.
+	Entxufatuta ere,
+	zarata zuria besterik ez dut ikusten.<SEPARATORB>
 ---------------
-¡¡¡Aaarrggghhhh!!!
+Ez dago ezer ikusteko.<SEPARATORB>
+---------------
+Ez dut bideo-irakurgailuaren
+	beharrik.<SEPARATORB>
+---------------
+Ez dago ezer interesgarririk
+	idatzirik oharren liburuan.<SEPARATORB>
+---------------
+Koadro bat dago eskegita.
+	Inguru honetako paisaia dirudi.<SEPARATORB>
+---------------
+Sentitzen dut... Eh...
+---------------
+Nor... nor zara...?
+---------------
+Neskato bat ikusi al duzu?
+---------------
+Txikia da, ile beltza du...
+---------------
+Zertaz ari zara...?
+---------------
+Berdin dio, entzun...
+---------------
+Ikusi al duzu nire emaztea...?
+	Mari du izena.
+---------------
+Aaarrggghhhh!!!

@@ -1,73 +1,82 @@
 ﻿--------------- strings=22 language=spanish
 ---------------
-Aprieto el botón,
-	pero no pasa nada.<SEPARATORB>
+Botoiari eman diot,
+	baina ez da ezer gertatzen.<SEPARATORB>
 ---------------
-Aquí hay varios alimentos
-	enlatados.<SEPARATORB>
+Hemen elikagai batzuk
+	daude lataratuta.<SEPARATORB>
 ---------------
-Hay una lata sin etiqueta.<SEPARATORB>
+Etiketarik gabeko lata bat dago.<SEPARATORB>
 ---------------
-La lata está llena de bombillas.<SEPARATORB>
+Lata bonbillaz beteta dago.<SEPARATORB>
 ---------------
-Una lata con bombillas.
-	No necesito más.<SEPARATORB>
+Pote bat bonbillekin.
+	Ez dut gehiago behar.<SEPARATORB>
 ---------------
-Hay una lámpara en la barra.
+Lanpara bat dago barran.
 
-Pero no tiene bombilla,
-	así que no se puede encender.<SEPARATORB>
+Baina ez du bonbillarik,
+	beraz, ezin da piztu.<SEPARATORB>
 ---------------
-He intentado usar la <COLOR-GREEN>llave del bar<COLOR-WHITE>,
-	pero está demasiado oscuro
-	para ver el ojo de la cerradura.<SEPARATORB>
+<COLOR-GREEN>Tabernako giltza
+	<COLOR-WHITE>
+	erabiltzen saiatu naiz,
+	baina ilunegi dago sarrailaren
+	zuloa ikusteko.<SEPARATORB>
 ---------------
-He encontrado una lata de <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Disolbatzaile lata bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del bar<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Tabernako giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>bombilla<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Bonbilla bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado el <COLOR-GREEN>disolvente<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Disolbatzailea
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del bar<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Tabernako giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He puesto la <COLOR-GREEN>bombilla<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Bonbilla
+	<COLOR-WHITE>jarri dut.<SEPARATORB>
 ---------------
-La puerta de la nevera debe estar rota.
-	No puedo abrirla.<SEPARATORB>
+Hozkailuko atea apurtuta dagoela dirudi.
+	Ezin dut ireki.<SEPARATORB>
 ---------------
-La cerradura está rota,
-	no puedo abrirla.<SEPARATORB>
+Sarraila apurtuta dago,
+	ezin dut ireki.<SEPARATORB>
 ---------------
-Una serie de cebos.
+Karnata batzuk.
 
-Parece ser que la pesca en el lago
-	es una actividad muy popular
-	entre los turistas.
+Badirudi lakuko arrantza
+	oso jarduera ezaguna dela
+	turisten artean.	
 
-Yo no soy bueno pescando,
-	así que no probé suerte
-	cuando estuve aquí...<SEPARATORB>
+Ni ez naiz ona arrantzan, beraz,
+	ez nuen zorterik probatu hemen
+	egon nintzenean...<SEPARATORB>
 ---------------
-Aquí hay una máquina de discos.
-	No funciona, debe estar rota.<SEPARATORB>
+Hemen disko makina bat dago.
+	Ez du funtzionatzen,
+	hautsita egon behar du.<SEPARATORB>
 ---------------
-La barra.
+Barra.
 
-Mary y yo bebimos juntos
-	en este bar.
+Marik eta biok elkarrekin
+	edan genuen taberna honetan.
 
-A veces parece que haya pasado
-	una eternidad y otras parece
-	que fue ayer.<SEPARATORB>
+Batzuetan badirudi eternitate bat
+	igaro dela, eta beste batzuetan
+	badirudi atzo izan zela.<SEPARATORB>
 ---------------
-Aquí hay botellas de vino vacías.<SEPARATORB>
+Hemen ardo botila hutsak daude.<SEPARATORB>
 ---------------
-Aquí hay un jarrón.
-	Ahora mismo no me es útil.<SEPARATORB>
+Hemen pitxer bat dago.
+	Oraintxe bertan ez zait baliagarria.<SEPARATORB>
 ---------------
-Un cuadro.
-	No tiene nada especial.<SEPARATORB>
+Koadro bat.
+	Ez du ezer berezirik.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Lágrimas de Venus<SEPARATORB>
+<COLOR-BLUE>Artizarraren malkoak<SEPARATORB>
