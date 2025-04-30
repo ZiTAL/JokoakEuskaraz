@@ -1,45 +1,45 @@
 ﻿--------------- strings=10 language=spanish
 ---------------
-Será mejor que no fisgue por ahí.
-	No creo que quiera ver
-	lo que hay dentro.<SEPARATORB>
+Hobe dut hortik ez begiratzea.
+	Ez dut uste barruan dagoena
+	ikusi nahi dudanik.<SEPARATORB>
 ---------------
-Hay un agujero en el suelo.
-	No puedo ver el fondo.
+Zulo bat dago lurrean.
+	Ezin dut hondoa ikusi.
 
-¿Hasta dónde llega...?
+	Noraino iritsiko ote da...?
 
-¿Vas a bajar?<SELECT-YES-OR-NO>
+Jaitsiko al zara?<SELECT-YES-OR-NO>
 ---------------
-Otro agujero... ¿De verdad tengo
-	que meterme dentro...?
+Beste zulo bat...
+	Benetan sartu behar al dut...?
 
-¿Vas a bajar?<SELECT-YES-OR-NO>
+Jaitsiko al zara?<SELECT-YES-OR-NO>
 ---------------
-Parece que el cerrojo está roto.
-	No puedo abrirla.
+Morroiloa hautsita dagoela dirudi.
+	Ezin dut ireki.
 
-Si me acerco a la puerta,
-	puedo oler un tufillo
-	a podrido del interior.<SEPARATORB>
+Ateraino hurbiltzen banaiz,
+	barrutik kirats ustela
+	usaindu dezaket.<SEPARATORB>
 ---------------
-El cadáver apesta a podrido.<SEPARATORB>
+Gorpuari ustel-kiratsa dario.<SEPARATORB>
 ---------------
-¿Iban a... tirar este cadáver
-	por el agujero?<SEPARATORB>
+Gorpu hau zulotik
+	bota behar al zuten?<SEPARATORB>
 ---------------
-¿Se ha movido o
-	me lo acabo de imaginar...?<SEPARATORB>
+Mugitu al da, edo
+	imajinatu berri dut...?<SEPARATORB>
 ---------------
-Dios mío...
-	En el agujero hay...
+Ene...
+	Zuloan... zer dago...
 
-No he visto nada.<SEPARATORB>
+Ez dut ezer ikusi.<SEPARATORB>
 ---------------
-Del agujero sale un olor horrible.<SEPARATORB>
+Kirats nazkagarria ateratzen da zulotik.<SEPARATORB>
 ---------------
-Hay algo en el agujero.
-	Parece...
+Zerbait dago zuloan.
+	Badirudi...
 
-Está descuartizado...
-	No, no puedo seguir mirando...<SEPARATORB>
+Zatituta dago...
+	Ez, ezin dut begira jarraitu...<SEPARATORB>

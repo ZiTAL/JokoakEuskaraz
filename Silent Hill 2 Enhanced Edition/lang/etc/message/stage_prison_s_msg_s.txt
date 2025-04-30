@@ -1,66 +1,71 @@
 ﻿--------------- strings=17 language=spanish
 ---------------
-<COLOR-WHITE>Hay algo escrito sobre el cuadro.
+<COLOR-WHITE>Zerbait dago idatzita koadroari buruz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
-	los Tres Pecados.
+<CENTER-PARAGRAPH><COLOR-BLUE>Odola ematen dizut
+	Hiru Bekatuak garbitzeko.
 
-<COLOR-WHITE>Bajo el cuadro hay tres agujeros
-	cuadrados.<SEPARATORB>
+<COLOR-WHITE>Koadroaren azpian hiruzulo karratu daude.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
-	los Tres Pecados.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Odola ematen dizut
+	Hiru Bekatuak garbitzeko.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Zapaltzailearen egurtxoa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He insertado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Zapaltzailearen egurtxoa
+	<COLOR-WHITE>sartu dut.<SEPARATORB>
 ---------------
-He insertado la <COLOR-GREEN>tablilla del cerdo glotón<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Txerri triponziaren egurtxoa
+	<COLOR-WHITE>sartu dut.<SEPARATORB>
 ---------------
-He insertado la <COLOR-GREEN>tablilla de la seductora<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Limurtzailearen egurtxoa
+	<COLOR-WHITE>sartu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>herradura<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Ferra bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>muñeco de cera<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Argizarizko panpina
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-La puerta está cerrada firmemente.
-	No puedo forzarla.<SEPARATORB>
+Atea tinko itxita dago.
+	Ezin dut behartu.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Hombre ardiendo<SEPARATORB>
+<COLOR-BLUE>Gizona sutan<SEPARATORB>
 ---------------
-<COLOR-BLUE>436 personas en un recital<SEPARATORB>
+<COLOR-BLUE>436 pertsona erreZITALdi batean<SEPARATORB>
 ---------------
-<COLOR-BLUE>Mujer volando<SEPARATORB>
+<COLOR-BLUE>Emakumea hegan<SEPARATORB>
 ---------------
-Hay tres cuerdas que cuelgan
-	del patíbulo.<SEPARATORB>
+Hiru soka daude
+	urkamenditik zintzilik.<SEPARATORB>
 ---------------
-Aquí hay ropa manchada de sangre.<SEPARATORB>
+Hemen odolez zikindutako arropa dago.<SEPARATORB>
 ---------------
-Aquí hay revistas.
-	Nada de interés.<SEPARATORB>
+Hemen aldizkariak daude.
+	Ez dago ezer interesgarrik.<SEPARATORB>
 ---------------
-Hay libros esparcidos por todo
-	el suelo y sobre la cama.
+Liburuak daude lurrean eta
+	ohe gainean sakabanatuta.
 
-<COLOR-BLUE>“Magia negra del abismo”
-	“La resurrección de los muertos”
+<COLOR-BLUE>“Amildegiaren magia beltza”
+	“Hildakoen berpizkundea”
 
-<COLOR-BLUE>“Crónicas de Agripa”
-	“Manuscrito de los anillos
-	 de hierro”
+<COLOR-BLUE>“Agripa-ren kronikak”
+	“Eraztunen burdinazko
+	eskuizkribua”
 
-<COLOR-WHITE>No debería darles mucha importancia.<SEPARATORB>
+<COLOR-WHITE>Ez nieke garrantzi handirik eman behar.<SEPARATORB>
 ---------------
-Hay libros esparcidos por todo
-	el suelo y sobre la cama.
+Liburuak daude lurrean eta
+	ohe gainean sakabanatuta.
 
-<COLOR-BLUE>“Sacrificios y el arte
-	 de invocar al demonio”
-	“Libro del profeta”
+<COLOR-BLUE>“Sakrifizioak eta deabrua
+	inbokatzeko artea”
+	“Profetaren liburua”
 
-<COLOR-BLUE>“El día de los súcubos”
-	“Los angeles caídos de la
-	 gracia y el favor”
+<COLOR-BLUE>“Sukubo-en eguna”
+	“Aingeruak graziatik eta
+	faboretik eroriak”
 
-<COLOR-WHITE>No debería darles mucha importancia.<SEPARATORB>
+<COLOR-WHITE>Ez nieke garrantzi handirik eman behar.<SEPARATORB>

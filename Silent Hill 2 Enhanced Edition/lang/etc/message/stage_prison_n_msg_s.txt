@@ -1,165 +1,177 @@
 ﻿--------------- strings=44 language=spanish
 ---------------
-Un cadáver. Está lleno
-	de agujeros de bala.<SEPARATORB>
+Gorpu bat.
+	Bala-zuloz josita dago.<SEPARATORB>
 ---------------
-Aquí hay una revista.
+Hemen aldizkari bat dago.
 
-Nunca la había visto.
-	Será una revista local.<SEPARATORB>
+Ez dut inoiz ikusi.
+	Tokiko aldizkari bat izango da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> El lago Toluca es la principal
 	atracción turística de la ciudad.
 	 Este bello y cristalino lago
 	tiene también un lado oculto.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Esta puede parecer la típica
-	historia de fantasmas que existe
-	en muchas de las viejas localidades
-	de todo el país, pero en este
-	caso, la leyenda es cierta.
+ Toluca lakua hiriko erakarpen
+	turistiko nagusia da. Aintzira
+	eder eta garden honek alde
+	ezkutua ere badu.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Herri zaharretako mamuen istorio
+	tipikoa dirudi honek,
+	baina kasu honetan,
+	elezaharra egia da.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> En un neblinoso día de
 	noviembre de 1918, el Little
 	Baroness, un barco lleno de
 	turistas, no regresó a puerto.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Un artículo de la época se limitaba
-	a decir que «lo más probable es
-	que se haya hundido por alguna
-	razón».
-	 A pesar de la búsqueda policial,
-	hasta hoy no se ha hallado ni un
-	resto del barco ni de los 14
-	cuerpos de la tripulación y el
-	pasaje.
+1918ko azaroko egun lainotsu
+	batean, Little Baroness,
+	turistaz betetako itsasontzia,
+	ez zen portura itzuli.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> En 1939 tuvo lugar un incidente
-	aún más extraño.
+<CENTER-PARAGRAPH><COLOR-BLUE> Garai hartako artikulu batek
+	hauxe esaten zuen:
+	«litekeena da arrazoiren batengatik
+	hondoratu izana».
+	 Poliziaren bilaketa gorabehera,
+	gaur arte ez da aurkitu ez
+	itsasontziaren hondarrik, ez
+	tripulazioaren eta bidaiarien
+	14 gorpurik.
 
-<COLOR-WHITE>Hay muchas páginas arrancadas.
+<CENTER-PARAGRAPH><COLOR-BLUE> 1939an gertakari are
+	arraroagoa gertatu zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Muchos cadáveres yacen en el
-	fondo del lago. Sus huesudas manos
-	se alzan hacia los barcos que pasan
-	por encima, quizás en busca de
-	sus camaradas.<SEPARATORB>
----------------
-¿Vas a saltar?<SELECT-YES-OR-NO>
----------------
-No tiene sentido
-	derretir la cera sin más.<SEPARATORB>
----------------
-Esto no sirve de nada
-	por sí solo.<SEPARATORB>
----------------
-Si quiero poner la cera en el agujero,
-	antes tengo que derretirla.<SEPARATORB>
----------------
-Hay una tapa en el suelo,
-	pero no puedo abrirla.
+<COLOR-WHITE>Orrialde asko kenduta daude.
 
-Sólo queda una hendidura donde
-	seguramente estaba la manilla.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Gorpu asko daude lakuaren
+hondoan. Bere esku hezurtsuak
+gainetik pasatzen diren
+itsasontzietarantz hurbiltzen
+dira, agian bere burkideen bila.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mapa de la prisión<COLOR-WHITE>.<SEPARATORB>
+Salto egingo al duzu?<SELECT-YES-OR-NO>
 ---------------
-He encontrado la <COLOR-GREEN>tablilla
-	del cerdo glotón<COLOR-WHITE>.<SEPARATORB>
+Ez du zentzurik argizaria
+	besterik gabe urtzeak.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>tablilla
-	de la seductora<COLOR-WHITE>.<SEPARATORB>
+Bakarrik ez du
+	ezertarako balio.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>rifle de caza<COLOR-WHITE>.<SEPARATORB>
+Argizaria zuloan jarri nahi badut,
+	lehenago urtu behar dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mechero<COLOR-WHITE>.<SEPARATORB>
----------------
-Matar a alguien no es para tanto.
----------------
-Le pones la pistola
-	en la cabeza y... ¡pum!
----------------
-¿Lo... lo has matado?
----------------
-¡Pe-pero no fue culpa mía!
----------------
-¡Él me obligó!
----------------
-Tranquilízate, Eddie.
----------------
-Cuéntame qué ha pasado.
----------------
-Ese tipo... ¡se... se lo merecía!
----------------
-Yo no hice nada.
-	¡Era él el que me seguía!
----------------
-Además, ¡se burlaba de mí
-	con la mirada!
----------------
-Como aquel otro...
----------------
-¿Y lo has matado sólo por eso?
----------------
-¿Cómo que “sólo por eso”?
----------------
-Eddie, ¡no puedes matar a alguien
-	sólo porque te mire mal!
----------------
-¡¿Ah, no?! ¿Por qué no?
----------------
-Hasta ahora, siempre he dejado
-	que se metan conmigo.
----------------
-Igual que ese perro estúpido...
----------------
-¡Él también se lo merecía!
----------------
-¡Eddie!
----------------
-Je, je... Era broma, James.
----------------
-Ya estaba muerto
-	cuando llegué. De verdad.
----------------
-Bueno, me largo.
----------------
-¿Vas a irte solo?
----------------
-Sí.
----------------
-¡Eddie...!
----------------
-Aquí hay un diario.
+Estalki bat dago lurrean,
+	baina ezin dut ireki.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Los prisioneros no sienten
-	remordimientos. De hecho,
-	no se les pasa por la cabeza
-	que puedan ser malvados.
-	 Incluso el animal más analfabeto
-	usará las pocas palabras que
-	sepa para justificarse.
+Zirrikitu bat besterik ez da geratzen,
+	eskulekua zegoen lekuan.<SEPARATORB>
+---------------
+<COLOR-GREEN>Espetxeko mapa bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Txerri tripontziaren egurtxoa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>He encontrado la
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Ehiza-errifle bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+---------------
+<COLOR-GREEN>Txiskeroa
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+---------------
+Norbait hiltzea ez da hainbesterako.
+---------------
+Pistola buruan jarri
+	eta... danba!
+---------------
+Hil... Hil egin al duzu?
+---------------
+Ba... baina ez zen nire errua izan!
+---------------
+Behartu ninduen!
+---------------
+Lasaitu, Eddie.
+---------------
+Kontaidazu zer gertatu den.
+---------------
+Tipo horrek... merezi zuen!
+---------------
+Nik ez dut ezer egin.
+	Bera zen atzetik zetorkidana!
+---------------
+Gainera, adarra jotzen
+	zidan begiradaz!
+---------------
+Beste hura bezala...
+---------------
+Eta horregatik bakarrik hil al duzu?
+---------------
+Nola “horregatik bakarrik”?
+---------------
+Eddie, ezin duzu inor hil
+	gaizki begiratzen zaituelako!
+---------------
+A, ez?! Zergatik ez?
+---------------
+Orain arte, beti utzi
+	diet adarra jotzen.
+---------------
+Txakur tentel hura bezala...
+---------------
+Berak ere merezi zuen!
+---------------
+Eddie!
+---------------
+Kar, kar... Txantxa zen, James.
+---------------
+Hilda zegoen iritsi
+	naizenerako. Benetan.
+---------------
+Tira, banoa.
+---------------
+Bakarrik joango al zara?
+---------------
+Bai.
+---------------
+Eddie...!
+---------------
+Hemen egunkari bat dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Y tendrán sueños así de
-	insignificantes, que florecen
-	incluso en la oscuridad.
-	Los prisioneros no son ninguna
-	excepción.
+<CENTER-PARAGRAPH><COLOR-BLUE> Presoek ez dute damurik
+	sentitzen. Izan ere, ez
+	zaie burutik pasatzen
+	gaiztoak izan daitezkeenik.
+	Animalia analfabetoenak ere,
+	dakizkien hitz apurrak erabiliko
+	ditu bere burua zuritzeko.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Al margen de lo infecta o detestable
-	que sea la existencia y vida de uno,
-	la naturaleza humana es pertinaz.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE> Eta halako amets hutsalak
+	izango dituzte,
+	iluntasunean ere
+	loratzen direnak.
+	Presoak ez dira salbuespenak.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Norberaren existentzia eta bizitza
+	infektatu edo higuingarria alde
+	batera utzita, giza izaera iraunkorra da.<SEPARATORB>
 ---------------
-Una pizarra. Han borrado
-	lo que estaba escrito.<SEPARATORB>
+Arbel bat. Idatzita
+	zegoena ezabatu dute.<SEPARATORB>
 ---------------
-Hay documentos sobre el escritorio.
-	No tienen nada que ver conmigo.<SEPARATORB>
+Idazmahaiari buruzko dokumentuak daude.
+	Ez dute nirekin zerikusirik.<SEPARATORB>
 ---------------
-Aquí no hay nada interesante.<SEPARATORB>
+Hemen ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Llamo a la puerta,
-	pero no hay respuesta.<SEPARATORB>
+Atea jotzen dut,
+	baina ez dago erantzunik.<SEPARATORB>
 ---------------
-Aquí hay una ducha.
-	Pero está rota, no sale agua de ella.<SEPARATORB>
+Hemen dutxa dago.
+	Baina apurtuta dago, ez da urik ateratzen.<SEPARATORB>
