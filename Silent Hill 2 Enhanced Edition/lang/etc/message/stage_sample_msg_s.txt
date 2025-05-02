@@ -1,85 +1,83 @@
 ﻿--------------- strings=30 language=spanish
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> La policía ha anunciado hoy
-	que Walter Sullivan, detenido
-	el día 18 de este mes por
-	el brutal asesinato de Billy
-	Locane y su hermana Miriam,
-	se suicidó en su celda en
-	la madrugada del 22.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
+	Walter Sullivan hilaren 18an
+	atxilotu zuten, Billy Locane
+	eta bere arreba Miriam-en hilketa
+	bortitzagatik, eta bere buruaz
+	beste egin zuen bere ziegan,
+	hilaren 22ko goizaldean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Según la declaración de la policía,
-	Sullivan se clavó una cuchara
-	sopera en el cuello, cortándose
-	la arteria carótida.
-	
-	 Cuando el guarda lo encontró,
-	Sullivan ya había muerto
-	desangrado, con la cuchara
-	hendida cinco centímetros
-	en el cuello.
+<CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
+	Sullivanek zopa-koilara bat sartu
+	zuen lepoan, karotida arteria moztuz.
 
-La puerta no cede.
+	 Zaindariak aurkitu zuenean,
+	Sullivan odolustuta hil zen,
+	koilara lepoan bost zentimetro
+	arrailduta.
 
-Parece como si algo la empujase
-	desde el otro lado.<SEPARATORB>
+Ateak ez du amore ematen.
+
+Badirudi zerbaitek beste
+	aldetik bultzatzen duela.<SEPARATORB>
 ---------------
-¿Vas a sacarlo?<SELECT-YES-OR-NO>
+Aterako al duzu?<SELECT-YES-OR-NO>
 ---------------
-Una foto...<SEPARATORB>
+Argazki bat...<SEPARATORB>
 ---------------
 Eh...
 ---------------
-¡Au!
+Au!
 ---------------
-¡Ja, ja!
+Kar, kar!
 ---------------
-¡Eh, espera!
+Eh, itxaron!
 ---------------
-¡Mierda!
+Kaka zaharra!
 ---------------
-¿Laura?
+Laura?
 ---------------
-¿Eh?
+Eh?
 ---------------
-¿Cómo sabes mi nombre?
+Nola dakizu nire izena?
 ---------------
-Eddie me lo dijo.
+Eddie-k esan zidan.
 ---------------
-Gordo bocazas...
+Ahohandi koipontzi alena...
 ---------------
-¿De qué conoces a Mary?
+Zertaz ezagutzen duzu Mari?
 ---------------
-¿Por qué te importa tanto?
+Zergatik axola zaizu hainbeste?
 ---------------
-¿Es que no puedes decírmelo?
+Ezin al didazu esan?
 ---------------
-¿Me gritarás si no te lo digo?
+Errieta egingo al dizazu esaten ez badizut?
 ---------------
-No... No lo haré.
+Ez... Ez dut egingo.
 ---------------
-Yo era amiga de Mary...
+Mariren laguna nintzen...
 ---------------
-Nos conocimos en el hospital.
+Ospitalean ezagutu genuen elkar.
 ---------------
-Fue el año pasado...
+Iaz izan zen...
 ---------------
-¡Mentirosa!
+Gezurtia!
 ---------------
-Laura, no...
+Laura, ez...
 ---------------
-¡Bueno, pues no me creas!
+Tira, ez sinistu!
 ---------------
-Pero el año pasado,
-	Mary ya estaba...
+Baina iaz,
+	Mari...
 ---------------
-Lo siento, Laura.
+Sentitzen dut, Laura.
 ---------------
-Este no es lugar para una niña.
+Hau ez da neskato batentzako lekua.
 ---------------
-Aquí hay muchas cosas extrañas...
+Hemen gauza bitxi asko daude...
 ---------------
-No puedo creer que no tengas
-	ni un rasguño.
+Ezin dut sinetsi
+	urratu batere ez izatea.
 ---------------
-¿Por qué debería?
+Zergatik?
