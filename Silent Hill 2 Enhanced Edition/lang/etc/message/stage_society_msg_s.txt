@@ -1,50 +1,49 @@
 ﻿--------------- strings=13 language=spanish
 ---------------
-Seguramente aquí había un cuadro.
+Seguru hemen koadro bat egongo zela.
 
-Sólo queda la descripción.
+Deskribapena besterik ez da geratzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>«Paisaje ribereño»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
-	y defunción desconocidas)
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+	heriotza ezezagunak)
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
-	Por el estilo, parece que se pintó
-	sobre la década de 1820.
+<CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
+	Antza denez, 1820ko hamarkadan
+	margotu zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces había mucha
-	menos gente y apenas un puñado
-	de edificios.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Garai hartan askoz jende gutxiago
+	zegoen eta eraikin gutxi batzuk baino ez.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>«Paisaje ribereño»
+<CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
-	y defunción desconocidas)
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+	heriotza ezezagunak)
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
-	Por el estilo, parece que se pintó
-	sobre la década de 1820.
+<CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
+	Antza denez, 1820ko hamarkadan
+	margotu zen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces había mucha
-	menos gente y apenas un puñado
-	de edificios.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Garai hartan askoz jende gutxiago
+	zegoen eta eraikin gutxi batzuk baino ez.<SEPARATORB>	
 ---------------
-<COLOR-BLUE>«Día neblinoso,
-	restos del juicio»
+<COLOR-BLUE>«Egun lainotsua,
+	epaiketaren hondarrak»
 
-<COLOR-WHITE>Es él...<SEPARATORB>
+<COLOR-WHITE>Bera da...<SEPARATORB>
 ---------------
-Esta foto no tiene nada especial.<SEPARATORB>
+Argazki honek ez du ezer berezirik.<SEPARATORB>
 ---------------
-La vitrina no tiene nada de interés.<SEPARATORB>
+Beira-arasak ez du batere interesik.<SEPARATORB>
 ---------------
-Hay muchas fotografías antiguas.
-	Parecen fotos de esta ciudad.<SEPARATORB>
+Argazki zahar asko daude.
+	Hiri honetako argazkiak dirudite.<SEPARATORB>
 ---------------
-El texto no dice nada útil.<SEPARATORB>
+Testuak ez du ezer baliagarririk esaten.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Obsidiana-kopa bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
 Hay una foto colgada.
 
@@ -53,21 +52,21 @@ Hay una foto colgada.
 Hay una foto de un hoyo
 	muy profundo. ¿Qué podría ser...?<SEPARATORB>
 ---------------
-Hay una foto colgada.
+Argazki bat dago eskegita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Hospital Brookhaven (1880)
+<CENTER-PARAGRAPH><COLOR-BLUE>Brookhaven ospitalea (1880)
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Este hospital se edificó
-	en respuesta a la gran plaga
-	que trajo un grupo de
-	inmigrantes. Originalmente
-	era poco más que una casucha,
-	pero fue creciendo
-	con el tiempo.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Ospitale hau etorkin talde
+	batek eraiki zuen izurrite
+	handia dela eta.
+	Jatorrian etxola bat
+	baino ez zen, baina
+	denborarekin hazten
+	joan zen.<SEPARATORB>
 ---------------
-Hay una foto de un hoyo
-	muy profundo. ¿Qué podría ser...?<SEPARATORB>
+Zulo sakon baten argazkia dago.
+	Zer izan liteke...?<SEPARATORB>
 ---------------
-Una foto del director del viejo
-	Hospital Brookhaven.
-	Parece que era famoso por aquí.<SEPARATORB>
+Brookhaven Ospitale zaharreko
+	zuzendariaren argazki bat.
+	Badirudi hemen ospetsua zela.<SEPARATORB>
