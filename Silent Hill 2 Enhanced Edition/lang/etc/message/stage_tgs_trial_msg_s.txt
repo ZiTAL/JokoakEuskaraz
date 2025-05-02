@@ -1,82 +1,93 @@
 ﻿--------------- strings=28 language=spanish
 ---------------
-Hay algo escrito.<SEPARATORB>
+Zerbait idatzita dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Joseph me dio la llave.
-	Será de esa caja.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Joseph-ek giltza eman zidan.
+	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
-Una bata de laboratorio.
-	No hay nada especialmente
-	interesante.<SEPARATORB>
+Laborategiko txabusina.
+	Ez dago ezer bereziki
+	interesgarririk.<SEPARATORB>
 ---------------
-Hay algo escrito en la pared.<SEPARATORB>
+Horman zerbait dago idatzita.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira jira jira los números
 	mejor no olvidarlos
 	Por eso los eskriba aquí
-	El otro, mi nombre secreto<SEPARATORB>
+	El otro, mi nombre secreto
+	
+Gira ta bira,
+zenbakiak hobe ez ahaztea
+horregatik eskriba hemen bestea,
+nire izen sekretua<SEPARATORB>
 ---------------
-Hay una caja con muchas cerraduras.
+Kutxa bat dago sarraila askorekin.
 
-Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+Denetara <VARIABLE-01> sarraila daude.<SEPARATORB>
 ---------------
-Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+Denetara <VARIABLE-01> sarraila daude.<SEPARATORB>
 ---------------
-No hay nada dentro de la caja.
+Kutxan ez dago ezer.
 
-No, me equivoco...
-	Dentro hay unos pelos.<SEPARATORB>
+Ez, oker nago...
+	Barruan ile batzuk daude.<SEPARATORB>
 ---------------
-Ya no hay nada en la caja.<SEPARATORB>
+Kutxan ez dago ezer.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Louise
-	Siempre cuidaré de ti.
-	¡Es mi destino!<SEPARATORB>
+	Beti zainduko zaitut.
+	Nire patua da!<SEPARATORB>
 ---------------
-Una caja cerrada.<SEPARATORB>
+Kutxa itxita dago.<SEPARATORB>
 ---------------
-Hay algo metido en la tubería
-	de desagüe.
+Hustubideko hodian
+	zerbait dago sartuta.
 
-El agujero es muy pequeño.
-	No puedo meter la mano para
-	alcanzarlo.
+Zuloa oso txikia da.
+	Ezin dut eskua sartu
+	harrapatzeko.
 
-Quizás si tuviese algún tipo de
-	herramienta larga y estrecha...<SEPARATORB>
+Agian tresna luze eta
+	esturen bat banu...<SEPARATORB>
 ---------------
-No hay nada en el agujero.<SEPARATORB>
+Zuloan ez dago ezer.<SEPARATORB>
 ---------------
-Giro la llave, pero no sale agua.<SEPARATORB>
+Giltza biratzen dut,baina ez da urik ateratzen.<SEPARATORB>
 ---------------
-Así nunca podré cogerlo.<SEPARATORB>
+Horrela ezingo dut inoiz hartu.<SEPARATORB>
 ---------------
-No es lo bastante largo.<SEPARATORB>
+Ez da nahikoa luzea.<SEPARATORB>
 ---------------
-Hay una tapa sobre el botón
-	de llamada del ascensor.
+Estalki bat dago igogailuaren
+	botoiaren gainean.
 
-No tengo forma de abrirla.<SEPARATORB>
+Ez dut irekitzeko modurik.<SEPARATORB>
 ---------------
-Pulso los botones,
-	pero el ascensor no reacciona.<SEPARATORB>
+Botoiei ematen diet,
+	baina igogailuak ez du erreakzionatzen.<SEPARATORB>
 ---------------
-El armario no se abre.<SEPARATORB>
+Armairua ez da irekitzen.<SEPARATORB>
 ---------------
-No creo que pueda seguir por aquí.<SEPARATORB>
+Ez dut uste hemendik jarraituko dudanik.<SEPARATORB>
 ---------------
-Aquí no hay nada interesante.<SEPARATORB>
+Hemen ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-No parece haber nada útil por aquí.<SEPARATORB>
+Ez dirudi hemen ezer erabilgarririk dagoenik.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Zezen morearen giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Zezen morearen giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
 ---------------
-He encontrado un <COLOR-GREEN>mechón de pelo<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Ile-mataza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado una <COLOR-GREEN>aguja torcida<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Orratz oker bat
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He encontrado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Igogailuaren giltza
+	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-He usado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+<COLOR-GREEN>Igogailuaren giltza
+	<COLOR-WHITE>erabili dut.<SEPARATORB>
