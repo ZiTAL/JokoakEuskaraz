@@ -1,13 +1,13 @@
 ﻿--------------- strings=6 language=spanish
 ---------------
-Se fue por allí.
+Handik joan zen.
 ---------------
-¿No hay otro camino?
+Ez dago beste biderik?
 ---------------
-Sí, sí lo hay.
+Bai, badago.
 ---------------
-Por ahí.
+Hortik.
 ---------------
-No se puede. Está cerrado.
+Ezin da. Itxita dago.
 ---------------
-James, no puedes ir por ahí.
+James, ezin zara hortik joan.

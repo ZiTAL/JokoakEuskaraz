@@ -24,6 +24,8 @@ zintzilik -> eskegita
 
 cristalino -> kristalino -> garden
 
+¿ kendu
+
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_prison_s_msg_s.txt
 
 /home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_to_heaven_msg_s.txt
