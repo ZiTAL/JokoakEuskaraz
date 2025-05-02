@@ -69,8 +69,9 @@ Hemen liburuxka turistikoak daude.
 	Orain ez zaizkit interesatzen.<SEPARATORB>
 ---------------
 Liburu bat.
-	"Zer da informatika? Ekaitz Zarraga"
-	Ez dirudi oso erabilgarria denik.<SEPARATORB>
+	"Zer da informatika?
+		Ekaitz Zarraga - https://www.elenq.tech"
+	Momentu honetan ez dirudi erabilgarria denik.<SEPARATORB>
 ---------------
 Liburu bat dago zabalik
 	idazmahaiaren gainean.
