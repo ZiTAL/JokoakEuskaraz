@@ -1,104 +1,41 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 8
+--------------- strings=8 language=spanish
+---------------
+Esto deber√≠a llevarme al callej√≥n
+	que conduce hasta el parque.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Esto deberÌa llevarme al callejÛn
-que conduce hasta el parque.
-[ffff]
-[1000]
-[8000]
-Pero antes deberÌa cumplir
-la promesa que le hice a Ernest.
-[ffff]
-[9000]
-}
-{
-[8000]
+Pero antes deber√≠a cumplir
+	la promesa que le hice a Ernest.<SEPARATORB>
+---------------
 Hay algo escrito en la mesa.
-[ffff]
-[1000]
-[8000]
-Est· demasiado oscuro para leerlo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Puedo ver el apartamento contiguo
-desde la ventana.
-[ffff]
-[9000]
-}
-{
-[8000]
-Est· cerrada.
-[ffff]
-[1000]
-[8000]
-Hay una nota pegada en la puerta.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Querido Tim:
- Tengo que irme a hacer un recado.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Le dejo la llave de la casa
-al tÌo David (Ya sabes dÛnde
-vive, øno? La llave est·
-en la habitaciÛn m·s cercana
-a la escalera del primer piso).
 
- VolverÈ en cuanto pueda;
-cuÌdame la casa mientras
-estoy fuera, por favor.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-mapa del edificio
-de apartamentos
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado el 
-[03ff]
-lÌquido blanco
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
+Est√° demasiado oscuro para leerlo.<SEPARATORB>
+---------------
+Puedo ver el apartamento contiguo
+	desde la ventana.<SEPARATORB>
+---------------
+Est√° cerrada.
+
+Hay una nota pegada en la puerta.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
+	 Tengo que irme a hacer un recado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
+	al t√≠o David (Ya sabes d√≥nde
+	vive, ¬øno? La llave est√°
+	en la habitaci√≥n m√°s cercana
+	a la escalera del primer piso).
+	
+	 Volver√© en cuanto pueda;
+	cu√≠dame la casa mientras
+	estoy fuera, por favor.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del edificio
+	de apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado el <COLOR-GREEN>l√≠quido blanco<COLOR-WHITE>.<SEPARATORB>
+---------------
 Una caja fuerte...
-Pero no sÈ como abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
-QuÈ repugnante...
-[ffff]
-[9000]
-}
+	Pero no s√© como abrirla.<SEPARATORB>
+---------------
+Qu√© repugnante...<SEPARATORB>

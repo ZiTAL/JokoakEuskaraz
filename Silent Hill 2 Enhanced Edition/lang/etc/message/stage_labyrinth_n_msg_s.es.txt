@@ -1,626 +1,286 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 38
+--------------- strings=38 language=spanish
+---------------
+<COLOR-BLUE>Este hombre fue colgado
+	por asesinato. La justicia
+	y la venganza se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado por robo.
+	La justicia y la venganza
+	se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado por rapto.
+	La justicia y la venganza
+	se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado por estafa.
+	La justicia y la venganza
+	se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado
+	por desfalco. La justicia
+	y la venganza se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado
+	por agresiÃ³n con lesiones corporales.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<COLOR-BLUE>La justicia y la venganza
+	se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado
+	por falsificaciÃ³n. La justicia
+	y la venganza se han cumplido.<SEPARATORB>
+---------------
+<COLOR-BLUE>Este hombre fue colgado
+	por incendio provocado. La justicia
+	y la venganza se han cumplido.<SEPARATORB>
+---------------
+Su cara estÃ¡ cubierta con un papel.
+	Hay algo escrito.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Ã‰l cometiÃ³ un crimen diabÃ³lico.
+	Redujo un hogar feliz
+	a un montÃ³n de cenizas.
+	Por eso deberÃ­a morir.
 
-BEGIN_SOURCE:
-{
-[8000]
-[01ff]
-Este hombre fue colgado
-por asesinato. La justicia
-y la venganza se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado por robo.
-La justicia y la venganza
-se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado por rapto.
-La justicia y la venganza
-se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado por estafa.
-La justicia y la venganza
-se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado
-por desfalco. La justicia
-y la venganza se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado
-por agresión con lesiones corporales.
-[ffff]
-[1000]
-[8000]
-[01ff]
-La justicia y la venganza
-se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado
-por falsificación. La justicia
-y la venganza se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Este hombre fue colgado
-por incendio provocado. La justicia
-y la venganza se han cumplido.
-[ffff]
-[9000]
-}
-{
-[8000]
-Su cara está cubierta con un papel.
-Hay algo escrito.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Él cometió un crimen diabólico.
-Redujo un hogar feliz
-a un montón de cenizas.
-Por eso debería morir.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Ellos también
-cometieron crímenes.
-Trataron de estafar
-y engañar a otros.
-Así que su recompensa
-también es la más lógica.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Ese tampoco se merece el perdón,
-a mi amigo le falta la mano izquierda.
-Por eso su muerte no me importa.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-¿Y qué decir de él?
-Tampoco está libre de pecado.
-Aquí sólo hay uno
-que es inocente.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-El niño perdido no
-apareció por ninguna parte,
-así que no hubo pruebas
-de su culpabilidad.
-Su muerte fue una tragedia.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Eso es todo lo que quiero decir.
-No fue ni justicia ni castigo.
-[ffff]
-[9000]
-}
-{
-[8000]
-[fbff]
-[faff]
-[01ff]
-Hombres muertos, hombres
-muertos y colgados del revés
-¿Cuántos hombres muertos ves?
-La lengua azul, plumas y brea
-El muerto gira y se balancea
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-El primero mató al carnicero
-Lo descuartizó sobre un puchero
-Más tarde lo cocinó
-Y a sus invitados se lo ofreció
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-El segundo con engaños
-A pobres niños raptó
-Y a los hombres repugnantes
-como esclavos los vendió
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Entrando de noche a hurtadillas
-El ladrón no vió las trampillas
-Y llena de alcohol su cabeza
-Despertó de mañana entre rejas
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-El falsificador avezado
-Quiso pagar al contado
-Probó suerte pintando billetes
-Pero acabó entre grilletes
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Con ansias de gran beneficio
-Robó el oro de un edificio
-Lo envolvió y ocultó a la vista
-Pero nadie encontró su pista
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Tres casas ardieron de noche
-El sheriff recibió un reproche
-A un forastero echó el ojo
-Lo encerró, pateó y dejo cojo
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Hombres muertos, hombres
-muertos y colgados del revés
-¿Cuántos hombres muertos ves?
-Los seis fueron al mismo lugar
-Una cuerda que les va a ahorcar
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
- No quiero morir.
+<CENTER-PARAGRAPH><COLOR-BLUE>Ellos tambiÃ©n
+	cometieron crÃ­menes.
+	Trataron de estafar
+	y engaÃ±ar a otros.
+	AsÃ­ que su recompensa
+	tambiÃ©n es la mÃ¡s lÃ³gica.
 
- Pero mañana subiré al patíbulo.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Por favor, que alguien me responda,
-¿por qué debo morir al amanecer?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El prisionero que tengo al lado
-me cree. Dijo: "Porque están
-todos locos, y ya está".
+<CENTER-PARAGRAPH><COLOR-BLUE>Ese tampoco se merece el perdÃ³n,
+	a mi amigo le falta la mano izquierda.
+	Por eso su muerte no me importa.
 
- Por supuesto, sé que su opinión
-no cambiará nada. Murmuró:
-"Ahora sabes por qué les di
-una paliza".
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El hombre que ejecutaron ayer,
-el que había dicho que su trabajo
-era vender sueños, dijo que eso
-no era verdad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Pero el que ejecutarán
-pasado mañana por raptar niños
-le gritó que sí era verdad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El hombre al que colgaron hoy
-no les contestó. Solo dijo:
-"Me matarán de todas formas".
-Lo arrestaron por malversación,
-así que que no espera clemencia.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El que siempre sonríe
-tranquilamente dijo: "Yo soy feliz,
-pronto estaré con ella".
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- No quiero morir. Sólo quiero
-volver a casa. Pero sé que no
-lo haré. Aunque no haya hecho
-nada, este crimen me lo han
-achacado a mí.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Que alguien me salve.
-Esto no es un castigo.
-¡Están sedientos de sangre
-y yo soy el cordero a sacrificar!
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Podemos asignar la muerte
-sobre la cabeza del pecador,
-pero, ¿para qué?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Hoy, en nombre del castigo,
-formamos parte de una
-amarga comedia.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tú, el colgado por el cuello,
-no tuviste nuestro perdón,
-sino nuestras maldiciones.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cinco de ellos cometieron
-crímenes, seis salieron a beber
-y fueron capturados.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Sólo uno era inocente,
-pero ellos no lo sabían.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Las manchas de sangre que quedan
-son prueba de su culpabilidad.
-Estos trillados caminos son los que
-llevan al infierno o al vacío.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Las vendas blancas
-manchadas de rojo,
-Los restos sobre
-la tierra quemada,
-Los llantos susurrados
-de la doncella.
-Sus contratos
-sin ningún sentido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Estos también son
-signos de culpabilidad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Pero uno de ellos fue
-ajusticiado sin razón.
-Lo mataron por temor
-y una imaginación
-desbocada.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Solo, al final de una cuerda,
-no es nada menos que una
-desgracia para todos.
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Â¿Y quÃ© decir de Ã©l?
+	Tampoco estÃ¡ libre de pecado.
+	AquÃ­ sÃ³lo hay uno
+	que es inocente.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>El niÃ±o perdido no
+	apareciÃ³ por ninguna parte,
+	asÃ­ que no hubo pruebas
+	de su culpabilidad.
+	Su muerte fue una tragedia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Eso es todo lo que quiero decir.
+	No fue ni justicia ni castigo.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
+	muertos y colgados del revÃ©s
+	Â¿CuÃ¡ntos hombres muertos ves?
+	La lengua azul, plumas y brea
+	El muerto gira y se balancea
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El primero matÃ³ al carnicero
+	Lo descuartizÃ³ sobre un puchero
+	MÃ¡s tarde lo cocinÃ³
+	Y a sus invitados se lo ofreciÃ³
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El segundo con engaÃ±os
+	A pobres niÃ±os raptÃ³
+	Y a los hombres repugnantes
+	como esclavos los vendiÃ³
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Entrando de noche a hurtadillas
+	El ladrÃ³n no viÃ³ las trampillas
+	Y llena de alcohol su cabeza
+	DespertÃ³ de maÃ±ana entre rejas
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>El falsificador avezado
+	Quiso pagar al contado
+	ProbÃ³ suerte pintando billetes
+	Pero acabÃ³ entre grilletes
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Con ansias de gran beneficio
+	RobÃ³ el oro de un edificio
+	Lo envolviÃ³ y ocultÃ³ a la vista
+	Pero nadie encontrÃ³ su pista
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Tres casas ardieron de noche
+	El sheriff recibiÃ³ un reproche
+	A un forastero echÃ³ el ojo
+	Lo encerrÃ³, pateÃ³ y dejo cojo
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hombres muertos, hombres
+	muertos y colgados del revÃ©s
+	Â¿CuÃ¡ntos hombres muertos ves?
+	Los seis fueron al mismo lugar
+	Una cuerda que les va a ahorcar<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir.
+	
+	 Pero maÃ±ana subirÃ© al patÃ­bulo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Por favor, que alguien me responda,
+	Â¿por quÃ© debo morir al amanecer?
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El prisionero que tengo al lado
+	me cree. Dijo: "Porque estÃ¡n
+	todos locos, y ya estÃ¡".
+	
+	 Por supuesto, sÃ© que su opiniÃ³n
+	no cambiarÃ¡ nada. MurmurÃ³:
+	"Ahora sabes por quÃ© les di
+	una paliza".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El hombre que ejecutaron ayer,
+	el que habÃ­a dicho que su trabajo
+	era vender sueÃ±os, dijo que eso
+	no era verdad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero el que ejecutarÃ¡n
+	pasado maÃ±ana por raptar niÃ±os
+	le gritÃ³ que sÃ­ era verdad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El hombre al que colgaron hoy
+	no les contestÃ³. Solo dijo:
+	"Me matarÃ¡n de todas formas".
+	Lo arrestaron por malversaciÃ³n,
+	asÃ­ que que no espera clemencia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El que siempre sonrÃ­e
+	tranquilamente dijo: "Yo soy feliz,
+	pronto estarÃ© con ella".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> No quiero morir. SÃ³lo quiero
+	volver a casa. Pero sÃ© que no
+	lo harÃ©. Aunque no haya hecho
+	nada, este crimen me lo han
+	achacado a mÃ­.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Que alguien me salve.
+	Esto no es un castigo.
+	Â¡EstÃ¡n sedientos de sangre
+	y yo soy el cordero a sacrificar!<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Podemos asignar la muerte
+	sobre la cabeza del pecador,
+	pero, Â¿para quÃ©?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Hoy, en nombre del castigo,
+	formamos parte de una
+	amarga comedia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>TÃº, el colgado por el cuello,
+	no tuviste nuestro perdÃ³n,
+	sino nuestras maldiciones.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cinco de ellos cometieron
+	crÃ­menes, seis salieron a beber
+	y fueron capturados.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>SÃ³lo uno era inocente,
+	pero ellos no lo sabÃ­an.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Las manchas de sangre que quedan
+	son prueba de su culpabilidad.
+	Estos trillados caminos son los que
+	llevan al infierno o al vacÃ­o.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Las vendas blancas
+	manchadas de rojo,
+	Los restos sobre
+	la tierra quemada,
+	Los llantos susurrados
+	de la doncella.
+	Sus contratos
+	sin ningÃºn sentido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Estos tambiÃ©n son
+	signos de culpabilidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero uno de ellos fue
+	ajusticiado sin razÃ³n.
+	Lo mataron por temor
+	y una imaginaciÃ³n
+	desbocada.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Solo, al final de una cuerda,
+	no es nada menos que una
+	desgracia para todos.<SEPARATORB>
+---------------
 Del techo cuelga una soga.
-[ffff]
-[1000]
-[8000]
-¿Vas a tirar de ella?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Sólo el que está libre
-de pecado te puede ayudar.
-Tira por error de la cuerda
-de un criminal y tu recompensa
-te será otorgada en la forma
-más extrañamente extraordinaria.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Pero ten cuidado sin embargo
-del castigo enviado
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay razón para volver
-a tirar de esto.
-[ffff]
-[9000]
-}
-{
-[8000]
-No podré girar la manivela
-hasta que quite las esposas.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un nombre inscrito en la lápida.
-[ffff]
-[1000]
-[8000]
-[01ff]
-Eddie Dombrowski
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un nombre inscrito en la lápida.
-[ffff]
-[1000]
-[8000]
-[01ff]
-Angela Orosco
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un nombre inscrito en la lápida.
-[ffff]
-[1000]
-[8000]
-[01ff]
-James Sunderland
-[ffff]
-[9000]
-}
-{
-[8000]
-¿María?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿María...?
-[ffff]
-[8000]
-}
-{
-[8000]
-María, no...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué te ha pasado?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué...? ¿Por qué...?
-[ffff]
-[8000]
-}
-{
-[8000]
+
+Â¿Vas a tirar de ella?<SELECT-YES-OR-NO>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>SÃ³lo el que estÃ¡ libre
+	de pecado te puede ayudar.
+	Tira por error de la cuerda
+	de un criminal y tu recompensa
+	te serÃ¡ otorgada en la forma
+	mÃ¡s extraÃ±amente extraordinaria.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero ten cuidado sin embargo
+	del castigo enviado<SEPARATORB>
+---------------
+No hay razÃ³n para volver
+	a tirar de esto.<SEPARATORB>
+---------------
+No podrÃ© girar la manivela
+	hasta que quite las esposas.<SEPARATORB>
+---------------
+Hay un nombre inscrito en la lÃ¡pida.
+
+<COLOR-BLUE>Eddie Dombrowski<SEPARATORB>
+---------------
+Hay un nombre inscrito en la lÃ¡pida.
+
+<COLOR-BLUE>Angela Orosco<SEPARATORB>
+---------------
+Hay un nombre inscrito en la lÃ¡pida.
+
+<COLOR-BLUE>James Sunderland<SEPARATORB>
+---------------
+Â¿MarÃ­a?
+---------------
+Â¿MarÃ­a...?
+---------------
+MarÃ­a, no...
+---------------
+Â¿QuÃ© te ha pasado?
+---------------
+Â¿Por quÃ©...? Â¿Por quÃ©...?
+---------------
 Mary...
-[ffff]
-[8000]
-}
-{
-[8000]
-En esta habitación no queda
-nada para mí...
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave
-del falso acusado
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave del falso acusado
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un nombre inscrito en la lápida.
-[ffff]
-[1000]
-[8000]
-[01ff]
-Walter Sullivan
-[ffff]
-[9000]
-}
-{
-[8000]
-El nombre en la lápida está
-demasiado rayado para leerlo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un epitafio.
-[ffff]
-[1000]
-[8000]
-[01ff]
-Este delincuente bebió su última
-cerveza antes de ser ejecutado
-y enterrado aquí para su descanso
-eterno.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un nombre inscrito en la lápida.
-[ffff]
-[1000]
-[8000]
-[01ff]
-Miriam K.: «Traidora»
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un hoyo profundo.
-Pero dentro no hay nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí ya no puedo hacer
-nada más.
-[ffff]
-[1000]
-[8000]
-No quiero dejarla aquí, pero
-tengo que hacerlo...
-[ffff]
-[9000]
-}
-{
-[8000]
-El papel que cubría la cara
-del cadáver ha caído aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Vas a bajar?
-[f6ff]
-[ffff]
-[8000]
-}
+---------------
+En esta habitaciÃ³n no queda
+	nada para mÃ­...<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	del falso acusado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del falso acusado<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay un nombre inscrito en la lÃ¡pida.
+
+<COLOR-BLUE>Walter Sullivan<SEPARATORB>
+---------------
+El nombre en la lÃ¡pida estÃ¡
+	demasiado rayado para leerlo.<SEPARATORB>
+---------------
+AquÃ­ hay un epitafio.
+
+<COLOR-BLUE>Este delincuente bebiÃ³ su Ãºltima
+	cerveza antes de ser ejecutado
+	y enterrado aquÃ­ para su descanso
+	eterno.<SEPARATORB>
+---------------
+Hay un nombre inscrito en la lÃ¡pida.
+
+<COLOR-BLUE>Miriam K.: Â«TraidoraÂ»<SEPARATORB>
+---------------
+AquÃ­ hay un hoyo profundo.
+	Pero dentro no hay nada.<SEPARATORB>
+---------------
+AquÃ­ ya no puedo hacer
+	nada mÃ¡s.
+
+No quiero dejarla aquÃ­, pero
+	tengo que hacerlo...<SEPARATORB>
+---------------
+El papel que cubrÃ­a la cara
+	del cadÃ¡ver ha caÃ­do aquÃ­.<SEPARATORB>
+---------------
+Â¿Vas a bajar?<SELECT-YES-OR-NO>

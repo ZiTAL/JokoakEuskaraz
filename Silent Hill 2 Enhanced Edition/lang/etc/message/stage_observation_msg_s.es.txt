@@ -1,218 +1,83 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 30
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=30 language=spanish
+---------------
 Vine por este camino.
-No tiene sentido volver atrás.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No tiene sentido volver atrÃ¡s.<SEPARATORB>
+---------------
 No puedo seguir en coche.
-Tendré que andar...
-[ffff]
-[9000]
-}
-{
-[8000]
+	TendrÃ© que andar...<SEPARATORB>
+---------------
 Hay un mapa en el coche.
-Sería una buena idea cogerlo.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada más de interés.
-[ffff]
-[9000]
-}
-{
-[8000]
+	SerÃ­a una buena idea cogerlo.<SEPARATORB>
+---------------
+No hay nada mÃ¡s de interÃ©s.<SEPARATORB>
+---------------
 No hay nada en el asiento
-de pasajeros.
-[ffff]
-[9000]
-}
-{
-[8000]
+	de pasajeros.<SEPARATORB>
+---------------
 No hay nada en el asiento
-de pasajeros.
-[ffff]
-[1000]
-[8000]
-El mapa está en el asiento
-del conductor.
-[ffff]
-[9000]
-}
-{
-[8000]
-Mary... ¿de verdad estás
-en esta ciudad?
-[ffff]
-[8000]
-}
-{
-[8000]
-En mis sueños más inquietos
-veo esa ciudad.
-[ffff]
-[8000]
-}
-{
-[8000]
+	de pasajeros.
+
+El mapa estÃ¡ en el asiento
+	del conductor.<SEPARATORB>
+---------------
+Mary... Â¿de verdad estÃ¡s
+	en esta ciudad?
+---------------
+En mis sueÃ±os mÃ¡s inquietos
+	veo esa ciudad.
+---------------
 Silent Hill.
-[ffff]
-[8000]
-}
-{
-[8000]
-Me prometiste que volverías
-a llevarme allí algún día.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Me prometiste que volverÃ­as
+	a llevarme allÃ­ algÃºn dÃ­a.
+---------------
 Pero nunca lo hiciste.
-[ffff]
-[8000]
-}
-{
-[8000]
-Y ahora estoy allí, sola...
-[ffff]
-[8000]
-}
-{
-[8000]
-En nuestro “lugar especial”...
-[ffff]
-[8000]
-}
-{
-[8000]
-Esperándote...
-[ffff]
-[8000]
-}
-{
-[8000]
-Me llegó una carta.
-[ffff]
-[8000]
-}
-{
-[8000]
-El sobre tenía escrito “Mary”.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Y ahora estoy allÃ­, sola...
+---------------
+En nuestro â€œlugar especialâ€...
+---------------
+EsperÃ¡ndote...
+---------------
+Me llegÃ³ una carta.
+---------------
+El sobre tenÃ­a escrito â€œMaryâ€.
+---------------
 El nombre de mi mujer...
-[ffff]
-[8000]
-}
-{
-[8000]
-Es ridículo.
-Es totalmente imposible...
-[ffff]
-[8000]
-}
-{
-[8000]
-No dejo de repetírmelo
-una y otra vez...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Es ridÃ­culo.
+	Es totalmente imposible...
+---------------
+No dejo de repetÃ­rmelo
+	una y otra vez...
+---------------
 Los muertos no pueden
-escribir cartas.
-[ffff]
-[8000]
-}
-{
-[8000]
-Mary murió por aquella maldita
-enfermedad hace tres años.
-[ffff]
-[8000]
-}
-{
-[8000]
-Entonces, ¿por qué
-la estoy buscando?
-[ffff]
-[8000]
-}
-{
-[8000]
-“Nuestro lugar especial”...
-¿A qué se refería?
-[ffff]
-[8000]
-}
-{
-[8000]
+	escribir cartas.
+---------------
+Mary muriÃ³ por aquella maldita
+	enfermedad hace tres aÃ±os.
+---------------
+Entonces, Â¿por quÃ©
+	la estoy buscando?
+---------------
+â€œNuestro lugar especialâ€...
+	Â¿A quÃ© se referÃ­a?
+---------------
 Toda esta ciudad
-era nuestro lugar especial.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Se referiría a aquel parque
-junto al lago?
-[ffff]
-[8000]
-}
-{
-[8000]
-Pasamos allí todo el día.
-Los dos solos, contemplando el agua.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Está allí Mary realmente?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De verdad está viva...
-esperándome?
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-mapa de Silent Hill
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Creo que deberías mirarte
-esa tos...
-[ffff]
-[8000]
-}
+	era nuestro lugar especial.
+---------------
+Â¿Se referirÃ­a a aquel parque
+	junto al lago?
+---------------
+Pasamos allÃ­ todo el dÃ­a.
+	Los dos solos, contemplando el agua.
+---------------
+Â¿EstÃ¡ allÃ­ Mary realmente?
+---------------
+Â¿De verdad estÃ¡ viva...
+	esperÃ¡ndome?
+---------------
+He encontrado un <COLOR-GREEN>mapa de Silent Hill<COLOR-WHITE>.<SEPARATORB>
+---------------
+Creo que deberÃ­as mirarte
+	esa tos...

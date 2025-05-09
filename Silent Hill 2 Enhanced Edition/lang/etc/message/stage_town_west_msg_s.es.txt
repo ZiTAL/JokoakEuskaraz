@@ -1,863 +1,321 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 113
+--------------- strings=113 language=spanish
+---------------
+Â¿QuÃ© ha sido de aquella niÃ±a...?
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+Â¿PodrÃ¡ estar sola en
+	una ciudad como esta?<SEPARATORB>
+---------------
+Esta parte del terreno estÃ¡
+	mÃ¡s elevada de lo normal.
 
-BEGIN_SOURCE:
-{
-[8000]
-¿Qué ha sido de aquella niña...?
-[ffff]
-[1000]
-[8000]
-¿Podrá estar sola en
-una ciudad como esta?
-[ffff]
-[9000]
-}
-{
-[8000]
-Esta parte del terreno está
-más elevada de lo normal.
-[ffff]
-[1000]
-[8000]
-¿Habrá algo debajo?
-[ffff]
-[1000]
-[8000]
-¿Vas a cavar?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Había una pequeña caja metálica
-enterrada.
-[ffff]
-[1000]
-[8000]
-La caja está cerrada con pernos.
-No puedo abrir la tapa.
-[ffff]
-[9000]
-}
-{
-[8000]
-La caja está cerrada con pernos.
-No puedo abrir la tapa.
-[ffff]
-[9000]
-}
-{
-[8000]
-Había una llave en la caja.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Víctima de persecución
-por l
-[f7ff]
-os cristi
-[f7ff]
-anos.
-Jenni
-[f7ff]
-fer
-[f7ff]
- Carroll
-vivió con orgullo y honor.
-Lo que ocurrió aquí
-nunca debe ser olvidado.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Patrick Chester, hijo de Edward.
-Luchó y murió por el pueblo,
-por la libertad y por nuestro
-futuro. Su recuerdo perdura.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-En recuerdo de los sesenta y siete
-que murieron por la enfermedad
-y duermen bajo el lago.
-[ffff]
-[9000]
-}
-{
-[8000]
+Â¿HabrÃ¡ algo debajo?
+
+Â¿Vas a cavar?<SELECT-YES-OR-NO>
+---------------
+HabÃ­a una pequeÃ±a caja metÃ¡lica
+	enterrada.
+
+La caja estÃ¡ cerrada con pernos.
+	No puedo abrir la tapa.<SEPARATORB>
+---------------
+La caja estÃ¡ cerrada con pernos.
+	No puedo abrir la tapa.<SEPARATORB>
+---------------
+HabÃ­a una llave en la caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>VÃ­ctima de persecuciÃ³n
+	por l<HIDDEN-TEXT>os cristi<HIDDEN-TEXT>anos.
+	Jenni<HIDDEN-TEXT>fer<HIDDEN-TEXT> Carroll
+	viviÃ³ con orgullo y honor.
+	Lo que ocurriÃ³ aquÃ­
+	nunca debe ser olvidado.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Patrick Chester, hijo de Edward.
+	LuchÃ³ y muriÃ³ por el pueblo,
+	por la libertad y por nuestro
+	futuro. Su recuerdo perdura.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>En recuerdo de los sesenta y siete
+	que murieron por la enfermedad
+	y duermen bajo el lago.<SEPARATORB>
+---------------
 Tiene algo escrito, pero
-es imposible leerlo porque
-la superficie ha sido borrada.
-[ffff]
-[9000]
-}
-{
-[8000]
+	es imposible leerlo porque
+	la superficie ha sido borrada.<SEPARATORB>
+---------------
 Tiene un viejo candado
-que parece resistente.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-libro llamado
-“Memorias perdidas”
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
- El nombre surge de la leyenda del
-pueblo al que robaron sus tierras.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Este lugar era conocido como
-«El lugar de los espíritus silenciosos».
-Por «espíritus» entendían no sólo a
-sus familiares muertos, sino también
-los espíritus que, según creían,
-viven en los árboles, las rocas
-y el agua.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Cuenta la leyenda que aquí
-tenían lugar las ceremonias más
-sagradas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Pero no fueron los antepasados
-de quienes ahora viven en esta
-ciudad los que robaron las tierras
-a aquel pueblo. Hubo otros
-que llegaron antes.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-En aquel entonces, esta ciudad tenía
-otro nombre... pero se ha perdido
-en los anales de la historia.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Sólo sabemos que tuvo otro
-nombre y que, por alguna razón,
-la ciudad fue abandonada por
-sus habitantes.
-[ffff]
-[9000]
-}
-{
-[8000]
-¡Tú!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Has sido tú, no?
-La que me pisó la mano.
-[ffff]
-[8000]
-}
-{
-[8000]
-No sé...
-[ffff]
-[8000]
-}
-{
-[8000]
-A lo mejor...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué hace una niña como tú
-en un lugar como este?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Eh? ¿Estás ciego o qué te pasa?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué es esa carta?
-[ffff]
-[8000]
-}
-{
-[8000]
-Nada que te importe.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Tú no amabas a Mary!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Espera!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Cómo sabes el nombre de Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
-No... No eres tú.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me parezco a tu chica?
-[ffff]
-[8000]
-}
-{
-[8000]
-No... A mi esposa fallecida.
-[ffff]
-[8000]
-}
-{
-[8000]
-No puedo creerlo...
-[ffff]
-[8000]
-}
-{
-[8000]
-Podrías ser su hermana gemela.
-Tu rostro, tu voz...
-[ffff]
-[8000]
-}
-{
-[8000]
-Sólo tu pelo y tu ropa
-son diferentes.
-[ffff]
-[8000]
-}
-{
-[8000]
-Me llamo... María.
-[ffff]
-[8000]
-}
-{
-[8000]
-No tengo aspecto de fantasma.
-¿O sí?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Ves? Estoy calentita.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De... verdad que no eres Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
-Ya te lo he dicho... Soy María.
-[ffff]
-[8000]
-}
-{
-[8000]
-Lo siento, me he confundido.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Adónde vas?
-[ffff]
-[8000]
-}
-{
-[8000]
-Estoy buscando a Mary.
-¿La has visto?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿No has dicho que estaba muerta?
-[ffff]
-[8000]
-}
-{
-[8000]
-Ah, sí... Hace tres años.
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero recibí una carta suya.
-Decía que esperaba en nuestro
-“lugar especial”.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Y era este?
-[ffff]
-[8000]
-}
-{
-[8000]
-En fin, que no la he visto.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Este es vuestro único
-“lugar especial”?
-[ffff]
-[8000]
-}
-{
-[8000]
-Bueno, supongo que también
-está el hotel.
-[ffff]
-[8000]
-}
-{
-[8000]
-El hotel del lago...
-Me pregunto si seguirá en pie.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿El hotel Lakeview?
-Sí, sigue ahí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Así que el hotel era vuestro
-“lugar especial”, ¿eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-No me extraña...
-[ffff]
-[8000]
-}
-{
-[8000]
-No te enfades.
-Sólo estaba bromeando.
-[ffff]
-[8000]
-}
-{
-[8000]
-Además, no se va por ahí.
-Es por aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Vienes conmigo?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Ibas a dejarme tirada?
-[ffff]
-[8000]
-}
-{
-[8000]
-No, pero...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Con todos estos monstruos?
-[ffff]
-[8000]
-}
-{
-[8000]
-No, no, solo que...
-[ffff]
-[8000]
-}
-{
-[8000]
-Estoy sola.
-Aquí no queda nadie.
-[ffff]
-[8000]
-}
-{
-[8000]
-Me parezco a Mary, ¿no?
-Tú la querías, ¿no es así?
-[ffff]
-[8000]
-}
-{
-[8000]
-O tal vez la odiabas...
-[ffff]
-[8000]
-}
-{
-[8000]
-No digas tonterías.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Entonces, algún problema?
-[ffff]
-[8000]
-}
-{
-[8000]
-No, no, claro que no.
-[ffff]
-[8000]
-}
-{
-[8000]
-Esperaré aquí. Odio los bolos.
-[ffff]
-[8000]
-}
-{
-[8000]
-No he venido aquí a jugar, ¿sabes?
-[ffff]
-[8000]
-}
-{
-[8000]
-No tardes, ¿eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Has visto salir de aquí
-a una niña?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, ¡iba demasiado rápido!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿No piensas ir a buscarla?
-[ffff]
-[8000]
-}
-{
-[8000]
-Al hotel no se va por aquí.
-¿No es cierto?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Adónde vas?
-[ffff]
-[8000]
-}
-{
-[8000]
-Por aquí no ha ido esa niña.
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-cañería de acero
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-llave inglesa
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave inglesa
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-vieja llave de bronce
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-vieja llave de bronce
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-¡Por allí!
-[ffff]
-[8000]
-}
-{
-[8000]
-He cogido la 
-[03ff]
-llave de perro
-[00ff]
+	que parece resistente.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>libro llamado
+	â€œMemorias perdidasâ€<COLOR-WHITE>.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
+	pueblo al que robaron sus tierras.
 
-de la caseta.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí ya no hay nada que hacer.
-Creo que volveré a buscar a Mary...
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Has vuelto a matar a Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
+	Â«El lugar de los espÃ­ritus silenciososÂ».
+	Por Â«espÃ­ritusÂ» entendÃ­an no sÃ³lo a
+	sus familiares muertos, sino tambiÃ©n
+	los espÃ­ritus que, segÃºn creÃ­an,
+	viven en los Ã¡rboles, las rocas
+	y el agua.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aquÃ­
+	tenÃ­an lugar las ceremonias mÃ¡s
+	sagradas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
+	de quienes ahora viven en esta
+	ciudad los que robaron las tierras
+	a aquel pueblo. Hubo otros
+	que llegaron antes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad tenÃ­a
+	otro nombre... pero se ha perdido
+	en los anales de la historia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>SÃ³lo sabemos que tuvo otro
+	nombre y que, por alguna razÃ³n,
+	la ciudad fue abandonada por
+	sus habitantes.<SEPARATORB>
+---------------
+Â¡TÃº!
+---------------
+Â¿Has sido tÃº, no?
+	La que me pisÃ³ la mano.
+---------------
+No sÃ©...
+---------------
+A lo mejor...
+---------------
+Â¿QuÃ© hace una niÃ±a como tÃº
+	en un lugar como este?
+---------------
+Â¿Eh? Â¿EstÃ¡s ciego o quÃ© te pasa?
+---------------
+Â¿QuÃ© es esa carta?
+---------------
+Nada que te importe.
+---------------
+Â¡TÃº no amabas a Mary!
+---------------
+Â¡Espera!
+---------------
+Â¿CÃ³mo sabes el nombre de Mary?
+---------------
+Â¿Mary?
+---------------
+No... No eres tÃº.
+---------------
+Â¿Me parezco a tu chica?
+---------------
+No... A mi esposa fallecida.
+---------------
+No puedo creerlo...
+---------------
+PodrÃ­as ser su hermana gemela.
+	Tu rostro, tu voz...
+---------------
+SÃ³lo tu pelo y tu ropa
+	son diferentes.
+---------------
+Me llamo... MarÃ­a.
+---------------
+No tengo aspecto de fantasma.
+	Â¿O sÃ­?
+---------------
+Â¿Ves? Estoy calentita.
+---------------
+Â¿De... verdad que no eres Mary?
+---------------
+Ya te lo he dicho... Soy MarÃ­a.
+---------------
+Lo siento, me he confundido.
+---------------
+Â¿AdÃ³nde vas?
+---------------
+Estoy buscando a Mary.
+	Â¿La has visto?
+---------------
+Â¿No has dicho que estaba muerta?
+---------------
+Ah, sÃ­... Hace tres aÃ±os.
+---------------
+Pero recibÃ­ una carta suya.
+	DecÃ­a que esperaba en nuestro
+	â€œlugar especialâ€.
+---------------
+Â¿Y era este?
+---------------
+En fin, que no la he visto.
+---------------
+Â¿Este es vuestro Ãºnico
+	â€œlugar especialâ€?
+---------------
+Bueno, supongo que tambiÃ©n
+	estÃ¡ el hotel.
+---------------
+El hotel del lago...
+	Me pregunto si seguirÃ¡ en pie.
+---------------
+Â¿El hotel Lakeview?
+	SÃ­, sigue ahÃ­.
+---------------
+AsÃ­ que el hotel era vuestro
+	â€œlugar especialâ€, Â¿eh?
+---------------
+No me extraÃ±a...
+---------------
+No te enfades.
+	SÃ³lo estaba bromeando.
+---------------
+AdemÃ¡s, no se va por ahÃ­.
+	Es por aquÃ­.
+---------------
+Â¿Vienes conmigo?
+---------------
+Â¿Ibas a dejarme tirada?
+---------------
+No, pero...
+---------------
+Â¿Con todos estos monstruos?
+---------------
+No, no, solo que...
+---------------
+Estoy sola.
+	AquÃ­ no queda nadie.
+---------------
+Me parezco a Mary, Â¿no?
+	TÃº la querÃ­as, Â¿no es asÃ­?
+---------------
+O tal vez la odiabas...
+---------------
+No digas tonterÃ­as.
+---------------
+Â¿Entonces, algÃºn problema?
+---------------
+No, no, claro que no.
+---------------
+EsperarÃ© aquÃ­. Odio los bolos.
+---------------
+No he venido aquÃ­ a jugar, Â¿sabes?
+---------------
+No tardes, Â¿eh?
+---------------
+Â¿Has visto salir de aquÃ­
+	a una niÃ±a?
+---------------
+SÃ­, Â¡iba demasiado rÃ¡pido!
+---------------
+Â¿No piensas ir a buscarla?
+---------------
+Al hotel no se va por aquÃ­.
+	Â¿No es cierto?
+---------------
+Â¿AdÃ³nde vas?
+---------------
+Por aquÃ­ no ha ido esa niÃ±a.
+---------------
+He encontrado una <COLOR-GREEN>caÃ±erÃ­a de acero<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>vieja llave de bronce<COLOR-WHITE>.<SEPARATORB>
+---------------
+Â¡Por allÃ­!
+---------------
+He cogido la <COLOR-GREEN>llave de perro<COLOR-WHITE>
+	de la caseta.<SEPARATORB>
+---------------
+AquÃ­ ya no hay nada que hacer.
+	Creo que volverÃ© a buscar a Mary...<SEPARATORB>
+---------------
+Â¿Has vuelto a matar a Mary?
+---------------
 Esa no era Mary.
-Mary está muerta.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Mary estÃ¡ muerta.
+---------------
 Eso era algo que...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿María?
-[ffff]
-[8000]
-}
-{
-[8000]
-María.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué, James?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿MarÃ­a?
+---------------
+MarÃ­a.
+---------------
+Â¿QuÃ©, James?
+---------------
 Quiero que...
-Que estés conmigo...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Estás seguro?
-[ffff]
-[8000]
-}
-{
-[8000]
-Vamos. Salgamos de aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Y qué pasa con Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
+	Que estÃ©s conmigo...
+---------------
+Â¿EstÃ¡s seguro?
+---------------
+Vamos. Salgamos de aquÃ­.
+---------------
+Â¿Y quÃ© pasa con Mary?
+---------------
 No te preocupes,
-te tengo a ti.
-[ffff]
-[8000]
-}
-{
-[8000]
+	te tengo a ti.
+---------------
 Tengo que encontrar a Laura.
-No puedo dejarla sola.
-[ffff]
-[1000]
-[8000]
-Además... Quizás pueda decirme
-algo acerca de Mary.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No puedo dejarla sola.
+
+AdemÃ¡s... QuizÃ¡s pueda decirme
+	algo acerca de Mary.<SEPARATORB>
+---------------
 Una pared normal.
-El dibujo parece hecho
-por un niño.
-[ffff]
-[9000]
-}
-{
-[8000]
-Sólo es basura.
-No tiene sentido buscar por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Parque Rosewater
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un mapa.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Hotel Lakeview
-[ffff]
-[9000]
-}
-{
-[8000]
-María está muerta.
-No pude protegerla.
-[ffff]
-[8000]
-}
-{
-[8000]
-Una vez más,
-no pude hacer nada por evitarlo.
-[ffff]
-[8000]
-}
-{
-[8000]
-Laura se ha ido a algún sitio.
-[ffff]
-[8000]
-}
-{
-[8000]
+	El dibujo parece hecho
+	por un niÃ±o.<SEPARATORB>
+---------------
+SÃ³lo es basura.
+	No tiene sentido buscar por aquÃ­.<SEPARATORB>
+---------------
+<COLOR-BLUE>Parque Rosewater<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
+AquÃ­ hay un mapa.<SEPARATORB>
+---------------
+<COLOR-BLUE>Hotel Lakeview<SEPARATORB>
+---------------
+MarÃ­a estÃ¡ muerta.
+	No pude protegerla.
+---------------
+Una vez mÃ¡s,
+	no pude hacer nada por evitarlo.
+---------------
+Laura se ha ido a algÃºn sitio.
+---------------
 Mary...
-¿Qué... qué debería hacer?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Realmente... me estás esperando
-en algún lugar?
-[ffff]
-[8000]
-}
-{
-[8000]
+	Â¿QuÃ©... quÃ© deberÃ­a hacer?
+---------------
+Â¿Realmente... me estÃ¡s esperando
+	en algÃºn lugar?
+---------------
 O es esta tu forma de...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Voy a buscar a Mary...
-Es la única esperanza
-que me queda.
-[ffff]
-[8000]
-}
-{
-[8000]
-[01ff]
-Sociedad Histórica de Silent Hill
-[ffff]
-[9000]
-}
-{
-[8000]
-Este puente está en ruinas.
-No puedo llegar al hotel por aquí...
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Heaven's Night
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Hotel Jack
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Bolera de Pete
-[ffff]
-[9000]
-}
-{
-[8000]
+	Es la Ãºnica esperanza
+	que me queda.
+---------------
+<COLOR-BLUE>Sociedad HistÃ³rica de Silent Hill<SEPARATORB>
+---------------
+Este puente estÃ¡ en ruinas.
+	No puedo llegar al hotel por aquÃ­...<SEPARATORB>
+---------------
+<COLOR-BLUE>Heaven's Night<SEPARATORB>
+---------------
+<COLOR-BLUE>Hotel Jack<SEPARATORB>
+---------------
+<COLOR-BLUE>Bolera de Pete<SEPARATORB>
+---------------
 Barcas al Parque de Atracciones
-del Lago y al hotel Lakeview
-[ffff]
-[9000]
-}
-{
-[8000]
-Lo he copiado en mi mapa.
-[ffff]
-[9000]
-}
-{
-[8000]
-Así que este es ese parque...
-[ffff]
-[8000]
-}
-{
-[8000]
-Mary... ¿Estás aquí?
-[ffff]
-[8000]
-}
+	del Lago y al hotel Lakeview<SEPARATORB>
+---------------
+Lo he copiado en mi mapa.<SEPARATORB>
+---------------
+AsÃ­ que este es ese parque...
+---------------
+Mary... Â¿EstÃ¡s aquÃ­?

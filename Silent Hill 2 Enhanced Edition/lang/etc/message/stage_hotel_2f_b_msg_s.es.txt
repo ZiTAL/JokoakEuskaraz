@@ -1,188 +1,76 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 16
+--------------- strings=16 language=spanish
+---------------
+No se oye nada m√°s.<SEPARATORB>
+---------------
+El t√≠tulo es ‚ÄúCeremonia del Ser Carmes√≠‚Äù.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
+	Yo soy el Carmes√≠.
 
-BEGIN_SOURCE:
-{
-[8000]
-No se oye nada m·s.
-[ffff]
-[9000]
-}
-{
-[8000]
-El tÌtulo es ìCeremonia del Ser CarmesÌî.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Hablad.
-Yo soy el CarmesÌ.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Las mentiras y la niebla
-no son tales, sino yo.
-Todos sabÈis que yo soy …l.
-SÌ, y …l soy yo.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-°Creyentes, escuchadme!
-Veinte veintenas de hombres
-y siete mil bestias.
-Escuchad aquestas palabras
-y contadlas a los dem·s para
-que siempre sean obedecidas,
-incluso bajo la luz del orgulloso
-y cruel sol.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Os enviarÈ una amarga venganza
-y sufrirÈis mi eterna ira.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-La belleza de la flor marchita
-y el ˙ltimo aliento del moribundo,
-aquestas son mis bendiciones.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Vos siempre me invocarÈis a mÌ
-y a todo lo que soy en el lugar
-que es silencioso.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Oh, orgullosa esencia de la vida
-que vuela hacia el corazÛn.
-Oh, copa rebosante
-del vino m·s blanco,
-en vos es donde todo empieza.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-libro llamado
-ìCeremonia del Ser CarmesÌî
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-øMary va a morir...?
-Eh... Tiene que ser una broma...
-[ffff]
-[8000]
-}
-{
-[8000]
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
+	no son tales, sino yo.
+	Todos sab√©is que yo soy √âl.
+	S√≠, y √âl soy yo.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¬°Creyentes, escuchadme!
+	Veinte veintenas de hombres
+	y siete mil bestias.
+	Escuchad aquestas palabras
+	y contadlas a los dem√°s para
+	que siempre sean obedecidas,
+	incluso bajo la luz del orgulloso
+	y cruel sol.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviar√© una amarga venganza
+	y sufrir√©is mi eterna ira.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
+	y el √∫ltimo aliento del moribundo,
+	aquestas son mis bendiciones.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocar√©is a m√≠
+	y a todo lo que soy en el lugar
+	que es silencioso.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
+	que vuela hacia el coraz√≥n.
+	Oh, copa rebosante
+	del vino m√°s blanco,
+	en vos es donde todo empieza.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>libro llamado
+	‚ÄúCeremonia del Ser Carmes√≠‚Äù<COLOR-WHITE>.<SEPARATORB>
+---------------
+¬øMary va a morir...?
+	Eh... Tiene que ser una broma...
+---------------
 Lo siento de veras.
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero usted es mÈdico.
-°Su trabajo es curar gente!
-[ffff]
-[8000]
-}
-{
-[8000]
-°øCÛmo puede dejarla morir?!
-[ffff]
-[8000]
-}
-{
-[8000]
-Por favor, tranquilÌcese.
-[ffff]
-[8000]
-}
-{
-[8000]
-Como mÈdico, prometo hacer
-todo lo que estÈ en mi mano.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Pero usted es m√©dico.
+	¬°Su trabajo es curar gente!
+---------------
+¬°¬øC√≥mo puede dejarla morir?!
+---------------
+Por favor, tranquil√≠cese.
+---------------
+Como m√©dico, prometo hacer
+	todo lo que est√© en mi mano.
+---------------
 Pero... no hay un tratamiento eficaz
-para su enfermedad.
-[ffff]
-[8000]
-}
-{
-[8000]
-øCu·nto tiempo le queda?
-[ffff]
-[8000]
-}
-{
-[8000]
+	para su enfermedad.
+---------------
+¬øCu√°nto tiempo le queda?
+---------------
 Me temo que no estoy seguro...
-[ffff]
-[8000]
-}
-{
-[8000]
-Como m·ximo tres aÒos.
-Puede que seis meses...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Como m√°ximo tres a√±os.
+	Puede que seis meses...
+---------------
 Es imposible saberlo a ciencia cierta.
-[ffff]
-[8000]
-}
-{
-[8000]
-AquÌ hay un libro.
-No parece que vaya a servir
-de nada en particular.
-[ffff]
-[9000]
-}
-{
-[8000]
-AquÌ hay folletos turÌsticos.
-Ahora mismo no me interesan.
-[ffff]
-[9000]
-}
+---------------
+Aqu√≠ hay un libro.
+	No parece que vaya a servir
+	de nada en particular.<SEPARATORB>
+---------------
+Aqu√≠ hay folletos tur√≠sticos.
+	Ahora mismo no me interesan.<SEPARATORB>

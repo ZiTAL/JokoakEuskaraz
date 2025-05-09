@@ -1,89 +1,37 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 9
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-[01ff]
-Heaven's Night
-[ffff]
-[9000]
-}
-{
-[8000]
-Sólo es una mesa.
-No tiene nada extraño.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=9 language=spanish
+---------------
+<COLOR-BLUE>Heaven's Night<SEPARATORB>
+---------------
+SÃ³lo es una mesa.
+	No tiene nada extraÃ±o.<SEPARATORB>
+---------------
 Un escenario.
-No tiene nada extraño.
-[ffff]
-[9000]
-}
-{
-[8000]
-Latas vacías, fregadero,
-cajas de cartón...
-No hay nada útil.
-[ffff]
-[9000]
-}
-{
-[8000]
-La caja está vacía.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay varias cajas de cartón apiladas.
-No parece que haya nada útil.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No tiene nada extraÃ±o.<SEPARATORB>
+---------------
+Latas vacÃ­as, fregadero,
+	cajas de cartÃ³n...
+	No hay nada Ãºtil.<SEPARATORB>
+---------------
+La caja estÃ¡ vacÃ­a.<SEPARATORB>
+---------------
+Hay varias cajas de cartÃ³n apiladas.
+	No parece que haya nada Ãºtil.<SEPARATORB>
+---------------
 Botellas de licor.
-Ahora no las necesito.
-[ffff]
-[1000]
-[8000]
+	Ahora no las necesito.
+
 No es que no beba.
-De hecho, bebo bastante.
-[ffff]
-[1000]
-[8000]
+	De hecho, bebo bastante.
+
 Para escapar del dolor,
-de la soledad...
-Pero la bebida nunca cambia nada.
-[ffff]
-[1000]
-[8000]
+	de la soledad...
+	Pero la bebida nunca cambia nada.
+
 En fin, ahora no la necesito.
-Hay algo que debo hacer.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Hay algo que debo hacer.<SEPARATORB>
+---------------
 Botellas de licor.
-No hay nada de interés.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un jarrón.
-No hay nada de interés.
-[ffff]
-[9000]
-}
+	No hay nada de interÃ©s.<SEPARATORB>
+---------------
+Un jarrÃ³n.
+	No hay nada de interÃ©s.<SEPARATORB>

@@ -1,93 +1,32 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 13
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=13 language=spanish
+---------------
 James...
-[ffff]
-[8000]
-}
-{
-[8000]
-María.
-[ffff]
-[8000]
-}
-{
-[8000]
-Lo nuestro se acabó.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿¡Qué?!
-¡Pero... soy lo que tú querías!
-[ffff]
-[8000]
-}
-{
-[8000]
-Mary está muerta.
-¿No lo entiendes? ¡No volverá!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+MarÃ­a.
+---------------
+Lo nuestro se acabÃ³.
+---------------
+Â¿Â¡QuÃ©?!
+	Â¡Pero... soy lo que tÃº querÃ­as!
+---------------
+Mary estÃ¡ muerta.
+	Â¿No lo entiendes? Â¡No volverÃ¡!
+---------------
 Pero yo puedo ser tuya...
-Siempre me tendrás.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Nunca te haré daño, como ella!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué no me quieres?
-[ffff]
-[8000]
-}
-{
-[8000]
-Porque tú no eres Mary.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Siempre me tendrÃ¡s.
+---------------
+Â¡Nunca te harÃ© daÃ±o, como ella!
+---------------
+Â¿Por quÃ© no me quieres?
+---------------
+Porque tÃº no eres Mary.
+---------------
 Sin Mary, nada tiene sentido.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Oh, James...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Venga ya, James!
-Debes estar bromeando.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡Venga ya, James!
+	Debes estar bromeando.
+---------------
 Ahora no puedo volver.
-No es momento de escapar.
-[ffff]
-[9000]
-}
+	No es momento de escapar.<SEPARATORB>

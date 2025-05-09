@@ -1,2029 +1,764 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 252
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=252 language=spanish
+---------------
 Usar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Recargar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Ajustar volumen
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Interruptor
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Encendida
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Apagada
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Examinar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Equipar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Desequipar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Opciones
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Mapa
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Notas
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Estado
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Equipo
-[ffff]
-[8000]
-}
-{
-[8000]
-AcciÛn
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Acci√≥n
+---------------
 Combinar
-[ffff]
-[8000]
-}
-{
-[8000]
-Parece que no puedo usar esto aquÌ.
-[ffff]
-[9000]
-}
-{
-[8000]
-Esto no se puede usar por sÌ solo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Esta combinaciÛn no tiene ning˙n sentido.
-[ffff]
-[9000]
-}
-{
-[8000]
+---------------
+Parece que no puedo usar esto aqu√≠.<SEPARATORB>
+---------------
+Esto no se puede usar por s√≠ solo.<SEPARATORB>
+---------------
+Esta combinaci√≥n no tiene ning√∫n sentido.<SEPARATORB>
+---------------
 Poner en estante
-[ffff]
-[8000]
-}
-{
-[8000]
-Bebida(s) isotÛnica(s)
-[ffff]
-[8000]
-}
-{
-[8000]
-Devuelve la energÌa proporcionando nutrientes.
-Su efecto es bastante suave.
-[ffff]
-[8000]
-}
-{
-[8000]
-BotiquÌn(es)
-[ffff]
-[8000]
-}
-{
-[8000]
-Devuelve la energÌa curando heridas.
-Su efecto es moderado.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Bebida(s) isot√≥nica(s)
+---------------
+Devuelve la energ√≠a proporcionando nutrientes.
+	Su efecto es bastante suave.
+---------------
+Botiqu√≠n(es)
+---------------
+Devuelve la energ√≠a curando heridas.
+	Su efecto es moderado.
+---------------
 Ampolla(s)
-[ffff]
-[8000]
-}
-{
-[8000]
-Devuelve la energÌa calmando el dolor.
-Su efecto es potente.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Devuelve la energ√≠a calmando el dolor.
+	Su efecto es potente.
+---------------
 Pistola
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Pistola ligera con capacidad para 10 balas.
-Poco potente, pero f·cil de usar.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Poco potente, pero f√°cil de usar.
+---------------
 Bala(s) de pistola
-[ffff]
-[8000]
-}
-{
-[8000]
-MuniciÛn para pistola.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Munici√≥n para pistola.
+---------------
 Escopeta
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Puede llevar hasta 6 cartuchos.
-Es difÌcil de manejar, pero puede alcanzar
-a oponentes dispersos.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Es dif√≠cil de manejar, pero puede alcanzar
+	a oponentes dispersos.
+---------------
 Cartucho(s) de escopeta
-[ffff]
-[8000]
-}
-{
-[8000]
-MuniciÛn para escopeta.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Munici√≥n para escopeta.
+---------------
 Rifle de caza
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Puede llevar hasta 4 balas.
-Tarda mucho en cargar, pero cada disparo
-es muy potente.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Tarda mucho en cargar, pero cada disparo
+	es muy potente.
+---------------
 Bala(s) de rifle
-[ffff]
-[8000]
-}
-{
-[8000]
-MuniciÛn para rifle de caza.
-[ffff]
-[8000]
-}
-{
-[8000]
-RevÛlver
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Munici√≥n para rifle de caza.
+---------------
+Rev√≥lver
+---------------
 Puede llevar hasta 10 balas.
-Es f·cil de manejar, pero no es muy potente.
-[ffff]
-[8000]
-}
-{
-[8000]
-Bala(s) de revÛlver
-[ffff]
-[8000]
-}
-{
-[8000]
-Balas para revÛlver.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Es f√°cil de manejar, pero no es muy potente.
+---------------
+Bala(s) de rev√≥lver
+---------------
+Balas para rev√≥lver.
+---------------
 Hiper espray
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Espray sospechoso.
-Se desconocen sus efectos.
-[ffff]
-[8000]
-}
-{
-[8000]
-TablÛn de madera
-[ffff]
-[8000]
-}
-{
-[8000]
-Un tablÛn de madera con clavos en un extremo.
-No hace mucho daÒo, pero es f·cil de usar.
-[ffff]
-[8000]
-}
-{
-[8000]
-CaÒerÌa de acero
-[ffff]
-[8000]
-}
-{
-[8000]
-CaÒerÌa de acero de 1 metro.
-No es muy destructiva,
-pero tiene un buen alcance.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Se desconocen sus efectos.
+---------------
+Tabl√≥n de madera
+---------------
+Un tabl√≥n de madera con clavos en un extremo.
+	No hace mucho da√±o, pero es f√°cil de usar.
+---------------
+Ca√±er√≠a de acero
+---------------
+Ca√±er√≠a de acero de 1 metro.
+	No es muy destructiva,
+	pero tiene un buen alcance.
+---------------
 Cuchillo grande
-[ffff]
-[8000]
-}
-{
-[8000]
-Arma enorme empuÒada por Cabeza Pir·mide.
-Es difÌcil de usar, pero letal.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Arma enorme empu√±ada por Cabeza Pir√°mide.
+	Es dif√≠cil de usar, pero letal.
+---------------
 Motosierra
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Motosierra con motor de gasolina.
-Un arma muy potente.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Un arma muy potente.
+---------------
 Cuchillo chino
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Un cuchillo de hoja cuadrada.
-Feo, pero potente y f·cil de usar.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Feo, pero potente y f√°cil de usar.
+---------------
 Linterna
-[ffff]
-[8000]
-}
-{
-[8000]
-Su interruptor es de acciÛn inmediata.
-Va en el bolsillo del pecho.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Su interruptor es de acci√≥n inmediata.
+	Va en el bolsillo del pecho.
+---------------
 Radio
-[ffff]
-[8000]
-}
-{
-[8000]
-PequeÒa radio port·til.
-Genera interferencias cuando hay
-monstruos cerca.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Peque√±a radio port√°til.
+	Genera interferencias cuando hay
+	monstruos cerca.
+---------------
 Foto de Mary
-[ffff]
-[8000]
-}
-{
-[8000]
-Una foto de cuando todavÌa estaba sana.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Una foto de cuando todav√≠a estaba sana.
+---------------
 Carta de Mary
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 En el sobre aparece el nombre de Mary
-escrito de su puÒo y letra.
-[ffff]
-[8000]
-}
-{
-[8000]
+	escrito de su pu√±o y letra.
+---------------
 Carta de Laura
-[ffff]
-[8000]
-}
-{
-[8000]
-Carta que Mary entregÛ, supuestamente,
-a Laura.
-[ffff]
-[8000]
-}
-{
-[8000]
-Cinta de vÌdeo
-[ffff]
-[8000]
-}
-{
-[8000]
-Cinta de vÌdeo que me dejÈ en el hotel
-hace tres aÒos.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Carta que Mary entreg√≥, supuestamente,
+	a Laura.
+---------------
+Cinta de v√≠deo
+---------------
+Cinta de v√≠deo que me dej√© en el hotel
+	hace tres a√±os.
+---------------
 Cuchillo de Angela
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 El cuchillo de Angela.
-No pienso usarlo como arma.
-[ffff]
-[8000]
-}
-{
-[8000]
+	No pienso usarlo como arma.
+---------------
 Llave de perro
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Hallada dentro de una caseta
-para perros. No sÈ dÛnde se usa.
-[ffff]
-[8000]
-}
-{
-[8000]
+	para perros. No s√© d√≥nde se usa.
+---------------
 Llave de la entrada a los apartamentos
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave antigua que encontrÈ en la ciudad.
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la habitaciÛn 202
-[ffff]
-[8000]
-}
-{
-[8000]
-En la parte superior tiene escrito el n˙mero 202.
-La encontrÈ en la habitaciÛn 208.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Llave antigua que encontr√© en la ciudad.
+---------------
+Llave de la habitaci√≥n 202
+---------------
+En la parte superior tiene escrito el n√∫mero 202.
+	La encontr√© en la habitaci√≥n 208.
+---------------
 Llave del reloj
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave con un pequeÒo reloj.
-Estaba en un agujero en la pared
-de la habitaciÛn 202.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Llave con un peque√±o reloj.
+	Estaba en un agujero en la pared
+	de la habitaci√≥n 202.
+---------------
 Llave del patio
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la puerta que conduce del vestÌbulo
-de la escalera oeste al patio.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Llave de la puerta que conduce del vest√≠bulo
+	de la escalera oeste al patio.
+---------------
 Llave de la salida de emergencia
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave de la puerta de la escalera de emergencia.
-Hallada en el vestÌbulo del tercer piso.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Hallada en el vest√≠bulo del tercer piso.
+---------------
 Llave de la casa de Lyne
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Estaba en la mesa con el acertijo
-de las monedas.
-La etiqueta dice: ´Lyneª.
-[ffff]
-[8000]
-}
-{
-[8000]
+	de las monedas.
+	La etiqueta dice: ¬´Lyne¬ª.
+---------------
 Llave de la escalera de los apartamentos
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la puerta que va del vestÌbulo
-de los apartamentos oeste a la escalera.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Llave de la puerta que va del vest√≠bulo
+	de los apartamentos oeste a la escalera.
+---------------
 Llave de la sala de reconocimiento
-[ffff]
-[8000]
-}
-{
-[8000]
-La etiqueta dice: ´Sala de reconocimientoª.
-Hallada en la bata del vestuario de hombres.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+La etiqueta dice: ¬´Sala de reconocimiento¬ª.
+	Hallada en la bata del vestuario de hombres.
+---------------
 Llave del tejado
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave del tejado del ala de oficinas.
-La encontrÈ en la habitaciÛn del tercer piso
-del hospital, donde descansa MarÌa.
-[ffff]
-[8000]
-}
-{
-[8000]
+	La encontr√© en la habitaci√≥n del tercer piso
+	del hospital, donde descansa Mar√≠a.
+---------------
 Llave del toro morado
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Tiene dibujado un toro morado.
-Estaba en el escritorio
-de la sala de documentos.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba en el escritorio
+	de la sala de documentos.
+---------------
 Llave del ojo de lapis
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 En la parte superior de la llave hay un ojo,
-y su iris est· hecho de lapisl·zuli.
-[ffff]
-[8000]
-}
-{
-[8000]
+	y su iris est√° hecho de lapisl√°zuli.
+---------------
 Llave del ascensor
-[ffff]
-[8000]
-}
-{
-[8000]
-La etiqueta dice: ´Ascensor ala pacientesª.
-Estaba atascada en el desag¸e de las duchas.
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave del almacÈn del sÛtano
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+La etiqueta dice: ¬´Ascensor ala pacientes¬ª.
+	Estaba atascada en el desag√ºe de las duchas.
+---------------
+Llave del almac√©n del s√≥tano
+---------------
 Estaba dentro de la pared con
-aquella pintada extraÒa. Es la llave
-del almacÈn del sÛtano del hospital.
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave del vestÌbulo del hospital
-[ffff]
-[8000]
-}
-{
-[8000]
+	aquella pintada extra√±a. Es la llave
+	del almac√©n del s√≥tano del hospital.
+---------------
+Llave del vest√≠bulo del hospital
+---------------
 Hallada en el despacho del director.
-Es la llave del vestÌbulo del hospital.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Es la llave del vest√≠bulo del hospital.
+---------------
 Vieja llave de bronce
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave de bronce de aspecto antiguo.
-Estaba oculta detr·s de una
-de las estatuas del parque.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba oculta detr√°s de una
+	de las estatuas del parque.
+---------------
 Llave con escrito en espiral
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave con un cilindro delgado de 8 cm
-que contiene un escrito en espiral.
-[ffff]
-[8000]
-}
-{
-[8000]
+	que contiene un escrito en espiral.
+---------------
 Llave del falso acusado
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave dejada por un preso
-que fue ejecutado injustamente.
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la habitaciÛn 312 del hotel
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la habitaciÛn 312 del hotel.
-Estaba sobre el mostrador de recepciÛn.
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la habitaciÛn 204 del hotel
-[ffff]
-[8000]
-}
-{
-[8000]
-Llave de la habitaciÛn 204.
-La encontrÈ en el maletÌn del guardarropa.
-[ffff]
-[8000]
-}
-{
-[8000]
+	que fue ejecutado injustamente.
+---------------
+Llave de la habitaci√≥n 312 del hotel
+---------------
+Llave de la habitaci√≥n 312 del hotel.
+	Estaba sobre el mostrador de recepci√≥n.
+---------------
+Llave de la habitaci√≥n 204 del hotel
+---------------
+Llave de la habitaci√≥n 204.
+	La encontr√© en el malet√≠n del guardarropa.
+---------------
 Llave del ascensor para empleados
-[ffff]
-[8000]
-}
-{
-[8000]
-La etiqueta dice: ´Ascensor empleadosª.
-Hallada en la habitaciÛn 204.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+La etiqueta dice: ¬´Ascensor empleados¬ª.
+	Hallada en la habitaci√≥n 204.
+---------------
 Llave del bar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave de la puerta que va del bar
-del sÛtano del hotel al vestÌbulo.
-La encontrÈ en la sala de calderas.
-[ffff]
-[8000]
-}
-{
-[8000]
+	del s√≥tano del hotel al vest√≠bulo.
+	La encontr√© en la sala de calderas.
+---------------
 Llave del pez
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Va en un llavero con forma de pez.
-Estaba sobre la mesa del restaurante.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba sobre la mesa del restaurante.
+---------------
 Llave de las escaleras del hotel
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Llave de la puerta de la escalera
-al hall del tercer piso. Estaba oculta
-en la caja de m˙sica de la recepciÛn.
-[ffff]
-[8000]
-}
-{
-[8000]
+	al hall del tercer piso. Estaba oculta
+	en la caja de m√∫sica de la recepci√≥n.
+---------------
 Paquete de zumo en lata
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Un paquete de seis latas con zumo caducado.
-Estaba en el vestÌbulo del primer piso.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba en el vest√≠bulo del primer piso.
+---------------
 Moneda de la serpiente
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Moneda grande grabada con la imagen
-de una serpiente.
-La encontrÈ en aquella piscina vacÌa.
-[ffff]
-[8000]
-}
-{
-[8000]
+	de una serpiente.
+	La encontr√© en aquella piscina vac√≠a.
+---------------
 Moneda del anciano
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Moneda grande grabada con la imagen
-del rostro de un anciano.
-La cogÌ de la rampa de salida de basuras.
-[ffff]
-[8000]
-}
-{
-[8000]
+	del rostro de un anciano.
+	La cog√≠ de la rampa de salida de basuras.
+---------------
 Moneda del prisionero
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Moneda grande grabada con la imagen
-de un prisionero. La hallÈ
-en el edificio oeste de apartamentos.
-[ffff]
-[8000]
-}
-{
-[8000]
-MechÛn de pelo
-[ffff]
-[8000]
-}
-{
-[8000]
-Unos pelos largos y castaÒos.
-Estaban en aquella ´cajaª.
-[ffff]
-[8000]
-}
-{
-[8000]
+	de un prisionero. La hall√©
+	en el edificio oeste de apartamentos.
+---------------
+Mech√≥n de pelo
+---------------
+Unos pelos largos y casta√±os.
+	Estaban en aquella ¬´caja¬ª.
+---------------
 Aguja torcida
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Aguja torcida y oxidada.
-Estaba clavada en el osito de peluche
-del vestuario.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba clavada en el osito de peluche
+	del vestuario.
+---------------
 Pila seca
-[ffff]
-[8000]
-}
-{
-[8000]
-La cogÌ en la habitaciÛn del hospital.
-Una pila seca normal.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+La cog√≠ en la habitaci√≥n del hospital.
+	Una pila seca normal.
+---------------
 Anillo de cobre
-[ffff]
-[8000]
-}
-{
-[8000]
-Encontrado en el sÛtano del hospital.
-Tiene grabado el dibujo de una araÒa.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Encontrado en el s√≥tano del hospital.
+	Tiene grabado el dibujo de una ara√±a.
+---------------
 Anillo de plomo
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 El anillo del refrigerador.
-Lleva grabado un repugnante rostro hinchado.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Lleva grabado un repugnante rostro hinchado.
+---------------
 Llave inglesa
-[ffff]
-[8000]
-}
-{
-[8000]
-La encontrÈ en la calle Lindsey.
-Sirve para atornillar tuercas y pernos.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+La encontr√© en la calle Lindsey.
+	Sirve para atornillar tuercas y pernos.
+---------------
 Tablilla del opresor
-[ffff]
-[8000]
-}
-{
-[8000]
-Tablilla met·lica con el ´opresorª
-dibujado en una de sus caras.
-Hallada en una celda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Tablilla del cerdo glotÛn
-[ffff]
-[8000]
-}
-{
-[8000]
-Tablilla met·lica con el ´cerdo glotÛnª
-dibujado en una de sus caras.
-Hallada en el comedor.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Tablilla met√°lica con el ¬´opresor¬ª
+	dibujado en una de sus caras.
+	Hallada en una celda.
+---------------
+Tablilla del cerdo glot√≥n
+---------------
+Tablilla met√°lica con el ¬´cerdo glot√≥n¬ª
+	dibujado en una de sus caras.
+	Hallada en el comedor.
+---------------
 Tablilla de la seductora
-[ffff]
-[8000]
-}
-{
-[8000]
-Tablilla met·lica con la ´seductoraª
-dibujada en una de sus caras.
-Hallada en las duchas.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Tablilla met√°lica con la ¬´seductora¬ª
+	dibujada en una de sus caras.
+	Hallada en las duchas.
+---------------
 Herradura
-[ffff]
-[8000]
-}
-{
-[8000]
-Herradura met·lica. Estaba colgada
-en el portÛn de la plaza del patÌbulo.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Herradura met√°lica. Estaba colgada
+	en el port√≥n de la plaza del pat√≠bulo.
+---------------
 Mechero
-[ffff]
-[8000]
-}
-{
-[8000]
-Mechero met·lico. Su llama parece m·s potente
-que la de un mechero normal.
-[ffff]
-[8000]
-}
-{
-[8000]
-MuÒeco de cera
-[ffff]
-[8000]
-}
-{
-[8000]
-MuÒeco hecho con cera.
-Estaba en el suelo de la celda.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Mechero met√°lico. Su llama parece m√°s potente
+	que la de un mechero normal.
+---------------
+Mu√±eco de cera
+---------------
+Mu√±eco hecho con cera.
+	Estaba en el suelo de la celda.
+---------------
 Alicate
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Herramienta para cortar alambres
-o cables elÈctricos.
-[ffff]
-[8000]
-}
-{
-[8000]
+	o cables el√©ctricos.
+---------------
 Disolvente
-[ffff]
-[8000]
-}
-{
-[8000]
-PequeÒa lata llena de disolvente.
-Estaba en el suelo del ascensor.
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica de la sirenita
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica con una figura
-del cuento de la sirenita.
-Hallada en la fuente del jardÌn.
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica de Cenicienta
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica con una figura
-del cuento de Cenicienta.
-Hallada en un ba˙l de la habitaciÛn 202.
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica de Blancanieves
-[ffff]
-[8000]
-}
-{
-[8000]
-Caja de m˙sica con una figura
-del cuento de Blancanieves.
-Hallada en la despensa.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Peque√±a lata llena de disolvente.
+	Estaba en el suelo del ascensor.
+---------------
+Caja de m√∫sica de la sirenita
+---------------
+Caja de m√∫sica con una figura
+	del cuento de la sirenita.
+	Hallada en la fuente del jard√≠n.
+---------------
+Caja de m√∫sica de Cenicienta
+---------------
+Caja de m√∫sica con una figura
+	del cuento de Cenicienta.
+	Hallada en un ba√∫l de la habitaci√≥n 202.
+---------------
+Caja de m√∫sica de Blancanieves
+---------------
+Caja de m√∫sica con una figura
+	del cuento de Blancanieves.
+	Hallada en la despensa.
+---------------
 Abrelatas
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Herramienta para abrir latas.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Bombilla
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Hallada dentro de una lata en la cocina del bar.
-Una bombilla normal.
-[ffff]
-[8000]
-}
-{
-[8000]
-Huevo de color de orÌn
-[ffff]
-[8000]
-}
-{
-[8000]
-Tiene el tamaÒo de un huevo de codorniz.
-Lo tenÌa Cabeza Pir·mide.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Una bombilla normal.
+---------------
+Huevo de color de or√≠n
+---------------
+Tiene el tama√±o de un huevo de codorniz.
+	Lo ten√≠a Cabeza Pir√°mide.
+---------------
 Huevo escarlata
-[ffff]
-[8000]
-}
-{
-[8000]
-Tiene el tamaÒo de un huevo de codorniz.
-Lo tenÌa Cabeza Pir·mide.
-[ffff]
-[8000]
-}
-{
-[8000]
-Libro ´Memorias perdidasª
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Tiene el tama√±o de un huevo de codorniz.
+	Lo ten√≠a Cabeza Pir√°mide.
+---------------
+Libro ¬´Memorias perdidas¬ª
+---------------
 Un libro que relata la historia
-de esta ciudad y sus alrededores.
-[ffff]
-[8000]
-}
-{
-[8000]
-Libro ´Ceremonia del Ser CarmesÌª
-[ffff]
-[8000]
-}
-{
-[8000]
+	de esta ciudad y sus alrededores.
+---------------
+Libro ¬´Ceremonia del Ser Carmes√≠¬ª
+---------------
 Trata sobre un dios antiguo.
-El autor es anÛnimo.
-[ffff]
-[8000]
-}
-{
-[8000]
+	El autor es an√≥nimo.
+---------------
 Crisma blanco
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Una botella de cristal que contiene
-un ung¸ento blanco.
-[ffff]
-[8000]
-}
-{
-[8000]
+	un ung√ºento blanco.
+---------------
 Copa de obsidiana
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Copa de aspecto antiguo tallada en
-obsidiana pura. Hallada en el viejo museo.
-[ffff]
-[8000]
-}
-{
-[8000]
+	obsidiana pura. Hallada en el viejo museo.
+---------------
 Gema azul
-[ffff]
-[8000]
-}
-{
-[8000]
-Tal vez pueda utilizarla en alg˙n sitio...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Tal vez pueda utilizarla en alg√∫n sitio...
+---------------
 Placa blanca
-[ffff]
-[8000]
-}
-{
-[8000]
-Placa met·lica de color blanca
-con agujeros cuadrados.
-Hallada el vestÌbulo del 2.∫ piso.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Placa met√°lica de color blanca
+	con agujeros cuadrados.
+	Hallada el vest√≠bulo del 2.¬∫ piso.
+---------------
 Placa negra
-[ffff]
-[8000]
-}
-{
-[8000]
-Placa met·lica de color blanca
-con agujeros cuadrados. Hallada en
-el jardÌn del 2.∫ piso de la mansiÛn.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Placa met√°lica de color blanca
+	con agujeros cuadrados. Hallada en
+	el jard√≠n del 2.¬∫ piso de la mansi√≥n.
+---------------
 Placa roja
-[ffff]
-[8000]
-}
-{
-[8000]
-Placa met·lica de color blanca
-con agujeros cuadrados. Hallada en
-el jardÌn del 2.∫ piso de la mansiÛn.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Placa met√°lica de color blanca
+	con agujeros cuadrados. Hallada en
+	el jard√≠n del 2.¬∫ piso de la mansi√≥n.
+---------------
 Llave de la acacia
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Tiene el grabado de una acacia.
-Estaba incrustada en una losa de piedra.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Estaba incrustada en una losa de piedra.
+---------------
 Cerillas
-[ffff]
-[8000]
-}
-{
-[8000]
-SÛlo quedan un par.
-Estaban en la habitaciÛn de los niÒos.
-[ffff]
-[8000]
-}
-{
-[8000]
-Tarjeta y regalo de cumpleaÒos
-[ffff]
-[8000]
-}
-{
-[8000]
-Una tarjeta de cumpleaÒos
-y un regalo sin abrir de Amy.
-[ffff]
-[8000]
-}
-{
-[8000]
-LÌquido blanco
-[ffff]
-[8000]
-}
-{
-[8000]
-PequeÒa botella con un lÌquido
-blanco desconocido.
-La etiqueta dice: ´Reniego de vosª.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+S√≥lo quedan un par.
+	Estaban en la habitaci√≥n de los ni√±os.
+---------------
+Tarjeta y regalo de cumplea√±os
+---------------
+Una tarjeta de cumplea√±os
+	y un regalo sin abrir de Amy.
+---------------
+L√≠quido blanco
+---------------
+Peque√±a botella con un l√≠quido
+	blanco desconocido.
+	La etiqueta dice: ¬´Reniego de vos¬ª.
+---------------
 Parece el mismo tipo de pila
-que la que lleva la linterna.
-[ffff]
-[8000]
-}
-{
-[8000]
-La hoja est· manchada con algo rojo.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ahora que lo pienso, habÌa un reloj grande
-en la habitaciÛn 208...
-[ffff]
-[8000]
-}
-{
-[8000]
+	que la que lleva la linterna.
+---------------
+La hoja est√° manchada con algo rojo.
+---------------
+Ahora que lo pienso, hab√≠a un reloj grande
+	en la habitaci√≥n 208...
+---------------
 La otra cara de la moneda
-es una media luna.
-[ffff]
-[8000]
-}
-{
-[8000]
+	es una media luna.
+---------------
 Parece un anciano.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Este prisionero parece una mujer.
-[ffff]
-[8000]
-}
-{
-[8000]
-Pone: ´patioª.
-[ffff]
-[8000]
-}
-{
-[8000]
-La primera vez que quise llev·rmela,
-aquella niÒa me pisÛ la mano.
-øQuÈ ser· de ella...?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Pone: ¬´patio¬ª.
+---------------
+La primera vez que quise llev√°rmela,
+	aquella ni√±a me pis√≥ la mano.
+	¬øQu√© ser√° de ella...?
+---------------
 La etiqueta que lleva dice:
-´salida de emergenciaª.
-[ffff]
-[8000]
-}
-{
-[8000]
-HabÌa una salida de emergencia
-en el extremo oeste del pasillo del 2.∫ piso.
-øA lo mejor podrÈ usarla allÌ?
-[ffff]
-[8000]
-}
-{
-[8000]
-Esta debe ser la llave de la nota que decÌa
-que ´se la dieron al tÌo Davidª.
-[ffff]
-[8000]
-}
-{
-[8000]
-Dice: ´Escalera norteª.
-[ffff]
-[8000]
-}
-{
-[8000]
-Dice: ´Es la duda la que os conducir·
-hasta el Purgatorioª.
-[ffff]
-[8000]
-}
-{
-[8000]
-La habitaciÛn 312 es donde nos alojamos
-Mary y yo hace tres aÒos.
-[ffff]
-[8000]
-}
-{
-[8000]
+	¬´salida de emergencia¬ª.
+---------------
+Hab√≠a una salida de emergencia
+	en el extremo oeste del pasillo del 2.¬∫ piso.
+	¬øA lo mejor podr√© usarla all√≠?
+---------------
+Esta debe ser la llave de la nota que dec√≠a
+	que ¬´se la dieron al t√≠o David¬ª.
+---------------
+Dice: ¬´Escalera norte¬ª.
+---------------
+Dice: ¬´Es la duda la que os conducir√°
+	hasta el Purgatorio¬ª.
+---------------
+La habitaci√≥n 312 es donde nos alojamos
+	Mary y yo hace tres a√±os.
+---------------
 La etiqueta tiene escrito
-´Silent Hillª con mi letra.
-[ffff]
-[8000]
-}
-{
-[8000]
-Sin duda, es la cinta que grabÈ
-por aquel entonces.
-[ffff]
-[8000]
-}
-{
-[8000]
+	¬´Silent Hill¬ª con mi letra.
+---------------
+Sin duda, es la cinta que grab√©
+	por aquel entonces.
+---------------
 El tallo lleva una serpiente grabada.
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-En mis sueÒos m·s inquietos
-veo esa ciudad.
-Silent Hill.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Me prometiste que volverÌas
-a llevarme allÌ alg˙n dÌa.
-Pero nunca lo hiciste.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Y ahora estoy allÌ, sola...
-En nuestro ìlugar especialî...
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Esper·ndote...
-[ffff]
-[9000]
-}
-{
-[8000]
-El papel est· en blanco.
-[ffff]
-[9000]
-}
-{
-[8000]
-El sobre est· vacÌo.
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Mi querida Laura:
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>En mis sue√±os m√°s inquietos
+	veo esa ciudad.
+	Silent Hill.
 
-Le dejo esta carta a Rachel
-para que te la dÈ cuando
-yo me haya ido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Ahora estoy muy lejos.
-En un lugar bello y tranquilo.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Por favor, perdÛname
-por no haberme despedido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-CuÌdate, Laura.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-No seas muy dura con las monjitas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Laura, con respecto a James...
-SÈ que lo odias porque piensas
-que no me trata bien, pero,
-por favor, dale una oportunidad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Es cierto que a veces es un poco
-cascarrabias y que no se rÌe mucho.
-Pero en el fondo es una buena persona.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Laura...
-Te quiero como si fueras
-mi propia hija.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Si las cosas hubieran ido
-de otra forma, te habrÌa adoptado.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Feliz 8.∫ cumpleaÒos, Laura.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tu amiga para siempre,
-Mary
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
- El nombre surge de la leyenda del
-pueblo al que robaron sus tierras.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Este lugar era conocido como
-´El lugar de los espÌritus silenciososª.
-Por ´espÌritusª entendÌan no sÛlo a
-sus familiares muertos, sino tambiÈn
-los espÌritus que, seg˙n creÌan,
-viven en los ·rboles, las rocas
-y el agua.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Cuenta la leyenda que aquÌ
-tenÌan lugar las ceremonias m·s
-sagradas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Pero no fueron los antepasados
-de quienes ahora viven en esta
-ciudad los que robaron las tierras
-a aquel pueblo. Hubo otros
-que llegaron antes.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-En aquel entonces, esta ciudad tenÌa
-otro nombre... pero se ha perdido
-en los anales de la historia.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-SÛlo sabemos que tuvo otro
-nombre y que, por alguna razÛn,
-la ciudad fue abandonada por
-sus habitantes.
-[ffff]
-[9000]
-}
-{
-[8000]
-[fbff]
-[faff]
-[01ff]
-Hablad.
-Yo soy el CarmesÌ.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Las mentiras y la niebla
-no son tales, sino yo.
-Todos sabÈis que yo soy …l.
-SÌ, y …l soy yo.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-°Creyentes, escuchadme!
-Veinte veintenas de hombres
-y siete mil bestias.
-Escuchad aquestas palabras
-y contadlas a los dem·s para
-que siempre sean obedecidas,
-incluso bajo la luz del orgulloso
-y cruel sol.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Os enviarÈ una amarga venganza
-y sufrirÈis mi eterna ira.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-La belleza de la flor marchita
-y el ˙ltimo aliento del moribundo,
-aquestas son mis bendiciones.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Vos siempre me invocarÈis a mÌ
-y a todo lo que soy en el lugar
-que es silencioso.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Oh, orgullosa esencia de la vida
-que vuela hacia el corazÛn.
-Oh, copa rebosante
-del vino m·s blanco,
-en vos es donde todo empieza.
-[ffff]
-[9000]
-}
-{
-[8000]
-øSe ha quedado sin pilas?
-Por mucho que pulse el interruptor,
-no se enciende.
-[ffff]
-[8000]
-}
-{
-[8000]
-øEst· rota?
-No reacciona al pulsar el interruptor.
-[ffff]
-[8000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-bebida isotÛnica
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Me prometiste que volver√≠as
+	a llevarme all√≠ alg√∫n d√≠a.
+	Pero nunca lo hiciste.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-botiquÌn
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-ampolla
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-pistola
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto las 
-[03ff]
-balas de pistola
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Y ahora estoy all√≠, sola...
+	En nuestro ‚Äúlugar especial‚Äù...
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-escopeta
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto los 
-[03ff]
-cartuchos de escopeta
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Esper√°ndote...<SEPARATORB>
+---------------
+El papel est√° en blanco.<SEPARATORB>
+---------------
+El sobre est√° vac√≠o.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
+	
+	Le dejo esta carta a Rachel
+	para que te la d√© cuando
+	yo me haya ido.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-rifle de caza
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto los 
-[03ff]
-cartuchos de rifle
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
+	En un lugar bello y tranquilo.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-espray
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-tablÛn de madera
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perd√≥name
+	por no haberme despedido.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caÒerÌa de acero
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Cu√≠date, Laura.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-cuchillo grande
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-motosierra
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-linterna
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-radio
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-foto de Mary
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-carta de Mary
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-carta de Laura
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-cuchillo de Angela
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-llave de la sala
-de reconocimiento
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-llave de la habitaciÛn
-312 del hotel
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-disolvente
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caja de m˙sica
-de la sirenita
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caja de m˙sica
-de Cenicienta
-[00ff]
- en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-libro ìMemorias perdidasî
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
+	S√© que lo odias porque piensas
+	que no me trata bien, pero,
+	por favor, dale una oportunidad.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-crisma blanco
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
+	cascarrabias y que no se r√≠e mucho.
+	Pero en el fondo es una buena persona.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-copa de obsidiana
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+	Te quiero como si fueras
+	mi propia hija.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-llave de perro
-[00ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
+	de otra forma, te habr√≠a adoptado.
 
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-El reverso muestra una l·pida.
-[ffff]
-[8000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.¬∫ cumplea√±os, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
+	Mary<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El nombre surge de la leyenda del
+	pueblo al que robaron sus tierras.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Este lugar era conocido como
+	¬´El lugar de los esp√≠ritus silenciosos¬ª.
+	Por ¬´esp√≠ritus¬ª entend√≠an no s√≥lo a
+	sus familiares muertos, sino tambi√©n
+	los esp√≠ritus que, seg√∫n cre√≠an,
+	viven en los √°rboles, las rocas
+	y el agua.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Cuenta la leyenda que aqu√≠
+	ten√≠an lugar las ceremonias m√°s
+	sagradas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero no fueron los antepasados
+	de quienes ahora viven en esta
+	ciudad los que robaron las tierras
+	a aquel pueblo. Hubo otros
+	que llegaron antes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces, esta ciudad ten√≠a
+	otro nombre... pero se ha perdido
+	en los anales de la historia.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>S√≥lo sabemos que tuvo otro
+	nombre y que, por alguna raz√≥n,
+	la ciudad fue abandonada por
+	sus habitantes.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hablad.
+	Yo soy el Carmes√≠.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Las mentiras y la niebla
+	no son tales, sino yo.
+	Todos sab√©is que yo soy √âl.
+	S√≠, y √âl soy yo.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>¬°Creyentes, escuchadme!
+	Veinte veintenas de hombres
+	y siete mil bestias.
+	Escuchad aquestas palabras
+	y contadlas a los dem√°s para
+	que siempre sean obedecidas,
+	incluso bajo la luz del orgulloso
+	y cruel sol.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Os enviar√© una amarga venganza
+	y sufrir√©is mi eterna ira.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>La belleza de la flor marchita
+	y el √∫ltimo aliento del moribundo,
+	aquestas son mis bendiciones.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Vos siempre me invocar√©is a m√≠
+	y a todo lo que soy en el lugar
+	que es silencioso.
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Oh, orgullosa esencia de la vida
+	que vuela hacia el coraz√≥n.
+	Oh, copa rebosante
+	del vino m√°s blanco,
+	en vos es donde todo empieza.<SEPARATORB>
+---------------
+¬øSe ha quedado sin pilas?
+	Por mucho que pulse el interruptor,
+	no se enciende.
+---------------
+¬øEst√° rota?
+	No reacciona al pulsar el interruptor.
+---------------
+He puesto la <COLOR-GREEN>bebida isot√≥nica<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>botiqu√≠n<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>ampolla<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>pistola<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto las <COLOR-GREEN>balas de pistola<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>escopeta<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto los <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>rifle de caza<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto los <COLOR-GREEN>cartuchos de rifle<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>espray<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>tabl√≥n de madera<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>ca√±er√≠a de acero<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>cuchillo grande<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>motosierra<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>linterna<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>radio<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>foto de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>carta de Mary<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>carta de Laura<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>cuchillo de Angela<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de la sala
+	de reconocimiento<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de la habitaci√≥n
+	312 del hotel<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>disolvente<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de m√∫sica
+	de la sirenita<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de m√∫sica
+	de Cenicienta<COLOR-WHITE> en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>libro ‚ÄúMemorias perdidas‚Äù<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>crisma blanco<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>llave de perro<COLOR-WHITE>
+	en el estante.<SEPARATORB>
+---------------
+El reverso muestra una l√°pida.
+---------------
 El reverso muestra un huevo.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Tiene algo escrito en la parte de atr·s.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cuando se halle el aliento blanco,
-se lo dedicarÈ.
-Oh, EspÌritu de la Niebla,
-concÈdenos suerte eterna.
-[ffff]
-[9000]
-}
-{
-[8000]
-[00ff]
-Tiene algo escrito en la parte de atr·s.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cuando se halle el grial negro,
-se lo dedicarÈ.
-T˙, aquel que niega la muerte,
-concÈdenos suerte eterna.
-[ffff]
-[9000]
-}
-{
-[8000]
-[00ff]
-Tiene algo escrito en la parte de atr·s.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cuando se hallen las
-palabras carmesÌes,
-se las dedicarÈ.
-Oh, Dioses sumidos en el sueÒo,
-concedednos suerte eterna.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-A MI QUERIDO PAP¡:
-°FELIZ CUMPLEA—OS!
-AMY BALDWIN
-[ffff]
-[9000]
-}
-{
-[8000]
-Opciones
-[ffff]
-[8000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-gema azul
-[00ff]
+---------------
+<COLOR-WHITE>Tiene algo escrito en la parte de atr√°s.
 
-en el estante.
-[ffff]
-[9000]
-}
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuando se halle el aliento blanco,
+	se lo dedicar√©.
+	Oh, Esp√≠ritu de la Niebla,
+	conc√©denos suerte eterna.<SEPARATORB>
+---------------
+<COLOR-WHITE>Tiene algo escrito en la parte de atr√°s.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuando se halle el grial negro,
+	se lo dedicar√©.
+	T√∫, aquel que niega la muerte,
+	conc√©denos suerte eterna.<SEPARATORB>
+---------------
+<COLOR-WHITE>Tiene algo escrito en la parte de atr√°s.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuando se hallen las
+	palabras carmes√≠es,
+	se las dedicar√©.
+	Oh, Dioses sumidos en el sue√±o,
+	concedednos suerte eterna.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>A MI QUERIDO PAP√Å:
+	¬°FELIZ CUMPLEA√ëOS!
+	AMY BALDWIN<SEPARATORB>
+---------------
+Opciones
+---------------
+He puesto la <COLOR-GREEN>gema azul<COLOR-WHITE>
+	en el estante.<SEPARATORB>

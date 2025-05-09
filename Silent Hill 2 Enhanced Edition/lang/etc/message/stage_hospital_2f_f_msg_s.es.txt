@@ -1,289 +1,108 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 32
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-La taquilla no se abre.
-[ffff]
-[9000]
-}
-{
-[8000]
-No parece haber nada útil por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-Había una aguja
-clavada en el peluche.
-[ffff]
-[9000]
-}
-{
-[8000]
-Sólo es un peluche.
-No hay nada más.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay algo en el bolsillo de la bata.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=32 language=spanish
+---------------
+La taquilla no se abre.<SEPARATORB>
+---------------
+No parece haber nada Ãºtil por aquÃ­.<SEPARATORB>
+---------------
+HabÃ­a una aguja
+	clavada en el peluche.<SEPARATORB>
+---------------
+SÃ³lo es un peluche.
+	No hay nada mÃ¡s.<SEPARATORB>
+---------------
+Hay algo en el bolsillo de la bata.<SEPARATORB>
+---------------
 Una bata de laboratorio.
-No hay nada especialmente
-interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una máquina de escribir.
-No me sirve para nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una máquina de escribir.
-No me sirve para nada.
-[ffff]
-[1000]
-[8000]
-Espera un momento...
-¿Qué es esto...?
-[ffff]
-[1000]
-[8000]
-Hay una hoja de papel carbón
-que sigue metida en la máquina.
-[ffff]
-[1000]
-[8000]
-Puedo leer lo que tiene impreso.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-lo sé el secreto les daré algo
-de qué ocuparse este refugio
-contra demonios ya no es útil
-él es mi instrumento debe
-cumplir mis órdenes sí
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-la caja será inútil ahora no debo
-olvidarlo 
-[e0ff]
- muy bien
-él es lo peor ahora yo también
-seré libre y él me servirá soy
-un genio nadie puede detenerme
-puede detenerme nadie puede
-detenerme puede detener
-[ffff]
-[9000]
-}
-{
-[8000]
-Papeles desperdigados.
-Están en blanco.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una tapa sobre el botón
-de llamada del ascensor.
-[ffff]
-[1000]
-[8000]
-No tengo forma de abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
-Pulso los botones,
-pero el ascensor no reacciona.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una 
-[03ff]
-escopeta
-[00ff]
- en la taquilla.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-escopeta
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-aguja torcida
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave
-de la sala de reconocimiento
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave
-del ojo de lapis
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave del ascensor
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-¡Ay!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué ocurre?
-[ffff]
-[8000]
-}
-{
-[8000]
-Me he pinchado...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Estás bien?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí.
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-lo sé sé el número de la caja 
-[e0ff]
+	No hay nada especialmente
+	interesante.<SEPARATORB>
+---------------
+Una mÃ¡quina de escribir.
+	No me sirve para nada.<SEPARATORB>
+---------------
+Una mÃ¡quina de escribir.
+	No me sirve para nada.
 
-ya no puede ayudarle los botones ya
-no me asustan y nadie puede impedir
-quien soy no sé quién soy es quien
-soy es quien soy
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una televisión.
-Parece que está rota.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada que parezca útil.
-[ffff]
-[9000]
-}
-{
-[8000]
+Espera un momento...
+	Â¿QuÃ© es esto...?
+
+Hay una hoja de papel carbÃ³n
+	que sigue metida en la mÃ¡quina.
+
+Puedo leer lo que tiene impreso.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sÃ© el secreto les darÃ© algo
+	de quÃ© ocuparse este refugio
+	contra demonios ya no es Ãºtil
+	Ã©l es mi instrumento debe
+	cumplir mis Ã³rdenes sÃ­
+
+<CENTER-PARAGRAPH><COLOR-BLUE>la caja serÃ¡ inÃºtil ahora no debo
+	olvidarlo <VARIABLE-01> muy bien
+	Ã©l es lo peor ahora yo tambiÃ©n
+	serÃ© libre y Ã©l me servirÃ¡ soy
+	un genio nadie puede detenerme
+	puede detenerme nadie puede
+	detenerme puede detener<SEPARATORB>
+---------------
+Papeles desperdigados.
+	EstÃ¡n en blanco.<SEPARATORB>
+---------------
+Hay una tapa sobre el botÃ³n
+	de llamada del ascensor.
+
+No tengo forma de abrirla.<SEPARATORB>
+---------------
+Pulso los botones,
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+Hay una <COLOR-GREEN>escopeta<COLOR-WHITE> en la taquilla.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>escopeta<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>aguja torcida<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	de la sala de reconocimiento<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave
+	del ojo de lapis<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+---------------
+Â¡Ay!
+---------------
+Â¿QuÃ© ocurre?
+---------------
+Me he pinchado...
+---------------
+Â¿EstÃ¡s bien?
+---------------
+SÃ­.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>lo sÃ© sÃ© el nÃºmero de la caja <VARIABLE-01>
+	ya no puede ayudarle los botones ya
+	no me asustan y nadie puede impedir
+	quien soy no sÃ© quiÃ©n soy es quien
+	soy es quien soy<SEPARATORB>
+---------------
+AquÃ­ no hay nada interesante.<SEPARATORB>
+---------------
+Una televisiÃ³n.
+	Parece que estÃ¡ rota.<SEPARATORB>
+---------------
+AquÃ­ no hay nada que parezca Ãºtil.<SEPARATORB>
+---------------
 En el tablero de anuncios
-hay algo colgado.
-Pero no parece interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
+	hay algo colgado.
+	Pero no parece interesante.<SEPARATORB>
+---------------
 No puedo quedarme mirando
-un estúpido póster.
-[ffff]
-[9000]
-}
-{
-[8000]
+	un estÃºpido pÃ³ster.<SEPARATORB>
+---------------
 No hay nada especial
-dentro del armario.
-[ffff]
-[9000]
-}
-{
-[8000]
+	dentro del armario.<SEPARATORB>
+---------------
 Una revista. Ahora mismo
-no me sirve para nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una bolsa. Está vacía.
-[ffff]
-[9000]
-}
+	no me sirve para nada.<SEPARATORB>
+---------------
+Una bolsa. EstÃ¡ vacÃ­a.<SEPARATORB>

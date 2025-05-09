@@ -1,314 +1,111 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 44
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-No se oye nada más.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=44 language=spanish
+---------------
+No se oye nada mÃ¡s.<SEPARATORB>
+---------------
 Hay una muesca redonda
-en la puerta.
-[ffff]
-[9000]
-}
-{
-[8000]
-No puedo escapar ahora.
-[ffff]
-[9000]
-}
-{
-[8000]
+	en la puerta.<SEPARATORB>
+---------------
+No puedo escapar ahora.<SEPARATORB>
+---------------
 Ya no lo necesito.
-Ahora no es más que un cadáver.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-huevo
-de color de orín
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-huevo escarlata
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-huevo de color
-de orín
-[00ff]
- en la puerta.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-huevo escarlata
-[00ff]
-
-en la puerta.
-[ffff]
-[9000]
-}
-{
-[8000]
-Cabeza Pirámide no se mueve.
-Ya no tengo que preocuparme
-más por él.
-[ffff]
-[9000]
-}
-{
-[8000]
-¡James!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Basta!
-¡Dejadla en paz!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Dejadnos en paz a los dos!
-[ffff]
-[8000]
-}
-{
-[8000]
-Era débil.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Ahora no es mÃ¡s que un cadÃ¡ver.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>huevo
+	de color de orÃ­n<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>huevo escarlata<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>huevo de color
+	de orÃ­n<COLOR-WHITE> en la puerta.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>huevo escarlata<COLOR-WHITE>
+	en la puerta.<SEPARATORB>
+---------------
+Cabeza PirÃ¡mide no se mueve.
+	Ya no tengo que preocuparme
+	mÃ¡s por Ã©l.<SEPARATORB>
+---------------
+Â¡James!
+---------------
+Â¡Basta!
+	Â¡Dejadla en paz!
+---------------
+Â¡Dejadnos en paz a los dos!
+---------------
+Era dÃ©bil.
+---------------
 Por eso te necesitaba...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Necesitaba que alguien me castigase
-por mis pecados...
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero se acabó...
-[ffff]
-[8000]
-}
-{
-[8000]
-Sé toda la verdad... Ha llegado
-el momento de poner fin a todo esto.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué quieres, James?
-[ffff]
-[8000]
-}
-{
-[8000]
-Eh... Te he traído unas flores...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Flores?
-A la mierda con las flores.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Vete a casa!
-[ffff]
-[8000]
-}
-{
-[8000]
-Mary, ¿qué dices?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Mírame! ¡Soy repugnante!
-No me merezco ninguna flor.
-[ffff]
-[8000]
-}
-{
-[8000]
+	por mis pecados...
+---------------
+Pero se acabÃ³...
+---------------
+SÃ© toda la verdad... Ha llegado
+	el momento de poner fin a todo esto.
+---------------
+Â¿QuÃ© quieres, James?
+---------------
+Eh... Te he traÃ­do unas flores...
+---------------
+Â¿Flores?
+	A la mierda con las flores.
+---------------
+Â¡Vete a casa!
+---------------
+Mary, Â¿quÃ© dices?
+---------------
+Â¡MÃ­rame! Â¡Soy repugnante!
+	No me merezco ninguna flor.
+---------------
 Entre la enfermedad
-y la medicación...
-parezco un monstruo.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué estás mirando?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Vete a tomar por saco!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Y déjame en paz!
-[ffff]
-[8000]
-}
-{
-[8000]
-No le soy útil a nadie...
-y no tardaré en morirme.
-[ffff]
-[8000]
-}
-{
-[8000]
-Quizás hoy, tal vez mañana...
-[ffff]
-[8000]
-}
-{
-[8000]
-Sería más fácil que me mataran.
-[ffff]
-[8000]
-}
-{
-[8000]
+	y la medicaciÃ³n...
+	parezco un monstruo.
+---------------
+Â¿QuÃ© estÃ¡s mirando?
+---------------
+Â¡Vete a tomar por saco!
+---------------
+Â¡Y dÃ©jame en paz!
+---------------
+No le soy Ãºtil a nadie...
+	y no tardarÃ© en morirme.
+---------------
+QuizÃ¡s hoy, tal vez maÃ±ana...
+---------------
+SerÃ­a mÃ¡s fÃ¡cil que me mataran.
+---------------
 Pero, claro, el hospital
-está sacando tajada de mí.
-[ffff]
-[8000]
-}
-{
-[8000]
+	estÃ¡ sacando tajada de mÃ­.
+---------------
 Les interesa mantenerme viva...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Sigues aquí?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Te he dicho que te vayas!
-¡¿Estás sordo o qué?!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Y no vuelvas!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Sigues aquÃ­?
+---------------
+Â¡Te he dicho que te vayas!
+	Â¡Â¿EstÃ¡s sordo o quÃ©?!
+---------------
+Â¡Y no vuelvas!
+---------------
 James...
-Espera...
-[ffff]
-[8000]
-}
-{
-[8000]
+	Espera...
+---------------
 Por favor, no te vayas...
-[ffff]
-[8000]
-}
-{
-[8000]
-Quédate conmigo.
-No me dejes sola.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+QuÃ©date conmigo.
+	No me dejes sola.
+---------------
 No lo dije en serio.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Por favor, James...
-[ffff]
-[8000]
-}
-{
-[8000]
-Dime que todo irá bien.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Dime que todo irÃ¡ bien.
+---------------
 Dime que no me voy a morir.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ayúdame...
-[ffff]
-[8000]
-}
-{
-[8000]
-Cabeza Pirámide
-ha dejado de moverse.
-[ffff]
-[1000]
-[8000]
-Parece que tiene algo en la mano.
-[ffff]
-[9000]
-}
+---------------
+AyÃºdame...
+---------------
+Cabeza PirÃ¡mide
+	ha dejado de moverse.
+
+Parece que tiene algo en la mano.<SEPARATORB>

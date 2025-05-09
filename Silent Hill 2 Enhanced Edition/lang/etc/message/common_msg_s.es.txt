@@ -1,226 +1,70 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 28
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Sí.
-[ffff]
-[8000]
-}
-{
-[8000]
+--------------- strings=28 language=spanish
+---------------
+SÃ­.
+---------------
 No.
-[ffff]
-[8000]
-}
-{
-[8000]
-Está demasiado oscuro
-para leer el mapa.
-[ffff]
-[9000]
-}
-{
-[8000]
-No tengo un mapa de esta zona.
-[ffff]
-[9000]
-}
-{
-[8000]
-Está cerrada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Ahora está abierta.
-[ffff]
-[9000]
-}
-{
-[8000]
-Parece que el cerrojo está roto.
-No puedo abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
-No puedo abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Qué es esto...?
-[ffff]
-[1000]
-[8000]
-Cuando lo miro, siento como
-si alguien estuviera toqueteando
-dentro de mi cráneo.
-[ffff]
-[1000]
-[8000]
-Me produce una sensación extraña...
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado 
-[03ff]
-balas de pistola
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado 
-[03ff]
-cartuchos de escopeta
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado 
-[03ff]
-balas de rifle
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-bebida isotónica
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-botiquín
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-ampolla
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He pulsado el interruptor,
-pero no funciona.
-[ffff]
-[9000]
-}
-{
-[8000]
-[02ff]
-No se puede guardar la partida
-en la versión de prueba.
-[ffff]
-[9000]
-}
-{
-[8000]
-DUALSHOCK®2 no conectado
-[ffff]
-[8000]
-}
-{
-[8000]
-Conecta el mando analógico (DUALSHOCK®2) en el puerto de mando 1
-[ffff]
-[8000]
-}
-{
-[8000]
-Bandeja del disco abierta
-[ffff]
-[8000]
-}
-{
-[8000]
-Disco no insertado
-[ffff]
-[8000]
-}
-{
-[8000]
-Comprobando disco
-[ffff]
-[8000]
-}
-{
-[8000]
-Disco equivocado
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado 
-[03ff]
-balas para revólver
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Vuelve a conectar el controlador
-al puerto de controlador 
-[e0ff]
+---------------
+EstÃ¡ demasiado oscuro
+	para leer el mapa.<SEPARATORB>
+---------------
+No tengo un mapa de esta zona.<SEPARATORB>
+---------------
+EstÃ¡ cerrada.<SEPARATORB>
+---------------
+Ahora estÃ¡ abierta.<SEPARATORB>
+---------------
+Parece que el cerrojo estÃ¡ roto.
+	No puedo abrirla.<SEPARATORB>
+---------------
+No puedo abrirla.<SEPARATORB>
+---------------
+Â¿QuÃ© es esto...?
 
-y presiona START para continuar.
-[ffff]
-[8000]
-}
-{
-[8000]
+Cuando lo miro, siento como
+	si alguien estuviera toqueteando
+	dentro de mi crÃ¡neo.
+
+Me produce una sensaciÃ³n extraÃ±a...<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>balas de pistola<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>cartuchos de escopeta<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado <COLOR-GREEN>balas de rifle<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>bebida isotÃ³nica<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>botiquÃ­n<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>ampolla<COLOR-WHITE>.<SEPARATORB>
+---------------
+He pulsado el interruptor,
+	pero no funciona.<SEPARATORB>
+---------------
+<COLOR-RED>No se puede guardar la partida
+	en la versiÃ³n de prueba.<SEPARATORB>
+---------------
+DUALSHOCKÂ®2 no conectado
+---------------
+Conecta el mando analÃ³gico (DUALSHOCKÂ®2) en el puerto de mando 1
+---------------
+Bandeja del disco abierta
+---------------
+Disco no insertado
+---------------
+Comprobando disco
+---------------
+Disco equivocado
+---------------
+He encontrado <COLOR-GREEN>balas para revÃ³lver<COLOR-WHITE>.<SEPARATORB>
+---------------
+Vuelve a conectar el controlador
+	al puerto de controlador <VARIABLE-01>
+	y presiona START para continuar.
+---------------
  Cargando...
-[ffff]
-[8000]
-}
-{
-[8000]
-Presiona el botón START.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Presiona el botÃ³n START.
+---------------
 Algunos archivos son inaccesibles.
-Por favor, reinstala el juego.
-[ffff]
-[8000]
-}
+	Por favor, reinstala el juego.

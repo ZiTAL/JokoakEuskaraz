@@ -1,115 +1,42 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 16
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=16 language=spanish
+---------------
 James, te he estado esperando.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Mary...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Siento haber tardado tanto.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿No querías verme?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, quería verte.
-Aunque fueras un espejismo...
-[ffff]
-[8000]
-}
-{
-[8000]
-Por eso vine aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Eso no es cierto, ¿no?
-Me mataste...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡No podía verte sufrir!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿No querÃ­as verme?
+---------------
+SÃ­, querÃ­a verte.
+	Aunque fueras un espejismo...
+---------------
+Por eso vine aquÃ­.
+---------------
+Eso no es cierto, Â¿no?
+	Me mataste...
+---------------
+Â¡No podÃ­a verte sufrir!
+---------------
 No busques excusas, James.
-[ffff]
-[8000]
-}
-{
-[8000]
-Sé que era una carga para ti.
-[ffff]
-[8000]
-}
-{
-[8000]
-Me odiarías.
-Por eso te deshiciste de mí.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+SÃ© que era una carga para ti.
+---------------
+Me odiarÃ­as.
+	Por eso te deshiciste de mÃ­.
+---------------
 Es cierto... puede que me hayan
-invadido esos sentimientos.
-[ffff]
-[8000]
-}
-{
-[8000]
-Fueron tres largos años...
-Y estaba... cansado.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Y por eso necesitabas
-a esa tal María?
-[ffff]
-[8000]
-}
-{
-[8000]
-James, ¿de veras crees que
-voy a perdonarte
-por lo que hiciste?
-[ffff]
-[8000]
-}
-{
-[8000]
+	invadido esos sentimientos.
+---------------
+Fueron tres largos aÃ±os...
+	Y estaba... cansado.
+---------------
+Â¿Y por eso necesitabas
+	a esa tal MarÃ­a?
+---------------
+James, Â¿de veras crees que
+	voy a perdonarte
+	por lo que hiciste?
+---------------
 Ahora no puedo volver.
-No es momento de escapar.
-[ffff]
-[9000]
-}
+	No es momento de escapar.<SEPARATORB>

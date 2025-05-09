@@ -1,46 +1,13 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 6
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Se fue por allí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿No hay otro camino?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, sí lo hay.
-[ffff]
-[8000]
-}
-{
-[8000]
-Por ahí.
-[ffff]
-[8000]
-}
-{
-[8000]
-No se puede. Está cerrado.
-[ffff]
-[8000]
-}
-{
-[8000]
-James, no puedes ir por ahí.
-[ffff]
-[8000]
-}
+--------------- strings=6 language=spanish
+---------------
+Se fue por allÃ­.
+---------------
+Â¿No hay otro camino?
+---------------
+SÃ­, sÃ­ lo hay.
+---------------
+Por ahÃ­.
+---------------
+No se puede. EstÃ¡ cerrado.
+---------------
+James, no puedes ir por ahÃ­.

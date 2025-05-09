@@ -1,524 +1,213 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 59
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-¡Ah!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Hay alguien ahí...?
-[ffff]
-[8000]
-}
-{
-[8000]
+--------------- strings=59 language=spanish
+---------------
+Â¡Ah!
+---------------
+Â¿Hay alguien ahÃ­...?
+---------------
 Abre.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Hola?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Hola?
+---------------
 Basta.
-Me estás molestando.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Ah...! Menos mal.
-Por fin encuentro a alguien.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Puedes abrir la puerta?
-[ffff]
-[8000]
-}
-{
-[8000]
+	Me estÃ¡s molestando.
+---------------
+Â¡Ah...! Menos mal.
+	Por fin encuentro a alguien.
+---------------
+Â¿Puedes abrir la puerta?
+---------------
 No.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Tengo que contestar
-a tus preguntas absurdas?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ah, no lo sabía.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Por quÃ©?
+---------------
+Â¿Tengo que contestar
+	a tus preguntas absurdas?
+---------------
+SÃ­.
+---------------
+Ah, no lo sabÃ­a.
+---------------
 Quiero estar solo.
-La gente me molesta.
-[ffff]
-[8000]
-}
-{
-[8000]
-Sólo quería ver otro rostro humano.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Sabes lo que está pasando
-en esta ciudad?
-[ffff]
-[8000]
-}
-{
-[8000]
+	La gente me molesta.
+---------------
+SÃ³lo querÃ­a ver otro rostro humano.
+---------------
+Â¿Sabes lo que estÃ¡ pasando
+	en esta ciudad?
+---------------
 No queda nadie...
-Sólo hay monstruos.
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, lo sé.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Y qué?
-[ffff]
-[8000]
-}
-{
-[8000]
-A mí me da igual.
-Que no haya nadie aquí
-significa que nadie me molesta.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Quieres estar solo
-en este manicomio?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, exactamente.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Cómo puedes decir que es
-esta ciudad la que está loca?
-[ffff]
-[8000]
-}
-{
-[8000]
+	SÃ³lo hay monstruos.
+---------------
+SÃ­, lo sÃ©.
+---------------
+Â¿Y quÃ©?
+---------------
+A mÃ­ me da igual.
+	Que no haya nadie aquÃ­
+	significa que nadie me molesta.
+---------------
+Â¿Quieres estar solo
+	en este manicomio?
+---------------
+SÃ­, exactamente.
+---------------
+Â¿CÃ³mo puedes decir que es
+	esta ciudad la que estÃ¡ loca?
+---------------
 Tal vez somos nosotros los locos.
-[ffff]
-[8000]
-}
-{
-[8000]
-Tú y yo... locos de remate.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Estás contenta?
-¿Me dejarás en paz ahora?
-[ffff]
-[8000]
-}
-{
-[8000]
-Me llamo... María.
-¿Cómo te llamas tú?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+TÃº y yo... locos de remate.
+---------------
+Â¿EstÃ¡s contenta?
+	Â¿Me dejarÃ¡s en paz ahora?
+---------------
+Me llamo... MarÃ­a.
+	Â¿CÃ³mo te llamas tÃº?
+---------------
 Ernest.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Hemingway?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Hemingway?
+---------------
 Baldwin.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ernest... Volveré.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ernest, ¿estás ahí?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Ernest... VolverÃ©.
+---------------
+Ernest, Â¿estÃ¡s ahÃ­?
+---------------
 No, parece que no...
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-placa blanca
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de la acacia
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado unas 
-[03ff]
-cerillas
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Este calendario es de hace diez años.
-Hace diez años... en noviembre...
-[ffff]
-[9000]
-}
-{
-[8000]
+---------------
+He encontrado una <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado unas <COLOR-GREEN>cerillas<COLOR-WHITE>.<SEPARATORB>
+---------------
+Este calendario es de hace diez aÃ±os.
+	Hace diez aÃ±os... en noviembre...<SEPARATORB>
+---------------
 Hay algo debajo de la silla.
-[ffff]
-[1000]
-[8000]
-¿Es una tarjeta de cumpleaños?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-A MI QUERIDO PAPÁ:
-¡FELIZ CUMPLEAÑOS!
-AMY BALDWIN
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-tarjeta de cumpleaños
-y el regalo
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un libro.
-Parece una enciclopedia de plantas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Acacia
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Género de árboles de hoja perenne
-de la familia de las fabáceas,
-subfamilia mimosoideae.
- Tiene flores pequeñas de color
-amarillo o blanco que crecen
-en racimos.
- Entre sus variedades comunes
-se incluye el «árbol gomero».
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El árbol de la acacia es
-un importante símbolo en
-muchas religiones del mundo.
- En el cristianismo representa
-la vida eterna y la moralidad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- En el antiguo Egipto representaba
-la pureza y el renacimiento, mientras
-que en la antigua Babilonia era
-considerado como un símbolo de vida
-y el árbol de la diosa Ishtar.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Para los antiguos judíos también
-era un árbol sagrado, quienes
-construyeron el Arca de la Alianza
-con madera de acacia; para ellos
-significaba una muerte tranquila
-y la liberación del dolor.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un reloj.
-[ffff]
-[1000]
-[8000]
-Creo que está roto.
-Las agujas no se mueven.
-[ffff]
-[9000]
-}
-{
-[8000]
+
+Â¿Es una tarjeta de cumpleaÃ±os?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>A MI QUERIDO PAPÃ:
+	Â¡FELIZ CUMPLEAÃ‘OS!
+	AMY BALDWIN<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>tarjeta de cumpleaÃ±os
+	y el regalo<COLOR-WHITE>.<SEPARATORB>
+---------------
+AquÃ­ hay un libro.
+	Parece una enciclopedia de plantas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Acacia
+
+<CENTER-PARAGRAPH><COLOR-BLUE> GÃ©nero de Ã¡rboles de hoja perenne
+	de la familia de las fabÃ¡ceas,
+	subfamilia mimosoideae.
+	 Tiene flores pequeÃ±as de color
+	amarillo o blanco que crecen
+	en racimos.
+	 Entre sus variedades comunes
+	se incluye el Â«Ã¡rbol gomeroÂ».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El Ã¡rbol de la acacia es
+	un importante sÃ­mbolo en
+	muchas religiones del mundo.
+	 En el cristianismo representa
+	la vida eterna y la moralidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> En el antiguo Egipto representaba
+	la pureza y el renacimiento, mientras
+	que en la antigua Babilonia era
+	considerado como un sÃ­mbolo de vida
+	y el Ã¡rbol de la diosa Ishtar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Para los antiguos judÃ­os tambiÃ©n
+	era un Ã¡rbol sagrado, quienes
+	construyeron el Arca de la Alianza
+	con madera de acacia; para ellos
+	significaba una muerte tranquila
+	y la liberaciÃ³n del dolor.<SEPARATORB>
+---------------
+AquÃ­ hay un reloj.
+
+Creo que estÃ¡ roto.
+	Las agujas no se mueven.<SEPARATORB>
+---------------
 En el estante no hay
-libros interesantes.
-[ffff]
-[9000]
-}
-{
-[8000]
+	libros interesantes.<SEPARATORB>
+---------------
 No hay nada interesante dentro
-o encima de la chimenea.
-[ffff]
-[9000]
-}
-{
-[8000]
-El estante está lleno de cuentos
-de hadas y literatura infantil.
-[ffff]
-[1000]
-[8000]
+	o encima de la chimenea.<SEPARATORB>
+---------------
+El estante estÃ¡ lleno de cuentos
+	de hadas y literatura infantil.
+
 Estoy segura de que nunca
-los he leído, pero me resultan
-familiares.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una cama de tamaño infantil.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una muñeca sobre la silla.
-[ffff]
-[1000]
-[8000]
-Ahora que me fijo, está muy sucia.
-[ffff]
-[1000]
-[8000]
-A quien viviese aquí
-le debía de encantar.
-[ffff]
-[9000]
-}
-{
-[8000]
-El estante está lleno de peluches.
-No hay nada interesante.
-[ffff]
-[1000]
-[8000]
-Ah, aquí hay un osito.
-[ffff]
-[1000]
-[8000]
-No está muy bien hecho,
-pero es bonito.
-[ffff]
-[1000]
-[8000]
-Seguro que a Laura le gustaría.
-La encantan los ositos.
-[ffff]
-[1000]
-[8000]
-¿“Laura”...?
-[ffff]
-[1000]
-[8000]
-¿De quién estoy hablando...?
-[ffff]
-[9000]
-}
-{
-[8000]
-Una hilera de peluches.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay una vela.
-[ffff]
-[9000]
-}
-{
-[8000]
+	los he leÃ­do, pero me resultan
+	familiares.<SEPARATORB>
+---------------
+Una cama de tamaÃ±o infantil.<SEPARATORB>
+---------------
+Hay una muÃ±eca sobre la silla.
+
+Ahora que me fijo, estÃ¡ muy sucia.
+
+A quien viviese aquÃ­
+	le debÃ­a de encantar.<SEPARATORB>
+---------------
+El estante estÃ¡ lleno de peluches.
+	No hay nada interesante.
+
+Ah, aquÃ­ hay un osito.
+
+No estÃ¡ muy bien hecho,
+	pero es bonito.
+
+Seguro que a Laura le gustarÃ­a.
+	La encantan los ositos.
+
+Â¿â€œLauraâ€...?
+
+Â¿De quiÃ©n estoy hablando...?<SEPARATORB>
+---------------
+Una hilera de peluches.<SEPARATORB>
+---------------
+AquÃ­ hay una vela.<SEPARATORB>
+---------------
 No puedo ver nada.
-Si hubiera algo de luz...
-[ffff]
-[9000]
-}
-{
-[8000]
+	Si hubiera algo de luz...<SEPARATORB>
+---------------
 La vela encendida
-da un poco de luz.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay una caja de madera.
-No tiene nada de especial.
-[ffff]
-[9000]
-}
-{
-[8000]
+	da un poco de luz.<SEPARATORB>
+---------------
+AquÃ­ hay una caja de madera.
+	No tiene nada de especial.<SEPARATORB>
+---------------
 Hay libros apilados en el suelo.
-No hay nada interesante.
-[ffff]
-[1000]
-[8000]
-De todas formas, nunca me interesó
-demasiado la literatura
-ni la filosofía.
-[ffff]
-[9000]
-}
-{
-[8000]
-Sólo es basura.
-No parece que haya nada útil.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un jarrón y una estatuilla
-de un león. Ahora mismo
-no me sirven de nada.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No hay nada interesante.
+
+De todas formas, nunca me interesÃ³
+	demasiado la literatura
+	ni la filosofÃ­a.<SEPARATORB>
+---------------
+SÃ³lo es basura.
+	No parece que haya nada Ãºtil.<SEPARATORB>
+---------------
+Un jarrÃ³n y una estatuilla
+	de un leÃ³n. Ahora mismo
+	no me sirven de nada.<SEPARATORB>
+---------------
 Hay cuadros en la pared.
-Aquí no hay nada fuera
-de lo normal.
-[ffff]
-[9000]
-}
-{
-[8000]
-No puedo seguir por aquí.
-La pared me impide el paso.
-[ffff]
-[9000]
-}
-{
-[8000]
-Dáselo...
-[ffff]
-[8000]
-}
-{
-[8000]
+	AquÃ­ no hay nada fuera
+	de lo normal.<SEPARATORB>
+---------------
+No puedo seguir por aquÃ­.
+	La pared me impide el paso.<SEPARATORB>
+---------------
+DÃ¡selo...
+---------------
 a mi padre...
-[ffff]
-[8000]
-}
-{
-[8000]
-He usado una 
-[03ff]
-cerilla
-[00ff]
- para encender
-la vela.
-[ffff]
-[9000]
-}
+---------------
+He usado una <COLOR-GREEN>cerilla<COLOR-WHITE> para encender
+	la vela.<SEPARATORB>

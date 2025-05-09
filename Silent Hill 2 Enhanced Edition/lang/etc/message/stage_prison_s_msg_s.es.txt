@@ -1,198 +1,66 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 17
+--------------- strings=17 language=spanish
+---------------
+<COLOR-WHITE>Hay algo escrito sobre el cuadro.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
+	los Tres Pecados.
 
-BEGIN_SOURCE:
-{
-[8000]
-[00ff]
-Hay algo escrito sobre el cuadro.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Te doy sangre para expiar
-los Tres Pecados.
-[ffff]
-[1000]
-[8000]
-[00ff]
-Bajo el cuadro hay tres agujeros
-cuadrados.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Te doy sangre para expiar
-los Tres Pecados.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-tablilla del opresor
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He insertado la 
-[03ff]
-tablilla del opresor
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He insertado la 
-[03ff]
-tablilla del cerdo glotÛn
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He insertado la 
-[03ff]
-tablilla de la seductora
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-herradura
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-muÒeco de cera
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-La puerta est· cerrada firmemente.
-No puedo forzarla.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Hombre ardiendo
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-436 personas en un recital
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Mujer volando
-[ffff]
-[9000]
-}
-{
-[8000]
+<COLOR-WHITE>Bajo el cuadro hay tres agujeros
+	cuadrados.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Te doy sangre para expiar
+	los Tres Pecados.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla del opresor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla del cerdo glot√≥n<COLOR-WHITE>.<SEPARATORB>
+---------------
+He insertado la <COLOR-GREEN>tablilla de la seductora<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>herradura<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mu√±eco de cera<COLOR-WHITE>.<SEPARATORB>
+---------------
+La puerta est√° cerrada firmemente.
+	No puedo forzarla.<SEPARATORB>
+---------------
+<COLOR-BLUE>Hombre ardiendo<SEPARATORB>
+---------------
+<COLOR-BLUE>436 personas en un recital<SEPARATORB>
+---------------
+<COLOR-BLUE>Mujer volando<SEPARATORB>
+---------------
 Hay tres cuerdas que cuelgan
-del patÌbulo.
-[ffff]
-[9000]
-}
-{
-[8000]
-AquÌ hay ropa manchada de sangre.
-[ffff]
-[9000]
-}
-{
-[8000]
-AquÌ hay revistas.
-Nada de interÈs.
-[ffff]
-[9000]
-}
-{
-[8000]
+	del pat√≠bulo.<SEPARATORB>
+---------------
+Aqu√≠ hay ropa manchada de sangre.<SEPARATORB>
+---------------
+Aqu√≠ hay revistas.
+	Nada de inter√©s.<SEPARATORB>
+---------------
 Hay libros esparcidos por todo
-el suelo y sobre la cama.
-[ffff]
-[1000]
-[8000]
-[01ff]
-ìMagia negra del abismoî
-ìLa resurrecciÛn de los muertosî
-[ffff]
-[1000]
-[8000]
-[01ff]
-ìCrÛnicas de Agripaî
-ìManuscrito de los anillos
- de hierroî
-[ffff]
-[1000]
-[8000]
-[00ff]
-No deberÌa darles mucha importancia.
-[ffff]
-[9000]
-}
-{
-[8000]
+	el suelo y sobre la cama.
+
+<COLOR-BLUE>‚ÄúMagia negra del abismo‚Äù
+	‚ÄúLa resurrecci√≥n de los muertos‚Äù
+
+<COLOR-BLUE>‚ÄúCr√≥nicas de Agripa‚Äù
+	‚ÄúManuscrito de los anillos
+	 de hierro‚Äù
+
+<COLOR-WHITE>No deber√≠a darles mucha importancia.<SEPARATORB>
+---------------
 Hay libros esparcidos por todo
-el suelo y sobre la cama.
-[ffff]
-[1000]
-[8000]
-[01ff]
-ìSacrificios y el arte
- de invocar al demonioî
-ìLibro del profetaî
-[ffff]
-[1000]
-[8000]
-[01ff]
-ìEl dÌa de los s˙cubosî
-ìLos angeles caÌdos de la
- gracia y el favorî
-[ffff]
-[1000]
-[8000]
-[00ff]
-No deberÌa darles mucha importancia.
-[ffff]
-[9000]
-}
+	el suelo y sobre la cama.
+
+<COLOR-BLUE>‚ÄúSacrificios y el arte
+	 de invocar al demonio‚Äù
+	‚ÄúLibro del profeta‚Äù
+
+<COLOR-BLUE>‚ÄúEl d√≠a de los s√∫cubos‚Äù
+	‚ÄúLos angeles ca√≠dos de la
+	 gracia y el favor‚Äù
+
+<COLOR-WHITE>No deber√≠a darles mucha importancia.<SEPARATORB>

@@ -1,248 +1,82 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 28
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Hay algo escrito.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Joseph me dio la llave.
-Será de esa caja.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=28 language=spanish
+---------------
+Hay algo escrito.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Joseph me dio la llave.
+	SerÃ¡ de esa caja.<SEPARATORB>
+---------------
 Una bata de laboratorio.
-No hay nada especialmente
-interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay algo escrito en la pared.
-[ffff]
-[9000]
-}
-{
-[8000]
-[fbff]
-[01ff]
-[00f9]
-Jira jira jira los números
-mejor no olvidarlos
-Por eso los eskriba aquí
-El otro, mi nombre secreto
-[ffff]
-[9000]
-}
-{
-[8000]
+	No hay nada especialmente
+	interesante.<SEPARATORB>
+---------------
+Hay algo escrito en la pared.<SEPARATORB>
+---------------
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira jira jira los nÃºmeros
+	mejor no olvidarlos
+	Por eso los eskriba aquÃ­
+	El otro, mi nombre secreto<SEPARATORB>
+---------------
 Hay una caja con muchas cerraduras.
-[ffff]
-[1000]
-[8000]
-Hay un total de 
-[e0ff]
- cerraduras.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un total de 
-[e0ff]
- cerraduras.
-[ffff]
-[9000]
-}
-{
-[8000]
+
+Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+---------------
+Hay un total de <VARIABLE-01> cerraduras.<SEPARATORB>
+---------------
 No hay nada dentro de la caja.
-[ffff]
-[1000]
-[8000]
+
 No, me equivoco...
-Dentro hay unos pelos.
-[ffff]
-[9000]
-}
-{
-[8000]
-Ya no hay nada en la caja.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Louise
-Siempre cuidaré de ti.
-¡Es mi destino!
-[ffff]
-[9000]
-}
-{
-[8000]
-Una caja cerrada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay algo metido en la tubería
-de desagüe.
-[ffff]
-[1000]
-[8000]
-El agujero es muy pequeño.
-No puedo meter la mano para
-alcanzarlo.
-[ffff]
-[1000]
-[8000]
-Quizás si tuviese algún tipo de
-herramienta larga y estrecha...
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada en el agujero.
-[ffff]
-[9000]
-}
-{
-[8000]
-Giro la llave, pero no sale agua.
-[ffff]
-[9000]
-}
-{
-[8000]
-Así nunca podré cogerlo.
-[ffff]
-[9000]
-}
-{
-[8000]
-No es lo bastante largo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una tapa sobre el botón
-de llamada del ascensor.
-[ffff]
-[1000]
-[8000]
-No tengo forma de abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Dentro hay unos pelos.<SEPARATORB>
+---------------
+Ya no hay nada en la caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+	Siempre cuidarÃ© de ti.
+	Â¡Es mi destino!<SEPARATORB>
+---------------
+Una caja cerrada.<SEPARATORB>
+---------------
+Hay algo metido en la tuberÃ­a
+	de desagÃ¼e.
+
+El agujero es muy pequeÃ±o.
+	No puedo meter la mano para
+	alcanzarlo.
+
+QuizÃ¡s si tuviese algÃºn tipo de
+	herramienta larga y estrecha...<SEPARATORB>
+---------------
+No hay nada en el agujero.<SEPARATORB>
+---------------
+Giro la llave, pero no sale agua.<SEPARATORB>
+---------------
+AsÃ­ nunca podrÃ© cogerlo.<SEPARATORB>
+---------------
+No es lo bastante largo.<SEPARATORB>
+---------------
+Hay una tapa sobre el botÃ³n
+	de llamada del ascensor.
+
+No tengo forma de abrirla.<SEPARATORB>
+---------------
 Pulso los botones,
-pero el ascensor no reacciona.
-[ffff]
-[9000]
-}
-{
-[8000]
-El armario no se abre.
-[ffff]
-[9000]
-}
-{
-[8000]
-No creo que pueda seguir por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-No parece haber nada útil por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave del toro morado
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave del toro morado
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-mechón de pelo
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-aguja torcida
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave del ascensor
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave del ascensor
-[00ff]
-.
-[ffff]
-[9000]
-}
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+El armario no se abre.<SEPARATORB>
+---------------
+No creo que pueda seguir por aquÃ­.<SEPARATORB>
+---------------
+AquÃ­ no hay nada interesante.<SEPARATORB>
+---------------
+No parece haber nada Ãºtil por aquÃ­.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mechÃ³n de pelo<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>aguja torcida<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave del ascensor<COLOR-WHITE>.<SEPARATORB>

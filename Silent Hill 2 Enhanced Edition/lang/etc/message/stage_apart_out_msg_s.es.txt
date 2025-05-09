@@ -1,206 +1,109 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 9
+--------------- strings=9 language=spanish
+---------------
+Â¿QuÃ© es esto...?
+	Una revista del corazÃ³n, Â¿eh?
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PARAGRAPH><COLOR-BLUE> La policÃ­a ha anunciado hoy
+	que Walter Sullivan, detenido
+	el dÃ­a 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidÃ³ en su celda en
+	la madrugada del 22.
 
-BEGIN_SOURCE:
-{
-[8000]
-¿Qué es esto...?
-Una revista del corazón, ¿eh?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- La policía ha anunciado hoy
-que Walter Sullivan, detenido
-el día 18 de este mes por
-el brutal asesinato de Billy
-Locane y su hermana Miriam,
-se suicidó en su celda en
-la madrugada del 22.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Según la declaración de la policía,
-Sullivan se clavó una cuchara
-sopera en el cuello, cortándose
-la arteria carótida.
+<CENTER-PARAGRAPH><COLOR-BLUE> SegÃºn la declaraciÃ³n de la policÃ­a,
+	Sullivan se clavÃ³ una cuchara
+	sopera en el cuello, cortÃ¡ndose
+	la arteria carÃ³tida.
+	
+	 Cuando el guarda lo encontrÃ³,
+	Sullivan ya habÃ­a muerto
+	desangrado, con la cuchara
+	hendida cinco centÃ­metros
+	en el cuello.
 
- Cuando el guarda lo encontró,
-Sullivan ya había muerto
-desangrado, con la cuchara
-hendida cinco centímetros
-en el cuello.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Un antiguo compañero de escuela
-de Walter Sullivan, de su ciudad natal
-de Pleasant River, declaró:
- «No parecía capaz de matar
-a un niño.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Pero recuerdo que justo antes
-de que lo detuvieran decía
-cosas extrañas, en plan:
-“Quiere matarme. Quiere
-castigarme. El monstruo...
-el demonio rojo.
-Perdonadme. Yo lo hice,
-¡pero no fui yo!”».
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El compañero añadió:
-«Ahora que lo pienso, creo que
-le faltaba algún tornillo».
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
- La policía ha anunciado hoy
-que Walter Sullivan, detenido
-el día 18 de este mes por
-el brutal asesinato de Billy
-Locane y su hermana Miriam,
-se suicidó en su celda en
-la madrugada del 22.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Según la declaración de la policía,
-Sullivan se clavó una cuchara
-sopera  en el cuello, cortándose
-la arteria carótida.
- Cuando el guarda lo encontró,
-Sullivan ya había muerto
-desangrado, y tenía la cuchara
-hendida 5 cm en el cuello.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Un antiguo compañero de escuela
-de Walter Sullivan, de su ciudad natal
-de Pleasant River, declaró:
- «No parecía capaz de matar
-a un niño.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Pero recuerdo que justo antes
-de que lo detuvieran decía
-cosas extrañas, en plan:
-“Quiere matarme. Quiere
-castigarme. El monstruo...
-el demonio rojo.
-Perdonadme. Yo lo hice,
-¡pero no fui yo!”».
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- El compañero añadió:
-«Ahora que lo pienso, creo que
-le faltaba algún tornillo».
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compaÃ±ero de escuela
+	de Walter Sullivan, de su ciudad natal
+	de Pleasant River, declarÃ³:
+	 Â«No parecÃ­a capaz de matar
+	a un niÃ±o.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
+	de que lo detuvieran decÃ­a
+	cosas extraÃ±as, en plan:
+	â€œQuiere matarme. Quiere
+	castigarme. El monstruo...
+	el demonio rojo.
+	Perdonadme. Yo lo hice,
+	Â¡pero no fui yo!â€Â».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El compaÃ±ero aÃ±adiÃ³:
+	Â«Ahora que lo pienso, creo que
+	le faltaba algÃºn tornilloÂ».<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> La policÃ­a ha anunciado hoy
+	que Walter Sullivan, detenido
+	el dÃ­a 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidÃ³ en su celda en
+	la madrugada del 22.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> SegÃºn la declaraciÃ³n de la policÃ­a,
+	Sullivan se clavÃ³ una cuchara
+	sopera  en el cuello, cortÃ¡ndose
+	la arteria carÃ³tida.
+	 Cuando el guarda lo encontrÃ³,
+	Sullivan ya habÃ­a muerto
+	desangrado, y tenÃ­a la cuchara
+	hendida 5 cm en el cuello.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Un antiguo compaÃ±ero de escuela
+	de Walter Sullivan, de su ciudad natal
+	de Pleasant River, declarÃ³:
+	 Â«No parecÃ­a capaz de matar
+	a un niÃ±o.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero recuerdo que justo antes
+	de que lo detuvieran decÃ­a
+	cosas extraÃ±as, en plan:
+	â€œQuiere matarme. Quiere
+	castigarme. El monstruo...
+	el demonio rojo.
+	Perdonadme. Yo lo hice,
+	Â¡pero no fui yo!â€Â».
+
+<CENTER-PARAGRAPH><COLOR-BLUE> El compaÃ±ero aÃ±adiÃ³:
+	Â«Ahora que lo pienso, creo que
+	le faltaba algÃºn tornilloÂ».<SEPARATORB>
+---------------
 La puerta no cede.
-[ffff]
-[1000]
-[8000]
+
 Parece como si algo la empujase
-desde el otro lado.
-[ffff]
-[9000]
-}
-{
-[8000]
+	desde el otro lado.<SEPARATORB>
+---------------
 Es basura.
-No me sirve para nada.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No me sirve para nada.<SEPARATORB>
+---------------
 Al otro lado de la puerta
-no hay una escalera de emergencia.
-[ffff]
-[1000]
-[8000]
-¿La tirarían al construir
-el edificio de al lado?
-[ffff]
-[1000]
-[8000]
+	no hay una escalera de emergencia.
+
+Â¿La tirarÃ­an al construir
+	el edificio de al lado?
+
 Creo que puedo entrar
-en el edificio de al lado
-por esta ventana.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-moneda
-de la serpiente
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
+	en el edificio de al lado
+	por esta ventana.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>moneda
+	de la serpiente<COLOR-WHITE>.<SEPARATORB>
+---------------
 La bolsa de basura se ha roto
-y se han esparcido sus contenidos
-por todas partes.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-moneda del anciano
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Creo que seguiré buscando
-en este apartamento.
-Hay algo que no me cuadra.
-[ffff]
-[9000]
-}
+	y se han esparcido sus contenidos
+	por todas partes.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>moneda del anciano<COLOR-WHITE>.<SEPARATORB>
+---------------
+Creo que seguirÃ© buscando
+	en este apartamento.
+	Hay algo que no me cuadra.<SEPARATORB>

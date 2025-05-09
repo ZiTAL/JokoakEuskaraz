@@ -1,39 +1,11 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 2
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=2 language=spanish
+---------------
 Hay una especie de placa en el suelo.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Amy Baldwin
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Dios la amó demasiado.
-Siete años no eran suficientes.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-NO ACERCARSE
-A LA CASA ENCANTADA
-[ffff]
-[9000]
-}
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Amy Baldwin
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Dios la amÃ³ demasiado.
+	Siete aÃ±os no eran suficientes.<SEPARATORB>
+---------------
+<COLOR-BLUE>NO ACERCARSE
+	A LA CASA ENCANTADA<SEPARATORB>

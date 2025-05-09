@@ -1,177 +1,67 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 18
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=18 language=spanish
+---------------
 Hay una especie de nevera.
-[ffff]
-[1000]
-[8000]
-¿Vas a abrirla?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
+
+Â¿Vas a abrirla?<SELECT-YES-OR-NO>
+---------------
 No queda nada en la nevera.
-Un olor nauseabundo proviene
-del interior.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Un olor nauseabundo proviene
+	del interior.<SEPARATORB>
+---------------
 La puerta pesa demasiado
-como para que yo pueda
-abrirla por mí mismo.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-pila seca
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave del almacén
-del sótano
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado el 
-[03ff]
-anillo de plomo
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿No puedes abrirla?
-[ffff]
-[8000]
-}
-{
-[8000]
-No. María, échame una mano.
-[ffff]
-[8000]
-}
-{
-[8000]
+	como para que yo pueda
+	abrirla por mÃ­ mismo.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>pila seca<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del almacÃ©n
+	del sÃ³tano<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado el <COLOR-GREEN>anillo de plomo<COLOR-WHITE>.<SEPARATORB>
+---------------
+Â¿No puedes abrirla?
+---------------
+No. MarÃ­a, Ã©chame una mano.
+---------------
 Venga ya...
-[ffff]
-[8000]
-}
-{
-[8000]
-se supone que tú eres el machote...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué puede hacer
-una chica como yo?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué es esto?
-No es muy bonito, ¿no?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+se supone que tÃº eres el machote...
+---------------
+Â¿QuÃ© puede hacer
+	una chica como yo?
+---------------
+Â¿QuÃ© es esto?
+	No es muy bonito, Â¿no?
+---------------
 Toma, James, para ti.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Vaya, gracias.
-[ffff]
-[8000]
-}
-{
-[8000]
-[fbff]
-[faff]
-[01ff]
-Estaba encerrado en
-el sótano del sótano.
-Era muy pequeño y oscuro
-y yo tuve muchísimo miedo.
-Se me cayó mi precioso anillo.
-Pero nunca jamás volveré allí.
-[ffff]
-[9000]
-}
-{
-[8000]
+---------------
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
+	el sÃ³tano del sÃ³tano.
+	Era muy pequeÃ±o y oscuro
+	y yo tuve muchÃ­simo miedo.
+	Se me cayÃ³ mi precioso anillo.
+	Pero nunca jamÃ¡s volverÃ© allÃ­.<SEPARATORB>
+---------------
 Parte del papel de la pared
-está roto. Hay algo pintado
-por debajo.
-[ffff]
-[1000]
-[8000]
-¿Buscan algo esas manos?
-[ffff]
-[1000]
-[8000]
-¿O son sólo un signo de dolor?
-[ffff]
-[9000]
-}
-{
-[8000]
+	estÃ¡ roto. Hay algo pintado
+	por debajo.
+
+Â¿Buscan algo esas manos?
+
+Â¿O son sÃ³lo un signo de dolor?<SEPARATORB>
+---------------
 En la cama hay un trozo de papel.
-[ffff]
-[1000]
-[8000]
-[fbff]
-[faff]
-[01ff]
-Estaba encerrado en
-el sótano del sótano.
-Era muy pequeño y oscuro
-y yo tuve muchísimo miedo.
-Se me cayó mi precioso anillo.
-Pero nunca jamás volveré allí.
-[ffff]
-[9000]
-}
-{
-[8000]
+
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Estaba encerrado en
+	el sÃ³tano del sÃ³tano.
+	Era muy pequeÃ±o y oscuro
+	y yo tuve muchÃ­simo miedo.
+	Se me cayÃ³ mi precioso anillo.
+	Pero nunca jamÃ¡s volverÃ© allÃ­.<SEPARATORB>
+---------------
 En la cama hay un trozo de papel.
-[ffff]
-[1000]
-[8000]
-Tiene algo escrito, pero está
-demasiado oscuro para leerlo.
-[ffff]
-[9000]
-}
+
+Tiene algo escrito, pero estÃ¡
+	demasiado oscuro para leerlo.<SEPARATORB>

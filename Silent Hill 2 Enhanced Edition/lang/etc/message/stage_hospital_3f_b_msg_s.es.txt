@@ -1,144 +1,61 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 11
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=11 language=spanish
+---------------
 En la cama hay un trozo de papel.
-[ffff]
-[1000]
-[8000]
-SÛlo son garabatos...
-Eh, tiene algo escrito.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Es un ·ngel que nadie conoce
-sÛlo yo puedo ver a la dama de la
-puerta no pueden andar sobre
-su puente de hilos caer·n por
-el peso de sus crÌmenes.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Sus pecados son como horribles
-e hinchados cad·veres ella devora
-tanto pecado como pecador
-me salvar· es un ·ngel.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Es un ·ngel que nadie conoce
-sÛlo yo puedo ver a la dama de la
-puerta no pueden andar sobre
-su puente de hilos caer·n por
-el peso de sus crÌmenes.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Sus pecados son como horribles
-e hinchados cad·veres ella devora
-tanto pecado como pecador
-me salvar· es un ·ngel.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-anillo de cobre
-[00ff]
 
-en la ìmanoî de la mujer pintada.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto el 
-[03ff]
-anillo de plomo
-[00ff]
+S√≥lo son garabatos...
+	Eh, tiene algo escrito.
 
-en la ìmanoî de la mujer pintada.
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Es un √°ngel que nadie conoce
+	s√≥lo yo puedo ver a la dama de la
+	puerta no pueden andar sobre
+	su puente de hilos caer√°n por
+	el peso de sus cr√≠menes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sus pecados son como horribles
+	e hinchados cad√°veres ella devora
+	tanto pecado como pecador
+	me salvar√° es un √°ngel.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Es un √°ngel que nadie conoce
+	s√≥lo yo puedo ver a la dama de la
+	puerta no pueden andar sobre
+	su puente de hilos caer√°n por
+	el peso de sus cr√≠menes.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sus pecados son como horribles
+	e hinchados cad√°veres ella devora
+	tanto pecado como pecador
+	me salvar√° es un √°ngel.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>anillo de cobre<COLOR-WHITE>
+	en la ‚Äúmano‚Äù de la mujer pintada.<SEPARATORB>
+---------------
+He puesto el <COLOR-GREEN>anillo de plomo<COLOR-WHITE>
+	en la ‚Äúmano‚Äù de la mujer pintada.<SEPARATORB>
+---------------
 Pulso los botones,
-pero el ascensor no reacciona.
-[ffff]
-[9000]
-}
-{
-[8000]
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
 En la puerta hay una mujer pintada.
-[ffff]
-[1000]
-[8000]
+
 Lo curioso es que la parte
-de la mano es tridimensional
-y sobresale.
-[ffff]
-[9000]
-}
-{
-[8000]
-Pulso el botÛn,
-pero no ocurre nada.
-[ffff]
-[9000]
-}
-{
-[8000]
+	de la mano es tridimensional
+	y sobresale.<SEPARATORB>
+---------------
+Pulso el bot√≥n,
+	pero no ocurre nada.<SEPARATORB>
+---------------
 En la cama hay un trozo de papel.
-[ffff]
-[1000]
-[8000]
-Tiene algo escrito, pero est·
-demasiado oscuro para leerlo.
-[ffff]
-[9000]
-}
-{
-[8000]
-AquÌ hay frascos vacÌos.
-øSon de MarÌa?
-[ffff]
-[1000]
-[8000]
-øMarÌa tambiÈn est· enferma...?
-[ffff]
-[9000]
-}
-{
-[8000]
-MarÌa no est· aquÌ...
-øDÛnde habr· ido?
-[ffff]
-[9000]
-}
-{
-[8000]
-AquÌ no hay nada ˙til.
-[ffff]
-[9000]
-}
+
+Tiene algo escrito, pero est√°
+	demasiado oscuro para leerlo.<SEPARATORB>
+---------------
+Aqu√≠ hay frascos vac√≠os.
+	¬øSon de Mar√≠a?
+
+¬øMar√≠a tambi√©n est√° enferma...?<SEPARATORB>
+---------------
+Mar√≠a no est√° aqu√≠...
+	¬øD√≥nde habr√° ido?<SEPARATORB>
+---------------
+Aqu√≠ no hay nada √∫til.<SEPARATORB>

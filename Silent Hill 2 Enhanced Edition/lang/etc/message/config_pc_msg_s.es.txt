@@ -1,286 +1,93 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 46
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Mover a izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Mover a derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
-Girar a la izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Girar a la derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
+--------------- strings=46 language=spanish
+---------------
+Mover a izda.
+---------------
+Mover a dcha.
+---------------
+Girar a la izda.
+---------------
+Girar a la dcha.
+---------------
 Ir hacia delante
-[ffff]
-[8000]
-}
-{
-[8000]
-Ir hacia atrás
-[ffff]
-[8000]
-}
-{
-[8000]
-Paso a la izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Paso a la derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
-Apuntar a izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Apuntar a derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
-Acción
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Ir hacia atrÃ¡s
+---------------
+Paso a la izda.
+---------------
+Paso a la dcha.
+---------------
+Apuntar a izda.
+---------------
+Apuntar a dcha.
+---------------
+AcciÃ³n
+---------------
 Cancelar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Omitir/Pausa
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Correr/Defensa
-[ffff]
-[8000]
-}
-{
-[8000]
-Modo de búsqueda
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Modo de bÃºsqueda
+---------------
 Inventario
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Linterna
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Fijar objetivo
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Mapa
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Esc
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Intro
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Retroceso
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Espacio
-[ffff]
-[8000]
-}
-{
-[8000]
-Mayús izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Mayús derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ctrl izquierdo.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ctrl derecho.
-[ffff]
-[8000]
-}
-{
-[8000]
-Alt izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+MayÃºs izda.
+---------------
+MayÃºs dcha.
+---------------
+Ctrl izdo.
+---------------
+Ctrl dcho.
+---------------
+Alt izda.
+---------------
 Tab
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Insert
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Inicio
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Supr
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Fin
-[ffff]
-[8000]
-}
-{
-[8000]
-Av Pág
-[ffff]
-[8000]
-}
-{
-[8000]
-Re Pág
-[ffff]
-[8000]
-}
-{
-[8000]
-Cursor izquierdo.
-[ffff]
-[8000]
-}
-{
-[8000]
-Cursor derecho.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Av PÃ¡g
+---------------
+Re PÃ¡g
+---------------
+Cursor izdo.
+---------------
+Cursor dcho.
+---------------
 Cursor abajo
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Cursor arriba
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 (T. num.)
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Intro
-[ffff]
-[8000]
-}
-{
-[8000]
-Pad izquierda.
-[ffff]
-[8000]
-}
-{
-[8000]
-Pad derecha.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Pad Izda.
+---------------
+Pad Dcha.
+---------------
 Pad Arriba
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Pad Abajo
-[ffff]
-[8000]
-}
-{
-[8000]
-Botón
-[ffff]
-[8000]
-}
+---------------
+BotÃ³n

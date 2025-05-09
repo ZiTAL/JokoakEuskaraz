@@ -1,47 +1,14 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 5
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Hay un reproductor de vídeo.
-Creo que funciona.
-[ffff]
-[9000]
-}
-{
-[8000]
-Me he llevado la cinta de vídeo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aprieto el botón,
-pero no pasa nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de perro
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-La cerradura podría estar rota.
-No parece que pueda abrirla.
-[ffff]
-[9000]
-}
+--------------- strings=5 language=spanish
+---------------
+Hay un reproductor de vÃ­deo.
+	Creo que funciona.<SEPARATORB>
+---------------
+Me he llevado la cinta de vÃ­deo.<SEPARATORB>
+---------------
+Aprieto el botÃ³n,
+	pero no pasa nada.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de perro<COLOR-WHITE>.<SEPARATORB>
+---------------
+La cerradura podrÃ­a estar rota.
+	No parece que pueda abrirla.<SEPARATORB>

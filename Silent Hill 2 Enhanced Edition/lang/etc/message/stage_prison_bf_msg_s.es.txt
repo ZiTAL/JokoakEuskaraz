@@ -1,108 +1,45 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 10
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Será mejor que no fisgue por ahí.
-No creo que quiera ver
-lo que hay dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=10 language=spanish
+---------------
+SerÃ¡ mejor que no fisgue por ahÃ­.
+	No creo que quiera ver
+	lo que hay dentro.<SEPARATORB>
+---------------
 Hay un agujero en el suelo.
-No puedo ver el fondo.
-[ffff]
-[1000]
-[8000]
-¿Hasta dónde llega...?
-[ffff]
-[1000]
-[8000]
-¿Vas a bajar?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Otro agujero... ¿De verdad tengo
-que meterme dentro...?
-[ffff]
-[1000]
-[8000]
-¿Vas a bajar?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Parece que el cerrojo está roto.
-No puedo abrirla.
-[ffff]
-[1000]
-[8000]
+	No puedo ver el fondo.
+
+Â¿Hasta dÃ³nde llega...?
+
+Â¿Vas a bajar?<SELECT-YES-OR-NO>
+---------------
+Otro agujero... Â¿De verdad tengo
+	que meterme dentro...?
+
+Â¿Vas a bajar?<SELECT-YES-OR-NO>
+---------------
+Parece que el cerrojo estÃ¡ roto.
+	No puedo abrirla.
+
 Si me acerco a la puerta,
-puedo oler un tufillo
-a podrido del interior.
-[ffff]
-[9000]
-}
-{
-[8000]
-El cadáver apesta a podrido.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Iban a... tirar este cadáver
-por el agujero?
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Se ha movido o
-me lo acabo de imaginar...?
-[ffff]
-[9000]
-}
-{
-[8000]
-Dios mío...
-En el agujero hay...
-[ffff]
-[1000]
-[8000]
-No he visto nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Del agujero sale un olor horrible.
-[ffff]
-[9000]
-}
-{
-[8000]
+	puedo oler un tufillo
+	a podrido del interior.<SEPARATORB>
+---------------
+El cadÃ¡ver apesta a podrido.<SEPARATORB>
+---------------
+Â¿Iban a... tirar este cadÃ¡ver
+	por el agujero?<SEPARATORB>
+---------------
+Â¿Se ha movido o
+	me lo acabo de imaginar...?<SEPARATORB>
+---------------
+Dios mÃ­o...
+	En el agujero hay...
+
+No he visto nada.<SEPARATORB>
+---------------
+Del agujero sale un olor horrible.<SEPARATORB>
+---------------
 Hay algo en el agujero.
-Parece...
-[ffff]
-[1000]
-[8000]
-Está descuartizado...
-No, no puedo seguir mirando...
-[ffff]
-[9000]
-}
+	Parece...
+
+EstÃ¡ descuartizado...
+	No, no puedo seguir mirando...<SEPARATORB>

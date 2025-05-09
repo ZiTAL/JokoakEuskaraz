@@ -1,318 +1,106 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 29
+--------------- strings=29 language=spanish
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El cu<HIDDEN-TEXT>erpo d<HIDDEN-TEXT>e un hombre que
+	fue posteriormente identificado
+	como Thomas Oro<HIDDEN-TEXT>sco,<HIDDEN-TEXT> un leÃ±ador
+	de 39 a<HIDDEN-TEXT>Ã±os<HIDDEN-TEXT>, fue descubierto en
+	<HIDDEN-TEXT>su habit<HIDDEN-TEXT>aciÃ³n tumbado bo<HIDDEN-TEXT>ca<HIDDEN-TEXT>
+	<HIDDEN-TEXT>arriba.<HIDDEN-TEXT>
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PARAGRAPH><COLOR-BLUE> La probable causa de la mue<HIDDEN-TEXT>rte<HIDDEN-TEXT>
+	<HIDDEN-TEXT>fu<HIDDEN-TEXT>eron varias puÃ±aladas en la
+	parte delantera del cuello y en
+	el costado izquierdo, provocadas
+	por un arma afilada.
+	La muerte oc<HIDDEN-TEXT>urriÃ³<HIDDEN-TEXT> aproximadamente
+	entre las 23:0<HIDDEN-TEXT>0 y<HIDDEN-TEXT> la medianoche.
 
-BEGIN_SOURCE:
-{
-[8000]
-[faff]
-[01ff]
- El cu
-[f7ff]
-erpo d
-[f7ff]
-e un hombre que
-fue posteriormente identificado
-como Thomas Oro
-[f7ff]
-sco,
-[f7ff]
- un leñador
-de 39 a
-[f7ff]
-ños
-[f7ff]
-, fue descubierto en
-[fdff]
-[f7ff]
-su habit
-[f7ff]
-ación tumbado bo
-[f7ff]
-ca
-[f7ff]
+<CENTER-PARAGRAPH><COLOR-BLUE> Debido a los indicios de lucha
+	en la habitaciÃ³n y la ausencia
+	del arma homicida, la policÃ­a estÃ¡
+	sos<HIDDEN-TEXT>pech<HIDDEN-TEXT>ando de un homicidio
+	y ha abierto una investigaciÃ³n
+	por asesinato.
 
-[fdff]
-[f7ff]
-arriba.
-[f7ff]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- La probable causa de la mue
-[f7ff]
-rte
-[f7ff]
+<CENTER-PARAGRAPH><COLOR-BLUE> AdemÃ¡s, dado que no se habÃ­a
+	tocado el dinero de la habitaciÃ³n
+	y que el Sr. Oro<HIDDEN-TEXT>sco te<HIDDEN-TEXT>nÃ­a
+	antecedentes de alcoholismo y
+	violencia, la polic<HIDDEN-TEXT>Ã­a sosp<HIDDEN-TEXT>echa
+	que e<HIDDEN-TEXT>l mo<HIDDEN-TEXT>tivo no fue un robo,<HIDDEN-TEXT> sino<HIDDEN-TEXT>
+	<HIDDEN-TEXT>algÃºn tipo <HIDDEN-TEXT>de crimen p<HIDDEN-TEXT>asio<HIDDEN-TEXT>nal.<SEPARATORB>
+---------------
+Hay un periÃ³dico en el suelo.
 
-[fdff]
-[f7ff]
-fu
-[f7ff]
-eron varias puñaladas en la
-parte delantera del cuello y en
-el costado izquierdo, provocadas
-por un arma afilada.
-La muerte oc
-[f7ff]
-urrió
-[f7ff]
- aproximadamente
-entre las 23:0
-[f7ff]
-0 y
-[f7ff]
- la medianoche.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Debido a los indicios de lucha
-en la habitación y la ausencia
-del arma homicida, la policía está
-sos
-[f7ff]
-pech
-[f7ff]
-ando de un homicidio
-y ha abierto una investigación
-por asesinato.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Además, dado que no se había
-tocado el dinero de la habitación
-y que el Sr. Oro
-[f7ff]
-sco te
-[f7ff]
-nía
-antecedentes de alcoholismo y
-violencia, la polic
-[f7ff]
-ía sosp
-[f7ff]
-echa
-que e
-[f7ff]
-l mo
-[f7ff]
-tivo no fue un robo,
-[f7ff]
- sino
-[f7ff]
-
-[fdff]
-[f7ff]
-algún tipo 
-[f7ff]
-de crimen p
-[f7ff]
-asio
-[f7ff]
-nal.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un periódico en el suelo.
-[ffff]
-[1000]
-[8000]
-Está manchado de algo que parece
-sangre y hay partes que no se
-pueden leer.
-[ffff]
-[9000]
-}
-{
-[8000]
-La criatura está muerta.
-[ffff]
-[9000]
-}
-{
-[8000]
-¡No, papá! ¡No, por favor!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Se encuentra bien?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Angela! Tranquila.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡No me dé órdenes!
-[ffff]
-[8000]
-}
-{
-[8000]
-No es mi intención.
-[ffff]
-[8000]
-}
-{
-[8000]
-Entonces, ¿qué quiere?
-[ffff]
-[8000]
-}
-{
-[8000]
-Ah, ya veo, se está haciendo
-el simpático, ¿no?
-[ffff]
-[8000]
-}
-{
-[8000]
-Ya sé lo que quiere.
-Otra vez con lo mismo.
-[ffff]
-[8000]
-}
-{
-[8000]
+EstÃ¡ manchado de algo que parece
+	sangre y hay partes que no se
+	pueden leer.<SEPARATORB>
+---------------
+La criatura estÃ¡ muerta.<SEPARATORB>
+---------------
+Â¡No, papÃ¡! Â¡No, por favor!
+---------------
+Â¿Se encuentra bien?
+---------------
+Â¡Angela! Tranquila.
+---------------
+Â¡No me dÃ© Ã³rdenes!
+---------------
+No es mi intenciÃ³n.
+---------------
+Entonces, Â¿quÃ© quiere?
+---------------
+Ah, ya veo, se estÃ¡ haciendo
+	el simpÃ¡tico, Â¿no?
+---------------
+Ya sÃ© lo que quiere.
+	Otra vez con lo mismo.
+---------------
 Solo piensan en una cosa.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 No. Eso no es cierto.
-[ffff]
-[8000]
-}
-{
-[8000]
-No tiene porqué mentir.
-Venga, sea sincero.
-[ffff]
-[8000]
-}
-{
-[8000]
-O también puede forzarme.
-Pegarme, como hacía él.
-[ffff]
-[8000]
-}
-{
-[8000]
-Además, usted sólo piensa
-en sí mismo.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+No tiene porquÃ© mentir.
+	Venga, sea sincero.
+---------------
+O tambiÃ©n puede forzarme.
+	Pegarme, como hacÃ­a Ã©l.
+---------------
+AdemÃ¡s, usted sÃ³lo piensa
+	en sÃ­ mismo.
+---------------
 Maldito cerdo...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Angela...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡No me toque!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Me da ganas de vomitar!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡No me toque!
+---------------
+Â¡Me da ganas de vomitar!
+---------------
 Dijo que su mujer Mary
-estaba muerta, ¿no?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, estaba enferma...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Miente!
-[ffff]
-[8000]
-}
-{
-[8000]
+	estaba muerta, Â¿no?
+---------------
+SÃ­, estaba enferma...
+---------------
+Â¡Miente!
+---------------
 Le conozco bien...
-[ffff]
-[8000]
-}
-{
-[8000]
-Ya no quería estar con ella.
-Se buscaría a otra.
-[ffff]
-[8000]
-}
-{
-[8000]
-Eso es ridículo... Yo nunca...
-[ffff]
-[8000]
-}
-{
-[8000]
-No puedo dejarla a su suerte.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aunque volviera, ¿a dónde iría...?
-[ffff]
-[1000]
-[8000]
+---------------
+Ya no querÃ­a estar con ella.
+	Se buscarÃ­a a otra.
+---------------
+Eso es ridÃ­culo... Yo nunca...
+---------------
+No puedo dejarla a su suerte.<SEPARATORB>
+---------------
+Aunque volviera, Â¿a dÃ³nde irÃ­a...?
+
 No hay camino de vuelta
-ni lugar al que escapar.
-[ffff]
-[9000]
-}
-{
-[8000]
-Las paredes y el suelo están llenos
-de periódicos. No parece que haya
-nada de interés.
-[ffff]
-[1000]
-[8000]
+	ni lugar al que escapar.<SEPARATORB>
+---------------
+Las paredes y el suelo estÃ¡n llenos
+	de periÃ³dicos. No parece que haya
+	nada de interÃ©s.
+
 Pero este lleva fecha de hoy...
-Qué extraño.
-[ffff]
-[9000]
-}
+	QuÃ© extraÃ±o.<SEPARATORB>

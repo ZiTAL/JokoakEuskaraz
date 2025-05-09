@@ -1,533 +1,166 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 81
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=81 language=spanish
+---------------
 Guardar en cualquier sitio
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Nombre no decidido
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Bosque
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Aparcamiento
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Caravana
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Apartam., escalera SO
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Apartam., habitación 2.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Apartam. oeste, habit. 1.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Apartam. oeste, habit. 2.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Motel
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hospital, recepción
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hospital, habitación 3.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hospital, pasillo 1.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hospital, escalera sur
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hospital, vestíbulo
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Sociedad Histórica
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Prisión, comedor
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Prisión, lavabo
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Ascensor
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Pasillo del laberinto
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Catacumba
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Embarcadero
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hotel, vestíbulo
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hotel, cuarto del ascensor
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hotel, vestíbulo, 3.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
-[00ff]
-Hotel, vestíbulo, 1.ª plta.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+<COLOR-WHITE>Bosque
+---------------
+<COLOR-WHITE>Aparcamiento
+---------------
+<COLOR-WHITE>Caravana
+---------------
+<COLOR-WHITE>Apartam., escalera SO
+---------------
+<COLOR-WHITE>Apartam., habitaciÃ³n 2.Âª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 1.Âª plta.
+---------------
+<COLOR-WHITE>Apartam. oeste, habit. 2.Âª plta.
+---------------
+<COLOR-WHITE>Motel
+---------------
+<COLOR-WHITE>Hospital, recepciÃ³n
+---------------
+<COLOR-WHITE>Hospital, habitaciÃ³n 3.Âª plta.
+---------------
+<COLOR-WHITE>Hospital, pasillo 1.Âª plta.
+---------------
+<COLOR-WHITE>Hospital, escalera sur
+---------------
+<COLOR-WHITE>Hospital, vestÃ­bulo
+---------------
+<COLOR-WHITE>Sociedad HistÃ³rica
+---------------
+<COLOR-WHITE>PrisiÃ³n, comedor
+---------------
+<COLOR-WHITE>PrisiÃ³n, lavabo
+---------------
+<COLOR-WHITE>Ascensor
+---------------
+<COLOR-WHITE>Pasillo del laberinto
+---------------
+<COLOR-WHITE>Catacumba
+---------------
+<COLOR-WHITE>Embarcadero
+---------------
+<COLOR-WHITE>Hotel, vestÃ­bulo
+---------------
+<COLOR-WHITE>Hotel, cuarto del ascensor
+---------------
+<COLOR-WHITE>Hotel, vestÃ­bulo, 3.Âª plta.
+---------------
+<COLOR-WHITE>Hotel, vestÃ­bulo, 1.Âª plta.
+---------------
 Selecciona un archivo guardado.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Deseas formatearla?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Deseas formatearla?
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 No hay un archivo de datos.
-[ffff]
-[8000]
-}
-{
-[8000]
-Archivo de datos dañado.
-[ffff]
-[8000]
-}
-{
-[8000]
-[01ff]
-Es posible guardar.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Archivo de datos daÃ±ado.
+---------------
+<COLOR-BLUE>Es posible guardar.
+---------------
 Guardar en un archivo nuevo.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Formateando.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Error al formatear.
-[ffff]
-[8000]
-}
-{
-[8000]
-[01ff]
-Guardando...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+<COLOR-BLUE>Guardando...
+---------------
 Datos guardados.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Fallo al guardar.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Cargando.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Carga completada.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Fallo al cargar.
-[ffff]
-[8000]
-}
-{
-[8000]
-Los datos están dañados.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Deseas sobreescribir?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Abortar el guardado?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Los datos estÃ¡n daÃ±ados.
+---------------
+Â¿Deseas sobreescribir?
+---------------
+Â¿Abortar el guardado?
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
-N.º de archivos
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+N.Âº de archivos
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
-[02ff]
-No hay espacio disponible.
-[ffff]
-[8000]
-}
-{
-[8000]
-Acción
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+<COLOR-RED>No hay espacio disponible.
+---------------
+AcciÃ³n
+---------------
 Enigmas
-[ffff]
-[8000]
-}
-{
-[8000]
-Fácil
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+FÃ¡cil
+---------------
 Normal
-[ffff]
-[8000]
-}
-{
-[8000]
-Difícil
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+DifÃ­cil
+---------------
 Datos
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Fecha
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Guardado
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
-No se pueden crear más archivos
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Seguro que quieres borrar
-estos datos guardados?
-[ffff]
-[8000]
-}
-{
-[8000]
-[01ff]
-Borrando...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+No se pueden crear mÃ¡s archivos
+---------------
+Â¿Seguro que quieres borrar
+	estos datos guardados?
+---------------
+<COLOR-BLUE>Borrando...
+---------------
 Datos borrados.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Error al borrar.
-[ffff]
-[8000]
-}
-{
-[8000]
-Se necesitan 
-[e0ff]
- KB
-para crear un archivo adicional
-[ffff]
-[8000]
-}
-{
-[8000]
-Se necesitan 
-[e0ff]
- KB
-para guardar un archivo nuevo
-[ffff]
-[8000]
-}
-{
-[8000]
-Espacio libre: 
-[e0ff]
- KB
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Se necesitan <VARIABLE-01> KB
+	para crear un archivo adicional
+---------------
+Se necesitan <VARIABLE-01> KB
+	para guardar un archivo nuevo
+---------------
+Espacio libre: <VARIABLE-01> KB
+---------------
 Retroceso: Eliminar
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
-Carga rápida completada
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Carga rÃ¡pida completada
+---------------
 A
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Extra
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Principiante
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Resultados de la partida
-[ffff]
-[8000]
-}

@@ -1,171 +1,65 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 16
+--------------- strings=16 language=spanish
+---------------
+Hay una nota pegada en la puerta.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Querido Tim:
+	 Tengo que irme a hacer un recado.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Hay una nota pegada en la puerta.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Querido Tim:
- Tengo que irme a hacer un recado.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Le dejo la llave de la casa
-al tío David (Ya sabes dónde
-vive, ¿no? La llave está
-en la habitación más cercana
-a la escalera del primer piso).
-
- Volveré en cuanto pueda;
-cuídame la casa mientras
-estoy fuera, por favor.
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE> Le dejo la llave de la casa
+	al tÃ­o David (Ya sabes dÃ³nde
+	vive, Â¿no? La llave estÃ¡
+	en la habitaciÃ³n mÃ¡s cercana
+	a la escalera del primer piso).
+	
+	 VolverÃ© en cuanto pueda;
+	cuÃ­dame la casa mientras
+	estoy fuera, por favor.<SEPARATORB>
+---------------
 Parece que hay algo metido
-dentro del retrete.
-[ffff]
-[1000]
-[8000]
-¿Vas a sacarlo?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
+	dentro del retrete.
+
+Â¿Vas a sacarlo?<SELECT-YES-OR-NO>
+---------------
 Parece una cartera.
-Tiene una especie de nota.
-[ffff]
-[1000]
-[8000]
-[faff]
-[e0ff]
- >> << >>
-[ffff]
-[9000]
-}
-{
-[8000]
+	Tiene una especie de nota.
+
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+---------------
 Hay una nota dentro de la cartera.
-[ffff]
-[1000]
-[8000]
-[faff]
-[e0ff]
- >> << >>
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada más de interés.
-[ffff]
-[1000]
-[8000]
-No tiene sentido que siga buscando.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una caja fuerte pequeña.
-Está cerrada.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro de la caja.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave de la escalera
-de los apartamentos
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de la casa de Lyne
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de la escalera
-de los apartamentos
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una página de periódico
-en el suelo. Parece antiguo.
-[ffff]
-[1000]
-[8000]
+
+<CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
+---------------
+No hay nada mÃ¡s de interÃ©s.
+
+No tiene sentido que siga buscando.<SEPARATORB>
+---------------
+Una caja fuerte pequeÃ±a.
+	EstÃ¡ cerrada.<SEPARATORB>
+---------------
+No hay nada dentro de la caja.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de la escalera
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la casa de Lyne<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la escalera
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay una pÃ¡gina de periÃ³dico
+	en el suelo. Parece antiguo.
+
 No hay nada escrito que parezca
-particularmente interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay una cama vieja y rota.
-[ffff]
-[9000]
-}
-{
-[8000]
+	particularmente interesante.<SEPARATORB>
+---------------
+AquÃ­ hay una cama vieja y rota.<SEPARATORB>
+---------------
 No hay nada que parezca
-de utilidad.
-[ffff]
-[9000]
-}
-{
-[8000]
-Ahí no hay nada que parezca
-tener utilidad.
-[ffff]
-[9000]
-}
-{
-[8000]
+	de utilidad.<SEPARATORB>
+---------------
+AhÃ­ no hay nada que parezca
+	tener utilidad.<SEPARATORB>
+---------------
 Un cuadro.
-No tiene nada especialmente
-interesante.
-[ffff]
-[9000]
-}
+	No tiene nada especialmente
+	interesante.<SEPARATORB>

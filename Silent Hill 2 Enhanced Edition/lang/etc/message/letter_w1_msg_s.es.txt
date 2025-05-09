@@ -1,255 +1,107 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 33
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-En mis sueÒos m·s inquietos
-veo esa ciudad.
-[ffff]
-[8000]
-}
-{
-[8000]
-[1af8]
-Silent Hill.
-[ffff]
-[8000]
-}
-{
-[8000]
-EMe prometiste que volverÌas
-a llevarme allÌ alg˙n dÌa.
-Pero nunca lo hiciste.
-[ffff]
-[8000]
-}
-{
-[8000]
-[1af8]
-Y ahora estoy allÌ, sola...
-[ffff]
-[8000]
-}
-{
-[8000]
-[1af8]
-En nuestro ìlugar especialî...
-Esper·ndote...
-[ffff]
-[8000]
-}
-{
-[8000]
-èEsperando a que vengas a verme.
-[ffff]
-[8000]
-}
-{
-[8000]
-EPero no vienes nunca.
-[ffff]
-[8000]
-}
-{
-[8000]
-[1bf8]
-Y yo espero, envuelta
-en mi capullo de dolor y soledad.
-[ffff]
-[8000]
-}
-{
-[8000]
-3SÈ que te hice algo terrible.
-Algo por lo que nunca
-me perdonar·s.
-[ffff]
-[8000]
-}
-{
-[8000]
-NOjal· pudiera cambiarlo,
-pero es imposible.
-[ffff]
-[8000]
-}
-{
-[8000]
-<Me siento tan patÈtica y horrible
-aquÌ tumbada, esper·ndote...
-[ffff]
-[8000]
-}
-{
-[8000]
-<Cada dÌa contemplo las grietas
-que hay en el techo y solo
-puedo pensar en lo injusto
-que es todo esto...
-[ffff]
-[8000]
-}
-{
-[8000]
-„Hoy ha venido el mÈdico.
-Me ha dicho que podÌa volver
-a casa por unos dÌas.
-[ffff]
-[8000]
-}
-{
-[8000]
-[23f8]
-No es que mejore.
-M·s bien, esta puede ser
-mi ˙ltima oportunidad...
-[ffff]
-[8000]
-}
-{
-[8000]
-TCreo que me entiendes...
-[ffff]
-[8000]
-}
-{
-[8000]
-ÜA pesar de ello, estoy contenta
-de volver a casa.
-Te he echado mucho de menos.
-[ffff]
-[8000]
-}
-{
-[8000]
-[1af8]
-Pero tengo miedo, James.
-Miedo de que realmente
-no quieras que vuelva a casa.
-[ffff]
-[8000]
-}
-{
-[8000]
-õCuando vienes a verme,
-veo lo duro que es para ti...
-[ffff]
-[8000]
-}
-{
-[8000]
-JNo sÈ si me odias,
-si me compadeces...
-o si sÛlo te doy asco...
-[ffff]
-[8000]
-}
-{
-[8000]
-OLo siento de verdad.
-[ffff]
-[8000]
-}
-{
-[8000]
-ECuando supe que iba a morir,
-no quise aceptarlo.
-[ffff]
-[8000]
-}
-{
-[8000]
-JEstaba constantemente enfadada
-y atacaba a mis seres m·s queridos.
-Sobre todo a ti, James.
-[ffff]
-[8000]
-}
-{
-[8000]
-|Por eso entenderÌa que me odies.
-[ffff]
-[8000]
-}
-{
-[8000]
-[50f8]
-Pero quiero que sepas
-una cosa, James...
-[ffff]
-[8000]
-}
-{
-[8000]
-“Siempre te querrÈ.
-[ffff]
-[8000]
-}
-{
-[8000]
-©Aunque nuestra vida en pareja
-tuviera el final que tuvo, no la
-cambiarÌa por nada en el mundo.
-Pasamos unos aÒos maravillosos.
-[ffff]
-[8000]
-}
-{
-[8000]
-úEsta carta se est· alargando mucho,
-asÌ que voy a despedirme.
-[ffff]
-[8000]
-}
-{
-[8000]
-JLe he dicho a la enfermera
-que te la dÈ cuando yo ya no estÈ.
-[ffff]
-[8000]
-}
-{
-[8000]
-JAsÌ que, para cuando la leas,
-ya estarÈ muerta.
-[ffff]
-[8000]
-}
-{
-[8000]
-rNo puedo pedirte que me recuerdes,
-pero no soporto la idea
-de que me olvides.
-[ffff]
-[8000]
-}
-{
-[8000]
-rEstos ˙ltimos aÒos,
-con la enfermedad... lamento tanto
-lo que te hice, lo que nos hice...
-[ffff]
-[8000]
-}
-{
-[8000]
-ÜT˙ me has dado tanto, y yo he
-sido incapaz de corresponderte.
-[ffff]
-[8000]
-}
-{
-[8000]
-ÜPor eso quiero que ahora vivas
-tu vida. Haz lo que sea mejor
-para ti, James.
-[ffff]
-[8000]
-}
+--------------- strings=33 language=spanish
+---------------
+En mis sue√±os m√°s inquietos
+	veo esa ciudad.
+---------------
+<TEXT-POS-026>Silent Hill.
+---------------
+<TEXT-POS-037>Me prometiste que volver√≠as
+	a llevarme all√≠ alg√∫n d√≠a.
+	Pero nunca lo hiciste.
+---------------
+<TEXT-POS-026>Y ahora estoy all√≠, sola...
+---------------
+<TEXT-POS-026>En nuestro ‚Äúlugar especial‚Äù...
+	Esper√°ndote...
+---------------
+<TEXT-POS-111>Esperando a que vengas a verme.
+---------------
+<TEXT-POS-037>Pero no vienes nunca.
+---------------
+<TEXT-POS-027>Y yo espero, envuelta
+	en mi capullo de dolor y soledad.
+---------------
+<TEXT-POS-019>S√© que te hice algo terrible.
+	Algo por lo que nunca
+	me perdonar√°s.
+---------------
+<TEXT-POS-046>Ojal√° pudiera cambiarlo,
+	pero es imposible.
+---------------
+<TEXT-POS-028>Me siento tan pat√©tica y horrible
+	aqu√≠ tumbada, esper√°ndote...
+---------------
+<TEXT-POS-028>Cada d√≠a contemplo las grietas
+	que hay en el techo y solo
+	puedo pensar en lo injusto
+	que es todo esto...
+---------------
+<TEXT-POS-195>Hoy ha venido el m√©dico.
+	Me ha dicho que pod√≠a volver
+	a casa por unos d√≠as.
+---------------
+<TEXT-POS-035>No es que mejore.
+	M√°s bien, esta puede ser
+	mi √∫ltima oportunidad...
+---------------
+<TEXT-POS-052>Creo que me entiendes...
+---------------
+<TEXT-POS-102>A pesar de ello, estoy contenta
+	de volver a casa.
+	Te he echado mucho de menos.
+---------------
+<TEXT-POS-026>Pero tengo miedo, James.
+	Miedo de que realmente
+	no quieras que vuelva a casa.
+---------------
+<TEXT-POS-123>Cuando vienes a verme,
+	veo lo duro que es para ti...
+---------------
+<TEXT-POS-042>No s√© si me odias,
+	si me compadeces...
+	o si s√≥lo te doy asco...
+---------------
+<TEXT-POS-047>Lo siento de verdad.
+---------------
+<TEXT-POS-037>Cuando supe que iba a morir,
+	no quise aceptarlo.
+---------------
+<TEXT-POS-042>Estaba constantemente enfadada
+	y atacaba a mis seres m√°s queridos.
+	Sobre todo a ti, James.
+---------------
+<TEXT-POS-092>Por eso entender√≠a que me odies.
+---------------
+<TEXT-POS-080>Pero quiero que sepas
+	una cosa, James...
+---------------
+<TEXT-POS-178>Siempre te querr√©.
+---------------
+<TEXT-POS-137>Aunque nuestra vida en pareja
+	tuviera el final que tuvo, no la
+	cambiar√≠a por nada en el mundo.
+	Pasamos unos a√±os maravillosos.
+---------------
+<TEXT-POS-124>Esta carta se est√° alargando mucho,
+	as√≠ que voy a despedirme.
+---------------
+<TEXT-POS-042>Le he dicho a la enfermera
+	que te la d√© cuando yo ya no est√©.
+---------------
+<TEXT-POS-042>As√≠ que, para cuando la leas,
+	ya estar√© muerta.
+---------------
+<TEXT-POS-082>No puedo pedirte que me recuerdes,
+	pero no soporto la idea
+	de que me olvides.
+---------------
+<TEXT-POS-082>Estos √∫ltimos a√±os,
+	con la enfermedad... lamento tanto
+	lo que te hice, lo que nos hice...
+---------------
+<TEXT-POS-102>T√∫ me has dado tanto, y yo he
+	sido incapaz de corresponderte.
+---------------
+<TEXT-POS-102>Por eso quiero que ahora vivas
+	tu vida. Haz lo que sea mejor
+	para ti, James.

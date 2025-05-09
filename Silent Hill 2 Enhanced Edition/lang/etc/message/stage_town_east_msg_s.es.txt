@@ -1,538 +1,196 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 34
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
+--------------- strings=34 language=spanish
+---------------
 No hay motivos para volver.
-Voy a buscar a Mary...
-[ffff]
-[9000]
-}
-{
-[8000]
-La calle está cortada.
-Por aquí no puedo seguir.
-[ffff]
-[1000]
-[8000]
-No puedo llegar al parque por aquí.
-Tendré que encontrar otro camino.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Voy a buscar a Mary...<SEPARATORB>
+---------------
+La calle estÃ¡ cortada.
+	Por aquÃ­ no puedo seguir.
+
+No puedo llegar al parque por aquÃ­.
+	TendrÃ© que encontrar otro camino.<SEPARATORB>
+---------------
 La calle se ha hundido.
-Por aquí no puedo seguir.
-[ffff]
-[1000]
-[8000]
-No puedo llegar al parque por aquí.
-Tendré que encontrar otro camino.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Por aquÃ­ no puedo seguir.
+
+No puedo llegar al parque por aquÃ­.
+	TendrÃ© que encontrar otro camino.<SEPARATORB>
+---------------
 Muerto...
-¿Habrá sido aquella criatura...?
-[ffff]
-[1000]
-[8000]
-¿Qué está pasando
-en esta ciudad...?
-[ffff]
-[9000]
-}
-{
-[8000]
+	Â¿HabrÃ¡ sido aquella criatura...?
+
+Â¿QuÃ© estÃ¡ pasando
+	en esta ciudad...?<SEPARATORB>
+---------------
 Hay algo escrito.
-[ffff]
-[1000]
-[8000]
+
 Por desgracia, la superficie
-está deteriorada y me cuesta leerla.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Restos del pantano 
-[f7ff]
-XXXXXXXXX
-[f7ff]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Los 
-[f7ff]
-XX met
-[f7ff]
-ros de tierra que
-rod
-[f7ff]
-ean es
-[f7ff]
-te monumento eran
-orginalmente un pantano, pero
-luego fueron ter
-[f7ff]
-raplena
-[f7ff]
-dos.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-De
-[f7ff]
-sde ha
-[f7ff]
-ce mucho, es
-[f7ff]
-te pantano
-[f7ff]
+	estÃ¡ deteriorada y me cuesta leerla.
 
-recibió el apodo de «pantano sangriento»
-porque los 
-[f7ff]
-verdu
-[f7ff]
-gos vertían
-aquí el ag
-[f7ff]
-ua que utili
-[f7ff]
-zaban para
-limpiar sus he
-[f7ff]
-rramientas de ejec
-[f7ff]
-ución.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tal vez es po
-[f7ff]
-r esta razón q
-[f7ff]
-ue
-mucha ge
-[f7ff]
-nte af
-[f7ff]
-rima haber
-vi
-[f7ff]
-sto fantasmas e
-[f7ff]
-n la zona.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Restos del pantano 
-[f7ff]
-XXXXXXXXX
-[f7ff]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Los 
-[f7ff]
-XX met
-[f7ff]
-ros de tierra que
-rod
-[f7ff]
-ean es
-[f7ff]
-te monumento eran
-orginalmente un pantano, pero
-luego fueron ter
-[f7ff]
-raplena
-[f7ff]
-dos.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-De
-[f7ff]
-sde ha
-[f7ff]
-ce mucho, es
-[f7ff]
-te pantano
-[f7ff]
+<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
 
-recibió el apodo de «pantano sangriento»
-porque los 
-[f7ff]
-verdu
-[f7ff]
-gos vertían
-aquí el ag
-[f7ff]
-ua que utili
-[f7ff]
-zaban para
-limpiar sus he
-[f7ff]
-rramientas de ejec
-[f7ff]
-ución.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tal vez es po
-[f7ff]
-r esta razón q
-[f7ff]
-ue
-mucha ge
-[f7ff]
-nte af
-[f7ff]
-rima haber
-vi
-[f7ff]
-sto fantasmas e
-[f7ff]
-n la zona.
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
+	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
+	orginalmente un pantano, pero
+	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
+	recibiÃ³ el apodo de Â«pantano sangrientoÂ»
+	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertÃ­an
+	aquÃ­ el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
+	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>uciÃ³n.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razÃ³n q<HIDDEN-TEXT>ue
+	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
+	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Restos del pantano <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Los <HIDDEN-TEXT>XX met<HIDDEN-TEXT>ros de tierra que
+	rod<HIDDEN-TEXT>ean es<HIDDEN-TEXT>te monumento eran
+	orginalmente un pantano, pero
+	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>De<HIDDEN-TEXT>sde ha<HIDDEN-TEXT>ce mucho, es<HIDDEN-TEXT>te pantano<HIDDEN-TEXT>
+	recibiÃ³ el apodo de Â«pantano sangrientoÂ»
+	porque los <HIDDEN-TEXT>verdu<HIDDEN-TEXT>gos vertÃ­an
+	aquÃ­ el ag<HIDDEN-TEXT>ua que utili<HIDDEN-TEXT>zaban para
+	limpiar sus he<HIDDEN-TEXT>rramientas de ejec<HIDDEN-TEXT>uciÃ³n.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tal vez es po<HIDDEN-TEXT>r esta razÃ³n q<HIDDEN-TEXT>ue
+	mucha ge<HIDDEN-TEXT>nte af<HIDDEN-TEXT>rima haber
+	vi<HIDDEN-TEXT>sto fantasmas e<HIDDEN-TEXT>n la zona.<SEPARATORB>
+---------------
 No puedo escapar.
-[ffff]
-[1000]
-[8000]
+
 Es peligroso darle la espalda
-a este monstruo.
-[ffff]
-[9000]
-}
-{
-[8000]
+	a este monstruo.<SEPARATORB>
+---------------
 Eh...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Está muerto?
-¿Qué demonios es eso?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿EstÃ¡ muerto?
+	Â¿QuÃ© demonios es eso?
+---------------
 No es humano...
-[ffff]
-[8000]
-}
-{
-[8000]
-Ah, sí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Está rota?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Ah, sÃ­.
+---------------
+Â¿EstÃ¡ rota?
+---------------
 Ja......... esto... ..........
-Ven .................. ......s...
-[ffff]
-[8000]
-}
-{
-[8000]
+	Ven .................. ......s...
+---------------
 ..... ......... ......and.....
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 ............. me has m............
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Jam.........
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Qué demonios...?
-[ffff]
-[8000]
-}
-{
-[8000]
-Será mejor que me la lleve.
-Podría necesitarla.
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave de la entrada
-de los apartamentos
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de la entrada
-de los apartamentos
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Voy a escribir todo lo que
-he aprendido hasta ahora.
-Tal vez eso te sea
-de alguna ayuda.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Si estás leyendo esto,
-probablemente ya estoy muerto.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-He visto a esos demonios.
-Sé que estaban ahí.
-Pero mi amigo no vio nada.
-Si es así, ¿entonces lo que
-vi era una ilusión?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Pero aunque ese demonio que
-comía seres humanos fuese real
-o nada más que una alucinación...
-Una cosa de la que estoy seguro
-es que no tengo ninguna
-posibilidad.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Parece que les atrae la luz.
-Por ese motivo, aquellos
-que necesitan luz para ver
-son sus presas naturales.
-También reaccionan a los sonidos.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Si quieres seguir viviendo,
-será mejor que te quedes
-en la oscuridad y en silencio.
-Pero seguramente eso no bastará
-para salvarte.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Si vas a luchar contra ellos,
-lo más importante es que mantener
-la calma. Es peligroso usar
-una pistola en pleno pánico.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Primero apunta bien y entonces
-aprieta el gatillo. Y no te
-olvides de rematarlos.
-Creo que la mayoría de esas
-criaturas se pueden matar,
-aunque sean más duras que
-una persona cualquiera.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Huye.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-¡Huye! ¡Huye! ¡Huye!
-¡Huye! ¡Huye! ¡Huye!
-¡Huye! ¡Huye! ¡Huye!
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay un bloc de notas en el suelo.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una nota rota en el suelo.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿¡Estas manchas... son sangre!?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿QuÃ© demonios...?
+---------------
+SerÃ¡ mejor que me la lleve.
+	PodrÃ­a necesitarla.
+---------------
+He encontrado la <COLOR-GREEN>llave de la entrada
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la entrada
+	de los apartamentos<COLOR-WHITE>.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Voy a escribir todo lo que
+	he aprendido hasta ahora.
+	Tal vez eso te sea
+	de alguna ayuda.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si estÃ¡s leyendo esto,
+	probablemente ya estoy muerto.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>He visto a esos demonios.
+	SÃ© que estaban ahÃ­.
+	Pero mi amigo no vio nada.
+	Si es asÃ­, Â¿entonces lo que
+	vi era una ilusiÃ³n?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero aunque ese demonio que
+	comÃ­a seres humanos fuese real
+	o nada mÃ¡s que una alucinaciÃ³n...
+	Una cosa de la que estoy seguro
+	es que no tengo ninguna
+	posibilidad.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Parece que les atrae la luz.
+	Por ese motivo, aquellos
+	que necesitan luz para ver
+	son sus presas naturales.
+	TambiÃ©n reaccionan a los sonidos.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si quieres seguir viviendo,
+	serÃ¡ mejor que te quedes
+	en la oscuridad y en silencio.
+	Pero seguramente eso no bastarÃ¡
+	para salvarte.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Si vas a luchar contra ellos,
+	lo mÃ¡s importante es que mantener
+	la calma. Es peligroso usar
+	una pistola en pleno pÃ¡nico.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Primero apunta bien y entonces
+	aprieta el gatillo. Y no te
+	olvides de rematarlos.
+	Creo que la mayorÃ­a de esas
+	criaturas se pueden matar,
+	aunque sean mÃ¡s duras que
+	una persona cualquiera.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Huye.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Â¡Huye! Â¡Huye! Â¡Huye!
+	Â¡Huye! Â¡Huye! Â¡Huye!
+	Â¡Huye! Â¡Huye! Â¡Huye!<SEPARATORB>
+---------------
+Hay un bloc de notas en el suelo.<SEPARATORB>
+---------------
+Hay una nota rota en el suelo.<SEPARATORB>
+---------------
+Â¿Â¡Estas manchas... son sangre!?
+---------------
 Esa sombra...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Esa sombra me preocupa.
-¿Qué era eso...?
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-La puerta que despierta
-a la oscuridad, abriéndose
-a pesadillas.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-O tal vez estés loco.
-La verdad suele traicionar a la gente.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Una parte de ese abismo
-está en la vieja sociedad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-La llave de la sociedad
-está en el parque.
-A los pies de la mujer que reza,
-bajo tierra, dentro de una caja.
-Para abrirla necesito
-una llave inglesa.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Mi paciente la enterró ahí.
-Yo lo sabía, pero no hice nada.
-Me incomodaba tener
-esa cosa tan cerca.
-Yo no buscaba la verdad,
-sólo buscaba tranquilidad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-También vi a esa cosa.
-Escapé, pero el museo
-también estaba sellado.
-Ahora nadie se atreve
-a acercarse a ese lugar.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Si aún no quieres detenerte, James,
-rezaré al Señor para que
-se apiade de tu alma eterna.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-llave inglesa
-[00ff]
-.
-[ffff]
-[9000]
-}
+	Â¿QuÃ© era eso...?<SEPARATORB>
+---------------
+<COLOR-BLUE>La puerta que despierta
+	a la oscuridad, abriÃ©ndose
+	a pesadillas.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>O tal vez estÃ©s loco.
+	La verdad suele traicionar a la gente.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Una parte de ese abismo
+	estÃ¡ en la vieja sociedad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La llave de la sociedad
+	estÃ¡ en el parque.
+	A los pies de la mujer que reza,
+	bajo tierra, dentro de una caja.
+	Para abrirla necesito
+	una llave inglesa.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi paciente la enterrÃ³ ahÃ­.
+	Yo lo sabÃ­a, pero no hice nada.
+	Me incomodaba tener
+	esa cosa tan cerca.
+	Yo no buscaba la verdad,
+	sÃ³lo buscaba tranquilidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>TambiÃ©n vi a esa cosa.
+	EscapÃ©, pero el museo
+	tambiÃ©n estaba sellado.
+	Ahora nadie se atreve
+	a acercarse a ese lugar.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si aÃºn no quieres detenerte, James,
+	rezarÃ© al SeÃ±or para que
+	se apiade de tu alma eterna.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave inglesa<COLOR-WHITE>.<SEPARATORB>

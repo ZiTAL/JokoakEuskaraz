@@ -1,487 +1,205 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 49
+--------------- strings=49 language=spanish
+---------------
+MarÃ­a y Laura siguen aquÃ­.
+	No puedo abandonarlas a su suerte.<SEPARATORB>
+---------------
+AquÃ­ hay una especie de tarjeta.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PARAGRAPH><COLOR-BLUE>Ha intentado suicidarse tres veces
+	por razones desconocidas. Aunque
+	suele ser un paciente modÃ©lico que
+	cumple las Ã³rdenes del mÃ©dico y la
+	enfermera, hay que vigilarle de cerca
+	debido a sus repentinas tendencias
+	suicidas.
 
-BEGIN_SOURCE:
-{
-[8000]
-María y Laura siguen aquí.
-No puedo abandonarlas a su suerte.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay una especie de tarjeta.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-[Jack Davis]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Ha intentado suicidarse tres veces
-por razones desconocidas. Aunque
-suele ser un paciente modélico que
-cumple las órdenes del médico y la
-enfermera, hay que vigilarle de cerca
-debido a sus repentinas tendencias
-suicidas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-[Joseph Barkin]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Su enfermedad parece radicar
-en el hecho de que se considera
-culpable de la muerte de su hija.
-Sus síntomas sugieren una crisis
-psicótica y delirios paranoicos.
-Normalmente está tranquilo,
-pero tiene tendencias violentas
-cuando se altera.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-[Joshua Lewis]
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tiene un historial de
-hospitalizaciones y numerosos
-asaltos, maltratos y otros actos
-violentos. Sufre de manías
-persecutorias y tiende a recurrir
-a la violencia.
-Hay que extremar las precauciones
-con este paciente.
-[ffff]
-[9000]
-}
-{
-[8000]
-Parece tener relación con
-los pacientes de este hospital.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay algo escrito.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-vTodo el mundo está expuesto
-a esta enfermedad y, bajo las
-condiciones adecuadas, cualquier
-persona acabará arrastrada,
-como él, al "otro lado".
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Tal vez "otro lado" no sea
-la mejor descripción.
- Al fin y al cabo, no hay
-un muro que separe ambos
-lados. Está en la frontera
-donde se cruzan la realidad
-e irrealidad.
-Es un lugar cercano y distante
-al mismo tiempo.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Hay quien dice que esto no es
-ni siquiera una enfermedad.
- No estoy de acuerdo. Soy médico,
-no un filósofo o un psiquiatra.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Pero a veces me planteo
-esa misma pregunta.
- Es cierto que, para nosotros,
-sus imaginaciones no son más
-que las invenciones de una
-mente calenturienta.
- Pero para él no existe otra
-realidad. Es más, está feliz
-en su mundo.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Y me pregunto: ¿por qué
-debemos arrastrarle dolorosamente
-al mundo de nuestra propia
-realidad para curarle?
-[ffff]
-[1000]
-[8000]
-[00ff]
-Hay algo más escrito a mano.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Joseph me dio la llave.
-Será de esa caja.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
- El número pin de este mes es T.
-El mes pasado era X y el
-del mes anterior fue el Z.
- ¿Pero qué harán el próximo mes?
-No se puede hacer más
-con 4 números.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Además, ¿de verdad es necesario
-cambiar la combinación de
-la puerta del ala de pacientes
-tan a menudo?
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Su enfermedad parece radicar
+	en el hecho de que se considera
+	culpable de la muerte de su hija.
+	Sus sÃ­ntomas sugieren una crisis
+	psicÃ³tica y delirios paranoicos.
+	Normalmente estÃ¡ tranquilo,
+	pero tiene tendencias violentas
+	cuando se altera.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tiene un historial de
+	hospitalizaciones y numerosos
+	asaltos, maltratos y otros actos
+	violentos. Sufre de manÃ­as
+	persecutorias y tiende a recurrir
+	a la violencia.
+	Hay que extremar las precauciones
+	con este paciente.<SEPARATORB>
+---------------
+Parece tener relaciÃ³n con
+	los pacientes de este hospital.<SEPARATORB>
+---------------
+Hay algo escrito.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> Todo el mundo estÃ¡ expuesto
+	a esta enfermedad y, bajo las
+	condiciones adecuadas, cualquier
+	persona acabarÃ¡ arrastrada,
+	como Ã©l, al "otro lado".
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Tal vez "otro lado" no sea
+	la mejor descripciÃ³n.
+	 Al fin y al cabo, no hay
+	un muro que separe ambos
+	lados. EstÃ¡ en la frontera
+	donde se cruzan la realidad
+	e irrealidad.
+	Es un lugar cercano y distante
+	al mismo tiempo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Hay quien dice que esto no es
+	ni siquiera una enfermedad.
+	 No estoy de acuerdo. Soy mÃ©dico,
+	no un filÃ³sofo o un psiquiatra.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Pero a veces me planteo
+	esa misma pregunta.
+	 Es cierto que, para nosotros,
+	sus imaginaciones no son mÃ¡s
+	que las invenciones de una
+	mente calenturienta.
+	 Pero para Ã©l no existe otra
+	realidad. Es mÃ¡s, estÃ¡ feliz
+	en su mundo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> Y me pregunto: Â¿por quÃ©
+	debemos arrastrarle dolorosamente
+	al mundo de nuestra propia
+	realidad para curarle?
+
+<COLOR-WHITE>Hay algo mÃ¡s escrito a mano.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Joseph me dio la llave.
+	SerÃ¡ de esa caja.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> El nÃºmero pin de este mes es T.
+	El mes pasado era X y el
+	del mes anterior fue el Z.
+	 Â¿Pero quÃ© harÃ¡n el prÃ³ximo mes?
+	No se puede hacer mÃ¡s
+	con 4 nÃºmeros.
+
+<CENTER-PARAGRAPH><COLOR-BLUE> AdemÃ¡s, Â¿de verdad es necesario
+	cambiar la combinaciÃ³n de
+	la puerta del ala de pacientes
+	tan a menudo?<SEPARATORB>
+---------------
 Pulso los botones,
-pero el ascensor no reacciona.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave del toro morado
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He usado la 
-[03ff]
-llave de la sala
-de reconocimiento
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-mapa del hospital
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Dónde vas?
-[ffff]
-[8000]
-}
-{
-[8000]
-Todavía no hemos encontrado
-a Laura.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Laura?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Cómo sabes mi nombre?
-[ffff]
-[8000]
-}
-{
-[8000]
+	pero el ascensor no reacciona.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del toro morado<COLOR-WHITE>.<SEPARATORB>
+---------------
+He usado la <COLOR-GREEN>llave de la sala
+	de reconocimiento<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del hospital<COLOR-WHITE>.<SEPARATORB>
+---------------
+Â¿DÃ³nde vas?
+---------------
+TodavÃ­a no hemos encontrado
+	a Laura.
+---------------
+Â¿Laura?
+---------------
+Â¿Eh?
+---------------
+Â¿CÃ³mo sabes mi nombre?
+---------------
 Me lo dijo Eddie.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Gordo bocazas...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De qué conoces a Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué te importa tanto?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Es que no puedes decírmelo?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me gritarás si no te lo digo?
-[ffff]
-[8000]
-}
-{
-[8000]
-No... No lo haré.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿De quÃ© conoces a Mary?
+---------------
+Â¿Por quÃ© te importa tanto?
+---------------
+Â¿Es que no puedes decÃ­rmelo?
+---------------
+Â¿Me gritarÃ¡s si no te lo digo?
+---------------
+No... No lo harÃ©.
+---------------
 Yo era amiga de Mary...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Nos conocimos en el hospital.
-[ffff]
-[8000]
-}
-{
-[8000]
-Fue el año pasado...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Mentirosa!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Fue el aÃ±o pasado...
+---------------
+Â¡Mentirosa!
+---------------
 Laura, no...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Bueno, pues no me creas!
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero el año pasado,
-Mary ya estaba...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡Bueno, pues no me creas!
+---------------
+Pero el aÃ±o pasado,
+	Mary ya estaba...
+---------------
 Lo siento, Laura.
-[ffff]
-[8000]
-}
-{
-[8000]
-En fin, vámonos.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+En fin, vÃ¡monos.
+---------------
 Ya hablaremos luego.
-[ffff]
-[8000]
-}
-{
-[8000]
-Este no es lugar para una niña.
-[ffff]
-[8000]
-}
-{
-[8000]
-Aquí hay muchas cosas extrañas...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Este no es lugar para una niÃ±a.
+---------------
+AquÃ­ hay muchas cosas extraÃ±as...
+---------------
 No puedo creer que no tengas
-ni un rasguño.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué debería?
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Pasillo ala pacientes
-del tercer piso: 7335
-[ffff]
-[9000]
-}
-{
-[8000]
+	ni un rasguÃ±o.
+---------------
+Â¿Por quÃ© deberÃ­a?
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Pasillo ala pacientes
+	del tercer piso: 7335<SEPARATORB>
+---------------
 En el tablero de anuncios
-hay algo colgado.
-Pero no parece interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
+	hay algo colgado.
+	Pero no parece interesante.<SEPARATORB>
+---------------
 Varios informes y documentos.
-Pero no hay nada que me interese.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada de interés.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Pero no hay nada que me interese.<SEPARATORB>
+---------------
+No hay nada de interÃ©s.<SEPARATORB>
+---------------
 Hay varias notas.
-Pero ninguna llama la atención.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Pero ninguna llama la atenciÃ³n.<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
 Hay una nota colgada en la nevera.
-[ffff]
-[1000]
-[8000]
-[01ff]
-¡Sólo comida!
-¡Prohibido guardar fármacos!
-[ffff]
-[9000]
-}
-{
-[8000]
-La cerradura del armario está rota.
-[ffff]
-[9000]
-}
-{
-[8000]
+
+<COLOR-BLUE>Â¡SÃ³lo comida!
+	Â¡Prohibido guardar fÃ¡rmacos!<SEPARATORB>
+---------------
+La cerradura del armario estÃ¡ rota.<SEPARATORB>
+---------------
 Hay documentos esparcidos
-por toda la mesa.
-No hay nada que llame la atención.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay registros médicos sobre
-la mesa. No hay nada
-particularmente interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
-La puerta del estante está abierta.
-[ffff]
-[1000]
-[8000]
-¿Qué es este archivo...?
-[ffff]
-[1000]
-[8000]
-[01ff]
-Resultados de una prueba
-de trastorno de personalidad.
-[ffff]
-[1000]
-[8000]
-¿Resultados de una prueba...?
-Esto no me interesa.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada útil.
-[ffff]
-[9000]
-}
+	por toda la mesa.
+	No hay nada que llame la atenciÃ³n.<SEPARATORB>
+---------------
+Hay registros mÃ©dicos sobre
+	la mesa. No hay nada
+	particularmente interesante.<SEPARATORB>
+---------------
+La puerta del estante estÃ¡ abierta.
+
+Â¿QuÃ© es este archivo...?
+
+<COLOR-BLUE>Resultados de una prueba
+	de trastorno de personalidad.
+
+Â¿Resultados de una prueba...?
+	Esto no me interesa.<SEPARATORB>
+---------------
+No hay nada Ãºtil.<SEPARATORB>

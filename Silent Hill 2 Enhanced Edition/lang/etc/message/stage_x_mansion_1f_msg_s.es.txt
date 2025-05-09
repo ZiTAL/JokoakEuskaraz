@@ -1,917 +1,352 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 109
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-¿Conoces a una niña
-que se llama Amy?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué lo preguntas?
-[ffff]
-[8000]
-}
-{
-[8000]
-Esta carta, “A mi querido papá”...
-la escribió una niña llamada
-Amy Baldwin.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Eres su padre?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Dónde la has encontrado?
-[ffff]
-[8000]
-}
-{
-[8000]
+--------------- strings=109 language=spanish
+---------------
+Â¿Conoces a una niÃ±a
+	que se llama Amy?
+---------------
+Â¿Por quÃ© lo preguntas?
+---------------
+Esta carta, â€œA mi querido papÃ¡â€...
+	la escribiÃ³ una niÃ±a llamada
+	Amy Baldwin.
+---------------
+Â¿Eres su padre?
+---------------
+SÃ­.
+---------------
+Â¿DÃ³nde la has encontrado?
+---------------
 En la buhardilla.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Ah...
-[ffff]
-[8000]
-}
-{
-[8000]
-Qué estúpido...
-Ahora... cuando ya es demasiado
-tarde... entiendo el motivo.
-[ffff]
-[8000]
-}
-{
-[8000]
-Por qué ella estaba allí...
-[ffff]
-[8000]
-}
-{
-[8000]
-Por qué tenía en la mano aquel
-sobre vacío cuando... cuando cayó...
-[ffff]
-[8000]
-}
-{
-[8000]
-Ernest, ¿Amy... no estará...?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+QuÃ© estÃºpido...
+	Ahora... cuando ya es demasiado
+	tarde... entiendo el motivo.
+---------------
+Por quÃ© ella estaba allÃ­...
+---------------
+Por quÃ© tenÃ­a en la mano aquel
+	sobre vacÃ­o cuando... cuando cayÃ³...
+---------------
+Ernest, Â¿Amy... no estarÃ¡...?
+---------------
 Lo siento.
-Siento habértelo recordado.
-[ffff]
-[8000]
-}
-{
-[8000]
+	Siento habÃ©rtelo recordado.
+---------------
 No tienes que disculparte.
-Tú no me lo has recordado.
-[ffff]
-[8000]
-}
-{
-[8000]
+	TÃº no me lo has recordado.
+---------------
 Nunca lo olvido...
-[ffff]
-[8000]
-}
-{
-[8000]
-María.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+MarÃ­a.
+---------------
 Hay cosas que olvidamos y cosas
-que nunca podremos olvidar...
-[ffff]
-[8000]
-}
-{
-[8000]
+	que nunca podremos olvidar...
+---------------
 Tiene gracia...
-No sé qué es más triste.
-[ffff]
-[8000]
-}
-{
-[8000]
-Han pasado diez años, pero sigo...
-[ffff]
-[8000]
-}
-{
-[8000]
+	No sÃ© quÃ© es mÃ¡s triste.
+---------------
+Han pasado diez aÃ±os, pero sigo...
+---------------
 Ernest... Lo siento.
-No lo sabía...
-[ffff]
-[8000]
-}
-{
-[8000]
+	No lo sabÃ­a...
+---------------
 No, no importa.
-[ffff]
-[8000]
-}
-{
-[8000]
-María, esa carta...
-[ffff]
-[8000]
-}
-{
-[8000]
-La dejaré aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+MarÃ­a, esa carta...
+---------------
+La dejarÃ© aquÃ­.
+---------------
 Gracias.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿María...?
-Entonces, tú debes ser...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿MarÃ­a...?
+	Entonces, tÃº debes ser...
+---------------
 Claro.
-Por eso podías verme.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-Entonces, ¿también puedo esperar
-un milagro?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De qué hablas?
-[ffff]
-[8000]
-}
-{
-[8000]
+	Por eso podÃ­as verme.
+---------------
+Â¿Eh?
+---------------
+Entonces, Â¿tambiÃ©n puedo esperar
+	un milagro?
+---------------
+Â¿De quÃ© hablas?
+---------------
 En los apartamentos de al lado...
-hay una botella que contiene
-un líquido blanco.
-[ffff]
-[8000]
-}
-{
-[8000]
-No sé exactamente dónde está,
-pero sé que está ahí.
-[ffff]
-[8000]
-}
-{
-[8000]
+	hay una botella que contiene
+	un lÃ­quido blanco.
+---------------
+No sÃ© exactamente dÃ³nde estÃ¡,
+	pero sÃ© que estÃ¡ ahÃ­.
+---------------
 La necesito.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Y... quieres que la busque?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Y... quieres que la busque?
+---------------
 Por favor...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué no vas a buscarla?
-[ffff]
-[8000]
-}
-{
-[8000]
-Créeme, si pudiese lo haría.
-Pero...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Blanco...?
-[ffff]
-[8000]
-}
-{
-[8000]
-Te abriré la puerta de la escalera.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ernest, ¿de verdad
-crees que funcionará?
-[ffff]
-[8000]
-}
-{
-[8000]
-No lo sé...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿Por quÃ© no vas a buscarla?
+---------------
+CrÃ©eme, si pudiese lo harÃ­a.
+	Pero...
+---------------
+Â¿Blanco...?
+---------------
+Te abrirÃ© la puerta de la escalera.
+---------------
+Ernest, Â¿de verdad
+	crees que funcionarÃ¡?
+---------------
+No lo sÃ©...
+---------------
 Bueno, da igual. No me importa luchar
-por una causa imposible.
-[ffff]
-[8000]
-}
-{
-[8000]
+	por una causa imposible.
+---------------
 Mejor eso que tirar la toalla
-y no hacer nada.
-[ffff]
-[8000]
-}
-{
-[8000]
-María... Gracias.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De verdad crees en los milagros?
-[ffff]
-[8000]
-}
-{
-[8000]
+	y no hacer nada.
+---------------
+MarÃ­a... Gracias.
+---------------
+Â¿De verdad crees en los milagros?
+---------------
 Esto es Silent Hill.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Ya, tal vez sea ese el problema.
-[ffff]
-[8000]
-}
-{
-[8000]
-Oh, María... Piensas demasiado.
-Yo soy de aquí. Esta es mi ciudad.
-[ffff]
-[8000]
-}
-{
-[8000]
-Gracias, María.
-[ffff]
-[8000]
-}
-{
-[8000]
-Es el único objeto
-que yo no puedo obtener.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Oh, MarÃ­a... Piensas demasiado.
+	Yo soy de aquÃ­. Esta es mi ciudad.
+---------------
+Gracias, MarÃ­a.
+---------------
+Es el Ãºnico objeto
+	que yo no puedo obtener.
+---------------
 Pero cuando me quise dar cuenta,
-ya no podía abandonar esta casa.
-[ffff]
-[8000]
-}
-{
-[8000]
+	ya no podÃ­a abandonar esta casa.
+---------------
 He pasado tanto tiempo...
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, pero... Bueno...
-[ffff]
-[8000]
-}
-{
-[8000]
-María, los dioses están aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Tú también lo sabes.
-Tu naciste en esta ciudad.
-[ffff]
-[8000]
-}
-{
-[8000]
-No estoy segura de que “dios”
-sea la palabra adecuada.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Crees en el destino?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+SÃ­, pero... Bueno...
+---------------
+MarÃ­a, los dioses estÃ¡n aquÃ­.
+---------------
+TÃº tambiÃ©n lo sabes.
+	Tu naciste en esta ciudad.
+---------------
+No estoy segura de que â€œdiosâ€
+	sea la palabra adecuada.
+---------------
+Â¿Crees en el destino?
+---------------
 La verdad es que no.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Entonces, no importa.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ernest, ¿puedo abrirla?
-[ffff]
-[8000]
-}
-{
-[8000]
-Aquí no hay salida.
-No hay nada más.
-[ffff]
-[8000]
-}
-{
-[8000]
-Lo sé.
-[ffff]
-[8000]
-}
-{
-[8000]
-Bueno... ¿Y si te hubiese dicho
-que creía en el destino?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Ernest, Â¿puedo abrirla?
+---------------
+AquÃ­ no hay salida.
+	No hay nada mÃ¡s.
+---------------
+Lo sÃ©.
+---------------
+Bueno... Â¿Y si te hubiese dicho
+	que creÃ­a en el destino?
+---------------
 Ese James... es un hombre malo.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿James...?
-[ffff]
-[8000]
-}
-{
-[8000]
-Eh... Sí... Lo sé.
-[ffff]
-[8000]
-}
-{
-[8000]
-Te está buscando,
-pero no te busca a ti.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Porque es bueno...?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Tú... sabes algo?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí... María, eres...
-[ffff]
-[8000]
-}
-{
-[8000]
-Da igual, eso es lo que tú piensas.
-Pero en realidad no sabes nada.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿James...?
+---------------
+Eh... SÃ­... Lo sÃ©.
+---------------
+Te estÃ¡ buscando,
+	pero no te busca a ti.
+---------------
+Â¿Porque es bueno...?
+---------------
+Â¿TÃº... sabes algo?
+---------------
+SÃ­... MarÃ­a, eres...
+---------------
+Da igual, eso es lo que tÃº piensas.
+	Pero en realidad no sabes nada.
+---------------
 Da igual.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Vale.
-[ffff]
-[8000]
-}
-{
-[8000]
-He encontrado el 
-[03ff]
-mapa de la mansión
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-La chimenea está tapiada.
-Y tiene escrito 
-[01ff]
-“No utilizar”
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Por alguna razón, la chimenea
-tiene una escalera.
-[ffff]
-[1000]
-[8000]
+---------------
+He encontrado el <COLOR-GREEN>mapa de la mansiÃ³n<COLOR-WHITE>.<SEPARATORB>
+---------------
+La chimenea estÃ¡ tapiada.
+	Y tiene escrito <COLOR-BLUE>â€œNo utilizarâ€<COLOR-WHITE>.<SEPARATORB>
+---------------
+Por alguna razÃ³n, la chimenea
+	tiene una escalera.
+
 En lo alto puedo ver
-una especie de agujero.
-[ffff]
-[1000]
-[8000]
-¿Vas a subir por la escalera?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Vas a bajar por la escalera?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
+	una especie de agujero.
+
+Â¿Vas a subir por la escalera?<SELECT-YES-OR-NO>
+---------------
+Â¿Vas a bajar por la escalera?<SELECT-YES-OR-NO>
+---------------
 Hay una hendidura cuadrada
-en el centro de la lápida.
-[ffff]
-[1000]
-[8000]
+	en el centro de la lÃ¡pida.
+
 Y encima hay un epitafio
-tallado con esmero.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Contigo murió la alegría.
-Todo lo que queda es desesperación
-y un futuro de mañanas sin sentido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Pero nunca renunciaré.
-Porque quiero volver a ver
-tu bella sonrisa.
-Porque quiero implorar
-la bendición de los dioses.
-Espero que llegue ese día.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cuando las placas lo cubran todo,
-toda tristeza quedará
-también cubierta.
-Pero hasta que mis sueños
-se hagan realidad, tendré
-que aguantar todo el dolor.
-[ffff]
-[1000]
-[8000]
-[00ff]
-Hay una llave firmemente
-incrustada en la piedra,
-por debajo de la hendidura.
-[ffff]
-[1000]
-[8000]
-[00ff]
-Haga lo que haga,
-no puedo sacarla.
-[ffff]
-[9000]
-}
-{
-[8000]
+	tallado con esmero.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Contigo muriÃ³ la alegrÃ­a.
+	Todo lo que queda es desesperaciÃ³n
+	y un futuro de maÃ±anas sin sentido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Pero nunca renunciarÃ©.
+	Porque quiero volver a ver
+	tu bella sonrisa.
+	Porque quiero implorar
+	la bendiciÃ³n de los dioses.
+	Espero que llegue ese dÃ­a.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Cuando las placas lo cubran todo,
+	toda tristeza quedarÃ¡
+	tambiÃ©n cubierta.
+	Pero hasta que mis sueÃ±os
+	se hagan realidad, tendrÃ©
+	que aguantar todo el dolor.
+
+<COLOR-WHITE>Hay una llave firmemente
+	incrustada en la piedra,
+	por debajo de la hendidura.
+
+<COLOR-WHITE>Haga lo que haga,
+	no puedo sacarla.<SEPARATORB>
+---------------
 Has insertado la placa.
-[ffff]
-[1000]
-[8000]
-¿Vas a quitar una placa?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
+
+Â¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+---------------
 Has insertado la placa.
-[ffff]
-[1000]
-[8000]
+
 Los agujeros abiertos en
-las placas se superponen:
-Todavía se ve el otro lado.
-[ffff]
-[1000]
-[8000]
-¿Vas a quitar una placa?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Hay tres placas insertadas.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Memorias perdidas
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Confío plenamente —incluso
-podríais llamarlo fe— en el milagro
-conocido como la «resurrección
-de los muertos».
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-La Bestia entonó su canción
-en la colina donde la luz descendía.
-Con palabras de sangre, gotas
-de niebla y el vaso de la noche,
-la tumba se convirtió en
-un campo abierto.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-La gente sollozaba de temor
-y alegría en la reunión,
-pero mi fe en la salvación
-de Xuchilpaba no flaqueó.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-También es mencionada
-en las antiguas leyendas.
-Los primeros fieles no creían
-que la muerte fuese el final,
-sólo el camino por el que
-los fallecidos regresaban
-a la naturaleza.
-También creían que el proceso
-era reversible.
-[ffff]
-[1000]
-[8000]
-[00ff]
-Hay una nota
-al final de la página.
-[ffff]
-[1000]
-[8000]
-[00ff]
-¿Es de Ernest?
-¿Qué podría significar?
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Sangre=Rojo,
-Niebla=Blanco,
-Noche=Negro
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-placa negra
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-placa roja
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave de la acacia
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-No puedo abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
-La persiana está cerrada.
-No puedo pasar por aquí.
-[ffff]
-[9000]
-}
-{
-[8000]
-Muerto...
-[ffff]
-[9000]
-}
-{
-[8000]
+	las placas se superponen:
+	TodavÃ­a se ve el otro lado.
+
+Â¿Vas a quitar una placa?<SELECT-YES-OR-NO>
+---------------
+Hay tres placas insertadas.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Memorias perdidas
+
+<CENTER-PARAGRAPH><COLOR-BLUE>ConfÃ­o plenamente â€”incluso
+	podrÃ­ais llamarlo feâ€” en el milagro
+	conocido como la Â«resurrecciÃ³n
+	de los muertosÂ».
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La Bestia entonÃ³ su canciÃ³n
+	en la colina donde la luz descendÃ­a.
+	Con palabras de sangre, gotas
+	de niebla y el vaso de la noche,
+	la tumba se convirtiÃ³ en
+	un campo abierto.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>La gente sollozaba de temor
+	y alegrÃ­a en la reuniÃ³n,
+	pero mi fe en la salvaciÃ³n
+	de Xuchilpaba no flaqueÃ³.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>TambiÃ©n es mencionada
+	en las antiguas leyendas.
+	Los primeros fieles no creÃ­an
+	que la muerte fuese el final,
+	sÃ³lo el camino por el que
+	los fallecidos regresaban
+	a la naturaleza.
+	TambiÃ©n creÃ­an que el proceso
+	era reversible.
+
+<COLOR-WHITE>Hay una nota
+	al final de la pÃ¡gina.
+
+<COLOR-WHITE>Â¿Es de Ernest?
+	Â¿QuÃ© podrÃ­a significar?
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Sangre=Rojo,
+	Niebla=Blanco,
+	Noche=Negro<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de la acacia<COLOR-WHITE>.<SEPARATORB>
+---------------
+No puedo abrirla.<SEPARATORB>
+---------------
+La persiana estÃ¡ cerrada.
+	No puedo pasar por aquÃ­.<SEPARATORB>
+---------------
+Muerto...<SEPARATORB>
+---------------
 La llave se ha soltado en cuanto
-las tres placas quedaron superpuestas.
-[ffff]
-[9000]
-}
-{
-[8000]
-Quité la 
-[03ff]
-placa blanca
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Quité la 
-[03ff]
-placa negra
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Quité la 
-[03ff]
-placa roja
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-[20f9]
-[f9ff]
-Insertar tal cual.
-[f9ff]
-Girar 90 grados a la derecha e insertar.
-[f9ff]
-Girar 180 grados e insertar.
-[f9ff]
-Girar 90 grados a la izquierda e insertar.
-[ffff]
-[9000]
-}
-{
-[8000]
-Pongo la 
-[03ff]
-placa blanca
-[00ff]
- en el agujero.
-[ffff]
-[9000]
-}
-{
-[8000]
-Pongo la 
-[03ff]
-placa negra
-[00ff]
- en el agujero.
-[ffff]
-[9000]
-}
-{
-[8000]
-Pongo la 
-[03ff]
-placa roja
-[00ff]
- en el agujero.
-[ffff]
-[9000]
-}
-{
-[8000]
+	las tres placas quedaron superpuestas.<SEPARATORB>
+---------------
+QuitÃ© la <COLOR-GREEN>placa blanca<COLOR-WHITE>.<SEPARATORB>
+---------------
+QuitÃ© la <COLOR-GREEN>placa negra<COLOR-WHITE>.<SEPARATORB>
+---------------
+QuitÃ© la <COLOR-GREEN>placa roja<COLOR-WHITE>.<SEPARATORB>
+---------------
+<GLOBALYOFFSET-BOARDPUZZLE><SELECTABLE-TEXT>Insertar tal cual.<SELECTABLE-TEXT>Girar 90 grados a la derecha e insertar.<SELECTABLE-TEXT>Girar 180 grados e insertar.<SELECTABLE-TEXT>Girar 90 grados a la izquierda e insertar.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa blanca<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa negra<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
+Pongo la <COLOR-GREEN>placa roja<COLOR-WHITE> en el agujero.<SEPARATORB>
+---------------
 Una hilera de platos.
-No hay nada que me interese.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro. Lástima...
-[ffff]
-[9000]
-}
-{
-[8000]
-Un cuadro de flores.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un bodegón.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un globo terráqueo.
-No me sirve para nada.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay razón para que
-utilice el teléfono.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No hay nada que me interese.<SEPARATORB>
+---------------
+No hay nada dentro. LÃ¡stima...<SEPARATORB>
+---------------
+Un cuadro de flores.<SEPARATORB>
+---------------
+Un bodegÃ³n.<SEPARATORB>
+---------------
+Un globo terrÃ¡queo.
+	No me sirve para nada.<SEPARATORB>
+---------------
+No hay razÃ³n para que
+	utilice el telÃ©fono.<SEPARATORB>
+---------------
 Una vitrina con platos decorativos.
-No es que sean muy interesantes.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un cubo y una fregona.
-Ahora no me apetece
-ponerme a limpiar.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada que pueda
-usar ahora.
-[ffff]
-[9000]
-}
-{
-[8000]
-No puedo seguir por aquí.
-La pared me corta el paso.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No es que sean muy interesantes.<SEPARATORB>
+---------------
+AquÃ­ hay un cubo y una fregona.
+	Ahora no me apetece
+	ponerme a limpiar.<SEPARATORB>
+---------------
+AquÃ­ no hay nada que pueda
+	usar ahora.<SEPARATORB>
+---------------
+No puedo seguir por aquÃ­.
+	La pared me corta el paso.<SEPARATORB>
+---------------
 En el estante hay ediciones
-completas de libros
-de aspecto sesudo.
-[ffff]
-[1000]
-[8000]
-No hay nada que me interese.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un reloj, pero parece
-que ya no funciona.
-[ffff]
-[1000]
-[8000]
-No me sirve de nada.
-[ffff]
-[9000]
-}
-{
-[8000]
+	completas de libros
+	de aspecto sesudo.
+
+No hay nada que me interese.<SEPARATORB>
+---------------
+AquÃ­ hay un reloj, pero parece
+	que ya no funciona.
+
+No me sirve de nada.<SEPARATORB>
+---------------
 Hay libros sobre la mesa.
-Ninguno parece interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Ninguno parece interesante.<SEPARATORB>
+---------------
 El regalo de Amy para su padre,
-Ernest. Estaba junto con
-la tarjeta de cumpleaños.
-[ffff]
-[1000]
-[8000]
-Creo que lo dejaré aquí.
-[ffff]
-[9000]
-}
+	Ernest. Estaba junto con
+	la tarjeta de cumpleaÃ±os.
+
+Creo que lo dejarÃ© aquÃ­.<SEPARATORB>

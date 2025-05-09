@@ -1,225 +1,85 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 30
+--------------- strings=30 language=spanish
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE> La policÃ­a ha anunciado hoy
+	que Walter Sullivan, detenido
+	el dÃ­a 18 de este mes por
+	el brutal asesinato de Billy
+	Locane y su hermana Miriam,
+	se suicidÃ³ en su celda en
+	la madrugada del 22.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+<CENTER-PARAGRAPH><COLOR-BLUE> SegÃºn la declaraciÃ³n de la policÃ­a,
+	Sullivan se clavÃ³ una cuchara
+	sopera en el cuello, cortÃ¡ndose
+	la arteria carÃ³tida.
+	
+	 Cuando el guarda lo encontrÃ³,
+	Sullivan ya habÃ­a muerto
+	desangrado, con la cuchara
+	hendida cinco centÃ­metros
+	en el cuello.
 
-BEGIN_SOURCE:
-{
-[8000]
-[faff]
-[01ff]
- La policía ha anunciado hoy
-que Walter Sullivan, detenido
-el día 18 de este mes por
-el brutal asesinato de Billy
-Locane y su hermana Miriam,
-se suicidó en su celda en
-la madrugada del 22.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
- Según la declaración de la policía,
-Sullivan se clavó una cuchara
-sopera en el cuello, cortándose
-la arteria carótida.
-
- Cuando el guarda lo encontró,
-Sullivan ya había muerto
-desangrado, con la cuchara
-hendida cinco centímetros
-en el cuello.
-[ffff]
-[1000]
-[8000]
 La puerta no cede.
-[ffff]
-[1000]
-[8000]
+
 Parece como si algo la empujase
-desde el otro lado.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Vas a sacarlo?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Una foto...
-[ffff]
-[9000]
-}
-{
-[8000]
+	desde el otro lado.<SEPARATORB>
+---------------
+Â¿Vas a sacarlo?<SELECT-YES-OR-NO>
+---------------
+Una foto...<SEPARATORB>
+---------------
 Eh...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Au!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Ja, ja!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Eh, espera!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Mierda!
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Laura?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Cómo sabes mi nombre?
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡Au!
+---------------
+Â¡Ja, ja!
+---------------
+Â¡Eh, espera!
+---------------
+Â¡Mierda!
+---------------
+Â¿Laura?
+---------------
+Â¿Eh?
+---------------
+Â¿CÃ³mo sabes mi nombre?
+---------------
 Eddie me lo dijo.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Gordo bocazas...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De qué conoces a Mary?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué te importa tanto?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Es que no puedes decírmelo?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me gritarás si no te lo digo?
-[ffff]
-[8000]
-}
-{
-[8000]
-No... No lo haré.
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¿De quÃ© conoces a Mary?
+---------------
+Â¿Por quÃ© te importa tanto?
+---------------
+Â¿Es que no puedes decÃ­rmelo?
+---------------
+Â¿Me gritarÃ¡s si no te lo digo?
+---------------
+No... No lo harÃ©.
+---------------
 Yo era amiga de Mary...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Nos conocimos en el hospital.
-[ffff]
-[8000]
-}
-{
-[8000]
-Fue el año pasado...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Mentirosa!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Fue el aÃ±o pasado...
+---------------
+Â¡Mentirosa!
+---------------
 Laura, no...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Bueno, pues no me creas!
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero el año pasado,
-Mary ya estaba...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡Bueno, pues no me creas!
+---------------
+Pero el aÃ±o pasado,
+	Mary ya estaba...
+---------------
 Lo siento, Laura.
-[ffff]
-[8000]
-}
-{
-[8000]
-Este no es lugar para una niña.
-[ffff]
-[8000]
-}
-{
-[8000]
-Aquí hay muchas cosas extrañas...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Este no es lugar para una niÃ±a.
+---------------
+AquÃ­ hay muchas cosas extraÃ±as...
+---------------
 No puedo creer que no tengas
-ni un rasguño.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Por qué debería?
-[ffff]
-[8000]
-}
+	ni un rasguÃ±o.
+---------------
+Â¿Por quÃ© deberÃ­a?

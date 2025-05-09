@@ -1,186 +1,73 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 13
+--------------- strings=13 language=spanish
+---------------
+Seguramente aquÃ­ habÃ­a un cuadro.
 
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
+SÃ³lo queda la descripciÃ³n.
 
-BEGIN_SOURCE:
-{
-[8000]
-Seguramente aquí había un cuadro.
-[ffff]
-[1000]
-[8000]
-Sólo queda la descripción.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-«Paisaje ribereño»
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Allen Smith (Fecha de nacimiento
-y defunción desconocidas)
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Un paisaje antiguo de esta zona.
-Por el estilo, parece que se pintó
-sobre la década de 1820.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-En aquel entonces había mucha
-menos gente y apenas un puñado
-de edificios.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-«Paisaje ribereño»
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Allen Smith (Fecha de nacimiento
-y defunción desconocidas)
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Un paisaje antiguo de esta zona.
-Por el estilo, parece que se pintó
-sobre la década de 1820.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-En aquel entonces había mucha
-menos gente y apenas un puñado
-de edificios.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-«Día neblinoso,
-restos del juicio»
-[ffff]
-[1000]
-[8000]
-[00ff]
-Es él...
-[ffff]
-[9000]
-}
-{
-[8000]
-Esta foto no tiene nada especial.
-[ffff]
-[9000]
-}
-{
-[8000]
-La vitrina no tiene nada de interés.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay muchas fotografías antiguas.
-Parecen fotos de esta ciudad.
-[ffff]
-[9000]
-}
-{
-[8000]
-El texto no dice nada útil.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-copa de obsidiana
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
+<CENTER-PARAGRAPH><COLOR-BLUE>Â«Paisaje ribereÃ±oÂ»
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
+	y defunciÃ³n desconocidas)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
+	Por el estilo, parece que se pintÃ³
+	sobre la dÃ©cada de 1820.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces habÃ­a mucha
+	menos gente y apenas un puÃ±ado
+	de edificios.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Â«Paisaje ribereÃ±oÂ»
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Fecha de nacimiento
+	y defunciÃ³n desconocidas)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Un paisaje antiguo de esta zona.
+	Por el estilo, parece que se pintÃ³
+	sobre la dÃ©cada de 1820.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>En aquel entonces habÃ­a mucha
+	menos gente y apenas un puÃ±ado
+	de edificios.<SEPARATORB>
+---------------
+<COLOR-BLUE>Â«DÃ­a neblinoso,
+	restos del juicioÂ»
+
+<COLOR-WHITE>Es Ã©l...<SEPARATORB>
+---------------
+Esta foto no tiene nada especial.<SEPARATORB>
+---------------
+La vitrina no tiene nada de interÃ©s.<SEPARATORB>
+---------------
+Hay muchas fotografÃ­as antiguas.
+	Parecen fotos de esta ciudad.<SEPARATORB>
+---------------
+El texto no dice nada Ãºtil.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>copa de obsidiana<COLOR-WHITE>.<SEPARATORB>
+---------------
 Hay una foto colgada.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Mina de carbón Wiltse
-[ffff]
-[9000]
-}
-{
-[8000]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Mina de carbÃ³n Wiltse<SEPARATORB>
+---------------
 Hay una foto de un hoyo
-muy profundo. ¿Qué podría ser...?
-[ffff]
-[9000]
-}
-{
-[8000]
+	muy profundo. Â¿QuÃ© podrÃ­a ser...?<SEPARATORB>
+---------------
 Hay una foto colgada.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Hospital Brookhaven (1880)
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Este hospital se edificó
-en respuesta a la gran plaga
-que trajo un grupo de
-inmigrantes. Originalmente
-era poco más que una casucha,
-pero fue creciendo
-con el tiempo.
-[ffff]
-[9000]
-}
-{
-[8000]
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Hospital Brookhaven (1880)
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Este hospital se edificÃ³
+	en respuesta a la gran plaga
+	que trajo un grupo de
+	inmigrantes. Originalmente
+	era poco mÃ¡s que una casucha,
+	pero fue creciendo
+	con el tiempo.<SEPARATORB>
+---------------
 Hay una foto de un hoyo
-muy profundo. ¿Qué podría ser...?
-[ffff]
-[9000]
-}
-{
-[8000]
+	muy profundo. Â¿QuÃ© podrÃ­a ser...?<SEPARATORB>
+---------------
 Una foto del director del viejo
-Hospital Brookhaven.
-Parece que era famoso por aquí.
-[ffff]
-[9000]
-}
+	Hospital Brookhaven.
+	Parece que era famoso por aquÃ­.<SEPARATORB>

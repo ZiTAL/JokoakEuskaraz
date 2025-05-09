@@ -1,889 +1,343 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 95
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-Aprieto el botón,
-pero no pasa nada.
-[ffff]
-[9000]
-}
-{
-[8000]
+--------------- strings=95 language=spanish
+---------------
+Aprieto el botÃ³n,
+	pero no pasa nada.<SEPARATORB>
+---------------
 Un piano normal.
-Nada de qué preocuparse.
-[ffff]
-[9000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Sr. James Sunderland:
-
-La cinta de vídeo que se dejó
-está guardada en la oficina
-del primer piso.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una caja de música.
-[ffff]
-[9000]
-}
-{
-[8000]
-¿Vas a dar cuerda
-a la caja de música?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
+	Nada de quÃ© preocuparse.<SEPARATORB>
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Sr. James Sunderland:
+	
+	La cinta de vÃ­deo que se dejÃ³
+	estÃ¡ guardada en la oficina
+	del primer piso.<SEPARATORB>
+---------------
+Una caja de mÃºsica.<SEPARATORB>
+---------------
+Â¿Vas a dar cuerda
+	a la caja de mÃºsica?<SELECT-YES-OR-NO>
+---------------
 Esto no suena bien.
-[ffff]
-[1000]
-[8000]
-¿Está rota la caja de música?
-O quizás...
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una hendidura rectangular.
-[ffff]
-[1000]
-[8000]
-Tiene una placa delante
-con una inscripción.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Cuando regrese la extraviada,
-la nota agria se hará dulce.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-A pesar de ello, quiero seguir
-creyendo que ella fue feliz.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que no hablaba.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Fue la codicia la que tiñó
-de sangre su zapato.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que escapó a media noche.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-Belleza: Bendición
-y maldición al mismo tiempo.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que despertó de la muerte.
-[ffff]
-[9000]
-}
-{
-[8000]
-Todavía no puedo dejar este hotel.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-“Esperándote”...
-[ffff]
-[1000]
-[8000]
-[00ff]
-¿Qué es esto...?
-[ffff]
-[1000]
-[8000]
-Habitación 312... Es en la que
-estuvimos Mary y yo...
-[ffff]
-[1000]
-[8000]
-Mary, ¿estás ahí?
-O quizás...
-[ffff]
-[1000]
-[8000]
-Tengo un 
-[03ff]
-mapa del hotel
-(para huéspedes)
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave de
-la habitación 312 del hotel
-[00ff]
-.
-[ffff]
-[1000]
-[8000]
-Es la llave de la habitación
-donde nos alojamos Mary y yo...
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-mapa del hotel
-(para empleados)
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-llave
-de las escaleras de hotel
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-cinta de vídeo
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado un 
-[03ff]
-abrelatas
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado una 
-[03ff]
-caja de música
-de Blancanieves
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He encontrado la 
-[03ff]
-llave del pez
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caja de música
-de Blancanieves
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caja de música
-de la sirenita
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-He puesto la 
-[03ff]
-caja de música
-de Cenicienta
-[00ff]
-.
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una 
-[03ff]
-caja de música
-de Blancanieves
-[00ff]
-.
-[ffff]
-[1000]
-[8000]
-¿Vas a coger
-la caja de música?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Hay una 
-[03ff]
-caja de música
-de la sirenita
-[00ff]
-.
-[ffff]
-[1000]
-[8000]
-¿Vas a coger
-la caja de música?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-Hay una 
-[03ff]
-caja de música
-de Cenicienta
-[00ff]
-.
-[ffff]
-[1000]
-[8000]
-¿Vas a coger
-la caja de música?
-[f6ff]
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Te he asustado?
-[ffff]
-[8000]
-}
-{
-[8000]
-Sí, la verdad.
-[ffff]
-[8000]
-}
-{
-[8000]
-Has venido a encontrar a Mary,
-?no, James?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Lo has conseguido?
-[ffff]
-[8000]
-}
-{
-[8000]
-No... ?t? también has venido
-por ella?
-[ffff]
-[8000]
-}
-{
-[8000]
-Está aquí, ?no?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Si sabes dónde está, dímelo!
-[ffff]
-[8000]
-}
-{
-[8000]
-Estoy harta de andar.
-[ffff]
-[8000]
-}
-{
-[8000]
-Ojalá lo supiera...
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero si lo dijo en su carta...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿¡Qué carta!?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Quieres leerla?
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero no se lo digas a Rachel, eh.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Quién es Rachel?
-[ffff]
-[8000]
-}
-{
-[8000]
-Nuestra enfermera.
-[ffff]
-[8000]
-}
-{
-[8000]
-Cojí la carta de su cajón.
-[ffff]
-[8000]
-}
-{
-[8000]
-[faff]
-[01ff]
-Mi querida Laura:
 
-Le dejo esta carta a Rachel
-para que te la dé cuando
-yo me haya ido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Ahora estoy muy lejos.
-En un lugar bello y tranquilo.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Por favor, perdóname
-por no haberme despedido.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Cuídate, Laura.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-No seas muy dura con las monjitas.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Laura, con respecto a James...
-Sé que lo odias porque piensas
-que no me trata bien, pero,
-por favor, dale una oportunidad.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Es cierto que a veces es un poco
-cascarrabias y que no se ríe mucho.
-Pero en el fondo es una buena persona.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Laura...
-Te quiero como si fueras
-mi propia hija.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Si las cosas hubieran ido
-de otra forma, te habría adoptado.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Feliz 8.º cumpleaños, Laura.
-[ffff]
-[1000]
-[8000]
-[faff]
-[01ff]
-Tu amiga para siempre,
-Mary
-[ffff]
-[9000]
-}
-{
-[8000]
-Laura... ¿cuántos años tienes?
-[ffff]
-[8000]
-}
-{
-[8000]
-Mmm... Cumplí ocho la semana pasada.
-[ffff]
-[8000]
-}
-{
-[8000]
+Â¿EstÃ¡ rota la caja de mÃºsica?
+	O quizÃ¡s...<SEPARATORB>
+---------------
+Hay una hendidura rectangular.
+
+Tiene una placa delante
+	con una inscripciÃ³n.<SEPARATORB>
+---------------
+<COLOR-BLUE>Cuando regrese la extraviada,
+	la nota agria se harÃ¡ dulce.<SEPARATORB>
+---------------
+<COLOR-BLUE>A pesar de ello, quiero seguir
+	creyendo que ella fue feliz.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que no hablaba.<SEPARATORB>
+---------------
+<COLOR-BLUE>Fue la codicia la que tiÃ±Ã³
+	de sangre su zapato.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que escapÃ³ a media noche.<SEPARATORB>
+---------------
+<COLOR-BLUE>Belleza: BendiciÃ³n
+	y maldiciÃ³n al mismo tiempo.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que despertÃ³ de la muerte.<SEPARATORB>
+---------------
+TodavÃ­a no puedo dejar este hotel.<SEPARATORB>
+---------------
+No hay nada dentro.<SEPARATORB>
+---------------
+<COLOR-BLUE>â€œEsperÃ¡ndoteâ€...
+
+<COLOR-WHITE>Â¿QuÃ© es esto...?
+
+HabitaciÃ³n 312... Es en la que
+	estuvimos Mary y yo...
+
+Mary, Â¿estÃ¡s ahÃ­?
+	O quizÃ¡s...
+
+Tengo un <COLOR-GREEN>mapa del hotel
+	(para huÃ©spedes)<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave de
+	la habitaciÃ³n 312 del hotel<COLOR-WHITE>.
+
+Es la llave de la habitaciÃ³n
+	donde nos alojamos Mary y yo...<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>mapa del hotel
+	(para empleados)<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>llave
+	de las escaleras de hotel<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>cinta de vÃ­deo<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado un <COLOR-GREEN>abrelatas<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado una <COLOR-GREEN>caja de mÃºsica
+	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+---------------
+He encontrado la <COLOR-GREEN>llave del pez<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de mÃºsica
+	de Blancanieves<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de mÃºsica
+	de la sirenita<COLOR-WHITE>.<SEPARATORB>
+---------------
+He puesto la <COLOR-GREEN>caja de mÃºsica
+	de Cenicienta<COLOR-WHITE>.<SEPARATORB>
+---------------
+Hay una <COLOR-GREEN>caja de mÃºsica
+	de Blancanieves<COLOR-WHITE>.
+
+Â¿Vas a coger
+	la caja de mÃºsica?<SELECT-YES-OR-NO>
+---------------
+Hay una <COLOR-GREEN>caja de mÃºsica
+	de la sirenita<COLOR-WHITE>.
+
+Â¿Vas a coger
+	la caja de mÃºsica?<SELECT-YES-OR-NO>
+---------------
+Hay una <COLOR-GREEN>caja de mÃºsica
+	de Cenicienta<COLOR-WHITE>.
+
+Â¿Vas a coger
+	la caja de mÃºsica?<SELECT-YES-OR-NO>
+---------------
+Â¿Te he asustado?
+---------------
+SÃ­, la verdad.
+---------------
+Has venido a encontrar a Mary,
+	Â¿no, James?
+---------------
+Â¿Lo has conseguido?
+---------------
+No... Â¿tÃº tambiÃ©n has venido
+	por ella?
+---------------
+EstÃ¡ aquÃ­, Â¿no?
+---------------
+Â¡Si sabes dÃ³nde estÃ¡, dÃ­melo!
+---------------
+Estoy harta de andar.
+---------------
+OjalÃ¡ lo supiera...
+---------------
+Pero si lo dijo en su carta...
+---------------
+Â¿Â¡QuÃ© carta!?
+---------------
+Â¿Quieres leerla?
+---------------
+Pero no se lo digas a Rachel, eh.
+---------------
+Â¿QuiÃ©n es Rachel?
+---------------
+Nuestra enfermera.
+---------------
+CojÃ­ la carta de su cajÃ³n.
+---------------
+<CENTER-PARAGRAPH><COLOR-BLUE>Mi querida Laura:
+	
+	Le dejo esta carta a Rachel
+	para que te la dÃ© cuando
+	yo me haya ido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Ahora estoy muy lejos.
+	En un lugar bello y tranquilo.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Por favor, perdÃ³name
+	por no haberme despedido.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>CuÃ­date, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>No seas muy dura con las monjitas.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, con respecto a James...
+	SÃ© que lo odias porque piensas
+	que no me trata bien, pero,
+	por favor, dale una oportunidad.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Es cierto que a veces es un poco
+	cascarrabias y que no se rÃ­e mucho.
+	Pero en el fondo es una buena persona.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+	Te quiero como si fueras
+	mi propia hija.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Si las cosas hubieran ido
+	de otra forma, te habrÃ­a adoptado.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Feliz 8.Âº cumpleaÃ±os, Laura.
+
+<CENTER-PARAGRAPH><COLOR-BLUE>Tu amiga para siempre,
+	Mary<SEPARATORB>
+---------------
+Laura... Â¿cuÃ¡ntos aÃ±os tienes?
+---------------
+Mmm... CumplÃ­ ocho la semana pasada.
+---------------
 Entonces Mary no pudo haber
-muerto... hace tres años...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿De verdad está aquí?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Es este el lugar bello y tranquilo
-al que se refería?
-[ffff]
-[8000]
-}
-{
-[8000]
+	muerto... hace tres aÃ±os...
+---------------
+Â¿De verdad estÃ¡ aquÃ­?
+---------------
+Â¿Es este el lugar bello y tranquilo
+	al que se referÃ­a?
+---------------
 Mary y yo hablamos mucho
-de Silent Hill.
-[ffff]
-[8000]
-}
-{
-[8000]
-Hasta me enseñó todas sus fotos.
-Estaba como loca por volver.
-[ffff]
-[8000]
-}
-{
-[8000]
-Por eso he venido aquí.
-[ffff]
-[8000]
-}
-{
-[8000]
-Quizás lo entenderás
-cuando veas la otra carta...
-[ffff]
-[8000]
-}
-{
-[8000]
-La que Mary... ¿Eh?
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Se me habrá caído!
-[ffff]
-[8000]
-}
-{
-[8000]
+	de Silent Hill.
+---------------
+Hasta me enseÃ±Ã³ todas sus fotos.
+	Estaba como loca por volver.
+---------------
+Por eso he venido aquÃ­.
+---------------
+QuizÃ¡s lo entenderÃ¡s
+	cuando veas la otra carta...
+---------------
+La que Mary... Â¿Eh?
+---------------
+Â¡Se me habrÃ¡ caÃ­do!
+---------------
 Laura...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Tengo que encontrarla!
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Laura!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Â¡Tengo que encontrarla!
+---------------
+Â¡Laura!
+---------------
 Hay una hendidura rectangular.
-[ffff]
-[1000]
-[8000]
+
 Tiene una placa delante
-con una inscripción.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que no hablaba.
-[ffff]
-[9000]
-}
-{
-[8000]
+	con una inscripciÃ³n.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que no hablaba.<SEPARATORB>
+---------------
 Hay una hendidura rectangular.
-[ffff]
-[1000]
-[8000]
+
 Tiene una placa delante
-con una inscripción.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que escapó a media noche.
-[ffff]
-[9000]
-}
-{
-[8000]
+	con una inscripciÃ³n.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que escapÃ³ a media noche.<SEPARATORB>
+---------------
 Hay una hendidura rectangular.
-[ffff]
-[1000]
-[8000]
+
 Tiene una placa delante
-con una inscripción.
-[ffff]
-[9000]
-}
-{
-[8000]
-[01ff]
-El asiento de la princesa
-que despertó de la muerte.
-[ffff]
-[9000]
-}
-{
-[8000]
+	con una inscripciÃ³n.<SEPARATORB>
+---------------
+<COLOR-BLUE>El asiento de la princesa
+	que despertÃ³ de la muerte.<SEPARATORB>
+---------------
 Hay un abrelatas
-bajo la cinta de vídeo.
-[ffff]
-[9000]
-}
-{
-[8000]
+	bajo la cinta de vÃ­deo.<SEPARATORB>
+---------------
 Un piano.
-[ffff]
-[1000]
-[8000]
+
 Recuerdo que a Mary le gustaba
-mucho tocar el piano.
-[ffff]
-[1000]
-[8000]
+	mucho tocar el piano.
+
 No se le daba muy bien...
-[ffff]
-[1000]
-[8000]
-pero a mí me encantaba
-escucharla tocar.
-[ffff]
-[1000]
-[8000]
+
+pero a mÃ­ me encantaba
+	escucharla tocar.
+
 De eso hace ya mucho tiempo,
-antes incluso de casarnos.
-¿Por qué pienso en esto ahora...?
-[ffff]
-[9000]
-}
-{
-[8000]
-Un plato vacío, un cuchillo,
-un tenedor y ya está.
-No hay nada interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
+	antes incluso de casarnos.
+	Â¿Por quÃ© pienso en esto ahora...?<SEPARATORB>
+---------------
+Un plato vacÃ­o, un cuchillo,
+	un tenedor y ya estÃ¡.
+	No hay nada interesante.<SEPARATORB>
+---------------
 Un dibujo hecho por Laura...
-¿Es un gato?
-[ffff]
-[9000]
-}
-{
-[8000]
-Hay una caja de música
-de disco.
-[ffff]
-[1000]
-[8000]
+	Â¿Es un gato?<SEPARATORB>
+---------------
+Hay una caja de mÃºsica
+	de disco.
+
 Parece que tiene algo escrito
-delante, pero está demasiado
-oscuro para verlo.
-[ffff]
-[9000]
-}
-{
-[8000]
+	delante, pero estÃ¡ demasiado
+	oscuro para verlo.<SEPARATORB>
+---------------
 Un timbre.
-No creo que vaya a aparecer nadie.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada
-que parezca de utilidad.
-[ffff]
-[9000]
-}
-{
-[8000]
-Parece que el teléfono está roto.
-[ffff]
-[9000]
-}
-{
-[8000]
-No hay más llaves.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No creo que vaya a aparecer nadie.<SEPARATORB>
+---------------
+AquÃ­ no hay nada
+	que parezca de utilidad.<SEPARATORB>
+---------------
+Parece que el telÃ©fono estÃ¡ roto.<SEPARATORB>
+---------------
+No hay mÃ¡s llaves.<SEPARATORB>
+---------------
 Un cuadro.
-No tiene nada especial.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No tiene nada especial.<SEPARATORB>
+---------------
 No hay nada interesante
-en el estante.
-[ffff]
-[9000]
-}
-{
-[8000]
-La cerradura está rota.
-No puedo abrirla.
-[ffff]
-[9000]
-}
-{
-[8000]
+	en el estante.<SEPARATORB>
+---------------
+La cerradura estÃ¡ rota.
+	No puedo abrirla.<SEPARATORB>
+---------------
 No hay nada interesante
-en los documentos del escritorio.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay patatas y cebollas.
-Huelen un poco a podrido.
-[ffff]
-[9000]
-}
-{
-[8000]
-Manzanas y calabazas.
-[ffff]
-[9000]
-}
-{
-[8000]
+	en los documentos del escritorio.<SEPARATORB>
+---------------
+AquÃ­ hay patatas y cebollas.
+	Huelen un poco a podrido.<SEPARATORB>
+---------------
+Manzanas y calabazas.<SEPARATORB>
+---------------
 Una hilera de latas de fruta.
-Ya llevarán un tiempo caducadas.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay bolsitas de té y galletitas.
-Están caducadas.
-[ffff]
-[9000]
-}
-{
-[8000]
+	Ya llevarÃ¡n un tiempo caducadas.<SEPARATORB>
+---------------
+AquÃ­ hay bolsitas de tÃ© y galletitas.
+	EstÃ¡n caducadas.<SEPARATORB>
+---------------
 Una hilera de latas de zumo.
-No hay razón para llevármelas.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay latas de sopa.
-Creo que aún no se han pasado,
-pero no tengo hambre.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada.
-Pero desprende un ligero
-olor a moho.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un reloj registrador.
-El reloj no funciona,
-supongo que estará roto.
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí no hay nada interesante.
-[ffff]
-[9000]
-}
-{
-[8000]
+	No hay razÃ³n para llevÃ¡rmelas.<SEPARATORB>
+---------------
+AquÃ­ hay latas de sopa.
+	Creo que aÃºn no se han pasado,
+	pero no tengo hambre.<SEPARATORB>
+---------------
+AquÃ­ no hay nada.
+	Pero desprende un ligero
+	olor a moho.<SEPARATORB>
+---------------
+AquÃ­ hay un reloj registrador.
+	El reloj no funciona,
+	supongo que estarÃ¡ roto.<SEPARATORB>
+---------------
+AquÃ­ no hay nada interesante.<SEPARATORB>
+---------------
 Un hornillo.
-[ffff]
-[1000]
-[8000]
-Por detrás hay algo escrito
-en letra pequeña:
-[fdff]
-[01ff]
-“Soy Johnny y estoy calentito”.
-[00ff]
-[ffff]
-[9000]
-}
-{
-[8000]
-Aquí hay un calendario.
-Es del año pasado.
-[ffff]
-[9000]
-}
-{
-[8000]
-La persiana está cerrada.
-[ffff]
-[9000]
-}
-{
-[8000]
-Una caja de cartón.
-No hay nada dentro.
-[ffff]
-[9000]
-}
-{
-[8000]
-Papel higiénico...
-Ahora no lo necesito.
-[ffff]
-[9000]
-}
-{
-[8000]
-Un carrito de lavandería.
-No hay nada útil dentro.
-[ffff]
-[9000]
-}
+
+Por detrÃ¡s hay algo escrito
+	en letra pequeÃ±a:
+	<COLOR-BLUE>â€œSoy Johnny y estoy calentitoâ€.<COLOR-WHITE><SEPARATORB>
+---------------
+AquÃ­ hay un calendario.
+	Es del aÃ±o pasado.<SEPARATORB>
+---------------
+La persiana estÃ¡ cerrada.<SEPARATORB>
+---------------
+Una caja de cartÃ³n.
+	No hay nada dentro.<SEPARATORB>
+---------------
+Papel higiÃ©nico...
+	Ahora no lo necesito.<SEPARATORB>
+---------------
+Un carrito de lavanderÃ­a.
+	No hay nada Ãºtil dentro.<SEPARATORB>

@@ -1,159 +1,54 @@
-SOURCE_TARGET: 1
-VERSION: v1.4
-HEADER: 0 0
-ADDR:    
-COUNT: 24
-
-John_Modest Production
-http://inetmedia.uni-dubna.ru/
-
-BEGIN_SOURCE:
-{
-[8000]
-¡Mamá!
-[ffff]
-[8000]
-}
-{
-[8000]
-Mamá, te estaba buscando.
-[ffff]
-[8000]
-}
-{
-[8000]
-Eres la única que me queda.
-[ffff]
-[8000]
-}
-{
-[8000]
+--------------- strings=24 language=spanish
+---------------
+Â¡MamÃ¡!
+---------------
+MamÃ¡, te estaba buscando.
+---------------
+Eres la Ãºnica que me queda.
+---------------
 Tal vez...
-entonces pueda descansar.
-[ffff]
-[8000]
-}
-{
-[8000]
-Mamá, ¿por qué corres?
-[ffff]
-[8000]
-}
-{
-[8000]
-Tú no eres mamá.
-[ffff]
-[8000]
-}
-{
-[8000]
-¡Es usted...!
-Lo... lo siento...
-[ffff]
-[8000]
-}
-{
-[8000]
+	entonces pueda descansar.
+---------------
+MamÃ¡, Â¿por quÃ© corres?
+---------------
+TÃº no eres mamÃ¡.
+---------------
+Â¡Es usted...!
+	Lo... lo siento...
+---------------
 Angela, no...
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
 Gracias por salvarme...
-[ffff]
-[8000]
-}
-{
-[8000]
-Pero ojalá no lo hubiera hecho.
-[ffff]
-[8000]
-}
-{
-[8000]
-Incluso mamá lo dijo...
-[ffff]
-[8000]
-}
-{
-[8000]
-Me lo merecía...
-[ffff]
-[8000]
-}
-{
-[8000]
-¡No, Angela, no es verdad!
-[ffff]
-[8000]
-}
-{
-[8000]
+---------------
+Pero ojalÃ¡ no lo hubiera hecho.
+---------------
+Incluso mamÃ¡ lo dijo...
+---------------
+Me lo merecÃ­a...
+---------------
+Â¡No, Angela, no es verdad!
+---------------
 No, no me compadezca.
-No me lo merezco...
-[ffff]
-[8000]
-}
-{
-[8000]
-¿O se cree que puede salvarme?
-¿Me amará?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Me cuidará?
-¿Curará mis penas?
-[ffff]
-[8000]
-}
-{
-[8000]
+	No me lo merezco...
+---------------
+Â¿O se cree que puede salvarme?
+	Â¿Me amarÃ¡?
+---------------
+Â¿Me cuidarÃ¡?
+	Â¿CurarÃ¡ mis penas?
+---------------
 Eso pensaba.
-[ffff]
-[8000]
-}
-{
-[8000]
-James... Devuélvame ese cuchillo.
-[ffff]
-[8000]
-}
-{
-[8000]
-No... No lo haré.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Lo quiere para usted?
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Yo? No... Nunca me suicidaría...
-[ffff]
-[8000]
-}
-{
-[8000]
-Aquí hace un calor terrible.
-[ffff]
-[8000]
-}
-{
-[8000]
-¿Usted también lo nota?
-[ffff]
-[8000]
-}
-{
-[8000]
-Para mí, siempre es así.
-[ffff]
-[8000]
-}
+---------------
+James... DevuÃ©lvame ese cuchillo.
+---------------
+No... No lo harÃ©.
+---------------
+Â¿Lo quiere para usted?
+---------------
+Â¿Yo? No... Nunca me suicidarÃ­a...
+---------------
+AquÃ­ hace un calor terrible.
+---------------
+Â¿Usted tambiÃ©n lo nota?
+---------------
+Para mÃ­, siempre es asÃ­.
