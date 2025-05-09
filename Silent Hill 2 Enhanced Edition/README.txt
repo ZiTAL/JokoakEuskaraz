@@ -18,7 +18,7 @@ Buelta bueltaka -> jira ta bira
 
 gorri -> eskarlata -> gorrimin
 
-veitena -> hogei -> 400 gizon
+veintena -> hogei -> 400 gizon
 
 zintzilik -> eskegita
 
@@ -26,6 +26,17 @@ cristalino -> kristalino -> garden
 
 ¿ kendu
 
-/home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_prison_s_msg_s.txt
+Izenak:
+- James -> Jagoba
+- Mary / Mari -> Miren
+- Laura -> Laura
+- Angela -> Gotzone
+- Eddie -> Edorta
+- Walter -> Galder
 
-/home/projects/JokoakEuskaraz/Silent Hill 2 Enhanced Edition/lang/etc/message/stage_to_heaven_msg_s.txt
+Abizenak:
+- Orosco -> Orozko
+- Sunderland -> Eguzkiza
+- Sullivan -> Atutxa
+- Smith -> Rementeria
+- Widmark -> Zabaleta
