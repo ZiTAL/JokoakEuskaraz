@@ -1,15 +1,15 @@
 ﻿--------------- strings=31 language=spanish
 ---------------
-Mari...?
+Miren...?
 ---------------
 Berriz erratu zara.
 ---------------
-Mari hilda dago.
+Miren hilda dago.
 	Zuk hil zenuen.
 ---------------
-Mari.
+Miren.
 ---------------
-Mari... Gurea amaitu da.
+Miren... Gurea amaitu da.
 ---------------
 Zer esan nahi duzu?
 ---------------
@@ -24,20 +24,20 @@ Hori da nahi zenuen ezta?!
 Orain dena ulertzen dut.
 ---------------
 Arazoa zera da...
-	zu ez zarela Mari.
+	zu ez zarela Miren.
 ---------------
-Ez, James... Ez dizut utziko...
+Ez, Jagoba... Ez dizut utziko...
 ---------------
 Ez dizut inoiz utziko
-	Mari berreskuratzen!
+	Miren berreskuratzen!
 ---------------
-Mari...?
+Miren...?
 ---------------
-James...
+Jagoba...
 ---------------
 Barkatu...
 ---------------
-Esan nizun hil nahi nuela, James.
+Esan nizun hil nahi nuela, Jagoba.
 ---------------
 Mina gelditzea nahi nuen.
 ---------------
@@ -56,18 +56,18 @@ Hil egin ninduzun
 	eta sufritzen
 	ari zara horregatik.
 ---------------
-Nahikoa da, James.
+Nahikoa da, Jagoba.
 ---------------
-Mari...?
+Miren...?
 ---------------
-James...
+Jagoba...
 ---------------
 Orain ulertzen dut...
 	zergatik etorri nintzen hiri honetara.
 ---------------
 Zeri beldur nintzen?
 ---------------
-Zu gabe, Mari, ez naiz ezer...
+Zu gabe, Miren, ez naiz ezer...
 ---------------
 Orain elkarrekin egon gaitezke.
 ---------------

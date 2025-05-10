@@ -1,13 +1,13 @@
 ﻿--------------- strings=6 language=spanish
 ---------------
-James...
+Jagoba...
 ---------------
-Mari?
+Miren?
 ---------------
 Ez... Ez zara zu.
 ---------------
 Zure neskaren antza al dut?
 ---------------
-Nire izena... Mari da.
+Nire izena... Miren da.
 ---------------
 Hemen ez daukat zereginik.<SEPARATORB>

@@ -48,11 +48,11 @@ Zerbait idatzita dauka,
 	baina ilunegi dago irakurtzeko.<SEPARATORB>
 ---------------
 Hemen flasko hutsak daude.
-	Marirenak dira?
+	Mirenenak dira?
 
-Mari ere gaixorik dago...?<SEPARATORB>
+Miren ere gaixorik dago...?<SEPARATORB>
 ---------------
-Mari ez dago hemen...
+Miren ez dago hemen...
 	Nora joan ote da?<SEPARATORB>
 ---------------
 Hemen ez dago ezer erabilgarririk.<SEPARATORB>

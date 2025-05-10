@@ -1,12 +1,12 @@
 ﻿--------------- strings=109 language=spanish
 ---------------
-Amy izeneko neskatorik
+Maite izeneko neskatorik
 	ezagutzen al duzu?
 ---------------
 Zergatik galdetzen duzu?
 ---------------
 Gutun hau, "Nire aita maitea",
-	Amy Baldwin izeneko neskato
+	Maite Jausoro izeneko neskato
 	batek idatzi zuen.
 ---------------
 Bere aita al zara?
@@ -28,7 +28,7 @@ Han zegoelako...
 Zergatik neukan kartazal
 	huts hura eskuan... erori zenean...
 ---------------
-Ernest, Amy... ez da ba...?
+Eneko, Maite... ez da ba...?
 ---------------
 Sentitzen dut.
 	Barkatu gogoraraztea.
@@ -38,7 +38,7 @@ Ez duzu barkamenik eskatu behar.
 ---------------
 Ez dut inoiz ahaztu...
 ---------------
-Mari.
+Miren.
 ---------------
 Gauza batzuk ahazten ditugu,
 	beste batzuk aldiz, inoiz ez...
@@ -48,18 +48,18 @@ Grazia dauka...
 ---------------
 Hamar urte igaro dira, baina jarraitzen dut...
 ---------------
-Ernest... Sentitzen dut.
+Eneko... Sentitzen dut.
 	Ez nekien...
 ---------------
 Ez, berdin dio.
 ---------------
-Mari, gutun hori...
+Miren, gutun hori...
 ---------------
 Hemen utziko dut.
 ---------------
 Mila esker.
 ---------------
-Mari...?
+Miren...?
 	Orduan, zu zara...
 ---------------
 Jakina.
@@ -95,7 +95,7 @@ Zuria...?
 ---------------
 Eskailerako atea irekiko dizut.
 ---------------
-Ernest, benetan uste al duzu
+Eneko, benetan uste al duzu
 	funtzionatuko duela?
 ---------------
 Ez dakit...
@@ -107,7 +107,7 @@ Tira, berdin dio. Ez zait axola
 Hobe hori, amore eman eta
 	ezer ez egitea baino.
 ---------------
-Mari... Mila esker.
+Miren... Mila esker.
 ---------------
 Benetan mirarietan sinesten al duzu?
 ---------------
@@ -115,10 +115,10 @@ Hau Silent Hill da.
 ---------------
 Bai, agian hori da arazoa.
 ---------------
-O, Mari... Gehiegi pentsatzen duzu.
+O, Miren... Gehiegi pentsatzen duzu.
 	Hemengoa naiz. Hau nire hiria da.
 ---------------
-Eskerrik asko, Mari.
+Eskerrik asko, Miren.
 ---------------
 Nik lortu ezin dudan
 	gauza bakarra da.
@@ -130,7 +130,7 @@ Hainbeste denbora eta gero...
 ---------------
 Bai, baina... Tira...
 ---------------
-Mari, jainkoak hemen daude.
+Miren, jainkoak hemen daude.
 ---------------
 Zuk ere badakizu.
 	Hiri honetan jaio zinen.
@@ -144,7 +144,7 @@ Egia esan, ez.
 ---------------
 Orduan, berdin dio.
 ---------------
-Ernest, ireki al dezaket?
+Eneko, ireki al dezaket?
 ---------------
 Hemen ez dago irtenbiderik.
 	Ez dago besterik.
@@ -154,9 +154,9 @@ Badakit.
 Tira... Eta patuan sinesten
 	nuela esan banizu?
 ---------------
-James hori... gizon gaiztoa da.
+Jagoba hori... gizon gaiztoa da.
 ---------------
-James...?
+Jagoba...?
 ---------------
 Eh... Bai... Badakit.
 ---------------
@@ -167,7 +167,7 @@ Ona delako...?
 ---------------
 Zuk... ba al dakizu zerbait?
 ---------------
-Bai... Mari, zu...
+Bai... Miren, zu...
 ---------------
 Berdin dio, hori da zuk pentsatzen duzuna.
 	Baina benetan ez dakizu ezer.
@@ -265,7 +265,7 @@ Hiru plaka sartuta daude.<SEPARATORB>
 <COLOR-WHITE>Orrialdearen amaieran
 	ohar bat dago.
 
-<COLOR-WHITE>Ernestena al da?
+<COLOR-WHITE>Enekorena al da?
 	Zer esan nahiko du?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>	Odola=Gorria,
@@ -342,7 +342,7 @@ Ez dit ezertarako balio.<SEPARATORB>
 Liburuak daude mahai gainean.
 	Ez dirudite interesgarriak direnik.<SEPARATORB>
 ---------------
-Amyren oparia bere aita Ernestentzat.
+Maiteren oparia bere aita Enekorentzat.
 	Urtebetetze txartelarekin batera zegoen.
 
 Uste dut hemen utziko dudala.<SEPARATORB>

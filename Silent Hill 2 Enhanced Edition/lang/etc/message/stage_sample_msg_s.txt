@@ -1,7 +1,7 @@
 ﻿--------------- strings=30 language=spanish
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Walter Sullivan hilaren 18an
+	Galder Atutxa hilaren 18an
 	atxilotu zuten, Billy Locane
 	eta bere arreba Miriam-en hilketa
 	bortitzagatik, eta bere buruaz
@@ -9,11 +9,11 @@
 	hilaren 22ko goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
-	Sullivanek zopa-koilara bat sartu
+	Atutxak zopa-koilara bat sartu
 	zuen lepoan, karotida arteria moztuz.
 
 	 Zaindariak aurkitu zuenean,
-	Sullivan odolustuta hil zen,
+	Atutxa odolustuta hil zen,
 	koilara lepoan bost zentimetro
 	arrailduta.
 
@@ -42,11 +42,11 @@ Eh?
 ---------------
 Nola dakizu nire izena?
 ---------------
-Eddie-k esan zidan.
+Edortak esan zidan.
 ---------------
 Ahohandi koipontzi alena...
 ---------------
-Zertaz ezagutzen duzu Mari?
+Zertaz ezagutzen duzu Miren?
 ---------------
 Zergatik axola zaizu hainbeste?
 ---------------
@@ -56,7 +56,7 @@ Errieta egingo al dizazu esaten ez badizut?
 ---------------
 Ez... Ez dut egingo.
 ---------------
-Mariren laguna nintzen...
+Mirenen laguna nintzen...
 ---------------
 Ospitalean ezagutu genuen elkar.
 ---------------
@@ -69,7 +69,7 @@ Laura, ez...
 Tira, ez sinistu!
 ---------------
 Baina iaz,
-	Mari...
+	Miren...
 ---------------
 Sentitzen dut, Laura.
 ---------------

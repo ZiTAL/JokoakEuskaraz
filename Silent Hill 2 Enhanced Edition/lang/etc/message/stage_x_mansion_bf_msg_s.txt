@@ -2,7 +2,7 @@
 ---------------
 Plaka moduko bat dago lurrean.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Amy Baldwin
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Maite Jausoro
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jainkoak gehiegi maitatu zuen.
 	Zazpi urte ez ziren nahikoak.<SEPARATORB>

@@ -34,11 +34,11 @@ Ohar bat dago lurrean.
 ---------------
 <COLOR-GREEN>Sotoko biltegiko giltza<COLOR-WHITE> erabili dut.<SEPARATORB>
 ---------------
-James!
+Jagoba!
 ---------------
-Mari!
+Miren!
 ---------------
-Ah, Mari... Zu zara...
+Ah, Miren... Zu zara...
 	Uste nuen...
 ---------------
 Sentitzen dut...
@@ -107,9 +107,9 @@ Dena zure esku dago.
 ---------------
 Eta gaur, gure zorioneko
 	edo zoritxarreko lehiakidea
-	James da!
+	Jagoba da!
 ---------------
-James Sunderland!
+Jagoba Eguzkiza!
 ---------------
 Prest al zaude "Gozokidxe edo
 	ostidxe"-n jokatzeko?
@@ -164,19 +164,19 @@ Eta orain galdera:
 	ZiTAL hori egin zuen
 	hiltzaileak?
 ---------------
-Bat: Walter Sullivan.
+Bat: Galder Atutxa.
 ---------------
-Bi: Scott Fairbanks.
+Bi: Ekain Goikoetxea.
 ---------------
-Hiru: Eric Gein.
+Hiru: Erik Basañez.
 ---------------
 Eta orain hirugarren eta azken galdera.
 ---------------
 Aintziraren hegoaldean auzo
 	abandonatu bat dago,
-	South Vale izenekoa.
+	Hegoaldeko Harana (South Vale) izenekoa.
 ---------------
-Handik Palevillera joateko,
+Handik Herrizurira (Paleville) joateko,
 	aintziraren ipar-mendebaldeko
 	gune turistikora,
 ---------------
@@ -187,11 +187,11 @@ Bat besterik ez.
 Hirugarren eta azken galdera:
 	Nola du izena kale horrek?
 ---------------
-Bat: Bachman Road.
+Bat: Errekabide Errepidea (Bachman Road).
 ---------------
-Bi: Rendell Street.
+Bi: Orendain Kalea (Rendell Street).
 ---------------
-Hiru: Nathan Avenue.
+Hiru: Nabar Etorbidea (Nathan Avenue).
 ---------------
 Eta honekin amaitzen dira
 	gure galderak.

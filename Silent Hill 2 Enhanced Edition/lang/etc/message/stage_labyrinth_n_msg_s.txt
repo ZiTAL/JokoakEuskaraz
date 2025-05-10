@@ -221,27 +221,27 @@ Ezin izango dut biradera biratu
 ---------------
 Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>Eddie Dombrowski<SEPARATORB>
+<COLOR-BLUE>Edorta Etxeberria<SEPARATORB>
 ---------------
 Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>Angela Orosco<SEPARATORB>
+<COLOR-BLUE>Gotzone Orozko<SEPARATORB>
 ---------------
 Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>James Sunderland<SEPARATORB>
+<COLOR-BLUE>Jagoba Eguzkiza<SEPARATORB>
 ---------------
-Mari?
+Miren?
 ---------------
-Mari...?
+Miren...?
 ---------------
-Mari, ez...
+Miren, ez...
 ---------------
 Zer gertatu zaizu?
 ---------------
 Zergatik...? Zergatik...?
 ---------------
-Mari...
+Miren...
 ---------------
 Dagoeneko gela honetan ez da
 	niretzat ezer geratzen...<SEPARATORB>
@@ -254,7 +254,7 @@ Dagoeneko gela honetan ez da
 ---------------
 Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>Walter Sullivan<SEPARATORB>
+<COLOR-BLUE>Galder Atutxa<SEPARATORB>
 ---------------
 Hilarriko izena marratuegia
 	dago irakurtzeko.<SEPARATORB>

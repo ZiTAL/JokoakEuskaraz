@@ -6,7 +6,7 @@ Botoiari ematen diot,
 Pianoa.
 	Deus arduratzeko.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>James Sunderland jauna:
+<CENTER-PARAGRAPH><COLOR-BLUE>Jagoba Eguzkiza jauna:
 	Utzitako zinta
 	lehen solairuko
 	bulegoan dago.<SEPARATORB>
@@ -56,10 +56,10 @@ Barruan ez dago ezer.<SEPARATORB>
 
 <COLOR-WHITE>Zer da hau...?
 
-312. gela... Mari eta biok
+312. gela... Miren eta biok
 	egon ginena...
 
-Mari, hor al zaude?
+Miren, hor al zaude?
 	Edo agian...
 
 <COLOR-GREEN>Hotelaren mapa (ostalarientzat)
@@ -68,7 +68,7 @@ Mari, hor al zaude?
 <COLOR-GREEN>Hoteleko 312 gelako giltza
 	<COLOR-WHITE>aurkitu dut.
 
-Marik eta biok ostatu hartu
+Mirenek eta biok ostatu hartu
 	genuen gelako giltza da...<SEPARATORB>
 ---------------
 <COLOR-GREEN>Hoteleko mapa bat(langileentzat)
@@ -115,8 +115,8 @@ Izutu egin al zaitut?
 ---------------
 Ba... bai, egia esan bai.
 ---------------
-Mariren bila zara,
-	ezta, James?
+Mirenen bila zara,
+	ezta, Jagoba?
 ---------------
 Lortu al duzu?
 ---------------
@@ -137,9 +137,9 @@ Zer gutun?
 ---------------
 Irakurri nahi al duzu?
 ---------------
-Baina ez esan Racheli, e.
+Baina ez esan Errakeleri, e.
 ---------------
-Nor da Rachel?
+Nor da Errakel?
 ---------------
 Gure erizaina.
 ---------------
@@ -147,7 +147,7 @@ Gutuna bere tiraderatik hartu nuen.
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
 
-	Gutun hau Rachel-i uzten diot,
+	Gutun hau Errakeleri uzten diot,
 	ni joandakoan eman diezaiozun.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Orain oso urrun nago.
@@ -160,7 +160,7 @@ Gutuna bere tiraderatik hartu nuen.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, James-i dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
 	Badakit gorroto duzula uste
 	duzulako ez nauela ondo tratatzen
 	baina, mesedez, eman aukera bat.
@@ -180,13 +180,13 @@ Gutuna bere tiraderatik hartu nuen.
 <CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urebetetzean, Laura.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna,
-	Mari<SEPARATORB>
+	Miren<SEPARATORB>
 ---------------
 Laura... zenbat urte dituzu?
 ---------------
 Mmm... Zortzi urte bete nituen joan den astean.
 ---------------
-Orduan Mari ezin izan zen hil...
+Orduan Miren ezin izan zen hil...
 	duela hiru urte...
 ---------------
 Benetan hemen al dago?
@@ -194,7 +194,7 @@ Benetan hemen al dago?
 Hau al da aipatu duzun
 	leku eder eta lasaia?
 ---------------
-Marik eta biok asko hitz egin
+Mirenek eta biok asko hitz egin
 	genuen Silent Hill-i buruz.
 ---------------
 Bere argazki guztiak ere erakutsi zizkidan.
@@ -205,7 +205,7 @@ Horregatik etorri naiz hona.
 Agian ulertuko duzu
 	beste gutuna irakurtzean...
 ---------------
-Marik... Eh?
+Mirenek... Eh?
 ---------------
 Erori egingo zitzaidan!
 ---------------
@@ -244,7 +244,7 @@ Lata-irekigailua dago
 ---------------
 Pianoa.
 
-Gogoan dut Marik oso gogoko
+Gogoan dut Mirenek oso gogoko
 	zuela pianoa jotzea.
 
 Ez zen oso ona...

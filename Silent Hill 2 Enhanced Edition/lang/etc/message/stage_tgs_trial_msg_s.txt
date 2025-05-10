@@ -2,7 +2,7 @@
 ---------------
 Zerbait idatzita dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Joseph-ek giltza eman zidan.
+<CENTER-PARAGRAPH><COLOR-BLUE>Josebak giltza eman zidan.
 	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
 Laborategiko txabusina.
@@ -11,15 +11,10 @@ Laborategiko txabusina.
 ---------------
 Horman zerbait dago idatzita.<SEPARATORB>
 ---------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira jira jira los números
-	mejor no olvidarlos
-	Por eso los eskriba aquí
-	El otro, mi nombre secreto
-	
-Gira ta bira,
-zenbakiak hobe ez ahaztea
-horregatik eskriba hemen bestea,
-nire izen sekretua<SEPARATORB>
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira
+	hobe ez ahaztea
+	horregatik idatzi hemen bestea,
+	nire izen sekretua<SEPARATORB>
 ---------------
 Kutxa bat dago sarraila askorekin.
 

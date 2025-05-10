@@ -20,7 +20,7 @@
 	izatea, eta zure oroitzapenek
 	betiko irautea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Argitaratzailea: Roger Widmark<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Argitaratzailea: Rober Zabaleta<SEPARATORB>
 ---------------
 Hemen hiriko turismo
 	liburuxka bat dago.<SEPARATORB>
@@ -35,12 +35,12 @@ Ez dut ezer egin.
 ---------------
 Horrela zegoen iritsi nintzenean...
 ---------------
-James... James deitzen naiz.
-	James Sunderland.
+Jagoba... Jagoba deitzen naiz.
+	Jagoba Eguzkiza.
 ---------------
-E, Eddie...
+E, Edorta...
 ---------------
-Eddie... nor da
+Edorta... nor da
 	sukaldean hilda dagoena?
 ---------------
 Ez naiz ni izan.
@@ -84,13 +84,13 @@ Bai, arrazoi duzu. Eta zu zer?
 Egitera etorri naizena amaitu
 	bezain pronto joango naiz.
 ---------------
-Eddie... Kontuz ibili.
+Edorta... Kontuz ibili.
 ---------------
-James, e...
+Jagoba, e...
 ---------------
 E... Gauza bera diotsut.
 ---------------
-Eddie, ondo al zaude?
+Edorta, ondo al zaude?
 ---------------
 Bai, uste dut baietz...
 ---------------

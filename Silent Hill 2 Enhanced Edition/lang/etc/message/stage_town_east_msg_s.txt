@@ -1,7 +1,7 @@
 ﻿--------------- strings=34 language=spanish
 ---------------
 Ez dago arrazoirik itzultzeko.
-	Mariren bila noa...<SEPARATORB>
+	Mirenen bila noa...<SEPARATORB>
 ---------------
 Kalea moztuta dago.
 	Hemendik ezin dut jarraitu.
@@ -37,7 +37,7 @@ Zoritxarrez, gainazala hondatuta dago
 	gauzatze-tresnak gar<HIDDEN-TEXT>bi<HIDDEN-TEXT>tzeko erabiltzen
 	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an horregatik jen<HIDDEN-TEXT>deak dio
+<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an<HIDDEN-TEXT> horregatik jendeak dio
 	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Urtegiaren hondarrak <HIDDEN-TEXT>XXXXXXXXX<HIDDEN-TEXT>
@@ -51,7 +51,7 @@ Zoritxarrez, gainazala hondatuta dago
 	gauzatze-tresnak gar<HIDDEN-TEXT>bi<HIDDEN-TEXT>tzeko erabiltzen
 	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.	
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an horregatik jen<HIDDEN-TEXT>deak dio
+<CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an<HIDDEN-TEXT> horregatik jendeak dio
 	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>	
 ---------------
 Ezin dut ihes egin.
@@ -180,7 +180,7 @@ amesgaiztoetara irekitzen dabil.<SEPARATORB>
 	Orain inor ez da ausartzen
 	leku horretara hurbiltzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi, James,
+<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi, Jagoba,
 	otoitz egingo diot Jaungoikoari
 	zure arimaz betirako erruki dadin.<SEPARATORB>
 ---------------

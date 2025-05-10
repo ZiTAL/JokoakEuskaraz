@@ -15,10 +15,10 @@ Dokumentu moduko bat dago.
 ---------------
 Argazki bat eskegita dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Toluca preso-eremua
+<CENTER-PARAGRAPH><COLOR-BLUE>Toluka preso-eremua
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gerra Zibilean eraikia.
-	Ondoren, Toluca presondegi
+	Ondoren, Toluka presondegi
 	bihurtu zuten.<SEPARATORB>
 ---------------
 Argazki bat eskegita dago.

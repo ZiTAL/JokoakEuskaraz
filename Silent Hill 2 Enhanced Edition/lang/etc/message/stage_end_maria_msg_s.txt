@@ -1,8 +1,8 @@
 ﻿--------------- strings=16 language=spanish
 ---------------
-James, zure zain egon naiz.
+Jagoba, zure zain egon naiz.
 ---------------
-Mari...
+Miren...
 ---------------
 Barkatu atzerapena.
 ---------------
@@ -18,7 +18,7 @@ Hori ez da egia, ezta?
 ---------------
 Ezin zintudan sufritzen ikusi!
 ---------------
-Ez jarri aitzakiarik, James.
+Ez jarri aitzakiarik, Jagoba.
 ---------------
 Badakit zuretzat zama nintzela.
 ---------------
@@ -32,9 +32,9 @@ Hiru urte luze izan ziren...
 	Eta nekatuta nengoen.
 ---------------
 Eta horregatik behar zenuen
-	Mari delako hori?
+	Miren delako hori?
 ---------------
-James, benetan uste al duzu egin zenidana
+Jagoba, benetan uste al duzu egin zenidana
 	barkatuko dizudala?
 ---------------
 Orain ezin naiz itzuli.

@@ -165,11 +165,11 @@ Hasiberria
 ---------------
 Partidaren emaitzak
 ---------------
-<COLOR-WHITE>Mari: Etxeko aretoa
+<COLOR-WHITE>Miren: Etxeko aretoa
 ---------------
-<COLOR-WHITE>Mari: Etxeko ataria
+<COLOR-WHITE>Miren: Etxeko ataria
 ---------------
-<COLOR-WHITE>Mari: Apartamentuak, 1. solairua.
+<COLOR-WHITE>Miren: Apartamentuak, 1. solairua.
 ---------------
 A
 ---------------
@@ -356,9 +356,9 @@ Zero maila
 ---------------
 <COLOR-WHITE>Bolatokia
 ---------------
-<COLOR-WHITE>Heaven 's Night-en kanpoaldea
+<COLOR-WHITE>Zeruko Gaua (Heaven's Night) kanpoaldea
 ---------------
-<COLOR-WHITE>Heaven's Night
+<COLOR-WHITE>Zeruko Gaua (Heaven's Night)
 ---------------
 <COLOR-WHITE>Ospitalea, 1. solairua
 ---------------
@@ -398,7 +398,7 @@ Zero maila
 ---------------
 <COLOR-WHITE>Labirintoa, iparraldea
 ---------------
-<COLOR-WHITE>Liskarra Eddieren aurka
+<COLOR-WHITE>Liskarra Edortaren aurka
 ---------------
 <COLOR-WHITE>Lakua
 ---------------
@@ -422,7 +422,7 @@ Zero maila
 ---------------
 <COLOR-WHITE>Amaiera: Susperraldia
 ---------------
-<COLOR-WHITE>Amaiera: Mari
+<COLOR-WHITE>Amaiera: Miren
 ---------------
 <COLOR-WHITE>Amaiera: Suizidioa
 ---------------
@@ -430,16 +430,16 @@ Zero maila
 ---------------
 <COLOR-WHITE>Amaiera: Txakurra
 ---------------
-<COLOR-WHITE>Mari: Heaven's Night
+<COLOR-WHITE>Miren: Zeruko Gaua (Heaven's Night)
 ---------------
-<COLOR-WHITE>Mari: Hiria
+<COLOR-WHITE>Miren: Hiria
 ---------------
-<COLOR-WHITE>Mari: Etxea handia, 1. solairua.
+<COLOR-WHITE>Miren: Etxea handia, 1. solairua.
 ---------------
-<COLOR-WHITE>Mari: Etxea handia, 2. solairua.
+<COLOR-WHITE>Miren: Etxea handia, 2. solairua.
 ---------------
-<COLOR-WHITE>Mari: Etxea handia, sotoa
+<COLOR-WHITE>Miren: Etxea handia, sotoa
 ---------------
-<COLOR-WHITE>Mari: Apartamentuak
+<COLOR-WHITE>Miren: Apartamentuak
 ---------------
 Azkar gordetzea

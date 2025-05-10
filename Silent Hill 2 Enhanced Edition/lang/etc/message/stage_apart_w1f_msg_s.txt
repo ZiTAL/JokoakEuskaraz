@@ -122,11 +122,11 @@ Zu al zara...
 ---------------
 Bai...
 ---------------
-James naiz.
+Jagoba naiz.
 ---------------
-Angela...
+Gotzone...
 ---------------
-Angela... Ondo da.
+Gotzone... Ondo da.
 ---------------
 Ez dakit zer ari den prestatzen...
 ---------------
@@ -189,7 +189,7 @@ Aurkitu al duzu...
 ---------------
 Oraindik ez.
 ---------------
-Mari du izena. Nire emaztea da...
+Miren du izena. Nire emaztea da...
 ---------------
 Sentitzen dut.
 ---------------
@@ -235,7 +235,7 @@ Sentitzen dut... Gaiztoa izan naiz...
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Erdian bestea arrastaka dabil.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi espazio baino ez dira geratzen,
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi hutsune baino ez dira geratzen,
 	baina oraindik ez izan beldurrik,
 	enigma konponduta dago.
 	Enigma konponduta dago.<SEPARATORB>

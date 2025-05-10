@@ -42,7 +42,7 @@
 ---------------
 <CENTER-PER-LINE>Teilatuaren egunkaria
 ---------------
-<CENTER-PER-LINE>«Zenbakiak buelta bueltaka»
+<CENTER-PER-LINE>«Zenbakiak jira ta bira»
 ---------------
 <CENTER-PER-LINE>«Louise»
 ---------------
@@ -110,9 +110,9 @@
     erabiltzen zuten ur<HIDDEN-TEXT>a beren<HIDDEN-TEXT>
     exekuzio tresnak garbitzeko.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Agian horre<HIDDEN-TEXT>gatik
+<CENTER-PARAGRAPH><COLOR-BLUE>Agian horre<HIDDEN-TEXT>gatik<HIDDEN-TEXT>
     jende askok dio
-    zonal<HIDDEN-TEXT>dean mamuak ikusi dituela.<SEPARATORB>
+    zonal<HIDDEN-TEXT>dean<HIDDEN-TEXT> mamuak ikusi dituela.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>«Etorkizunerako ibilbidea»
 
@@ -141,7 +141,7 @@
 	behar diozu. Garrantzitsuena da
 	zenbat borrokatzen duzun beragatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Ez etsi, edozer gertatuta ere.
+<CENTER-PARAGRAPH><COLOR-BLUE> Ez etsi, datorrena datorrela.
 	Beti eman beste aukera bat.
 	Eta une gogorrak izan
 	arren, ez joan inoiz beste
@@ -204,7 +204,7 @@
 	beti martxan dago.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Walter Sullivan hilaren 18an
+	Galder Atutxa hilaren 18an
 	atxilotu zuten, Billy Locane
 	eta bere arreba Miriamen hilketa
 	bortitzagatik, eta bere buruaz
@@ -212,26 +212,26 @@
 	hilaren 22ko goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren
-	arabera, Sullivanek zopa-koilara
+	arabera, Atutxak zopa-koilara
 	bat sartu zuen lepoan, karotida
 	arteria moztuz.
 
 	 Zaindariak aurkitu zuenean,
-	Sullivan odolustuta zegoen,
+	Atutxa odolustuta zegoen,
 	koilara lepoan bost zentimetro
 	arrailduta zuela.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren
-	arabera, Sullivanek zopa-koilara
+	arabera, Atutxak zopa-koilara
 	bat sartu zuen lepoan, karotida
 	arteria moztuz.
 
 	 Zaindariak aurkitu zuenean,
-	Sullivan odolustuta zegoen,
+	Atutxa odolustuta zegoen,
 	koilara lepoan bost zentimetro
 	arrailduta zuela.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivan-en eskolakide ohi batek,
+<CENTER-PARAGRAPH><COLOR-BLUE> Galder Atutxaren eskolakide ohi batek,
 	Pleasant River bere jaioterri berberekoak,
 	zera adierazi zuen:
 	«Ez zirudien haur bat
@@ -274,7 +274,7 @@ Silent Hill-era!
 	zure egonaldia atsegina izatea
 	eta zure oroitzapenek betiko irautea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Egilea: Roger Widmark<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Egilea: Rober Zabaleta<SEPARATORB>
 ---------------
 ---------------
 <CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
@@ -390,12 +390,12 @@ Silent Hill-era!
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Erdian bestea arrastaka dabil.
 
-<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi espazio baino ez dira geratzen,
+<CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Orain bi hutsune baino ez dira geratzen,
 baina oraindik ez izan beldurrik,
 enigma konponduta dago.
 Enigma konponduta dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Jon Mendabia]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Hiru aldiz saiatu da bere buruaz
 	beste egiten, arrazoi ezezagunengatik.
@@ -405,7 +405,7 @@ Enigma konponduta dago.<SEPARATORB>
 	gertutik zaindu behar da bere
 	bat-bateko joera suizidak direla eta.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joseba Barañain]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Bere gaixotasuna, dirudienez,
 	bere alabaren heriotzaren
@@ -416,7 +416,7 @@ Enigma konponduta dago.<SEPARATORB>
 	lasai egoten da, baina joera
 	bortitzak izaten ditu asaldatzen denean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Josu Koldobika]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ospitalizazioak, eraso ugari,
 	tratu txarrak eta beste
@@ -465,7 +465,7 @@ Enigma konponduta dago.<SEPARATORB>
 
 <COLOR-WHITE>Eskuz idatzitako zerbait gehiago dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Josephek giltza eman zidan.
+<CENTER-PARAGRAPH><COLOR-BLUE>Josebak giltza eman zidan.
 	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Hilabete honetako pin zenbakia T. da
@@ -546,9 +546,9 @@ Enigma konponduta dago.<SEPARATORB>
 	etxera joan behar dudala.
 	Eta<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Buelta ta buelta ta buelta,
-	zenbakiak hobe ez ahaztea
-	horregatik eskriba hemen bestea,
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira,
+	hobe ez ahaztea	horregatik
+	idatzi hemen bestea,
 	nire izen sekretua<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Louise
@@ -573,7 +573,7 @@ Enigma konponduta dago.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+<CENTER-PARAGRAPH><COLOR-BLUE>Alain Rementeria (Jaioteguna eta
 	heriotza ezezagunak)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
@@ -587,7 +587,7 @@ Enigma konponduta dago.<SEPARATORB>
 <CENTER-PARAGRAPH><COLOR-BLUE>Odola ematen dizut
 	Hiru Bekatuak garbitzeko.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Toluca lakua hiriko erakarpen
+<CENTER-PARAGRAPH><COLOR-BLUE> Toluka lakua hiriko erakarpen
 	turistiko nagusia da. Aintzira
 	eder eta garden honek alde
 	ezkutua ere badu.
@@ -623,33 +623,33 @@ Enigma konponduta dago.<SEPARATORB>
 	altxatzen dira, agian
 	bere kamaraden bila.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Thomas <HIDDEN-TEXT> Orosco <HIDDEN-TEXT> 39 urteko
+<CENTER-PARAGRAPH><COLOR-BLUE> Andoni <HIDDEN-TEXT> Orozko <HIDDEN-TEXT> 39 urteko
 	egurgile <HIDDEN-TEXT> gisa <HIDDEN-TEXT> identifikatu
 	zuten <HIDDEN-TEXT> gizon baten <HIDDEN-TEXT> gorpua
 	aurkitu <HIDDEN-TEXT> zuten bere <HIDDEN-TEXT> gelan,
 	ahoz <HIDDEN-TEXT> gora etzanda.<HIDDEN-TEXT>
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Litekeena <HIDDEN-TEXT> da lepoaren
-	aurrealdean <HIDDEN-TEXT> eta ezkerreko
+<CENTER-PARAGRAPH><COLOR-BLUE> Litekeena <HIDDEN-TEXT> da<HIDDEN-TEXT> lepoaren
+	aurrealdean <HIDDEN-TEXT> eta<HIDDEN-TEXT> ezkerreko
 	saihetseko hainbat labankadek
 	heriotza izana, arma zorrotz batek
 	eraginda.
 
-	Heriotza 23:0<HIDDEN-TEXT>0ak eta gauerdia
+	Heriotza 23:0<HIDDEN-TEXT>0ak<HIDDEN-TEXT> eta gauerdia
 	artean gertatu zen.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Logelako borroka zantzuen
 	eta arma hiltzailearen faltaren
 	ondorioz, polizia homizidio
-	baten susmo<HIDDEN-TEXT>pean dago, eta
+	baten susmo<HIDDEN-TEXT>pean<HIDDEN-TEXT> dago, eta
 	hilketagatik ikerketa abiatu du.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Gainera, gelako dirua
 ez zenez ukitu eta
-Oros<HIDDEN-TEXT>co jaunak alkoholismo
+Oros<HIDDEN-TEXT>co<HIDDEN-TEXT> jaunak alkoholismo
 eta indarkeria aurrekariak
-zituenez, poli<HIDDEN-TEXT>ziak susmatzen
-du ez zela <HIDDEN-TEXT> lapurreta izan,
+zituenez, poli<HIDDEN-TEXT>ziak<HIDDEN-TEXT> susmatzen
+du ez zela <HIDDEN-TEXT> la<HIDDEN-TEXT>purreta izan,
 pasi<HIDDEN-TEXT>ozko krime<HIDDEN-TEXT>nena baizik.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Krimen zitala egin zuen.
@@ -821,7 +821,7 @@ Ez zen ez justizia ez zigorra izan.<SEPARATORB>
 	ez da denontzako ezbehar
 	bat baino ez.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>James Sunderland jauna:
+<CENTER-PARAGRAPH><COLOR-BLUE>Jagoba Eguzkiza jauna:
 
 	Bideo-zinta lehen
 	solairuko bulegoan
@@ -884,11 +884,11 @@ ziurt aski hilda egongo naiz.<SEPARATORB>
 	Ihes! Ihes! Ihes!
 	Ihes! Ihes! Ihes!<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Mari ikusi nahi baduzu,
+<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Miren ikusi nahi baduzu,
 	hil egin beharko zenuke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Mari ez dagoen beste
-	leku batean bukatuko duzu, James.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Miren ez dagoen beste
+	leku batean bukatuko duzu, Jagoba.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hemen ZULOA zegoen.
 Orain desagertu da.<SEPARATORB>
@@ -933,7 +933,7 @@ Orain desagertu da.<SEPARATORB>
 	ez da ausartzen leku horretara
 	hurbiltzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi, James,
+<CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi, Jagoba,
 	otoitz egingo diot Jaunari zure betiko
 	arimaz erruki dadin.<SEPARATORB>
 ---------------

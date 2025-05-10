@@ -8,12 +8,7 @@ Hemen aldizkari bat dago.
 Ez dut inoiz ikusi.
 	Tokiko aldizkari bat izango da.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> El lago Toluca es la principal
-	atracción turística de la ciudad.
-	 Este bello y cristalino lago
-	tiene también un lado oculto.
-
- Toluca lakua hiriko erakarpen
+<CENTER-PARAGRAPH><COLOR-BLUE> Toluka lakua hiriko erakarpen
 	turistiko nagusia da. Aintzira
 	eder eta garden honek alde
 	ezkutua ere badu.
@@ -97,7 +92,7 @@ Ba... baina ez zen nire errua izan!
 ---------------
 Behartu ninduen!
 ---------------
-Lasaitu, Eddie.
+Lasaitu, Edorta.
 ---------------
 Kontaidazu zer gertatu den.
 ---------------
@@ -115,7 +110,7 @@ Eta horregatik bakarrik hil al duzu?
 ---------------
 Nola “horregatik bakarrik”?
 ---------------
-Eddie, ezin duzu inor hil
+Edorta, ezin duzu inor hil
 	gaizki begiratzen zaituelako!
 ---------------
 A, ez?! Zergatik ez?
@@ -127,9 +122,9 @@ Txakur tentel hura bezala...
 ---------------
 Berak ere merezi zuen!
 ---------------
-Eddie!
+Edorta!
 ---------------
-Kar, kar... Txantxa zen, James.
+Kar, kar... Txantxa zen, Jagoba.
 ---------------
 Hilda zegoen iritsi
 	naizenerako. Benetan.
@@ -140,7 +135,7 @@ Bakarrik joango al zara?
 ---------------
 Bai.
 ---------------
-Eddie...!
+Edorta...!
 ---------------
 Hemen egunkari bat dago.
 

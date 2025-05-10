@@ -1,6 +1,6 @@
 ﻿--------------- strings=9 language=spanish
 ---------------
-<COLOR-BLUE>Heaven's Night<SEPARATORB>
+<COLOR-BLUE>Zeruko Gaua (Heaven's Night)<SEPARATORB>
 ---------------
 Mahai bat besterik ez da.
 	Ez du ezer arrarorik.<SEPARATORB>

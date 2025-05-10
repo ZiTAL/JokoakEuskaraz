@@ -36,20 +36,20 @@ Ez dit inork barkatuko.
 ---------------
 Aurkitu al duzu emakume hori?
 ---------------
-Nola zuen izena? Mari?
+Nola zuen izena? Miren?
 ---------------
-Eddie?
+Edorta?
 ---------------
 Oh... Zu zinen...
 ---------------
-James.
+Jagoba.
 ---------------
 Apartamentu-eraikinean
 	ezagutu genuen elkar.
 ---------------
 Bai, gogoratzen naiz, baina...
 ---------------
-Bakarrik al zaude, Eddie?
+Bakarrik al zaude, Edorta?
 ---------------
 E, ez...
 ---------------
@@ -57,7 +57,7 @@ Agur!
 ---------------
 Itxoin! Itzuli!
 ---------------
-Eddie! Goazen bere bila!
+Edorta! Goazen bere bila!
 ---------------
 Eh? Lauraren bila? Zergatik...?
 ---------------

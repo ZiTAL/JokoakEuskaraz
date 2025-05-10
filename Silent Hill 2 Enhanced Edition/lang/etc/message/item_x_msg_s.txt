@@ -135,27 +135,27 @@ Irrati eramangarri txikia.
 	Interferentziak sortzen ditu
 	inguruan munstroak daudenean.
 ---------------
-Mariren argazkia
+Mirenen argazkia
 ---------------
 Oraindik osasuntsu zegoeneko argazki bat.
 ---------------
-Mariren gutuna
+Mirenen gutuna
 ---------------
-Gutunazalean Mariren izena agertzen da,
+Gutunazalean Mirenen izena agertzen da,
 	bere letraz idatzia.
 ---------------
 Lauraren gutuna
 ---------------
-Marik ustez Laurari entregatu zion gutuna
+Mirenek ustez Laurari entregatu zion gutuna
 ---------------
 Bideo-zinta
 ---------------
 Duela hiru urte hotelean
 	utzi nuen bideo-zinta.
 ---------------
-Angelaren labana
+Gotzoneren labana
 ---------------
-Angelaren labana.
+Gotzoneren labana.
 	Ez dut arma gisa erabiliko.
 ---------------
 Txakur-giltza
@@ -206,7 +206,7 @@ Teilatuko giltza
 ---------------
 Bulegoen hegaleko teilatuko giltza.
 	Ospitaleko hirugarren solairuko gelan
-	aurkitu nuen, Mariren gelan.
+	aurkitu nuen, Mirenen gelan.
 ---------------
 Zezen morearen giltza
 ---------------
@@ -358,7 +358,7 @@ Metalezko oholtxoa, aurpegi batean
 Ferra
 ---------------
 Ferra metalikoa. Urkamendiko plazako
-	atean zintzilik zegoen.
+	atean eskegita zegoen.
 ---------------
 Txiskeroa
 ---------------
@@ -413,7 +413,7 @@ Pixa koloreko arrautza
 Galeper arrautza baten tamaina du.
 	Piramide Buruak zeukan.
 ---------------
-Arrautza eskarlata
+Gorrimin arrautza
 ---------------
 Galeper arrautza baten tamaina du.
 	Piramide Buruak zeukan.
@@ -474,7 +474,7 @@ Pare bat besterik ez dira geratzen.
 Urtebetetze txartela eta oparia
 ---------------
 Urtebetetze txartel bat eta
-	Amyren opari ireki gabe bat.
+	Maiteren opari ireki gabe bat.
 ---------------
 Likido zuria
 ---------------
@@ -520,7 +520,7 @@ Honela dio: «Zalantza da Purgatoriora
 eramango zaituztena».
 ---------------
 312. gelan hartu genuen ostatu
-	Marik eta biok duela hiru urte.
+	Mirenek eta biok duela hiru urte.
 ---------------
 Etiketan «Silent Hill» jartzen du,
 	nire letraz idatzita dago.
@@ -549,7 +549,7 @@ Gutun-azala hutsik dago.
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
 
-	Gutun hau Racheli
+	Gutun hau Errakeleri
 	uzten diot, ni joandakoan
 	eman diezaiozun.
 
@@ -563,7 +563,7 @@ Gutun-azala hutsik dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jamesi dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
 	Badakit gorroto duzula uste duzulako ez
 	nauela ondo tratatzen, baina,
 	mesedez, eman aukera bat.
@@ -582,7 +582,7 @@ Gutun-azala hutsik dago.
 <CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urtebetzean, Laura.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna,
-	Mari<SEPARATORB>
+	Miren<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Izena bere lurrak lapurtu zizkioten
 	herriaren kondairatik sortzen da.
@@ -691,9 +691,9 @@ Hautsita al dago?
 ---------------
 <COLOR-GREEN>Irratia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Mariren argazkia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Mirenen argazkia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Mariren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Mirenen gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Lauraren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
@@ -752,7 +752,7 @@ Atzealdean arrautza bat ageri da.
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>NIRE AITA MAITEARI:
 ZORIONAK!
-AMY BALDWIN<SEPARATORB>
+MAITE JAUSORO<SEPARATORB>
 ---------------
 Aukerak
 ---------------

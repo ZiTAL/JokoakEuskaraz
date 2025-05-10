@@ -1,15 +1,15 @@
 ﻿--------------- strings=13 language=spanish
 ---------------
-James...
+Jagoba...
 ---------------
-Mari.
+Miren.
 ---------------
 Gurea amaitu da.
 ---------------
 Zer?!
 	Baina... zuk nahi zenuena naiz!
 ---------------
-Mari hilda dago.
+Miren hilda dago.
 	Ez al duzu ulertzen? Ez da itzuliko!
 ---------------
 Baina ni zurea izan naiteke...
@@ -19,13 +19,13 @@ Ez dizut inoiz minik egingo, berak ez bezala!
 ---------------
 Zergatik ez nauzu maite?
 ---------------
-Zu ez zarelako Mari.
+Zu ez zarelako Miren.
 ---------------
-Mari gabe, ezerk ez du zentzurik.
+Miren gabe, ezerk ez du zentzurik.
 ---------------
-Oh, James...
+Oh, Jagoba...
 ---------------
-Bai zera, James!
+Bai zera, Jagoba!
 	Adarra jotzen ari zara.
 ---------------
 Orain ezin naiz itzuli.

@@ -50,7 +50,7 @@ Zain... Zure zain...
 	etxera itzultzeaz.
 	Zure falta neukan.
 ---------------
-<TEXT-POS-026>Baina beldur naiz, James.
+<TEXT-POS-026>Baina beldur naiz, Jagoba.
 	Beldur naiz ez ote duzun
 	benetan nahi etxera itzultzea.
 ---------------
@@ -68,12 +68,12 @@ Zain... Zure zain...
 ---------------
 <TEXT-POS-042>Etengabe haserre nengoen
 	eta nire pertsona maiteenei
-	erasotzen nien. Batez ere zuri, James.
+	erasotzen nien. Batez ere zuri, Jagoba.
 ---------------
 <TEXT-POS-092>Horregatik ulertuko nuke ni gorrotatzea.
 ---------------
 <TEXT-POS-080>Baina gauza bat jakin dezazun
-	nahi dut, James...
+	nahi dut, Jagoba...
 ---------------
 <TEXT-POS-178>Urteak pasatuko dira,
 	baina beti maitatuko zaitut.
@@ -106,8 +106,8 @@ Zain... Zure zain...
 ---------------
 <TEXT-POS-102>Horregatik, orain
 	zure bizitza bizitzea nahi dut.
-	Egin zuretzat onena, James.
+	Egin zuretzat onena, Jagoba.
 ---------------
-<TEXT-POS-160>James...
+<TEXT-POS-160>Jagoba...
 ---------------
 <TEXT-POS-120>Oso zoriontsu egin nauzu.

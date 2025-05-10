@@ -39,7 +39,7 @@ Izenburua “Izaki Gorriminaren zeremonia” da.
 <COLOR-GREEN>“Izaki Gorriminaren zeremonia”
 	<COLOR-WHITE>izeneko liburua aurkitu dut.<SEPARATORB>
 ---------------
-Mari hil egingo dela...?
+Miren hil egingo dela...?
 	Eh... Txantxa izan behar du...
 ---------------
 Benetan sentitzen dut.

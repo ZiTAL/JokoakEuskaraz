@@ -1,6 +1,6 @@
 ﻿--------------- strings=29 language=spanish
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Gerora Thomas Orosco egurgile gisa
+<CENTER-PARAGRAPH><COLOR-BLUE>Gerora Andoni Orozko egurgile gisa
 identifikatu zuten gizon baten go<HIDDEN-TEXT>rp<HIDDEN-TEXT>ua
 39 ur<HIDDEN-TEXT>te<HIDDEN-TEXT>koa, ahoz gora etzanda
 aur<HIDDEN-TEXT>ki<HIDDEN-TEXT>tu zuten bere gelan.
@@ -41,7 +41,7 @@ Ez, aita! Ez, mesedez!
 ---------------
 Ondo al zaude?
 ---------------
-Angela! Lasai.
+Gotzone! Lasai.
 ---------------
 Ez eman agindurik!
 ---------------
@@ -70,13 +70,13 @@ Gainera, zeure buruan
 ---------------
 Txerri zikina...
 ---------------
-Angela...
+Gotzone...
 ---------------
 Ez nazazu ukitu!
 ---------------
 Botaka egiteko gogoa dut!
 ---------------
-Mari bere emaztea hilda
+Miren bere emaztea hilda
 	zegoela esan zuen, ezta?
 ---------------
 Bai, gaixorik zegoen...

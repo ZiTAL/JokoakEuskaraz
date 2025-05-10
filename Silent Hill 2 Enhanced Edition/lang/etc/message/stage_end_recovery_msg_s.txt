@@ -1,14 +1,14 @@
 ﻿--------------- strings=30 language=spanish
 ---------------
-Mari?
+Miren?
 ---------------
 Noiz utziko diozu
 	akats bera egiteari?
 ---------------
-Mari hilda dago.
+Miren hilda dago.
 	Zuk hil zenuen.
 ---------------
-Maria...?
+Miren...?
 ---------------
 Zu zara...
 	Baina jada ez zaitut behar.
@@ -24,7 +24,7 @@ Eta ez dizut inoiz oihukatuko
 ---------------
 Hori da nahi zenuena!
 ---------------
-Ez naiz Mari bezalakoa...
+Ez naiz Miren bezalakoa...
 	Nola esango didazu ezetz?
 ---------------
 Orain ulertzen dut.
@@ -34,15 +34,15 @@ Amesgaizto honi amaiera
 ---------------
 Ez! Ez dizut utziko!
 ---------------
-Zuk ere hiltzea merezi duzu, James.
+Zuk ere hiltzea merezi duzu, Jagoba.
 ---------------
-Mari...?
+Miren...?
 ---------------
-James...
+Jagoba...
 ---------------
 Barkatu...
 ---------------
-Esan nizun hil egin nahi nuela, James.
+Esan nizun hil egin nahi nuela, Jagoba.
 ---------------
 Mina gelditzea nahi nuen.
 ---------------
@@ -59,12 +59,12 @@ Egia esan, gorroto zintudan.
 ---------------
 Nire bizitza berreskuratu nahi nuen...
 ---------------
-James... Hori egia bada,
+Jagoba... Hori egia bada,
 	zergatik zaude goibel?
 ---------------
-Mari...?
+Miren...?
 ---------------
-James...
+Jagoba...
 ---------------
 Mesedez...
 	Mesedez, egizu zerbait nigatik.

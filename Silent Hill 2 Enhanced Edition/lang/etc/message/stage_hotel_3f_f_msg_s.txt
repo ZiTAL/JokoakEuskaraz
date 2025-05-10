@@ -30,20 +30,20 @@ Uste dut ulertzen dudala zergatik.
 Lastima joan beharra...
 ---------------
 Mesedez, agindu berriro
-	etorriko garela, James...
+	etorriko garela, Jagoba...
 ---------------
-Mari...
+Miren...
 ---------------
-Azkenean aurkituko zaitut, James.
+Azkenean aurkituko zaitut, Jagoba.
 ---------------
 Gutuna al daukazu?
-	Aurkitu al duzu Mari?
+	Aurkitu al duzu Miren?
 ---------------
 Bestela, martxan jar gaitezen.
 ---------------
 Konforme?
 ---------------
-Mari joan da.
+Miren joan da.
 ---------------
 Hilda dago.
 ---------------
@@ -70,7 +70,7 @@ Itzultzea nahi dut!
 Banekien!
 	Ez zitzaizun batere axola!
 ---------------
-Gorroto zaitut, James!
+Gorroto zaitut, Jagoba!
 	Gorroto zaitut!
 	Gorroto zaitut!
 	Gorroto zaitut!
@@ -80,11 +80,11 @@ Beti egon da zure zain...
 ---------------
 Sentitzen dut...
 ---------------
-Ezagutzen duzun Mari ez dago hemen.
+Ezagutzen duzun Miren ez dago hemen.
 ---------------
 Laura, sentitzen dut.
 ---------------
-James...
+Jagoba...
 	Non zaude?
 ---------------
 Zain...
@@ -104,17 +104,17 @@ Galduta zaude ala?
 ---------------
 Gertu nago.
 	Hemendik gertu
-	itxarongo zaitut, James.
+	itxarongo zaitut, Jagoba.
 ---------------
 Mesedez.
-	Ikusi nahi zaitut, James.
+	Ikusi nahi zaitut, Jagoba.
 ---------------
 Entzuten al nauzu?
 ---------------
-James...
-	Mesedez, James...
+Jagoba...
+	Mesedez, Jagoba...
 ---------------
-James... James... James...?
+Jagoba... Jagoba... Jagoba...?
 ---------------
 Hemen telebista bat dago.
 	Entxufatuta ere,
@@ -144,6 +144,6 @@ Zertaz ari zara...?
 Berdin dio, entzun...
 ---------------
 Ikusi al duzu nire emaztea...?
-	Mari du izena.
+	Miren du izena.
 ---------------
 Aaarrggghhhh!!!

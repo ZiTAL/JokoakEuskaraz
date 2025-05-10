@@ -1,13 +1,13 @@
 ﻿--------------- strings=10 language=spanish
 ---------------
-Mari... ziur al zaude
+Miren... ziur al zaude
 	hiri honetan zaudela?
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Mari ikusi nahi baduzu,
+<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Miren ikusi nahi baduzu,
 	hil egin beharko zenuke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Mari ez dagoen
-	beste leku batean bukatuko duzu, James.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Miren ez dagoen
+	beste leku batean bukatuko duzu, Jagoba.<SEPARATORB>
 	 
 ---------------
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hemen ZULO bat zegoen.
@@ -19,11 +19,11 @@ Hemen mapa bat dago.<SEPARATORB>
 ---------------
 Ohar bat dago sofa gainean.
 
-<COLOR-BLUE>Neely-ren tabernan itxarongo zaitut.<SEPARATORB>
+<COLOR-BLUE>Nikolaren Tabernan (Neely's Bar) itxarongo zaitut.<SEPARATORB>
 ---------------
 Hemen mapa bat dago.<SEPARATORB>
 ---------------
-Zer da Martin Street-en amaieran
+Zer da Martin Kalean (Martin Street) amaieran
 	dagoen sinbolo hori?<SEPARATORB>
 ---------------
 Nire mapan kopiatu dut.<SEPARATORB>

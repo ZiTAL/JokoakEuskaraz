@@ -10,14 +10,14 @@ Kableek ez didate pasatzen uzten.<SEPARATORB>
 ---------------
 Bizirik zaude!
 ---------------
-Mari... gauza horrek hil
+Miren... gauza horrek hil
 	zintuela uste nuen...!
 ---------------
 Zaurituta al zaude?
 ---------------
 Inola ere ez, tontolapiko.
 ---------------
-Mari...?
+Miren...?
 ---------------
 Gauza horrek... sastakatu zaitu!
 	Odola zegoen nonahi!
@@ -28,12 +28,12 @@ Sastakatu?
 Igogailuraino jarraitu gintuen!
 	Eta orduan...!
 ---------------
-James, zertaz ari zara?
+Jagoba, zertaz ari zara?
 ---------------
 Duela gutxi!
 	Ez al zara gogoratzen?
 ---------------
-James, maitea...
+Jagoba, maitea...
 	Zerbait gertatu zaizu?
 ---------------
 Korridore luze hartan
@@ -47,7 +47,7 @@ Beti izan zara despistatua...
 Gogoan izan orduko
 	hura hotelean...
 ---------------
-Mari...?
+Miren...?
 ---------------
 Dena eraman duzula esan duzu...
 ---------------
@@ -58,11 +58,11 @@ Ez dakit hor jarraituko duen...
 ---------------
 Nola dakizu hori guztia?
 ---------------
-Ez al zara Mari?
+Ez al zara Miren?
 ---------------
-Ez naiz zure Mari.
+Ez naiz zure Miren.
 ---------------
-Orduan, Mari zara?
+Orduan, Miren zara?
 ---------------
 Bai... Hala nahi izanez gero.
 ---------------
@@ -71,7 +71,7 @@ Erantzun bat besterik
 ---------------
 Berdin dio nor naizen...
 ---------------
-Zuretzat nago hemen, James.
+Zuretzat nago hemen, Jagoba.
 ---------------
 Ikusten? Benetakoa naiz.
 ---------------

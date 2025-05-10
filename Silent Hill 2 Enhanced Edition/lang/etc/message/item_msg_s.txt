@@ -121,18 +121,13 @@ Irrati eramangarri txikia.
 	Interferentziak sortzen ditu inguruan
 	munstroak daudenean.
 ---------------
-Mariren argazkia
+Mirenen argazkia
 ---------------
 Oraindik osasuntsu zegoeneko argazkia.
 ---------------
-Carta de Mary
+Mirenen gutuna
 ---------------
-En el sobre aparece el nombre de Mary
-	escrito de su puño y letra.
----------------
-Mariren gutuna
----------------
-Marik, ustez, Laurari
+Mirenek, ustez, Laurari
 	eman zion gutuna.
 ---------------
 Bideo-zinta
@@ -140,9 +135,9 @@ Bideo-zinta
 Duela hiru urte hotelean utzi nuen
 	bideo-zinta.
 ---------------
-Angelaren labana
+Gotzoneren labana
 ---------------
-Angelaren labana.
+Gotzoneren labana.
 	Ez dut arma gisa erabiliko.
 ---------------
 Txakur-giltza
@@ -195,7 +190,7 @@ Teilatuko giltza
 ---------------
 Bulegoen hegaleko teilatuko giltza.
 	Ospitaleko hirugarren solairuko gelan
-	aurkitu nuen, Mariren gelan.
+	aurkitu nuen, Mirenen gelan.
 ---------------
 Zezen morearen giltza
 ---------------
@@ -347,7 +342,7 @@ Metalezko oholtxoa, aurpegi batean
 Ferra
 ---------------
 Ferra metalikoa. Urkamendiko
-	plazako atean zintzilik zegoen.
+	plazako atean eskegita zegoen.
 ---------------
 Txiskeroa
 ---------------
@@ -401,7 +396,7 @@ Pixa koloreko arrautza
 Galeper arrautza baten tamaina du.
 	Piramide Buruak zeukan.
 ---------------
-Eskarlata arrautza
+Gorrimin arrautza
 ---------------
 Galeper arrautza baten tamaina du.
 	Piramide Buruak zeukan.
@@ -462,7 +457,7 @@ Honela dio: «Iparraldeko eskailera».
 Honela dio: «Zalantza da Purgatoriora
 	eramango zaituztena».
 ---------------
-Mari eta biok duela hiru urte
+Miren eta biok duela hiru urte
 	312. gelan hartu genuen ostatu.
 ---------------
 Etiketak «Silent Hill»
@@ -492,7 +487,7 @@ Gutun-azala hutsik dago.
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
 
-	Gutun hau Racheli uzten diot,
+	Gutun hau Errakeleri uzten diot,
 	ni joandakoan eman diezazun.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Orain oso urrun nago.
@@ -505,7 +500,7 @@ Gutun-azala hutsik dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jamesi dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
 	Badakit gorroto duzula uste
 	duzulako ez nauela ondo tratatzen,
 	baina, mesedez, eman aukera bat.
@@ -524,7 +519,7 @@ Gutun-azala hutsik dago.
 <CENTER-PARAGRAPH><COLOR-BLUE>Zorionak, Laura zure 8. urtebetzeagatik.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna, 
-	Mari<SEPARATORB>
+	Miren<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Izena bere lurrak lapurtu zizkioten
 	herriaren kondairatik sortzen da.
@@ -563,7 +558,7 @@ Gutun-azala hutsik dago.
 	Bai, eta bera ni naiz.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Fededunak, entzun!
-	Lareun gizon eta zazpi
+	Larehun gizon eta zazpi
 	mila piztia. Entzun hitz
 	hauek eta kontatu besteei
 	beti obedituak izan daitezen,
@@ -634,13 +629,13 @@ Hautsita al dago?
 ---------------
 <COLOR-GREEN>Irratia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Mariren argazkia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Mirenen argazkia<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Mariren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Mirenen gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Lauraren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Angelaren labana<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Gotzoneren labana<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Azterketa gelako giltza<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------

@@ -61,18 +61,18 @@ Zu eta biok... erotuta.
 Pozik al zaude?
 	Bakean utziko al nauzu orain?
 ---------------
-Nire izena... Mari da.
+Nire izena... Miren da.
 	Zein da zure izena?
 ---------------
-Ernest.
+Eneko.
 ---------------
 Hemingway?
 ---------------
 Baldwin.
 ---------------
-Ernest... Itzuliko naiz.
+Eneko... Itzuliko naiz.
 ---------------
-Ernest, hor al zaude?
+Eneko, hor al zaude?
 ---------------
 Ez, badirudi ezetz...
 ---------------
@@ -91,7 +91,7 @@ Urtebetetze txartela al da?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>AITA MAITEA:
 	ZORIONAK!
-	AMY BALDWIN<SEPARATORB>
+	MAITE JAUSORO<SEPARATORB>
 ---------------
 <COLOR-GREEN>Urtebetetze txartela eta oparia<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
 ---------------

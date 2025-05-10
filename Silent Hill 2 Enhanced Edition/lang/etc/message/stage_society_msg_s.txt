@@ -6,7 +6,7 @@ Deskribapena besterik ez da geratzen.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+<CENTER-PARAGRAPH><COLOR-BLUE>Alain Rementeria (Jaioteguna eta
 	heriotza ezezagunak)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
@@ -18,7 +18,7 @@ Deskribapena besterik ez da geratzen.
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+<CENTER-PARAGRAPH><COLOR-BLUE>Alain Rementeria (Jaioteguna eta
 	heriotza ezezagunak)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
@@ -54,7 +54,7 @@ Hay una foto de un hoyo
 ---------------
 Argazki bat dago eskegita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Brookhaven ospitalea (1880)
+<CENTER-PARAGRAPH><COLOR-BLUE>Errekondo ospitalea (Brookhaven hospital) (1880)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ospitale hau etorkin talde
 	batek eraiki zuen izurrite
@@ -67,6 +67,6 @@ Argazki bat dago eskegita.
 Zulo sakon baten argazkia dago.
 	Zer izan liteke...?<SEPARATORB>
 ---------------
-Brookhaven Ospitale zaharreko
+Errekondo ospitalaren (Brookhaven hospital)
 	zuzendariaren argazki bat.
 	Badirudi hemen ospetsua zela.<SEPARATORB>

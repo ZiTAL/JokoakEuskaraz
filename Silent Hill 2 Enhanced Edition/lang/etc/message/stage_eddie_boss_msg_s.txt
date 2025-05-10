@@ -2,7 +2,7 @@
 ---------------
 Atea ez da irekitzen!<SEPARATORB>
 ---------------
-Eddie! Zertan ari zara?
+Edorta! Zertan ari zara?
 ---------------
 Eta zuk zer uste duzu?
 ---------------
@@ -35,11 +35,11 @@ Gaurtik aurrera, norbaitek
 ---------------
 Akatuko dut. Erraz.
 ---------------
-Eddie, zoratu al zara?
+Edorta, zoratu al zara?
 ---------------
 Banekien. Beste bat.
 ---------------
-Besteak bezalakoa zara, James.
+Besteak bezalakoa zara, Jagoba.
 ---------------
 Aizu, ez nuen iraindu nahi...
 ---------------
@@ -50,9 +50,9 @@ Denbora hau guztia daramazu
 ---------------
 Ezagutu ginetetik.
 ---------------
-Zoaz popatik hartzera, James!
+Zoaz popatik hartzera, Jagoba!
 ---------------
-James, badakizu sentimendu hori... James?
+Jagoba, badakizu sentimendu hori... Jagoba?
 ---------------
 Gorrotatzen zituztenean...
 	Puteatzen zituztenean...
@@ -84,9 +84,9 @@ Kosta egingo zaio futbolean jokatzea
 ---------------
 Uste al duzu ondo dagoela jendea hiltzea?
 ---------------
-Laguntza behar duzu, Eddie!
+Laguntza behar duzu, Edorta!
 ---------------
-Ez izan ogi puska, James.
+Ez izan ogi puska, Jagoba.
 ---------------
 Hiri honek zuri
 	ere deitu dizu.
@@ -98,16 +98,16 @@ Ez zenekien?
 ---------------
 Goazen dantzatzera!
 ---------------
-Eddie?
+Edorta?
 ---------------
-Eddie...!?
+Edorta...!?
 ---------------
 Hara... Gizaki bat...
 	hil dut...
 ---------------
 Gizaki bat...
 ---------------
-Mari... benetan duela 3
+Miren... benetan duela 3
 	urte hil zinela...?
 ---------------
-Eddie...
+Edorta...

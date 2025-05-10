@@ -94,13 +94,13 @@ Zer da gutun hori?
 ---------------
 Axola zaizun ezer ez.
 ---------------
-Zuk ez zenuen Mari maite!
+Zuk ez zenuen Miren maite!
 ---------------
 Itxoin!
 ---------------
-Nola dakizu Mariren izena?
+Nola dakizu Mirenen izena?
 ---------------
-Mari?
+Miren?
 ---------------
 Ez... Ez zara zu.
 ---------------
@@ -116,22 +116,22 @@ Bere ahizpa bikia izan zintezke.
 Zure ilea eta arropa
 	bakarrik dira desberdinak.
 ---------------
-Nire izena... Mari da.
+Nire izena... Miren da.
 ---------------
 Ez dut mamu itxurarik.
 	Ala bai?
 ---------------
 Ikusten? Bero-bero nago.
 ---------------
-Benetan ez zarela Mari?
+Benetan ez zarela Miren?
 ---------------
-Esan dizut... Mari naiz.
+Esan dizut... Miren naiz.
 ---------------
 Barkatu, nahastu egin naiz.
 ---------------
 Nora zoaz?
 ---------------
-Mariren bila nabil.
+Mirenen bila nabil.
 	Ikusi al duzu?
 ---------------
 Ez al duzu esan hilda zegoela?
@@ -159,7 +159,7 @@ Beno, uste dut hotela
 Aintzirako hotela...
 	Ez dakit martxan jarraituko duen.
 ---------------
-Lakeview hotela?
+Aintzirabista Hotela (Lakeview Hotel)?
 	Bai, hor dago.
 ---------------
 Beraz, hotela zen zuen
@@ -186,7 +186,7 @@ Ez, ez, baina...
 Bakarrik nago.
 	Hemen ez dago inor.
 ---------------
-Mariren antza dut, ezta?
+Mirenen antza dut, ezta?
 	Zuk maite zenuen, ezta?
 ---------------
 Edo agian gorroto zenuen...
@@ -233,20 +233,20 @@ Hortik!
 	etxolatik hartu dut.<SEPARATORB>
 ---------------
 Hemen ez dago zereginik.
-	Uste dut Mariren bila itzuliko naizela...<SEPARATORB>
+	Uste dut Mirenen bila itzuliko naizela...<SEPARATORB>
 ---------------
-Mari berriz hil al duzu?
+Miren berriz hil al duzu?
 ---------------
-Hori ez zen Mari.
-	Mari hilda dago.
+Hori ez zen Miren.
+	Miren hilda dago.
 ---------------
 Hori zera, zen...
 ---------------
-Mari?
+Miren?
 ---------------
-Mari.
+Miren.
 ---------------
-Zer, James?
+Zer, Jagoba?
 ---------------
 Zera nahi dut...
 	Nirekin egotea...
@@ -255,7 +255,7 @@ Ziur al zaude?
 ---------------
 Goazen. Goazen hemendik.
 ---------------
-Eta Mari, zer?
+Eta Miren, zer?
 ---------------
 Ez kezkatu,
 	zurekin nago.
@@ -264,7 +264,7 @@ Laura aurkitu behar dut.
 	Ezin dut bakarrik utzi.
 
 Gainera... Agian zerbait esan
-	diezadake Mariri buruz.<SEPARATORB>
+	diezadake Mireneri buruz.<SEPARATORB>
 ---------------
 Horma normal bat.
 	Marrazkiak ume batek
@@ -279,9 +279,9 @@ Barruan ez dago ezer.<SEPARATORB>
 ---------------
 Hemen mapa bat dago.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Lakeview hotela<SEPARATORB>
+<COLOR-BLUE>Aintzirabista Hotela (Lakeview Hotel)<SEPARATORB>
 ---------------
-Mari hilda dago.
+Miren hilda dago.
 	Ezin izan nuen babestu.
 ---------------
 Berriro ere,
@@ -289,7 +289,7 @@ Berriro ere,
 ---------------
 Laura norabait joan da.
 ---------------
-Mari...
+Miren...
 	Zer egin beharko nuke?
 ---------------
 Benetan...
@@ -297,7 +297,7 @@ Benetan...
 ---------------
 Edo hau da zure modua...
 ---------------
-Mariren bila noa...
+Mirenen bila noa...
 	Hori da geratzen zaidan
 	itxaropen bakarra.
 ---------------
@@ -306,17 +306,17 @@ Mariren bila noa...
 Zubi hau hondatuta dago.
 	Ezin naiz hotelera iritsi hemendik...<SEPARATORB>
 ---------------
-<COLOR-BLUE>Heaven's Night<SEPARATORB>
+<COLOR-BLUE>Zeruko Gaua (Heaven's Night)<SEPARATORB>
 ---------------
-<COLOR-BLUE>Jack hotela<SEPARATORB>
+<COLOR-BLUE>Jon hotela<SEPARATORB>
 ---------------
-<COLOR-BLUE>Pete-ren bolatokia<SEPARATORB>
+<COLOR-BLUE>Keparen bolatokia<SEPARATORB>
 ---------------
 Lakuko jolas-parkerako eta
-	Lakeview hotelerako txalupak<SEPARATORB>
+	Aintzirabista Hotelarako (Lakeview Hotel) txalupak<SEPARATORB>
 ---------------
 Daukadan mapan kopiatu dut.<SEPARATORB>
 ---------------
 Beraz, hau da parkea...
 ---------------
-Mari... Hemen al zaude?
+Miren... Hemen al zaude?

@@ -1,5 +1,5 @@
 ﻿--------------- strings=2 language=spanish
 ---------------
-James...
+Jagoba...
 ---------------
 <TEXT-POS-120>Oso zoriontsu egin nauzu.

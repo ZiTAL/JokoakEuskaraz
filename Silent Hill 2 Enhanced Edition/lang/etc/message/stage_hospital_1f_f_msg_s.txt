@@ -1,11 +1,11 @@
 ﻿--------------- strings=49 language=spanish
 ---------------
-Mari eta Laura hemen daude oraindik.
+Miren eta Laura hemen daude oraindik.
 	Ezin ditut alde batera utzi.<SEPARATORB>
 ---------------
 Hemen txartel moduko bat dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Jon Mendabia]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Hiru aldiz saiatu da
 bere buruaz beste egiten,
@@ -16,7 +16,7 @@ izan ohi den arren, gertutik zaindu
 behar da bere bat-bateko joera
 suizidak direla eta.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joseba Barañain]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Bere gaixotasuna, dirudienez,
 bere burua alabaren heriotzaren
@@ -30,7 +30,7 @@ Normalean lasai egoten da,
 baina joera bortitzak izaten
 ditu asaldatzen denean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Josu Koldobika]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ospitalizazioak, erasoak ugari,
 	tratu txarrak eta beste
@@ -84,7 +84,7 @@ Zerbait idatzita dago.<SEPARATORB>
 
 <COLOR-WHITE>Eskuz idatzitako zerbait gehiago dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Joseph-ek giltza eman zidan.
+<CENTER-PARAGRAPH><COLOR-BLUE>Josebak giltza eman zidan.
 	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Hilabete honetako pin zenbakia T. da
@@ -122,11 +122,11 @@ Eh?
 ---------------
 Nola dakizu nire izena?
 ---------------
-Eddie-k esan zidan.
+Edorta-k esan zidan.
 ---------------
 Ahohandi alua...
 ---------------
-Nondik ezagutzen duzu Mari?
+Nondik ezagutzen duzu Miren?
 ---------------
 Zergatik axola zaizu hainbeste?
 ---------------
@@ -137,7 +137,7 @@ Haserretuko al zara esaten ez badizut?
 No... No lo haré.
 Ez... Ez naiz haserretuko.
 ---------------
-Mariren laguna nintzen...
+Mirenen laguna nintzen...
 ---------------
 Ospitalean ezagutu genuen elkar.
 ---------------
@@ -150,7 +150,7 @@ Laura, ez...
 Tira, ba ez sinistu!
 ---------------
 Baina iaz,
-	Mari dagoeneko...
+	Miren dagoeneko...
 ---------------
 Sentitzen dut, Laura.
 ---------------

@@ -14,18 +14,18 @@ Ez dut behar.
 <COLOR-GREEN>Pixa koloreko arrautza bat
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Arrautza eskarlata<COLOR-WHITE> aurkitu dut.<SEPARATORB>
+<COLOR-GREEN>Gorrimin arrautza<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Txiza koloreko arrautza
 	<COLOR-WHITE> jarri dut atean.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Arrautza eskarlata<COLOR-WHITE>
+<COLOR-GREEN>Gorrimin arrautza<COLOR-WHITE>
 	<COLOR-WHITE> jarri dut atean.<SEPARATORB>
 ---------------
 Piramide burua ez da mugitzen.
 	Ez naiz gehiago kezkatu behar.<SEPARATORB>
 ---------------
-James!
+Jagoba!
 ---------------
 Aski da!
 	Utzi bakean!
@@ -45,7 +45,7 @@ Egia osoa dakit...
 	Honi guztiari amaiera
 	emateko unea iritsi da.
 ---------------
-Zer nahi duzu, James?
+Zer nahi duzu, Jagoba?
 ---------------
 Eh... Loreak ekarri dizkizut...
 ---------------
@@ -54,7 +54,7 @@ Loreak?
 ---------------
 Zoaz etxera!
 ---------------
-Mari, zer diozu?
+Miren, zer diozu?
 ---------------
 Begiratu niri! Nazkagarria naiz!
 	Ez dut lorerik merezi.
@@ -87,7 +87,7 @@ Joateko esan dizut
 ---------------
 Eta ez itzuli!
 ---------------
-James...
+Jagoba...
 	Itxaron...
 ---------------
 Mesedez, ez zaitez joan...
@@ -97,7 +97,7 @@ Geratu nirekin.
 ---------------
 Ez nuen benetan esan.
 ---------------
-Mesedez, James...
+Mesedez, Jagoba...
 ---------------
 Esadazu dena ondo joango dela.
 ---------------

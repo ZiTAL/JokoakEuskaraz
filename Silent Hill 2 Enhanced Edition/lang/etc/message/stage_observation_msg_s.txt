@@ -20,7 +20,7 @@ Ez dago ezer bidaiarien
 Mapa gidariaren
 	eserlekuan dago.<SEPARATORB>
 ---------------
-Mari... benetan hiri
+Miren... benetan hiri
 	honetan zaudela?
 ---------------
 Amesgaiztoetan ikusten dut
@@ -42,7 +42,7 @@ Zain... Zure zain...
 Me llegó una carta.
 Gutun bat iritsi zitzaidan.
 ---------------
-Gutunazalak "Mari" zeukan idatzita.
+Gutunazalak "Miren" zeukan idatzita.
 ---------------
 Nire emaztearen izena...
 ---------------
@@ -55,7 +55,7 @@ Behin eta berriz
 Hildakoek ezin dute
 	gutunik idatzi.
 ---------------
-Mari gaixotasun madarikatu harengatik
+Miren gaixotasun madarikatu harengatik
 	hil zen duela hiru urte.
 ---------------
 Orduan, zergatik
@@ -73,7 +73,7 @@ Lakuaren ondoko parke
 Han ematen dugu egun osoa.
 	Biok bakarrik, urari begira.
 ---------------
-Mari han al dago benetan?
+Miren han al dago benetan?
 ---------------
 Benetan bizirik al dago...
 	nire zain?

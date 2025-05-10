@@ -6,14 +6,14 @@ Leku hau ez da batere
 <COLOR-GREEN>Sirenatxoaren musika-kaxa
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Mari...
+Miren...
 ---------------
 Hain... lasaia dirudizu...
 	Barkatu esnatu izana.
 ---------------
 Baina zu gabe, ezerk ez du zentzurik.
 ---------------
-Ezin naiz zu gabe bizi, Mari.
+Ezin naiz zu gabe bizi, Miren.
 ---------------
 Hiri hau, Silent Hill...
 ---------------
@@ -26,7 +26,7 @@ eta oraindik ere boterea
 Heriotzari ere aurre
 	egiten dion boterea...
 ---------------
-Ah... Mari...
+Ah... Miren...
 ---------------
 <COLOR-BLUE>OHARRA:
 	SARTZEA DEBEKATUTA<SEPARATORB>

@@ -4,7 +4,7 @@ Zer da hau...?
 Txutxumutxuen aldizkari bat, ezta?
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Walter Sullivan hilaren 18an
+	Galder Atutxa hilaren 18an
 	atxilotu zuten, Billy Locane
 	eta bere arreba Miriamen
 	hilketa bortitzagatik, eta
@@ -13,16 +13,16 @@ Txutxumutxuen aldizkari bat, ezta?
 	goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
-	Sullivanek zopa-koilara bat sartu
+	Atutxak zopa-koilara bat sartu
 	zuen lepoan, karotida arteria
 	moztuz.
 
 	 Zaindariak aurkitu zuenean,
-	Sullivan odolustuta hil zen,
+	Atutxa odolustuta hil zen,
 	koilara lepoan bost zentimetro
 	arrailduta zuela.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivan-en eskolakide
+<CENTER-PARAGRAPH><COLOR-BLUE> Galder Atutxaren eskolakide
 	ohi batek, Pleasant River
 	bere jaioterrikoak, zera
 	adierazi zuen: «Ez zirudien
@@ -43,7 +43,7 @@ Txutxumutxuen aldizkari bat, ezta?
 	uste dut burutik pitzatuta zegoela».<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Walter Sullivan hilaren 18an
+	Galder Atutxa hilaren 18an
 	atxilotu zuten, Billy Locane
 	eta bere arreba Miriamen
 	hilketa bortitzagatik, eta
@@ -52,14 +52,14 @@ Txutxumutxuen aldizkari bat, ezta?
 	goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren arabera,
-	Sullivanek zopa-koilara bat sartu
+	Atutxak zopa-koilara bat sartu
 	zuen lepoan, karotida arteria
 	moztuz. Zaindariak aurkitu zuenean,
-	Sullivan odolustuta hil zen,
+	Atutxa odolustuta hil zen,
 	eta koilara 5 cm arrailduta
 	zeukan lepoan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivanen eskolakide ohi
+<CENTER-PARAGRAPH><COLOR-BLUE> Galder Atutxaren eskolakide ohi
 	batek, Pleasant River bere
 	jaioterrikoak, zera adierazi zuen:
 	 «Ez zirudien haur bat hiltzeko

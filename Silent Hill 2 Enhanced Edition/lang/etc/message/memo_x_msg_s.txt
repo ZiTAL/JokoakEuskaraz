@@ -42,7 +42,7 @@
 ---------------
 <CENTER-PER-LINE>Teilatuaren egunkaria
 ---------------
-<CENTER-PER-LINE>«Buelta bueltaka zenbakiak»
+<CENTER-PER-LINE>«Zenbakiak jira ta bira»
 ---------------
 <CENTER-PER-LINE>«Louise»
 ---------------
@@ -105,9 +105,9 @@
 	orginalmente un pantano, pero
 	luego fueron ter<HIDDEN-TEXT>raplena<HIDDEN-TEXT>dos.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Monumentu hau ukitzen duten lurraren <HIDDEN-TEXT>XX
-	metroak <HIDDEN-TEXT> urtegi bat ziren organikoki,
-	baina gero <HIDDEN-TEXT> lurreztatu <HIDDEN-TEXT> ziren.
+<CENTER-PARAGRAPH><COLOR-BLUE>Monumentu hau ukitzen duten lurraren <HIDDEN-TEXT>XX<HIDDEN-TEXT>
+	metroak <HIDDEN-TEXT> ur<HIDDEN-TEXT>tegi bat ziren organikoki,
+	baina gero <HIDDEN-TEXT> lur<HIDDEN-TEXT>reztatu ziren.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Aspal<HIDDEN-TEXT>dida<HIDDEN-TEXT>nik, zingira horri "zingira odoltsua"
 	ezizena <HIDDEN-TEXT>ja<HIDDEN-TEXT>rri zioten, borreroek beren
@@ -215,7 +215,7 @@
 	beti martxan dago.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Walter Sullivan hilaren 18an
+	Galder Atutxa hilaren 18an
 	atxilotu zuten, Billy Locane
 	eta bere arreba Miriamen hilketa
 	bortitzagatik, eta bere buruaz
@@ -223,15 +223,15 @@
 	hilaren 22ko goizaldean.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziaren deklarazioaren
-	arabera, Sullivanek zopa-koilara
+	arabera, Atutxak zopa-koilara
 	bat sartu zuen lepoan, karotida
 	arteria moztuz.
 	Zaindariak aurkitu zuenean,
-	Sullivan odolustuta hil zen,
+	Atutxa odolustuta hil zen,
 	koilara lepoan bost zentimetro
 	arrailduta zuelarik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Walter Sullivanen eskolakide ohi batek,
+<CENTER-PARAGRAPH><COLOR-BLUE> Galder Atutxaren eskolakide ohi batek,
 	Pleasant River bere jaioterrikoak,
 	zera adierazi zuen:
 	«Ez zirudien haur bat
@@ -274,7 +274,7 @@
 	atsegina izatea eta zure
 	oroitzapenek betiko irautea.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Roger Widmark<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Editor: Rober Zabaleta<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
 ---------------
@@ -406,7 +406,7 @@
 	enigma konponduta dago.
 	Enigma konponduta dago.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>[Jack Davis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Jon Mendabia]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Hiru aldiz saiatu da bere buruaz
 	beste egiten, arrazoi ezezagunengatik.
@@ -416,7 +416,7 @@
 	behar da bere bat-bateko joera
 	suizidak direla eta.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joseph Barkin]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Joseba Barañain]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Bere gaixotasuna, dirudienez,
 	bere alabaren heriotzaren erruduntzat
@@ -426,7 +426,7 @@
 	egoten da, baina joera bortitzak
 	izaten ditu asaldatzen denean.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>[Joshua Lewis]
+<CENTER-PARAGRAPH><COLOR-BLUE>[Josu Koldobika]
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ospitaleratzeen historia bat
 	du eta eraso, tratu txar eta
@@ -473,7 +473,7 @@
 
 <COLOR-WHITE>Eskuz zerbait gehiago idatzita dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Josephek giltza eman zidan.
+<CENTER-PARAGRAPH><COLOR-BLUE>Josebak giltza eman zidan.
 	Kutxa horretakoa izango da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Hilabete honetako pin
@@ -559,7 +559,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	etxera joan behar dudala.
 	Eta<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
-<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Jira ta bira zenbakiak
+<CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira
 	hobe ez ahaztea
 	Horregatik idazten ditut hemen
 	Bestea, nire izen sekretua<SEPARATORB>
@@ -586,7 +586,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>«Ibaiertzeko paisaia»
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Allen Smith (Jaioteguna eta
+<CENTER-PARAGRAPH><COLOR-BLUE>Alain Rementeria (Jaioteguna eta
 	heriotza ezezagunak)
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Inguru honetako antzinako paisaia.
@@ -600,7 +600,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 <CENTER-PARAGRAPH><COLOR-BLUE>Hiru Bekatuak garbitzeko
 	odola ematen dizut<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Toluca lakua hiriko erakarpen
+<CENTER-PARAGRAPH><COLOR-BLUE> Toluka lakua hiriko erakarpen
 	turistiko nagusia da.
 	Aintzira eder eta garden
 	honek alde ezkutua ere badu.
@@ -637,7 +637,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	altxatzen dira, agian bere
 	burkideen bila.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE> Thomas Orosco 39 ur<HIDDEN-TEXT>teko eg<HIDDEN-TEXT>urgile gisa
+<CENTER-PARAGRAPH><COLOR-BLUE> Andoni Orozko 39 ur<HIDDEN-TEXT>teko eg<HIDDEN-TEXT>urgile gisa
 	identifi<HIDDEN-TEXT>katu zu<HIDDEN-TEXT>ten gizon baten gorpua
 	ahoz gora aur<HIDDEN-TEXT>kitu zut<HIDDEN-TEXT>en bere gelan.
 
@@ -827,7 +827,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	guztiontzako zorigaitza
 	besterik ez da.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>James Sunderland jauna:
+<CENTER-PARAGRAPH><COLOR-BLUE>Jagoba Eguzkiza jauna:
 
 	Bideo-zinta lehen
 	solairuko bulegoan
@@ -888,11 +888,11 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	Ihes! Ihes! Ihes!
 	Ihes! Ihes! Ihes!<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Mari ikusi nahi baduzu,
+<CENTER-PARAGRAPH><COLOR-BLUE>Benetan Miren ikusi nahi baduzu,
 	hil egin beharko zenuke.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Mari ez den beste
-	leku batean bukatuko duzu, James.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina agian Miren ez den beste
+	leku batean bukatuko duzu, Jagoba.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Hemen ZULO bat zegoen.
 	Orain desagertu da.<SEPARATORB>
@@ -939,7 +939,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	leku horretara hurbiltzen.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Oraindik ez baduzu gelditu nahi,
-	James, Jainkoari otoitz egingo diot
+	Jagoba, Jainkoari otoitz egingo diot
 	zure arimaz betirako erruki dadin.<SEPARATORB>
 ---------------
 <CENTER-PER-LINE>«Sotoko sotoa»
