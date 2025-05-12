@@ -52,7 +52,7 @@ Abizenak:
 - Lakeview Hotel -> Aintzirabista Hotela (Lakeview Hotel) V
 - Brookhaven hospital -> Errekondo ospitalea (Brookhaven hospital)
 - Jack hotel -> Jon hotel V
-- Rosewater -> ???
+- Rosewater -> Larrosain (Rosewater) V
 - Neely's Bar -> Nikola Taberna (Neely's Bar) V
 - Nathan Avenue -> Nabar Etorbidea (Nathan Avenue) V
 - Rendell Street -> Orendain Kalea (Rendell Street) V
@@ -64,7 +64,7 @@ Abizenak:
 - Amy Baldwin -> Maite Jausoro V
 - Dombrowski -> Etxeberria
 - Scott Fairbanks -> Ekain Goikoetxea V
-- Eric Gein -> Erik Basañez V
+- Eric Gein -> Erik Garai V
 - thomas -> Andoni V
 - allen -> Alain V
 - roger -> Rober
