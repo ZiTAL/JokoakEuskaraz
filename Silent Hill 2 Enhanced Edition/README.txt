@@ -1,70 +1,41 @@
-Buelta ta buelta ta buelta -> Zenbakiak jira ta bira V
+Izen propio batzuk aldatu dira, beharbada hormetan edo mapetan ager daitezke,
+orduan, badaezpada hemen dago aldaketen zerrenda.
 
-Jira jira jira los números -> jira ta bira V
+- James -> Jagoba
+- Mary / Mari -> Miren
+- Laura -> Laura
+- Angela -> Gotzone
+- Eddie -> Edorta
+- Walter -> Galder
+- Orosco -> Orozko
+- Sunderland -> Eguzkiza
+- Sullivan -> Atutxa
+- Smith -> Rementeria
+- Widmark -> Zabaleta
 
-Buelta bueltaka zenbakiak -> jira ta bira V
-
-pase lo que pase -> datorrena datorrela V
-
-izar polarra -> artizarra V
-
-espazio -> hutsune V
-
-egoista -> berekoia V
-
-<HIDDEN-TEXT> beitu lerro bakotzien 2 egon bidiez V
-
-gorri -> eskarlata -> gorrimin V
-
-veintena -> hogei -> 400 gizon V
-
-zintzilik -> eskegita V
-
-cristalino -> kristalino -> garden V
-
-eskriba -> idatzi V
-
-¿ kendu V
-
-Izenak:
-- James -> Jagoba V
-- Mary / Mari -> Miren V
-- Laura -> Laura V
-- Angela -> Gotzone V
-- Eddie -> Edorta V
-- Walter -> Galder V
-
-Abizenak:
-- Orosco -> Orozko V
-- Sunderland -> Eguzkiza V
-- Sullivan -> Atutxa V
-- Smith -> Rementeria V
-- Widmark -> Zabaleta V
-
-- Toluca -> Toluka V
-- Rachel -> Errakel V
-- Ama
-- Jack Davis -> Jon Mendabia V
-- Joseph Barkin -> Joseba Barañain V
-- Joshua Lewis -> Josu Koldobika V
-- Heaven's Night -> Zeruko Gaua (Heaven's Night) V
-- Pete -> Kepa V
-- Lakeview Hotel -> Aintzirabista Hotela (Lakeview Hotel) V
+- Toluca -> Toluka
+- Rachel -> Errakel
+- Jack Davis -> Jon Mendabia
+- Joseph Barkin -> Joseba Barañain
+- Joshua Lewis -> Josu Koldobika
+- Heaven's Night -> Zeruko Gaua (Heaven's Night)
+- Pete -> Kepa
+- Lakeview Hotel -> Aintzirabista Hotela (Lakeview Hotel)
 - Brookhaven hospital -> Errekondo ospitalea (Brookhaven hospital)
-- Jack hotel -> Jon hotel V
-- Rosewater -> Larrosain (Rosewater) V
-- Neely's Bar -> Nikola Taberna (Neely's Bar) V
-- Nathan Avenue -> Nabar Etorbidea (Nathan Avenue) V
-- Rendell Street -> Orendain Kalea (Rendell Street) V
-- Bachman Road -> Errekabide Errepidea (Bachman Road) V
-- Martin Street -> Martin Kalea (Martin Street) V
-- South Vale -> Hegoaldeko Harana (South Vale) V
-- Paleville -> Herrizuri (Paleville) V
-- Ernest -> Eneko V
-- Amy Baldwin -> Maite Jausoro V
+- Jack hotel -> Jon hotel
+- Rosewater -> Larrosain (Rosewater)
+- Neely's Bar -> Nikola Taberna (Neely's Bar)
+- Nathan Avenue -> Nabar Etorbidea (Nathan Avenue)
+- Rendell Street -> Orendain Kalea (Rendell Street)
+- Bachman Road -> Errekabide Errepidea (Bachman Road)
+- Martin Street -> Martin Kalea (Martin Street)
+- South Vale -> Hegoaldeko Harana (South Vale)
+- Paleville -> Herrizuri (Paleville)
+- Ernest -> Eneko
+- Amy Baldwin -> Maite Jausoro
 - Dombrowski -> Etxeberria
-- Scott Fairbanks -> Ekain Goikoetxea V
-- Eric Gein -> Erik Garai V
-- thomas -> Andoni V
-- allen -> Alain V
+- Scott Fairbanks -> Ekain Goikoetxea
+- Eric Gein -> Erik Garai
+- thomas -> Andoni
+- allen -> Alain
 - roger -> Rober

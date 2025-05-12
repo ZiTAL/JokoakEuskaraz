@@ -308,7 +308,7 @@ Zubi hau hondatuta dago.
 ---------------
 <COLOR-BLUE>Zeruko Gaua (Heaven's Night)<SEPARATORB>
 ---------------
-<COLOR-BLUE>Jon hotela<SEPARATORB>
+<COLOR-BLUE>Jon hotela (Jack hotel)<SEPARATORB>
 ---------------
 <COLOR-BLUE>Keparen bolatokia<SEPARATORB>
 ---------------
