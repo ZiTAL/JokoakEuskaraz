@@ -268,7 +268,7 @@ Hiru plaka sartuta daude.<SEPARATORB>
 <COLOR-WHITE>Enekorena al da?
 	Zer esan nahiko du?
 
-<CENTER-PARAGRAPH><COLOR-BLUE>	Odola=Gorria,
+<CENTER-PARAGRAPH><COLOR-BLUE> Odola=Gorria,
 	Behelainoa=Zuria,
 	Gaua=Beltza<SEPARATORB>
 ---------------

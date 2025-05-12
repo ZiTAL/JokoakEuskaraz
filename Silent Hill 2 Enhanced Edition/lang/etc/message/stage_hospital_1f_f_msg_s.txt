@@ -80,7 +80,7 @@ Zerbait idatzita dago.<SEPARATORB>
 	geure errealitatearen
 	mundura sendatzeko,
 	berarentzat oso mingarria
-	baldin bada?	
+	baldin bada?
 
 <COLOR-WHITE>Eskuz idatzitako zerbait gehiago dago.
 

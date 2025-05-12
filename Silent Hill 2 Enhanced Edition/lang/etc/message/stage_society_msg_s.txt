@@ -26,7 +26,7 @@ Deskribapena besterik ez da geratzen.
 	margotu zen.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Garai hartan askoz jende gutxiago
-	zegoen eta eraikin gutxi batzuk baino ez.<SEPARATORB>	
+	zegoen eta eraikin gutxi batzuk baino ez.<SEPARATORB>
 ---------------
 <COLOR-BLUE>«Egun lainotsua,
 	epaiketaren hondarrak»

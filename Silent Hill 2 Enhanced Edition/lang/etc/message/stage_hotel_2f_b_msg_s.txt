@@ -18,14 +18,14 @@ Izenburua “Izaki Gorriminaren zeremonia” da.
 	besteeibeti obedituak izan
 	daitezen,baita eguzki
 	harro eta krudelaren
-	argipean ere.	
+	argipean ere.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Mendeku mingotsa bidaliko dizuet
 	eta nire betiko haserrea pairatuko duzue.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Lore zimelduaren edertasuna eta
 	hilzorian dagoenaren azken arnasa
-	dira	nire bedeinkazioak.
+	dira nire bedeinkazioak.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Zuk beti eskatuko didazu
 	niri eta naizen guztiari

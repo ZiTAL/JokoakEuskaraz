@@ -44,15 +44,15 @@ Zoritxarrez, gainazala hondatuta dago
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Mo<HIDDEN-TEXT>nu<HIDDEN-TEXT>mentua inguratzen duten XX metroko
 	lurrak ja<HIDDEN-TEXT>to<HIDDEN-TEXT>rriz zingira batenak ziren,
-	baina gero lu<HIDDEN-TEXT>be<HIDDEN-TEXT>tak egin zituzten.	
+	baina gero lu<HIDDEN-TEXT>be<HIDDEN-TEXT>tak egin zituzten.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>As<HIDDEN-TEXT>pa<HIDDEN-TEXT>ldi, zingira ho<HIDDEN-TEXT>rri<HIDDEN-TEXT> "zingira odoltsua"
 	ezizena <HIDDEN-TEXT>ja<HIDDEN-TEXT>rri zioten, borreroek beren
 	gauzatze-tresnak gar<HIDDEN-TEXT>bi<HIDDEN-TEXT>tzeko erabiltzen
-	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.	
+	zuten ura hona isurtzen zu<HIDDEN-TEXT>te<HIDDEN-TEXT>lako.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Agi<HIDDEN-TEXT>an<HIDDEN-TEXT> horregatik jendeak dio
-	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>	
+	in<HIDDEN-TEXT>gu<HIDDEN-TEXT>ruan mamuak ikusi dituela.<SEPARATORB>
 ---------------
 Ezin dut ihes egin.
 
@@ -71,7 +71,7 @@ Ah, bai.
 Apurtuta al dago?
 ---------------
 ........... hau... ..........
-	Zatoz .................. ......s...
+Zatoz .................. ......s...
 ---------------
 ..... ......... ......eta.....
 ---------------
@@ -157,7 +157,7 @@ amesgaiztoetara irekitzen dabil.<SEPARATORB>
 	Egiak jendea traizionatzen du.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Amildegi horren zati bat
-	gizarte zaharrean dago.	
+	gizarte zaharrean dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gizartearen giltza
 	parkean dago.

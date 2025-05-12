@@ -547,7 +547,7 @@ Enigma konponduta dago.<SEPARATORB>
 	Eta<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira,
-	hobe ez ahaztea	horregatik
+	hobe ez ahaztea horregatik
 	idatzi hemen bestea,
 	nire izen sekretua<SEPARATORB>
 ---------------

@@ -130,6 +130,11 @@ Mirenen gutuna
 Mirenek, ustez, Laurari
 	eman zion gutuna.
 ---------------
+Lauraren gutuna
+---------------
+Mirenek, ustez,
+	Laurari eman zion gutuna.
+---------------
 Bideo-zinta
 ---------------
 Duela hiru urte hotelean utzi nuen
