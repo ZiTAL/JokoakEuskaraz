@@ -1,9 +1,7 @@
 ﻿--------------- strings=42 language=spanish
 ---------------
-¿¡Qué ha sido eso?!
-	Ha sonado al norte de aquí...
 Zer izan da hori?
-	Iparraldetik jo du...
+	Iparraldetik datorrela dirudi...
 	<SEPARATORB>
 ---------------
 Hilda dago.
@@ -30,7 +28,6 @@ Ohar hau...? Hemen bizi zen
 	Scott ez da 3.ean gelditzen,
 	15.ean baizik.<SEPARATORB>
 ---------------
-Hay algo escrito en el reloj.
 Erlojuan zerbait idatzita dago.
 
 <COLOR-BLUE>Iraganeko orbainek denbora
