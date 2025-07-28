@@ -68,7 +68,7 @@ Ez naiz gezurretan ari!
 Ez, ez. Sinesten dizut.
 ---------------
 Baina... Berdin zait
-	arriskutsua den ala ez.
+	arriskutsua den edo ez.
 ---------------
 Dena dela, joango naiz.
 ---------------
