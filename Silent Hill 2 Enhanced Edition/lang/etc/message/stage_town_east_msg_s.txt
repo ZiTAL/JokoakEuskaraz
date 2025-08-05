@@ -150,8 +150,8 @@ Itzal hori...
 Itzal horrek kezkatzen nau.
 	Zer zen hori...?<SEPARATORB>
 ---------------
-<COLOR-BLUE>Iluntasuna esnatzen duen atea,
-amesgaiztoetara irekitzen dabil.<SEPARATORB>
+<COLOR-BLUE>Iluntasunean esnatzen den atea,
+amesgaiztoetara irekitzen da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Edo agian erotuta zaude.
 	Egiak jendea traizionatzen du.

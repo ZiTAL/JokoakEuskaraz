@@ -8,9 +8,9 @@ Distira-maila
 ---------------
 Pantailaren distira doitu
 ---------------
-<TEXT-POS-080>Distira-maila aldatzen du
-	lerro horizontalak iritsi arte
-	nekez hauteman daitezkeenak.
+<TEXT-POS-080>Distira-maila aldatu
+	nekez hauteman daitezkeen
+	lerro horizontalak ikusi arte.
 ---------------
 M A I L A
 ---------------

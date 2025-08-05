@@ -68,7 +68,7 @@ Ordulariari bultza egingo al diozu?<SELECT-YES-OR-NO>
 ---------------
 Indarrez bultza eginda ere,
 	ez da mugitzen.
-	Lurrean itsatsita balego bezala dago.<SEPARATORB>
+	Lurrean itsatsita bezala dago.<SEPARATORB>
 ---------------
 Zabor-arrapala bat.
 
