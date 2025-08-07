@@ -10,7 +10,7 @@ Erabaki gabeko izena
 ---------------
 <COLOR-WHITE>Karabana
 ---------------
-<COLOR-WHITE>Apartam., SO eskailera
+<COLOR-WHITE>Apartam., Hego Mendebaleko eskailera
 ---------------
 <COLOR-WHITE>Apartam., 2. solairuko gela.
 ---------------
