@@ -42,3 +42,6 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 
 - Tim  -> ?
 - David -> ?
+- Billy Locane -> Bixente ?
+- Miriam -> ?
+- Galder Atutxa -> Ankaitz Atutxa
