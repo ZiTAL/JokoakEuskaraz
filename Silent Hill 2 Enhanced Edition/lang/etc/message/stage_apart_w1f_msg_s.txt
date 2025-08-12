@@ -150,9 +150,9 @@ Eh... Sentitzen dut.
 ---------------
 Ez du axola...
 ---------------
-Oraindik ez. Ez dut ikusi.
+Ama aurkitu al du?
 ---------------
-Aún no. No la he visto.
+Oraindik ez. Ez dut ikusi.
 ---------------
 Apartamentu-eraikin
 	honetan bizi al zen?
@@ -213,7 +213,7 @@ Orain ulertzen dut
 	hilerrian esandakoa.
 ---------------
 Moldatuko naiz.
-	Gainera, ez dut nire erruz denpora galtzerik nahi.
+	Gainera, ez dut nire erruz denbora galtzerik nahi.
 ---------------
 Zer diozu horretaz?
 ---------------

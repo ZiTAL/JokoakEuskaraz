@@ -39,3 +39,6 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 - thomas -> Andoni
 - allen -> Alain
 - roger -> Rober
+
+- Tim  -> ?
+- David -> ?

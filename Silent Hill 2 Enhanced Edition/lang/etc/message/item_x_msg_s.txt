@@ -300,7 +300,7 @@ Agure baten aurpegiaren irudiarekin
 	grabatutako txanpon handia. Zaborrak
 	ateratzeko arrapalatik hartu nuen.
 ---------------
-Presoaren moneta
+Presoaren txanpona
 ---------------
 Preso baten irudiarekin grabatutako
 	txanpon handia. Mendebaldeko

@@ -18,7 +18,7 @@
 ---------------
 <CENTER-PER-LINE>Turismo-liburuxka
 ---------------
-<CENTER-PER-LINE>Komunontziaren zorroa
+<CENTER-PER-LINE>Komunontziko zorroa
 ---------------
 <CENTER-PER-LINE>Argazki hautsia
 ---------------
