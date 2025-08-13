@@ -268,7 +268,7 @@ Hemen epitafio bat dago.
 ---------------
 Izen bat dago idatzita hilarrian.
 
-<COLOR-BLUE>Miriam K.: «Traidorea»<SEPARATORB>
+<COLOR-BLUE>Mirari K.: «Traidorea»<SEPARATORB>
 ---------------
 Hemen zulo sakon bat dago.
 	Baina barruan ez dago ezer.<SEPARATORB>

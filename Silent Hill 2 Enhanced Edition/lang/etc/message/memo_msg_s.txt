@@ -22,7 +22,7 @@
 ---------------
 <CENTER-PER-LINE>Apurtutako argazkia
 ---------------
-<CENTER-PER-LINE>Tim maitea»
+<CENTER-PER-LINE>«Txomin maitea»
 ---------------
 <CENTER-PER-LINE>«Hiru txanpon distiratsu bost zulotan»
 ---------------
@@ -204,9 +204,9 @@
 	beti martxan dago.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE> Poliziak gaur iragarri duenez,
-	Galder Atutxa hilaren 18an
-	atxilotu zuten, Billy Locane
-	eta bere arreba Miriamen hilketa
+	Ankaitz Atutxa hilaren 18an
+	atxilotu zuten, Bixente Lekuona
+	eta bere arreba Mirariren hilketa
 	bortitzagatik, eta bere buruaz
 	beste egin zuen bere ziegan,
 	hilaren 22ko goizaldean.
@@ -231,7 +231,7 @@
 	koilara lepoan bost zentimetro
 	arrailduta zuela.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Galder Atutxaren eskolakide ohi batek,
+<CENTER-PARAGRAPH><COLOR-BLUE> Ankaitz Atutxaren eskolakide ohi batek,
 	Pleasant River bere jaioterri berberekoak,
 	zera adierazi zuen:
 	«Ez zirudien haur bat
@@ -279,10 +279,10 @@ Silent Hill-era!
 ---------------
 <CENTER-PARAGRAPH><VARIABLE-01> >><VARIABLE-02> <<<VARIABLE-03> >><VARIABLE-04><SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea:
+<CENTER-PARAGRAPH><COLOR-BLUE>Txomin maitea:
 	Mandatu bat egitera joan behar dut.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba Davidi
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba Dabidi
 	utziko diot (Badakizu non bizi
 	den, ezta? Giltza lehen solairuko
 	eskaileratik hurbilen dagoen

@@ -40,8 +40,7 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 - allen -> Alain
 - roger -> Rober
 
-- Tim  -> ?
-- David -> ?
-- Billy Locane -> Bixente ?
-- Miriam -> ?
-- Galder Atutxa -> Ankaitz Atutxa
+- Tim  -> Txomin
+- David -> Dabid
+- Billy Locane -> Bixente Lekuona
+- Miriam -> Mirari

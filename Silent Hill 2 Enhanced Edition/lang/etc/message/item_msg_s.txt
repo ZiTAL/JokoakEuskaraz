@@ -429,7 +429,7 @@ Antzinako itxurako kopa, obsidiana hutsean zizelkatua.
 Linternak daraman pila
 	mota bera dirudi.
 ---------------
-Hostoa zerbait gorriz zikinduta dago.
+Labanaren ahoa gorriz zikinduta dago.
 ---------------
 Orain pentsatzen ari naizela, erloju handi bat
 	zegoen 208 gelan...
@@ -454,7 +454,7 @@ Larrialdiko irteera bat zegoen
 	2. solairuko korridorearen mendebaldeko muturrean.
 	Agian han erabili ahal izango dut?
 ---------------
-Hori izan behar da «osaba Davidi eman zioten»
+Hori izan behar da «osaba Dabidi eman zioten»
 	zioen oharraren giltza.
 ---------------
 Honela dio: «Iparraldeko eskailera».

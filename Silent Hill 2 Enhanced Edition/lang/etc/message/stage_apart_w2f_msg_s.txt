@@ -2,10 +2,10 @@
 ---------------
 Ohar bat dago atean itsatsita.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea:
+<CENTER-PARAGRAPH><COLOR-BLUE>Txomin maitea:
 	Mandatu bat egitera joan behar naiz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba David-i
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba Dabidi
 	utziko diot (Badakizu non
 	bizi den, ezta? Giltza lehen
 	solairuko eskaileratik

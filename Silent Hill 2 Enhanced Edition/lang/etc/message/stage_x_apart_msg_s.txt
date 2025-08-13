@@ -18,10 +18,10 @@ Itxita dago.
 
 Ohar bat dago atean itsatsita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Tim maitea: Mandatu bat
+<CENTER-PARAGRAPH><COLOR-BLUE>Txomin maitea: Mandatu bat
 	egitera joan behar naiz.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba David-i
+<CENTER-PARAGRAPH><COLOR-BLUE> Etxeko giltza osaba Dabidi
 	utziko diot (Badakizu non biziden,
 	ezta? Giltza lehen solairuko
 	eskaileratik hurbilen dagoen gelan
