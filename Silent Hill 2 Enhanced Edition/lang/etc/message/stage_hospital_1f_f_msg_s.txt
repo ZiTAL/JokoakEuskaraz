@@ -1,6 +1,6 @@
 ﻿--------------- strings=49 language=spanish
 ---------------
-Miren eta Laura hemen daude oraindik.
+Miren eta Leire hemen daude oraindik.
 	Ezin ditut alde batera utzi.<SEPARATORB>
 ---------------
 Hemen txartel moduko bat dago.<SEPARATORB>
@@ -114,9 +114,9 @@ Botoiak sakatzen ditut,
 Nora zoaz?
 ---------------
 Oraindik ez dugu
-	Laura aurkitu.
+	Leire aurkitu.
 ---------------
-Laura?
+Leire?
 ---------------
 Eh?
 ---------------
@@ -145,14 +145,14 @@ Iaz izan zen...
 ---------------
 Guzurren mamarrue! Gezurtia!
 ---------------
-Laura, ez...
+Leire, ez...
 ---------------
 Tira, ba ez sinistu!
 ---------------
 Baina iaz,
 	Miren dagoeneko...
 ---------------
-Sentitzen dut, Laura.
+Sentitzen dut, Leire.
 ---------------
 Tira, goazen.
 ---------------
@@ -179,7 +179,7 @@ Hainbat txosten eta dokumentu.
 Ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
 Ohar batzuk daude.
-	Baina batek ez du ezer interesgarririk esaten.<SEPARATORB>
+	Baina ez dute ezer interesgarririk esaten.<SEPARATORB>
 ---------------
 Barruan ez dago ezer.<SEPARATORB>
 ---------------

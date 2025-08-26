@@ -127,13 +127,13 @@ Oraindik osasuntsu zegoeneko argazkia.
 ---------------
 Mirenen gutuna
 ---------------
-Mirenek, ustez, Laurari
+Mirenek, ustez, Leireri
 	eman zion gutuna.
 ---------------
-Lauraren gutuna
+Leireren gutuna
 ---------------
 Mirenek, ustez,
-	Laurari eman zion gutuna.
+	Leireri eman zion gutuna.
 ---------------
 Bideo-zinta
 ---------------
@@ -490,7 +490,7 @@ Papera hutsik dago.<SEPARATORB>
 ---------------
 Gutun-azala hutsik dago.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire maitea:
 
 	Gutun hau Errakeleri uzten diot,
 	ni joandakoan eman diezazun.
@@ -501,11 +501,11 @@ Gutun-azala hutsik dago.
 <CENTER-PARAGRAPH><COLOR-BLUE>Mesedez,barkatu
 	ez agurtzeagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Leire.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire, Jagobari dagokionez...
 	Badakit gorroto duzula uste
 	duzulako ez nauela ondo tratatzen,
 	baina, mesedez, eman aukera bat.
@@ -514,14 +514,14 @@ Gutun-azala hutsik dago.
 	ez duela barre askorik egiten.
 	Baina, funtsean, pertsona ona da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire...
 	Nire alaba bazina
 	bezala maite zaitut.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gauzak bestela joan balira,
 	adoptatu egingo zintuzkedan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak, Laura zure 8. urtebetzeagatik.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak, Leire zure 8. urtebetzeagatik.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna, 
 	Miren<SEPARATORB>
@@ -638,7 +638,7 @@ Hautsita al dago?
 ---------------
 <COLOR-GREEN>Mirenen gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Lauraren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Leireren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Gotzoneren labana<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------

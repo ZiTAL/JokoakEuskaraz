@@ -24,7 +24,7 @@ Kutxa bernoekin itxita dago.
 Kutxa barruan giltza zegoen.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Kristauen jazarpenaren bik<HIDDEN-TEXT>ti<HIDDEN-TEXT>ma.
-	Jennifer Carroll harro eta ohorez bizi izan zen.
+	Ianire Kortazar harro eta ohorez bizi izan zen.
 	Hemen ger<HIDDEN-TEXT>ta<HIDDEN-TEXT>tu zena ez da inoiz ahaztu behar.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Patrick Chester, Edwarden semea.
@@ -33,8 +33,8 @@ Kutxa barruan giltza zegoen.<SEPARATORB>
 	hil zen. Bere oroitzapenak irauten du.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Gaixotasunaren ondorioz hil ziren
-	hirurogeita zazpi lagunen omenez eta
-	aintziraren azpian lo daude.<SEPARATORB>
+	eta aintziraren azpian lo dauden
+	67 lagunen omenez.<SEPARATORB>
 ---------------
 Zerbait idatzita dauka,
 	baina ezinezkoa da irakurtzea,
@@ -256,7 +256,7 @@ Eta Miren, zer?
 Ez kezkatu,
 	zurekin nago.
 ---------------
-Laura aurkitu behar dut.
+Leire aurkitu behar dut.
 	Ezin dut bakarrik utzi.
 
 Gainera... Agian zerbait esan
@@ -283,7 +283,7 @@ Miren hilda dago.
 Berriro ere,
 	ezin izan nuen ezer egin.
 ---------------
-Laura norabait joan da.
+Leire norabait joan da.
 ---------------
 Miren...
 	Zer egin beharko nuke?

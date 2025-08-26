@@ -3,7 +3,7 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 
 - James -> Jagoba
 - Mary / Mari -> Miren
-- Laura -> Laura
+- Laura -> Leire
 - Angela -> Gotzone
 - Eddie -> Edorta
 - Walter -> Galder
@@ -44,3 +44,7 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 - David -> Dabid
 - Billy Locane -> Bixente Lekuona
 - Miriam -> Mirari
+
+- Jenniffer Carroll -> Ianire Kortazar
+- Laura -> Leire
+- Louise -> Luixa

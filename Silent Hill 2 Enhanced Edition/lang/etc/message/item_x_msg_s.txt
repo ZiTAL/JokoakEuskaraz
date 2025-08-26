@@ -144,9 +144,9 @@ Mirenen gutuna
 Gutunazalean Mirenen izena agertzen da,
 	bere letraz idatzia.
 ---------------
-Lauraren gutuna
+Leireren gutuna
 ---------------
-Mirenek ustez Laurari entregatu zion gutuna
+Mirenek ustez Leireri entregatu zion gutuna
 ---------------
 Bideo-zinta
 ---------------
@@ -547,7 +547,7 @@ Papera hutsik dago.<SEPARATORB>
 ---------------
 Gutun-azala hutsik dago.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire maitea:
 
 	Gutun hau Errakeleri
 	uzten diot, ni joandakoan
@@ -559,11 +559,11 @@ Gutun-azala hutsik dago.
 <CENTER-PARAGRAPH><COLOR-BLUE>Mesedez, barkatu
 	agur ez esateagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Leire.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire, Jagobari dagokionez...
 	Badakit gorroto duzula uste duzulako ez
 	nauela ondo tratatzen, baina,
 	mesedez, eman aukera bat.
@@ -572,14 +572,14 @@ Gutun-azala hutsik dago.
 	dela eta ez duela barre askorik egiten.
 	Baina, funtsean, pertsona ona da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire...
 	Nire alaba bazina
 	bezala maite zaitut.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gauzak beste era batera izan baziren,
 	adoptatu egingo zintuzkedan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urtebetzean, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urtebetzean, Leire.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna,
 	Miren<SEPARATORB>
@@ -695,7 +695,7 @@ Hautsita al dago?
 ---------------
 <COLOR-GREEN>Mirenen gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>Lauraren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
+<COLOR-GREEN>Leireren gutuna<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Angelaren labana<COLOR-WHITE> apalean jarri dut.<SEPARATORB>
 ---------------

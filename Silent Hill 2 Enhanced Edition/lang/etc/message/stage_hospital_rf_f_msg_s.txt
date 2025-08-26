@@ -13,8 +13,8 @@ Zerbait dago lurrean.
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 10
 	Euria ari du oraindik.
 	Medikuarekin hitz egin dut.
-	Salbatuko al ninduten nire
-	falta ez duten familia ez banu?
+	Salbatuko al nindukete nire falta
+	somatuko lukeen familiarik ez banu?
 	Badakit pena ematen dudala,
 	ahula naizela.
 	Mundu guztia ezin da
@@ -34,23 +34,23 @@ Zerbait dago lurrean.
 	gehiago eman nahi,
 	baina ez diot traba
 	izateari uzten.
-	Zergatik da bekatutzat
-	borroka uztea?
+	Zergatik hartzen da
+	bekatutzat amore ematea?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Batzuek esango dute
 	hala dela, baina ez
 	dakite zer sufritu
 	behar dudan.
-	Berekoia izango naiz,
+	Neurekoia izango naiz,
 	baina hori da nahi dudana.
-	Hau gogorregia da.
-	Gehiegi...
+	Hau oso gogorra da.
+	Gogorregia...
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 13
-Argitu du.
-Medikuek esan didate
-alta ematen didatela,
-etxera joan behar dudala.<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
+	Argitu du.
+	Medikuek esan didate
+	alta ematen didatela,
+	etxera joan behar dudala.<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
 Ez dago beste oharrik.
 

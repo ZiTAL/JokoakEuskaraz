@@ -23,15 +23,15 @@ Hor barruan al dago?
 ---------------
 Bai. Barruan.
 ---------------
-Zertan ari zara, Laura?
+Zertan ari zara, Leire?
 ---------------
 Barruan... dago, idazmahaian.
 ---------------
-Laura! Baina, zertan ari zara?
+Leire! Baina, zertan ari zara?
 ---------------
 Kar, kar! Ziria sartu dizut!
 ---------------
-Ireki atea, Laura...
+Ireki atea, Leire...
 ---------------
 Zergatik egin beharko nuke?
 	Gezurtia naiz, ezta?
@@ -41,7 +41,7 @@ Irekitzea nahi al duzu?
 ---------------
 Zein da hitz magikoa?
 ---------------
-Laura!
+Leire!
 ---------------
 Ondo da, uste dut ez dudala irekiko...
 ---------------
@@ -51,6 +51,6 @@ Mukizu madarikatua! Ireki!
 ---------------
 Baina...! Baina...!
 ---------------
-Laura?
+Leire?
 ---------------
 Arpikaka!

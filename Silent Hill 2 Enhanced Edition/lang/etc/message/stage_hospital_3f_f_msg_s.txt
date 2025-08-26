@@ -24,7 +24,7 @@ Ez, oker nago...
 ---------------
 Kutxan ez dago ezer.<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+<CENTER-PARAGRAPH><COLOR-BLUE>Luixa
 	Beti zainduko zaitut.
 	Nire patua da!<SEPARATORB>
 ---------------
@@ -76,12 +76,12 @@ Atseden hartu beharko zenuke.
 Mmm. Bai erosoa...
 ---------------
 Haren bila noa...
-	Lauraren bila.
+	Leireren bila.
 ---------------
 Ahal dudanean itzuliko naiz.
 ---------------
-Ondo jarriko naiz.
-	Laura aurkitu al duzu?
+Sendatuko naiz.
+	Leire aurkitu al duzu?
 ---------------
 Jagoba, zerbait galdetu nahi dizut...
 	Eta...?

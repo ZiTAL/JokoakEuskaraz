@@ -44,7 +44,7 @@
 ---------------
 <CENTER-PER-LINE>«Zenbakiak jira ta bira»
 ---------------
-<CENTER-PER-LINE>«Louise»
+<CENTER-PER-LINE>«Luixa»
 ---------------
 <CENTER-PER-LINE>«Aingerua da»
 ---------------
@@ -534,37 +534,36 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	Gaur medikazioak
 	goragalea eman dit.
 	Hartzen dudanean bakarrik
-	banago hobeto,
-	orduan nor naiz?
+	banago ondo,
+	nor naiz?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 12
 	Euri gehiago.
 	Ez diot inori arazo gehiago
 	eman nahi, baina ez diot
 	traba izateari uzten.
-	Zergatik da bekatutzat
-	borroka uztea?
+	Zergatik hartzen da
+	bekatutzat amore ematea?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Batzuek esango dute hala dela,
 	baina ez dakite zer sufritu behar
-	dudan. Berekoia izango naiz,
+	dudan. Neurekoia izango naiz,
 	baina hori da nahi dudana.
-	Hau gogorregia da.
-	Gehiegi...
+	Hau oso gogorra da.
+	Gogorregia...
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 13
-	Aterri da.
-	Medikuek esan didate alta
-	ematen didatela,
-	etxera joan behar dudala.
-	Eta<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
+	Argitu du.
+	Medikuek esan didate
+	alta ematen didatela,
+	etxera joan behar dudala.<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira
 	hobe ez ahaztea
 	Horregatik idazten ditut hemen
 	Bestea, nire izen sekretua<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+<CENTER-PARAGRAPH><COLOR-BLUE>Luixa
 	Beti zainduko zaitut
 	Nire patua da!<SEPARATORB>
 ---------------

@@ -44,7 +44,7 @@
 ---------------
 <CENTER-PER-LINE>«Zenbakiak jira ta bira»
 ---------------
-<CENTER-PER-LINE>«Louise»
+<CENTER-PER-LINE>«Luixa»
 ---------------
 <CENTER-PER-LINE>«Aingerua da»
 ---------------
@@ -530,28 +530,28 @@ Enigma konponduta dago.<SEPARATORB>
 	Ez diot inori arazo gehiago
 	eman nahi, baina ez diot
 	traba izateari uzten.
-	Zergatik da bekatutzat
-	borroka uztea?
+	Zergatik hartzen da
+	bekatutzat amore ematea?
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Batzuek esango dute hala dela,
 	baina ez dakite zer sufritu
-	behar dudan. Berekoia izango naiz,
+	behar dudan. Neurekoia izango naiz,
 	baina hori da nahi dudana.
-	Hau gogorregia da.
+	Hau oso gogorra da.
+	Gogorregia...
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Maiatzak 13.
 	Argitu du.
 	Medikuek esan didate
-	alta emango didatela,
-	etxera joan behar dudala.
-	Eta<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
+	alta ematen didatela,
+	etxera joan behar dudala.<LONG-LINE-PATIENTS-DIARY><SEPARATORB>
 ---------------
 <CENTER-PER-LINE><COLOR-BLUE><GLOBALYOFFSET-TERNNUMBERS>Zenbakiak jira ta bira,
 	hobe ez ahaztea horregatik
 	idatzi hemen bestea,
 	nire izen sekretua<SEPARATORB>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Louise
+<CENTER-PARAGRAPH><COLOR-BLUE>Luixa
 	Beti zainduko zaitut,
 	nire patua da!<SEPARATORB>
 ---------------

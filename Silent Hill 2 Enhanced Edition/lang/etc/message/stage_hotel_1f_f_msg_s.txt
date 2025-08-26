@@ -145,7 +145,7 @@ Gure erizaina.
 ---------------
 Gutuna bere tiraderatik hartu nuen.
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura maitea:
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire maitea:
 
 	Gutun hau Errakeleri uzten diot,
 	ni joandakoan eman diezaiozun.
@@ -156,11 +156,11 @@ Gutuna bere tiraderatik hartu nuen.
 <CENTER-PARAGRAPH><COLOR-BLUE>Mesedez, barkatu
 	agur ez esateagatik.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zaindu, Leire.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Ez izan oso gogorra mojatxoekin.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura, Jagobari dagokionez...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire, Jagobari dagokionez...
 	Badakit gorroto duzula uste
 	duzulako ez nauela ondo tratatzen
 	baina, mesedez, eman aukera bat.
@@ -170,19 +170,19 @@ Gutuna bere tiraderatik hartu nuen.
 	barre askorik egiten.
 	Baina, funtsean, pertsona ona da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Laura...
+<CENTER-PARAGRAPH><COLOR-BLUE>Leire...
 	Nire alaba bazina
 	bezala maite zaitut.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gauzak beste era batera izan balira,
 	adoptatu egingo zintuzkedan.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urebetetzean, Laura.
+<CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urebetetzean, Leire.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zure betirako laguna,
 	Miren<SEPARATORB>
 ---------------
-Laura... zenbat urte dituzu?
+Leire... zenbat urte dituzu?
 ---------------
 Mmm... Zortzi urte bete nituen joan den astean.
 ---------------
@@ -209,11 +209,11 @@ Mirenek... Eh?
 ---------------
 Erori egingo zitzaidan!
 ---------------
-Laura...
+Leire...
 ---------------
 Aurkitu behar dut!
 ---------------
-Laura!
+Leire!
 ---------------
 Zirrikitu angeluzuzen bat dago.
 
@@ -260,7 +260,7 @@ Plater huts bat, labana bat,
 	sardexka bat eta kito.
 	Ez dago ezer interesgarririk.<SEPARATORB>
 ---------------
-Laurak egindako marrazki bat...
+Leirek egindako marrazki bat...
 	Katu bat al da?<SEPARATORB>
 ---------------
 Disko-musika kutxa bat dago.
