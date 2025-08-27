@@ -59,7 +59,7 @@ Estalki bat dago igogailuaren
 Ez dut irekitzeko modurik.<SEPARATORB>
 ---------------
 Botoiei ematen diet,
-	baina igogailuak ez du erreakzionatzen.<SEPARATORB>
+	baina igogailuak ez du ezer egiten.<SEPARATORB>
 ---------------
 Armairua ez da irekitzen.<SEPARATORB>
 ---------------

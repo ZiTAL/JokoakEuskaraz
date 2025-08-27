@@ -1,7 +1,7 @@
 ﻿--------------- strings=7 language=spanish
 ---------------
 Hautsita al dago? Botoiak sakatzen ditut,
-	baina igogailuak ez dabil.<SEPARATORB>
+	baina igogailua ez dabil.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Ospitaleko atariko giltza
 	<COLOR-WHITE>erabili dut.<SEPARATORB>
@@ -16,7 +16,7 @@ Informazio hau
 	ez du hari aurre egiteko adorerik izango.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Egia aurrerantz joanez
-	bainoez da aurkituko.
+	baino ez da aurkituko.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Jarraitu mapa.
 	Hor daude gutun bat eta giltza ingelesa.<SEPARATORB>

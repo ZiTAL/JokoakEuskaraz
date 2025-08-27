@@ -912,9 +912,9 @@ Orain desagertu da.<SEPARATORB>
 	Egiak traizionatu egiten du jendea.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Amildegi horren zati bat
-	gizarte zaharrean dago.
+	Elkarte Historikoan dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Gizartearen giltza parkean dago.
+<CENTER-PARAGRAPH><COLOR-BLUE>Elkarteko giltza parkean dago.
 	Otoitz egiten duen emakumearen oinetan,
 	lurpean, kaxa baten barruan.
 	Irekitzeko giltza ingeles

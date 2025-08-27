@@ -1,7 +1,7 @@
 ﻿--------------- strings=39 language=spanish
 ---------------
 Botoiak sakatzen ditut,
-	baina igogailuak ez du erreakzionatzen.<SEPARATORB>
+	baina igogailuak ez du ezer egiten.<SEPARATORB>
 ---------------
 Zertarako erabiliko da hau...?
 	Ez dut pentsatu ere egin nahi...<SEPARATORB>

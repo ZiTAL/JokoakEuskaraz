@@ -15,8 +15,8 @@ Zirriborroak besterik ez dira...
 	salbatuko nauen aingerua da.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Inork ezagutzen ez duen aingerua da.
-Nik bakarrik ikus dezaket ateko emakumea.
-Ezin dute bere hari-zubiaren gainean ibili.
+	Nik bakarrik ikus dezaket ateko emakumea.
+	Ezin dute bere hari-zubiaren gainean ibili.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Bere bekatuak hilotz beldurgarri
 	eta hanpatuak bezalakoak dira
@@ -30,10 +30,10 @@ Ezin dute bere hari-zubiaren gainean ibili.
 	<COLOR-WHITE>emakume margoturaren "eskuan" jarri dut.<SEPARATORB>
 ---------------
 Botoiak sakatzen ditut,
-	baina igogailuak ez dabil.
+	baina igogailua ez dabil.
 <SEPARATORB>
 ---------------
-Atean margotuta dagoen emakume bat dago.
+Emakume bat dago atean margotuta.
 
 Bitxiena da eskuaren zatia
 	hiru dimentsiokoa dela

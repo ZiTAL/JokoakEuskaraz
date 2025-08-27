@@ -915,9 +915,9 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	Egiak jendea traizionatzen du.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Amildegi horren zati bat
-	gizarte zaharkituan dago.
+	Elkarte Historikoan dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Gizartearen giltza parkean dago.
+<CENTER-PARAGRAPH><COLOR-BLUE>Elkarteko giltza parkean dago.
 	Otoitz egiten duen emakumearen
 	oinetan, lurpean,
 	kaxa baten barruan.

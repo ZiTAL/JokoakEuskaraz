@@ -318,7 +318,7 @@ Ospitaleko sotoan aurkitutakoa.
 ---------------
 Berunezko eraztuna
 ---------------
-Hozkailuaren eraztuna.
+Hozkailuko eraztuna.
 	Aurpegi hanpatu nazkagarri bat dauka grabatuta.
 ---------------
 Giltza ingelesa
