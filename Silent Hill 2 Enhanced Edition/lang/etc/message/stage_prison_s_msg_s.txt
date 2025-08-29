@@ -5,7 +5,7 @@
 <CENTER-PARAGRAPH><COLOR-BLUE>Odola ematen dizut
 	Hiru Bekatuak garbitzeko.
 
-<COLOR-WHITE>Koadroaren azpian hiruzulo karratu daude.<SEPARATORB>
+<COLOR-WHITE>Koadroaren azpian hiru zulo karratu daude.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Odola ematen dizut
 	Hiru Bekatuak garbitzeko.<SEPARATORB>

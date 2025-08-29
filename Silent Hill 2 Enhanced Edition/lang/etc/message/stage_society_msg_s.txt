@@ -45,14 +45,14 @@ Testuak ez du ezer baliagarririk esaten.<SEPARATORB>
 <COLOR-GREEN>Obsidiana-kopa bat
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-Hay una foto colgada.
+Argazki bat dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Mina de carbón Wiltse<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Wiltse ikatz mehatza<SEPARATORB>
 ---------------
-Hay una foto de un hoyo
-	muy profundo. ¿Qué podría ser...?<SEPARATORB>
+Zulo sakon  baten argazkia dago
+	Zer izan liteke...?<SEPARATORB>
 ---------------
-Argazki bat dago eskegita.
+Argazki bat dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Errekondo ospitalea (Brookhaven hospital) (1880)
 

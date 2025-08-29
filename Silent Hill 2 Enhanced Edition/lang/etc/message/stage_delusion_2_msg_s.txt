@@ -23,10 +23,10 @@ Argazki bat eskegita dago.
 ---------------
 Argazki bat eskegita dago.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Zutoinean sartuta erahila
+<CENTER-PARAGRAPH><COLOR-BLUE>Zutoinean sartuta eraila
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Exekuzio bat espetxean.
-	Zutoiean sartuta erahila.
+	Zutoinean sartuta eraila.
 	Presoaren azken askatasuna
 	heriotza aukeratzea da.<SEPARATORB>
 ---------------

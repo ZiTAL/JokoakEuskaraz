@@ -200,7 +200,7 @@ Mendebaldeko apartamentuen ataritik
 Azterketa-gelako giltza
 ---------------
 Etiketak hau dio: «Aintzatespen-gela».
-	Gizonen aldagelako mantalean aurkitu dute.
+	Gizonen aldagelako mantalean aurkitu dut.
 ---------------
 Teilatuko giltza
 ---------------
@@ -324,7 +324,7 @@ Ospitaleko gelan hartu nuen.
 ---------------
 Kobrezko eraztuna
 ---------------
-Ospitaleko sotoan aurkitu dute.
+Ospitaleko sotoan aurkitu dut.
 	Armiarma baten marrazkia grabatuta dauka.
 ---------------
 Berunezko eraztuna
@@ -341,19 +341,19 @@ Zapaltzailearen oholtxoa
 ---------------
 Metalezko oholtxoa, «zapaltzailea»
 	aurpegi batean marraztuta duena.
-	Ziega batean aurkitu dute.
+	Ziega batean aurkitu dut.
 ---------------
 Txerri tripontziaren egurtxoa
 ---------------
 Txerri tripontzia aurpegi batean
 	marraztuta duen taula metalikoa.
-	Jangelan aurkitu dute.
+	Jangelan aurkitu dut.
 ---------------
 Limurtzailearen oholtxoa
 ---------------
 Metalezko oholtxoa, aurpegi batean
 	«seduzitzailea» marraztuta duena.
-	Dutxetan aurkitu dute.
+	Dutxetan aurkitu dut.
 ---------------
 Ferra
 ---------------
@@ -517,7 +517,7 @@ Hori izan behar da «osaba Dabidi eman
 Honela dio: «Iparraldeko eskailera».
 ---------------
 Honela dio: «Zalantza da Purgatoriora
-eramango zaituztena».
+	eramango zaituztena».
 ---------------
 312. gelan hartu genuen ostatu
 	Mirenek eta biok duela hiru urte.

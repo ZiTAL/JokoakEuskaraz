@@ -18,12 +18,7 @@ Ez dut inoiz ikusi.
 	baina kasu honetan,
 	elezaharra egia da.
 
-<CENTER-PARAGRAPH><COLOR-BLUE> En un neblinoso día de
-	noviembre de 1918, el Little
-	Baroness, un barco lleno de
-	turistas, no regresó a puerto.
-
-1918ko azaroko egun lainotsu
+<CENTER-PARAGRAPH><COLOR-BLUE> 1918ko azaroko egun lainotsu
 	batean, Little Baroness,
 	turistaz betetako itsasontzia,
 	ez zen portura itzuli.
@@ -44,10 +39,10 @@ Ez dut inoiz ikusi.
 <COLOR-WHITE>Orrialde asko kenduta daude.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Gorpu asko daude lakuaren
-hondoan. Bere esku hezurtsuak
-gainetik pasatzen diren
-itsasontzietarantz hurbiltzen
-dira, agian bere burkideen bila.<SEPARATORB>
+	hondoan. Bere esku hezurtsuak
+	gainetik pasatzen diren
+	itsasontzietarantz hurbiltzen
+	dira, agian bere burkideen bila.<SEPARATORB>
 ---------------
 Salto egingo al duzu?<SELECT-YES-OR-NO>
 ---------------
@@ -72,7 +67,7 @@ Zirrikitu bat besterik ez da geratzen,
 <COLOR-GREEN>Txerri tripontziaren egurtxoa
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>He encontrado la
+<COLOR-GREEN>Limurtzailearen oholtxoa
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Ehiza-errifle bat

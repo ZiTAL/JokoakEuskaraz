@@ -147,7 +147,7 @@ Gotzoneren labana.
 ---------------
 Txakur-giltza
 ---------------
-Txakurrentzako etxola baten barruan aurkitu dute.
+Txakurrentzako etxola baten barruan aurkitu dut.
 	Ez dakit non erabiltzen den.
 ---------------
 Apartamentuetako sarrerako giltza
@@ -189,7 +189,7 @@ Mendebaldeko apartamentuen ataritik
 Azterketa-gelako giltza
 ---------------
 Etiketak hau dio: «Aintzatespen-gela».
-	Gizonen aldagelako mantalean aurkitu dute.
+	Gizonen aldagelako mantalean aurkitu dut.
 ---------------
 Teilatuko giltza
 ---------------
@@ -221,7 +221,7 @@ Hormaren barruan zegoen pintada
 ---------------
 Ospitaleko atariko giltza
 ---------------
-Zuzendariaren bulegoan aurkitu dute.
+Zuzendariaren bulegoan aurkitu dut.
 	Ospitaleko atariko giltza da.
 ---------------
 Brontzezko giltza zaharra
@@ -253,7 +253,7 @@ Hoteleko 204. gelako giltza
 Langileentzako igogailuaren giltza
 ---------------
 Etiketak hau dio: «Langileen igogailua».
-	204. gelan aurkitu dute.
+	204. gelan aurkitu dut.
 ---------------
 Tabernako giltza
 ---------------
@@ -336,13 +336,13 @@ Txerri tripontziaren oholtxoa
 ---------------
 «Txerri tripontzia» aurpegi batean
 	marraztuta duen taula metalikoa.
-	Jangelan aurkitu dute.
+	Jangelan aurkitu dut.
 ---------------
 Limurtzailearen oholtxoa
 ---------------
 Metalezko oholtxoa, aurpegi batean
 	«limurtzailea» marraztuta duena.
-	Dutxetan aurkitu dute.
+	Dutxetan aurkitu dut.
 ---------------
 Ferra
 ---------------
@@ -379,13 +379,13 @@ Errauskineren musika-kutxa
 ---------------
 Musika kaxa, Errauskineren
 	ipuineko irudi batekin.
-	202. gelako kutxa batean aurkitu dute.
+	202. gelako kutxa batean aurkitu dut.
 ---------------
 Edurnezuriren musika-kutxa
 ---------------
 Musika-kaxa, Edurnezuriren
 	ipuineko irudi batekin.
-	Bulegoan aurkitu dute.
+	Bulegoan aurkitu dut.
 ---------------
 Lata-irekigailua
 ---------------
