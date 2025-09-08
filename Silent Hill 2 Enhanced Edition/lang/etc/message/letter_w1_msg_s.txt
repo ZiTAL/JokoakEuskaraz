@@ -86,8 +86,8 @@ Nire amesgaiztoetan
 <TEXT-POS-124>Gutun hau asko luzatzen ari da,
 	beraz, agur esatera noa.
 ---------------
-<TEXT-POS-042>Erizainari esan diot
-	ni ez naizenean egongo emateko.
+<TEXT-POS-042>Erizainari esan diot,
+	egongo ez naizenean emateko.
 ---------------
 <TEXT-POS-042>Beraz, irakurtzen duzunerako,
 	hilda egongo naiz.

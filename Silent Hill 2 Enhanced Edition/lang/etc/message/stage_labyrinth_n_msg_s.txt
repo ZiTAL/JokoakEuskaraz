@@ -85,8 +85,8 @@ Bere aurpegia paper batekin estalita dago.
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Gauez ezkutuan sartu zenean,
 	Lapurrak ez zituen tranpatxoak ikusi
-	Eta mozkortu goizean burdin
-	hesien artean esnatu zen
+	Eta mozkortu ondoren,
+	Goizean burdin hesien artean esnatu zen
 
 <CENTER-PER-LINE><CENTER-PARAGRAPH><COLOR-BLUE>Faltsifikatzaile trebeak
 	Eskura ordaindu nahian
@@ -204,11 +204,11 @@ Sabaitik soka bat zintzilik dago.
 
 Sokatik tira egingo al duzu?<SELECT-YES-OR-NO>
 ---------------
-<CENTER-PARAGRAPH><COLOR-BLUE>Bekaturik gabe dagoenak
-	bakarrik lagun diezazuke.
-	Tiratu gaizkile baten
-	sokatik eta zure saria modu
-	harrigarrienean emango zaizu.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Bekaturik egin ez duenak
+	bakarrik lagun zaitzake.
+	Tira gaizkile baten sokatik
+	eta zure saria modu
+	harrigarrienean jasoko duzu.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Baina kontuz, hala ere,
 	bidalitako zigorrarekin.<SEPARATORB>

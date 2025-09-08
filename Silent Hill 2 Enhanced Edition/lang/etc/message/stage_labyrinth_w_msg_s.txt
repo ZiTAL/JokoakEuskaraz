@@ -88,9 +88,7 @@ Ongi... Geratu zauden lekuan.
 ---------------
 Azkar egingo dut...
 ---------------
-<COLOR-GREEN>Aliketak
-<COLOR-WHITE>aurkitu ditut.<SEPARATORB>
+<COLOR-GREEN>Aliketak<COLOR-WHITE> aurkitu ditut.<SEPARATORB>
  
 ---------------
-<COLOR-GREEN>Labana handi bat
-	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
+<COLOR-GREEN>Labana handi bat<COLOR-WHITE> aurkitu dut.<SEPARATORB>

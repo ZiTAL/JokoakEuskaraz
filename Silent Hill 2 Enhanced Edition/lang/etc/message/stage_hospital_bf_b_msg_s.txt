@@ -16,8 +16,8 @@ Arrasto gorriak ditu gainean.
 Apalategia mugitu behar duzu?<SELECT-YES-OR-NO>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Museoko zuzendaridxen giltzen hartun nauen.
-	Errezetan dauen enbrien atzien ostu doten,
-	bueltadie emoten jun zan naienien.
+	Errezaten dauen enbrien atzien ostu doten,
+	bueltadie emoten jun zan naiela.
 	Hartun ein nauen, baie enauen ostu.
 	Enai kriminala ta.<SEPARATORB>
 ---------------
@@ -25,8 +25,8 @@ Ohar bat dago lurrean.
 	Zaila da irakurtzen...
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Museoko zuzendaridxen giltzen hartun nauen.
-	Errezetan dauen enbrien atzien ostu doten,
-	bueltadie emoten jun zan naienien.
+	Errezaten dauen enbrien atzien ostu doten,
+	bueltadie emoten jun zan naiela.
 	Hartun ein nauen, baie enauen ostu.
 	Enai kriminala ta.<SEPARATORB>
 ---------------

@@ -33,8 +33,8 @@ Plaka bat dauka aurrean,
 	zoriontsu izan zela sinesten
 	jarraitu nahi dut.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Printzesaren eserlekua,
-	hitzik egiten ez zuena.<SEPARATORB>
+<COLOR-BLUE>Hitzik egiten ez zuen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
 <COLOR-BLUE>Gutizia izan zen zapata
 	odoleztatu ziona.<SEPARATORB>
@@ -78,7 +78,7 @@ Mirenek eta biok ostatu hartu
 ---------------
 <COLOR-GREEN>Bideo-zinta<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
-<COLOR-GREEN>lara-irekigailua<COLOR-WHITE> aurkitu dut.<SEPARATORB>
+<COLOR-GREEN>Lata-irekigailua<COLOR-WHITE> aurkitu dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Edurnezuriren musika-kutxa
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
@@ -110,7 +110,6 @@ Musika kutxa
 Musika kutxa
 	hartuko al duzu?<SELECT-YES-OR-NO>
 ---------------
-¿Te he asustado?
 Izutu egin al zaitut?
 ---------------
 Ba... bai, egia esan bai.
@@ -175,7 +174,7 @@ Gutuna bere tiraderatik hartu nuen.
 	bezala maite zaitut.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gauzak beste era batera izan balira,
-	adoptatu egingo zintuzkedan.
+	adoptatu egingo zintuzket.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urebetetzean, Leire.
 
@@ -220,8 +219,8 @@ Zirrikitu angeluzuzen bat dago.
 Plaka bat dauka aurrean,
 	inskripzio bat du.<SEPARATORB>
 ---------------
-<COLOR-BLUE>Printzesaren eserlekua,
-	hitzik egiten ez zuena.<SEPARATORB>
+<COLOR-BLUE>Hitzik egiten ez zuen
+	printzesaren eserlekua.<SEPARATORB>
 ---------------
 Zirrikitu angeluzuzen bat dago.
 

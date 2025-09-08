@@ -32,7 +32,7 @@ Aski da!
 ---------------
 Utz gaitzazue bioi bakean!
 ---------------
-Ahula zen.
+Ahula nintzen.
 ---------------
 Horregatik behar zintudan...
 ---------------
@@ -108,4 +108,4 @@ Lagundu...
 Piramide buruak
 	mugitzeari utzi dio.
 
-Eskuan zerbait duela dirudi.<SEPARATORB>
+Pixa koloreko arrautza eskuan duela dirudi.<SEPARATORB>

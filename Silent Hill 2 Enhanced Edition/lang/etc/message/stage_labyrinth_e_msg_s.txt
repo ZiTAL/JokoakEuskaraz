@@ -52,10 +52,10 @@ Orduan, zer nahi duzu?
 Ah, ikusten dut,
 	jatorrarena egiten ari da, ezta?
 ---------------
-Badakit zer nahi duen.
-	Berriro gauza berarekin.
+Badakit zer nahi duzun.
+	Beti gauza bera da.
 ---------------
-Gauza bakarra dute buruan.
+Gauza bakarra duzue buruan.
 ---------------
 Ez. Hori ez da egia.
 ---------------
@@ -76,17 +76,17 @@ Ez nazazu ukitu!
 ---------------
 Botaka egiteko gogoa dut!
 ---------------
-Miren bere emaztea hilda
-	zegoela esan zuen, ezta?
+Miren zure emaztea hilda
+	zegoela esan zenuen, ezta?
 ---------------
 Bai, gaixorik zegoen...
 ---------------
-Gezurretan ari da!
+Gezurtia!
 ---------------
-Ondo ezagutzen dut...
+Ondo ezagutzen zaitut...
 ---------------
-Ez nuen berarekin egon nahi.
-	Beste bat bilatuko genuke.
+Ez zenuen berarekin egon nahi.
+	Beste bat aurkituko zenuen ziur aski.
 ---------------
 Horrek ez du ez hanka ez bururik... Nik inoiz ez...
 ---------------
@@ -101,5 +101,5 @@ Hormak eta zorua egunkariz
 	beteta daude. Ez dirudi ezer
 	interesgarririk dagoenik.
 
-Baina hau gaurko da...
+Baina hau gaurkoa da...
 	Bai arraroa.<SEPARATORB>

@@ -37,7 +37,7 @@ Objektu bat jarriko
 Apalean dagoen guztia
 	kenduko al duzu?<SELECT-YES-OR-NO>
 ---------------
-<COLOR-GREEN>Errauskinerenmusika-kutxa
+<COLOR-GREEN>Errauskineren musika-kutxa
 	<COLOR-WHITE>aurkitu dut.<SEPARATORB>
 ---------------
 <COLOR-GREEN>Hoteleko 204. gelako giltza
@@ -60,7 +60,7 @@ Apalean dagoen guztia
 Oharren liburuan ez dago
 	ezer interesgarririk.<SEPARATORB>
 ---------------
-Ez dut ezer entzuten entzungailuagatik.
+Ez dut ezer entzuten erantzungailutik.
 	Telefono-linea moztuta egongo ote da?<SEPARATORB>
 ---------------
 Tiraderan ez dago ezer.<SEPARATORB>
@@ -78,8 +78,8 @@ Liburu bat dago zabalik
 	Medikuntzakoa dirudi.
 
 Medikuntzako liburu asko
-	irakurri ditut. Batek ere ez
-	zuen ezertarako balio izan.<SEPARATORB>
+	irakurri ditut. Bakar batek ere
+	ez zidan ezertarako balio izan.<SEPARATORB>
 ---------------
 Hemen ez dago ezer
 	erabilgarria dirudienik.<SEPARATORB>

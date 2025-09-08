@@ -262,7 +262,7 @@ Hoteleko 204. gelako giltza
 ---------------
 Langileentzako igogailuaren giltza
 ---------------
-Etiketak hau dio: «Lagileen igogailua».
+Etiketak hau dio: «Langileen igogailua».
 	204. gelan aurkitutakoa.
 ---------------
 Tabernako giltza
@@ -577,7 +577,7 @@ Gutun-azala hutsik dago.
 	bezala maite zaitut.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Gauzak beste era batera izan baziren,
-	adoptatu egingo zintuzkedan.
+	adoptatu egingo zintuzket.
 
 <CENTER-PARAGRAPH><COLOR-BLUE>Zorionak zure 8. urtebetzean, Leire.
 
