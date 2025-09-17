@@ -48,3 +48,5 @@ orduan, badaezpada hemen dago aldaketen zerrenda.
 - Jenniffer Carroll -> Ianire Kortazar
 - Laura -> Leire
 - Louise -> Luixa
+
+- Eneko Baldwin -> Eneko Jausoro

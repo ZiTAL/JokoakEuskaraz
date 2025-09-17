@@ -446,18 +446,18 @@ Plaka zuria
 ---------------
 Metalezko plaka zuria, zulo
 	karratuekin. 2. solairuko
-	ataria aurkitutakoa.
+	atarian aurkitutakoa.
 ---------------
 
 Plaka beltza
 ---------------
-Metalezko plaka zuria, zulo
+Metalezko plaka beltza, zulo
 	karratuekin. Etxeko 2. solairuko
 	lorategian aurkitutakoa.
 ---------------
 Plaka gorria
 ---------------
-Metalezko plaka zuria, zulo
+Metalezko plaka gorria, zulo
 	karratuekin. Etxeko 2. solairuko
 	lorategian aurkitutakoa.
 ---------------
@@ -741,7 +741,7 @@ Atzealdean arrautza bat ageri da.
 <CENTER-PARAGRAPH><COLOR-BLUE>Grial beltza dagoenean, eskaini
 	egingo diot. Zuk, heriotza
 	ukatzen duenak, betiereko
-	zortea izan dezagun.<SEPARATORB>
+	zortea izan dezazun.<SEPARATORB>
 ---------------
 <COLOR-WHITE>Atzeko aldean zerbait dauka idatzita.
 

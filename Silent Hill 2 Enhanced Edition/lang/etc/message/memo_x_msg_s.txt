@@ -1012,9 +1012,9 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	zuhaitzen generoa, mimosoideae
 	azpifamilia.
 	Lore hori edo zuri txikiak
-	ditu, mahats-mordoka hazten direnak.
+	ditu, mordoka hazten direnak.
 	Bere barietate arrunten artean
-	«goma-zuhaitza» dago.
+	«eukaliptoa» dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Akaziaren zuhaitza sinbolo
 	garrantzitsua da munduko
@@ -1024,16 +1024,16 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	irudikatzen ditu.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako Egipton garbitasuna eta
-	berpizkundea irudikatzen zituen,
-	antzinako Babilonian Ishtar
-	jainkosaren biziaren eta zuhaitzaren
-	sinbolotzat hartzen zen bitartean.
+	berpizkundea irudikatzen zituen.
+	Antzinako Babilonian berriz,
+	Ishtar jainkosaren zuhaitza zen,
+	eta bizitzaren sinbolotzat hartzen zuten.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako juduentzat ere zuhaitz
-	sakratua zen, Aliantzaren Arka
-	akaziaren egurrez eraiki zutenak;
-	haientzat heriotza lasaia eta
-	oinazearen askapena esan nahi zuen.<SEPARATORB>
+	sakratua zen.  Itunaren kutxa akaziaren
+	egurrez eraiki zuten. Haientzat heriotza
+	lasaiaren eta oinazearen askapenaren
+	sinbolo zen.<SEPARATORB>
 ---------------
 <CENTER-PARAGRAPH><COLOR-BLUE>Memoria galduak
 

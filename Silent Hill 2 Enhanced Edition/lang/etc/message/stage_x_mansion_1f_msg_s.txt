@@ -182,7 +182,7 @@ Tximinia itxita dago.
 Eta honako hau idatzita dauka:
 	<COLOR-BLUE>“Ez erabili”<COLOR-WHITE>.<SEPARATORB>
 ---------------
-Zeozengatik, tximiniak
+Zerbaitengatik, tximiniak
 	eskailera bat dauka.
 
 Goian zulo moduko
@@ -311,7 +311,7 @@ Loreen koadro bat.<SEPARATORB>
 ---------------
 Natura hila.<SEPARATORB>
 ---------------
-Globo terrakeoa.
+Lur-globoa.
 	Ez dit ezertarako balio.<SEPARATORB>
 ---------------
 Ez dago arrazoirik

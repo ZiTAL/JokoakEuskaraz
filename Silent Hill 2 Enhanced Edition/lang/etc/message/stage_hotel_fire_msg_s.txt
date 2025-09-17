@@ -28,14 +28,14 @@ Merezi nuela...
 ---------------
 Ez, Gotzone, ez da egia!
 ---------------
-Ez, ez nazazu erruki.
+Ez, ez errukitu nitaz.
 	Ez dut merezi...
 ---------------
 Edo salba nazakezula uste duzu?
-	Maiteko al nau?
+	Maiteko al nauzu?
 ---------------
-Zainduko nau?
-	Nire penak sendatuko ditu?
+Zainduko al nauzu?
+	Nire mina sendatuko al duzu?
 ---------------
 Hori uste nuen.
 ---------------

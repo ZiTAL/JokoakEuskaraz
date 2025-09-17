@@ -66,9 +66,9 @@ Nire izena... Miren da.
 ---------------
 Eneko.
 ---------------
-Hemingway?
+Sagardoy?
 ---------------
-Baldwin.
+Jausoro.
 ---------------
 Eneko... Itzuliko naiz.
 ---------------
@@ -104,9 +104,9 @@ Hemen liburu bat dago.
 	iraunkorreko zuhaitzen generoa,
 	mimosoideae azpifamilia. Lore
 	hori edo zuri txikiak ditu,
-	mahats-mordoka hazten direnak.
+	mordoka hazten direnak.
 	Bere barietate arrunten artean
-	«goma-zuhaitza» dago.
+	«eukaliptoa» dago.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Akaziaren zuhaitza sinbolo
 	garrantzitsua da munduko
@@ -115,17 +115,16 @@ Hemen liburu bat dago.
 	eta moraltasuna irudikatzen ditu.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako Egipton garbitasuna eta
-	berpizkundea irudikatzen zituen,
-	antzinako Babilonian Ishtar
-	jainkosaren biziaren eta
-	zuhaitzaren sinbolotzat
-	hartzen zen bitartean.
+	berpizkundea irudikatzen zituen.
+	Antzinako Babilonian berriz,
+	Ishtar jainkosaren zuhaitza zen,
+	eta bizitzaren sinbolotzat hartzen zuten.
 
 <CENTER-PARAGRAPH><COLOR-BLUE> Antzinako juduentzat ere zuhaitz
-	sakratua zen, Aliantzaren Arka
-	akaziaren egurrez eraiki zutenak;
-	haientzat heriotza lasaia eta
-	oinazearen askapena esan nahi zuen.<SEPARATORB>
+	sakratua zen.  Itunaren kutxa akaziaren
+	egurrez eraiki zuten. Haientzat heriotza
+	lasaiaren eta oinazearen askapenaren
+	sinbolo zen.<SEPARATORB>
 ---------------
 Hemen erloju bat dago.
 
