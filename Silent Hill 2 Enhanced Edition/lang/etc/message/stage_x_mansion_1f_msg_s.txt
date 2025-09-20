@@ -202,7 +202,7 @@ Eta gainean epitafio bat dago,
 	Etsipena eta zentzugabeko egunen
 	etorkizuna besterik ez da geratzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez dut inoiz uko egingo.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez diot inoiz uko egingo.
 	Zure irribarre ederra ikusi nahi
 	dudalako.
 	Jainkoen bedeinkapena

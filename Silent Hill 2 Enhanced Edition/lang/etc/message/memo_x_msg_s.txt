@@ -994,7 +994,7 @@ badakit, badakit kutxaren zenbakia <VARIABLE-01>
 	goizen etorkizuna besterik
 	ez da geratzen.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez dut inoiz uko egingo.
+<CENTER-PARAGRAPH><COLOR-BLUE>Baina ez diot inoiz uko egingo.
 	Zure irribarre ederra berriz
 	ikusi nahi dudalako.
 	Jainkoen bedeinkapena

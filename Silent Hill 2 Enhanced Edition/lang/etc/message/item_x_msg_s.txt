@@ -731,17 +731,18 @@ Atzealdean arrautza bat ageri da.
 ---------------
 <COLOR-WHITE>Atzeko aldean zerbait dauka idatzita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Hats zuria dagoenean, eskaini
-	egingo diot. Oi, Lainoaren
-	Izpiritua, eman iezaguzu
-	betiko zortea.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>
+	Hats zuria aurkitzen denean,
+	eskaini egingo diot.
+	Oi, Lainoaren Izpiritua,
+	emaguzu betiereko zortea.<SEPARATORB>
 ---------------
 <COLOR-WHITE>Atzeko aldean zerbait dauka idatzita.
 
-<CENTER-PARAGRAPH><COLOR-BLUE>Grial beltza dagoenean, eskaini
-	egingo diot. Zuk, heriotza
-	ukatzen duenak, betiereko
-	zortea izan dezazun.<SEPARATORB>
+<CENTER-PARAGRAPH><COLOR-BLUE>Grial beltza aurkitzen denean,
+	eskaini egingo diot.
+	Zuk, heriotza ukatzen duenak,
+	emaguzu betiereko zortea.<SEPARATORB>
 ---------------
 <COLOR-WHITE>Atzeko aldean zerbait dauka idatzita.
 
