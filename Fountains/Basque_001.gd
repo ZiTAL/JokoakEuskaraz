@@ -6,63 +6,64 @@ var data = {
 ##########################
 
 # Main menu
-MM_Continue = "CONTINUAR",
-MM_Delete = "ELIMINAR GUARDADO",
-MM_New = "NUEVO JUEGO",
-MM_Support = "FOUNTAINS EN [color=#1d9bf0]TWITTER[/color]",
-MM_Credits = "CRÉDITOS",
-MM_Settings = "AJUSTES",
-MM_Language = "IDIOMA ¶", # the symbol here is replaced with a language symbol
-MM_Quit = "SALIR",
+MM_Continue = "JARRAITU",
+MM_Delete = "PARTIDA EZABATU",
+MM_New = "JOKO BERRIA",
+MM_Support = "FOUNTAINS [color=#1d9bf0]TWITTER[/color]",
+MM_Credits = "KREDITUAK",
+MM_Settings = "EZARPENAK",
+MM_Language = "HIZKUNTZA ¶", # the symbol here is replaced with a language symbol
+MM_Quit = "IRTEN",
 # Only set this if the game has a custom title in the language
 LanguageCustomGameTitle = "",
-Demo = "DEMOSTRACIÓN",
+Demo = "DEMOA",
 Beta = "BETA",
-FileName = "Archivo",
-AnyButton = "Presiona cualquier botón para empezar",
-ControllerRecommendation = "Este juego se juega mejor con un control",
-SettingsTitle = "Ajustes",
-ContinueTitle = "Selecciona un archivo para continuar",
-DeleteTitle = "Selecciona un archivo para eliminar",
-NewTitle = "Selecciona un archivo para guardar tu nuevo juego",
-AllFullError = "Todos los archivos guardados están llenos. Por favor, elimina uno de los juegos guardados.",
-CreditsTitle = "Créditos",
+FileName = "Fitxategia",
+AnyButton = "Sakatu edozein botoi hasteko",
+ControllerRecommendation = "Joko hau kontrolagailuarekin hobeto jolasten da",
+SettingsTitle = "Ezarpenak",
+ContinueTitle = "Partida jarraitu",
+DeleteTitle = "Partida ezabatu",
+NewTitle = "Aukeratu fitxategia partida berria gordetzeko",
+AllFullError = "Gordetako fitxategi guztiak beteta daude. Mesedez, ezabatu gordetako partidaren bat.",
+CreditsTitle = "Kredituak",
 Credits = """
 FOUNTAINS
 
-por John Pywell
+John Pywell-ek egina
 
-ESCRITURA
+IDAZKETA
 Eric Ramirez-Erosa
 John Pywell
 
-MÚSICA
+MUSIKA
 Travis Moberg
 
-ARTE
+ARTEA
 John Pywell
 
-ARTE DE LA PANTALLA DE TÍTULO
+HASIERAKO PANTAILAKO ARTEA
 David Stuart (FrivolousKnight)
 
-ARTE ADICIONAL DE PERSONAJE
+PERTSONAIEN ARTE GEHIGARRIA
 Tiago Dela Savia (Art_Rebellious)
 
-LOCALIZACIÓN
-Ruso - Egor Meshcheryakov
-Francés - John Pywell
-Español - Eric Ramirez-Erosa
-Turco - Ichineko Loc.\n\t(Zeynep Nazlı Kolkıran, Işık Çağlar, Nisa Selin Yağız)
-Portugués Brasileño - Douglas Brum
-Chino - Huang "Shuyuan" Teng
+ITZULPENAK
+Errusiera - Egor Meshcheryakov
+Frantsesa - John Pywell
+Espainiera - Eric Ramirez-Erosa
+Turkiera - Ichineko Loc.\n\t(Zeynep Nazlı Kolkıran, Işık Çağlar, Nisa Selin Yağız)
+Brasilgo Portugesa - Douglas Brum
+Txinera - Huang "Shuyuan" Teng
+Euskara - zital
 
-LOCALIZACIÓN Y MARKETING JAPONÉS
+JAPONIERAZKO ITZULPENA ETA MARKETINA
 KURONO STUDIOS (kurono.xyz):
  Sam Lewis Kurono
  Alexander Toyota
  Miyuka Yamauchi
 
-CROWDFUNDING - PRODUCTORES EJECUTIVOS
+CROWDFUNDING - EXEKUTIBOAK
 Thomas Newton
 Patricia Miclat
 Thomas Hubscher
@@ -80,7 +81,7 @@ Daniel Ruiz 'TheBrightKing'
 ualac
 Matt
 
-CROWDFUNDING - FUNDADORES
+CROWDFUNDING - SORTZAILEAK
 Penny Anderson
 TheSeaHorse
 WolfKit
@@ -114,7 +115,7 @@ Justin Carter
 Cameron Riggs
 David Hazzard
 
-CROWDFUNDING - CONTRIBUYENTES
+CROWDFUNDING - LAGUNTZAILEAK
 Elizabeth Pywell
 Dylan Kinash
 Brenton Kollinger
@@ -164,62 +165,62 @@ MartianBlobfish
 Nicolas Chapuis
 BloodScourge
 """,
-NameNewTitle = "Ingresa tu nombre",
-BackspaceButton = "Retroceso",
-StartButton = "Iniciar",
-DeleteErrorNoSaves = "No hay archivos guardados para eliminar.",
-DeleteConfirmTitle = "Eliminar",
-DeleteConfirm = "¿Estás seguro de que deseas eliminar este archivo guardado permanentemente?",
-DeleteNo = "¡No borrar!",
-DeleteYes = "Eliminarlo.",
-AcceptIndicator = "ACEPTAR",
-BackIndicator = "REGRESAR",
-MoveIndicator = "MOVER\n\n\nCURSOR",
-BuyIndicator = "COMPRAR",
-CancelIndicator = "CANCELAR",
+NameNewTitle = "Idatzi zure izena",
+BackspaceButton = "Atzera",
+StartButton = "Hasi",
+DeleteErrorNoSaves = "Ez dago ezabatzeko partidarik.",
+DeleteConfirmTitle = "Ezabatu",
+DeleteConfirm = "Ziur zaude partida hau betirako ezabatu nahi duzula?",
+DeleteNo = "Ez ezabatu!",
+DeleteYes = "Ezabatu.",
+AcceptIndicator = "ONARTU",
+BackIndicator = "ATZERA",
+MoveIndicator = "MUGITU\n\n\nKURTSOREA",
+BuyIndicator = "EROSI",
+CancelIndicator = "UTZI",
 # Options for traversing menus
-Back = "Atrás",
-Submit = "Enviar",
+Back = "Atzera",
+Submit = "Bidali",
 # Settings menu
-SetTitle = "AJUSTES",
-SetVideo = "Video",
-SetAudio = "Audio",
-SetGame = "Juego",
-SetLanguage = "Idioma ¶",  # the symbol here will display as a language symbol
-VidSetTitle = "AJUSTES DE VIDEO",
-VidSetFullscreen = "Pantalla Completa",
-VidSetPerformanceMode = "Modo de Rendimiento",
-VidSetPerformanceModeFancy = "Superior",
-VidSetPerformanceModeFast = "Rápido",
-VidSetFPS = "Límite de FPS",
-VidSetDisableHud = "Desactivar HUD [color=#aaaaaa](F10)[/color]",
-VidScreenShake = "Agitación de Pantalla",
-VidEnergyVignette = "Estampa de Baja Energía",
-VidCrtFilter = "Filtro CRT",
-VidBrightness = "Brillo",
-VidContrast = "Contraste",
-AudSetTitle = "AJUSTES DE AUDIO",
-AudMaster = " Sonido Maestro",
-AudGameSounds = "Sonidos del Juego",
-AudMenuSounds = "Sonidos del Menú",
-AudMusic = "Música",
-AudVoice = "Voces de NPC",
-GameSetTitle = "AJUSTES DEL JUEGO",
-GameSetControllerVibe = "Vibración del Control",
-GameSetPlayerMessages = "Mensajes del Jugador",
-GameSetKBMRollDir = "Dirección de Rodar KB/M",
-GameSetKBMRollDirMouse = "Dir. Cursor",
-GameSetKBMRollDirWalk = "Dir. Mover",
-GameSetSpeedrunTimer = "Cronógrafa Speedrun",
-GameSetDisableTutorials = "Desactivar Tutoriales",
-LanguageSetTitle = "Idioma",
-LanguageSetLanguage = "Idioma ¶",  # the symbol here will display as a language symbol
-SecretCode = "Código Secreto",
-SecretCodeSetTitle = "Ingresa el código secreto",
-SecretCodeInvalidCode = "Código inválido",
-SecretCodeActivated = "Código activado: ",
+SetTitle = "EZARPENAK",
+SetVideo = "Bideoa",
+SetAudio = "Audioa",
+SetGame = "Jokoa",
+SetLanguage = "Hizkuntza ¶",  # the symbol here will display as a language symbol
+VidSetTitle = "BIDEO EZARPENAK",
+VidSetFullscreen = "Pantaila Osoa",
+VidSetPerformanceMode = "Errendimendu Modua",
+VidSetPerformanceModeFancy = "Goi-mailakoa",
+VidSetPerformanceModeFast = "Azkarra",
+VidSetFPS = "FPS Muga",
+VidSetDisableHud = "HUD-a desgaitu [color=#aaaaaa](F10)[/color]",
+VidScreenShake = "Pantaila Astindu",
+VidEnergyVignette = "Energia Baxuko Efektua",
+VidCrtFilter = "CRT Iragazkia",
+VidBrightness = "Distira",
+VidContrast = "Kontrastea",
+AudSetTitle = "AUDIO EZARPENAK",
+AudMaster = " Soinu Nagusia",
+AudGameSounds = "Jokoaren Soinuak",
+AudMenuSounds = "Menuaren Soinuak",
+AudMusic = "Musika",
+AudVoice = "NPC-en Ahotsak",
+GameSetTitle = "JOKOAREN EZARPENAK",
+GameSetControllerVibe = "Kontrolagailuaren Bibrazioa",
+GameSetPlayerMessages = "Jokalariaren Mezuak",
+GameSetKBMRollDir = "KB/M Biratzeko Norabidea",
+GameSetKBMRollDirMouse = "Kurtsorearen Norabidea",
+GameSetKBMRollDirWalk = "Mugimenduaren Norabidea",
+GameSetSpeedrunTimer = "Speedrun Kronometroa",
+GameSetDisableTutorials = "Tutorialak Desgaitu",
+LanguageSetTitle = "Hizkuntza",
+LanguageSetLanguage = "Hizkuntza ¶",  # the symbol here will display as a language symbol
+SecretCode = "Kode Sekretua",
+SecretCodeSetTitle = "Idatzi kode sekretua",
+SecretCodeInvalidCode = "Kodeak ez du balio",
+SecretCodeActivated = "Kodea aktibatu da: ",
 # Opening text
-OpeningText1 = "Esto es lo que no se atrevieron a registrar:",
-OpeningText2 = "El [color=#ff4c42]Usurpador[/color] debió surgir de sus propias filas.",
-PressToSkipPrefix = "Presiona",
-PressToSkipPostfix = "para omitir",
+OpeningText1 = "Hau da erregistratzera ausartu ez zirena:",
+OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere ilaretatik sortu behar izan zen.",
+PressToSkipPrefix = "Sakatu",
+PressToSkipPostfix = "saltatzeko",
