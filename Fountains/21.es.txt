@@ -1,0 +1,95 @@
+# NOTE = "emotion" field in the following character is used for game logic.
+# Do not translate the emotion fields.
+ChallengeMaster = {
+	greeting={
+		text=["Oh vaya, un nuevo amigo..."],
+		emotion="pleasure_loop",
+	},
+	proposition={
+		text=["¿Quieres jugar?",
+		],
+		prompt="¿Quieres jugar?",
+		answers=["Sí", "No"],
+	},
+	explanation1={
+		text=["Aquí está el juego: Te desafío a hacer cosas..."],
+		emotion="pleasure_loop",
+	},
+	explanation2={
+		text=["Si tú las haces..."],
+		emotion="angry_loop",
+	},
+	explanation3={
+		text=["¡Entonces recibirás una recompensa!", "¿Lo entiendes?"],
+		prompt="¿Lo entiendes?",
+		answers=["Sí", "No"],
+	},
+	challenge0={
+		text=["Aquí está tu primer desafío:",
+		"Quiero verte comer una [color=#77FFFF]Especia Abrasadora[/color].",
+		"¡Vamos, yo lo como todo el tiempo!"
+		],
+	},
+	challenge1={
+		text=[
+		"¡Je je je! ¿Cómo supo la especia, bastard@ codicioso de dinero?",
+		"Aquí está tu siguiente desafío:",
+		"Golpéame en la cara con un [color=#77FFFF]pez espada[/color].",
+		"[color=#77FFFF]Los peces espada[/color] son muy raros, así que tu tendrás que atraparlo...",
+		"Pero si tienes una caña de pescar de calidad, lo atraparás en un abrir y cerrar de ojos.",
+		"¡Vamos, hazlo!"
+		],
+	},
+	no_more_challenges={
+		text=["Hmm, bueno, ¡estoy satisfecho!",
+		"Gracias por jugar conmigo."],
+		emotion="pleasure_loop",
+	},
+	hit_exclamations = ["¡Oh!",
+		"¡Oh Dios mío!",
+		"¿Hmm, somos inquietos?",
+		"¿No queremos jugar?",
+	],
+},
+
+# NOTE = "emotion" field in the following character is used for game logic.
+# Do not translate the emotion fields.
+NoseCharacter = {
+	greeting={
+		text=["Eh, ¿hola?"],
+		emotion="pleasure_loop",
+	},
+	greeting2={
+		text=["Ugh, ¡mi nariz está tan tapada..."],
+		emotion="angry_loop",
+	},
+	has_spice={
+		text=[
+			"¿Woah, es esa [color=#77FFFF]Especia Abrasadora[/color] lo que huelo?",
+			"¿Puedo tenerla? Podría destapar mi nariz."
+		],
+		emotion="pleasure_loop",
+		prompt="¿Me das la [color=#77FFFF]Especia Abrasadora[/color]?",
+		answers=["No", "Sí"]
+	},
+	thanks1={
+		text=[
+			"Wow, ¡gracias!",
+			"*SNIIIIIFF*",
+		],
+		emotion="pleasure_loop",
+	},
+	thanks2={
+		text=[
+			"Ow. Ah, AH...",
+			"Bueno, gracias, mi nariz está goteando como loca.",
+			"Me voy de aquí."
+		],
+		emotion="angry_loop",
+	},
+	hit_exclamations = ["¡Ugh!",
+		"¡Uhh, para!",
+		"¡Oof!",
+		"¡Como, para!",
+	],
+},

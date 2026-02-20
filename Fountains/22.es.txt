@@ -1,0 +1,55 @@
+GDBasement_Angelo = {
+	greeting={
+		text=["Ey, oh. Amigo, no te vi ahí.",
+		"¡Estaba demasiado ocupado mirando este anillo elegante que tengo! Nah, no querrás perderte un anillo como este!",
+		"Escucha esto: si te pones este anillo, aumenta tus sentidos o algo así. ¡Te permite desviar cosas con tu espada!",
+		"Digamos que alguien de [color=#fffab3]La Guardia[/color] te disparó una flecha. ¡Simplemente devuélvesela! No sabrá qué le golpeó.",
+		],
+	},
+	sell={
+		text=["Entonces, ¿qué dices? ¿Quieres comprar esta belleza de anillo para que puedas desviar proyectiles con tu espada?",
+		"Escucha, este objeto vale mucho, pero estaría dispuesto a desprenderme de él por meras... %s piezas.", # FORMAT: Ring price
+		],
+		prompt="¿Comprar el [color=#77FFFF]Anillo de Desvío[/color] por %s piezas?", # FORMAT: Ring price
+		answers=["Lo compraré.", "No ahora."]
+	},
+	too_poor={text=["Wow, ¿estás tratando de estafárme, amigo? ¡Este dinero no es suficiente! Vuelve cuando tus bolsillos estén más llenos."]},
+	thanks={text=["¡Es un placer hacer negocios contigo!"]},
+	final={text=["Voy a montar mi tienda en otro lugar. Tal vez te vea."]},
+	hit_exclamations = ["Ay.",
+		"¿Qué estás haciendo?",
+		"Detente, o habrán consecuencias.",
+		"Me estoy enojando, amigo.",
+	],
+},
+
+TheVeil_Angelo = {
+	greeting={
+		text=[
+			"¡OH! ¡Mira quién está aquí, mi mejor cliente!",
+			"¿Cómo te ha ido con ese anillo? Bueno, comparado con este nuevo que tengo aquí, ese es una basura.",
+			"Ahora, no te sientas avergonzado, pero sé que eres el tipo de tonto que le gusta revolcarse en la tierra. No hay vergüenza en eso.",
+			"Pero hey - ¿y si pudieras revolcarte a larga distancia? Bueno, esa es la clase de ventaja que obtienes cuando compras con Angelo."
+		],
+	},
+	sell={
+		text=["Entonces, ¿qué dices? ¿Quieres revolcarte con la velocidad de un maldito demonio? Por el precio correcto, este anillo es todo tuyo.",
+		"Esto es artesanía de primera línea, te costará... %s piezas.", # FORMAT: Ring price
+		],
+		prompt="¿Comprar el [color=#77FFFF]Anillo de Volteo Aumentado[/color] por %s piezas?", # FORMAT: Ring price
+		answers=["Lo compraré.", "No ahora mismo."]
+	},
+	too_poor={text=["Oye amigo, sé que no es barato, pero tengo que ganarme la vida aquí. Vuelve con algo de dinero."]},
+	thanks={text=["Disfruta, y oye - ¡no te golpees la cabeza! Heh heh heh."]},
+	angry={text=[
+		"Psh, tú otra vez.",
+		"Desaparece, o esto terminará como la última vez, chico.",
+		"Sí, me oíste. Vete al diablo, enano.",
+	]},
+	final={text=["Bueno, mis oportunidades en [color=#8aff92]El Veil[/color] se han terminado. Tal vez te vea en otro lugar."]},
+	hit_exclamations = ["Ay.",
+		"¿Qué estás haciendo?",
+		"Detente, o habrán consecuencias.",
+		"Me estoy enojando, amigo.",
+	],
+},

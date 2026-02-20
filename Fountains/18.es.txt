@@ -1,0 +1,55 @@
+Sloan = {
+	default={
+		text=["Hermano...",
+			"Espero que tu vida esté bien...",
+			"Déjame en paz. ¿O deseas ser [color=#FFBD33]Secado[/color] también?",
+			"Mis ojos comienzan a arder..."
+		],
+	},
+	give_waters={
+		text=["Ah, esto es...",
+			"¿Tú me lo das?",
+			"Ya siento que mi fuerza regresa.",
+		],
+	},
+	gave_waters_loop={
+		text=["Reuniré mi fuerza, luego saldré a buscar a mi hermano."],
+	},
+	quest_done_goodending={
+		text=["No puedo agradecerte lo suficiente.",
+			"Recupero mi fuerza con cada hora que pasa.",
+		],
+	},
+	hit_exclamations = ["Ah...",
+		"¿Qué deseas...?",
+		"¿Has perdido la razón?",
+		"¿Por qué?",
+	],
+},
+
+PetOptions = [
+	"Cancelar",
+	"Recoger mascota",
+	"Hablar",
+	"Acariciar"
+],
+
+Dog = {
+	pet_prompt={
+		text=["Hay un perro aquí. ¿Acariciarlo?"
+		],
+		prompt="¿Acariciar al perro?",
+		answers=["Sí", "No"]
+	},
+	pet={
+		text=[
+			"Acaricias al perro.",
+			"¡Has acariciado a %s perros!" #FORMAT: Número de perros acariciados hasta ahora
+		]
+	},
+	hit_exclamations = ["¡Guau!",
+		"¡Guau!",
+		"¡Guau guau!",
+		"¿Guau?",
+	],
+},

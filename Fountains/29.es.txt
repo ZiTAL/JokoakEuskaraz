@@ -1,0 +1,51 @@
+##########################
+#          PETS          #
+##########################
+
+ImpPet = {
+	name = "Diablillo",
+	talk = [
+		"El diablillo no parece que pueda hablar.",
+		"El diablillo permanece en silencio."
+	],
+	pet = [
+		"Tratas de acariciar al diablillo, pero su piel está demasiado caliente para tocar.",
+		"¿Estás tratando de quemarte la mano?"
+	],
+},
+
+GoldenGolemPet = {
+	name = "Golem Dorado",
+	talk = [
+		"En respuesta a tu voz, oyes un ligero zumbido de engranajes dentro del golem.",
+		"El ojo del mecanismo se ilumina en respuesta a tu voz."
+	],
+	pet = [
+		"Las esquinas afiladas del golem están frías al tacto, pero emite un zumbido agradable en respuesta.",
+		"La máquina se inclina ligeramente hacia ti mientras la acaricias."
+	],
+},
+
+DogPet = {
+	name = "Perro",
+	talk = [
+		"El perro no parece que pueda hablar.",
+		"Creías haber escuchado al perro decir algo, pero solo fue un ladrido."
+	],
+	pet = [
+		"El perro mueve la cola.",
+		"El perro mueve la cola aún más fuerte.",
+		"El perro mueve la cola furiosamente.",
+		"El perro decide dejar de mover la cola antes de que se descontrole.",
+	],
+},
+
+CatPet = {
+	name = "Gato",
+	talk = [
+		"El gato maulla hacia ti de una manera que dice 'no puedo hablar.'.",
+	],
+	pet = [
+		"El gato ronronea hacia ti.",
+	],
+},

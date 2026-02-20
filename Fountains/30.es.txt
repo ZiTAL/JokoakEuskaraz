@@ -1,0 +1,134 @@
+##########################
+#          ITEMS         #
+##########################
+
+ItemText = {
+# ARMOUR
+Items.ItemID.KNIGHTS_CHESTPLATE:{
+	name = "Pechera de Caballero",
+	description = "Armadura ceremonial usada por los Caballeros de La Guardia. Aparentemente es antigua, pero está bien mantenida.",
+	},
+Items.ItemID.KNIGHTS_LEGGINGS:{
+	name = "Pantalones de Caballero",
+	description = "Armadura ceremonial usada por los Caballeros de La Guardia. Consisten de placas voluminosas e interconectadas, acentuadas con latón pulido.",
+	},
+Items.ItemID.KNIGHTS_HELMET:{
+	name = "Casco de Caballero",
+	description = "Casco ceremonial usado por los Caballeros de La Guardia. Como tal, la visibilidad al llevarlo es menos que ideal.",
+	},
+Items.ItemID.PALACE_CHESTPLATE:{
+	name = "Coraza de Fourain",
+	description = "Usada por la guardia privada del Palacio de Fourain. Las mismas Reinas otorgarían esta armadura a aquellos que habían probado su lealtad.",
+	},
+Items.ItemID.PALACE_LEGGINGS:{
+	name = "Grebas de Fourain",
+	description = "Usada por la guardia privada del Palacio de Fourain. Las mismas Reinas otorgarían esta armadura a aquellos que habían probado su lealtad.",
+	},
+Items.ItemID.PALACE_HELMET:{
+	name = "Casco de Fourain",
+	description = "Usada por la guardia privada del Palacio de Fourain. Las mismas Reinas otorgarían esta armadura a aquellos que habían probado su lealtad.",
+	},
+Items.ItemID.BLOODSTAINED_ROBES:{
+	name = "Túnicas Manchadas de Sangre",
+	description = "Dejadas hace tiempo por un combatiente en El Consumo. Se piensa que es un uniforme del Único Reino, es imposible saber de qué lado luchó el propietario.",
+	},
+Items.ItemID.BLOODSTAINED_CUISSARDES:{
+	name = "Corazas Manchadas de Sangre",
+	description = "Dejadas hace tiempo por un combatiente en El Consumo. Se piensa que es un uniforme del Uno Reino, es imposible saber de qué lado luchó el propietario.",
+	},
+Items.ItemID.BLOODSTAINED_HOOD:{
+	name = "Capucha Manchada de Sangre",
+	description = "Dejadas hace tiempo por un combatiente en El Consumo. Se piensa que es un uniforme del Uno Reino, es imposible saber de qué lado luchó el propietario.",
+	},
+Items.ItemID.BISHOPS_WINGS:{
+	name = "Alas de Obispo",
+	description = "Los obispos están entre los pocos que han ganado poder a través de una Forma aumentada. Sin embargo, aún retienen la autoconciencia para ocultar sus formas retorcidas.",
+	},
+Items.ItemID.BISHOPS_GREAVES:{
+	name = "Grebas del Obispo",
+	description = "Los obispos están entre los pocos que han ganado poder a través de una Forma aumentada. Aún conservan la autoconciencia para ocultar sus formas retorcidas.",
+	},
+Items.ItemID.BISHOPS_MASK:{
+	name = "Máscara del Obispo",
+	description = "Los obispos están entre los pocos que han ganado poder a través de una Forma aumentada. Aún conservan la autoconciencia para ocultar sus formas retorcidas.",
+	},
+Items.ItemID.VELAN_CHESTPLATE:{
+	name = "Pechera Velano",
+	description = "Usada por los guerreros del oeste. Metal delgado, pero cuidadosamente diseñado.",
+	},
+Items.ItemID.VELAN_LEGGINGS:{
+	name = "Mallones Velanas",
+	description = "Usada por los guerreros del oeste. Metal delgado, pero cuidadosamente diseñado.",
+	},
+Items.ItemID.VELAN_HELMET:{
+	name = "Casco Velano",
+	description = "Usado por los guerreros del oeste. Metal delgado, pero cuidadosamente diseñado.",
+	},
+Items.ItemID.DAMNED_KNIGHTS_HELMET:{
+	name = "Casco del Caballero Maldito",
+	description = "Diseñado como un castigo, este casco voluminoso está hecho de piedra en lugar de metal.",
+	},
+Items.ItemID.HUMAN_SKULL:{
+	name = "Cráneo Humano",
+	description = "El cráneo de otro ser humano. Algunos creen que los cráneos tienen propiedades mágicas.",
+	},
+Items.ItemID.CHAINMAIL:{
+	name = "Cota de Malla",
+	description = "Cota de malla básica, ligeramente oxidada y con algunos agujeros.",
+	},
+Items.ItemID.REDLEATHER_COIF:{
+	name = "Capucha de Cuero Rojo",
+	description = "Capucha hecha de Cuero Rojo, un material de origen misterioso, conocido por sus efectos de anulación de magia.",
+	},
+Items.ItemID.REDLEATHER_CLOAK:{
+	name ="Capa de Cuero Rojo",
+	description = "Capa hecha de Cuero Rojo, un material de origen misterioso, conocido por sus efectos de anulación de magia.",
+	},
+Items.ItemID.HARDENED_CHAPS:{
+	name = "Chaparreras Endurecidos",
+	description = "Chaparreras hechos de un cuero duro y endurecido. Como no están hechos de metal, son particularmente resistentes a ataques mágicos.",
+	},
+Items.ItemID.CLIFF_CASTERS_HOOD:{
+	name = "Capucha del Lanzador de Acantilados",
+	description = "Esta capucha permite a un lanzador de hechizos a contener más [color=#77FFFF]AGUA[/color].",
+	},
+Items.ItemID.GOLDEN_HELM:{
+	name = "Yelmo Dorado de Decimus",
+	description = "Este yelmo dorado es todo lo que queda de Decimus, quien luchó para rechazar a Cypha y Cyntra al final del Consumo.",
+	},
+Items.ItemID.YAK_HEAD:{
+	name = "Cabeza de Yak",
+	description = "Una máscara hecha de la cabeza de un yak. Probablemente creada como algún tipo de disfraz o broma de mal gusto",
+	},
+Items.ItemID.DROHMIC_CHESTPLATE:{
+	name = "Coraza Drohmica",
+	description = "Una coraza de bronce fabricada por Drohm esclavizados. Elaborada minuciosamente a mano, pero ligeramente empañada.",
+	},
+Items.ItemID.DROHMIC_LEGGINGS:{
+	name = "Leotardos Drohmicos",
+	description = "Un conjunto de leotardos de bronce fabricados por Drohm esclavizados. Elaborados minuciosamente a mano, pero ligeramente empañados.",
+	},
+Items.ItemID.DROHMIC_HELM:{
+	name = "Yelmo Drohmico",
+	description = "Un yelmo de bronce fabricado por Drohm esclavizados. Elaborado minuciosamente a mano, pero ligeramente empañado.",
+	},
+Items.ItemID.SCHOLARS_CHAINCLOAK:{
+	name = "Capa de Creyente Anciano",
+	description = "Una capa de cadena fabricada por Drohm esclavizados. Inspirada en la armadura nativa Drohmica, pero con materiales más resistentes a la magia.",
+	},
+Items.ItemID.SCHOLARS_CHAINLEGGINGS:{
+	name = "Leotardos de Creyente Anciano",
+	description = "Un conjunto de leotardos fabricados por Drohm esclavizados. Inspirados en la armadura nativa Drohmica, pero con materiales más resistentes a la magia.",
+	},
+Items.ItemID.SCHOLARS_HELM:{
+	name = "Yelmo de Creyente Anciano",
+	description = "Un yelmo fabricado por Drohm esclavizados. Inspirado en la armadura nativa Drohmica, pero con materiales más resistentes a la magia.",
+	},
+Items.ItemID.SCHOLARS_HOOD:{
+	name = "Capucha Anticuada del Creyente Anciano",
+	description = "Una capucha de diseño olvidado. Esta capucha permite a un hechicero a tener más [color=#77FFFF]AGUA[/color].",
+	},
+Items.ItemID.FIREPROOF_GREAVES:{
+	name = "Grebas a Prueba de Fuego",
+	description = "Un conjunto de grebas dejadas en una caverna sellada.\nHacen al portador inmune a las quemaduras y le permiten caminar cómodamente sobre superficies calientes.",
+	},

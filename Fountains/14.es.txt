@@ -1,0 +1,98 @@
+	sr_death_who={
+		text=[
+			"Bueno, como espero que recuerdes, te pedí que buscaras a los [color=#77FFFF]Intemporales[/color].",
+			"Nuestro director aquí es desafortunadamente uno de ellos.",
+			"Si vas a detener al [color=#ff4c42]Usurpador[/color], debes matar a nuestro director antes de que el [color=#ff4c42]Usurpador[/color] pueda hacerlo.",
+			"En cuanto a cómo, no estoy demasiado seguro... Verás, nadie ha matado nunca a un [color=#77FFFF]Intemporal[/color]." ,
+			"En algunos círculos, se cree que solo el [color=#ff4c42]Usurpador[/color] tiene ese poder, así que si logras...",
+			"Bueno, cruzaremos ese puente cuando lleguemos a él."
+		],
+	},
+	sr_death_silent={
+		text=[
+			"¿No estás interesado?",
+			"Bueno, en caso de que sí te importe, hay un [color=#77FFFF]Intemporal[/color] aquí.",
+			"El [color=#ff4c42]Usurpador[/color] se los llevará si no los matamos primero.",
+			"De hecho, si vas a detener al [color=#ff4c42]Usurpador[/color], debes matar a nuestro director antes de que el [color=#ff4c42]Usurpador[/color] pueda hacerlo.",
+			"En cuanto a cómo, no estoy muy seguro... Verás, nadie ha matado nunca a un [color=#77FFFF]Intemporal[/color]." ,
+			"En algunos círculos, se cree que solo el [color=#ff4c42]Usurpador[/color] tiene ese poder, así que si logras...",
+			"Bueno, cruzaremos ese puente cuando lleguemos a él."
+		],
+	},
+	sr_talk_menu={
+		answers=["¿Qué es este lugar?", "No importa."]
+	},
+	sr_what_is_this_place={
+		text=[
+			"Este es el templo de los Creyentes Ancianos.",
+			"Y como ya sabes, mis hermanos no son amables con los extraños.",
+			"¡Ni siquiera les gusto mucho, por el amor de los dioses!",
+			"Sin embargo, en los días de gloria, nos enfocabamos en la manipulación de [color=#77FFFF]AGUA[/color]. Nuestros estudios pasaron los límites de lo que sabíamos.",
+			"Qué pena, pasar de eruditos a soldados...",
+			"¡Pero no permitiré que nuestros estudios se desvanezcan!",
+			"Pasare aún más los límites y continuaré nuestro trabajo.",
+			"Por supuesto, no puedo hacer eso si el [color=#ff4c42]Usurpador[/color] destruye el mundo... Por eso te necesito.",
+		],
+	},
+	sr_what_is_this_place_player_usurper_addendum={
+		text=[
+			"No debes convertirte en lo que tememos.",
+			"Cuando llegue el momento, debes destruir la [color=#77FFFF]Fuente de la Juventud.[/color]"
+		]
+	},
+	ack_kill_elias={
+		text=[
+			"Espera, ¿tú - realmente lo mataste?",
+			"¡Has derrotado a un [color=#77FFFF]Intemporal[/color]!",
+			"Si debo decir que echaré de menos a mi maestro, pero sé que debes llegar a cualquier extremo para detener al [color=#ff4c42]Usurpador[/color]...",
+			"...",
+			"A menos que, por supuesto... No, es demasiado pronto para decirlo.",
+			"Por ahora, el objetivo en el que acordamos en mi otro laboratorio sigue siendo el mismo.",
+			"Mata al resto de los [color=#77FFFF]Intemporales[/color], para detener al [color=#ff4c42]Usurpador[/color].",
+			"Desafortunadamente, mi capacidad para afinar tu poder está limitada por los materiales que tengo aquí.",
+			"A través de esta tierra tengo muchos estudios; tal es el precio de expandirme demasiado.",
+			"Sin embargo, deberían tener los materiales que necesito para continuar mi trabajo contigo. ",
+			"¡Este será mi mayor experimento hasta ahora!",
+			"Busquemos ambos aquello que buscamos.",
+		],
+	},
+	veil_greeting={
+		text=[
+			"¡Hola!",
+			"Veo que has encontrado mi estudio en esta tierra de brutos.",
+			"Me sorprende que no hayan tomado este laboratorio, dado su búsqueda de [color=#8aff92]Vela...[/color]",
+			"¡Y ella era la más brusca de todos!",
+			"Honestamente, estoy impresionado de que todavía la busquen, considerando cuánto tiempo ha pasado.",
+			"Sin embargo, mis experimentos aquí con los caballeros han resultado útiles.",
+			"Y con los materiales que quedan, debería poder perfeccionar aún más tu poder.",
+			"Entonces, ¿qué será?"
+		]
+	},
+	veil_talk_menu={
+		prompt="Augusto",
+		answers=["¿Dónde está [color=#8aff92]Vela?[/color]","No importa."]
+	},
+	where_vela={
+		text=[
+			"Ahora eso, lamentablemente no puedo responder.",
+			"Verás, [color=#8aff92]Vela[/color] ha estado desaparecida desde el final del [color=#77FFFF]Consumo.[/color]",
+			"Los [color=#8aff92]Caballeros Velanos[/color] la han buscado frenéticamente, pero con poco éxito.",
+			"Sin embargo, esta reciente aflicción aquí en [color=#8aff92]El Veil[/color], hay algo... sobrenatural en ello.",
+			"La flora se convierte en bestias, y parece buscar un desafío.",
+			"No puedo imaginar qué lo está causando."
+		]
+	},
+	tidefields_greeting={
+		text=[
+			"Debo decir, no he visitado este estudio en bastante tiempo.",
+			"Como probablemente viste, no queda mucha civilización en estos campos.",
+			"Cualquier cosa viviente que alguna vez estuvo aquí, o murió o huyó.",
+			"Sin embargo, el [color=#77FFFF]AGUA[/color] sigue fluyendo con fuerza...",
+			"Quizás sea una señal de estas tierras.",
+			"Pero, me desvío. Mi punto es que tengo todo lo que necesito para hacerte más fuerte.",
+			"Entonces, ¿qué será?",
+		]
+	},
+	tidefields_talk_menu={
+		answers=["¿Qué pasó aquí?", "No importa."]
+	},

@@ -1,0 +1,109 @@
+Drekh ={
+	first_talk={
+		text=["¿Quién viene a estas tierras?",
+			"Oh, amigo...",
+			"Te ruego, regresa de donde viniste, no sea que te seques como mis parientes.",
+		],
+		prompt="Drekh",
+		answers=["¿Quién eres?", "Permanecer en silencio"]
+	},
+	who_are_you={
+		text=["Me llaman Drekh.",
+			"La [color=#FFBD33]Cuenca Secá[/color] fue hogar para nosotros, los Drohm.",
+			"Ahora está perdida en la locura.",
+			"El fuego de [color=#FFBD33]Elias[/color] arde en los ojos de mis parientes. Si continúas, ellos te mirarán.",
+			"Mis mercancías permanecerán aquí al borde, si las necesitas.",
+			"Debo advertirte: a medida que mis manos se erosionan, ya no puedo usar una [color=#77FFFF]Piedra de Afilar[/color]."
+		]
+	},
+	remain_silent={
+		text=["Te advierto, esta tierra está perdida en la locura. Vete si valoras tu vida."]
+	},
+	trade_prompt_not_accepted={
+		prompt="Drekh",
+		answers=["Cuéntame sobre la locura", "Intercambiar", "Dejar",]
+	},
+	trade_prompt_accepted={
+		prompt="Drekh",
+		answers=["¿Cómo puedo ayudar de nuevo?", "Intercambiar", "Dejar",]
+	},
+	trade_prompt_badending={
+		prompt="Drekh",
+		answers=["Hablar", "Intercambiar", "Dejar",]
+	},
+	trade_prompt_goodending={
+		prompt="Drekh",
+		answers=["Hablar", "Intercambiar", "Dejar",]
+	},
+	talk_badending={
+		text=["Te agradezco nuevamente por tu ayuda.", "Ahora viene mi propia misión: encontrar a mi hermano y otorgarle las aguas."]
+	},
+	talk_goodending={
+		text=["Te agradezco nuevamente por tu ayuda.", "Has salvado la vida de Sloan. Estoy eternamente en deuda contigo."]
+	},
+	quest_prompt={
+		text=[
+			"¿No has visto a los [color=#FFBD33]Secos[/color]?",
+			"Drohm que ha perdido la razón.",
+			"[color=#FFBD33]Elias[/color] ha traído ruina a esta tierra, mi hogar.",
+			"Incluso mi hermano está atrapado en la locura. [color=#FFBD33]Elias[/color] lo tiene cautivo, tanto cuerpo como mente.",
+			"Sin embargo, creo que hay una manera de liberarlo.",
+			"Entonces, ¿ofrecerás tu ayuda?"
+		],
+		prompt="¿Ayudar a Drekh?",
+		answers=["Ayudar a Drekh", "Dejar"],
+	},
+	quest_accepted={
+		text=[
+			"Te agradezco, de verdad. Has mostrado una gran bondad.",
+			"Una palabra de advertencia, sin embargo...",
+			"Temo que el camino hacia la libertad de mi hermano dirija a la [color=#FFBD33]Cisterna Volcánica[/color].",
+			"Una vez estuvo llena de agua, como esta cuenca.",
+			"Esas aguas nos otorgaron energía a los Drohm. Creo que pueden devolver la mente de mi hermano.",
+			"Busca a los Rebuscadores en lo profundo de la [color=#FFBD33]Cuenca Secá[/color]. Ellos pueden conocer el camino hacia estas aguas, y quizás incluso la ubicación de mi hermano."
+		],
+	},
+	quest_reminder={
+		text=["Busca a los Rebuscadores en lo profundo de la [color=#FFBD33]Cuenca Secá[/color]. Ellos pueden conocer el camino hacia las aguas para mi hermano, y quizás incluso su paradero."]
+	},
+	quest_handin_badending={
+		text=[
+			"¡Has regresado!",
+			"Por favor, dime: ¿has encontrado las aguas?",
+			"Ah, pero reducidas a meros cristales...",
+			"Creo que necesitas una recompensa. Permíteme."
+		]
+	},
+	quest_handin_goodending={
+		text=[
+			"Has regresado, ¡y Sloan también!",
+			"Él dice que le has otorgado las aguas antiguas.",
+			"Siguen allí, pero reducidas a meros cristales...",
+			"Creo que necesitas una recompensa. Permíteme."
+		]
+	},
+	quest_smith={
+		text=[
+			"Para pensar, aún había aguas en la cisterna..."
+		]
+	},
+	quest_end_badending={
+		text=[
+			"Te agradezco nuevamente. A mi regreso, finalmente podré ayudar a mi hermano.",
+			"No puedo pedir más de ti, lo encontraré yo mismo."
+		]
+	},
+	quest_end_goodending={
+		text=[
+			"Te agradezco nuevamente. No puedo pedir más de ti."
+		]
+	},
+	goodbye={
+		text=["Si te quedas en la [color=#FFBD33]Cuenca Secá[/color], te deseo buena suerte."],
+	},
+	hit_exclamations = ["¡Ouf!",
+		"¿Qué significa esto?",
+		"¡No dudaré en contraatacar!",
+		"¡Para, o peor!",
+	],
+},

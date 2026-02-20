@@ -1,0 +1,77 @@
+TollGuard = {
+	default={
+		text=["Habla con el, ehh... operador de peaje.", "Sabes, el tipo detrás del escritorio."],
+	},
+},
+
+HookBossFightStartNPC = {
+	default={
+		text=["¡TÚ OTRA VEZ!",
+		"Entonces el convicto regresa.",
+		"¿Han crecido tan incompetentes nuestros Caballeros como para dejarte entrar de nuevo?",
+		"Tendré que eliminarte yo mismo.",
+		],
+	},
+},
+
+VarkaFightStartNPC = {
+	default={
+		text=["¿Te acercas, habiendo devastado mi fortaleza?",
+		"Mis hombres han luchado valientemente...\n¡Pero yo soy el más fuerte entre ellos!",
+		"¡JA-JA! ¡Enfréntame ahora!",
+		"¡Sé testigo de un verdadero [color=#8aff92]Caballero Velano[/color]!",
+		],
+	},
+},
+
+VarkaFightEndNPC = {
+	default={
+		text=[
+			"Ja-ja... Oh, [color=#8aff92]Vela...[/color]",
+			"Ella no ha sido mi Dama durante algún tiempo.\nLa encontré oculta en el viejo templo.",
+			"Sellé el templo yo mismo, con la esperanza de contener su ira.",
+			"¿Una traición? Quizás. Pero, extraño... Pido que lo dejes sellado.",
+			"Puede que ya no sea el más fuerte en esta fortaleza, pero mis batallas más feroces están por delante.",
+		]
+	}
+},
+
+KrusFightStartNPC = {
+	default={
+		text=[
+			"¿Ahora, qué es esto? ¿Uno de sus perros leales, viniendo a arrastrarse a los pies de las diosas que están muertas?",
+			"¿O viniste buscando venganza, para derribarme de MI trono?",
+			"Mírame. Fui el puño que utilizaron para aterrorizar ejércitos. ¡Fui la chispa que utilizaron para quemar reinos!",
+			"[color=#77FFFF]Intemporal[/color] o no, las [color=#fffab3]Reinas[/color] sangraron igual que el resto de ellos.",
+			"Deberías haber visto sus caras cuando se dieron cuenta de que su fiel sirviente...",
+			"...era el [color=#ff4c42]Usurpador[/color] destinado de este mundo.",
+		],
+	},
+},
+
+KrusFightEndNPC = {
+	default={
+		text=[
+		"...¿Qué? Pero...",
+		"¿No era yo...?",
+		],
+	},
+},
+
+EliasFightStartNPC = {
+	first={
+		text=[
+		"...",
+		"¿Por qué vienes aquí, en estos momentos?",
+		"¿No ves? Ya no me esfuerzo por la guerra.",
+		"Ellas no pueden ser protegidas, pero aún las cuido.",
+		"No me fuerces a cuidar de ti de la misma manera.",
+		],
+	},
+	second={
+		text=["Veo que no entiendes."]
+	},
+	phase2={
+		text=["¡No nos liberarás, los condenados que nunca cambiarán!"]
+	},
+},

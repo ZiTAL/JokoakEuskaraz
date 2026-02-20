@@ -1,0 +1,67 @@
+# Greg rima su discurso.
+Greg={
+	first={
+		text=[
+			"Estoy escupiendo algunas palabras que pienso en mi cerebro\nJuro que las [color=#fffab3]Reinas Gemelas[/color] deben estar volviéndose locas",
+			"Sí, tuve un problema con las [color=#fffab3]Gemelas[/color] y su reinado\nAsí que dejé [color=#fffab3]La Guardia[/color] atrás, ahora nunca estaré encadenado.",
+			"Woleh me acogió, porque dejé la escena\nLo que le dije a [color=#fffab3]La Guardia[/color] los hizo verse mal",
+			"No, no les gustó, así que me pusieron a prueba\nUna espada en mi garganta, y una lanza en mi pecho..."
+		]
+	},
+	out_of_ideas={
+		text=[
+			"...",
+			"Mantener esto es difícil todo el tiempo. Soy nuevo aquí, así que no les digas que dejé de rimar."
+		]
+	},
+	wait_second_item={
+		text=["Espero que no les hayas dicho que no estoy rimando."]
+	},
+	wait_third_item={
+		text=[
+			"Woleh estaba bastante enfadado. Gracias por calmarlo.",
+			"Pensé que era porque dejé de rimar.",
+			"Ahora sé que no fue por eso... pero no me delataste, ¿verdad?"
+		]
+	},
+	final_rap={
+		text=[
+			"Con mi espada estoy matando a [color=#fffab3]La Guardia[/color].\nAsí que mejor dejen la farsa.\nVoy a hacer que tengan miedo.\nEstoy preparándome para dominar.",
+			"Y no, no estoy diciendo una mentira.\nTengo a estos tontos listos para morir.\nQuieren hablar y hablar.\nPero no pueden contra mi espada y sucumbir.",
+		]
+	},
+	final={
+		text=[
+			"... Realmente odio [color=#fffab3]La Guardia.[/color] Trabajar para ellos apestaba.",
+			"El Club de Poesía es mucho mejor. Excepto por la retribución...",
+			"¡Pero ahora te tenemos como un nuevo miembro!"
+		]
+	},
+	hit_exclamations=[
+		"¡Ough!",
+		"¿Qué pasa?",
+		"¡Relájate, amigo!",
+		"¿Quieres problemas?",
+	],
+},
+
+Broleh={
+	default={
+		text=[
+			"Ah. No eres un [color=#B5CEFF]Constructo[/color]. ¿Qué pasa, [color=#B5CEFF]Forma[/color] no es lo tuyo?",
+			"Bueno, necesitas que me mueva, ¿verdad?",
+			"Pues, soy bastante perezoso, ya ves. ¡Tendrás que hacer algo por mí a cambio!",
+			"Viaja a [color=#8aff92]El Veil[/color]. Allí, encontrarás unos [color=#77FFFF]jabalíes[/color].",
+			"Recoge por mi [color=#77FFFF]45 Pieles de Jabalí[/color]. Luego, llévalas a un...",
+			" A un...",
+			"Eh... ¿sabes qué? No sé por qué te estoy diciendo que hagas esto. Fue grosero de mi parte pedirlo.",
+			"Realmente no debería estar bloqueando este pasillo en primer lugar.",
+		]
+	},
+	after_move={
+		text=[
+			"Oh, si ves a un [color=#F5B5FF]hombre con un sombrero puntiagudo[/color]...",
+			"Me robó. Mátalo."
+		],
+	},
+},

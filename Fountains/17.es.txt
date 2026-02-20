@@ -1,0 +1,134 @@
+Pento = {
+	greeting={
+		text=[
+			"Oh, no creo que nos hayamos conocido.",
+			"¿Qué te trae aquí, extraño?"
+		]
+	},
+	first_options={
+		answers=["¿Quién eres?", "¿Qué haces aquí?", "Permanecer en silencio"]
+	},
+	who_are_you={
+		text=[
+			"Me llamo... eh, Pento.",
+			"Y en estos días, no hago nada, más que sentarme aquí.",
+		]
+	},
+	what_are_you_doing_here={
+		text=[
+			"Bueno, ¡estoy admirando la vista!",
+			"Siempre es bastante agradable en estos días, ¡y qué clima tan encantador!",
+			"También puedo conocer viajeros como tú.",
+			"Es agradable tener estas visitas, aunque muchos no han tenido tanta suerte como tú."
+		]
+	},
+	second_options={
+		prompt="Pento",
+		answers=["¿Cuánto tiempo has estado aquí?", "Salir"]
+	},
+	how_long_have_you_been_here={
+		text=[
+			"Ah... A estas alturas, ha pasado algún tiempo...",
+			"Encontré aquí mi paz, pero no antes de haber visto mucho de estas tierras como pude.",
+			"Podría contarte sobre ellas, si no te importa hacerle un favor a un anciano...?"
+		]
+	},
+	land_questions={
+		prompt="Pento",
+		answers=[
+			"Pregunta sobre el [color=#fffab3]Dominio de la Guardia[/color]",
+			"Pregunta sobre [color=#8aff92]El Veil[/color]",
+			"Pregunta sobre la [color=#FFBD33]Cuenca Secá[/color]",
+			"Salir"
+		]
+	},
+	guards_domain={
+		text=[
+			"No queda mucha gente por allí, desafortunadamente.",
+			"[color=#fffab3]La Guardia[/color] no es exactamente acogedora, y las [color=#fffab3]Reinas Gemelas[/color] se hacen cargo de eso.",
+			"La mayoría de ellos patrullan sin razón estos días. ¿Qué están guardando exactamente?",
+			"Sin embargo, aún arrojan a los intrusos a la Prisión del Usurpador.",
+			"Pero, estoy seguro de que ya lo sabes..."
+		]
+	},
+	the_veil={
+		text=[
+			"Ese bosque siempre ha sido el hogar de los [color=#8aff92]Caballeros Velanos.[/color]",
+			"Un tipo bullicioso, dedicado a algún [color=#8aff92]Campeón[/color] salvaje.",
+			"Sin embargo, qué volátil puede ser el alma. En un abrir y cerrar de ojos, su [color=#8aff92]Dama[/color] desapareció.",
+			"Como si hubiera perdido la voluntad de masacrar. Me pregunto, ¿por qué huyó y se escondió?",
+			"¿Qué tipo de poder asusta a un monstruo?",
+			"Uno solo podría desearlo.",
+		]
+	},
+	dried_basin={
+		text=[
+			"Qué pena, la [color=#FFBD33]Cuenca...[/color]",
+			"Por supuesto, no siempre estuvo seca.",
+			"Los Creyentes Ancianos realizaban allí sus experimentos. ¡Toda el AGUA [color=#77FFFF]verdadera[/color] que pudieran desear!",
+			"Sin embargo, inevitablemente se pasaron de la raya.",
+			"Esos pobres Drohm...",
+			"Para ti, sin embargo, parece que no representaban un desafío, ¿eh...?",
+		]
+	},
+	last_land_question={
+		prompt="Pento",
+		answers=["Pregunta sobre los [color=#B5CEFF]Campos de Marea[/color]", "Salir"]
+	},
+	tide_fields={
+		text=[
+			"Ah, sí... Estos campos guardan muchos recuerdos.",
+			"Su tono azul atrajo a personas de todo el mundo.",
+			"Desgraciadamente, la guerra puso fin a eso.",
+			"Los que quedaban huyeron y se escondieron.",
+			"Sin embargo, dio lugar a algo más grande.",
+			"La [color=#B5CEFF]Iglesia de la Forma[/color] - ¿has oído hablar de ella?"
+		],
+		prompt="Pento",
+		answers=["Sí", "No"],
+	},
+	cos_yes={
+		text=[
+			"Maravilloso...",
+			"Entonces debes saber que la [color=#B5CEFF]Iglesia[/color] murió hace mucho tiempo.",
+			"Al menos, esa es la mentira que se cuenta...",
+			"La [color=#B5CEFF]Iglesia[/color] existe en estos mismos campos.",
+			"Perdurando después de todos estos años, esperando...",
+			"Esperando por ti, [color=#ff4c42]Usurpador.[/color]"
+		]
+	},
+	cos_no={
+		text=[
+			"¿No? Entonces déjame contarte un cuento.",
+			"Uno de la [color=#B5CEFF]Iglesia[/color] dedicado a su reino.",
+			"Dando todo para satisfacer a sus demandas.",
+			"Una vez que todo fue entregado, fueron traicionados.",
+			"Calificados como herejes, y fueron llevados a la hoguera.",
+			"Ahora, sus palabras son simplemente susurros. Sin embargo, esa siempre ha sido su fortaleza.",
+			"Porque aún existen, en estos mismos campos.",
+			"Perdurando después de todos estos años, esperando...",
+			"Esperando por ti, [color=#ff4c42]Usurpador.[/color]"
+		]
+	},
+	final_question={
+		prompt="¿Pento?",
+		answers=["¿Quién eres realmente?"]
+	},
+	final={
+		text=[
+			"Soy lo que soy. Como tú.",
+			"¿Qué somos sino recipientes para la voluntad de la [color=#B5CEFF]Diosa Halana[/color]?",
+			"Y sus planes para ti son de suma importancia.",
+			"Así que ven, [color=#ff4c42]Usurpador.[/color] Atrévete a pasar la falsa pared de la montaña, y busca una audiencia dentro de la [color=#B5CEFF]Iglesia de la Forma.[/color]",
+			"Porque esa [color=#B5CEFF]Forma[/color] tuya fue forjada para matar a tus creadores.",
+		],
+	},
+	silent={
+		text=["Bueno, no te preocupes por mí. Estaré aquí mirando."]
+	},
+	hit_exclamations = ["¡Oof!",
+		"¡Ay!",
+		"¿Cuál es el significado de esto?",
+		"Soy solo un anciano...",
+	],
+},

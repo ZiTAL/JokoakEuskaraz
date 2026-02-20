@@ -1,0 +1,104 @@
+Willy ={
+	greeting_ferry_closed={
+		text=["El ferry está cerrado.",
+		"No es seguro navegar mientras esa [color=#4aff9e]criatura esté en el agua[/color].",
+		],
+	},
+	greeting_normal={
+		text=[
+			"¿Qué quieres? El ferry está abierto para negocios.",
+		],
+		prompt="Willy",
+		answers=["Tomar el ferry", "Olvídalo"]
+	},
+	ferry={
+		text=["¿Quieres tomar el ferry? Cuesta %s piezas.", # FORMAT: ferry cost.
+		],
+		prompt= "¿Tomar el ferry por %s piezas?", # FORMAT: ferry cost.
+		answers=["Sí", "No"]
+	},
+	not_enough_money={
+		text=["Eh, esto no es suficiente dinero. Ve a venderle a Fregrind algún pez o algo."]
+	},
+	hit_exclamations = ["Deja eso.",
+		"¿Acaso tartamudeé?",
+		"¡Si me haces enojar, tendrás problemas para conseguir un ferry!",
+		"¡Te lo advierto!",
+	],
+},
+
+Skullhambado = { 
+	greeting={
+		text=[
+			"¡Oh! ¿Quién es este? ¿Alguien finalmente interesado en mi trabajo?",
+			"...¿O simplemente te caes cuando tomas las escaleras?",
+			"...De cualquier manera, he estado buscando un *asistente* como tú.",
+			"Verás, creo que he descubierto la verdad real sobre el [color=#77FFFF]AGUA[/color]",
+			"No, no es magia, idiota. Es un fenómeno completamente natural, y todo proviene del *cráneo*.",
+			"Piensa en ello: todas las criaturas vivas contienen [color=#77FFFF]AGUA[/color].",
+			"¿Qué más tienen todas las criaturas? Así es, CRÁNEOS. Es lógica simple.",
+			"Mi nombre es [color=#77FFFF]Cráneohambado[/color]. Y sí, antes de que preguntes, es una coincidencia.",
+			"...Mmm, o quizás un caso clásico de un nominativo determinado.",
+			"Pero divago: necesito más cráneos. Mi colección aquí es simplemente insuficiente.",
+			"Tráeme cráneos, y a cambio, te prepararé unas [color=#77FFFF]Reservas de AGUA[/color].",
+		],
+	},
+	menu={
+		prompt="Cráneohambado",
+		text=["Bueno, ¿tienes algún cráneo fresco?"],
+		answers=["Salir", "Intercambiar Cráneos"]
+	},
+	trade_skulls_not_enough={
+		text=[
+			"La ecuación es simple. Tres cráneos equivalen a una [color=#77FFFF]Reserva de AGUA[/color].",
+			"Si quieres suficiente [color=#77FFFF]AGUA[/color] para toda la vida, ¡tráeme suficientes cráneos!"
+		]
+	},
+	trade_skulls_prompt={
+		text=[
+			"La ecuación es simple. Tres cráneos equivalen a una [color=#77FFFF]Reserva de AGUA[/color].",
+			"Veamos..."
+		],
+		prompt="¿Intercambiar %s cráneos por %s [color=#77FFFF]Reservas de AGUA[/color]?", # FORMAT: Number of skulls to trade, number of reserves to recieve.
+		answers=["No", "Sí"],
+	},
+	thanks={
+		text=[
+			"Gracias, forastero. Yo recogería esos cráneos, pero estoy más cómodo aquí abajo."
+		],
+	},
+	hit_exclamations = ["¡Weeh!",
+		"¿Qué estás haciendo?",
+		"¿Intentando llevarte mis cráneos?",
+		"¡Apuesto a que tú también tienes un cráneo!",
+	],
+},
+
+AdmissionMiner = {
+	default={
+		text=["¡Bienvenido, habitante de la superficie! ¿Vienes a montar en las vías?",
+		"¡Una forma rápida de moverse! ¡Sí, solo %s piezas!", # FORMAT: admission cost.
+		],
+		prompt="¿Montar en las vías por %s piezas?", # FORMAT: admission cost.
+		answers=["Sí", "No"]
+	},
+	default_double_price={
+		text=["Oh, bienvenido de nuevo, habitante de la superficie.",
+		"Has causado algunos daños, ¡sí!",
+		"Todavía necesitamos el negocio, pero debido a tu comportamiento la última vez, tendremos que cobrarte el doble.",
+		],
+		prompt="¿Montar en las vías por %s piezas?", # FORMAT: admission cost * 2
+		answers=["Sí", "No"]
+	},
+	enjoy={
+		text=["Adelante, puedes montar en las vías."],
+	},
+	too_poor={
+		text=["No, no, no. Esto no es suficiente."]
+	},
+	hit_exclamations = ["¡Weeh!",
+		"¿Qué problema?",
+		"¿Quieres problema, habitante de la superficie?",
+		"¡Podemos pelear!",
+	],
+},

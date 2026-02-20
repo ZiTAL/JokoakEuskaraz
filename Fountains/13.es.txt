@@ -1,0 +1,59 @@
+Augustus = {
+	greeting={
+		text=["¡Hola! Bienvenido a mi estudio. Soy Augusto de los Creyentes Ancianos!",
+		"...Bueno, para ser exacto, estás hablando con mi caldero.",
+		"Verás, como un Creyente Anciano estudiado, esperaba que vinieras. He visto todas las señales.",
+		"Sin embargo, no me puedo arriesgar a estar en la misma habitación con alguien como tú. Escuché lo que hiciste al viejo Perro Guardián.",
+		"Así que pensé que sería un buen momento para probar mi último invento. Lo llamo Hablar Lejano!",
+		"...¿Sonido Distante?",
+		"El nombre necesita un poco de trabajo. El punto es, estoy hablando contigo desde lejos.",
+		"Oh, sí, y el verdadero punto: quiero ayudarte.",
+		],
+		prompt="Quiero ayudarte.",
+		answers=["No decir nada", "¿Ayúdame a hacer qué?"]
+	},
+	greetingreply_silent={
+		text=["...¿Fuerte, tipo silencioso, eh? Bueno, tomaré eso como que aceptas.",
+		],
+	},
+	greetingreply_helpwhat={
+		text=["...¿Quieres decir que no sabes?",
+		"Bueno, esto hace las cosas interesantes... Basado en tus acciones, estaba seguro de que habías estado cazando al [color=#ff4c42]Usurpador[/color].",
+		],
+	},
+	help_explanation={
+		text=["Aquí está mi propuesta: yo te ayudo a aumentar tu poder, y usas ese poder para encontrar y matar al [color=#ff4c42]Usurpador[/color].",
+		"Ahora, tienes todo el derecho a conocer los hechos sobre este adversario, así que te sugiero que vayas a leer la profecía por ti mismo.",
+		"Simplemente entra por mi sótano, tres pisos abajo, y estoy seguro de que encontrarás la inscripción.",
+		"Pero recuerda: ve TRES pisos abajo. Te aconsejaría evitar mi... [color=#ff4c42]'experimento'[/color] en el segundo nivel.",
+		],
+	},
+	wait_for_prophecy_seen={
+		text=["La profecía está tres pisos abajo. Te aconsejaría evitar mi... [color=#ff4c42]'experimento'[/color] en el segundo nivel.",
+		],
+	},
+	prophecy_seen={
+		text=["Entonces, ¿has visto la profecía abajo ya?",
+		],
+		prompt="¿Viste la profecía?",
+		answers=["Sí", "No"]
+	},
+	after_prophecy_seen={
+		text=["Excelente. Como he dicho, creo que el [color=#ff4c42]Usurpador[/color] de la profecía está entre nosotros.",
+		"El Maestro de Cadenas Godir, de quien estoy seguro que sabes que es un funcionario de alto rango, ha sido encontrado muerto. Sospecho que este [color=#ff4c42]Usurpador[/color] es el culpable, aunque aún no ha sido identificado.",
+		"Y tú, mi amigo, has mostrado un considerable potencial.",
+		"El Perro de la Guardia, un viejo experimento nuestro, se había vuelto bastante molesto. Sin embargo, tú mataste a la bestia.",
+		"El [color=#77FFFF]AGUA[/color] en tu espíritu te da el potencial para destruir al [color=#ff4c42]Usurpador[/color] antes de que se vuelva demasiado fuerte.",
+		"En cuanto a cómo puedo ayudarte, se reduce a esto: tienes poder intrínseco, y puedo ayudarte a perfeccionarlo.",
+		],
+	},
+	sr_greeting={
+		text=[
+			"¡Oh, hola de nuevo!",
+			"Veo que te has presentado a los otros Creyentes Ancianos.",
+			"¿Qué? ¿No me reconoces? ¡Soy el Erudito Augusto! La última vez que hablamos, fue a través de una sopa mágica.",
+			"No te preocupes, no lloro por los que mataste.",
+			"Como científicos, sabemos que la muerte viene por todos nosotros eventualmente. Y, bueno... hay alguien aquí que ya le toca.",
+		],
+		answers=["No decir nada", "¿Quién es?"]
+	},

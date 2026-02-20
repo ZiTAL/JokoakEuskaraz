@@ -1,0 +1,89 @@
+Veil_Ricard = {
+	meditation = {
+		text=["...sube la cima donde nuestro -"]
+	},
+	greeting={
+		text=["¿Oh? Has llegado aquí, ¿verdad?",
+			"Finalmente logré escapar de ese laberinto, solo para encontrar [color=#8aff92]El Veil[/color] infestado de monstruos.",
+			"He logrado vencer a algunos, pero los [color=#8aff92]Caballeros Velanos[/color] están dispersos, así que tengo las manos llenas.",
+		],
+	},
+	quest_prompt={
+		text=[
+			"Digamos, has hecho bastante bien tu solo.",
+			"Ya que estás aquí, ¿te importaría matar algunos monstruos? La [color=#8aff92]Fortaleza Velana[/color] está en peligro de ser invadida.",
+			"¿Qué dices?"
+		],
+		prompt="Ricard",
+		answers=["Ayuda a Ricard", "Dejar"]
+	},
+	quest_accepted={
+		text=[
+			"Perfecto. Debemos actuar rápido.",
+			"Por lo que sé, algunos de mis compañeros Caballeros luchan cerca de la [color=#8aff92]Fortaleza Velana[/color].",
+			"Desafortunadamente, esto no significa que te recibirán con amabilidad. Busca a Vokaris, y dile que yo te envié."
+		],
+	},
+	has_appendage={
+		text=[
+			"Ah, has regresado.",
+			"Confío en que te has encargado de los monstruos?",
+		],
+		prompt="Ricard",
+		answers=["Mostrar [color=#8aff92]Pedazo Sobrecrecido[/color]", "Dejar"]
+	},
+	shown_appendage={
+		text=[
+			"Ya veo.",
+			"Las bestias parecen ser parte de la propia flora de [color=#8aff92]El Veil[/color].",
+			"¿De dónde vinieron, y por qué se sienten familiares?",
+			"Cuando lucho contra ellos, es como si estuviera peleando con un compañero caballero.",
+			"Esto debe ser algún truco, algún juego loco de los dioses...",
+			"Si bien no estoy familiarizado con esta magia, quizás los sacerdotes sepan cómo disiparla.",
+			"Por mucho que odie tratar con ellos, parece que es la única opción.",
+		],
+	},
+	wait_for_priests={
+		text=[
+			"Mejor no hacerlos esperar. Algunos [color=#8aff92]Sacerdotes de Vela[/color] están trabajando en la antigua iglesia al este.",
+			"Mira qué pueden hacer con ese [color=#8aff92]Pedazo Sobrecrecido[/color].",
+		]
+	},
+	after_priests={
+		text=[
+			"...con la sangre de -",
+			"Ah, has vuelto. ¿Aprendiste algo de los sacerdotes?",
+		],
+		prompt="Ricard",
+		answers=["Dile a Ricard sobre los sacerdotes", "Dejar"]
+	},
+	final={
+		text=[
+			"'¿Un templo'? Seguramente no el templo aquí en [color=#8aff92]El Veil[/color].",
+			"Nunca hemos podido entrar.",
+			"¿Pero el alma que buscamos está allí? ¿Podría ser realmente [color=#8aff92]Dama Vela[/color]?",
+			"Debo saber la respuesta. Desafortunadamente, incluso si esta llave yace en el [color=#fffab3]Palacio Fourain[/color], no puedo poner un pie adentro.",
+			"Si [color=#fffab3]La Guardia[/color] me viera, crearía muchos problemas.",
+			"Debo pedirte una última cosa - recupera la llave del templo de el [color=#fffab3]Palacio Fourain[/color].",
+			"Te encontraré en el templo."
+		],
+	},
+},
+
+Temple_Ricard = {
+	speech = {
+		text=[
+			"Has llegado...",
+			"Sin embargo, esperaba que no lo hicieras.",
+			"Dime, ¿cómo es que entraste al palacio, y las [color=#fffab3]Reinas Gemelas[/color] ahora yacen muertas?",
+			"Eso no debería ser posible, a menos que...",
+			"Eres tú, ¿verdad? El que amenaza a mi [color=#8aff92]Dama Vela[/color], el [color=#ff4c42]Usurpador.[/color]",
+			"Pensar que te consideré un aliado. Pensar que es mi culpa que la hayas encontrado.",
+			"Debo hacer mi deber, por el bien de [color=#8aff92]Vela[/color].",
+			"...",
+			"[color=#8aff92]Toma tu arma y afílala,\nVístete con tu armadura y deja que sea golpeada,\nAlimenta tu alma con la sangre de rivales,[/color]",
+			"[color=#8aff92]Subimos a la cima donde yace nuestra Dama,\nPara asegurar que ningún daño le sobrevendrá,\nPorque un día ella regresará y sus enemigos serán vencidos,[/color]",
+			"[color=#8aff92]A medida que sus pecados son juzgados por su espada.[/color]",
+		]
+	},
+},

@@ -1,0 +1,78 @@
+##########################
+#       PERSONAJES       #
+##########################
+
+DefaultCharacterHitExclamations=[
+	"¡Ay!",
+	"¿Has perdido la cabeza?",
+	"¡Alto!",
+	"¡Detente ahora!",
+],
+
+DKD_Ricard = {
+	meditation = {
+		text=["...por un día ella regresará, y sus enemigos serán -"]
+	},
+	greeting={
+		text=["- ¿Oh? Otro más.",
+		"Eres el tercero que [color=#fffab3]La Guardia[/color] ha arrojado aquí hoy.",
+		"Esto es - o era - la Prisión del Usurpador, donde [color=#fffab3]La Guardia[/color] encerraba a cualquiera que sospechaban que era el [color=#ff4c42]Usurpador[/color].",
+		"Para eso se construyó, de todos modos.",
+		"Hoy en día, arrojarán a cualquiera que cuestione su autoridad geriátrica a este pozo. Pero, a medida que su administración se descompone, también lo hace la seguridad de la prisión.",
+		"De hecho, apostaría que incluso alguien como tú podría escapar. Pareces tener [color=#77FFFF]AGUA[/color] en tu espíritu.",
+		"Pero escúchame, extraño. La forma en que lucen las cosas allá afuera...",
+		"sería mejor que te sientes y esperes aquí para pudrirte."
+		],
+		prompt="",
+		answers=["Pregunta sobre los otros", "Salir"]
+	},
+	the_others={
+		text=["¿Los otros?",
+		"Oh, debes referirte a las otras pobres almas que fueron arrojadas a este pozo hoy.",
+		"Me temo que no duraron mucho. Desgarradas por esos otros prisioneros que han perdido la cabeza.",
+		"¡Cuídate o podrías terminar como ellos!",
+		"Ahora, déjame en paz.",					
+		],
+	},
+	final={text=["Déjame en paz."]},
+},
+
+HoP_Ricard = {
+	meditation={
+		text=["...que ningún daño le suceda -"]
+	},
+	greeting={
+		text=["- ¡Tú de nuevo!",
+		"¿Cómo terminaste en esta sala antigua?",
+		"Supongo que podrías hacerme la misma pregunta. A decir verdad, estoy desesperadamente perdido. Esta tierra es un absoluto laberinto.",
+		"Año tras año, capa tras capa de destrucción y reconstrucción... Apostaría que esta cámara alguna vez estuvo en la superficie.",
+		"Bueno, no es un secreto lo que la [color=#fffab3]Guardia[/color] original escribió aquí. Confío en que conoces la profecía del [color=#ff4c42]Usurpador[/color].",
+		"La mayor parte de lo que está escrito aquí es pura ficción. Aquí está lo que no se atrevieron a registrar:",
+		"El [color=#ff4c42]Usurpador[/color] debió surgir desde sus propias filas.",
+		"Por eso vine a esta tierra, para vencer al que mataría a mi [color=#8aff92]Dama Vela[/color].",
+		"Oh, y antes de que lo olvide nuevamente - mi nombre es Ricard.",
+		]
+	},
+	who_is_vela={
+		text=["Debes vivir debajo de una roca.",
+		"[color=#8aff92]Vela[/color] es la [color=#8aff92]Intemporal de la Vida[/color], y gobernante de [color=#8aff92]El Veil[/color].",
+		"Ha estado mucho tiempo desaparecida de [color=#8aff92]El Veil[/color], así que nosotros los [color=#8aff92]Caballeros Velanos[/color] hemos ampliado nuestras patrullas a cualquier lugar donde podría estar.",
+		"Algunos creen que el [color=#ff4c42]Usurpador[/color] es una mera leyenda, pero he tomado como deber evitar que tomen el poder de la [color=#77FFFF]Fuente[/color].",
+		"Por el bien de [color=#8aff92]Vela[/color].",
+		],
+	},
+	where_usurper={
+		text=["¿Dónde está el [color=#ff4c42]Usurpador[/color]? Yo también quisiera saberlo.",
+		"Todo lo que sé es que buscarán matar a cada uno de los [color=#77FFFF]Intemporales[/color].",
+		"Como sirviente de [color=#8aff92]Vela[/color], no puedo permitir que eso suceda."
+		],
+	},
+	final={
+		text=[
+			"Informame si escuchas algo sobre el [color=#ff4c42]Usurpador[/color].",
+			"Una vez que encuentre la salida de aquí, regresaré a [color=#8aff92]El Veil[/color] para continuar mi búsqueda."
+		],
+		prompt="Ricard",
+		answers=["¿Quién es la [color=#8aff92]Dama Vela[/color]?", "¿Dónde está el [color=#ff4c42]Usurpador[/color]?", "Salir",]
+	},
+},

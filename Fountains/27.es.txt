@@ -1,0 +1,33 @@
+TouchWaterfallNPC = {
+	touch={
+			text=[
+				"Extiendes la mano y tocas la cascada...",
+			],
+	},
+	no_result={
+			text=[
+				"...Pero no ocurre nada.",
+			],
+	},
+	open={
+			text=[
+				"Antes de que tu mano roce el agua, y esta reacciona a tu presencia.",
+			],
+	},
+},
+
+AmtarrAltar = {
+	pray={
+		text=["Un altar a [color=#ff4c42]Amtarr[/color], dios de la Mente."],
+		prompt="¿Rezar a [color=#ff4c42]Amtarr[/color] y rellenar [color=#77FFFF]AGUA[/color]?",
+		answers=["Sí", "No"]
+	},
+},
+
+FountainOfYouthNPC = {
+	default={
+		text=["¿Beber de la [color=#77FFFF]Fuente de la Juventud[/color]?"],
+		prompt="¿Beber de la Fuente de la Juventud?",
+		answers=["Atrás", "[color=#77FFFF]Beber[/color]"]
+	},
+},

@@ -1,0 +1,97 @@
+# KEYS
+Items.ItemID.WATERFALL_KEY:{
+	name ="Llave de la Cascada",
+	description = "Está bastante oxidada. Abre una puerta cerca de una cascada.",
+	},
+Items.ItemID.CRIMSON_KEY:{
+	name ="Llave Carmesí",
+	description = "Abre una puerta debajo de donde descansa el Perro Guardián.",
+	},
+Items.ItemID.VELAS_KEY:{
+	name ="Sello del Templo",
+	description = "Abre una puerta pesada en El Veil.",
+	},
+Items.ItemID.PALACE_KEY:{
+	name ="Llave del Palacio",
+	description = "Llave del palacio de La Guardia",
+	},
+Items.ItemID.MOON_KEY:{
+	name ="Llave de la Luna",
+	description = "Llave con un mango en forma de media luna",
+	},
+Items.ItemID.SUN_KEY:{
+	name ="Llave del Sol",
+	description = "Llave con un mango en forma de sol",
+	},
+Items.ItemID.GOLDEN_KEY:{
+	name ="Llave Dorada",
+	description = "Abre una puerta impresionante dentro del Palacio de Fourain.",
+	},
+Items.ItemID.SMOKE_CHARM:{
+	name ="Talisman de Humo",
+	description = "Encanto usado para disipar una pared de humo",
+	},
+
+# USEABLES
+# Consumables
+Items.ItemID.RED_FUNGUS:{
+	name ="Hongo Rojo",
+	description = "Este asqueroso hongo amargo curará lentamente a quien lo coma.",
+	},
+Items.ItemID.BLUE_FUNGUS:{
+	name ="Hongo Azul",
+	description = "Este hongo alto restaurará una pequeña cantidad de [color=#77FFFF]AGUA[/color]. Menos efectivo cuando se usa repetidamente.",
+	},
+Items.ItemID.POTION_SLOWNESS:{
+	name ="Poción de Lentitud",
+	description = "Esta poción desacelera a quien sea lo suficientemente tonto como para beberla.",
+	},
+Items.ItemID.POTION_SPEED:{
+	name ="Poción de Impulso",
+	description = "¡A través de las maravillas de los fármacos, cualquiera puede correr como el viento!",
+	},
+Items.ItemID.SCORCHING_SPICE:{
+	name ="Especia Abrasadora",
+	description = "Cualquiera que sea lo suficientemente tonto como para comer esta especia será literalmente incendiado.",
+	},
+Items.ItemID.SPICY_BUN:{
+	name ="Pañuelo Picante",
+	description = "Comer este pañuelo picante creará un orbe de fuego en tus próximos dos ataques.",
+	},
+Items.ItemID.TRUE_WATER_RESERVE:{
+	name ="Reserva de Agua Verdadera",
+	description = "Esta poción restaurará dos unidades de [color=#77FFFF]AGUA[/color]. Menos efectivo cuando se usa repetidamente.",
+	},
+Items.ItemID.SKULL_WATER_RESERVE:{
+	name ="Reserva de Agua de Cráneo",
+	description = "Esta poción restaurará dos unidades de [color=#77FFFF]AGUA[/color].\n\n...Es decir, si te sientes cómodo bebiendo de un cráneo humano.",
+	},
+				
+Items.ItemID.MEAGER_COIN_PURSE:{
+	name ="Monedero Modesto",
+	description = "Un monedero lleno con 16 Piezas.\nÚsalo para obtener el dinero.\nLas piezas guardadas en este monedero no se perderán al morir.",
+	},
+Items.ItemID.MIDDLING_COIN_PURSE:{
+	name ="Monedero Mediocre",
+	description = "Un monedero lleno con 32 Piezas.\nÚsalo para obtener el dinero.\nLas piezas guardadas en este monedero no se perderán al morir.",
+	},
+Items.ItemID.MAGNIFICENT_COIN_PURSE:{
+	name ="Bolsita de Piezas Magnífica",
+	description = "Una bolsa llena con 64 piezas.\nÚsala para obtener el dinero.\nLas piezas guardadas en esta bolsa no se perderán al morir.",
+	},
+Items.ItemID.FLAME_HALO:{
+	name ="Aro de Llamas",
+	description = "Este aro metálico rojo está caliente al tacto.\nLlevarlo en la cabeza mejorará tus ataques con fuego, pero las llamas eventualmente se desvanecerán.",
+	},
+Items.ItemID.CRYSTAL_SNACK:{
+	name ="Barra Crysto",
+	description = "Un snack cristalino fabricado por los Drohm esclavizados de Elias.\nConsúmelo para obtener el doble de [color=#77FFFF]AGUA[/color] de combate durante un tiempo.",
+	},
+Items.ItemID.CRISPY_BISCUIT:{
+	name ="Galleta Crujiente",
+	description = "Una galleta crujiente y salada.\nConsúmela para usar menos [color=#baffcd]ENERGÍA[/color] durante un tiempo.",
+	},
+Items.ItemID.IMPRESSIVE_BISCUIT:{
+	name ="Galleta Impresionante",
+	description = "Una galleta gigante.\nConsúmela para usar menos [color=#baffcd]ENERGÍA[/color] durante mucho tiempo.",
+	},

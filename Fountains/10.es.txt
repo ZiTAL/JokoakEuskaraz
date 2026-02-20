@@ -1,0 +1,119 @@
+Daniel = {
+	greeting={
+		text=[
+			"Ah... ¡Hola!",
+			"¡Bienvenido, uno y todos, a la casa de maravillas de Daniel!",
+			"¿Has visto, o sea, alguna criatura interesante por aquí?",
+		]
+	},
+	trade_prompt={
+		text=[
+			"Oh, eh - pero eh... ¡mira estas cosas que estoy vendiendo!",
+		],
+		prompt="Daniel",
+		answers=["Intercambiar", "Hablar", "Salir"]
+	},
+	talk={
+		text=[
+			"Esta tierra está llena de, o sea, criaturas maravillosas.",
+			"¿Has visto a los hermosos Balayangs, o sea, aleteando y volando sin preocuparse?",
+			"Algunos dicen que están extintos, o sea. Pero los he visto con mis propios ojos.",
+			"¡Planeando por el aire, o sea, escupiendo su relámpago majestuosamente - ",
+			"Esos tipos te dirían que solo son imitaciones de los antiguos Balayangs. ¡No!",
+			"Oh, y hay hadas corriendo por ahí, ¡sí! Hadas, duendecillos y, o sea, Balayangs me visitan todo el tiempo.",
+			"¡O sea, duendes también!"
+		],
+	},
+	made_trade_goodbye={
+		text=["Un trato excelente... Pero tráeme algo de, o sea, polvo de hada la próxima vez, ¿de acuerdo?"],
+	},
+	didnt_trade_goodbye={
+		text=["¡Cuidado con los gnomos! Corren por aquí, uhh, por ahí..."],
+	},
+},
+
+Caravaneer = {
+	trade_prompt={
+		text=[
+			"¿Un comprador?\n¿Estás comprando?\n¿Comprando bienes?\nYo vendo, tú compras?",
+		],
+		prompt="Recopiladores",
+		answers=["Hablar", "Comercio", "Dejar"]
+	},
+	talk_default={
+		text=[
+			"¿Conoces aquí?\n¿Hay personas de roca aquí?",
+			"¿Dónde están las cosas?\n¿Yo agarro cosas, tú compras?\n¿Tienes monedas?\n¿Dónde están las monedas?",
+		],
+	},
+	talk_quest={
+		text=[
+			"¿Buscas aguas?\n¿Buscas cristal?",
+			"¿Un cristal brillante?\n¿Un cristal bonito?\n¿Un cristal con agua?",
+			"¿Un cristal en [color=#FFBD33]Cisterna Volcánica[/color]?\n[color=#FFBD33]Cisterna Volcánica[/color], ¿está al oeste?\n[color=#FFBD33]Cisterna Volcánica[/color] con gran caballero?",
+			"Sin idea, ¿por qué preguntas?"
+		],
+	},
+	made_trade_goodbye={
+		text=["¿Compras más?\n¿Regresas?"],
+	},
+	didnt_trade_goodbye={
+		text=["¿Por qué no compras?\n¿Dinero no tienes?\n¿No moneda?"],
+	},
+	hit_exclamations = ["¿Violencia!?",
+		"¿¡Detente!?",
+		"¿¡Detener la violencia!?",
+		"¿¡La violencia no es buena!?",
+	],
+},
+
+Gilli = {
+	fishing_dialogues = [
+		{ text=["Sí, no hay nada como un buen rato de pesca.",], },
+		{ text=[
+			"Vi algo brillando en el lago ayer.",
+			"Iba a pescarlo, pero luego lo perdí de vista.",
+			"Dime si lo ves.",
+			], },
+		{ text=["*silbando*",], },
+		{ text=["¡Gah! Nada más que peces pequeños... ¡Necesito una mejor caña de pescar!",], },
+		{ text=["¿Has atrapado alguno grande últimamente?",], },
+		{ text=["¡Juro que atrapé un tiburón una vez. Sí, es cierto!",], },
+		{ text=["Sí, una vez mi hermano Willy dijo que su amigo Andus vio a una sirena.",], },
+		{ text=["Sí, pescar es genial.",], },
+		{ text=["Cuando llegue a casa, voy a asar a estos chicos!",], },
+		{ text=["Sí, pescar y asar... ¿A quién le importan las políticas?",], },
+		{ text=["Pesco, y aso. ¡SUPÉRALO!",], },
+		{ text=[
+			"¡Solo quiero asar! ¡Y pescar!",
+			"¿Por qué la gente siempre se queja de [color=#fffab3]La Guardia[/color] esto, [color=#fffab3]La Guardia[/color] aquello?",
+			], },
+		{ text=[
+			"Pareces no quejarte nunca.",
+			"De hecho, nunca me has dicho una palabra.",
+			"¡Eres un buen oyente! No como mi esposa. Ella no entiende que solo quiero pescar y asar.",
+			], },
+		{ text=["Por cierto, me llamo Gilli.",], },
+		{ text=["Sí, pescar y asar...",], },
+		{ text=["Asar y pescar...",], },
+		{ text=["Pescar y asar...",], },
+		{ text=[
+			"Hey, hablando de pescar: el otro día, Fregrind me dijo que no puede enviar ningún pez, por culpa de la [color=#4aff9e]criatura en el agua.[/color]",
+			"¡No he podido ganar dinero!",
+			], },
+		{ text=["Pescar no se trata del dinero... Se trata de pescar.",], },
+		{ text=["Lanza la línea, y espera a que un pez muerda.",], },
+		{ text=["Si tienes suerte, ¡un gran pez picará! Sí...",], },
+		{ text=["¡Entonces regresas a casa y lo asas! Y tal vez tomes una buena cerveza!",], },
+		{ text=["Hmm, pensándolo bien, ¿cómo voy a comprar cerveza si Fregrind no puede pagarme?",], },
+		{ text=["Eso es un problema...",], },
+		{ text=["Bueno, ¡no hay nada mejor para pensar que un poco de pesca!",], },
+		{ text=["No hay nada en qué pensar excepto en qué pez estoy pescando, y cómo lo voy a asar!",], },
+	],
+	hit_exclamations = ["¡Ay!",
+		"¡Oye, estoy tratando de pescar aquí!",
+		"Willy, ¿estás viendo eso allá?",
+		"Está bien, amigo...",
+	],
+	death_exclamation = "¡Solo quería pescar!",
+},

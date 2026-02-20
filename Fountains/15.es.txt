@@ -1,0 +1,112 @@
+	what_happened_here={
+		text=[
+			"¿No lo sabes?",
+			"(toma un libro, por el amor de los dioses...)",
+			"Hubo una gran batalla en estos mismos campos.",
+			"Los Creyentes Ancianos lucharon junto al [color=#FFBD33]Director Elias.[/color]",
+			"Luchamos sin descanso durante el [color=#77FFFF]Consumo.[/color]",
+			"Pero en estos campos, la guerra terminaría.",
+			"Se conoció como la [color=#77FFFF]Inundación Estancada.[/color]",
+			"Así que no, no hubo un vencedor.",
+			"Estos campos solo guardan las cicatrices que dejó.",
+			"Y todo fue en vano.",
+		],
+	},
+	ack_kill_krus={
+		text=[
+			"Hola de nuevo...",
+			"Has matado al que reclama el nombre de [color=#ff4c42]Usurpador,[/color] ¿verdad?",
+			"Ahora el defecto de este experimento se ha hecho evidente.",
+			"¿Cómo pude haber estado tan ciego a la posibilidad?",
+			"Perdóname. Si soy honesto, esta fue una misión suicida desde el principio.",
+			"No esperaba que ningún [color=#77FFFF]Intemporal[/color] cayera, mucho menos que tú matarás al [color=#ff4c42]Usurpador.[/color]",
+			"Más bien, esperaba determinar qué fortalezas tenían.",
+			"Sin embargo, están muertos por tus manos.",
+			"Solo el verdadero [color=#ff4c42]Usurpador[/color] podría tener tanto poder.",
+		]
+	},
+	ack_kill_krus_and_ageless={
+		text=[
+			"Hola de nuevo...",
+			"Veo que has regresado.",
+			"Excepto que, no solo has matado a todos los [color=#77FFFF]Intemporales[/color], ¡has derribado al que reclama ser el [color=#ff4c42]Usurpador![/color]",
+			"Lo que solo podría significar... que el título te pertenece.",
+			"Eres el verdadero [color=#ff4c42]Usurpador.[/color]",
+			"¿Cómo fui tan ciego a la posibilidad?",
+			"Perdóname, pero en realidad nunca esperé que los mataras a todos.",
+			"Solo intentaba determinar sus fortalezas, pero parece que subestimé quién eras.",
+		]	
+	},
+	ask_drink={
+		text=[
+			"Entonces, debo preguntar...",
+			"¿Desenterrarías la [color=#77FFFF]Fuente de la Juventud?[/color]",
+			"¿Beberías de ella?",
+		],
+		prompt="Beberías de la [color=#77FFFF]Fuente de la Juventud?[/color]",
+		answers=["Si bebería.", "No bebería."],
+	},
+	would_drink={
+		text=[
+			"¿Tú lo harías?",
+			"Si, quizá yo lo haría también.",
+			"Si solo para probar el sabor de sus ofrendas.",
+			"Aunque, no piensas que hay más?",
+			"Es simplemente para tomar el [color=#77FFFF]poder de la Fuente?[/color]",
+			"Que tal si en lugar… podríamos terminarlo todo? Destruir la [color=#77FFFF]Fuente.[/color]",
+			"Terminar el azote de los [color=#77FFFF]Intemporales[/color] permanentemente.",
+			"Una nueva esperanza para estas tierras.",
+		]
+	},
+	would_not_drink={
+		text=[
+			"No?",
+			"Ni siquiera un sorbo?",
+			"Que curioso.",
+			"Aqui estas como el potencial [color=#ff4c42]Usurpador[/color], pero no tomarías ese poder?",
+			"Supongo que no lo necesitarías, pero que harías en lugar de eso?",
+			"Quizas… si… tú podrías terminarlo todo. Destruir la [color=#77FFFF]Fuente.[/color]",
+			"Parar el azote de los [color=#77FFFF]Intemporales[/color] permanentemente.",
+			"Una nueva esperanza para estas tierras.",
+		]
+	},
+	drink_no_instructions={
+		text=[
+			"No estoy muy seguro a donde nos lleve ese camino… pero me gustaría encontrarlo.",
+			"Por supuesto esto es solo un pensamiento.",
+			"Quizá juntos, podríamos lograr esto.",
+		]
+	},
+	ack_kill_ageless={
+		text=[
+			"Lo has hecho finalmente.",
+			"Después de todo este tiempo, ya no hay más Intemporales.",
+			"Su tiempo fue muy prolongado, y su tiranía finalmente se terminó.",
+			"Y ahora… queda un paso final.",
+			"La [color=#77FFFF]Fuente de la Juventud[/color] en sí.",
+			"Si los registros de los Creyentes Ancianos son correctos, entonces solo se puede encontrar en el [color=#77FFFF]Pozo Divino.[/color]",
+			"Desafortunadamente, su entrada está sellada.",
+		]
+	},
+	drink_transition_to_instructions={
+		text=[
+			"De todos modos, el camino hacia la [color=#77FFFF]Fuente[/color] está sellado.",
+			"Si mis registros son correctos, entonces solo se puede encontrar en el [color=#77FFFF]Pozo Divino.[/color]",
+		]
+	},
+	fountain_instructions={
+		text=[
+			"Los Creyentes Ancianos habían encontrado la entrada en algún lugar en la Prisión del Usurpador, pero parece que nunca entraron.",
+			"Mi laboratorio en el [color=#fffab3]Dominio de la Guardia[/color] fue construido sobre un sitio ritual.",
+			"Cinco braseros dispuestos en un círculo, ardiendo con anticipación. Finalmente podrían dar algo útil.",
+			"Así que debo dejar eso en tus manos.",
+			"Avanza, [color=#ff4c42]Usurpador.[/color]",
+			"Abre el [color=#77FFFF]Pozo Divino,[/color] y destruye la [color=#77FFFF]Fuente.[/color]",
+			"Cuando llegue el momento, golpéala con tu espada.",
+			"Esperaré el futuro que nos traigas."
+		]
+	},
+	menu={
+		prompt="Augustus",
+		answers=["Afilar Poder", "Hablar", "Salir"]
+	},

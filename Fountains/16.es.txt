@@ -1,0 +1,95 @@
+	cant_upgrade_twice={
+		text=[
+			"No tengo suficientes ingredientes aquí para afilar tu poder nuevamente.",
+			"Pero tengo otros laboratorios con muchos materiales, ¡intenta encontrarme en uno de ellos!"
+		],
+	},
+	lib_talk_menu={
+		prompt="Augustus",
+		answers=["¿Quién eres?", "¿Dónde está el [color=#ff4c42]Usurpador[/color]?", "¿Dónde estás?", "No importa."]
+	},
+	who_are_you={
+		text=["¡Bueno, soy un científico! Oficialmente, soy un Creyente Anciano, pero uso este estudio para mi trabajo con [color=#fffab3]La Guardia.[/color]",
+		"Así que, sí, eso me hace 'uno de ellos', al menos oficialmente. Pero no te preocupes, estoy de tu lado.",
+		"Nuestro trato es este: tú me ayudas, y yo te ayudo a afilar tu poder.",
+		"Aunque nuestros amigos en [color=#fffab3]La Guardia[/color] te encarcelaron, simplemente es porque no vieron tu potencial.",
+		],
+	},
+	where_usurper={
+		text=["Según la profecía, el [color=#ff4c42]Usurpador[/color] debería estar buscando a los [color=#77FFFF]Intemporales[/color].",
+		"Él busca su poder, que usará en nuestra contra.",
+		"Si tienes alguna esperanza de encontrarlo, eso es. Busca a los [color=#77FFFF]Intemporales[/color].",
+		],
+	},
+	where_usurper_you={
+		text=[
+			"Es una pregunta tonta... Pensé que habíamos establecido que tú eres el [color=#ff4c42]Usurpador?[/color]",
+			"Has estado matando seres [color=#77FFFF]Intemporales[/color], después de todo.",
+			"A menos que... planees destruir la [color=#77FFFF]Fuente de la Juventud?[/color]",
+			"En ese caso, puedo ver por qué no te considerarías un [color=#ff4c42]Usurpador.[/color] No, serías algo completamente diferente.",
+		],
+	},
+	where_are_you={
+		text=["¡Estoy abajo en esta sopa mágica!",
+		"Es una broma.",
+		"Todo lo que puedo decirte es que no estoy en el [color=#fffab3]Dominio de la Guardia[/color].",
+		"Me estoy ocultando; puedo imaginar que mis hermanos no apreciarían mi colaboración con alguien como tú.",
+		"Sin ofender, pero no tengo muchas ganas de revelar mi paradero.",
+		],
+	},
+	not_enough={
+		text=["Ejem... Lanzar hechizos no es barato, ¿sabes? Tendrás que pagarme lo que estoy pidiendo.",],
+	},
+	upgrade_success={
+		text=["¡Y... BAM! ¡Ahí lo tienes!",],
+	},
+	upgrade={
+		text=["Solo tengo ingredientes suficientes aquí para mejorar un aspecto de tu poder, así que elige sabiamente."],
+		prompt="Elige un aspecto para mejorar"
+	},
+},
+
+Kneez = {
+	greeting={
+		text=[
+			"Eh, hola. Soy Telarañas, ¡el maestro del conocimiento!",
+			"Trabajo para Augusto. Manteniendo el lugar en forma mientras él está en sus otros laboratorios.",
+			"No es mucho trabajo, así que tengo tiempo de sobra para leer su colección de libros.",
+		],
+	},
+	default={
+		text=[
+			"Pregúntame cualquier cosa, garantizo que sé la respuesta."
+		],
+		prompt="Telarañas",
+		answers=[
+			"¿Quiénes son [color=#fffab3]La Guardia?[/color]",
+			"¿Quiénes son los [color=#77FFFF]Intemporales?[/color]",
+			"¿Qué es el [color=#77FFFF]AGUA?[/color]",
+			"Salir"
+		]
+	},
+	q1={
+		text=[
+			"[color=#fffab3]La Guardia,[/color] veamos...",
+			"Bueno, eh, llevan capas rojas. Sé que eso es cierto.",
+			"Usualmente llevan espadas, aunque a veces no lo hacen...",
+			"¡Oh! Y tienen un palacio. Está al sur de aquí. Eh... ¿o al norte? No soy bueno con las direcciones.",
+		]
+	},
+	q2={
+		text=[
+			"¿Los [color=#77FFFF]Intemporales?[/color] Bueno...",
+			"Creo que las [color=#fffab3]Reinas Gemelas[/color] son [color=#77FFFF]Intemporales.[/color]",
+			"No estoy del todo seguro de lo que eso significa, pero deben ser buenos en ello; han estado a cargo durante mucho tiempo."
+		]
+	},
+	q3={
+		text=[
+			"¡Oh! ¡Sé esto! [color=#77FFFF]AGUA[/color], sí, [color=#77FFFF]AGUA.[/color]",
+			"Bueno, cuando llueve, el agua viene del cielo. Puedes beberla...",
+			"Mm... tal vez ese sea un tipo diferente de agua. Augusto me dijo que el [color=#77FFFF]AGUA[/color] tiene algo que ver con la magia.",
+			"Recientemente leí algo sobre que el [color=#77FFFF]AGUA[/color] se almacena en el cráneo humano, pero Augusto me dijo que no era cierto.",
+		]
+	}
+},

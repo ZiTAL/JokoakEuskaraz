@@ -1,0 +1,101 @@
+Wim = {
+	trade_prompt={
+		text=["¿Intercambias con Wim? Wim quiere cosas.",
+		],
+		prompt="Wim",
+		answers=["Intercambiar", "Salir"]
+	},
+	made_trade_goodbye={
+		text=["Buena negociación. Wim consiguió cosas."],
+	},
+	didnt_trade_goodbye={
+		text=["Pah. La próxima vez intercambia con Wim."],
+	},
+	hit_exclamations = ["¡Ay!",
+		"¡Deja de golpear!",
+		"¡Wim golpea de vuelta!",
+		"¡Para ahora!",
+	],
+},
+
+Reiki = {
+	greeting={
+		text=[
+			"Oh... ¿Un cliente?",
+			"Ha pasado un tiempo. Espero que esto sea una señal de lo que vendrá.",
+			"Me llamo Reiki. Un placer conocerte.",
+		]
+	},
+	trade_prompt={
+		text=["Es una colección extraña, lo admito. Pero podría tener algo útil para ti.",
+		],
+		prompt="Reiki",
+		answers=["Intercambiar", "Salir"]
+	},
+	made_trade_goodbye={
+		text=["Que [color=#8a8eff]Kholo[/color] guíe tu camino."],
+	},
+	didnt_trade_goodbye={
+		text=["Bueno... ¿podrías al menos correr la voz sobre mi tienda?"],
+	},
+},
+
+Pip = {
+	whisper={
+		text=[
+			"¡Pssst... ¡Hey!",
+			"¡Por aquí!"
+		]
+	},
+	greeting={
+		text=[
+			"¡No camines así a plena luz del día!",
+			"¿No ves que me estoy escondiendo? ¡[color=#fffab3]La Guardia[/color] está tratando de matarme!",
+			"Sí, sé que estoy vestido como ellos, pero eso es porque estoy tratando de escapar!",
+			"Hay reglas contra ese tipo de cosas...",
+			"De todos modos, tengo un problema mayor aquí.",
+			"Puede que haya... dejado caer mi brújula mientras escapaba.",
+			"Sin ella, mis posibilidades de escapar no son muy altas.",
+			"Pero... creo que ambos podemos ayudarnos aquí.",
+		]
+	},
+	wait_for_compass={
+		text=[
+			"¿Qué te parece esto? Recuperas mi brújula, y yo te daré la llave de esa puerta dorada.",
+			"Yo puedo salir, y tú puedes... hacer lo que estés haciendo aquí.",
+			"Es un ganar-ganar, ¿no lo entiendes?",
+		]
+	},
+	return_compass={
+		text=[
+			"¡Eso es! ¡Tienes mi brújula!",
+			"Oh hombre, pensé que estaba acabado por seguro.",
+			"Entonces, ¿puedo tenerla? ¡Te daré la llave de la puerta dorada!"
+		],
+		prompt="¿Dar la Brújula Heredada?",
+		answers=["Sí", "No"]
+	},
+	no_return={
+		text=["¿Qué? ¿Estás bromeando?"]
+	},
+	thanks={
+		text=[
+			"Por cierto, me llamo Pip.",
+			"Si te vuelvo a ver, te agradeceré adecuadamente.",
+			"Por ahora, me voy de aquí."
+		]
+	},
+	meet_hole={
+		text=[
+			"¡Hey, eres tú!",
+			"Qué bueno verte salir del palacio.",
+			"Este es un ambiente mucho más agradable. ¿No es la vida genial cuando no hay nadie tratando de matarte?",
+			"De todos modos, esto es para ti."
+		]
+	},
+	final_hole={
+		text=[
+			"Gracias por recuperar mi brújula. Voy a intentar ser un navegante en un barco de pesca."
+		]
+	}
+},

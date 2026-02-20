@@ -1,0 +1,65 @@
+EliasFightEndNPC={
+	default={
+		text=[
+			"Perdóname, [color=#B5CEFF]Diosa Halana.[/color]",
+			"Tu [color=#ff4c42]Usurpador[/color] está frente a mí.",
+			"...",
+			"La [color=#77FFFF]Fuente de la Juventud[/color] es realmente nada más que una maldición.",
+			"Por favor, debes liberar a los otros [color=#77FFFF]Intemporales[/color] de esta maldición.",
+		]
+	},
+	vela={
+		text=[
+			"[color=#8aff92]Vela, Campeona de los Caballeros Velanos.[/color]",
+		]
+	},
+	queens={
+		text=[
+			"[color=#fffab3]Las Reinas Gemelas, Cypha y Cyntra.[/color]",
+		]
+	},
+	rhamos={
+		text=[
+			"Y se rumorea que hay otro, desconocido por mí.",
+		]
+	},
+	end={
+		text=[
+			"En cuanto a mi familia... Ahora solo tú nos cuidas."
+		]
+	}
+},
+
+RhamosFightStartNPC = {
+	first={
+		text=[
+			"Oh, esa [color=#B5CEFF]Forma[/color] tuya...",
+			"Entrégamela.",
+			"Porque es una [color=#B5CEFF]Forma[/color] para matar a los dioses."
+		],
+	},
+	phase2={
+		text=[
+			"¿Es este?",
+			"¿El poder de quién reclamaría el nombre del [color=#ff4c42]Usurpador[/color]? Tu contaminas el título.",
+			"Otórgamelo.",
+		]
+	},
+},
+
+VelaFightStartNPC = {
+	first={
+		text=[
+			"Siento que ha pasado una era.",
+			"Sin embargo, mi alma arde de nuevo.",
+			"Dalo todo. Busco disfrutar de esto."
+		],
+	},
+	phase2={
+		text=[
+			"Casi lo había olvidado.",
+			"Has agitado la niebla. La carnicería inunda mi memoria una vez más.",
+			"No tomarás el título de [color=#8aff92]Campeón[/color] tan fácilmente.",
+		]
+	},
+},

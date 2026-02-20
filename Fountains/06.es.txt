@@ -1,0 +1,75 @@
+Vokaris = {
+	scared={
+		text=[
+			"¿Y quién se supone que eres!?",
+			"¿Buscas morir!?"
+		],
+		prompt="Vokaris",
+		answers=[
+			"Ricard me envió",
+			"Salir"
+		]
+	},
+	ricard_answer={
+		text=[
+			"¿Ricard? ¿Por qué no está aquí!?",
+			"¿Sabes qué? No importa. Si te envió, fue por una razón.",
+			"¡Mata a esos monstruos en nombre de nuestra [color=#8aff92]Dama![/color] Estoy demasiado herido para seguir luchando.",
+		]
+	},
+	after_monsters_dead={
+		text=[
+			"No está mal, no está mal en absoluto.",
+			"¡Incluso podrías tener la fuerza para ser un Caballero!",
+			"Sobre esos monstruos, sin embargo... Nunca he visto nada igual.",
+			"Aquí, logramos sacar un trozo de uno. Ricard podría saber qué hacer con ello.",
+		]
+	},
+	final={
+		text=[
+			"Entrega esa [color=#8aff92]Pieza Sobrecrecido[/color] a Ricard. Podría saber qué hacer con ello."
+		]
+	},
+},
+
+Illina = {
+	greeting={
+		text=[
+			"Oh, hola. Me llamo Illina. Bendiciones de [color=#B5CEFF]Halana[/color] para ti.",
+			"Estoy aquí para visitar la [color=#B5CEFF]Iglesia de la Forma.[/color] Mientras esté aquí, sé que todavía existe.",
+			"Verás, mi pequeño hermano fue llevado allí por un obispo amistoso. El obispo prometió cuidarlo mientras organizaba mis asuntos.",
+			"Pero... eso fue hace meses, y no he tenido noticias de él desde entonces.",
+			"He venido aquí para ver cómo le va. Eso es, si puedo encontrar la entrada...",
+		]
+	},
+	leaving={
+		text=[
+			"Ahora, ¿dónde está la entrada...?"
+		]
+	}
+},
+
+
+Tsubasa = {
+	greeting={
+		text=[
+			"¿Hm?",
+			"No esperaba encontrar a nadie aquí.",
+			"Sospecho que debes ser de... 'dentro'?",
+			"Bueno, me llamo Tsubasa. Y soy de 'fuera', por falta de una mejor palabra.",
+			"No tengo mucho tiempo aquí. Este período de convergencia pronto llegará a su fin.",
+			"Mi visita a su llamado 'Unico Reino' ha sido violenta y corta.",
+			"El tiempo se está agotando, así que hablaré francamente. El plano en el que vives ha sido artificialmente separado del mundo más amplio.",
+			"Su historia, mitología y panteón - una fabricación. Obras de propaganda.",
+			"Falsifican un pasado unificado para legitimar un futuro unificado.",
+			"Estoy disgustado por la arrogancia dentro de este plano. Incluso sus académicos más estudiados son ignorantes o cómplices.",
+			"Sospecho que incluso tú has estado interpretando sin pensar el papel que te han prescrito.",
+			"Por esa razón, no regresaré.",
+		]
+	},
+	leaving={
+		text=[
+			"Ve ahora. Déjate manipular por los poderes que están."
+		]
+	}
+},

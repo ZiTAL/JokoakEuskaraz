@@ -1,0 +1,72 @@
+GDWest_Sacha = {
+	greeting_default={
+		text=["¡Oh! Jules, ¡por fin has vuelto! Estoy tan feliz de verte.",
+		"La hierba está creciendo sin control, y no puedo encontrar mis herramientas.",
+		"Me está volviendo loca... Cada vez que salgo, la hierba está más larga que nunca.",
+		"Jules, por favor corta la hierba.",
+		],
+		prompt="",
+		answers=["No soy Jules", "Cortaré la hierba"]
+	},
+	greeting_cut_already={
+		text=["¡Oh! Jules, finalmente has vuelto. Estoy tan feliz de verte.",
+		"La hierba está creciendo descontroladamente y no puedo encontrar mis herramientas.",
+		"Me está volviendo loca... Cada vez que salgo, la hierba está más larga que nunca.",
+		"Jules, por favor corta la hierba.",
+		],
+		prompt="",
+		answers=["No soy Jules", "Ya corté la hierba."]
+	},
+	not_jules_response={
+		text=["Bien jugado, Jules. Sé que eres tú. ¡Finalmente has vuelto y tienes que cortar la hierba!",
+		],
+	},
+	waiting_for_cut={
+		text=["¡Está bien, ponte a ello! Corta toda la hierba.",
+		"Cuando termines, finalmente podrás contarme sobre los experimentos.",
+		],
+	},
+	thanks={
+		text=["¡Gracias, Jules! Ahora, cuéntame. ¿Tuvo éxito [color=#fffab3]La Guardia[/color]?",
+		"¿Lograron encajar [color=#77FFFF]AGUA[/color] en tu espíritu?",],
+		prompt="",
+		answers=["No digo nada"]
+	},
+	its_fine={
+		text=["Está bien si no quieres hablar de ello, Jules.",
+		"Debes tener hambre después de todo ese trabajo, toma esto."],
+	},
+	final={
+		text=["¿No dijeron que los experimentos te harían más alto?"]
+	},
+	hit_exclamations = ["¡Ay! Jules, ten cuidado.",
+		"¡Jules, para!",
+		"¿Te has vuelto loco?",
+		"¡Detente inmediatamente!",
+		],
+},
+
+TollOperator = {
+	default={
+		text=["Por decreto del [color=#FFBD33]Director Elias[/color], el peaje para entrar a la [color=#FFBD33]Cuenca Secá[/color] es de 50 piezas."],
+		prompt="50 piezas para entrar",
+		answers=["No pagar", "Pagar"]
+	},
+	didnt_pay={
+		text=[
+			"No puedo dar crédito. Vuelve cuando tengas las piezas.",
+			"Recuerda, este peaje es por tu propia seguridad."
+		]
+	},
+	go_ahead={
+		text=["Adelante, entonces. Je je je."],
+	},
+	come_here={
+		text=["¡Ven aquí! Necesito hablar contigo."],
+	},
+	hit_exclamations = ["¡Vaya, solo estoy haciendo mi trabajo!",
+		"¿Estás intentando empezar algo?",
+		"¿Has perdido la cabeza?",
+		"¡Detente inmediatamente!",
+		],
+},

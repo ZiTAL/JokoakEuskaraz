@@ -1,0 +1,99 @@
+# QUEST ITEMS (No use other than for giving to NPCs)
+Items.ItemID.WHETSTONE:{
+	name ="Piedra de Afilado",
+	description = "Un blacksmith hábil podría usar esto para afilar un arma desafilada.",
+},
+Items.ItemID.FISH_TOKEN:{
+	name ="Token de Pescado",
+	description = "Una moneda intermedia utilizada para comerciar pescado.",
+},
+Items.ItemID.LAKE_PENDANT:{
+	name ="Colgante del Lago",
+	description = "Un colgante verde encontrado mientras pescabas. ¿Qué secretos podría tener esto?",
+},
+Items.ItemID.FAIRY_RING_PENDANT:{
+	name ="Colgante de Anillo de Hadas",
+	description = "Permite la comunicación con los Anillos de Hadas",
+},
+Items.ItemID.WOODEN_MASK:{
+	name = "Máscara de Madera",
+	description = "Una máscara dejada por una víctima del Sobrecrecimiento. Permite al portador mezclarse con los enemigos sobrecrecidos."
+},
+Items.ItemID.CRYSTAL_WATERS:{
+	name = "Aguas Cristalizadas",
+	description = "Un trozo de [color=#77FFFF]AGUA[/color] cristalizada de una antigua cisterna. Los Drohm alguna vez recibieron fuerza a través de estas aguas."
+},
+Items.ItemID.LIFE_FRAGMENT:{
+	name = "Fragmento de Vida",
+	description = "Cada pieza zumbido con potencial.\n\nRecolectar cuatro fragmentos que al fusionarse aumenta tu [color=#ff4c42]fuerza vital[/color]."
+},
+Items.ItemID.CHILDS_DOLL:{
+	name = "Muñeca de Niño",
+	description = "Una muñeca que pertenecía a un niño. Lleno de alegría, el niño jugaba con la muñeca todo el día. Parece que esos tiempos ya no son más."
+},
+Items.ItemID.GODWELL_CHARM:{
+	name ="Amuleto del Pozo Divino",
+	description = "Encontrado bajo una cascada, cerca de un grabado que se parecía a la Prisión del Usurpador.",
+},
+Items.ItemID.OVERGROWN_APPENDAGE:{
+	name ="Extremidad Sobrecrecido",
+	description = "La extremidad es similar a una rama de una víctima del Sobrecrecimiento.",
+},
+Items.ItemID.HEIRLOOM_COMPASS:{
+	name ="Brújula de Herencia",
+	description = "Esto parece valioso.",
+},
+	
+# Fishing Loot
+Items.ItemID.SHRIMP:{
+	name ="Camarón",
+	description = "Un crustáceo pequeño, pero delicioso.\n\nNo exactamente lo que un profano podría esperar atrapar con una caña de pescar.",
+	},
+Items.ItemID.MINNOW:{
+	name ="Alevín",
+	description = "¿Qué quieres que diga? Es pequeño. Estoy seguro de que puedes atrapar algo más grande.",
+	},
+Items.ItemID.LOBSTER:{
+	name ="Langosta",
+	description = "Es como un camarón, pero más grande.",
+	},
+Items.ItemID.SARDINE:{
+	name ="Sardina",
+	description = "Un pez pequeño y esbelto.",
+	},
+Items.ItemID.MACKAREL:{
+	name ="Mero",
+	description = "Un pez mediano de ojos grandes.",
+	},
+Items.ItemID.BASS:{
+	name ="Róbalo",
+	description = "¡No lo dejes caer!\nEste es un pez bastante grande.",
+	},
+Items.ItemID.SUNFISH:{
+	name ="Pez Gato Solar",
+	description = "Es grande y circular, como el sol. Menos mal que el sol no es así de feo.",
+	},
+Items.ItemID.BRILLIANT_SUNFISH:{
+	name ="Pez Gato Solar Brillante",
+	description = "Es grande y circular, como el sol... ¡y sorprendentemente, brilla como el sol también!\n\n Su cara sigue siendo bastante fea, sin embargo.",
+	},
+Items.ItemID.SWORDFISH:{
+	name ="Pez Espada",
+	description = "Por supuesto, no es una verdadera espada... \n¿pero no sería gracioso si intentaras usarlo?",
+	},
+Items.ItemID.SHARK:{
+	name ="Tiburón",
+	description = "Es un depredador vicioso. Y lo tienes en tu bolsillo.",
+	},
+Items.ItemID.OCTOPUS:{
+	name ="Pulpo",
+	description = "¿Cómo puedes competir? Esta cosa tiene ocho tentáculos más que tú.",
+	},
+Items.ItemID.OLD_BOOT:{
+	name ="Botín Viejo",
+	description = "¡Eh, si encuentras otro, tendrás un par!\n\nPensándolo bien, esta cosa huele mal. Probablemente deberías deshacerte de ella.",
+	},
+Items.ItemID.GLITCH_ITEM:{
+	name ="???",
+	description = "¡Deshazte de él!",
+	},

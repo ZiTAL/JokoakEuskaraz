@@ -1,0 +1,164 @@
+# SWORDS
+				
+Items.ItemID.DULL_STEEL_SWORD:{
+	name = "Espada de Acero Embotada",
+	description = "Robusta, pero embotada. Parece que se ha dejado caer repetidamente sobre su filo.",
+	},
+Items.ItemID.TRAINING_SWORD:{
+	name = "Espada de Entrenamiento",
+	description = "Una ligera espada de madera utilizada por los nuevos reclutas de La Guardia. Usarla fuera del entrenamiento probablemente sea una mala idea."
+	},
+Items.ItemID.BRASS_SWORD:{
+	name ="Espada de Bronce",
+	description = "Encontrada en la cabeza de un gigante. Claro, está afilada, pero ¿quién haría una espada de bronce?",
+	},
+Items.ItemID.BLACK_BRAND:{
+	name = "Marca Negra",
+	description = "Incluso a plena luz del día, esta espada misteriosamente carece de destello.",
+	},
+Items.ItemID.SHARP_STEEL_SWORD:{
+	name = "Espada de Acero Afilada",
+	description = "Una vez embotada, esta formidable hoja ha sido profesionalmente afilada.",
+	},
+Items.ItemID.DULL_CRYSTAL_SHARD:{
+	name = "Fragmento de Cristal Embotado",
+	description = "Esta espada embotada parece estar hecha de algún tipo de cristal transparente y resistente. Aunque su forma única es mortal, su filo necesita afilarse.",
+	},
+Items.ItemID.CRYSTAL_SHARD:{
+	name = "Fragmento de Cristal Afilado",
+	description = "Esta espada afilada parece estar hecha de algún tipo de cristal transparente y resistente. Su forma única es mortal.",
+	},
+Items.ItemID.DROHMIC_SWORD:{
+	name = "Espada Drohmica",
+	description = "Una espada de la antigua cultura drohmica, prohibida bajo el gobierno de Elias. Esta espada hace que su portador se sienta más saludable.",
+	},
+Items.ItemID.PALACE_SWORD:{
+	name = "Espada de Fourain",
+	description = "Una espada utilizada por la guardia privada del Palacio Fourain. Una notable vibración se siente al tocar el pomo.",
+	},
+Items.ItemID.HEALTHY_BROADSWORD:{
+	name = "Espada Ancha Saludable",
+	description = "Esta espada hace que su portador se sienta más saludable.",
+	},
+Items.ItemID.VELAN_GREATDAGGER:{
+	name = "Gran Daga Velana",
+	description = "Esta gran daga hace que su portador tenga más energía. Un vestigio de una época anterior a la plaga del Sobrecrecimiento.",
+	},
+Items.ItemID.STRICKEN_BLADE:{
+	name = "Espada Afectada",
+	description = "Golpeada por un rayo, la mitad del daño de esta espada se inflige como un delgado choque eléctrico.",
+	},
+Items.ItemID.DULL_RUSTED_SWORD:{
+	name = "Scimitarra Oxidada Embotada",
+	description = "Esta extraña espada debe ser de origen extranjero. Incluso en su estado actual, un hábil herrero podría hacerla increíblemente poderosa.",
+	},
+Items.ItemID.SHINING_SWORD:{
+	name = "Scimitarra Brillante",
+	description = "Esta extraña espada debe ser de origen extranjero. Ahora que ha sido restaurada, su hoja plana es tan reflectante como un espejo.",
+	},
+Items.ItemID.CHEAT_SWORD:{
+	name = "Espada Tramposa",
+	description = "Esta no es una espada real",
+	},
+	
+# TOOLS
+Items.ItemID.HOOK_AND_CHAIN:{
+	name ="Gancho y Cadena",
+	description = "Crudo, pero efectivo. Puede perforar superficies de madera, permitiendo al usuario cruzar huecos.\n\nUtilizado por el Maestro de Cadenas, el principal esclavista de La Guardia.",
+	},
+Items.ItemID.DASH_RING:{
+	name ="Anillo de Carrera",
+	description = "Este anillo le da a su portador el poder de lanzarse rápidamente con un movimiento de su arma.",
+	},
+Items.ItemID.FLUORESCENT_RING:{
+	name ="Manoplas del Guardián",
+	description = "Originalmente creados por la Iglesia de la Forma, a Otobi se le regalaron estas manoplas para aprovechar su poder mal adquirido.",
+	},
+Items.ItemID.LASER_RING:{
+	name ="Anillo Láser",
+	description = "Le da a su portador el poder de invocar un breve destello de luz.\n\nEl Perro Guardián fue una vez un hombre, y sujeto de experimentaciones.",
+	},
+Items.ItemID.BOMB_RING:{
+	name ="Talisman de Bomba",
+	description = "Le da a su usuario el poder de crear una masa inestable.\n\nEl Comandante Varka fue enseñado por Elias en las artes de la magia.",
+	},
+Items.ItemID.DEFLECTION_RING:{
+	name ="Anillo de Desviación",
+	description = "Este anillo agudiza los sentidos de su portador, permitiéndole desviar proyectiles con su espada.",
+	},
+Items.ItemID.ROLL_BOOST_RING:{
+	name ="Anillo de Volteo Aumentado",
+	description = "Este anillo le da al portador un poco de energía en su paso, permitiéndole rodar una gran distancia.",
+	},
+Items.ItemID.SCUFFED_RING:{
+	name ="Anillo Desgastado",
+	description = "No hace nada.",
+	},
+Items.ItemID.SHODDY_FISHING_ROD:{
+	name ="Caña de Pescar Berreta",
+	description = "¡Lánzala al agua y trata de atrapar un pez grande!\n\n...Pero buena suerte, con una caña así.",
+	},
+Items.ItemID.APPRENTICE_FISHING_ROD:{
+	name ="Caña de Pescar de Aprendiz",
+	description = "¡Lánzala al agua y trata de atrapar un pez grande!\n\nEsta es una caña decente. Si tienes suerte, podrías atrapar algo bueno.",
+	},
+Items.ItemID.SUPERIOR_FISHING_ROD:{
+	name ="Caña de Pescar Superior",
+	description = "¡Lánzala al agua y trata de atrapar un pez grande!\n\nEsta es una caña elegante. Tendrás buena suerte pescando con esta.",
+	},
+Items.ItemID.MASTER_FISHING_ROD:{
+	name ="Caña de Pescar Maestra",
+	description = "¡Lánzala al agua y trata de atrapar un pez grande!\n\n¡Con una caña así, tu suerte estará a la par con las mejores!",
+	},
+Items.ItemID.VELAN_RING:{
+	name ="Anillo Velano",
+	description = "Le da a su portador el poder de invocar un círculo de pequeñas explosiones mágicas.\n\nLos Sacerdotes Velanos expanden la influencia de Vela.",
+	},
+Items.ItemID.SPECTRAL_LANTERN:{
+	name ="Linterna Espectral",
+	description = "Una linterna mágica que usa [color=#77FFFF]AGUA[/color] en lugar de combustible. \n\nPuede revelar enemigos invisibles, o simplemente iluminar un lugar oscuro.",
+	},
+Items.ItemID.WEDDING_RING:{
+	name ="Anillo de Boda",
+	description = "Un anillo de boda que pertenece a Elias. Habiendo perdido su amor por la guerra que él comenzó, el anillo lleva el dolor del Director.",
+	},
+Items.ItemID.PAIR_OF_NECKLACES:{
+	name ="Par de Collares",
+	description = "Se dice que las Reinas Gemelas tomaron el control del Único Reino mientras llevaban estos. Los collares aún contienen su rabia de aquel día.",
+	},
+Items.ItemID.HEAL_RING:{
+	name ="Anillo de Curación",
+	description = "Mejora la cantidad curada usando [color=#77FFFF]AGUA[/color].\n\nLa Iglesia de la Forma estudian el [color=#77FFFF]AGUA[/color] para mejorar la forma física.",
+	},
+Items.ItemID.NECROTIC_RING:{
+	name ="Anillo del Pacto Necrótico",
+	description = "Cuando el [color=#77FFFF]AGUA[/color] está vacía, permite que se gaste [color=#ff4c42]VIDA[/color] en su lugar.\n\nLa Guardia entiende que el poder requiere sacrificio.",
+	},
+Items.ItemID.SCHOLARS_RING:{
+	name ="Anillo de Creyente Anciano",
+	description = "Mejora enormemente el daño causado por ataques mágicos.\n\nSignifica la devoción de los Creyentes Ancianos al estudio del [color=#77FFFF]AGUA[/color].",
+	},
+Items.ItemID.HEROIC_AMULET:{
+	name ="Amuleto Heroico",
+	description = "Mejora enormemente el daño de la espada cuando la vida está baja.\n\nPerteneció a un soldado que se aferró a la vida.",
+	},
+Items.ItemID.POETS_BADGE:{
+	name ="Insignia de Poeta",
+	description = "Se gana más AGUA al atacar enemigos.\n\nEsta insignia te convierte en un miembro honorario del Club de Poesía.",
+	},
+Items.ItemID.RESOLUTE_RING:{
+	name ="Brazalete Resuelto",
+	description = "Permite al portador continuar sanando, incluso si recibe daño.\n\nLlevado por La Guardia durante El Consumo.",
+	},
+Items.ItemID.VELAN_MEDALLION:{
+	name ="Medallón Velano",
+	description = "Disminuye la cantidad de [color=#baffcd]ENERGÍA[/color] usada.\nRicard ganó su medallón en combate ritual.",
+	},
+Items.ItemID.PERFECTIONISTS_RING:{
+	name ="Anillo del Perfeccionista",
+	description = "Mejora enormemente el daño de la espada cuando estás a plena [color=#ff4c42]VIDA[/color].\n\nLa Iglesia de la Forma busca la perfección del cuerpo físico.",
+	},
+Items.ItemID.SOAKED_PENDANT:{
+	name ="Colgante Empapado",
+	description = "Aumenta el máximo de [color=#77FFFF]AGUA[/color].\n\nDejado en los Campos de Marea por muchos años, nunca puede secarse.",
+	},

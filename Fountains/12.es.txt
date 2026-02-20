@@ -1,0 +1,104 @@
+MiningMiner = {
+	mining_dialogues = [
+		{ text=["¿Sí, sí, habitante de la superficie, vienes a visitar?",], },
+		{ text=["¡Sí, he recogido diecisiete o dieciocho cristales; un buen día!",], },
+		{ text=["Mi amigo me dijo que hay un secreto en esta mina. Miré por todas partes, ¡nada!",], },
+		{ text=["¡Weheheh, estos cristales son tan brillantes! En casa, los cristales son aburridos y blancos.",], },
+		{ text=["¡Tink tink tink!",], },
+		{ text=["¡Weheheh! ¡Wehehehehehehehe! ¡Wehehehehehehehehehehe!",], },
+		{ text=["¡Sí, sí, debemos recoger los cristales, venderlos en casa!",], },
+		{ text=["Extracción...",], },
+		{ text=["No sé qué extraer, explotar las minas de todos modos...",], },
+		{ text=["¿Habitante de la superficie, conoces a los Drohm en la superficie? Se ven como una gran roca.",], },
+		{ text=["Abajo, más abajo, ¿qué es esto que he encontrado?",], },
+		{ text=["Habitante de la superficie, ¿cuál es tu cristal favorito? ¡El mío es este!",], },
+		{ text=["¡Seré rico con todos estos hermosos cristales!",], },
+		{ text=["¿Realmente vives en la superficie? ",], },
+		{ text=["Apuesto a que soy el minero más rápido en esta mina. Sin competencia.",], },
+		{ text=["¿Cómo se mueven nuestros carros automáticamente?",], },
+		{ text=["¡Estos cristales son tan rosados!",], },
+		{ text=["¡Weheheh!",], },
+	],
+	hit_exclamations = ["¡Weeh!",
+		"¿Cuál es el problema?",
+		"¿Quieres problemas, upvorlder?",
+		"¡Podemos luchar de vuelta!",
+	],
+},
+
+PurgingPriest = {
+	was_angered_before={text=["Oh, así que regresas después de ese violento arrebato.",
+		"Por suerte para ti, estamos obligados a nuestro deber por encima de cualquier otra obligación mundana.",
+		"Ni siquiera la muerte detendrá nuestro progreso, no mientras [color=#8aff92]Vela[/color] nos sostenga."
+		],
+		},
+	greeting_has_blessing={
+		text=["¡Oh! Siento que estás cargado con la bendición de un dios.",
+		"Podemos purgar esta maldad por un pequeño precio, si lo deseas."
+		],
+		prompt="¿Purgar malas bendiciones por %s piezas?", # FORMAT: Purge price
+		answers=["Sí", "No"]
+	},
+	greeting_doesnt_have_blessing={
+		text=["Si alguna vez deseas que se purgue una bendición, regresa a este lugar.",
+		"Siempre podemos estar al servicio.",
+		],
+	},
+	greeting_has_appendage={
+		text=[
+			"¿Vienes aquí buscando purgar una bendición?",
+			"No, no, no es eso... Has traído algo."
+		],
+		prompt="Sacerdotes Velanos",
+		answers=["Dar [color=#8aff92]Pieza Sobrecrecido[/color]", "Dejar"]
+	},
+	give_appendage={
+		text=[
+			"¿Esto es de los... 'monstruos'... en [color=#8aff92]El Veil?[/color]",
+			"Veo por qué nos trajiste esto.",
+			"Esta pieza contiene parte de un alma. Meros monstruos no tienen tal cosa.",
+			"Déjanos guiarte hacia la totalidad del alma.",
+		]
+	},
+	temple_chant={
+		text=[
+			"Lo que vemos es claro.",
+			"[color=#8aff92]El alma de la Dama Vela,[/color] está sellada por las manos de un traidor.",
+			"Una prisión para contener su crecimiento desenfrenado",
+			"Sin embargo, la puerta del templo espera su llave. Para que su alma pueda brotar de una vez.",
+			"Una llave que fue entregada, y está escondida en el [color=#fffab3]Palacio de Fourain,[/color]...",
+		],
+	},
+	chant_done={
+		text=[
+			"Confío en que nuestros servicios fueron de tu satisfacción.",
+			"Regresa si necesitas de ellos nuevamente."
+		]
+	},
+	thanks={text=["¡Y así, la bendición se ha ido!",
+	"Siempre es un placer ayudar a debilitar la influencia de los dioses."]},
+	too_poor={text=["Lamentablemente, estas no son suficientes piezas."]},
+	hit_exclamations = ["¡Ay!",
+		"¿Qué estás haciendo?",
+		"Deja eso o sufrirás las consecuencias.",
+		"Responderemos.",
+	],
+},
+
+SidekickPriest = {
+	greeting_has_blessing={
+		text=["Siento... una bendición.",
+			"Debería ser purgada."
+		],
+	},
+	greeting_doesnt_have_blessing={
+		text=["[color=#8a8eff]Kholo[/color], sé expulsado...",
+		"[color=#8aff92]Dama Vela[/color], ven a nosotros...",
+		],
+	},
+	hit_exclamations = ["¡Ay!",
+		"¿Qué estás haciendo?",
+		"Deja eso o sufrirás las consecuencias.",
+		"Nosotros nos vengaremos.",
+	],
+},

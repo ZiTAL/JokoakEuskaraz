@@ -1,0 +1,122 @@
+# Hints
+BossFightHint = "Si te encuentras con un enemigo difícil, puede ser prudente regresar una vez que estés mejor equipado.",
+
+# Boss names
+Otobi = "Otobi, Guardián Exiliado",
+GuardDog = "Perro Guardián",
+HookBoss = "Maestro de Cadenas, Godir",
+Kraken = "Kraken Amputado",
+Varka = "Comandante Varka",
+Amtarr = "Amtarr, Dios de la Locura",
+Elias = "Director Elias, el Intemporal",
+Krus = "General Krus, Usurpador Destinado",
+Rhamos = "Juez Rhamos, el Intemporal",
+Vela = "Dama Consumida Vela, la Intemporal",
+
+# Inventory interface
+InvTitle = "Inventario",
+SlotSword = "Espada",
+SlotHead = "Cabeza",
+SlotBody = "Cuerpo",
+SlotLegs = "Piernas",
+SlotTool = "Herra.",
+EquipToolIndicator = "EQUIPAR\n\nHERRAMIENTA",
+QuickItemsTitle = "Consumibles Rápidos",
+EquipAction = "\n\nEQUIPAR",
+UseAction = "\n\nUSAR",
+DeployAction = "\n\nUSAR", # Desplegar is too long
+AddQuickAction = "AGREGAR A\n\nRÁPIDO",
+DropAction = "\n\nDESECHAR",
+UnequipAction = "\n\nDESPOJAR",
+RemoveQuickAction = "ELIMINAR\n\nRÁPIDO",
+AcceptAction = "\n\nACEPTAR",
+CancelAction = "\n\nCANCELAR",
+DropPrompt = "¿Qué cantidad deseas desechar?",
+NoItems = "Sin artículos",
+NoItemsInCategory = "Sin artículos en la categoría",
+InvCategoryAll = "Todo",
+InvCategoryEquipment = "Equipo",
+InvCategoryTools = "Herra.",
+InvCategoryConsumables = "Cons.",
+InvCategoryMisc = "Varios",
+# Shop interface
+PlayerListTitle = "Tu Inventario",
+ShopListTitle = "Inventario de la Tienda",
+SellAction = "\n\nVENDER",
+BuyAction = "\n\nCOMPRAR",
+SellFor = "Vende por",
+BuyFor = "Compra por",
+CantSell = "No se puede vender este artículo.",
+SellQuestion = "¿Cuántos deseas vender?",
+BuyQuestion = "¿Cuántos deseas comprar?",
+BuyNotification = "Compraste [color=#77FFFF]%s[/color] x%s por %s %s.", # FORMAT: item name, number of items, price, currency name
+SellNotification = "Vendiste [color=#77FFFF]%s[/color] x%s por %s %s.", # FORMAT: item name, number of items, price, currency name
+UpgradedNotification = "Mejoraste [color=#77FFFF]%s[/color] a [color=#77FFFF]%s[/color].", # FORMAT: old sword name, new sword name
+Piece = "pieza", # Name of the in-game money
+NotEnoughMoney = "No tienes suficientes piezas para comprar%s [color=#77FFFF]%s[/color]", # FORMAT: number of items, item name
+NotEnoughItem = "No tienes suficientes %ss para comprar %s [color=#77FFFF]%s[/color]", # FORMAT: currency item, number of items trying to purchase, purchasing item name
+MapMove = "\n\nMOVER",
+MapAdd = "AGREGAR\n\nMARCADOR",
+MapZoom = "\n\nACERCAR",
+MapSelect = "SELECCIONAR\n\nMARCADOR",
+# Interaction actions
+Read = "Leer",
+Talk = "Hablar",
+Listen = "Escuchar",
+Pet = "Acariciar", # as in "click this to pet the dog"
+Open = "Abrir",
+Inspect = "Inspeccionar",
+ClimbDown = "Bajar",
+ClimbUp = "Subir",
+Enter = "Entrar", # As in "click this to enter the building"
+Rest = "Descansar",
+PickUp = "Recoger",
+Interact = "Interactuar",
+Touch = "Tocar",
+Stare = "Mirar fijamente",
+Activate = "Activar",
+DropLadder = "Soltar Escalera",
+# HUD
+NoItemMessage = "NO\nRÁPIDO\nOBJETO",
+FonsDemo = "DEMO DE FOUNTAINS",
+NotEnoughWater = "No hay suficiente [color=#77FFFF]AGUA[/color]",
+NoPower = "La herramienta equipada no tiene potencia.",
+NoActivePower = "La herramienta equipada no tiene potencia activa.",
+NoTool = "No hay herramientas en esta ranura.",
+# In-game system menu
+MenuTitle = "MENÚ",
+MenuResume = "Reanudar juego",
+ReportABug = "Reportar un error",
+ReportBugMsg = "Para reportar un error, por favor envía un correo a [color=#77FFFF]fountainsgame@gmail.com[/color], incluyendo la palabra 'bug' en la línea de asunto.",
+MenuReturn = "Regresar a la última fuente",
+MenuLeaveMessage = "Deja un mensaje aquí",
+MenuSettings = "Configuraciones",
+MenuQuit = "Guardar y salir",
+# Notifications
+PickUpNotification = "Recogido [color=#77FFFF]%s[/color]", # FORMAT: item name
+ReceiveNotification = "Recibido [color=#77FFFF]%s[/color]", # FORMAT: item name
+GiveNotification = "Dado [color=#77FFFF]%s[/color]", # FORMAT: item name
+# Area titles
+TheVeil = "El Veil",
+DriedBasin = "Cuenca Secá",
+TideFields = "Campos de Marea",
+ChurchOfShape = "Iglesia de la Forma",
+PalaceGarden = "Jardín del Palacio",
+HighLake = "Lago Alto",
+GuardsPalace = "Palacio Fourain",
+GuardsDomain = "Dominio de la Guardia",
+Godwell = "Pozo Divino",
+VolcanicCistern = "Cisterna Volcánica",
+UsurpersPrison = "Prisión del Usurpador",
+ScholarsRetreat = "Retiro de los\nCreyentes Ancianos",
+# Floor Messages
+VoteGood = "Votar bien",
+VotedGood = "Votaste bien", # past tense
+VoteBad = "Votar mal",
+VotedBad = "Votaste mal", # past tense
+FloorMessageCreatorTitle = "Deja un mensaje",
+Template = "Plantilla",
+Word = "Palabra",
+Conjunction = "Conjunción",
+Finish = "Finalizar",
+ToggleFormatActionLabel = "Cambiar\n\nFormato",

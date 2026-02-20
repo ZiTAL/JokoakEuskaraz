@@ -8,8 +8,8 @@ var data = {
 # Main menu
 MM_Continue = "JARRAITU",
 MM_Delete = "PARTIDA EZABATU",
-MM_New = "JOKO BERRIA",
-MM_Support = "FOUNTAINS [color=#1d9bf0]TWITTER[/color]",
+MM_New = "PARTIDA BERRIA",
+MM_Support = "FOUNTAINS [color=#1d9bf0]TWITTER[/color]-EN",
 MM_Credits = "KREDITUAK",
 MM_Settings = "EZARPENAK",
 MM_Language = "HIZKUNTZA ¶", # the symbol here is replaced with a language symbol
@@ -20,19 +20,19 @@ Demo = "DEMOA",
 Beta = "BETA",
 FileName = "Fitxategia",
 AnyButton = "Sakatu edozein botoi hasteko",
-ControllerRecommendation = "Joko hau kontrolagailuarekin hobeto jolasten da",
+ControllerRecommendation = "Joko hau hobeto jokatzen da aginte batekin",
 SettingsTitle = "Ezarpenak",
-ContinueTitle = "Partida jarraitu",
-DeleteTitle = "Partida ezabatu",
-NewTitle = "Aukeratu fitxategia partida berria gordetzeko",
-AllFullError = "Gordetako fitxategi guztiak beteta daude. Mesedez, ezabatu gordetako partidaren bat.",
+ContinueTitle = "Hautatu fitxategia partida jarraitzeko",
+DeleteTitle = "Hautatu fitxategia partida ezabatzeko",
+NewTitle = "Hautatu fitxategia partida berria gordetzeko",
+AllFullError = "Partida guztiak beteta daude. Mesedez, ezabatu gordetako partidaren bat.",
 CreditsTitle = "Kredituak",
 Credits = """
 FOUNTAINS
 
-John Pywell-ek egina
+John Pywell-en eskutik
 
-IDAZKETA
+GIDOIA
 Eric Ramirez-Erosa
 John Pywell
 
@@ -42,28 +42,27 @@ Travis Moberg
 ARTEA
 John Pywell
 
-HASIERAKO PANTAILAKO ARTEA
+TITULU-PANTAILAREN ARTEA
 David Stuart (FrivolousKnight)
 
-PERTSONAIEN ARTE GEHIGARRIA
+PERTSONAIEN ARTE OSAGARRIA
 Tiago Dela Savia (Art_Rebellious)
 
-ITZULPENAK
+LOKALIZAZIOA
 Errusiera - Egor Meshcheryakov
 Frantsesa - John Pywell
-Espainiera - Eric Ramirez-Erosa
+Gaztelania - Eric Ramirez-Erosa
 Turkiera - Ichineko Loc.\n\t(Zeynep Nazlı Kolkıran, Işık Çağlar, Nisa Selin Yağız)
-Brasilgo Portugesa - Douglas Brum
+Brasilgo portugesa - Douglas Brum
 Txinera - Huang "Shuyuan" Teng
-Euskara - zital
 
-JAPONIERAZKO ITZULPENA ETA MARKETINA
+JAPONIAKO LOKALIZAZIOA ETA MARKETINA
 KURONO STUDIOS (kurono.xyz):
  Sam Lewis Kurono
  Alexander Toyota
  Miyuka Yamauchi
 
-CROWDFUNDING - EXEKUTIBOAK
+CROWDFUNDINGA - EKOIZLE EXEKUTIBOAK
 Thomas Newton
 Patricia Miclat
 Thomas Hubscher
@@ -81,7 +80,7 @@ Daniel Ruiz 'TheBrightKing'
 ualac
 Matt
 
-CROWDFUNDING - SORTZAILEAK
+CROWDFUNDINGA - SORTZAILEAK
 Penny Anderson
 TheSeaHorse
 WolfKit
@@ -115,7 +114,7 @@ Justin Carter
 Cameron Riggs
 David Hazzard
 
-CROWDFUNDING - LAGUNTZAILEAK
+CROWDFUNDINGA - LAGUNTZAILEAK
 Elizabeth Pywell
 Dylan Kinash
 Brenton Kollinger
@@ -165,19 +164,19 @@ MartianBlobfish
 Nicolas Chapuis
 BloodScourge
 """,
-NameNewTitle = "Idatzi zure izena",
+NameNewTitle = "Sartu zure izena",
 BackspaceButton = "Atzera",
 StartButton = "Hasi",
-DeleteErrorNoSaves = "Ez dago ezabatzeko partidarik.",
+DeleteErrorNoSaves = "Ez dago ezabatzeko gordetako partidarik.",
 DeleteConfirmTitle = "Ezabatu",
-DeleteConfirm = "Ziur zaude partida hau betirako ezabatu nahi duzula?",
+DeleteConfirm = "Ziur zaude gordetako partida hau betirako ezabatu nahi duzula?",
 DeleteNo = "Ez ezabatu!",
 DeleteYes = "Ezabatu.",
 AcceptIndicator = "ONARTU",
 BackIndicator = "ATZERA",
 MoveIndicator = "MUGITU\n\n\nKURTSOREA",
 BuyIndicator = "EROSI",
-CancelIndicator = "UTZI",
+CancelIndicator = "EZEZTATU",
 # Options for traversing menus
 Back = "Atzera",
 Submit = "Bidali",
@@ -188,39 +187,39 @@ SetAudio = "Audioa",
 SetGame = "Jokoa",
 SetLanguage = "Hizkuntza ¶",  # the symbol here will display as a language symbol
 VidSetTitle = "BIDEO EZARPENAK",
-VidSetFullscreen = "Pantaila Osoa",
-VidSetPerformanceMode = "Errendimendu Modua",
-VidSetPerformanceModeFancy = "Goi-mailakoa",
+VidSetFullscreen = "Pantaila osoa",
+VidSetPerformanceMode = "Errendimendu modua",
+VidSetPerformanceModeFancy = "Kalitate handikoa",
 VidSetPerformanceModeFast = "Azkarra",
-VidSetFPS = "FPS Muga",
+VidSetFPS = "FPS muga",
 VidSetDisableHud = "HUD-a desgaitu [color=#aaaaaa](F10)[/color]",
-VidScreenShake = "Pantaila Astindu",
-VidEnergyVignette = "Energia Baxuko Efektua",
-VidCrtFilter = "CRT Iragazkia",
+VidScreenShake = "Irudia desfokuratzea",
+VidEnergyVignette = "Pantallaren ertzak ilundu",
+VidCrtFilter = "CRT iragazkia",
 VidBrightness = "Distira",
 VidContrast = "Kontrastea",
 AudSetTitle = "AUDIO EZARPENAK",
-AudMaster = " Soinu Nagusia",
-AudGameSounds = "Jokoaren Soinuak",
-AudMenuSounds = "Menuaren Soinuak",
+AudMaster = " Bolumen nagusia",
+AudGameSounds = "Jokoaren soinuak",
+AudMenuSounds = "Menuaren soinuak",
 AudMusic = "Musika",
-AudVoice = "NPC-en Ahotsak",
+AudVoice = "NPC-en ahotsak",
 GameSetTitle = "JOKOAREN EZARPENAK",
-GameSetControllerVibe = "Kontrolagailuaren Bibrazioa",
-GameSetPlayerMessages = "Jokalariaren Mezuak",
-GameSetKBMRollDir = "KB/M Biratzeko Norabidea",
-GameSetKBMRollDirMouse = "Kurtsorearen Norabidea",
-GameSetKBMRollDirWalk = "Mugimenduaren Norabidea",
-GameSetSpeedrunTimer = "Speedrun Kronometroa",
-GameSetDisableTutorials = "Tutorialak Desgaitu",
+GameSetControllerVibe = "Agintearen bibrazioa",
+GameSetPlayerMessages = "Jokalariaren mezuak",
+GameSetKBMRollDir = "KB/M biribilkatze-norabidea",
+GameSetKBMRollDirMouse = "Kurtsorearen norab.",
+GameSetKBMRollDirWalk = "Mugitzeko norab.",
+GameSetSpeedrunTimer = "Speedrun kronometroa",
+GameSetDisableTutorials = "Tutorialak desgaitu",
 LanguageSetTitle = "Hizkuntza",
 LanguageSetLanguage = "Hizkuntza ¶",  # the symbol here will display as a language symbol
-SecretCode = "Kode Sekretua",
-SecretCodeSetTitle = "Idatzi kode sekretua",
-SecretCodeInvalidCode = "Kodeak ez du balio",
-SecretCodeActivated = "Kodea aktibatu da: ",
+SecretCode = "Kode sekretua",
+SecretCodeSetTitle = "Kode sekretua sartu",
+SecretCodeInvalidCode = "Kode baliogabea",
+SecretCodeActivated = "Kodea aktibatuta: ",
 # Opening text
 OpeningText1 = "Hau da erregistratzera ausartu ez zirena:",
-OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere ilaretatik sortu behar izan zen.",
+OpeningText2 = "[color=#ff4c42]Usurpatzailea[/color] beren soldaduen artetik sortu behar izan zen.",
 PressToSkipPrefix = "Sakatu",
 PressToSkipPostfix = "saltatzeko",
