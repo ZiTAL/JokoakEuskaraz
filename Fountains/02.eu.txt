@@ -1,0 +1,122 @@
+# Hints
+BossFightHint = "Etsai indartsu batekin topo eginez gero, zuhurra izan daiteke hobeto ekipatuta zaudenean itzultzea.",
+
+# Boss names
+Otobi = "Otobi, Zaindari Erbesteratua",
+GuardDog = "Txakur Zaindaria",
+HookBoss = "Kateen Maisua, Godir",
+Kraken = "Kraken Mutilatua",
+Varka = "Varka Komandantea",
+Amtarr = "Amtarr, Eromenaren Jainkoa",
+Elias = "Elias Zuzendaria, Denboraz Gaindikoa",
+Krus = "Krus Jenerala, Aurredestinatutako Usurpatzailea",
+Rhamos = "Rhamos Epailea, Denboraz Gaindikoa",
+Vela = "Vela Dama Kontsumitua, Denboraz Gaindikoa",
+
+# Inventory interface
+InvTitle = "Inbentarioa",
+SlotSword = "Ezpata",
+SlotHead = "Burua",
+SlotBody = "Gorputza",
+SlotLegs = "Hankak",
+SlotTool = "Tresn.",
+EquipToolIndicator = "TRESNA\n\nEKIPATU",
+QuickItemsTitle = "Kontsumigarri Azkarrak",
+EquipAction = "\n\nEKIPATU",
+UseAction = "\n\nERABILI",
+DeployAction = "\n\nERABILI", # Desplegar luzeegia da
+AddQuickAction = "AZKARRERA\n\nGEHITU",
+DropAction = "\n\nBAZTERTU",
+UnequipAction = "\n\nKENDU",
+RemoveQuickAction = "AZKARRETIK\n\nKENDU",
+AcceptAction = "\n\nONARTU",
+CancelAction = "\n\nEZEZTATU",
+DropPrompt = "Zenbat bota nahi dituzu?",
+NoItems = "Ez dago artikulurik",
+NoItemsInCategory = "Kategoria honetan ez dago artikulurik",
+InvCategoryAll = "Dena",
+InvCategoryEquipment = "Ekipamendua",
+InvCategoryTools = "Tresna",
+InvCategoryConsumables = "Konts.",
+InvCategoryMisc = "Besteak",
+# Shop interface
+PlayerListTitle = "Zure Inbentarioa",
+ShopListTitle = "Dendaren Inbentarioa",
+SellAction = "\n\nSALDU",
+BuyAction = "\n\nEROSI",
+SellFor = "Saldu honen truke",
+BuyFor = "Erosi honen truke",
+CantSell = "Artikulu hau ezin da saldu.",
+SellQuestion = "Zenbat saldu nahi dituzu?",
+BuyQuestion = "Zenbat erosi nahi dituzu?",
+BuyNotification = "[color=#77FFFF]%s[/color] x%s erosi duzu %s %s truke.", # FORMATUA: objektuaren izena, objektu kopurua, prezioa, txanponaren izena
+SellNotification = "[color=#77FFFF]%s[/color] x%s saldu duzu %s %s truke.", # FORMATUA: objektuaren izena, objektu kopurua, prezioa, txanponaren izena
+UpgradedNotification = "[color=#77FFFF]%s[/color] [color=#77FFFF]%s[/color] bihurtu duzu.", # FORMATUA: ezpata zaharraren izena, ezpata berriaren izena
+Piece = "eusko", # Joko barruko diruaren izena
+NotEnoughMoney = "Ez duzu eusko nahikorik%s [color=#77FFFF]%s[/color] erosteko", # FORMATUA: objektu kopurua, objektuaren izena
+NotEnoughItem = "Ez duzu %ss nahikorik [color=#77FFFF]%s[/color] erosteko", # FORMATUA: moneta-objektua, erosi nahi den objektu kopurua, erosten den objektuaren izena
+MapMove = "\n\nMUGITU",
+MapAdd = "MARKATZAILEA\n\nGEHITU",
+MapZoom = "\n\nHURBILDU",
+MapSelect = "MARKATZAILEA\n\nHAUTATU",
+# Interaction actions
+Read = "Irakurri",
+Talk = "Hitz egin",
+Listen = "Entzun",
+Pet = "Laztandu", # txakurra laztantzeko
+Open = "Ireki",
+Inspect = "Aztertu",
+ClimbDown = "Jaitsi",
+ClimbUp = "Igo",
+Enter = "Sartu", # eraikinean sartzeko
+Rest = "Atseden hartu",
+PickUp = "Jaso",
+Interact = "Elkarreragin",
+Touch = "Ukitu",
+Stare = "Begira geratu",
+Activate = "Aktibatu",
+DropLadder = "Eskailera jaitsi",
+# HUD
+NoItemMessage = "OBJEKTU\nAZKARRIK\nEZ",
+FonsDemo = "FOUNTAINS DEMOA",
+NotEnoughWater = "Ez dago [color=#77FFFF]UR[/color] nahikorik",
+NoPower = "Ekipatutako tresnak ez du indarrik.",
+NoActivePower = "Ekipatutako tresnak ez du indar aktiborik.",
+NoTool = "Eremu honetak ez dago tresnarik.",
+# In-game system menu
+MenuTitle = "MENUA",
+MenuResume = "Partida jarraitu",
+ReportABug = "Errore bat jakinarazi",
+ReportBugMsg = "Errore bat jakinarazteko, bidali mezu bat [color=#77FFFF]fountainsgame@gmail.com[/color] helbidera, eta idatzi 'bug' hitza gaiean.",
+MenuReturn = "Azken iturrira itzuli",
+MenuLeaveMessage = "Utzi mezu bat hemen",
+MenuSettings = "Ezarpenak",
+MenuQuit = "Gorde eta irten",
+# Notifications
+PickUpNotification = "[color=#77FFFF]%s[/color] hartuta", # FORMATUA: objektuaren izena
+ReceiveNotification = "[color=#77FFFF]%s[/color] hartuta", # FORMATUA: objektuaren izena
+GiveNotification = "[color=#77FFFF]%s[/color] emanda", # FORMATUA: objektuaren izena
+# Area titles
+TheVeil = "Beloa",
+DriedBasin = "Arro Lehortua",
+TideFields = "Mareen Zelaiak",
+ChurchOfShape = "Formaren Eliza",
+PalaceGarden = "Jauregiko Lorategia",
+HighLake = "Aintzira Garaia",
+GuardsPalace = "Fourain Jauregia",
+GuardsDomain = "Guardiaren Domeinua",
+Godwell = "Putzu Bedeinkatua",
+VolcanicCistern = "Ur-zulo Bolkanikoa",
+UsurpersPrison = "Usurpatzailearen Kartzela",
+ScholarsRetreat = "Fededun zaharren\nErretiroa",
+# Floor Messages
+VoteGood = "Mezua egokia dela bozkatu",
+VotedGood = "Mezua egokitzat bozkatu duzu", # iraganaldia
+VoteBad = "Mezua desegokia dela bozkatu",
+VotedBad = "Mezua desegokitzat bozkatu duzu", # iraganaldia
+FloorMessageCreatorTitle = "Utzi mezu bat",
+Template = "Txantiloia",
+Word = "Hitza",
+Conjunction = "Lokailua",
+Finish = "Amaitu",
+ToggleFormatActionLabel = "Formatua\n\nAldatu",
