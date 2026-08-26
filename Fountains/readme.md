@@ -1,3 +1,5 @@
 Intemporal, denbora
 pieza piece = eusko
 izen propiak berriz aztertu, Usurpatzailea eta abar...
+garaigabea
+behingabe
