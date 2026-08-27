@@ -56,7 +56,7 @@ Espainiera - Eric Ramirez-Erosa
 Turkiera - Ichineko Loc.\n\t(Zeynep Nazlı Kolkıran, Işık Çağlar, Nisa Selin Yağız)
 Brasilgo Portugesa - Douglas Brum
 Txinera - Huang "Shuyuan" Teng
-Euskara - ZiTAL https://mastodon.eus/@zital
+Euskara - zital https://mastodon.eus/@zital
 
 JAPONIERAZKO ITZULPENA ETA MARKETINA
 KURONO STUDIOS (kurono.xyz):
@@ -171,12 +171,12 @@ BackspaceButton = "Atzera",
 StartButton = "Hasi",
 DeleteErrorNoSaves = "Ez dago ezabatzeko partidarik.",
 DeleteConfirmTitle = "Ezabatu",
-DeleteConfirm = "Ziur al zaude partida hau betirako ezabatu nahi duzula?",
+DeleteConfirm = "Ziur al zaude partida hau ezabatu nahi duzula?",
 DeleteNo = "Ez ezabatu!",
 DeleteYes = "Ezabatu.",
 AcceptIndicator = "ONARTU",
 BackIndicator = "ATZERA",
-MoveIndicator = "MUGITU\n\n\nKURTSOREA",
+MoveIndicator = "KURTSOREA\n\n\nMUGITU",
 BuyIndicator = "EROSI",
 CancelIndicator = "UTZI",
 # Options for traversing menus
@@ -226,7 +226,7 @@ OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere ilaretatik sortu behar
 PressToSkipPrefix = "Sakatu",
 PressToSkipPostfix = "saltatzeko",
 # Hints
-BossFightHint = "Etsai gogor batekin topo eginez gero, hobe da hobeto hornituta zaudenean itzultzea.",
+BossFightHint = "Etsai gogor batekin topo eginez gero, hobe da indartsuagoa zarenean itzultzea.",
 
 # Boss names
 Otobi = "Otobi, Erbesteko Zaindaria",
@@ -279,7 +279,7 @@ BuyQuestion = "Zenbat erosi nahi duzu?",
 BuyNotification = "[color=#77FFFF]%s[/color] x%s %s %s-ren truke erosi duzu.", # FORMAT: item name, number of items, price, currency name
 SellNotification = "[color=#77FFFF]%s[/color] x%s %s %s-ren truke saldu duzu.", # FORMAT: item name, number of items, price, currency name
 UpgradedNotification = "[color=#77FFFF]%s[/color] [color=#77FFFF]%s[/color]-ra hobetu duzu.", # FORMAT: old sword name, new sword name
-Piece = "eusko", # Name of the in-game money
+Piece = "Eliodoro", # Name of the in-game money
 NotEnoughMoney = "Ez daukazu nahikoa pieza [color=#77FFFF]%s[/color] erosteko", # FORMAT: number of items, item name
 NotEnoughItem = "Ez daukazu nahikoa %ss %s [color=#77FFFF]%s[/color] erosteko", # FORMAT: currency item, number of items trying to purchase, purchasing item name
 MapMove = "\n\nMUGITU",
@@ -315,33 +315,33 @@ MenuTitle = "MENUA",
 MenuResume = "Partida jarraitu",
 ReportABug = "Errore bat jakinarazi",
 ReportBugMsg = "Errore bat jakinarazteko, bidali e-posta [color=#77FFFF]fountainsgame@gmail.com[/color] helbidera, 'bug' hitza gaian sartuta.",
-MenuReturn = "Itzuli azken iturrira",
+MenuReturn = "Azken iturrira itzuli",
 MenuLeaveMessage = "Mezu bat utzi",
 MenuSettings = "Ezarpenak",
 MenuQuit = "Gorde eta irten",
 # Notifications
-PickUpNotification = "Jasota [color=#77FFFF]%s[/color]", # FORMAT: item name
-ReceiveNotification = "Jasota [color=#77FFFF]%s[/color]", # FORMAT: item name
-GiveNotification = "Emanda [color=#77FFFF]%s[/color]", # FORMAT: item name
+PickUpNotification = "[color=#77FFFF]%s[/color] jasota", # FORMAT: item name
+ReceiveNotification = "[color=#77FFFF]%s[/color]  jasota", # FORMAT: item name
+GiveNotification = "[color=#77FFFF]%s[/color] emanda", # FORMAT: item name
 # Area titles
-TheVeil = "Veila",
-DriedBasin = "Lehorreko Ontzia",
+TheVeil = "Beila",
+DriedBasin = "Arro lehorra",
 TideFields = "Marearen Zelaiak",
 ChurchOfShape = "Formaren Eliza",
 PalaceGarden = "Jauregiko Lorategia",
 HighLake = "Aintzira Garaia",
 GuardsPalace = "Fourain Jauregia",
-GuardsDomain = "Zaindarien Domeinua",
+GuardsDomain = "Guardiaren Domeinua",
 Godwell = "Jainkoaren Putzua",
 VolcanicCistern = "Zisterna Bolkanikoa",
 UsurpersPrison = "Usurpatzailearen Kartzela",
-ScholarsRetreat = "Fededunen\nAtsedenlekua",
+ScholarsRetreat = "Fededun Zaharren\nAtsedenlekua",
 # Floor Messages
-VoteGood = "Ondo bozkatu",
-VotedGood = "Ondo bozkatu duzu", # past tense
-VoteBad = "Txarra bozkatu",
-VotedBad = "Txarra bozkatu duzu", # past tense
-FloorMessageCreatorTitle = "Utzi mezua",
+VoteGood = "Positibo bozkatu",
+VotedGood = "Positibo bozkatu duzu", # past tense
+VoteBad = "Negatibo bozkatu",
+VotedBad = "Negatibo bozkatu duzu", # past tense
+FloorMessageCreatorTitle = "Mezua utzi",
 Template = "Txantiloia",
 Word = "Hitza",
 Conjunction = "Konjuntzio",
@@ -357,15 +357,15 @@ TutorialToSprint = "korrika egiteko",
 TutorialInventory = "inbentarioa irekitzeko eta ezpata hornitzeko",
 TutorialDodge = "[color=#ff4c42]Garaitezina[/color] zara saihesten duzun bitartean.\n\nSAIHESTU:",
 TutorialDodge2 = "[color=#ff4c42]Erasoak saihestu[/color] kaltea ekiditeko.\n\nSAIHESTU:",
-TutorialRest = "Atseden hartu [color=#77FFFF]ITURRI[/color] batean zure bizitza berreskuratzeko eta aurrerapena gordetzeko.",
+TutorialRest = "[color=#77FFFF]ITURRI[/color] batean atseden hartu, zure bizitza berreskuratzeko eta aurrerapena gordetzeko.",
 HealTutorial1 = "Etsaiak jo [color=#77FFFF]URA[/color] lortzeko ",
 HealTutorial2 = "[color=#77FFFF]URA[/color] erabiliz sendatzeko",
-HealTutorial3 = "Pultsa [color=#77FFFF]URA[/color] erabiliz sendatzeko",
-TutorialInventory2 = "Kontsumigarriak erabiltzeko, ireki zure inbentarioa:",
+HealTutorial3 = "Sakatuta mantendu [color=#77FFFF]URA[/color] erabiliz sendatzeko",
+TutorialInventory2 = "Ireki zure inbentarioa Kontsumigarriak erabiltzeko:",
 MapTutorial = "Ireki mapa:",
-ToolEquipTutorial = "Tresna berri hau hornitzeko, ireki zure inbentarioa:",
+ToolEquipTutorial = "Ireki zure inbentarioa Tresna berri hau hornitzeko:",
 ToolControllerTutorial1 = "Pultsatuta mantendu tresna berri hau apuntatzeko:",
-ToolControllerTutorial2 = "Askatu jaurtitzeko",
+ToolControllerTutorial2 = "Jaurtitzeko askatu",
 ToolKeyboardTutorial = "Sakatu tresna berri hau jaurtitzeko:",
 
 # Other
@@ -374,7 +374,7 @@ DoesNotOpenFromThisSide="Alde honetatik ez da irekitzen.",
 OpenedDoorUsingKey="[color=#77FFFF]%s[/color]-rekin ireki da", # FORMAT: Key name
 SmokeDoorLockedMessage = "Ke-Horma bero batek bidea ixten du.",
 FunnyFeeling = "Munduan zerbait aldatu dela sentitzen duzu...",
-SmokeDoorConfirmation = "Erabili Hodei Talismana hodeia kentzeko?",
+SmokeDoorConfirmation = "Hodei Talismana erabili hodeia kentzeko?",
 LifeFragmentGet = "%s/4 [color=#ff4c42]BIZITZA ZATIAK[/color]", # FORMAT: Number of life fragments
 ConfirmationAnswers = ["Bai", "Ez"],
 PlayerUpgradeOptions = {
@@ -418,7 +418,7 @@ AmtarrBlessingToll = "[color=#ff4c42]Amtarr-en bendizioak ondorio kaltegarriak d
 DefaultCharacterHitExclamations=[
 	"Aupa!",
 	"Burua galdu al duzu?",
-	"Gelditu!",
+	"Geldi!",
 	"Gelditu orain!",
 ],
 
@@ -429,22 +429,22 @@ DKD_Ricard = {
 	greeting={
 		text=["- Oh? Beste bat.",
 		"[color=#fffab3]Guardiak[/color] gaur hona bota duen hirugarrena zara.",
-		"Hau da -edo zen- Usurpatzailearen Kartzela, non [color=#fffab3]Guardia[/color] [color=#ff4c42]Usurpatzailea[/color] zela susmatzen zuten edonor giltzapetu zuten.",
+		"Hau da -edo zen- Usurpatzailearen Kartzela, non [color=#fffab3]Guardiak[/color] [color=#ff4c42]Usurpatzailea[/color] zela susmatzen zuten edonor giltzapetu zuten.",
 		"Hala ere, horretarako eraiki zen.",
-		"Gaur, beren autoritate geriatrikoa zalantzan jartzen duen edonor botako dute putzu honetara. Baina bere administrazioa hausten den heinean, espetxe segurtasuna ere aldatzen da.",
+		"Gaur, beren autoritate zaharkitua zalantzan jartzen duen edonor botako dute putzu honetara. Baina bere administrazioa hausten den heinean, espetxearen segurtasuna ere aldatzen da.",
 		"Izan ere, zu bezalako norbaitek ere ihes egin dezakeela apustu egingo nuke. Zure izpirituan [color=#77FFFF]URA[/color] duzula dirudi.",
-		"Baina entzun nazazu, arrotza. Gauzak kanpoan nola ikusten diren...",
-		"Hobe duzu eseri eta hemen usteltzeko itxaron."
+		"Baina entzun nazazu txo! Kanpoaldea arriskutsua da txo...",
+		"Hobe duzu hemen eseri eta usteldu, kanpora irten baino."
 		],
 		prompt="",
 		answers=["Galdetu besteei buruz", "Irten"]
 	},
 	the_others={
 		text=["Besteak?",
-		"Ai, gaur zulo honetara bota zituzten beste arima pobreak esan behar duzu.",
+		"Ai, zulo honetara bota zituzten beste arima koitaduei buruz al zara?",
 		"Beldur naiz ez ote zuten asko iraun. Burua galdu duten beste preso haiek urratuta.",
-		"Zaindu zeure burua edo haiek bezala amaituko zinateke!",
-		"Orain, utzi nazazu bakean.",					
+		"Zaindu zeure burua edo haiek bezala amaituko duzu txo!",
+		"Orain, utzi nazazu bakean txo! SEP!",					
 		],
 	},
 	final={text=["Utz nazazu bakean."]},
@@ -452,50 +452,50 @@ DKD_Ricard = {
 
 HoP_Ricard = {
 	meditation={
-		text=["... ez dadila kalterik etortzea -"]
+		text=["... ez dagizula kalterik etorri -"]
 	},
 	greeting={
-		text=["- Zu berriz!",
-		"Nola bukatu zenuen gela zahar honetan?",
-		"Galdera bera egin didazula uste dut. Egia esateko, galduta nago. Lur hau labirinto absolutua da.",
-		"Urtez urte, geruzaz geruza suntsiketa eta berreraikuntza... Apustu egingo nuke ganbera hau behin azalean zegoela.",
-		"Tira, ez da sekretua [color=#fffab3]Guard[/color] jatorrizkoak hemen idatzi duena. [color=#ff4c42]Usurpatzailea[/color]ren profezia ezagutzen duzulakoan nago.",
+		text=["- Zu berriz txo!",
+		"Nola bukatu duzu gela zahar honetan?",
+		"Galdera bera egin didazula uste dut. Egia esateko, galduta nago. Lur hau labirinto handi bat da.",
+		"Urtez urte, geruzaz geruza suntsiketa eta berreraikuntza... Apustu egingo nuke ganbera hau garai batean azalean zegoela.",
+		"Tira, ez da sekretua jatorrizko [color=#fffab3]Guardiak[/color] hemen idatzi zuela. [color=#ff4c42]Usurpatzailea[/color]ren profezia ezagutzen duzulakoan nago.",
 		"Hemen idatzitako gehiena fikzio hutsa da. Hona hemen grabatzera ausartu ez zirena:",
-		"[color=#ff4c42]Usurpatzaileak[/color] beren mailatik atera behar dira.",
+		"[color=#ff4c42]Usurpatzailea[/color] haien gerlarietako bat izen behar zen.",
 		"Horregatik etorri naiz lurralde honetara, nire [color=#8aff92]Vela anderea[/color] hilko zuena garaitzera.",
 		"Oh, eta berriro ahaztu baino lehen - nire izena Ricard da.",
 		]
 	},
 	who_is_vela={
-		text=["Harri baten azpian bizi behar zara.",
-		"[color=#8aff92]Vela[/color] da [color=#8aff92]Bizitzaren Jainkoa[/color], eta [color=#8aff92]Beloa[/color]ren agintaria.",
-		"[color=#8aff92]Beloa[/color] desagertuta dago denbora luzez, beraz, [color=#8aff92]Velan Zalduak[/color] zabaldu ditugu gure patruilak bera egon zitekeen edozein tokitara.",
-		"Batzuek uste dute [color=#ff4c42]Usurpatzailearena[/color] kondaira hutsa dela, baina nire betebeharra egin dut [color=#77FFFF]Iturria[/color] boterea hartzea eragozteko.",
-		"[color=#8aff92]Velagatik[/color].",
+		text=["Kobazulo batean barruan bizi behar zara.",
+		"[color=#8aff92]Vela[/color] [color=#8aff92]Bizitzaren Betiereko Jainkoa[/color] da, eta [color=#8aff92]Beloaren[/color] agintaria.",
+		"[color=#8aff92]Belotik[/color] ez da ageri denbora luzez, beraz, [color=#8aff92]Velaren Zaldunak[/color] zabaldu ditugu bera egon zitekeen edozein tokitara.",
+		"Batzuek uste dute [color=#ff4c42]Usurpatzailearena[/color] kondaira hutsa dela, baina nire betebeharra egin dut [color=#77FFFF]Iturriaren[/color] boterea hartzea eragozteko.",
+		"[color=#8aff92]Velaren[/color] onerako.",
 		],
 	},
 	where_usurper={
-		text=["Non dago [color=#ff4c42]Usurpatzailea[/color]? Nik ere jakin nahiko nuke.",
-		"Dakidana da [color=#77FFFF]Betiereko Jainkoa[/color] guztiak hiltzea bilatuko dutela.",
-		"[color=#8aff92]Velaren[/color] zerbitzari gisa, ezin dut hori gertatzea onartu."
+		text=["Non ote dago [color=#ff4c42]Usurpatzailea[/color]? Nik ere jakin nahiko nuke.",
+		"Dakidana zera da, [color=#77FFFF]Betiereko Jainko[/color] guztiak hiltzen saiatuko dela.",
+		"[color=#8aff92]Velaren[/color] zerbitzari gisa, ezin dut onartu."
 		],
 	},
 	final={
 		text=[
-			"Jakin iezadazu [color=#ff4c42]Usurpatzailea[/color] buruz ezer entzuten baduzu.",
-			"Behin hemendik irteera aurkitu dudanean, [color=#8aff92]Beilera[/color] itzuliko naiz bilaketarekin jarraitzeko."
+			"Esaidazu [color=#ff4c42]Usurpatzaileari[/color] buruz ezer entzuten baduzu, otoi.",
+			"Behin hemendik irtetzerakoan, [color=#8aff92]Beilera[/color] itzuliko naiz bilaketarekin jarraitzeko."
 		],
-		prompt="Richard",
+		prompt="Ricard",
 		answers=["Nor da [color=#8aff92]Vela anderea[/color]?", "Non dago [color=#ff4c42]Usurpatzailea[/color]?", "Irten",]
 	},
 },
 
 Veil_Ricard = {
 	meditation = {
-		text=["... igo gure -"]
+		text=["... gailurrera igotzen da gure -"]
 	},
 	greeting={
-		text=["Oh? Hemen lortu duzu, ezta?",
+		text=["Oh? Zu hemen!",
 			"Azkenean labirinto horretatik ihes egitea lortu nuen, [color=#8aff92]Beloa[/color] munstroz josia aurkitu nuen.",
 			"Gutxi batzuk garaitzea lortu dut, baina [color=#8aff92]Velaren Zaldunak[/color] sakabanatuta daude, beraz, eskuak beteta ditut.",
 		],
@@ -503,42 +503,42 @@ Veil_Ricard = {
 	quest_prompt={
 		text=[
 			"Demagun, nahiko ondo egin duzula zure kabuz.",
-			"Hemen zaudenez, axola al zenuke munstro batzuk hiltzea? [color=#8aff92]Velanako gotorlekua[/color] inbaditzeko arriskuan dago.",
+			"Hemen zaudela aprobetxatuz... axola al zaizu munstro batzuk hiltzea? [color=#8aff92]Belako gotorlekua[/color] arriskuan dago.",
 			"Zer diozu?"
 		],
-		prompt="Richard",
-		answers=["Lagundu Ricard", "utzi"]
+		prompt="Ricard",
+		answers=["Ricard lagundu", "utzi"]
 	},
 	quest_accepted={
 		text=[
-			"Perfektua. Azkar jokatu behar dugu.",
-			"Dakidanaren arabera, nire lagun Zaldun batzuk [color=#8aff92]Velanako gotorleku[/color] gertu borrokan ari dira.",
-			"Zoritxarrez, horrek ez du esan nahi atsegin handiz hartuko duzunik. Bilatu Vokaris, eta esaiozu bidali zaitudala."
+			"Ederto. Azkar ibili behar gara.",
+			"Dakidanaren arabera, nire lagun Zaldun batzuk [color=#8aff92]Belako gotorlekutik[/color] gertu borrokan ari dira.",
+			"Zoritxarrez, horrek ez du esan nahi atsegin handiz hartuko zaituztenik. Bilatu Vokaris, eta esaiozu nik neuk bidali zaitudala."
 		],
 	},
 	has_appendage={
 		text=[
 			"Ah, itzuli zara.",
-			"Munstroak zaindu dituzula uste dut?",
+			"Munstroak akatu dituzu, ezta?",
 		],
-		prompt="Richard",
-		answers=["Erakutsi [color=#8aff92]Hazitako pieza[/color]", "utzi"]
+		prompt="Ricard",
+		answers=["Erakutsi [color=#8aff92]Gainhazitako Pieza[/color]", "Utzi"]
 	},
 	shown_appendage={
 		text=[
-			"ikusten dut.",
-			"Piztiak [color=#8aff92]Beil[/color]ren berezko floraren parte direla dirudi.",
-			"Nondik atera dira, eta zergatik sentitzen dira ezagunak?",
-			"Haiekin borrokatzen dudanean, zaldun lagun baten aurka borrokatzen ari nintzela bezala da.",
-			"Honek trikimailu bat izan behar du, jainkoen joko zororen bat...",
-			"Magia hau ezagutzen ez dudan arren, agian apaizek badakite nola uxatzen.",
-			"Haiekin tratua gorroto dudan arren, aukera bakarra dirudi.",
+			"Ikusten dut.",
+			"Piztiak [color=#8aff92]Beileko[/color] berezko floraren parte direla dirudi.",
+			"Nondik atera dira, eta zergatik egiten zaizkit... ezagunak?",
+			"Haiekin borrokatzen dudanean, zaldun lagun baten aurka borrokatzea bezalakoa da.",
+			"Hau trikimailu bat izan behar da... Jainkoen joko zitalen bat...",
+			"Magia hau ezagutzen ez dudan arren, agian apaizek badakite nola aurre egin.",
+			"Haiekin tratua gorroto dudan arren, aukera bakarra dela dirudi.",
 		],
 	},
 	wait_for_priests={
 		text=[
-			"Hobe ez itxarotea. [color=#8aff92]Bela Apaiz[/color] batzuk lanean ari dira ekialdeko eliza zaharrean.",
-			"Ikusi zer egin dezaketen [color=#8aff92]Gehiegizko pieza[/color] horrekin.",
+			"Hobe ez itxaron araztea. [color=#8aff92]Bela Apaiz[/color] batzuk lanean ari dira ekialdeko eliza zaharrean.",
+			"Ikusi zer egin dezaketen [color=#8aff92]Gainhazitako Pieza[/color] horrekin.",
 		]
 	},
 	after_priests={
@@ -546,18 +546,18 @@ Veil_Ricard = {
 			"...-ren odolarekin",
 			"Ah, itzuli zara. Apaizengandik ikasi al duzu ezer?",
 		],
-		prompt="Richard",
-		answers=["Kontatu Ricard-i apaizei buruz", "utzi"]
+		prompt="Ricard",
+		answers=["Kontatu Ricard-i apaizei buruz", "Utzi"]
 	},
 	final={
 		text=[
-			"'Tenplu bat'? Seguru tenplua hemen[color=#8aff92]Beilean[/color] ez dagoela.",
+			"'Tenplu bat'? Seguru hemen, [color=#8aff92]Beilean[/color] ez dagoela tenplurik.",
 			"Inoiz ez gara sartu ahal izan.",
-			"Baina han al dago bilatzen dugun arima? Izan al liteke benetan [color=#8aff92]Vela anderea[/color]?",
-			"Erantzuna jakin behar dut. Zoritxarrez, giltza hau [color=#fffab3]Fourain jauregian[/color] egon arren, ezin dut barrura sartu.",
-			"[color=#fffab3]Guardia[/color] ikusiko banindu, arazo asko sortuko lituzke.",
+			"Baina... han al dago bilatzen dugun arima? Izan al liteke benetan [color=#8aff92]Vela anderea[/color]?",
+			"Erantzuna jakin behar dut. Zoritxarrez, giltza hau [color=#fffab3]Fourain jauregian[/color] egon arren, ezin naiz barrura sartu.",
+			"[color=#fffab3]Guardiak[/color] ikusiko banindu, arazo handiak sortuko lirateke.",
 			"Azken gauza bat galdetu behar dizut: berreskuratu [color=#fffab3]Fourain jauregiko tenpluko giltza[/color].",
-			"Tenpluan ezagutuko zaitut."
+			"Tenpluan ikusiko dugu elkar."
 		],
 	},
 },
@@ -566,16 +566,16 @@ Temple_Ricard = {
 	speech = {
 		text=[
 			"Iritsi zara...",
-			"Hala ere, ez zenuela espero nuen.",
-			"Esadazu, nola sartu zinen jauregian, eta [color=#fffab3]Regina Bikiak[/color] hilda daude orain?",
-			"Hori ez litzateke posible izan behar, salbu...",
-			"Zu zara, ezta? Nire [color=#8aff92]Vela anderea[/color] mehatxatzen duena, [color=#ff4c42]Usurpatzailea.[/color]",
-			"Aliatutzat hartzen zintudala pentsatzea. Nire errua aurkitu duzula pentsatzea.",
-			"Nire betebeharra bete behar dut, [color=#8aff92]Velagatik[/color].",
+			"Hala ere, ez nuen uste lortuko zenuenik.",
+			"Esaidazu, nola sartu zinen jauregian, eta [color=#fffab3]Erregina Bikiak[/color] hilda al daude orain?",
+			"Hori ezinezkoa da... Edo...",
+			"Zu zara, ezta? Nire [color=#8aff92]Vela anderea[/color] mehatxatzen duena, [color=#ff4c42]Usurpatzailea[/color]!",
+			"Aliatutzat hartzen zintudala pentsatzea. Nire erruagatik aurkitu duzula pentsatzeak...",
+			"Nire betebeharra bete behar dut, [color=#8aff92]Velaren[/color] onerako.",
 			"...",
 			"[color=#8aff92]Hartu zure arma eta zorroztu,\nJantzi zure armadura eta utzi kolpatzen,\nElikatu zure arima arerioen odolaz,[/color]",
-			"[color=#8aff92]Andre Maria dagoen tokira igotzen gara,\nBerari kalterik egingo ez diezaion,\nEgun batez itzuliko da eta bere etsaiak garaituak izango dira,[/color]",
-			"[color=#8aff92]Zure bekatuak haren ezpataz epaitzen diren bezala.[/color]",
+			"[color=#8aff92]Gure Dama dagoen tokira igoko gara,\nBerari kalterik ez egiteko,\nEgun batez itzuliko da, eta bere etsaiak garaituak izango dira,[/color]",
+			"[color=#8aff92]Bere ezpatak bekatuak epaitzen dituen heinean.[/color]",
 		]
 	},
 },
@@ -583,33 +583,33 @@ Temple_Ricard = {
 Vokaris = {
 	scared={
 		text=[
-			"Eta nor izan behar zara!?",
-			"Hiltzeko bila zabiltza!?"
+			"Eta nor suposatzen da zarela!?",
+			"Hil nahian al zabiltza!?"
 		],
 		prompt="Vokaris",
 		answers=[
-			"Ricardek bidali zidan",
+			"Ricardek bidali nau",
 			"Irten"
 		]
 	},
 	ricard_answer={
 		text=[
-			"Richard? Zergatik ez dago hemen!?",
-			"Badakizu zer? Berdin du. Bidali bazituen, arrazoi batengatik izan zen.",
-			"Hil munstro horiek gure [color=#8aff92]Andrearen izenean![/color] Zaurituegi nago borrokan jarraitzeko.",
+			"Ricard? Zergatik ez da zurekin etorri!?",
+			"Badakizu zer? Berdin du. Bidali bazaitu, zeozergatik izango zen.",
+			"Hil munstro horiek gure [color=#8aff92]Damaren[/color] izenean! Zaurituegi nago borrokan jarraitzeko.",
 		]
 	},
 	after_monsters_dead={
 		text=[
-			"Ez dago gaizki, ez batere gaizki.",
-			"Baliteke Zaldun izateko indarra ere edukitzea!",
+			"Ez dago gaizki... Ez dago batere gaizki txo!",
+			"Baliteke Zaldun izateko indarra ere izatea!",
 			"Munstro horiei buruz, ordea... Ez dut inoiz horrelakorik ikusi.",
-			"Hemen, zati bat lortzea lortu dugu. Baliteke Ricard-ek jakinik zer egin horrekin.",
+			"Hemen, bati zati bat kentzea lortu dugu. Baliteke Ricard-ek jakitea zer egin horrekin.",
 		]
 	},
 	final={
 		text=[
-			"Eman [color=#8aff92]Hazitako pieza[/color] hori Ricard-i. Agian jakingo nuke zer egin horrekin."
+			"Eman [color=#8aff92]Gainhazitako Pieza[/color] hori Ricard-i. Agian jakingo du zer egin horrekin."
 		]
 	},
 },
@@ -617,16 +617,16 @@ Vokaris = {
 Illina = {
 	greeting={
 		text=[
-			"Oh, kaixo. Nire izena Illina da. [color=#B5CEFF]Halana[/color] bedeinkazioak zuri.",
-			"Hemen nago [color=#B5CEFF]Formako eliza bisitatzera.[/color] Hemen nagoen bitartean, badakit oraindik existitzen dela.",
-			"Ikusten duzu, nire anaia txikia apezpiku lagun batek eraman zuen hara. Apezpikuak agindu zidan zainduko zuela nire aferak antolatzen nituen bitartean.",
-			"Baina... hori duela hilabete izan zen, eta harrezkero ez dut haren berririk.",
-			"Hona etorri naiz nola zauden ikustera. Hau da, sarrera aurkitzen badut...",
+			"Oh, kaixo. Nire izena Illina da. [color=#B5CEFF]Halanaren[/color] bedeinkazioak zuretzat.",
+			"Hemen nago [color=#B5CEFF]Formako eliza[/color] bisitatzeko. Hemen dagoen bitartean, badakit oraindik existitzen dela.",
+			"Begira... nire anaia txikia gotzain on batek eraman zuen hara. Gotzainak agindu zidan zainduko zuela nire aferak antolatzen nituen bitartean.",
+			"Baina... hori duela hilabeteak izan zen, eta harrezkero ez dut haren berririk.",
+			"Hona etorri naiz nola dagoen ikusteko. Hau da, sarrera aurkitzen badut...",
 		]
 	},
 	leaving={
 		text=[
-			"Orain, non dago sarrera...?"
+			"Eta... non dago sarrera...?"
 		]
 	}
 },
@@ -635,23 +635,23 @@ Illina = {
 Tsubasa = {
 	greeting={
 		text=[
-			"Hmm?",
+			"Mmm?",
 			"Ez nuen espero hemen inor aurkitzea.",
-			"Susmoa dut... 'barrutik' izan behar duzula?",
-			"Beno, nire izena Tsubasa da. Eta ni «kanpokoa» naiz, hitz hobe baten faltan.",
+			"Susmoa dut... 'barrutik' izan behar dela?",
+			"Beno, nire izena Tsubasa da. Eta ni 'kanpotarra' naiz, beste zerbait ez esateagatik...",
 			"Hemen ez dut denbora askorik. Konbergentzia aldi hau laster amaituko da.",
-			"Haren 'Only Kingdom' deituriko bisita bortitza eta laburra izan da.",
-			"Denbora agortzen ari da, beraz, zintzo hitz egingo dut. Bizi zaren hegazkina artifizialki banandu da mundu zabaletik.",
+			"Haren 'Erresuma Bakarra' deituriko bisita bortitza eta laburra izan da.",
+			"Denbora agortzen ari da, beraz, zintzo hitz egingo dut. Bizi zaren planoa artifizialki banandu da mundu zabaletik.",
 			"Bere historia, mitologia eta panteoia - fabrikazio bat. Propaganda lanak.",
 			"Iragan bateratua faltsutzen dute etorkizun bateratua legitimatzeko.",
-			"Nazkatuta nago hegazkin honen barruko harrokeriak. Bertako akademiko ikasienak ere ezjakinak edo konplizeak dira.",
-			"Susmoa dut zuk ere zuk agindutako papera burugabe jokatzen ari zarela.",
+			"Nazkatuta nago plano honen barruko harrokeriak. Bertako akademiko ikasienak ere ezjakinak edo konplizeak dira.",
+			"Susmoa dut, zuk ere ez duzula arreta jarri egokitu dizuen jokaerari.",
 			"Horregatik, ez naiz itzuliko.",
 		]
 	},
 	leaving={
 		text=[
-			"Zoaz orain. Utzi zeure burua manipulatzen duten botereek."
+			"Zoaz orain. Utzi dauden botereei zeure burua manipulatzen."
 		]
 	}
 },
@@ -668,52 +668,52 @@ GodwellEntranceNPC = {
 
 Fregrind = {
 	greeting={
-		text=["Aurpegi berria zara. Arrantzale berrietako bat al zara?",
-			"Esango dizut hemen gauzak nola funtzionatzen duten: zuk arraina ekartzen didazu, bidaltzen ditut eta ordaintzen dizut.",
-			"...Ba, horrela funtzionatzen du normalean. Begira, arazo bat dugu. Itsasontziek ezin dute orain nabigatu uretan dagoen [color=#4aff9e]izakia[/color].",
-			"Beraz, oraingoz, [color=#fffab3]Arrain Token[/color] emango dizkizut zure arrainaren truke.",
-			"Negozioa berriro normaltasunez funtzionatzen duzunean, [color=#fffab3]Fish Tokens[/color] trukatu ahal izango dituzu benetako diruarekin.",
-			"Ai, gauza bat gehiago: zure arrantza-kanabera ez baduzu, kaian dagoen kutxaren batean gehigarri bat dago.",
+		text=["Berria zara. Arrantzale berrietako bat al zara?",
+			"Esango dizut hemen gauzak nola funtzionatzen duten: zuk arraina ekartzen didazu, nik bidaltzen ditut  eta ordaintzen dizut, kitto.",
+			"...Ba, horrela dabil normalean. Begira, arazo bat dugu. Itsasontziek ezin dute itsasoratu uretan dagoen [color=#4aff9e]izakia[/color] dela eta.",
+			"Beraz, oraingoz, [color=#fffab3]Arrain Token[/color] batzuk emango dizkizut zure arrainaren truke.",
+			"Negozioa berriz normaltasunez dabilenean, [color=#fffab3]Arrain Tokens[/color] trukatu ahal izango dituzu benetako diruarekin.",
+			"Ah, gauza bat gehiago: Arrantza-kanabera ez baduzu, kaian dagoen kutxaren batean gehigarri bat dago.",
 			"Aurkitu ezazu!",
 		],
 	},
 	greeting_player_has_pendant={
-		text=["Zer da zuk daukazun gauza hau, lakuaren [color=#4aff9e]malda bat?[/color] Utzidazu begirada bat bota...",
-		"[color=#8a8eff]Kholo[/color]ren bizarra dela eta, hori da uharte honen hegoaldeko harrietan grabatuta dagoen ikur bera!",
-		"Ez naiz ni zer egin behar duzun esateko, baina zure ikerketa egitea proposatzen dizut.",
+		text=["Zer da zuk daukazun gauza hau, [color=#4aff9e]Lakuko Belarritako[/color] bat? Utzidazu ikusten...",
+		"[color=#8a8eff]Kholo[/color]ren bizarra!! Uharte honen hegoaldeko harrietan grabatuta dagoen ikur bera da eta!",
+		"Ez naiz iñor zuri zer egin behar duzun esateko, baina ikertzea proposatzen dizut.",
 		],
 	},
 	greeting_kraken_dead={
 		text=[
-			"Esango dizut, inork ez du [color=#4aff9e]izakia uretan[/color] ikusi denbora batean.",
+			"Txo, denbora da inork ez duela [color=#4aff9e]izakia uretan[/color] ikusi.",
 			"Badirudi nire negozioa normaltasunez martxan jartzen hasiko naizela berriro.",
-			"Zure [color=#fffab3]Fish Tokens[/color] trukatzen has naiteke diru errealarekin.",
+			"Zure [color=#fffab3]Arrain Tokenak[/color] trukatzen has naiteke benetako diruarekin.",
 		],
 	},
 	trade_prompt={
-		text=["Zer egin dezaket zuretzat?",
+		text=["Zertan lagun diezazuket?",
 		],
 		prompt="Fregrind",
-		answers=["Trukea", "Saldu [color=#fffab3]Arrain tokenak[/color] ", "Irten"]
+		answers=["Trukea", "Saldu [color=#fffab3]Arrain Tokenak[/color] ", "Irten"]
 	},
 	cant_exchange_tokens_yet={
-		text=["Esan dizut, ezin dizut dirurik eman token hauengatik [color=#4aff9e]uretako izaki[/color] horrek gure bidalketa-bideak blokeatzeari utzi arte!"],
+		text=["Esan dizut, ezin dizudala dirurik eman token hauengatik [color=#4aff9e]uretako izaki[/color] horrek gure bideak blokeatzeari utzi arte!"],
 	},
 	no_fish_tokens={
-		text=["Ez duzu [color=#fffab3]Arrain Token[/color] bakar bat. Ekarri arrain batzuk lehenik!"],
+		text=["Ez duzu [color=#fffab3]Arrain Token[/color]ik. Ekarri arrain batzuk lehenik!"],
 	},
 	exchange_fish_tokens={
-		text=["Beraz, zure [color=#fffab3]Arrain Token[/color] guztiak piezaren truke trukatu nahi dituzu? Fitxa bakoitzak 3 pieza balio ditu."],
+		text=["Beraz, zure [color=#fffab3]Arrain Token[/color] guztiak piezen truke aldatu nahi dituzu? Fitxa bakoitzak 3 pieza balio ditu."],
 		prompt="[color=#fffab3]Arrain-token guztiak[/color] saldu?",
-		answers=["Bai, entregatu.", "Itxaron, oraindik ez."]
+		answers=["Bai, eman.", "Itxaron, oraindik ez."]
 	},
 	made_trade_goodbye={
-		text=["Plazer bat zurekin negozioak egitea."],
+		text=["Plazerra zurekin negozioak egitea."],
 	},
 	didnt_trade_goodbye={
 		text=["Itzuli arrain batzuk dituzunean!"],
 	},
-	hit_exclamations = ["Aupa!",
+	hit_exclamations = ["Aupa txo!",
 		"Zertan ari zara?",
 		"Defendatuko naiz, entzun duzu?!",
 		"Hori da!",
@@ -722,100 +722,100 @@ Fregrind = {
 
 Rhuc ={
 	first_talk={
-		text=["Ai, egun on. Nire bila zabiltza?",
-			"Hona etortzeak intriga ematen dit. Zure jende askok ez luke Drohm bati aurre egingo.",
-			"Rhuc deitzen didate. Nahiz eta hemen bakarrik egoteko lan egiten dudan, nire ingude zure zerbitzura dago nahi baduzu.",
+		text=["Aupa, egun on. Nire bila al zabiltza?",
+			"Zu hona etortzeak intriga ematen dit. Zurelako jendeak ez luke Drohm bati aurre egingo.",
+			"Rhuc deitzen didate. Nahiz eta hemen niretzako bakarrik lan egiten dudan, nire ingudea zure zerbitzura dago nahi izanez gero.",
 		],
 	},
 	greeting_default={
 		text=["Zer bilatzen ari zara?",],
 	},
 	greeting_player_has_whetstone={
-		text=["Ah, [color=#77FFFF]Whetstone[/color] duzu. [color=#77FFFF]ezpata makur[/color] zorrozteko erabil dezaket.",
+		text=["Ah, [color=#77FFFF]Zorrozteko harria[/color] duzu. [color=#77FFFF]Ezpata kamutsa[/color] zorrozteko erabil dezaket.",
 		"Zer bilatzen ari zara?",
 		],
 	},
 	trade_prompt={
 		prompt="Rhuc",
-		answers=["Merkataritza", "Hobetu", "hitz egin", "Irten",]
+		answers=["Salerosi", "Hobetu", "Hitz egin", "Irten",]
 	},
 	made_trade_goodbye={
-		text=["Eskerrak ematen dizkizut."],
+		text=["Eskerrik asko."],
 	},
 	upgrade_no_whetstone={
-		text=["[color=#77FFFF]Whetstone[/color] aurkitzen baduzu, ekarri iezadazu.",
-		"[color=#77FFFF]Whetstone[/color] erabil liteke [color=#77FFFF]ezpata makur[/color] zorrozteko, dezente hobetuz."
+		text=["[color=#77FFFF]Zorrozteko Harria[/color] aurkitzen baduzu, ekarri iezadazu.",
+		"[color=#77FFFF]Zorrozteko Harria[/color] erabil daiteke [color=#77FFFF]Ezpata kamutsa[/color] zorrozteko, dezente hobetuz."
 		],
 	},
 	upgrade_no_dull_sword={
-		text=["Beste [color=#77FFFF]ezpata bat[/color] aurkitzen baduzu, ekarri iezadazu zorrozteko."],
+		text=["Beste [color=#77FFFF]Ezpata Kamuts[/color] bat aurkitzen baduzu, ekarri iezadazu zorrozteko."],
 	},
 	upgrade={
-		text=["Ikusten dut [color=#77FFFF]ezpata triste[/color] duzula.",
+		text=["Ikusten dut [color=#77FFFF]Ezpata Kamuts[/color] duzula.",
 		"Nik zorroztu nahi al duzu? Ezpata honek indartsua izateko ahalmena du.",
 		],
-		prompt="Ezpata zorroztu %s piezetarako?", # FORMAT: item name, sharpening cost.
+		prompt="Ezpata zorroztu %s piezen truke?", # FORMAT: item name, sharpening cost.
 		answers=["Utzi"],
 	},
 	talk_speech={
-		text=["Badakit zer pentsatzen duzun. Zerk ekartzen du Drohm bat [color=#FFBD33]Arro lehorra[/color] uzteko?",
+		text=["Badakit zer pentsatzen duzun. Zerk ekartzen du Drohm bat [color=#FFBD33]Arro lehorra[/color] uztera?",
 		"Mendeetan zehar gure gizartea gerran egon da [color=#FFBD33]Eliasen agintepean.[/color]",
 		"Drohm herria esklabo goretsiak baino ez dira bihurtu.",
-		"Bakartuta bizi eta nire lanean zentratu nahi nuen.",
+		"Aldenduta bizi nahi nuen, eta nire lanean zentratu.",
 		],
 	},
 	upgrade_not_enough_money = {
-		text=["Hau ez da nahikoa igoera ordaintzeko.",]
+		text=["Hau ez da nahikoa hobekuntza ordaintzeko.",]
 	},
 	didnt_trade_goodbye={
-		text=["Ez izan beldurrik itzultzeko eta negozioak egiteko."],
+		text=["Ez izan dudarik itzultzeko eta negozioak egiteko."],
 	},
 	hit_exclamations = ["Uf!",
 		"Zein da honen esanahia?",
-		"Ez dut zalantzarik izango borrokan!",
-		"Gelditu, bestela borrokatuko naiz.",
+		"Ez dut zalantzarik borrokatzeko!",
+		"Gelditu, bestela borrokarako prestatu.",
 	],
 },
 
 Drekh ={
 	first_talk={
 		text=["Nor dator lurralde hauetara?",
-			"Ai, lagun...",
-			"Erregutzen dizut, itzul zaitez nondik etorri zinen, nire senideak bezala lehor ez zaitezen.",
+			"Ai, laguntxu...",
+			"Erregutzen dizut, itzul zaitez etorri zaren bidetik, nire senideak bezala lehortu nahi ez baduzu.",
 		],
 		prompt="Drekh",
-		answers=["Nor zara zu?", "isilik egon"]
+		answers=["Nor zara?", "Isilik egon"]
 	},
 	who_are_you={
 		text=["Drekh deitzen didate.",
-			"[color=#FFBD33]Dry Basin[/color] gure etxea zen, Drohm.",
-			"Orain eroan galduta dago.",
-			"[color=#FFBD33]Elias[/color]ren sua erretzen da nire senideen begietan. Jarraitzen baduzu, begiratuko dizute.",
-			"Nire ondasunak hemen ertzean geratuko dira, behar badituzu.",
-			"Ohartarazi behar dizut: eskuak higatzen zaizkidan heinean, ezin dut gehiago [color=#77FFFF]Whetstone[/color] erabili."
+			"[color=#FFBD33]Dry Basin[/color] gure etxea zen, Drohm-ak.",
+			"Orain zoramenean galduta dago.",
+			"[color=#FFBD33]Eliasen[/color] suak dirau nire senideen begietan. Jarraitzen baduzu, zelatatuko zaituzte.",
+			"Behar izanez gero, nire ondasunak hemen ertzean geratuko dira.",
+			"Ohartarazi behar zaitut: Eskuak higatzen zaizkidan heinean, ezin dut [color=#77FFFF]Zorrozteko Harria[/color] gehiagorik erabili ahal izango."
 		]
 	},
 	remain_silent={
-		text=["Ohartarazten dizut, lurralde hau zoramenean galduta dago. Utzi zure bizitza baloratzen baduzu."]
+		text=["Ohartarazten zaitut, lurralde hau zoramenean galduta dago. Zure bizitza maite baduzu, alde hemendik."]
 	},
 	trade_prompt_not_accepted={
 		prompt="Drekh",
-		answers=["Kontaidazu eromenaz", "Trukea", "utzi",]
+		answers=["Kontaidazu eromenari buruz", "Trukea", "Utzi",]
 	},
 	trade_prompt_accepted={
 		prompt="Drekh",
-		answers=["Nola lagundu dezaket berriro?", "Trukea", "utzi",]
+		answers=["Nola lagundu nezake berriz?", "Trukea", "Utzi",]
 	},
 	trade_prompt_badending={
 		prompt="Drekh",
-		answers=["hitz egin", "Trukea", "utzi",]
+		answers=["Hitz egin", "Trukea", "Utzi",]
 	},
 	trade_prompt_goodending={
 		prompt="Drekh",
-		answers=["hitz egin", "Trukea", "utzi",]
+		answers=["Hitz egin", "Trukea", "Utzi",]
 	},
 	talk_badending={
-		text=["Eskerrik asko berriro zure laguntzagatik.", "Orain nire eginkizuna dator: nire anaia aurkitzea eta urak ematea."]
+		text=["Eskerrik asko berriz zure laguntzagatik.", "Orain nire eginkizuna dator: Nire anaia aurkitzea eta ura eskaintzea."]
 	},
 	talk_goodending={
 		text=["Eskerrik asko berriro zure laguntzagatik.", "Sloanen bizitza salbatu duzu. Betiko zorretan nago zurekin."]
@@ -823,42 +823,42 @@ Drekh ={
 	quest_prompt={
 		text=[
 			"Ez al dituzu ikusi [color=#FFBD33]Secos[/color]?",
-			"Burua galdu duen Drohm.",
-			"[color=#FFBD33]Elias[/color] hondamena ekarri du lurralde honetara, nire etxera.",
-			"Nire anaia ere eromenak harrapatuta dago. [color=#FFBD33]Elias[/color] gatibu dauka, bai gorputza bai burua.",
+			"Burua galdu duen Drohm-a.",
+			"[color=#FFBD33]Eliasek[/color] hondamena ekarri du lurralde honetara, nire etxera.",
+			"Nire anaia ere eromenak harrapatuta dago. [color=#FFBD33]Eliasek[/color] gatibu dauka, bai gorputza bai burua.",
 			"Hala ere, hori askatzeko modu bat dagoela uste dut.",
-			"Beraz, zure laguntza eskainiko al duzu?"
+			"Beraz, zure laguntza eskainiko al zenidake?"
 		],
 		prompt="Drekh lagundu?",
-		answers=["Lagundu Drekh", "utzi"],
+		answers=["Lagundu Drekh", "Utzi"],
 	},
 	quest_accepted={
 		text=[
 			"Eskerrik asko, benetan. Adeitasun handia erakutsi duzu.",
-			"Abisu hitz bat, ordea...",
-			"Beldur naiz nire anaiaren askatasunerako bideak [color=#FFBD33]Sumendiko Zisterna[/color] daraman.",
+			"Dena dela... Kontuz!",
+			"Beldur naiz nire anaiaren askatasunerako bideak [color=#FFBD33]Sumendiko Zisterna[/color] eramatea.",
 			"Garai batean urez beteta zegoen, arro hau bezala.",
-			"Ur haiek Drohm energia eman ziguten. Nire anaiaren gogoa berreskuratu dezaketela uste dut.",
-			"Bilatzaileak bilatu [color=#FFBD33]Arro Lehorrean[/color] sakonean. Baliteke ur horietarako bidea ezagutuko dute, eta agian nire anaiaren kokapena ere bai."
+			"Ur haiek Drohmoi energia eman ziguten. Nire anaiaren burua berreskuratu dezaketela uste dut.",
+			"Bilatzaileak [color=#FFBD33]Arro Lehorraren[/color] sakonean aurki zenitzake . Baliteke ur horietarako bidea ezagutzea, eta agian nire anaiaren kokapena ere bai."
 		],
 	},
 	quest_reminder={
-		text=["Bilatzaileak bilatu [color=#FFBD33]Arro Lehorrean[/color] sakonean. Baliteke nire anaiarentzat uretarako bidea ezagutuko dutela, eta agian non dagoen ere."]
+		text=["Bilatzaileak [color=#FFBD33]Arro Lehorrean[/color] sakonean aurki zenitzake. Baliteke nire anaiaren uretarako bidea ezagutzea, eta agian non dagoen ere bai."]
 	},
 	quest_handin_badending={
 		text=[
 			"Itzuli zara!",
-			"Esadazu mesedez: aurkitu dituzu urak?",
-			"Ah, baina kristal soiletara murriztuta...",
-			"Uste dut sari bat behar duzula. Baimendu iezadazu."
+			"Esadazu mesedez: Aurkitu al dituzu urak?",
+			"Ah, baina kristal soiletara bihurtuta...",
+			"Uste dut saria behar duzula. Emaidazu baimena."
 		]
 	},
 	quest_handin_goodending={
 		text=[
 			"Itzuli zara, eta baita Sloan ere!",
 			"Antzinako urak eman dizkiozula dio.",
-			"Oraindik hor daude, baina kristal hutsetara murriztuta...",
-			"Uste dut sari bat behar duzula. Baimendu iezadazu."
+			"Oraindik hor daude, baina kristal hutsetara bihurtuta...",
+			"Uste dut sari bat behar duzula. Emaidazu baimena."
 		]
 	},
 	quest_smith={
@@ -868,13 +868,13 @@ Drekh ={
 	},
 	quest_end_badending={
 		text=[
-			"Eskerrik asko berriro. Itzulitakoan, azkenean, nire anaiari lagundu ahal izango diot.",
+			"Eskerrik asko berriz. Itzulitakoan, azkenean, nire anaiari lagundu ahal izango diot.",
 			"Ezin dizut gehiago eskatu, neuk aurkituko dut."
 		]
 	},
 	quest_end_goodending={
 		text=[
-			"Eskerrik asko berriro. Ezin dizut gehiago eskatu."
+			"Eskerrik asko berriro ere. Ezin dizut gehiago eskatu."
 		]
 	},
 	goodbye={
@@ -882,23 +882,23 @@ Drekh ={
 	},
 	hit_exclamations = ["Uf!",
 		"Zer esan nahi du honek?",
-		"Ez dut zalantzarik izango atzera egiteko!",
-		"Gelditu, edo okerrago!",
+		"Ez dut zalantzarik izango kontraerasoa egiteko!",
+		"Geldi!",
 	],
 },
 
 Wim = {
 	trade_prompt={
-		text=["Wim-ekin trukatzen al duzu? Wimek gauzak nahi ditu.",
+		text=["Wim-ekin trukatzen al duzu? Wim-ek gauzak nahi ditu.",
 		],
 		prompt="wim",
 		answers=["Trukea", "Irten"]
 	},
 	made_trade_goodbye={
-		text=["Negoziazio ona. Wimek gauzak lortu zituen."],
+		text=["Negoziazio ona. Wim-ek gauzak lortu zituen."],
 	},
 	didnt_trade_goodbye={
-		text=["Pah. Hurrengoan aldatu Wimekin."],
+		text=["Bah. Hurrengoan aldatu Wim-ekin."],
 	},
 	hit_exclamations = ["Aupa!",
 		"Utzi kolpatzeari!",
@@ -911,18 +911,18 @@ Reiki = {
 	greeting={
 		text=[
 			"Oh... Bezero bat?",
-			"Pixka bat pasa da. Espero dut hau etorriko diren gauzen seinale izatea.",
-			"Nire izena Reiki da. Pozik zu ezagututa.",
+			"Denbora pixka bat pasa da. Espero dut etorriko diren gauzen seinalea izatea.",
+			"Nire izena Reiki da. Urte askotarako.",
 		]
 	},
 	trade_prompt={
-		text=["Bilduma bitxia da, aitortzen dut. Baina baliteke zerbait erabilgarria zuretzat.",
+		text=["Bilduma bitxia da, aitortzen dut. Baina baliteke zerbait erabilgarria egotea zuretzat.",
 		],
 		prompt="Reiki",
 		answers=["Trukea", "Irten"]
 	},
 	made_trade_goodbye={
-		text=["[color=#8a8eff]Kholo[/color] gidatu dezala zure bidea."],
+		text=["[color=#8a8eff]Kholok[/color] gidatu dezala zure bidea."],
 	},
 	didnt_trade_goodbye={
 		text=["Beno... nire dendaren berri behintzat zabalduko zenezake?"],
@@ -937,53 +937,53 @@ Pip = {
 	},
 	greeting={
 		text=[
-			"Ez ibili horrela egun argitan!",
+			"Ez ibili horrela egunean zehar!",
 			"Ez al duzu ikusten ezkutuan nagoela? [color=#fffab3]Guardia[/color] ni hil nahian dabil!",
 			"Bai, badakit haiek bezala jantzita nagoela, baina hori ihes egiten saiatzen ari naizelako da!",
 			"Horrelako gauzen aurkako arauak daude...",
 			"Dena den, arazo handiagoa dut hemen.",
-			"Baliteke... ihes egitean iparrorratza jaitsi izana.",
+			"Baliteke... ihes egitean iparrorratza erori izana.",
 			"Hori gabe, ihes egiteko aukerak ez dira oso handiak.",
-			"Baina... Uste dut biok elkarri lagundu genezakeela hemen.",
+			"Baina... Uste dut biok elkarri lagundu ahal dugula.",
 		]
 	},
 	wait_for_compass={
 		text=[
 			"Zer iruditzen zaizu honetaz? Hartu nire iparrorratza, eta urrezko ate horren giltza emango dizut.",
-			"Ni atera naiteke, eta zuk... egin dezakezu hemen egiten duzun guztia.",
-			"Irabazi bat da, ez al duzu ulertzen?",
+			"Ni atera naiteke, eta zu ahal duzu... jarraitu hemendik zure kontuak egiten.",
+			"Biok irabazi genezake, ez al duzu ulertzen?",
 		]
 	},
 	return_compass={
 		text=[
-			"Hori da! Nire iparrorratza duzu!",
-			"Ai, gizona, uste nuen ziur amaitu nintzela.",
-			"Beraz, izan dezaket? Urrezko atearen giltza emango dizut!"
+			"Hori da! Nire iparrorratza aurkitu duzu!",
+			"Ai, gizona, uste nuen nireak egin zuela.",
+			"Beraz, emango zenidake? Ordainetan, urrezko atearen giltza emango dizut!"
 		],
-		prompt="Heredatutako iparrorratza eman?",
+		prompt="Heredatutako Iparrorratza eman?",
 		answers=["Bai", "Ez"]
 	},
 	no_return={
-		text=["Zer? Txantxetan ari zara?"]
+		text=["Zer? Txantxetan ari al zara?"]
 	},
 	thanks={
 		text=[
 			"Bide batez, nire izena Pip da.",
-			"Berriro ikusten bazaitut, behar bezala eskertuko dizut.",
-			"Oraingoz, hemendik irtengo naiz."
+			"Berriro ikusten bazaitut, behar bezala eskertuko zaitut.",
+			"Oraingoz, hemendik alde egingo dut."
 		]
 	},
 	meet_hole={
 		text=[
-			"Aizu, zu zara!",
-			"Pozten da zu jauregitik irteten ikusteak.",
-			"Hau askoz ingurune politagoa da. Ez al da bizitza bikaina zu hiltzen saiatzen ez dagoenean?",
+			"Aizu!",
+			"Pozten naiz zu jauregitik irteten ikusteaz.",
+			"Hau askoz ingurune politagoa da. Ez al da bizitza bikaina zu hiltzen saiatzen ez direnean?",
 			"Dena den, hau zuretzat da."
 		]
 	},
 	final_hole={
 		text=[
-			"Eskerrik asko iparrorratza berreskuratzeagatik. Arrantzontzi batean nabigatzaile izaten saiatuko naiz."
+			"Eskerrik asko Iparrorratza berreskuratzeagatik. Arrantzontzi batean itsasgizon izaten saiatuko naiz."
 		]
 	}
 },
@@ -992,7 +992,7 @@ Daniel = {
 	greeting={
 		text=[
 			"Ai... Kaixo!",
-			"Ongi etorri, bat eta guzti, Danielen mirarien etxera!",
+			"Ongi etorri denok Daniel-en mirarien etxera!",
 			"Ikusi al duzu, esan nahi dut, hemen inguruan izaki interesgarririk?",
 		]
 	},
@@ -1001,21 +1001,21 @@ Daniel = {
 			"Ai, eh... baina eh... begira saltzen ditudan gauza hauek!",
 		],
 		prompt="Daniel",
-		answers=["Trukea", "hitz egin", "Irten"]
+		answers=["Trukea", "Hitz egin", "Irten"]
 	},
 	talk={
 		text=[
 			"Lur hau izaki zoragarriz beteta dago, esan nahi dut.",
-			"Ikusi al dituzu Balayangs ederrak, hau da, astinduz eta hegan egin gabe?",
+			"Ikusi al dituzu Balayang ederrak, hau da, hegalak astinduz eta hegan egin gabe?",
 			"Batzuek desagertuta daudela diote, alegia. Baina nire begiekin ikusi ditut.",
-			"Airean irristatuz, hau da, tximista dotoreki botaz - ",
+			"Airean planeatuz, hau da, tximista dotoreki ahotik jaurtiz - ",
 			"Mutil horiek antzinako Balayangs-en imitazioak besterik ez direla esango lukete. Ez!",
-			"A, eta maitagarriak daude korrika, bai! Maitagarriek, pixiek eta, esan nahi dut, Balayangek bisitatzen naute denbora guztian.",
+			"Ah, eta Maitagarriak daude korrika, bai! Maitagarriek, iratxotxoak eta, esan nahi dut, Balayang-ek bisitatzen naute denbora guztian.",
 			"Esan nahi dut, iratxoak ere!"
 		],
 	},
 	made_trade_goodbye={
-		text=["Akordio bikaina... Baina ekarri iezadazu pixka bat, esan nahi dut, pixie hautsa hurrengoan, ados?"],
+		text=["Akordio bikaina... Baina hurrengotan ekarri iezadazu pixka bat, esan nahi dut, Maitagarri Hautsa, ados?"],
 	},
 	didnt_trade_goodbye={
 		text=["Kontuz ipotxekin! Hemen korrika egiten dute, eh, hor..."],
@@ -1025,27 +1025,27 @@ Daniel = {
 Caravaneer = {
 	trade_prompt={
 		text=[
-			"Erosle bat?\nErosten ari zara?\nSalgaiak erosten?\nNik saltzen dut, zuk erosten duzu?",
+			"Erosle bat?\nErosten ari al zara?\nOndasunak erosten?\nNik saltzen dut, zuk erosten al duzu?",
 		],
-		prompt="Bildumatzaileak",
-		answers=["hitz egin", "Merkataritza", "utzi"]
+		prompt="Biltzaileak",
+		answers=["Hitz egin", "Salerosi", "Utzi"]
 	},
 	talk_default={
 		text=[
-			"Ba al dakizu hemen?\nHemen rock jendea al dago?",
-			"Non daude gauzak?\nNik hartzen ditut gauzak, zuk erosten dituzu?\nBadituzu txanponak?\nNon daude txanponak?",
+			"Ba al dakizu...\nHemen harri jendea al dagoen?",
+			"Non daude gauzak?\nNik hartzen ditut gauzak, zuk erosten al dituzu?\nBa al dituzu txanponak?\nNon daude txanponak?",
 		],
 	},
 	talk_quest={
 		text=[
 			"Ur bila zabiltza?\nBeira bila zabiltza?",
-			"Kristal distiratsu bat?\nKristal polit bat?\nUrez duen kristal bat?",
-			"Kristal bat [color=#FFBD33]Sumendiko Zisterna[/color]?\n[color=#FFBD33]Sumendiko Zisterna[/color], mendebaldean dago?\n[color=#FFBD33]Sumendiko Zisterna[/color] zaldun handiarekin?",
+			"Kristal distiratsu bat?\nKristal polit bat?\nUra duen kristal bat?",
+			"Kristal bat [color=#FFBD33]Sumendiko Zisterna[/color]?\n[color=#FFBD33]Sumendiko Zisterna[/color], mendebaldean al dago?\n[color=#FFBD33]Sumendiko Zisterna[/color] zaldun handiarekin?",
 			"Ideiarik ez, zergatik galdetzen duzu?"
 		],
 	},
 	made_trade_goodbye={
-		text=["Gehiago erosten al duzu?\nItzuliko al zara?"],
+		text=["Gehiago erosiko al duzu?\nItzuliko al zara?"],
 	},
 	didnt_trade_goodbye={
 		text=["Zergatik ez duzu erosten?\nDirurik ez?\nMonetarik ez?"],
@@ -1061,65 +1061,65 @@ Gilli = {
 	fishing_dialogues = [
 		{ text=["Bai, ez dago arrantzan ondo pasatzea bezalakorik.",], },
 		{ text=[
-			"Atzo ikusi nuen zerbait distira aintziran.",
+			"Atzo ikusi nuen zerbait distiratsua aintziran.",
 			"Arraintzera nindoan, baina gero bistatik galdu nuen.",
-			"Esadazu ikusten baduzu.",
+			"Esaidazu ikusten baduzu.",
 			], },
-		{ text=["*txistuka*",], },
-		{ text=["Gah! Arrain txikiak baino ez... Arrantza kanabera hobea behar dut!",], },
-		{ text=["Handirik harrapatu al duzu azkenaldian?",], },
+		{ text=["*txistua jotzen*",], },
+		{ text=["Kaka! Arrain txikiak baino ez... Arrantza kanabera hobea behar dut!",], },
+		{ text=["Arrain handirik arrantzatu al duzu azkenaldian?",], },
 		{ text=["Zin egiten dut behin marrazo bat harrapatu nuela. Bai, egia da!",], },
-		{ text=["Bai, behin nire anaia Willyk esan zuen Andusek bere lagunak sirena bat ikusi zuela.",], },
+		{ text=["Bai, behin nire anaia Willy-k esan zuen Andus-ek bere lagunak itsalamina bat ikusi zuela.",], },
 		{ text=["Bai, arrantza bikaina da.",], },
-		{ text=["Etxera iristean, mutil hauek erreko ditut!",], },
-		{ text=["Bai, arrantza eta parrillan... Nori axola zaio politika?",], },
-		{ text=["Arrain egiten dut, eta erre egiten dut. GAINERATU!",], },
+		{ text=["Etxera iristean, hauek labean jarriko ditut!",], },
+		{ text=["Bai, arrantza eta parrillan... Nori axola zaio politikak?",], },
+		{ text=["Arratzatzen dut, eta erre egiten ditut. EZIN NAUZU GAINDITU!",], },
 		{ text=[
-			"Bakarrik parrillan egin nahi dut! Eta arraina!",
+			"Bakarrik parrillan erre! Eta arrantzan!",
 			"Zergatik kexatzen da beti jendea [color=#fffab3]Guardia[/color] dela eta?",
 			], },
 		{ text=[
-			"Badirudi inoiz ez duzula kexatzen.",
+			"Badirudi inoiz ez zarela kexatzen.",
 			"Egia esan, ez didazu inoiz hitzik esan.",
-			"Entzule ona zara! Ez nire emaztea bezala. Ez du ulertzen arrantza eta parrillan egin nahi dudala.",
+			"Entzule ona zara! Ez nire emaztea bezala. Ez du ulertzen arrantza eta parrillan erre bakarrik nahi dudala.",
 			], },
 		{ text=["Bide batez, nire izena Gilli da.",], },
 		{ text=["Bai, arrantza eta parrillan...",], },
 		{ text=["Parrillan eta arrantzan...",], },
 		{ text=["Arrantza eta parrillan...",], },
 		{ text=[
-			"Aizu, arrantzari buruz hitz egiten: lehengo egunean Fregrindek esan zidan ezin duela arrainik bidali, uretan dagoen [color=#4aff9e]izakia dela eta.[/color]",
+			"Aizu, arrantzari buruz... Lehengo egunean Fregrind-ek esan zidan ezin duela arrainik bidali, uretan dagoen [color=#4aff9e]izakia[/color] dela eta.",
 			"Ezin izan dut dirua irabazi!",
 			], },
 		{ text=["Arrantza ez da dirua... Arrantza baizik.",], },
-		{ text=["Bota lerroa, eta itxaron arrain batek hozka egin arte.",], },
+		{ text=["Amua bota, eta itxaron arrain batek hozka egin arte.",], },
 		{ text=["Zortea baduzu, arrain handi batek hozka egingo du! Bai...",], },
-		{ text=["Gero etxera etortzen zara eta erre! Eta beharbada garagardo ona hartu!",], },
-		{ text=["Hmm, pentsatuz gero, nola erosiko dut garagardoa Fregrindek ezin badit ordaindu?",], },
-		{ text=["Hori arazo bat da...",], },
+		{ text=["Gero etxera etortzen zara eta parrillan erre! Kalimotxo on batekin bada hobeto!",], },
+		{ text=["Hmm, pentsatuz gero, nola erosiko dut kalimotxoa Fregrind-ek ezin badit ordaindu?",], },
+		{ text=["Hori arazoa da...",], },
 		{ text=["Tira, arrantza pixka bat baino ez dago pentsatzeko gauza hoberik!",], },
-		{ text=["Ez dago zer arrain harrapatzen dudan, eta nola erreko dudan besterik ez!",], },
+		{ text=["Arrantzatuko dudan arrainari buruz, eta nola erreko dudanari buruz pentsatea besterik ez daukat!",], },
 	],
 	hit_exclamations = ["Aupa!",
-		"Aizu, hemen arrantzatzen saiatzen ari naiz!",
+		"Txo! Arrantzatzen saiatzen ari naiz!",
 		"Willy, hor ikusten al duzu?",
 		"Ondo dago, lagun...",
 	],
-	death_exclamation = "Arrain egin nahi nuen!",
+	death_exclamation = "Arrantzatu nahi nuen, besterik ez!",
 },
 
 Willy ={
 	greeting_ferry_closed={
 		text=["Ferrya itxita dago.",
-		"Ez da seguru nabigatzea [color=#4aff9e]izaki hori uretan[/color] dagoen bitartean.",
+		"Ez da seguru itsasoratzea [color=#4aff9e]izaki hori uretan[/color] dagoen bitartean.",
 		],
 	},
 	greeting_normal={
 		text=[
-			"Zer nahi duzu? Ferrya negozioetarako irekita dago.",
+			"Zer nahi duzu? Ferrya tratuan ibiltzeko irekita dago.",
 		],
 		prompt="Willy",
-		answers=["ferrya hartu", "Ahaztu"]
+		answers=["Ferrya hartu", "Ahaztu"]
 	},
 	ferry={
 		text=["Ferrya hartu nahi duzu? %s pieza balio du.", # FORMAT: ferry cost.
@@ -1128,182 +1128,182 @@ Willy ={
 		answers=["Bai", "Ez"]
 	},
 	not_enough_money={
-		text=["Aizu, hau ez da nahikoa diru. Zoaz Fregrind-i arrain bat edo zerbait saltzera."]
+		text=["Txo, hau ez da diru nahikoa. Zoaz Fregrind-engana arrain bat edo zerbait saltzera."]
 	},
 	hit_exclamations = ["Utzi hori.",
-		"Totelka egin nuen?",
+		"Totelka hitz egin al nuen?",
 		"Haserretzen banauzu, arazoak izango dituzu ferry bat lortzeko!",
-		"abisatzen dizut!",
+		"Kasu!",
 	],
 },
 
 Skullhambado = { 
 	greeting={
 		text=[
-			"Ai! Nor da hau? Azkenean inor interesatu zaio nire lana?",
-			"...Edo eskailerak hartzen dituzunean erortzen zara?",
+			"Ai! Nor da hau? Azkenean norbaiti interesatu ote zaio nire lana?",
+			"...Edo eskaileretatik jeistean erortzen zara?",
 			"...Dena den, zu bezalako *laguntzaile* baten bila ibili naiz.",
-			"Ikusten duzu, uste dut [color=#77FFFF]URA[/color] buruzko benetako egia aurkitu dudala",
-			"Ez, ez da magia, idiota. Fenomeno guztiz naturala da, eta dena *garezurretik* dator.",
-			"Pentsa: izaki bizidun guztiek dute [color=#77FFFF]URA[/color].",
-			"Zer gehiago dute izaki guztiek? Hori bai, SKULLS. Logika sinplea da.",
+			"Begira, uste dut [color=#77FFFF]URARI[/color] buruzko benetako egia aurkitu dudala",
+			"Ez, ez da magia, papau. Fenomeno guztiz naturala da, eta dena *kaskezurretatik* dator.",
+			"Pentsa, izaki bizidun guztiek dute [color=#77FFFF]URA[/color].",
+			"Zer gehiago dute izaki guztiek? Hori da, KASKEZURRAK. Logika sinplea da.",
 			"Nire izena [color=#77FFFF]ShambatedSkull[/color] da. Eta bai, galdetu baino lehen, kasualitatea da.",
 			"...Hmm, edo agian nominatibo determinatuaren kasu klasiko bat.",
-			"Baina alde egiten dut: garezur gehiago behar ditut. Nire bilduma hemen nahikoa ez da.",
-			"Buruzurrak ekarri, eta trukean, [color=#77FFFF]UR ERRESERBA[/color] batzuk prestatuko ditut.",
+			"Dena dela, kaskezur gehiago behar ditut. Nire bilduma hemen nahikoa ez baita.",
+			"KASKEZURRAK ekarri, eta trukean, [color=#77FFFF]UR ERRESERBA[/color] batzuk prestatuko dizkizut.",
 		],
 	},
 	menu={
 		prompt="Hambated Skull",
-		text=["Beno, badaukazu buru-hezur polita?"],
-		answers=["Irten", "Trukatu burezurrak"]
+		text=["Beno, badaukazu kaskezur fresko politik?"],
+		answers=["Irten", "Trukatu kaskezurrak"]
 	},
 	trade_skulls_not_enough={
 		text=[
-			"Ekuazioa sinplea da. Hiru garezur [color=#77FFFF]UR Erreserba[/color] baten baliokideak dira.",
-			"Nahi baduzu [color=#77FFFF]UR[/color] bizitza osoan irauteko, ekarri nahikoa burezur!"
+			"Ekuazioa sinplea da. Hiru kaskezur [color=#77FFFF]UR Erreserba[/color] baten baliokideak dira.",
+			"Bizitzeko [color=#77FFFF]URA[/color] nahi baduzu, ekarri nahikoa kaskezur!"
 		]
 	},
 	trade_skulls_prompt={
 		text=[
-			"Ekuazioa sinplea da. Hiru garezur [color=#77FFFF]UR Erreserba[/color] baten baliokideak dira.",
+			"Ekuazioa sinplea da. Hiru kaskezur [color=#77FFFF]UR Erreserba[/color] baten baliokideak dira.",
 			"Ikus dezagun..."
 		],
-		prompt="Trukatu %s garezurrak %s [color=#77FFFF]UR Erreserbak[/color]?", # FORMAT: Number of skulls to trade, number of reserves to recieve.
+		prompt="Trukatu %s kaskezur %s [color=#77FFFF]UR Erreserbak[/color]?", # FORMAT: Number of skulls to trade, number of reserves to recieve.
 		answers=["Ez", "Bai"],
 	},
 	thanks={
 		text=[
-			"Eskerrik asko, arrotza. Buru-hezur horiek hartuko nituzke, baina erosoago nago hemen behera."
+			"Eskerrik asko, txo. Kaskezur horiek hartuko nituzke, baina erosoago nago hemen behean."
 		],
 	},
 	hit_exclamations = ["Aupa!",
 		"Zertan ari zara?",
-		"Nire burezurrak hartzen saiatzen ari zara?",
-		"Apustu dut buru-hezur bat duzula ere!",
+		"Nire kaskezurrak hartzen saiatzen ari al zara?",
+		"Zir nago kaskezur bat duzula zuk ere!",
 	],
 },
 
 AdmissionMiner = {
 	default={
-		text=["Ongi etorri, azaleko biztanlea! Pistetatik ibiltzera etortzen al zara?",
+		text=["Ongi etorri, azaleko biztanle hori! Trenbidetik ibiltzera etortzen al zara?",
 		"Mugitzeko modu azkar bat! Bai, %s pieza bakarrik!", # FORMAT: admission cost.
 		],
-		prompt="Bideetan muntatu %s piezetarako?", # FORMAT: admission cost.
+		prompt="Trenbidean muntatu %s piezaren truke?", # FORMAT: admission cost.
 		answers=["Bai", "Ez"]
 	},
 	default_double_price={
-		text=["O, ongi etorri, gainazalekoa.",
+		text=["Aupa, ongi etorri, azaleko gizaki hori.",
 		"Kalte batzuk egin dituzu, bai!",
 		"Negozioa behar dugu oraindik, baina azken aldian zure portaera dela eta, bikoitza kobratu beharko dizugu.",
 		],
-		prompt="Bideetan muntatu %s piezetarako?", # FORMAT: admission cost * 2
+		prompt="Trenbidean muntatu %s piezaren truke?", # FORMAT: admission cost * 2
 		answers=["Bai", "Ez"]
 	},
 	enjoy={
-		text=["Aurrera, pistetan ibil zaitezke."],
+		text=["Aurrera, trenbideetatik ibil zaitezke."],
 	},
 	too_poor={
 		text=["Ez, ez, ez. Hau ez da nahikoa."]
 	},
 	hit_exclamations = ["Aupa!",
-		"Zein arazo?",
-		"Arazoak nahi dituzu, azaleko biztanlea?",
-		"Borroka gaitezke!",
+		"Zein da arazoa?",
+		"Arazoak nahi dituzu, azaleko biztanle hori?",
+		"Borrokarako prest!",
 	],
 },
 
 MiningMiner = {
 	mining_dialogues = [
-		{ text=["Bai, bai, azaleko biztanlea, bisitara etortzen al zara?",], },
+		{ text=["Bai, bai, azaleko biztanlea, bisitara etorri al zara?",], },
 		{ text=["Bai, hamazazpi edo hemezortzi kristal bildu ditut; egun eder bat!",], },
-		{ text=["Nire lagunak esan zidan meategi honetan sekretu bat dagoela. Nonahi begiratu nuen, ezer ez!",], },
-		{ text=["Weheheh, kristal hauek oso distiratsuak dira! Etxean, leihoak ilunak eta zuriak dira.",], },
+		{ text=["Nire lagunak esan zidan meategi honetan sekretu bat dagoela. Nonahi begiratu nuen eta... Ezer ez!",], },
+		{ text=["Karkarkar, kristal hauek oso distiratsuak dira! Etxean, leihoak ilunak eta zuriak dira.",], },
 		{ text=["Tink tink tink!",], },
-		{ text=["Heheheh! Hehehehehehehehe! Wehehehehehehehehehehe!",], },
+		{ text=["Epaaaaaaaa! Karkarkarkarkarkar! Karkarkarkarkarkarkarkar!",], },
 		{ text=["Bai, bai, kristalak bildu behar ditugu, etxean saldu!",], },
 		{ text=["Erauzketa...",], },
-		{ text=["Ez dakit zer minatu, lehertu meatzeak hala ere...",], },
-		{ text=["Azaleko bizilaguna, ezagutzen al duzu azaleko Drohm-a? Harri handi baten itxura dute.",], },
-		{ text=["Behera, behera, zer da aurkitu dudan hau?",], },
-		{ text=["Azalera, zein da zure kristalik gogokoena? Nirea hau da!",], },
+		{ text=["Ez dakit zer minatu, hala ere... lehertu meatzeak",], },
+		{ text=["Azaleko bizilaguna, ezagutzen al duzu azaleko Drohm-ak? Harri handi baten itxura dute.",], },
+		{ text=["Behean, beherago, zer da aurkitu dudan hau?",], },
+		{ text=["Azaleko gizakia, zein da zure kristalik gogokoena? Nirea hau da!",], },
 		{ text=["Kristal eder hauekin guztiekin aberatsa izango naiz!",], },
 		{ text=["Benetan bizi al zara azalean? ",], },
-		{ text=["Apustu dut meategi honetako meatzaririk azkarrena naizela. Lehiaketarik ez.",], },
-		{ text=["Nola mugitzen dira automatikoki gure autoak?",], },
-		{ text=["Hain arrosa dira kristal hauek!",], },
-		{ text=["Heheheh!",], },
+		{ text=["Apustu dut meategi honetako meatzaririk azkarrena naizela. Ezbairik gabe.",], },
+		{ text=["Nola mugitzen dira automatikoki gure gurdiak?",], },
+		{ text=["Ze arrosak diren kristal hauek!",], },
+		{ text=["Karkarkar!",], },
 	],
 	hit_exclamations = ["Aupa!",
 		"Zein da arazoa?",
-		"Arazoak nahi dituzu, gorago?",
-		"Borrokatu dezakegu!",
+		"Arazoak nahi al dituzu?",
+		"Borrokara!",
 	],
 },
 
 PurgingPriest = {
-	was_angered_before={text=["O, beraz, itzultzen zara eztanda bortitz horren ostean.",
-		"Zure zorionez, gure betebeharra loturik gaude munduko beste betebehar guztien gainetik.",
-		"Heriotzak ere ez du geldituko gure aurrerapena, ez [color=#8aff92]Kandele[/color] sostengatzen gaituen bitartean."
+	was_angered_before={text=["Oh, beraz, itzuli zara haserraldi bortitz horren ostean.",
+		"Zure zorionez, gure betebeharrera loturik gaude munduko beste betebehar guztien gainetik.",
+		"Heriotzak ere ez du geldituko gure aurrerapena, ez [color=#8aff92]Velak[/color] sostengatzen gaituen bitartean."
 		],
 		},
 	greeting_has_blessing={
 		text=["Ai! Jainko baten bedeinkapenaz zamatuta zaudela sentitzen dut.",
 		"Gaiztakeria hau prezio txiki baten truke garbitu dezakegu, nahi baduzu."
 		],
-		prompt="Bedeinkapen txarrak garbitu %s piezak?", # FORMAT: Purge price
+		prompt="Bedeinkapen txarrak garbitu %s piezen truke?", # FORMAT: Purge price
 		answers=["Bai", "Ez"]
 	},
 	greeting_doesnt_have_blessing={
-		text=["Inoiz bedeinkapen bat garbitu nahi baduzu, itzuli toki honetara.",
-		"Beti izan gaitezke zerbitzura.",
+		text=["Inoiz bedeinkapen bat kendu nahi baduzu, itzuli toki honetara.",
+		"Beti zure zerbitzura.",
 		],
 	},
 	greeting_has_appendage={
 		text=[
-			"Hona etortzen al zara bedeinkapen bat garbitzera?",
+			"Bedeinkapen bat garbitzera al zatoz?",
 			"Ez, ez, hori ez da... Zerbait ekarri duzu."
 		],
-		prompt="Velan Apaizak",
-		answers=["Eman [color=#8aff92]Pieza gainezka[/color]", "utzi"]
+		prompt="Velaren Apaizak",
+		answers=["Eman [color=#8aff92]Gainhazitako Pieza[/color]", "utzi"]
 	},
 	give_appendage={
 		text=[
-			"Hau al da... 'munstroak'... [color=#8aff92]Beloa?[/color]",
+			"Hau al da... [color=#8aff92]Beloko[/color] 'munstroena'...?",
 			"Ikusten dut zergatik ekarri diguzun hau.",
 			"Pieza honek arima baten zati bat dauka. Munstro soilek ez dute horrelakorik.",
-			"Gida dezagun arimaren osotasunera.",
+			"Utz iezaguzu arima osotasunera bideratzen.",
 		]
 	},
 	temple_chant={
 		text=[
 			"Ikusten duguna argi dago.",
-			"[color=#8aff92]Vela anderearen arima,[/color] traidore baten eskuz zigilatuta dago.",
+			"[color=#8aff92]Vela anderearen arima[/color], traidore baten eskuz zigilatuta dago.",
 			"Bere hazkunde neurrigabeari eusteko kartzela",
-			"Hala ere, tenpluko atea zure giltzaren zain dago. Zure arima berehala irten dadin.",
-			"Entregatu zen giltza, eta [color=#fffab3]Fouraingo jauregian ezkutatuta dagoen,[/color]...",
+			"Hala ere, tenpluko atea zure giltzaren zain dago. Bere arima berehala irten dadin.",
+			"[color=#fffab3]Fouraingo jauregian[/color] entregatu eta ezkutatuta dagoen giltza...",
 		],
 	},
 	chant_done={
 		text=[
-			"Gure zerbitzuak zure gogobetetzea izan zirelakoan nago.",
-			"Itzuli berriro behar badituzu."
+			"Gure zerbitzuakin asetuta zaudelakoan nago.",
+			"Itzuli berriro behar izanez gero."
 		]
 	},
 	thanks={text=["Eta horrelaxe, bedeinkapena desagertu da!",
-	"Beti da plazerra jainkoen eragina ahultzen laguntzea."]},
+	"Plazerra nirea jainkoen eragina ahultzen laguntzea."]},
 	too_poor={text=["Zoritxarrez, hauek ez dira nahikoa pieza."]},
 	hit_exclamations = ["Aupa!",
 		"Zertan ari zara?",
 		"Utzi hori edo ondorioak jasango dituzu.",
-		"erantzungo dugu.",
+		"Erantzungo dugu.",
 	],
 },
 
 SidekickPriest = {
 	greeting_has_blessing={
 		text=["Sentitzen dut... bedeinkapen bat.",
-			"Purgatu egin behar da."
+			"Purgatu behar da."
 		],
 	},
 	greeting_doesnt_have_blessing={
@@ -1320,81 +1320,81 @@ SidekickPriest = {
 
 Augustus = {
 	greeting={
-		text=["Kaixo! Ongi etorri nire estudiora. Ni fededun zaharren Augusto naiz!",
-		"...Ba, zehatz esateko, nire kaldereroarekin hizketan ari zara.",
+		text=["Kaixo! Ongi etorri nire estudiora. Augusto naiz, Fededun Zaharren kide!",
+		"...Ba, zehatz esateko, nire pertzarekin hizketan ari zara.",
 		"Ikusten duzu, ikasitako Sinesmen Zaharra bezala, etortzea espero nuen. Seinale guztiak ikusi ditut.",
-		"Hala ere, ezin dut zu bezalako norbaitekin gela berean egoteko arriskua. Watch Dog zaharrari zer egin diozun entzun dut.",
+		"Hala ere, ezin dut zu bezalako norbaitekin gela berean egoteko arriskua izan. Watch Dog zaharrari zer egin diozun entzun dut.",
 		"Beraz, nire azken asmakizuna probatzeko une egokia izango zela pentsatu nuen. Urruneko hizkera deitzen diot!",
 		"...Urrutiko Soinua?",
 		"Izenak lan pixka bat behar du. Kontua da, urrutitik hitz egiten ari naizela.",
 		"Bai, eta benetako kontua: lagundu nahi dizut.",
 		],
 		prompt="Lagundu nahi dizut.",
-		answers=["Ez esan ezer", "Lagundu iezadazu zer egiten?"]
+		answers=["Ez esan ezer", "Lagundu, baina zer egiten?"]
 	},
 	greetingreply_silent={
-		text=["...Mota indartsua, isila, e? Tira, hori zure onarpen gisa hartuko dut.",
+		text=["...Indartsua, isila, eh? Tira, hori zure onarpen gisa hartuko dut.",
 		],
 	},
 	greetingreply_helpwhat={
 		text=["...Ez dakizula esan nahi duzu?",
-		"Tira, horrek gauzak interesgarriak egiten ditu... Zure ekintzetan oinarrituta, ziur nengoen [color=#ff4c42]Usurpatzailea[/color] ehizatzen ibili zinela.",
+		"Tira, interesgarria... Zure ekintzetan oinarrituta, ziur nengoen [color=#ff4c42]Usurpatzailea[/color] ehizatzen ibiliko zinela.",
 		],
 	},
 	help_explanation={
-		text=["Hona hemen nire proposamena: Zure boterea handitzen laguntzen dizut, eta botere hori erabiltzen duzu [color=#ff4c42]Usurpatzailea[/color] aurkitzeko eta hiltzeko.",
+		text=["Hona hemen nire proposamena: Zure boterea handitzen laguntzen dizut, eta botere hori [color=#ff4c42]Usurpatzailea[/color] aurkitzeko eta hiltzeko erabiliko duzu.",
 		"Orain, aurkari honi buruzko gertaerak ezagutzeko eskubide osoa duzu, beraz, profezia zeure kabuz irakur dezazun gomendatzen dizut.",
-		"Sartu nire sototik, hiru solairu beherago, eta ziur nago inskripzioa aurkituko duzula.",
-		"Baina gogoratu: jaitsi HIRU solairu. Nire... [color=#ff4c42]'esperimentua'[/color] saihesteko gomendatuko nizuke bigarren mailan.",
+		"Sartu nire sototik, hiru solairu beherago, eta ziur nago idatzia aurkituko duzula.",
+		"Baina gogoratu: jaitsi HIRU solairu. Bigarren solairuan dagoen nire... [color=#ff4c42]'esperimentua'[/color] saihestea gomendatzen dizut.",
 		],
 	},
 	wait_for_prophecy_seen={
-		text=["Profezia hiru solairu beherago dago. Nire... [color=#ff4c42]'esperimentua'[/color] saihesteko gomendatuko nizuke bigarren mailan.",
+		text=["Profezia hiru solairu beherago dago. Bigarren solairuan dagoen nire... [color=#ff4c42]'esperimentua'[/color] saihestea gomendatzen dizut.",
 		],
 	},
 	prophecy_seen={
-		text=["Beraz, oraindik ikusi al duzu beheko profezia?",
+		text=["Beraz, ikusi al duzu beheko solairuko profezia?",
 		],
 		prompt="Ikusi al duzu profezia?",
 		answers=["Bai", "Ez"]
 	},
 	after_prophecy_seen={
 		text=["Bikaina. Esan bezala, profeziaren [color=#ff4c42]Usurpatzailea[/color] gure artean dagoela uste dut.",
-		"Chain Master Godir, ziur nago goi-mailako funtzionario bat dela, hilda aurkitu dute. Susmoa dut [color=#ff4c42]Usurpatzaile[/color] hori dela erruduna, oraindik identifikatu ez duten arren.",
+		"Godir, Kateen Maisua, ziur nago goi-mailako funtzionario bat dela, hilda aurkitu dute. Susmoa dut [color=#ff4c42]Usurpatzaile[/color] hori dela erruduna, oraindik identifikatu ez duten arren.",
 		"Eta zuk, adiskide, potentzial handia erakutsi duzu.",
-		"Zakur txakurra, gure esperimentu zaharra, nahiko gogaikarria bihurtu zen. Hala ere, piztia hil duzu.",
-		"Zure espirituan dagoen [color=#77FFFF]URA[/color] [color=#ff4c42]Usurpatzailea[/color] suntsitzeko ahalmena ematen dizu indartsuegia izan baino lehen.",
-		"Nola lagundu dezakedanari dagokionez, hona dator: berezko boterea duzu, eta nik lagundu egin dezaket.",
+		"Guardiako Txakurra, gure esperimentu zaharra, nahiko gogaikarria bihurtu zen. Hala ere, piztia hil duzu.",
+		"Zure espirituan dagoen [color=#77FFFF]URAK[/color] [color=#ff4c42]Usurpatzailea[/color] suntsitzeko ahalmena ematen dizu indartsuegia izan baino lehen.",
+		"Nola lagundu ahal duzidanari dagokionez, laburbilduz: berezko boterea duzu, eta nik lagundu zaitzaket.",
 		],
 	},
 	sr_greeting={
 		text=[
-			"Ai kaixo berriro!",
-			"Ikusten dut zure burua aurkeztu zarela beste Fededun Zaharrei.",
+			"Aupa, kaixo berriro!",
+			"Ikusten dut zure burua aurkeztu duzula beste Fededun Zaharrei.",
 			"Zer? Ez nauzu ezagutzen? Ni naiz Augusto jakintsua! Hitz egin genuen azken aldian, zopa magiko baten gainean izan zen.",
 			"Ez kezkatu, ez dut negar egiten hil dituzunengatik.",
-			"Zientzialari gisa, badakigu azkenean heriotza gu guztiontzat datorrela. Eta, tira... hemen dago norbait noren txanda.",
+			"Zientzialari gisa, badakigu azkenean heriotza gu guztiontzat datorrela. Eta, tira... hemengo norbaiten txanda heldu dela ematen du.",
 		],
 		answers=["Ez esan ezer", "Nor da?"]
 	},
 	sr_death_who={
 		text=[
-			"Bada, gogoratzea espero dudanez, [color=#77FFFF]Deporigabea[/color] bilatzeko eskatu dizut.",
-			"Hemengo gure maisua horietako bat da zoritxarrez.",
-			"[color=#ff4c42]Usurpatzailea[/color] geldituko baduzu, gure maisua hil behar duzu [color=#ff4c42]Usurpatzaile[/color] hori egin baino lehen.",
-			"Nola, ez nago oso ziur... Ikusten duzu, inork ez du inoiz [color=#77FFFF]Betiereko jainkorik[/color] hil." ,
-			"Zirkulu batzuetan, [color=#ff4c42]Usurpatzaileak[/color] bakarrik duela botere hori uste da, beraz, kudeatzen baduzu...",
+			"Bada, zuk gogoratzea espero dudanez, [color=#77FFFF]Betiereko Jainkoak[/color] bilatzeko eskatu nizun.",
+			"Zoritxarrez, hemengo gure maisua horietako bat da.",
+			"[color=#ff4c42]Usurpatzailea[/color] geldituko baduzu, gure maisua hil behar duzu [color=#ff4c42]Usurpatzaileak[/color] hil baino lehen.",
+			"Nola? Ez nago oso ziur... Begira, inork ez du inoiz [color=#77FFFF]Betiereko Jainkorik[/color] hil." ,
+			"Zirkulu batzuetan, [color=#ff4c42]Usurpatzaileak[/color] bakarrik duela botere hori uste da, beraz, lortuz gero...",
 			"Tira, zubi hori gurutzatuko dugu bertara iristean."
 		],
 	},
 	sr_death_silent={
 		text=[
-			"Ez zaizu interesatzen?",
+			"Ez al zaizu interesatzen?",
 			"Beno, axola bazaizu, hemen [color=#77FFFF]Betiereko Jainko[/color] bat dago.",
-			"[color=#ff4c42]Usurpatzaileak[/color] hartuko ditu aurrena hiltzen ez baditugu.",
-			"Izan ere, [color=#ff4c42]Usurpatzailea[/color] geldituko bazara, gure maisua hil behar duzu [color=#ff4c42]Usurpatzaile[/color] hori egin baino lehen.",
-			"Nola, ez nago oso ziur... Ikusten duzu, inork ez du inoiz [color=#77FFFF]Deporigabe[/color] hil." ,
-			"Zirkulu batzuetan, [color=#ff4c42]Usurpatzaileak[/color] bakarrik duela botere hori uste da, beraz, kudeatzen baduzu...",
+			"[color=#ff4c42]Usurpatzaileak[/color] hartuko ditu aurrea hiltzen ez badugu.",
+			"Izan ere, [color=#ff4c42]Usurpatzailea[/color] geldituko baduzu, gure maisua hil behar duzu [color=#ff4c42]Usurpatzaile[/color] horrek egin baino lehen.",
+			"Nola? Ez nago oso ziur... Begira, inork ez du inoiz [color=#77FFFF]Betiereko Jainkorik[/color] hil." ,
+			"Zirkulu batzuetan, [color=#ff4c42]Usurpatzaileak[/color] bakarrik duela botere hori uste da, beraz, lortuz gero...",
 			"Tira, zubi hori gurutzatuko dugu bertara iristean."
 		],
 	},
@@ -1403,13 +1403,13 @@ Augustus = {
 	},
 	sr_what_is_this_place={
 		text=[
-			"Hau fededun zaharren tenplua da.",
+			"Hau Fededun Zaharren tenplua da.",
 			"Eta dakizuenez, nire anaiak ez dira atseginak ezezagunekin.",
-			"Niri ere ez naute hainbeste gustatzen, jainkoagatik!",
-			"Hala ere, aintza egunetan, [color=#77FFFF]UR[/color] manipulazioan zentratu ginen. Gure ikasketek genekienaren mugak gainditu zituzten.",
+			"Niri ere ez naute hainbeste maite, jangoiko frakazabala!",
+			"Hala ere, handitasun garaietan, [color=#77FFFF]UR[/color] manipulazioan zentratu ginen. Gure ikasketek genekienaren mugak gainditu zituzten.",
 			"Zer pena, jakintsuetatik soldaduetara pasatzea...",
-			"Baina ez ditut gure ikasketak desagertzen utziko!",
-			"Mugak are gehiago zabalduko ditut eta lanean jarraituko dut.",
+			"Baina ez dut gure ikasketak desagertzen utziko!",
+			"Mugak are gehiago gaindituko ditut eta lanean jarraituko dut.",
 			"Noski, ezin dut hori egin [color=#ff4c42]Usurpatzaileak[/color] mundua suntsitzen badu... Horregatik behar zaitut.",
 		],
 	},
