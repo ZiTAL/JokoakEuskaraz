@@ -1,3 +1,3 @@
-Eusko Jaurlaritzaren itzultzaile neuronala erabiliko dugu jokoak automatikoki itzultzeko:
+Itzultzaile Neuronala erabiliko dugu jokoak automatikoki itzultzeko:
 
-https://www.euskadi.eus/itzuli/
+https://itzultzaile-neuronala.zital.eus/
