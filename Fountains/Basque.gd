@@ -1415,21 +1415,21 @@ Augustus = {
 	},
 	sr_what_is_this_place_player_usurper_addendum={
 		text=[
-			"Ez zara bihurtu behar beldur duguna.",
-			"Garaia iristen denean, [color=#77FFFF]Gazteriaren Iturria suntsitu behar duzu.[/color]"
+			"Ez daukazu zertan beldur duguna bihurtu behar.",
+			"Garaia iristen denean, [color=#77FFFF]Gazteriaren Iturria[/color] suntsitu behar duzu."
 		]
 	},
 	ack_kill_elias={
 		text=[
-			"Itxaron, benetan hil duzu?",
-			"[color=#77FFFF]Betiereko jainkoa[/color] garaitu duzu!",
-			"Bai esan behar dut nire maisuaren falta somatuko dudala, baina badakit lekutara joan beharko duzula [color=#ff4c42]Usurpatzailea[/color] geldiarazteko...",
+			"Barkatu... benetan zuk hil al zenuen?",
+			"[color=#77FFFF]Betiereko Jainko[/color] bat garaitu duzu!",
+			"Esan behar dut nire maisuaren falta somatuko dudala, baina badakit lekutara joan beharko duzula [color=#ff4c42]Usurpatzailea[/color] geldiarazteko...",
 			"...",
-			"Ez bada, noski... Ez, goizegi da esateko.",
-			"Oraingoz, nire beste laborategian adostu genuen helburuak berdin jarraitzen du.",
-			"Gainerako [color=#77FFFF]Betiereko Jainkoak[/color] hil, [color=#ff4c42]Usurpatzailea[/color] gelditzeko.",
-			"Zoritxarrez, zure boterea hobetzeko nire gaitasuna hemen ditudan materialek mugatuta dago.",
-			"Lurralde honetan zehar ikasketa asko ditut; halakoa da gehiegi zabaltzearen prezioa.",
+			"Edo... Beharbada... Ez, ez, goizegi da esateko.",
+			"Oraingoz, nire beste laborategian adostu genuen helburua berdina izaten jarraitzen du.",
+			"Gainerako [color=#77FFFF]Betiereko Jainkoak[/color] hil, [color=#ff4c42]Usurpatzailea[/color] geldiarazteko.",
+			"Zoritxarrez, zure boterea hobetzeko daukadan gaitasuna hemen ditudan materialek mugatzen dute.",
+			"Lurralde honetan zehar ikasketa asko ditut; horixe da gehiegi hedatzearen prezioa.",
 			"Hala ere, zurekin lanean jarraitzeko behar ditudan materialak izan beharko lituzkete. ",
 			"Hau izango da nire esperimenturik handiena!",
 			"Bila dezagun biok bilatzen duguna.",
@@ -1439,12 +1439,12 @@ Augustus = {
 		text=[
 			"Kaixo!",
 			"Ikusten dut nire estudioa aurkitu duzula animalien lurralde honetan.",
-			"Harrituta nago laborategi hau hartu ez izana, [color=#8aff92]Vela bilatu izana...[/color]",
-			"Eta bera zen denetako aztarna!",
-			"Egia esan, harrituta nago oraindik bere bila dabiltzala, zenbat denbora igaro den kontuan hartuta.",
+			"Harrituta nago laborategi hau hartu ez izana, [color=#8aff92]Vela[/color]-ren bilaketa dela eta...",
+			"Eta bera zen denetako zakarrena!",
+			"Egia esan, harrituta nago oraindik bere bila dabiltzelako, zenbat denbora igaro den kontuan hartuta.",
 			"Hala ere, hemen zaldunekin egin ditudan esperimentuak baliagarriak izan dira.",
-			"Eta materialak utzita, zure boterea are gehiago findu ahal izango zenuke.",
-			"Orduan, zer izango da?"
+			"Eta geratzen diren materialekin, zure boterea are gehiago hobetu ahal izango nuke.",
+			"Orduan... zer?"
 		]
 	},
 	veil_talk_menu={
@@ -1454,84 +1454,84 @@ Augustus = {
 	where_vela={
 		text=[
 			"Orain hori, zoritxarrez, ezin dut erantzun.",
-			"Ikusten duzu, [color=#8aff92]Vela[/color] falta zen [color=#77FFFF]Kontsumoa amaitu zenetik.[/color]",
-			"[color=#8aff92]Velaren Zaldunak[/color] amorratuta bilatu dute, baina arrakasta gutxirekin.",
-			"Hala ere, hemen [color=#8aff92]Beilaren[/color] azken gaitz honek, badu zerbait... naturaz gaindikoa.",
+			"Ikusten duzu, [color=#8aff92]Vela[/color] desagertuta egon da [color=#77FFFF]Kontsumoa[/color] amaitu zenetik.",
+			"[color=#8aff92]Velaren Zaldunak[/color] gogoz bilatu dute, baina ez dute arrakastarik izan.",
+			"Hala ere, [color=#8aff92]Beilaren[/color] azken atsekabe hau... naturaz gaindikoa da.",
 			"Flora pizti bihurtzen da, eta badirudi erronka bat bilatzen duela.",
 			"Ezin dut imajinatu zerk eragiten duen."
 		]
 	},
 	tidefields_greeting={
 		text=[
-			"Esan behar dut, aspaldi ez dudala estudio hau bisitatzen.",
+			"Esan behar dut, aspaldi natorrela estudio honetara.",
 			"Ziurrenik ikusi duzuen bezala, eremu hauetan ez da zibilizazio handirik geratzen.",
-			"Inoiz hemen egon zen edozein izaki bizidun hil edo ihes egiten zuen.",
-			"Hala ere, [color=#77FFFF]URA[/color] indartsu jarraitzen du...",
-			"Agian lur horien seinale da.",
-			"Baina, alde egiten dut. Nire kontua da behar dudan guztia daukadala zu indartsuago egiteko.",
-			"Orduan, zer izango da?",
+			"Hemen noizbait bizirik egon zirenak, hil edo ihes egin zuten.",
+			"Hala ere, [color=#77FFFF]URAK[/color] indartsu dirau...",
+			"Agian lur horien seinalea da.",
+			"Barkatu, aldentzen ari naiz. Kontua zera da, behar dudan guztia daukadala zu indartsuago egiteko.",
+			"Orduan, zer?",
 		]
 	},
 	tidefields_talk_menu={
-		answers=["Zer gertatu da hemen?", "Berdin du."]
+		answers=["Zer gertatu zen hemen?", "Berdin du."]
 	},
 	what_happened_here={
 		text=[
 			"Ez al dakizu?",
-			"(hartu liburu bat, jainkoen maitasunagatik...)",
-			"Borroka handia izan zen eremu hauetan bertan.",
-			"Elder Believers [color=#FFBD33]Elias maisuarekin batera borrokatu zuten.[/color]",
-			"[color=#77FFFF]Kontsumoan zehar etengabe borrokatzen dugu.[/color]",
+			"(liburu bat hartzen du, Jainkoen maitasunagatik...)",
+			"Borroka handia izan zen eremu hauetan.",
+			"Adineko sinismendunak [color=#FFBD33]Elias[/color] maisuarekin batera borrokatu zuten.",
+			"[color=#77FFFF]Kontsumoan[/color] zehar etengabe borrokatu genuen.",
 			"Baina eremu horietan, gerra amaituko zen.",
-			"[color=#77FFFF]Uholde geldialdia izenez ezagutu zen.[/color]",
+			"[color=#77FFFF]Uholde geldia[/color] izenez ezagutu zen.",
 			"Beraz, ez, ez zegoen irabazlerik.",
-			"Eremu hauek utzitako orbainei baino ez diete eusten.",
+			"Eremu hauek utzitako orbainak baino ez dituzte.",
 			"Eta dena alferrik izan zen.",
 		],
 	},
 	ack_kill_krus={
 		text=[
 			"Kaixo berriro...",
-			"[color=#ff4c42]Usurpatzailearen izena aldarrikatzen duena hil duzu,[/color] ezta?",
+			"[color=#ff4c42]Usurpatzailearen[/color] izena aldarrikatzen duena hil duzu, ezta?",
 			"Orain esperimentu honen akatsa agerian geratu da.",
-			"Nola izan nezakeen hain itsu aukera horri?",
-			"Barkatu. Egia bada, hasieratik misio suizida bat izan zen.",
-			"Ez nuen espero [color=#77FFFF]Betiereko Jainkorik[/color] garaitua izango zenik, are gutxiago [color=#ff4c42]Usurpatzailea hilko zenik.[/color]",
-			"Aitzitik, zer indar zuten zehaztea espero zuen.",
-			"Hala ere, zure eskuetatik hilda daude.",
-			"Egiazko [color=#ff4c42]Usurpatzaileak[/color] bakarrik izan lezake hainbeste botere.",
+			"Nola ez nuen aukera hori ikusi?",
+			"Barkatu. Egia esan, hasieratik misio suizida bat izan zen.",
+			"Ez nuen espero [color=#77FFFF]Betiereko Jainkorik[/color] garaiturik izango zenik, are gutxiago [color=#ff4c42]Usurpatzailea[/color] hilko zenuenik.",
+			"Aitzitik, haien indarra zehaztea espero nuen.",
+			"Hala ere, zure eskuekin hil zenituen.",
+			"[color=#ff4c42]Benetako Usurpatzaileak[/color] bakarrik izan lezake hainbeste botere.",
 		]
 	},
 	ack_kill_krus_and_ageless={
 		text=[
 			"Kaixo berriro...",
 			"Itzuli zarela ikusten dut.",
-			"Bada, [color=#77FFFF]Betiereko Jainkoak[/color] guztiak hil ez ezik, [color=#ff4c42]Usurpatzailea dela dioena ere kendu duzu![/color]",
-			"Horrek esan nahiko luke... izenburua zurea dela.",
+			"Bada, [color=#77FFFF]Betiereko Jainkoak[/color] guztiak hil ez ezik, [color=#ff4c42]Usurpatzailea[/color] dela dioena ere paretik kendu duzu!",
+			"Horrek esan nahi du... orain titulua zurea dela.",
 			"Zu zara benetako [color=#ff4c42]Usurpatzailea.[/color]",
-			"Nola nengoen hain itsu aukera horri?",
+			"Nola ez nuen aukera hori kontuan izan?",
 			"Barkatu, baina ez nuen inoiz espero haiek guztiak hilko zenituzkenik.",
-			"Zure indarrak zehazten saiatzen ari nintzen, baina badirudi gutxietsi dudala nor zinen.",
+			"Zure indarrak zehazten saiatzen bakarrik ari nintzen, baina badirudi gutxietsi dudala nor zinen.",
 		]	
 	},
 	ask_drink={
 		text=[
 			"Beraz, galdetu behar dut...",
-			"[color=#77FFFF]Gazteriaren iturria aterako zenuke?[/color]",
-			"Edango zenuke bertatik?",
+			"[color=#77FFFF]Gazteriaren iturria[/color] lurpetik aterako zenuke?",
+			"Edango al zenuke bertatik?",
 		],
-		prompt="[color=#77FFFF]Gazteriaren Iturritik edango zenuke?[/color]",
+		prompt="[color=#77FFFF]Gazteriaren Iturritik[/color] edango zenuke?",
 		answers=["Bai edango nuke.", "Ez nuke edango."],
 	},
 	would_drink={
 		text=[
 			"Egingo zenuke?",
 			"Bai, agian nik ere egingo nuke.",
-			"Haien eskaintzaren zaporea dastatzeko besterik ez bada.",
+			"Haien eskaintza dastatzeko besterik ez bada ere.",
 			"Hala ere, ez al duzu uste gehiago dagoela?",
-			"Iturriaren [color=#77FFFF]boterea hartzea besterik ez da?[/color]",
-			"Eta horren ordez... dena amaituko bagenu? Suntsitu [color=#77FFFF]Iturria.[/color]",
-			"Amai [color=#77FFFF]Betiko[/color]ren gaitzarekin.",
+			"[color=#77FFFF]Iturriaren boterea[/color] hartzea besterik ez da?",
+			"Eta horren ordez... dena amaituko bagenu? [color=#77FFFF]Iturria[/color] Suntsitu.",
+			"Betirako amaitu [color=#77FFFF]Betiereko Jainkoen[/color] tirania.",
 			"Itxaropen berri bat lur hauentzat.",
 		]
 	},
@@ -1542,8 +1542,8 @@ Augustus = {
 			"Zein bitxia.",
 			"Hemen zaude [color=#ff4c42]Usurpatzaile[/color] baten gisa, baina ez al zenuke botere hori hartuko?",
 			"Uste dut ez zenukeela beharko, baina zer egingo zenuke horren ordez?",
-			"Agian... bai... dena amaitu dezakezu. Suntsitu [color=#77FFFF]Iturria.[/color]",
-			"Gelditu [color=#77FFFF]Betiko[/color]ren azotea betiko.",
+			"Agian... bai... dena amaitu dezakezu. [color=#77FFFF]Iturria[/color] Suntsitu.",
+			"Betirako amaitu [color=#77FFFF]Betiereko Jainkoen[/color] tirania.",
 			"Itxaropen berri bat lur hauentzat.",
 		]
 	},
@@ -1557,40 +1557,40 @@ Augustus = {
 	ack_kill_ageless={
 		text=[
 			"Azkenean egin duzu.",
-			"Denbora guzti honen ondoren, ez dago Timeless gehiago.",
-			"Bere denbora oso luzea izan zen, eta bere tirania azkenean amaitu zen.",
+			"Denbora guzti honen ondoren, ez dago Betiereko Jainkorik gehiago.",
+			"Haien garaia denbora oso luzea izan zen, eta bere tirania azkenean amaitu zen.",
 			"Eta orain... azken pauso bat geratzen da.",
 			"[color=#77FFFF]Gazteriaren Iturria[/color] bera.",
-			"Elder Believers-en erregistroak zuzenak badira, [color=#77FFFF]Divine Well-en bakarrik aurki daiteke.[/color]",
+			"Elder Believers-en erregistroak zuzenak badira, [color=#77FFFF]Divine Well[/color]en bakarrik aurki daiteke.",
 			"Zoritxarrez, bere sarrera itxita dago.",
 		]
 	},
 	drink_transition_to_instructions={
 		text=[
-			"Dena den, [color=#77FFFF]Iturria[/color]rako bidea zigilatua dago.",
-			"Nire erregistroak zuzenak badira, [color=#77FFFF]Divine Well-en bakarrik aurki daiteke.[/color]",
+			"Dena den, [color=#77FFFF]Iturri[/color]rako bidea zigilatua dago.",
+			"Nire erregistroak zuzenak badira, [color=#77FFFF]Divine Well[/color]en bakarrik aurki daiteke.",
 		]
 	},
 	fountain_instructions={
 		text=[
 			"Sinestun Zaharrek sarrera nonbait aurkitu zuten Usurpatzailearen kartzelan, baina badirudi ez zirela inoiz sartu.",
 			"Nire laborategia [color=#fffab3]Guard Domain[/color] gune erritual batean eraiki zen.",
-			"Bost gartzela borobil batean jarrita, itxaropenarekin erre. Azkenean zerbait erabilgarria eman zezaketen.",
+			"Bost gartzela borobilean jarrita, aurretiz erretzen. Azkenean zerbait erabilgarria eman zezaketen.",
 			"Beraz, hori zure esku utzi behar dut.",
 			"Aurrera, [color=#ff4c42]Usurpatzailea.[/color]",
-			"Ireki [color=#77FFFF]Jainkozko Putzua,[/color] eta suntsitu [color=#77FFFF]Iturria.[/color]",
+			"Ireki [color=#77FFFF]Putzua sakratua[/color], eta [color=#77FFFF]Iturria[/color] suntsitu.",
 			"Ordua iristen denean, jo ezazu zure ezpatarekin.",
-			"ekartzen diguzun etorkizunaren zain egongo naiz."
+			"Ekartzen diguzun etorkizunaren zain egongo naiz."
 		]
 	},
 	menu={
 		prompt="Augusto",
-		answers=["Zorroztu Power", "hitz egin", "Irten"]
+		answers=["Boterea Zorroztu", "Hitz egin", "Irten"]
 	},
 	cant_upgrade_twice={
 		text=[
-			"Ez daukat hemen zure indarra berriro zorrozteko osagai nahikorik.",
-			"Baina baditut beste laborategi batzuk material askorekin, saiatu ni aurkitzen haietako batean!"
+			"Ez daukat zure indarra berriro zorrozteko osagai nahikorik.",
+			"Baina baditut beste laborategi batzuk material askorekin, aurki nazazu haietako batean!"
 		],
 	},
 	lib_talk_menu={
@@ -1598,9 +1598,9 @@ Augustus = {
 		answers=["Nor zara zu?", "Non dago [color=#ff4c42]Usurpatzailea[/color]?", "Non zaude?", "Berdin du."]
 	},
 	who_are_you={
-		text=["Tira, zientzialaria naiz! Ofizialki, Elder Believer naiz, baina azterketa hau [color=#fffab3]Guardiarekin dudan lanerako erabiltzen dut.[/color]",
-		"Beraz, bai, horrek «horietako bat» egiten nau, ofizialki behintzat. Baina ez kezkatu, zure alde nago.",
-		"Gure akordioa hau da: zuk laguntzen didazu eta nik zure boterea zorrozten laguntzen dizut.",
+		text=["Tira, zientzialaria naiz! Ofizialki, Elder Believer naiz, baina azterketa hau [color=#fffab3]Guardiarekin[/color] dudan lanerako erabiltzen dut.",
+		"Beraz, bai, horrek 'horietako bat' egiten nau, ofizialki behintzat. Baina ez kezkatu, zure alde nago.",
+		"Gure akordioa hau da: Zuk laguntzen didazu eta nik zure boterea zorrozten laguntzen dizut.",
 		"[color=#fffab3]Guardia[/color]ko gure lagunek espetxeratu zintuzten arren, zure potentziala ikusten ez zutelako besterik ez da.",
 		],
 	},
@@ -1612,17 +1612,17 @@ Augustus = {
 	},
 	where_usurper_you={
 		text=[
-			"Galdera ergela da... Uste nuen [color=#ff4c42]Usurpatzailea zarela ezarri genuela?[/color]",
+			"Galdera inozoa da... Uste nuen [color=#ff4c42]Usurpatzailea[/color] esan ezarri genuela",
 			"Azken finean, [color=#77FFFF]Betiereko Jainkoak[/color] hiltzen ibili zara.",
-			"Edo... [color=#77FFFF]Gazteriaren Iturria suntsitzeko asmoa baduzu?[/color]",
-			"Kasu horretan, ikusten dut zergatik ez zenuen zure burua [color=#ff4c42]Usurpatzailetzat hartuko.[/color] Ez, guztiz beste zerbait izango zinateke.",
+			"Edo... [color=#77FFFF]Gazteriaren Iturria[/color] suntsitzeko asmoa baduzu?",
+			"Kasu horretan, ikusten dut zergatik ez zenuen zure burua [color=#ff4c42]Usurpatzailetzat[/color] hartuko. Ez, guztiz ezbedina izango zinateke.",
 		],
 	},
 	where_are_you={
 		text=["Zopa magiko honetan nago!",
-		"Broma bat da.",
+		"Adarra jotzen nenbilen.",
 		"Esan dezakedana da ez nagoela [color=#fffab3]Guard Domain[/color].",
-		"Ezkutatuta nago; Imajina dezaket nire anaiek ez luketela eskertuko zu bezalako norbaitekin dudan lankidetza.",
+		"Ezkutatzen nabil; Imajina dezaket nire anaiek ez luketela eskertuko zu bezalako norbaitekin dudan lankidetza.",
 		"Erasorik ez, baina ez dut nire nondik norakoak agerian uzteko gogorik.",
 		],
 	},
@@ -1630,10 +1630,10 @@ Augustus = {
 		text=["Ejem... Sorginkeriak egitea ez da merkea, badakizu? Eskatzen dudana ordaindu beharko didazu.",],
 	},
 	upgrade_success={
-		text=["Eta... BAM! Hor daukazue!",],
+		text=["Eta... BAM! Hor dago!",],
 	},
 	upgrade={
-		text=["Zure boterearen alderdi bat hobetzeko nahikoa osagai baino ez ditut hemen, beraz, zuhurtasunez aukeratu."],
+		text=["Zure boterearen alderdi BAT hobetzeko nahikoa osagai baino ez ditut hemen, beraz, zentzunez aukeratu."],
 		prompt="Aukeratu hobetzeko alderdi bat"
 	},
 },
@@ -1642,15 +1642,15 @@ Kneez = {
 	greeting={
 		text=[
 			"Kaixo, kaixo. Ni Cobwebs naiz, ezagutzaren maisua!",
-			"Augustorentzat egiten dut lan. Lekua forman mantentzea bere beste laborategietan dagoen bitartean.",
+			"Augustorentzat egiten dut lan. Lekua txukun mantentzen bere beste laborategietan dagoen bitartean.",
 			"Ez da lan asko, beraz, denbora asko daukat bere liburu bilduma irakurtzeko.",
 		],
 	},
 	default={
 		text=[
-			"Galde iezadazu ezer, erantzuna ezagutzen dudala ziurtatzen dut."
+			"Galde iezadazu edozer, erantzuna ezagutzen dudala ziurtatzen dut."
 		],
-		prompt="Aramu-sareak",
+		prompt="Armiarma-sareak",
 		answers=[
 			"Nortzuk osatzen dute [color=#fffab3]Guardia?[/color]",
 			"Nortzuk dira [color=#77FFFF]Mugagabeak?[/color]",
@@ -1660,16 +1660,16 @@ Kneez = {
 	},
 	q1={
 		text=[
-			"[color=#fffab3]Guardia,[/color] ikus dezagun...",
-			"Tira, ee, kapa gorria daramate. Badakit egia dela.",
-			"Normalean ezpatak eramaten dituzte, nahiz eta batzuetan ez...",
-			"Ai! Eta jauregi bat dute. Hemendik hegoaldean dago. Uh... ala iparraldea? Ez naiz ona jarraibideekin.",
+			"[color=#fffab3]Guardia[/color], ikus dezagun...",
+			"Tira... kapa gorria daramate. Badakit hori egia dela.",
+			"Normalean ezpatak eramaten dituzte, baina batzuetan ez...",
+			"Ai! Eta jauregi bat dute. Hemendik hegoalderago dago. Uh... ala iparralderago? Ez naiz ona jarraibideekin.",
 		]
 	},
 	q2={
 		text=[
 			"[color=#77FFFF]Betiereko Jainkoak?[/color] Tira...",
-			"Uste dut [color=#fffab3]Erregina bikiak[/color] [color=#77FFFF]Betiereko Jainkoak direla.[/color]",
+			"Uste dut [color=#fffab3]Erregina bikiak[/color] [color=#77FFFF]Betiereko Jainkoak[/color] direla.",
 			"Ez nago guztiz ziur zer esan nahi duen horrek, baina onak izan behar dute horretan; Aspaldi daramate karguan."
 		]
 	},
@@ -1677,33 +1677,33 @@ Kneez = {
 		text=[
 			"Ai! Badakit hau! [color=#77FFFF]URA[/color], bai, [color=#77FFFF]URA.[/color]",
 			"Bada, euria egiten duenean, ura zerutik dator. Edan dezakezu...",
-			"Hmm... agian hori beste ur mota bat da. Augustok esan zidan [color=#77FFFF]URA[/color] magiarekin zerikusirik duela.",
-			"Duela gutxi irakurri nuen [color=#77FFFF]URA[/color] giza garezurrean gordeta egoteari buruz, baina Augustok esan zidan hori ez zela egia.",
+			"Hmm... agian hori beste ur mota bat da. Augustok esan zidan [color=#77FFFF]URAK[/color] magiarekin zerikusirik duela.",
+			"Duela gutxi irakurri nuen [color=#77FFFF]URAK[/color] kaskezurrean gordetzeari buruz, baina Augustok esan zidan hori ez zela egia.",
 		]
 	}
 },
 Pento = {
 	greeting={
 		text=[
-			"Ai, ez dut uste inoiz ezagutu garenik.",
-			"Zerk ekartzen zaitu hona, arrotza?"
+			"Ai, ez dut uste ezagutzen garenik.",
+			"Zerk ekartzen zaitu hona, kanpotar?"
 		]
 	},
 	first_options={
-		answers=["Nor zara zu?", "Zertan ari zara hemen?", "isilik egon"]
+		answers=["Nor zara zu?", "Zertan ari zara hemen?", "Isilik egon"]
 	},
 	who_are_you={
 		text=[
-			"Nire izena da... eh, Pento.",
-			"Eta egun, hemen eseri besterik ez dut egiten.",
+			"Nire izena... eh, Pento da.",
+			"Eta honetan egunetan, hemen eserita egotea besterik ez dut egiten.",
 		]
 	},
 	what_are_you_doing_here={
 		text=[
-			"Beno, ikuspegia miresten ari naiz!",
+			"Beno, paisaia miresten ari naiz!",
 			"Egun oso atseginak izaten dira beti, eta zer eguraldi ederra!",
 			"Zu bezalako bidaiariak ere ezagutu ditzaket.",
-			"Polita da bisitari hauek izatea, nahiz eta askok zu bezain zorterik izan ez duten."
+			"Polita da paisaia hauek izatea, nahiz eta askok zu bezalako zortea izan ez izan."
 		]
 	},
 	second_options={
@@ -1712,61 +1712,61 @@ Pento = {
 	},
 	how_long_have_you_been_here={
 		text=[
-			"Ah... Une honetan, denbora pixka bat pasa da...",
-			"Nire bakea aurkitu nuen hemen, baina ez lur hauek ahal bezainbeste ikusi aurretik.",
-			"Horiei buruz esango nizuke, agure bati mesede bat egitea axola ez bazaizu...?"
+			"Ah... Beno... Denbora pixka bat pasa da...",
+			"Nire bakea aurkitu nuen hemen, baina lur hauek aztertu nituen aurretik.",
+			"Horiei buruz kontatuko nizuke, agure bati mesede bat egitea axola ez bazaizu...?"
 		]
 	},
 	land_questions={
 		prompt="Pento",
 		answers=[
 			"[color=#fffab3]Guard Domain[/color] buruzko galdera",
-			"[color=#8aff92]Beloa[/color] buruzko galdera",
-			"[color=#FFBD33]Arro lehorra[/color] buruzko galdera",
+			"[color=#8aff92]Beloari[/color] buruzko galdera",
+			"[color=#FFBD33]Arro Lehorrari[/color] buruzko galdera",
 			"Irten"
 		]
 	},
 	guards_domain={
 		text=[
-			"Han ez da jende asko geratzen, zoritxarrez.",
+			"Zoritxarrez, han ez da jende asko geratzen.",
 			"[color=#fffab3]Guardia[/color] ez da guztiz abegikorra, eta [color=#fffab3]Regina Bikiak[/color] arduratzen dira horretaz.",
-			"Gehienek arrazoirik gabe patruilatzen dute egun. Zer gordetzen dute zehazki?",
-			"Hala ere, oraindik Usurpatzailearen kartzelara sartzen dituzte intrusioak.",
-			"Baina, ziur nago dagoeneko badakizu..."
+			"Gaur egun, gehienek arrazoirik gabe patruilatzen dute. Zer babesten dute zehazki?",
+			"Hala ere, oraindik Usurpatzailearen kartzelara kanpotarrak botatzen dituzte.",
+			"Baina, ziur nago dagoeneko hori badakizula..."
 		]
 	},
 	the_veil={
 		text=[
-			"Baso hori beti izan da [color=#8aff92]Velaren Zaldunen etxea.[/color]",
-			"Lagun zalapartatsua, [color=#8aff92]Txapeldun[/color] basati batzuei eskainia.",
-			"Hala ere, zein lurrunkorra izan daitekeen arima. Begi baten keinu batean, bere [color=#8aff92]Andrea[/color] desagertu zen.",
+			"Baso hori beti izan da [color=#8aff92]Velaren Zaldunen[/color] etxea.",
+			"Lagun zalapartatsua, [color=#8aff92]Txapeldun[/color] basati bati eskainia.",
+			"Hala ere, zein aldakorra izan daitekeen arima. Istant batean, bere [color=#8aff92]Dama[/color] desagertu zen.",
 			"Hiltzeko gogoa galdu izan balu bezala. Galdetzen diot, zergatik ihes egin eta ezkutatu zen?",
 			"Zein botere motak beldurtzen du munstro bat?",
-			"Bakarrik nahi izan liteke.",
+			"Desiratzea besterik ez zaigu geratzen.",
 		]
 	},
 	dried_basin={
 		text=[
-			"Zer pena, [color=#FFBD33]Cuenca...[/color]",
+			"Zer pena, [color=#FFBD33]Cuenca[/color]...",
 			"Noski, ez zen beti lehorra.",
-			"Elder Believers-ek bertan egin zituzten beren esperimentuak. Nahi duzun [color=#77FFFF]benetako[/color] UR guztia!",
+			"Elder Believers-ek bertan egin zituzten beren esperimentuak. Nahi beste [color=#77FFFF]Benetako[/color] UR guztia!",
 			"Hala ere, ezinbestean zeharkatu zuten muga.",
 			"Drohm gizajo haiek...",
-			"Zuretzat, ordea, badirudi ez zutela erronkarik planteatzen, e...?",
+			"Zuretzat, ordea, badirudi zuretzat ez zela erronka handia, ezta?",
 		]
 	},
 	last_land_question={
 		prompt="Pento",
-		answers=["[color=#B5CEFF]Mareetako eremuak[/color] buruzko galdera", "Irten"]
+		answers=["[color=#B5CEFF]Mareetako eremuei[/color] buruzko galdera", "Irten"]
 	},
 	tide_fields={
 		text=[
-			"Ah bai... Oroitzapen asko gordetzen dituzte eremu hauek.",
+			"Ah bai... Oroitzapen asko daude eremu hauetan.",
 			"Bere tonu urdinak mundu osoko jendea erakarri zuen.",
 			"Tamalez, gerrak horri amaiera eman zion.",
-			"Geratzen zirenek ihes egin zuten eta ezkutatu egin ziren.",
-			"Hala ere, zerbait handiagoa sortu zuen.",
-			"[color=#B5CEFF]Formuko eliza[/color] - entzun al duzu?"
+			"Geratzen zirenek ihes egin zuten eta ezkutatu ziren.",
+			"Hala ere, zerbait handiagoa sortzeko aukera sortu zen.",
+			"[color=#B5CEFF]Formaren eliza[/color] - entzun al duzu zerbait horri buruz?"
 		],
 		prompt="Pento",
 		answers=["Bai", "Ez"],
@@ -1776,22 +1776,22 @@ Pento = {
 			"Zoragarria...",
 			"Orduan jakin behar duzu [color=#B5CEFF]Eliza[/color] aspaldi hil zela.",
 			"Hori da behintzat esaten den gezurra...",
-			"[color=#B5CEFF]Eliza[/color] dago eremu horietan berean.",
-			"Urte guzti hauen ondoren jasaten, zain...",
-			"Zure zain, [color=#ff4c42]Usurpatzailea.[/color]"
+			"[color=#B5CEFF]Eliza[/color] hemen berton dago.",
+			"Urte guzti hauen ondoren, zain...",
+			"Zain, zure zain, [color=#ff4c42]Usurpatzailea[/color]."
 		]
 	},
 	cos_no={
 		text=[
-			"Ez? Beraz, istorio bat kontatuko dizut.",
-			"Bere erreinuari eskainitako [color=#B5CEFF]Eliza[/color]etako bat.",
-			"Zure eskakizunak asetzeko dena ematea.",
-			"Behin dena entregatuta, traizio egin zuten.",
-			"Hereje gisa sailkatu zituzten, eta sutara eraman zituzten.",
+			"Ez? Beraz, utzidazu istorio bat kontatzen.",
+			"Bere erreinuari eskainitako [color=#B5CEFF]Elizetako[/color] bat.",
+			"Zure eskakizunak asetzeko dena ematen.",
+			"Behin dena entregatuta, saldu zuten.",
+			"Herejetzat jo zituzten, eta sutzarrera eraman zituzten.",
 			"Orain, bere hitzak xuxurla baino ez dira. Hala ere, hori izan da beti bere indarra.",
-			"Oraindik existitzen direlako, alor horietan berean.",
-			"Urte guzti hauen ondoren jasaten, zain...",
-			"Zure zain, [color=#ff4c42]Usurpatzailea.[/color]"
+			"Oraindik existitzen direlako, lur horietan bertan.",
+			"Urte guzti hauen ondoren, zain...",
+			"Zain, zure zain, [color=#ff4c42]Usurpatzailea.[/color]"
 		]
 	},
 	final_question={
@@ -1800,43 +1800,43 @@ Pento = {
 	},
 	final={
 		text=[
-			"naizena naiz. Zu bezala.",
-			"Zer gara [color=#B5CEFF]Jainkosaren Halana[/color] borondaterako ontziak baino?",
-			"Eta zuen planak berebiziko garrantzia du.",
-			"Beraz, zatoz, [color=#ff4c42]Usurpatzailea.[/color] Ausartu mendiko horma faltsua pasatzen, eta [color=#B5CEFF]Formako Elizaren barruan ikusle bila.[/color]",
-			"Zure [color=#B5CEFF]Forma[/color] zure sortzaileak hiltzeko forjatu delako.",
+			"Naizena naiz. Zu bezala.",
+			"Zer gara [color=#B5CEFF]Halana Jainkosa[/color] borondaterako morroiak baino?",
+			"Eta bere egitasmoak berebiziko garrantzia du.",
+			"Beraz, zatoz, [color=#ff4c42]Usurpatzailea[/color]. Ausartu mendiko horma faltsua pasatzen, eta sartu [color=#B5CEFF]Formako Elizaren[/color] barruan ikusle bila.",
+			"[color=#B5CEFF]Forma[/color] horrek zure sortzaileak hiltzeko forjatu baitzen.",
 		],
 	},
 	silent={
-		text=["Tira, ez kezkatu nigatik. Hemen egongo naiz ikusten."]
+		text=["Tira, ez kezkatu nigatik. Hemendik ikusten geratuko naiz."]
 	},
 	hit_exclamations = ["Uf!",
 		"Aupa!",
 		"Zein da honen esanahia?",
-		"agure bat besterik ez naiz...",
+		"Agure bat besterik ez naiz...",
 	],
 },
 
 Sloan = {
 	default={
 		text=["Anaia...",
-			"Zure bizitza ondo egotea espero dut...",
-			"Utz nazazu bakean. Edo zuk ere [color=#FFBD33]Lehor[/color] izan nahi duzu?",
+			"Ondo egotea espero dut...",
+			"Utz nazazu bakean. Edo zuk ere [color=#FFBD33]Lehortzea[/color] nahi al duzu?",
 			"Begiak erretzen hasten zaizkit..."
 		],
 	},
 	give_waters={
 		text=["Ah, hau da...",
 			"Emango al didazu?",
-			"Dagoeneko nire indarrak itzultzen sentitzen ditut.",
+			"Indarrak itzultzen zaizkidala sentitzen dut.",
 		],
 	},
 	gave_waters_loop={
-		text=["Indarrak bilduko ditut, gero irtengo naiz anaia bila."],
+		text=["Indarra hartuko dut, gero irtengo naiz anaia bila."],
 	},
 	quest_done_goodending={
 		text=["Ezin dizut nahikoa eskertu.",
-			"Ordu bakoitzean indarrak berreskuratzen ditut.",
+			"Orduak pasatu ahala indarrak berreskuratzen ditut.",
 		],
 	},
 	hit_exclamations = ["Ah...",
@@ -1848,48 +1848,48 @@ Sloan = {
 
 PetOptions = [
 	"Utzi",
-	"Hartu maskota",
-	"hitz egin",
-	"Laztan"
+	"Maskota hartu",
+	"Hitz egin",
+	"Laztandu"
 ],
 
 Dog = {
 	pet_prompt={
-		text=["Hemen txakur bat dago. Laztantzen zion?"
+		text=["Hemen txakur bat dago. Laztandu?"
 		],
-		prompt="Txakurra laztantzen?",
+		prompt="Txakurra laztandu?",
 		answers=["Bai", "Ez"]
 	},
 	pet={
 		text=[
 			"Txakurra laztantzen duzu.",
-			"%s txakurrak laztandu dituzu!" #FORMAT: Número de perros acariciados hasta ahora
+			"%s txakur laztandu dituzu!" #FORMAT: Número de perros acariciados hasta ahora
 		]
 	},
-	hit_exclamations = ["Aupa!",
-		"Aupa!",
-		"Aupa aupa!",
-		"Aupa?",
+	hit_exclamations = ["Zaunk!",
+		"Zaunk!",
+		"Zaunk zaunk!",
+		"Zaunk?",
 	],
 },
 
 # BushMan rhymes his speech, speaking in limericks.
 BushMan = {
 	explanation={
-		text=["Zergatik ezkutatzen naiz hain sasi hauskorren artean?\n[color=#8aff92]Beilerako[/color] bidean nengoen\nNegar bat entzun nuenean,\nEz gizon batena, ezta txoriarena...\nHorregatik nago hain zurbil ikusten",
-		"Eliza zaharrean piztiak negar-zotinka egiten zuen\nLapurtu ziotena bezala agertzen zen\nBaina lapurtutakoa\nEz zen zilarrezkoa ez urrea\nBesoak gaiztoki moztuta.",
-		"Animalia aldakorra eta zoroa zen\nOso mutil burugogorra zirudien\nBuezurreko sakonean\nNorbait sartuta\n[color=#ffbb00] brontzezko ezpata[/color], benetan mingarria da.",
-		"Gaur egun bere presentziak gutxiesten du\nHemen ezkutatuta sasi honetan\nKendu piztia,\nJoan ala hil den,\nNire taldean sartu nadin."
+		text=["Zergatik ezkutatzen naiz hain sasi hauskorren artean?\n[color=#8aff92]Beilerako[/color] bidean nengoen\nNegar bat entzun nuenean,\nEz gizon batena, ezta txoriarena...\nHorregatik nago hain zurbil",
+		"Eliza zaharrean piztiak negar-zotinka egin zuen\nLapurtu ziotela bezala agertu zen\nBaina lapurtutakoa\nEz zen zilarrezkoa ezta urrea ere\nBesoak zitalki moztuak izan ziren.",
+		"Animalia nazkagarria eta zoroa zen\nOso mutil burugogorra zirudien\nBere kaskezurraren sakonean\nNorbaitek\n[color=#ffbb00] brontzezko ezpata[/color] sartu zion, benetan penagarria da.",
+		"Gaur egungo bere presentzia gutxietsia\nHemen ezkutatuta sasi honetan\nPiztia suntsitu,\nAlde ala hil,\nNi nire taldean sartu nadin."
 		],
 	},
 	thanks={
 		text=["Ai!",
-			"Orain daramazun [color=#ffcf4a]brontzezko ezpata[/color]!\nHorrek asko pozten nau\nHemen pixka bat itxarongo dut,\nDenbora dudan bitartean,\nOndoren [color=#8aff92]Beloa[/color] santutegira itzuliko naiz."
+			"Orain daramazun [color=#ffcf4a]brontzezko ezpata[/color]!\nHorrek asko pozten nau\nHemen pixka bat itxarongo dut,\nDenbora dudan bitartean,\nOndoren [color=#8aff92]Beloko[/color] santutegira itzuliko naiz."
 		],
 	},
 	final={
 		text=["Zuhaixka hau nahiko erosoa da.",
-			"Hmm... zer errimatzen du 'eroso'?",
+			"Hmm... zer errimatzen du 'eroso'-rekin?",
 		],
 	},
 },
@@ -1898,37 +1898,37 @@ BushMan = {
 PoetryClub_BushMan = {
 	thanks={
 		text=[
-			"Hemen elkartzen gara nire klubaren barruan\nSasi honetan ezkutatzea aukeratu dut\nWoleh-ren lagun bat\nOhoratua da gaur\nOn etorri zaitut hemen zentro honetara!",
-			"Nire izena Kornelio da, lagun\nHarrapatu duzun munstro hori\nOrain lurrean dago\nEta ez da aurkituko\nEskerrak ematen dizkizut amaiera ekartzeagatik."
+			"Hemen elkartzen gara nire klubaren barruan\nSasi honetan ezkutatzea aukeratu dut\nWoleh-ren lagun bat\nOroitua da gaur\nOngi etorria ematen dizut zentro honetara!",
+			"Nire izena Kornelio da, lagun\nHarrapatu duzun munstro hori\nOrain lurrean dirau\nEta ez da aurkituko\nEskerrak ematen dizkizut munstro horri amaiera eman izanagatik."
 		]
 	},
 	help_woleh={
-		text=["Woleh buruan galduta dago\nPentsamenduek itsu utzi dute\nEz daki zer datorren\nNahiko konplexua da...\nMesedez, lagundu iezaiozu bere arazotik"]
+		text=["Woleh buruan galduta dago\nPentsamenduek itsu utzi dute\nEz daki zer datorren\nNahiko konplexua da...\nMesedez, lagundu iezaiozu bere arazoa konpontzen"]
 	},
 	wait_second_item={
-		text=["Woleh ikaragarri haserre dago\nEsan behar dut nahiko pozik sentitzen naizela\nEz da niregana\nEz da zurekin\nIkus dezagun nola lasaitu nire bikotea"]
+		text=["Woleh ikaragarri haserre dago\nEsan behar dut nahiko pozik sentitzen naizela\nEz da nigatik\nEz da zugatik\nIkus dezagun nola lasaitu nire bikotea"]
 	},
 	wait_third_item={
 		text=["Azkenean bere egoera aldatu da\nKezkatuta nengoen bere espresioa mantenduko zuen\nOrain gauza bakarra dago\nOso zoragarria\nIlusioa zabaldu ahal izateko."]
 	},
 	final={
-		text=["Woleh pozik dago azkenean\nBere buruko arazoak jada pasatu\nBihotzean pozarekin\nHasiera berri bat egingo dugu\nPoesia kluba berrituta aurkitu zen!"]
+		text=["Woleh pozik dago azkenean\nBere buruko arazoak jada konpondu dira\nBihotzean poza\nHasiera berri bat egingo dugu\nPoesia kluba berrituta dago!"]
 	}
 },
 
 # Woleh habla en haiku.
-# NOTE - "emozioa" field is used for game logic.
+# NOTE - "emotion" field is used for game logic.
 # Do not translate the emotion fields.
 Woleh={
 	angry={
 		text=["Behar baino denbora gehiago egon zara."],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 	},
 	waiting_for_cornelius={
-		text=["Gure laguna kanpoan egon da.\nZer egin dezaket bera gabe?\nEspero dut seguru egotea."]
+		text=["Gure laguna kanpoan egon da.\nZer egin dezaket bera gabe?\nBabesean dagoela espero dut."]
 	},
 	thank_for_rescue={
-		text=["Nire laguna salbatu duzu!\nBerriro hiru poetak\nZure zorretan gaude"]
+		text=["Nire laguna salbatu duzu!\nBerriro gaude hiru poetak\nZurekin zorretan gaude"]
 	},
 	talk_after_rescue={
 		text=[
@@ -1939,88 +1939,88 @@ Woleh={
 	},
 	keep_talking={
 		text=[
-			"Kornelio hor\nPasioz hitz egiten du\nHitz bombastikoak nahastuz",
+			"Kornelio hor\nPasioz hitz egiten du\nHitz burrunbariak nahastuz",
 			"Greg gizon lotsatia da\nHala ere, ondo hitz egiten du\nArima handia du",
 			"Harri bat besterik ez naiz\nBaina nire burua pentsamenduz beteta dago\nAske naiz hitz egiteko",
 		],
 	},
 	help_prompt={
 		text=[
-			"Orain zer esango dut?\nZer gertatuko zait?\nNeure burua galdu dut",
-			"Zuk, nire lagun\nLagun al didazu nire pentsamenduetan?\nHurrengoa aurkitzen?"
+			"Orain zer esango dut?\nZer gertatuko zait?\nGalduta nabil",
+			"Zu, nire lagun\nLagun al didazu nire pentsamenduetan?\nHurrengoa aurkitzen?"
 		],
 		prompt="Woleh lagundu?",
 		answers=["Bai, lagunduko dizut", "Irten"]
 	},
 	thank_first_accept={
 		text=[
-			"Ai, albiste zoragarria!\nNire pentsamenduak zoragarri joango dira\nZure laguntza eskertzen da",
+			"Oh, albiste zoragarria!\nNire pentsamenduak zoragarri ibiliko dira\nZure laguntza eskertzen da",
 		],
 	},
-	# NOTE - "emozioa" field is used for game logic.
+	# NOTE - "emotion" field is used for game logic.
 	# Do not translate the emotion fields.
 	wait_first_item={
-		text=["Mesedez, galdetzen dizut\nTristuraz betetako objektu bat\nHorrek gogoa arinduko luke"],
-		emotion="begizta_tristea"
+		text=["Mesedez, galdetzen dizut\nTristuraz betetako objektu bat\nHorrek adimena arinduko luke"],
+		emotion="sad_loop"
 	},
 	has_first_item={
 		text=["Nigana itzultzen zara\nInspirazio handia sentitzen dut\nTristurak inguratzen zaitu"],
-		emotion="begizta_tristea",
+		emotion="sad_loop",
 		prompt="Woleh",
 		answers=["Ezkontza eraztuna eman", "Irten"]
 	},
 	thanks_first_item={
 		text=[
-			"Zuk ematen duzun objektu honek\nLarritasuna, tristura eta min asko ditu\nSeguran gordeko dut",
-			"Bere iragana ikusten dut\nDaran dituen oroitzapenak\nInspiratzen naute",
-			"Baina kostuekin datoz\nEgindako akatsak ikusten ditut\nHaserrez betetzen naute",
-			"Hala ere, ez dago punturik\nIragana ezin da auzitan jarri\nItsatsita nagoela dirudi",
+			"Zuk ematen duzun objektu honek\nLarritasuna, tristura eta min asko ditu\nLeku seguru batean gordeko dut",
+			"Bere iragana ikusten dut\nDaraman oroitzapenak\nInspiratzen naute",
+			"Baina kontran\nEgindako akatsak ikusten ditut\nHaserrez betetzen naute",
+			"Hala ere, ez dago punturik\nIragana ezin da auzitan jarri\nTrabatuta nagoela dirudi",
 		],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 	},
 	wait_second_item={
-		text=["Berriro galduta nago\nOrain haserrea lagun duela\nNeure bidea aurkitu behar dut"],
-		emotion="haserre_begizta",
+		text=["Berriro galduta\nOrain haserrea lagun dudala\nNeure bidea aurkitu behar dut"],
+		emotion="angry_loop",
 	},
 	has_second_item={
 		text=[
-			"Nire haserrea hazten da oraindik\nHala ere, ez dut ulertzen\nZergatik sentitzen naiz horrela?",
-			"Eusten ari zaren objektu hori\nUste dut ikasten lagun dezakeela\nEmango al zenidake?"
+			"Nire haserrea oraindik hazten dabil\nHala ere, ez dut ulertzen\nZergatik sentitzen naiz horrela?",
+			"Eusten ari zaren objektu hori\nUste dut ikasten lagundu ahal didala\nEmango al zenidake?"
 		],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 		prompt="Woleh",
-		answers=["Eman lepoko parea", "Irten"]
+		answers=["Eman Lepoko Parea", "Irten"]
 	},
 	thanks_second_item={
 		text=[
-			"Orain ikusten dut\nEgiazko haserreak zer ekar dezakeen\nArruina eta etsipena",
-			"Guk ditugun [color=#fffab3]Biki Erregina[/color]\nHaien erregealdia hau erabiliz eraiki zen\nZergatik egingo zuten hau?"
+			"Orain ikusten dut\nEgiazko haserreak zer ekar dezakeena\nHondamendia eta etsipena",
+			"Dirugun [color=#fffab3]Biki Erregina[/color] hauek\nHaien erregealdia hau erabiliz eraiki zen\nZergatik egingo zuten hau?"
 		],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 	},
 	wait_third_item={
-		text=["Haserrea eta traizioa?\nEz al zitzaien batere maitasuna erakutsi?\nEz dakite zer den dibertigarria"],
-		emotion="begizta_tristea",
+		text=["Haserrea eta traizioa?\nEz al zitzaien maitasunik erakutsi?\nEz dakite zer den dibertimendua"],
+		emotion="sad_loop",
 	},
 	has_third_item={
-		text=["Nigana itzultzen zara\nPoza bihotzean eraman\nZer ekarri didazu?"],
-		emotion="begizta_tristea",
+		text=["Nigana itzultzen zara\nPoza bihotzean eramanaz\nZer ekarri didazu?"],
+		emotion="sad_loop",
 		prompt="Woleh",
-		answers=["Eman Girl Doll", "Irten"]
+		answers=["Girl Doll eman", "Irten"]
 	},
 	thanks_third_item={
 		text=[
-			"Eraman duzun panpina hau\nPoz eta gozamen handia dauka\nZoragarria da",
-			"Ikusten dut zure iragana\nEgun asko zorionak\nSoroetan jolasten",
-			"Hau al da faltan botatzen dutena?\nHau al da [color=#fffab3]Biki Erreginak[/color] behar dutena?\nPoza ezagutu beharra?",
+			"Daramazun panpin hau\nPoz eta gozamen handia dauka\nZoragarria da",
+			"Bere iragana ikusten dut\nEgun askotako zoriontasuna\nSoroetan jolasten",
+			"Honen falta al dute?\nHau al da [color=#fffab3]Biki Erreginak[/color] behar dutena?\nPoza ezagutu beharra?",
 			"Baina denbora hori joan da\nOrain tirano izaten jarraitzen dute\nBeren beharra alde batera utziz",
-			"Beraz, indartsua izan behar dut\nPoza ekarriko baitut ordez\nGorroto horren bidez borrokatuz",
+			"Beraz, indartsua izan behar dut\nPoza ekarriko baitut bueltan\nGorroto horren bidez borrokatuz",
 		],
-		emotion="pozik_loop",
+		emotion="happy_loop",
 	},
 	final={
-		text=["Lagun, eskerrak eman\nOrain helburu berri bat daukat-\nEta gure klubeko kide egin zara"],
-		emotion="pozik_loop",
+		text=["Lagun, utzidazu eskerrak ematen\nOrain helburu berri bat daukat-\nEta zu gure klubeko kide egin zara"],
+		emotion="happy_loop",
 	}
 },
 
@@ -2028,10 +2028,10 @@ Woleh={
 Greg={
 	first={
 		text=[
-			"Nire burmuinean uste dudan hitz batzuk txu egiten ari naiz\nZin egiten dut [color=#fffab3]Erregina bikiak[/color] erotu behar dela",
-			"Bai, arazo bat izan nuen [color=#fffab3]Bikiak[/color] eta haien erreinu\nBeraz, [color=#fffab3]Guardia[/color] atzean utzi nuen, orain ez naiz inoiz kateatuko.",
-			"Woleh-ek hartu ninduen, eszena utzi nuelako\nEsan nionak [color=#fffab3]Guardiak[/color] itxura txarra eman zien",
-			"Ez, ez zitzaien gustatu, probatu ninduten\nEzpata bat eztarrian, eta lantza bat bularrean..."
+			"Nire burmuinean uste dudan hitz batzuk botatzen ari naiz\nZin egiten dut [color=#fffab3]Erregina bikiak[/color] erotu behar direla",
+			"Bai, arazo bat izan nuen [color=#fffab3]Bikiak[/color] eta haien erreinuaz\nBeraz, [color=#fffab3]Guardia[/color] atzean utzi nuen, orain ez naiz inoiz kateatuko.",
+			"Woleh-ek hartu ninduen, eszena utzi nuelako\n[color=#fffab3]Guardiari[/color] esan nionak ez zitzaien gustatu",
+			"Ez, ez zitzaien gustatu, beraz probatu ninduten\nEzpata bat eztarrian, eta lantza bat bularrean..."
 		]
 	},
 	out_of_ideas={
@@ -2041,24 +2041,24 @@ Greg={
 		]
 	},
 	wait_second_item={
-		text=["Espero dut ez diezuela esan ez naizela errimatzen."]
+		text=["Espero dut ez diezuela esan ez naizela errimatzen ari."]
 	},
 	wait_third_item={
 		text=[
 			"Woleh nahiko haserre zegoen. Eskerrik asko lasaitzeagatik.",
 			"Uste nuen errima egiteari utzi nuelako izan zela.",
-			"Orain badakit ez zela horregatik izan... baina ez ninduzun txalotu, ezta?"
+			"Orain badakit ez zela horregatik izan... baina ez ninduzun salatu, ezta?"
 		]
 	},
 	final_rap={
 		text=[
-			"Nire ezpatarekin hiltzen ari naiz [color=#fffab3]Guardia[/color].\nBeraz, hobe duzu txarroa gelditzea.\nBeldurra emango dizut.\nMenderatzeko prestatzen ari naiz.",
-			"Eta ez, ez dut gezurrik esaten.\nTrolo hauek hiltzeko prest dauzkat.\nHitz egin eta hitz egin nahi dute.\nBaina ezin dira nire ezpataren aurka eutsi eta men egin.",
+			"Nire ezpatarekin [color=#fffab3]Guardia[/color] hiltzen ari naiz.\nBeraz, hobe duzu iruzurra gelditzea.\nHaiek beldurra izatea lortuko dut.\nMenderatzeko prestatzen ari naiz.",
+			"Eta ez, ez dut gezurrik esaten.\nTontolapiko hauek hiltzeko prest dauzkat.\nHitz egitea bakarrik nahi dute.\nBaina ezin dute nire ezpatari aurre eta men egin.",
 		]
 	},
 	final={
 		text=[
-			"...Izugarri gorroto dut [color=#fffab3]Guardia.[/color] Haientzat lan egitea txundituta dago.",
+			"...Izugarri gorroto dut [color=#fffab3]Guardia[/color]. Haientzat lan egitea gogaikarria da.",
 			"Poesia Kluba askoz hobea da. Ordainketa izan ezik...",
 			"Baina orain kide berria zaitugu!"
 		]
@@ -2067,26 +2067,26 @@ Greg={
 		"Aupa!",
 		"Zer da?",
 		"Lasai, lagun!",
-		"Arazoak nahi dituzu?",
+		"Arazoak nahi al dituzu?",
 	],
 },
 
 Broleh={
 	default={
 		text=[
-			"Oh! Ez zara [color=#B5CEFF]Eraiki[/color]. Zer da, [color=#B5CEFF]Forma[/color] ez da zure gauza?",
-			"Tira, mugitu behar nauzu, ezta?",
-			"Tira, nahiko alferra naiz, ikusten duzu. Zerbait egin beharko didazu trukean!",
-			"Bidaiatu [color=#8aff92]Beila[/color]. Bertan, [color=#77FFFF]basurde[/color] batzuk aurkituko dituzu.",
+			"Oh! Ez zara [color=#B5CEFF]Konstruktua[/color]. Zer da, [color=#B5CEFF]Forma[/color] ez al da zure gauza?",
+			"Tira, mugitzea behar duzu, ezta?",
+			"Tira, nahiko alferra naiz, ikusten duzu. Trukean zerbait egin beharko didazu!",
+			"Joan zaitez [color=#8aff92]Beilera[/color]. Bertan, [color=#77FFFF]basurde[/color] batzuk aurkituko dituzu.",
 			"Bildu niretzat [color=#77FFFF]45 Basurde-larruak[/color]. Ondoren, eraman itzazu...",
 			" Batera...",
 			"Aizu... badakizu zer? Ez dakit zergatik esaten dizudan hau egiteko. Zakarra izan zen nire partetik galdetzea.",
-			"Benetan ez luke korridore hau blokeatu behar lehenik.",
+			"Lehenik korridore hau ez zen blokeatuta egon behar.",
 		]
 	},
 	after_move={
 		text=[
-			"Ai, [color=#F5B5FF]gizon bat kapela puntadun[/color] ikusten baduzu...",
+			"Ai, [color=#F5B5FF]puntadun kapela duen gizon bat[/color] ikusten baduzu...",
 			"Lapurtu zidan. Hil ezazu."
 		],
 	},
@@ -2096,7 +2096,7 @@ Broleh={
 ChallengeMaster = {
 	greeting={
 		text=["Ai, lagun berri bat..."],
-		emotion="plazer_begizta",
+		emotion="pleasure_loop",
 	},
 	proposition={
 		text=["Jolastu nahi al duzu?",
@@ -2105,12 +2105,12 @@ ChallengeMaster = {
 		answers=["Bai", "Ez"],
 	},
 	explanation1={
-		text=["Hona hemen jokoa: gauzak egitera ausartzen zaitut..."],
-		emotion="plazer_begizta",
+		text=["Hona hemen jokoa: Gauzak egitera desafiatzen zaitut..."],
+		emotion="pleasure_loop",
 	},
 	explanation2={
 		text=["Egiten badituzu..."],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 	},
 	explanation3={
 		text=["Orduan sari bat jasoko duzu!", "Ulertzen al duzu?"],
@@ -2120,27 +2120,27 @@ ChallengeMaster = {
 	challenge0={
 		text=["Hona hemen zure lehen erronka:",
 		"Ikusi nahi zaitut [color=#77FFFF]Burning Spice[/color] jaten.",
-		"Tira, beti jaten dut!"
+		"Tira, sarri jaten dut!"
 		],
 	},
 	challenge1={
 		text=[
-		"Hee hee hee! Nola ezagutzen zenuten espezia, diru-zikorrak?",
+		"Kar kar kar! Nola ezagutzen zenuten espezia, diru-zale amorratu kabroi horrek?",
 		"Hona hemen zure hurrengo erronka:",
 		"Jo nazazu aurpegian [color=#77FFFF]espata[/color] batekin.",
 		"[color=#77FFFF]Ezpata[/color] oso arraroak dira, beraz, harrapatu beharko duzu...",
 		"Baina kalitatezko kanabera bat baduzu, denbora gutxian harrapatuko duzu.",
-		"Tira, egin!"
+		"Tira, eginzazu!"
 		],
 	},
 	no_more_challenges={
 		text=["Hmm, ba, pozik nago!",
 		"Eskerrik asko nirekin jolasteagatik."],
-		emotion="plazer_begizta",
+		emotion="pleasure_loop",
 	},
 	hit_exclamations = ["Ai!",
-		"Ai ene Jainkoa!",
-		"Hmm, ezinegon al gaude?",
+		"Ai ene Jainko fraka zabala!",
+		"Hmm, ipurterreak al gara?",
 		"Ez al dugu jolastu nahi?",
 	],
 },
@@ -2149,20 +2149,20 @@ ChallengeMaster = {
 # Do not translate the emotion fields.
 NoseCharacter = {
 	greeting={
-		text=["Hey, kaixo?"],
-		emotion="plazer_begizta",
+		text=["Aupa, kaixo?"],
+		emotion="pleasure_loop",
 	},
 	greeting2={
-		text=["Uf, nire sudurra oso betea dago..."],
-		emotion="haserre_begizta",
+		text=["Uf, nire sudurra itxita dago..."],
+		emotion="angry_loop",
 	},
 	has_spice={
 		text=[
-			"Woah, hori al da [color=#77FFFF]Burning Spice[/color] usaintzen dudana?",
-			"Izan al dezaket? Sudurra askatu nezake."
+			"Joño, zer ari naiz usaintzen? hori al da [color=#77FFFF]Burning Spice[/color]?",
+			"Emango al zenidake? Sudurra askatu nezake."
 		],
-		emotion="plazer_begizta",
-		prompt="Eman al didazu [color=#77FFFF]Burning Spice[/color]?",
+		emotion="pleasure_loop",
+		prompt="Eman al zenidake [color=#77FFFF]Burning Spice[/color]?",
 		answers=["Ez", "Bai"]
 	},
 	thanks1={
@@ -2170,76 +2170,76 @@ NoseCharacter = {
 			"Aupa, eskerrik asko!",
 			"*SNIIIIIIFF*",
 		],
-		emotion="plazer_begizta",
+		emotion="pleasure_loop",
 	},
 	thanks2={
 		text=[
-			"Aupa. Ai, oi...",
-			"Tira, eskerrik asko, sudurra ero bezala dabil.",
+			"Oh. Ah, AH...",
+			"Tira, eskerrik asko, sudurra tantaka dabil.",
 			"Hemendik irtengo naiz."
 		],
-		emotion="haserre_begizta",
+		emotion="angry_loop",
 	},
 	hit_exclamations = ["Uf!",
-		"Uhh, gelditu!",
+		"Uhh, geldi!",
 		"Uf!",
-		"Atsegin dut, gelditu!",
+		"Baina, geldi!",
 	],
 },
 
 GDBasement_Angelo = {
 	greeting={
 		text=["Aupa oh. Laguna, ez zaitut han ikusi.",
-		"Lanpetuegia nengoen nire eraztun dotore honi begira! Ez, ez duzu horrelako eraztun bat galdu nahi!",
-		"Lortu hau: eraztun hau jartzen baduzu, zure zentzumenak edo zerbait areagotzen ditu. Zure ezpatarekin gauzak desbideratzeko aukera ematen dizu!",
-		"Demagun [color=#fffab3]Guardiako[/color] batek gezi batekin tiro egin dizula. Itzuli besterik ez! Ez du jakingo zerk jo zuen.",
+		"Lanpetuegia nengoen nire eraztun dotore honi begira! Ez, ez duzu horrelako eraztunik galdu nahi!",
+		"Entzun: Eraztun hau jartzen baduzu, zure zentzumenak edo zerbait areagotzen ditu. Zure ezpatarekin gauzak desbideratzeko aukera ematen dizu!",
+		"Demagun [color=#fffab3]Guardiako[/color] batek gezi batekin tiro egin dizula. Ezpatarekin itzuli eta kitto! Ez du jakingo zerk jo duen.",
 		],
 	},
 	sell={
-		text=["Orduan, zer diozu? Eraztun baten edertasun hau erosi nahi al duzu, ezpatarekin jaurtigaiak desbideratu ahal izateko?",
-		"Entzun, objektu honek asko balio du, baina prest egongo nintzateke hortaz banatzeko... %s pieza hutsengatik.", # FORMAT: Ring price
+		text=["Orduan, zer diozu? Eraztun edert hau erosi nahi al duzu, ezpatarekin jaurtigaiak desbideratu ahal izateko?",
+		"Entzun, objektu honek asko balio du, baina prest egongo nintzateke saltzeko... %s pieza hutsengatik.", # FORMAT: Ring price
 		],
-		prompt="Erosi [color=#77FFFF]Saihesteko Eraztuna[/color] %s piezengatik?", # FORMAT: Ring price
+		prompt="Erosi [color=#77FFFF]Eraztun Saiheslaria[/color] %s piezengatik?", # FORMAT: Ring price
 		answers=["erosiko dut.", "Orain ez."]
 	},
-	too_poor={text=["Aupa, ni iruzur egiten saiatzen al zara, laguna? Diru hau ez da nahikoa! Itzuli poltsikoak beteta daudenean."]},
-	thanks={text=["Plazer bat da zurekin negozioak egitea!"]},
-	final={text=["Nire denda beste nonbait jarriko dut. Agian ikusiko zaitut."]},
+	too_poor={text=["Aupa, ni iruzur egiten saiatzen al zara, laguna? Diru hau ez da nahikoa! Itzuli poltsikoak beteta daukazunean."]},
+	thanks={text=["Plazerra da zurekin negozioak egitea!"]},
+	final={text=["Nire denda beste nonbait jarriko dut. Agian berriz ikusiko zaitut."]},
 	hit_exclamations = ["Oh!",
 		"Zertan ari zara?",
 		"Gelditu, edo ondorioak izango dira.",
-		"Haserretzen ari naiz, gizona.",
+		"Haserretzen ari naiz txo!",
 	],
 },
 
 TheVeil_Angelo = {
 	greeting={
 		text=[
-			"O! Begira nor den hemen, nire bezerorik onena!",
-			"Nola moldatu zinen eraztun horrekin? Tira, hemen daukadan berri honekin alderatuta, hori zaborra da.",
-			"Orain, ez izan lotsarik, baina badakit zikinkerian jaurtitzea gustatzen zaion ergela zarela. Horretan ez dago lotsarik.",
-			"Baina tira, zer gertatzen da distantzia luzean murgilduko bazenu? Beno, horixe da Angelorekin erosketak egiten dituzunean lortzen duzun abantaila."
+			"Oh! Begira nor den hemen, nire bezerorik kuttunena!",
+			"Nola moldatu zinen eraztun horrekin? Tira, hemen daukadan berri honekin alderatuta, hori zabor hutsa da.",
+			"Orain, ez lotsatu, badakit lokatzetan ibiltzea gustatzen zaion ergel horietakoa zarela eta. Horretan ez dago lotsarik.",
+			"Baina tira, zer gertatzen da distantzia luzean ibiliko bazina? Beno, horixe da Angelori erostean lortzen duzun abantaila."
 		],
 	},
 	sell={
-		text=["Orduan, zer diozu? Deabru madarikatu baten abiadurarekin murgildu nahi al duzu? Prezio egokiagatik, eraztun hau zurea da.",
-		"Hau goi mailako artisautza da, kostatuko zaizu... %s pieza.", # FORMAT: Ring price
+		text=["Orduan, zer diozu? Ziztu bizian mugitu nahi al duzu? Prezio egokiagatik, eraztun hau zurea da.",
+		"Hau goi mailako artisautza da, %s pieza kostatuko zaizu.", # FORMAT: Ring price
 		],
-		prompt="Erosi [color=#77FFFF]Flip Ring Handitu[/color] %s piezengatik?", # FORMAT: Ring price
-		answers=["erosiko dut.", "Oraintxe ez."]
+		prompt="[color=#77FFFF]Iraulketa Eraztun Handitua[/color] %s piezengatik erosi?", # FORMAT: Ring price
+		answers=["Erosiko dut.", "Orain Ez."]
 	},
-	too_poor={text=["Aizu lagun, badakit ez dela merkea, baina hemen bizi behar dut. Itzuli diru pixka batekin."]},
-	thanks={text=["Gozatu, eta aizu, ez ezazu burua jo! Jeje jejeje."]},
+	too_poor={text=["Aizu lagun, badakit ez dela merkea, baina honekin bizi aurrera atera behar dut. Itzuli diru pixka batekin."]},
+	thanks={text=["Gozatu, eta aizu, kontuz burua jo gabe! Karkar karkarkar."]},
 	angry={text=[
 		"Psh, zu berriro.",
-		"Desagertu, edo hau azken aldian bezala amaituko da, mutil.",
-		"Bai, entzun nauzu. Zoaz pikutara, motza.",
+		"Desagertu, edo hau azken aldian bezala amaituko duzu, txo.",
+		"Bai, entzun nauzu. Zoaz pikutara, ipotx halakoa.",
 	]},
-	final={text=["Tira, [color=#8aff92]Beilean[/color] nire aukerak amaitu dira. Agian beste nonbait ikusiko zaitut."]},
+	final={text=["Tira, [color=#8aff92]Beilean[/color] nire aukerak amaitu dira. Agian beste nonbait ikusiko dugu elkar."]},
 	hit_exclamations = ["Oh!",
 		"Zertan ari zara?",
 		"Gelditu, edo ondorioak izango dira.",
-		"Haserretzen ari naiz, gizona.",
+		"Haserretzen ari naiz, txo.",
 	],
 },
 
@@ -2248,14 +2248,14 @@ GDWest_Sacha = {
 		text=["Ai! Jules, azkenean itzuli zara! Oso pozik nago zu ikusteaz.",
 		"Belarra kontrolik gabe hazten ari da, eta ez ditut nire tresnak aurkitzen.",
 		"Erotu egiten nau... Kanpora ateratzen naizen bakoitzean belarra inoiz baino luzeagoa da.",
-		"Jules, moztu belarra mesedez.",
+		"Jules, belarra moztu mesedez.",
 		],
 		prompt="",
-		answers=["Ez naiz Jules", "belarra moztuko dut"]
+		answers=["Ez naiz Jules", "Belarra moztuko dut"]
 	},
 	greeting_cut_already={
 		text=["Ai! Jules, azkenean itzuli zara. Oso pozik nago zu ikusteaz.",
-		"Belarra kontrolik gabe hazten ari da eta ez ditut nire tresnak aurkitzen.",
+		"Belarra kontrolik gabe hazten ari da, eta ez ditut nire tresnak aurkitzen.",
 		"Erotu egiten nau... Kanpora ateratzen naizen bakoitzean belarra inoiz baino luzeagoa da.",
 		"Jules, moztu belarra mesedez.",
 		],
@@ -2263,7 +2263,7 @@ GDWest_Sacha = {
 		answers=["Ez naiz Jules", "Dagoeneko belarra moztu dut."]
 	},
 	not_jules_response={
-		text=["Ondo jokatu, Jules. Badakit zu zarela. Azkenean itzuli zara eta belarra moztu behar duzu!",
+		text=["Ondo egina, Jules. Badakit zu zarela. Azkenean itzuli zara eta belarra moztu behar duzu!",
 		],
 	},
 	waiting_for_cut={
@@ -2273,20 +2273,20 @@ GDWest_Sacha = {
 	},
 	thanks={
 		text=["Eskerrik asko, Jules! Orain, esaidazu. [color=#fffab3]Guardiak[/color] arrakasta izan al zuen?",
-		"Lortu al dute [color=#77FFFF]URA[/color] zure izpirituan sartzea?",],
+		"Lortu al dute [color=#77FFFF]URA[/color] zure ariman sartzea?",],
 		prompt="",
 		answers=["Ez dut ezer esaten"]
 	},
 	its_fine={
-		text=["Ondo dago horretaz hitz egin nahi ez baduzu, Jules.",
-		"Lan horren guztiaren ondoren gose izan behar duzu, hartu hau."],
+		text=["Ondo dago, horretaz hitz egin nahi ez baduzu, Jules.",
+		"Lan horren guztiaren ondoren gose izan behar zara, hartu hau."],
 	},
 	final={
 		text=["Ez al zuten esan esperimentuek altuago egingo zintuztela?"]
 	},
-	hit_exclamations = ["Aupa! Jules, kontuz.",
-		"Jules, gelditu!",
-		"Erotu zara?",
+	hit_exclamations = ["Aupa! Jules, kontuz ibili.",
+		"Jules, geldi!",
+		"Erotu al zara?",
 		"Gelditu berehala!",
 		],
 },
@@ -2299,18 +2299,18 @@ TollOperator = {
 	},
 	didnt_pay={
 		text=[
-			"Ezin dut sinetsi. Itzuli piezak dituzunean.",
-			"Gogoratu, bidesaria hau zure segurtasunerako dela."
+			"Ezin dut sinetsi. Piezak dituzunean itzuli.",
+			"Gogoratu, bidesari hau zure segurtasunerako dela."
 		]
 	},
 	go_ahead={
-		text=["Aurrera, bada. Jajaja."],
+		text=["Aurrera, bada. Karkarkar."],
 	},
 	come_here={
 		text=["Zatoz hona! Zurekin hitz egin behar dut."],
 	},
-	hit_exclamations = ["Aupa, nire lana egiten ari naiz!",
-		"Zerbait hasten saiatzen al zara?",
+	hit_exclamations = ["Aupa, nire lana egiten ari naiz, besterik ez!",
+		"Zerbait hasten saiatzen ari al zara?",
 		"Burua galdu al duzu?",
 		"Gelditu berehala!",
 		],
@@ -2318,25 +2318,25 @@ TollOperator = {
 
 TollGuard = {
 	default={
-		text=["Hitz egin, eh... ordainpeko operadorearekin.", "Badakizu, mahaiaren atzean dagoen tipoa."],
+		text=["Berarekin hitz egin, eh... bidesari operadorearekin.", "Badakizu, mahaiaren atzean dagoen tipoa."],
 	},
 },
 
 HookBossFightStartNPC = {
 	default={
 		text=["ZU BERRIZ!",
-		"Orduan, kondenatua itzultzen da.",
-		"Gure Zaldunak hain ezgaitu al dira zu berriro sartzen uzteko?",
-		"Nik neuk ezabatu beharko zaitut.",
+		"Orduan, gatazka itzuli da.",
+		"Gure Zaldunak hain tontolapikoak al dira zu berriro sartzen uzteko?",
+		"Nik neuk suntsitu beharko zaitut.",
 		],
 	},
 },
 
 VarkaFightStartNPC = {
 	default={
-		text=["Hurbiltzen al zara, nire gotorlekua suntsitu ondoren?",
+		text=["Bueltan al zatoz, nire gotorlekua suntsitu ondoren?",
 		"Nire gizonak ausart borrokatu dira...\nBaina ni naiz haien artean indartsuena!",
-		"HA-HA! Aurpegi iezadazu orain!",
+		"KAR-KAR! Jarki orain!",
 		"Izan zaitez benetako [color=#8aff92]Velaren Zaldunaren[/color] lekuko!",
 		],
 	},
@@ -2345,11 +2345,11 @@ VarkaFightStartNPC = {
 VarkaFightEndNPC = {
 	default={
 		text=[
-			"Ja-ja... Ai, [color=#8aff92]Kandela...[/color]",
-			"Aspaldi ez da nire Dama izan.\nTenplu zaharrean ezkutatuta aurkitu nuen.",
+			"Kar-kar... Ai, [color=#8aff92]Vela...[/color]",
+			"Denbora luzez ez dela nire Dama izan.\nTenplu zaharrean ezkutatuta aurkitu nuen.",
 			"Nik neuk zigilatu nuen tenplua, haren haserrea eusteko asmoz.",
 			"Traizio bat? Agian. Baina, arraroa... Zigilatua uzteko eskatzen dizut.",
-			"Agian ez naiz gotorleku honetan indartsuena izango, baina nire borrokarik gogorrenak daude aurretik.",
+			"Agian ez naiz gotorleku honetako indartsuena, baina nire gerlaririk gogorrenak daude aurretik.",
 		]
 	}
 },
@@ -2357,12 +2357,12 @@ VarkaFightEndNPC = {
 KrusFightStartNPC = {
 	default={
 		text=[
-			"Orain zer da hau? Bere txakur leialetako bat, hildako jainkosen oinetara arakatzera dator?",
-			"Edo mendeku bila etorri zinen, NIRE tronutik botatzera?",
+			"Baina, zer da hau? Bere txakur leialetako bat, hildako jainkosen oinetara arrastaka datorrena?",
+			"Edo mendeku bila etorri zara, NIRE tronutik botatzera?",
 			"Begira nazazu. Armadak izutzeko erabiltzen zuten ukabila nintzen. Ni nintzen erreinuak erretzeko erabiltzen zuten txinparta!",
-			"[color=#77FFFF]Betiereko Jainkoak[/color] edo ez, [color=#fffab3]Erreginak[/color] gainontzekoek bezala odolustu zuten.",
-			"Haien aurpegiak ikusi beharko zenituzke beren zerbitzari leiala konturatu zirenean...",
-			"...mundu honetara zuzendutako [color=#ff4c42]Usurpatzailea[/color] zen.",
+			"[color=#77FFFF]Betiereko Jainkoak[/color] edo ez, [color=#fffab3]Erreginak[/color] gainontzekoek bezala odolustu ziren.",
+			"Zelako aurpegia jarri zuten haien zerbitzari leiala...",
+			"...mundu honetara zuzendutako [color=#ff4c42]Usurpatzailea[/color] zela jakin zutenean.",
 		],
 	},
 },
@@ -2370,8 +2370,8 @@ KrusFightStartNPC = {
 KrusFightEndNPC = {
 	default={
 		text=[
-		"...zer? Baina...",
-		"Ez al nintzen...?",
+		"...Zer? Baina...",
+		"Ez al nintzen ba...?",
 		],
 	},
 },
@@ -2381,7 +2381,7 @@ EliasFightStartNPC = {
 		text=[
 		"...",
 		"Zergatik zatoz hona, une honetan?",
-		"Ez al duzu ikusten? Jada ez naiz gerrarako ahalegintzen.",
+		"Ez al duzu ikusten? Jada ez dut gudarako ahaleginik egiten.",
 		"Ezin dira babestu, baina oraindik zaintzen ditut.",
 		"Ez nazazu behartu zutaz berdin zaintzera.",
 		],
@@ -2401,7 +2401,7 @@ EliasFightEndNPC={
 			"Zure [color=#ff4c42]Usurpatzailea[/color] nire aurrean dago.",
 			"...",
 			"[color=#77FFFF]Gazteriaren Iturria[/color] benetan madarikazio bat baino ez da.",
-			"Mesedez, beste [color=#77FFFF]Betiereko jainkoak[/color] askatu behar duzu madarikazio honetatik.",
+			"Mesedez, beste [color=#77FFFF]Betiereko jainkoak[/color] askatu behar dituzu madarikazio honetatik.",
 		]
 	},
 	vela={
@@ -2416,12 +2416,12 @@ EliasFightEndNPC={
 	},
 	rhamos={
 		text=[
-			"Eta zurrumurrua dago beste bat, niretzat ezezaguna.",
+			"Eta zurrumurrua dago beste bat dagoela, niretzat ezezaguna dena.",
 		]
 	},
 	end={
 		text=[
-			"Nire familiari dagokionez... Orain zuek bakarrik zaintzen gaituzte."
+			"Gure familiari dagokionez... Orain zuk bakarrik zaintzen gaituzu."
 		]
 	}
 },
@@ -2431,7 +2431,7 @@ RhamosFightStartNPC = {
 		text=[
 			"Ai, zure [color=#B5CEFF]Forma[/color] hori...",
 			"Emaidazu.",
-			"Jainkoak hiltzeko [color=#B5CEFF]Modua[/color] delako."
+			"Jainkoak hiltzeko [color=#B5CEFF]Forma[/color] delako."
 		],
 	},
 	phase2={
@@ -2447,14 +2447,14 @@ VelaFightStartNPC = {
 	first={
 		text=[
 			"Garai bat pasatu dela sentitzen dut.",
-			"Hala ere, nire arima berriro erretzen zait.",
+			"Hala ere, nire arima berriro erretzen dabil.",
 			"Eman dena. Honetaz gozatzea bilatzen ari naiz."
 		],
 	},
 	phase2={
 		text=[
 			"Ia ahaztuta neukan.",
-			"Lainoa piztu duzu. Sarraskiak oroimena gainezka egiten du beste behin.",
+			"Lainoa paretik kendu duzu. Sarraskiak oroimena gainezka egiten du beste behin.",
 			"Ez duzu hain erraz hartuko [color=#8aff92]Txapeldun[/color] titulua.",
 		]
 	},
@@ -2462,42 +2462,42 @@ VelaFightStartNPC = {
 AmtarrFightStartNPC = {
 	default={
 		text=[
-			"[color=#ff4c42]Usurpatzailearen papera egiten duzu?[/color] ",
+			"[color=#ff4c42]Usurpatzailearen papera egiten zabilz?[/color] ",
 			"[color=#ff4c42]Gazteriaren iturria zurea izan liteke.[/color] ",
-			"[color=#ff4c42]Hala ere, ezin dizut oraingoan zure esku utzi.[/color] ",
+			"[color=#ff4c42]Hala ere, oraingoan ezin dizut eman.[/color] ",
 			"[color=#ff4c42]Jainkotasuna bada bilatzen duzuna, frogatu zure balioa.[/color] ",
 		],
 	},
 	puddle1={
 		text=[
-			"[color=#ff4c42]Denbora honen guztiaren ostean, beste uretatik edango al du?[/color] ",
+			"[color=#ff4c42]Denbora honen guztiaren ostean, besteren batek uretatik edango al du?[/color] ",
 			"[color=#ff4c42]Horrela da gizateriaren patua.[/color] ",
 		],
 	},
 	puddle2={
 		text=[
-			"[color=#ff4c42]Bik edan zituzten urak gobernatzeko, baina menpeko baten menpe.[/color] ",
-			"[color=#ff4c42]Beste batek matxinatzeko edan zuen, baina altxor zuen guztia galdu zuen.[/color] ",
+			"[color=#ff4c42]Bik urak gobernatzeko edan zituzten, baina menpeko baten esku geratu ziren.[/color] ",
+			"[color=#ff4c42]Beste batek matxinatzeko edan zuen, baina zuen guztia galdu zuen.[/color] ",
 			"[color=#ff4c42]Hori al da nik emandako opariarekin lor dezakezun guztia?[/color] ",
 		],
 	},
 	puddle3={
 		text=[
-			"[color=#ff4c42]Txapeldun bat hurbildu eta aintzarako edan zuen.[/color] ",
+			"[color=#ff4c42]Txapeldun bat hurbildu eta handitasunagatik edan zuen.[/color] ",
 			"[color=#ff4c42]Eta zer gertatu zen indar horrekin?[/color]",
 		],
 	},
 	puddle4={
 		text=[
-			"[color=#ff4c42]Azkenak lortu ezin den helburu baten bila edan zuen.[/color] ",
+			"[color=#ff4c42]Azkenak lortezina den helburu bat bilatzeko edan zuen.[/color] ",
 			"[color=#ff4c42]Guregandik jaio zinen, baina benetako Jainkotasuna oraindik ezezaguna da gizadiarentzat.[/color] ",
 		],
 	},
 	puddle5={
 		text=[
-			"[color=#ff4c42]Baina zu ez zara haiek bezala ahula.[/color] ",
-			"[color=#ff4c42]Profezitik moldatutako gizakia...[/color] ",
-			"[color=#ff4c42]Zuk[/color] [color=#77FFFF]edan,[/color] [color=#ff4c42]eta igo.[/color] ",
+			"[color=#ff4c42]Baina zu ez zara haiek bezalako ahula.[/color] ",
+			"[color=#ff4c42]Profeziatik moldatutako gizakia...[/color] ",
+			"[color=#ff4c42]Zuk[/color] [color=#77FFFF]edan,[/color] eta [color=#ff4c42]egin gora[/color]. ",
 		],
 	},
 },
@@ -2512,31 +2512,31 @@ FairyRing = {
 		text=["Zergatik komunikatzen zara?"],
 		prompt="Erantzun Maitagarrien Eraztunari",
 		answers=[
-			"Bizitzarako",
-			"beroagatik",
-			"Eskaerarako",
-			"heriotzagatik",
+			"Bizitzagatik",
+			"Beroagatik",
+			"Aginduagatik",
+			"Heriotzagatik",
 		]
 	},
 	already_here={
-		text=["Zuk duzuna nahi duzu."],
+		text=["Duzuna desiratzen duzu."],
 	}
 },
 
 SecretEyeNPC = {
 	stare={
 			text=[
-				"Begietara begiratzen duzu...",
+				"Begira so egiten duzu...",
 			],
 	},
 	no_result={
 			text=[
-				"Adierazi zure bizitza merezigabea.",
+				"Adierazi zure merezigabeko bizitza.",
 			],
 	},
 	worthy={
 			text=[
-				"Adierazi zure bizitza merezi bezala.",
+				"Adierazi zure bizitza merezi duzun bezala.",
 			],
 	},
 },
@@ -2544,22 +2544,22 @@ SecretEyeNPC = {
 TurtleEnthusiast = {
 	greeting={
 			text=[
-				"Azkenik, adarrik hazten ez duen norbait!",
+				"Azkenik, adarrik hazten ez daukan norbait!",
 				"Gaitz honek benetan oztopatzen du jende hauen jolasteko gogoa.",
 				"Horretaz hitz egitean, diru pixka bat irabazi nahiko lukeen norbaiten antza duzu!",
-				"Zure aurrean benetako [color=#8aff92]Turtle Race[/color] pista dago.",
-				"Dortokaren abiadura begia baduzu, ziurrenik zure apustua hirukoiztu egingo duzu! Orduan, zer diozu?",
+				"Zure aurrean benetako [color=#8aff92]Dortoka Lasterketa[/color] pista dago.",
+				"Dortokaren abiadura ezagutzen baduzu, ziurrenik zure apustua hirukoiztu egingo duzula! Orduan, zer diozu?",
 			],
 	},
 	race_prompt={
 			text=[
-				"Dortoka batzuk lasterketa egin nahi dituzu?",
+				"Dortoka batzuen lasterketa egin nahi al duzu?",
 			],
 			prompt="Hasi [color=#8aff92]Dortoka Lasterketa[/color]?",
 			answers=["Bai", "Ez"]
 	},
 	select_bet_prompt="Aukeratu zure apustua",
-	bet_amount="%s piezak", # FORMAT: money to bet
+	bet_amount="%s pieza", # FORMAT: money to bet
 	nevermind="Berdin du",
 	not_enough="Ez daukat nahikoa diru",
 	select_turtle={
@@ -2574,13 +2574,13 @@ TurtleEnthusiast = {
 	},
 	house_won={
 		text=[
-			"Zorte hobea hurrengoan, tontoa. Jajaja.",
+			"Zorte hobea hurrengoan, tontolapiko halakoa. Karkarkar.",
 		],
 	},
 	hit_exclamations = [
 		"Ah!",
-		"Burua galdu al duzu?!",
-		"Gelditu!",
+		"Zoratu al zara?!",
+		"Geldi!",
 		"Gelditu orain!",
 	]
 },
@@ -2598,24 +2598,24 @@ TouchWaterfallNPC = {
 	},
 	open={
 			text=[
-				"Eskuak ura ukitu baino lehen, eta zure presentziari erreakzionatzen dio.",
+				"Eskuak ura ukitu baino lehen, honek zure presentziari erreakzionatzen dio.",
 			],
 	},
 },
 
 AmtarrAltar = {
 	pray={
-		text=["Aldare bat [color=#ff4c42]Amtarr[/color], Gogamenaren jainkoa."],
-		prompt="Otoitz egin [color=#ff4c42]Amtarr[/color] eta bete [color=#77FFFF]URA[/color]?",
+		text=["Aldare bat [color=#ff4c42]Amtarr[/color], Adimenaren jainkoa."],
+		prompt="Otoitz egin [color=#ff4c42]Amtarr[/color] eta [color=#77FFFF]URA[/color] bete?",
 		answers=["Bai", "Ez"]
 	},
 },
 
 FountainOfYouthNPC = {
 	default={
-		text=["[color=#77FFFF]Gazteriaren Iturri[/color] edan?"],
+		text=["[color=#77FFFF]Gazteriaren Iturrian[/color] edan?"],
 		prompt="Gazteen Iturritik edan?",
-		answers=["atzera", "[color=#77FFFF]Edan[/color]"]
+		answers=["Atzera", "[color=#77FFFF]Edan[/color]"]
 	},
 },
 
@@ -2624,15 +2624,15 @@ FountainOfYouthNPC = {
 ##########################
 
 AugustusAwaySign=[
-	"[center]Gai bat eztabaidatzeko baduzu, zatoz nire ikasketara [color=#fffab3]Guard Domain.[/color]\n\n- Augustus[/center]"
+	"[center]Gai bat eztabaidatzeko baduzu, zatoz nire estudiora [color=#fffab3]Guard Domain.[/color]\n\n- Augustus[/center]"
 ],
 
 AugustusGoneSign=[
-	"[center]Barkatu. Eztabaidatzeko gai bat bazenuen, berandu da. Lur hau arriskutsuegia bihurtu da eta betiko alde egin dut.\n\n- Augusto[/center]"
+	"[center]Barkatu. Eztabaidatzeko gai bat bazenuen, berandu da. Lur hau arriskutsuegia bihurtu da, eta betiko alde egin dut.\n\n- Augusto[/center]"
 ],
 
 HavokSign=[
-	"[center]\nEta azkenean, berriro egingo nuke.[/center]"
+	"[center]\nEta azkenean, berriro dena egingo nuke.[/center]"
 ],
 
 DamoclesSign=[
@@ -2640,7 +2640,7 @@ DamoclesSign=[
 ],
 
 CometSign=[
-	"[center]\nKota[/center]"
+	"[center]\nKometa[/center]"
 ],
 
 DemonSign=[
@@ -2648,15 +2648,15 @@ DemonSign=[
 ],
 
 AmberSign=[
-	"[center]Anbarra enbor erraldoi batetik\n\nEz mozkatu.[/center]"
+	"[center]Enbor erraldoi baten Anbarra\n\nEz hozkatu.[/center]"
 ],
 
 WinstonSign=[
-	"[center]Winston Wolfe\n\nNire gairik maiteena[/center]"
+	"[center]Winston Wolfe\n\nNire pertsonarik maitatuena[/center]"
 ],
 
 ShapeFoxSign=[
-	"[center][color=#B5CEFF]Azeria Forma[/color]\n\nGure sorkuntza onenen artean[/center]"
+	"[center][color=#B5CEFF]Azeriaren Forma[/color]\n\nGure sorkuntza onenen artean[/center]"
 ],
 
 VelaBlockerSign=[
@@ -2664,7 +2664,7 @@ VelaBlockerSign=[
 ],
 
 SunSign=[
-	"[center]\nBetiko ilunabarraren azpian, harrizko eguzkiaren begiradak ezkutuko egia bat erakusten du itzalek uzten dutenean.[/center]"
+	"[center]\nBetiko ilunabarraren azpian, harrizko eguzkiaren begiradak ezkutuko egia bat erakusten du itzalek uzten diotenean.[/center]"
 ],
 
 MoonSign=[
@@ -2672,12 +2672,12 @@ MoonSign=[
 ],
 
 DemoThanksSign = [ 
-	"[center]Eskerrik asko [color=#77FFFF]ITURRIAK[/color] maketa jotzeagatik!\n\nOrain bi buruzagi garaitu dituzue demoan, baina oraindik asko dago aztertzeko.[/center]",
-	"[center]Demoa gustatu bazaizu [color=#77FFFF]ITURRIAK[/color], mesedez, kontuan hartu bertsio osoa garatzen laguntzea!\nMenu nagusian jokoaren [color=#1d9bf0]TWITTER[/color] esteka aurki dezakezu.[/center]"
+	"[center]Eskerrik asko [color=#77FFFF]FOUNTAINS[/color] DEMOA jotzeagatik!\n\nBi buruzagi garaitu dituzu, baina oraindik asko dago aztertzeko.[/center]",
+	"[center][color=#77FFFF]FOUNTAINS[/color] Demoa gustatu bazaizu, mesedez, kontuan hartu bertsio osoa garatzen laguntzea!\nMenu nagusian jokoaren [color=#1d9bf0]TWITTER[/color] estekan aurki gaitzakezu.[/center]"
 ],
 
 KrusStatueSign = [
-	"[center]\nKRUS OROKORRA\n\n355 - [/center]"
+	"[center]\nKRUS GENERALA\n\n355 - [/center]"
 ],
 
 HoPSign1 = [
@@ -2685,43 +2685,43 @@ HoPSign1 = [
 ],
 
 HoPSign2 = [
-	"[center]Gizadiak [color=#77FFFF]Gazteriaren Iturriarekin topo egin zuen,[/color] jada jainkoen oparitzat edo madarikaziotzat hartzen zen. Bertan idatzita zegoen abisua:\n[color=#77FFFF]Gazteen Iturritik edaten duena sekula aldatzera kondenatuta dago.[/color][/center]"
+	"[center]Gizadiak [color=#77FFFF]Gazteriaren Iturriarekin[/color] topo egin zuen, jada jainkoen oparitzat edo madarikaziotzat hartzen zen. Bertan idatzita zegoen abisua:\n[color=#77FFFF]Gazteen Iturritik edaten duena sekula ez aldatzera kondenatuta dago.[/color][/center]"
 ],
 
 HoPSign3 = [
-	"[center]Batzuek ez zioten abisuari kasurik egin. Edanez, [color=#77FFFF]Deporigabe[/color] berri hauek boterea lortu zuten sinesteko. Tiraniko bihurtu ziren eta kaosa ekarri zuten Erreinu Batera.[/center]"
+	"[center]Batzuek ez zioten abisuari kasurik egin. Edanez, [color=#77FFFF]Betiereko Jainko[/color] berri hauek boterea sinestezina lortu zuten. Tirano hutsak bihurtu ziren eta kaosa ekarri zuten Erreinu Bakarrera.[/center]"
 ],
 
 HoPSign4 = [
-	"[center]\n[color=#fffab3]Guardia Justua[/color] Erresuma Bakarraren hondakinetatik sortu zen, [color=#77FFFF]Betiereko Jainkoak[/color] eta haien jarraitzaileak ausart erbesteratu zituen.[/center]"
+	"[center]\n[color=#fffab3]Guardia Justua[/color] Erreinu Bakarraren hondakinetatik sortu zen, [color=#77FFFF]Betiereko Jainkoak[/color] eta haien jarraitzaileak ausart erbesteratu zituzten.[/center]"
 ],
 
 HoPSign5 = [
-	"[center][color=#77FFFF]Iturria[/color] ezkutatuta zegoen.\nHala ere, [color=#ff4c42]Usurpatzaileak[/color] zitalak, [color=#77FFFF]Betiereko Jainkoak[/color] hiltzen ditu, eta berriz aurkituko du.[/center]"
+	"[center][color=#77FFFF]Iturria[/color] ezkutatu zuten.\nHala ere, [color=#ff4c42]Usurpatzaile[/color] zitalak, [color=#77FFFF]Betiereko Jainko[/color] bakoitza hil, eta berriz aurkitzeko zuzenduta dago.[/center]"
 ],
 
-FishShopSign = [ "[center]\nFregrinden Arrantza Denda\nHorrela[/center]" ],
+FishShopSign = [ "[center]\nFregrinden Arrantza Denda\nHemendik[/center]" ],
 
 KholoChurchSign1 = [
 	"\n[center][color=#8a8eff]Berak[/color] mugatu dezala [color=#8aff92]Velaren[/color] eragina gure aberritik[/center]."
 ],
 
 KholoChurchSign2 = [
-	"\n[center]Laudorioa izan [color=#8a8eff]Kholo, Arimaren jainkoa[/color]; gizateriari borondate askea eman zion[/center]"
+	"\n[center]Goraipatua bedi [color=#8a8eff]Kholo, Arimaren jainkoa[/color]; gizateriari borondate askea eman ziona[/center]"
 ],
 
-ChurchWarningSign = [ "\n[center]ARRISKUA\nGehiegizko eliza[/center]" ],
-BetaTestHQSign = [ "\n[center]Beta Testing Office\n\nARRISKULUA: Eduki ez-kanonikoak izan ditzake![/center]" ],
+ChurchWarningSign = [ "\n[center]ARRISKUA\nGainhazitako Eliza[/center]" ],
+BetaTestHQSign = [ "\n[center]Proben Bulegoa\n\nARRISKULUA: Eduki ez-kanonikoak izan ditzake![/center]" ],
 BetaTestExplanationSign = [
-	"Ongi etorri [color=#77FFFF]FOUNTAINS-en lehen beta probara![/color]",
-	"Jolastu ez badakizu, mesedez deskargatu FUNTAINS demoa eta erreproduzitu tutoriala bertan.",
-	"Beta proba honen helburu nagusia [color=#77FFFF]Jokalarien Mezularitza Sistema probatzea da.[/color]",
+	"Ongi etorri [color=#77FFFF]FOUNTAINS[/color]-en lehen beta probara!",
+	"Ez badakizu nola jolastu, mesedez deskargatu FOUNTAINS demoa eta tutoriala egin.",
+	"Beta proba honen helburu nagusia [color=#77FFFF]Jokalarien Mezularitza Sistema[/color] probatzea da.",
 	"Mesedez, utzi mezu asko zure beta probalariei. Mezuak utz ditzakezu 'Pausa' menua erabiliz.",
 	"Beta proba The Veil buruzagia hiltzen duzunean amaitzen da.",
 	"Bereziki lagungarria izan nahi baduzu, zure jokua graba dezakezu eta bideoa fountainsgame@gmail.com helbidera bidali.",
 	"Zure jokua grabatzea da jokoa hobetzen laguntzeko modurik onena.",
 	"Azkenik, lasai jarri beta probaren pantaila-argazkiak edo grabaketak nahi duzun lekuan. Gainera, ezin dizut jokoa beste pertsona batzuei bidaltzea eragotzi, beraz, hori ere egin dezakezula uste dut.",
-	"Eskerrik asko [color=#77FFFF]ITURRIAK[/color] jolas hobea izaten laguntzeagatik! Gozatu beta probaz!"	
+	"Eskerrik asko [color=#77FFFF]FOUNTAINS[/color] jolas hobea izaten laguntzeagatik! Gozatu beta probaz!"	
 ],
 DBBetaDirections = [
 	"[color=#FFBD33]Lehorra[/color] eskaileretan gora eta ekialdean dago."
@@ -2732,7 +2732,7 @@ BetaTestGiftSign = [ "\n[center]Mesedez, hartu elementu hauek, beta probaren esk
 # Do not translate the SeahorseSign
 SeahorseSign = ["[center]\nforsen[/center]"],
 
-YsaeSign = ["[center]\nYsae, [color=#8aff92]Vela aderearen eskuineko eskua[/color]\n\n'Heriotza ahultasunean erosotasuna aurkitzen dutenei'[/center]"],
+YsaeSign = ["[center]\nYsae, [color=#8aff92]Vela Anderearen eskuineko eskua[/color]\n\n'Hil bedi ahultasunean erosotasuna aurkitzen dutenak'[/center]"],
 
 BrightKingSign = ["[center]\nMastikatu birritan irentsi aurretik[/center]"],
 
@@ -2746,10 +2746,10 @@ TwinQueensSign=[
 ],
 
 SoulHolderAdviceWhisperNPC=[
-	"Belarri berri bat isurtzen da aspaldi esandako xuxurlara...",
+	"Entzule berri bat isurtzen da aspaldi esandako xuxurletara...",
 	"...",
-	"Urak oihukatzen dituen [color=#77FFFF]ur-jauzien azpian[/color],",
-	"Giltza bat geratu zen, itzal sakonetan.",
+	"[color=#77FFFF]Urak oihukatzen dituen ur-jauzien[/color] azpian,",
+	"Giltza utzi zuten, itzal sakonetan.",
 	"Non behin haragizko harria moldatu nuen,",
 	"Indar eta gaztetasunaren bidea berritu zen.",
 	"Baina kontuan izan abisua, arima noraezean...",
@@ -2763,31 +2763,31 @@ SoulHolderAdviceWhisperNPC=[
 ##########################
 
 ImpPet = {
-	name = "Imp",
+	name = "Deabrutxoa",
 	talk = [
-		"Badirudi ez dela hitz egiteko gai.",
-		"Isilik jarraitzen du."
+		"Badirudi Deabrutxoa ez dela hitz egiteko gai.",
+		"Deabrutxoak isilik jarraitzen du."
 	],
 	pet = [
-		"Impari laztantzen saiatzen zara, baina bere azala beroegia da ukitzeko.",
+		"Deabrutxoa laztantzen saiatzen zara, baina bere azala beroegia da ukitzeko.",
 		"Eskua erretzen saiatzen al zara?"
 	],
 },
 
 GoldenGolemPet = {
-	name = "Urrezko Golem",
+	name = "Urrezko Golema",
 	talk = [
-		"Zure ahotsari erantzunez, engranajeen burrunba apur bat entzuten duzu golem barruan.",
-		"Mekanismoaren begia argitzen da zure ahotsari erantzunez."
+		"Zure ahotsari erantzunez, engranajeen burrunba apur bat entzuten duzu golemaren barruan.",
+		"Mekanismoaren begia pizten da zure ahotsari erantzunez."
 	],
 	pet = [
-		"Golemaren ertz zorrotzak ukimenean freskoak dira, baina burrunba atsegina igortzen du erantzunez.",
+		"Golemaren ertz zorrotzak ukitzean freskoak dirudite, baina burrunba atsegina igortzen du erantzunez.",
 		"Makina apur bat zure aldera makurtzen da laztantzen duzun bitartean."
 	],
 },
 
 DogPet = {
-	name = "txakurra",
+	name = "Txakurra",
 	talk = [
 		"Txakurrak ez dirudi hitz egin dezakeenik.",
 		"Txakurrari zerbait esaten entzun zenuela uste zenuen, baina zaunka bat besterik ez zen izan."
@@ -2795,18 +2795,18 @@ DogPet = {
 	pet = [
 		"Txakurrak buztana astintzen du.",
 		"Txakurrak are gehiago astintzen du buztana.",
-		"Txakurrak buztana astintzen du amorruz.",
+		"Txakurrak buztana amorruz astintzen du.",
 		"Txakurrak buztana astintzeari uztea erabakitzen du kontroletik kanpo geratu baino lehen.",
 	],
 },
 
 CatPet = {
-	name = "katua",
+	name = "Katua",
 	talk = [
-		"Katuak miau egiten dizu \"Ezin dut hitz egin\" esaten duen moduan.",
+		"Katuak miau egiten dizu \"Ezin dut hitz egin\" esateko bezela.",
 	],
 	pet = [
-		"Katuak purrustaka egiten du zuregana.",
+		"Katua urrumaka dabilkizu.",
 	],
 },
 
@@ -2817,51 +2817,51 @@ CatPet = {
 ItemText = {
 # ARMOUR
 Items.ItemID.KNIGHTS_CHESTPLATE:{
-	name = "Zaldunaren bularra",
+	name = "Zaldunaren Paparrekoa",
 	description = "Guardiako Zaldunek zeremoniazko armadura. Zaharra dirudi, baina ondo zainduta dago.",
 	},
 Items.ItemID.KNIGHTS_LEGGINGS:{
-	name = "Jaun Prakak",
+	name = "Zaldunaren Prakak",
 	description = "Guardiako Zaldunek zeremoniazko armadura. Plaka bolumen handikoak eta elkarri lotuta daude, letoi leunduarekin azentua dutenak.",
 	},
 Items.ItemID.KNIGHTS_HELMET:{
-	name = "Zaldun kaskoa",
+	name = "Zaldunaren Kaskoa",
 	description = "Guardiako Zaldunek zeremoniako kaskoa. Horrela, janztean ikusgarritasuna ezin hobea da.",
 	},
 Items.ItemID.PALACE_CHESTPLATE:{
-	name = "Fourain bularra",
+	name = "Fourainen Bular-oskola",
 	description = "Fourain jauregiko guardia pribatuak erabiltzen du. Erreginek beraiek emango zien armadura hori beren leialtasuna frogatu zutenei.",
 	},
 Items.ItemID.PALACE_LEGGINGS:{
-	name = "Fourain Greaves",
+	name = "Fourainen Prakak",
 	description = "Fourain jauregiko guardia pribatuak erabiltzen du. Erreginek beraiek emango zien armadura hori beren leialtasuna frogatu zutenei.",
 	},
 Items.ItemID.PALACE_HELMET:{
-	name = "Fourain kaskoa",
+	name = "Fourainen Kaskoa",
 	description = "Fourain jauregiko guardia pribatuak erabiltzen du. Erreginek beraiek emango zien armadura hori beren leialtasuna frogatu zutenei.",
 	},
 Items.ItemID.BLOODSTAINED_ROBES:{
-	name = "Bloodstained Robes",
+	name = "Tunika Odolostua",
 	description = "Aspaldi utzitako borrokalari batek El Consumo. One Kingdom uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BLOODSTAINED_CUISSARDES:{
-	name = "Odol zikindutako bularrekoak",
+	name = "Paparretako Odolostua",
 	description = "Aspaldi utzitako borrokalari batek El Consumo. One Kingdom uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BLOODSTAINED_HOOD:{
-	name = "Bloodstained Hood",
+	name = "Txano Odolostua",
 	description = "Aspaldi utzitako borrokalari batek El Consumo. One Kingdom uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BISHOPS_WINGS:{
 	name = "Gotzainaren Hegoak",
-	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Hala ere, oraindik beren buruaren kontzientzia mantentzen dute beren bide bihurriak ezkutatzeko.",
+	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Hala ere, oraindik beren buruaren kontzientzia mantentzen dute beren forma bihurriak ezkutatzeko.",
 	},
 Items.ItemID.BISHOPS_GREAVES:{
-	name = "Apezpikuaren Txirrinak",
+	name = "Gotzainaren Zango-babesak",
 	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide bihurriak ezkutatzeko.",
 	},
 Items.ItemID.BISHOPS_MASK:{
-	name = "Gotzainaren maskara",
+	name = "Gotzainaren Maskara",
 	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide bihurriak ezkutatzeko.",
 	},
 Items.ItemID.VELAN_CHESTPLATE:{
@@ -2869,89 +2869,89 @@ Items.ItemID.VELAN_CHESTPLATE:{
 	description = "Mendebaldeko gerlariek erabiltzen dute. Metal mehea, baina kontu handiz diseinatua.",
 	},
 Items.ItemID.VELAN_LEGGINGS:{
-	name = "Velaren prakak",
+	name = "Velaren Prakak",
 	description = "Mendebaldeko gerlariek erabiltzen dute. Metal mehea, baina kontu handiz diseinatua.",
 	},
 Items.ItemID.VELAN_HELMET:{
-	name = "Velaren kaskoa",
+	name = "Velaren Kaskoa",
 	description = "Mendebaldeko gerlariek erabiltzen dute. Metal mehea, baina kontu handiz diseinatua.",
 	},
 Items.ItemID.DAMNED_KNIGHTS_HELMET:{
-	name = "Zaldun Madarikatuaren kaskoa",
+	name = "Zaldun Madarikatuaren Kaskoa",
 	description = "Zigor gisa diseinatua, kasko handi hau metalezko ordez harriz egina dago.",
 	},
 Items.ItemID.HUMAN_SKULL:{
-	name = "Giza burezurra",
+	name = "Giza Kaskezurra",
 	description = "Beste gizaki baten burezurra. Batzuek uste dute burezurrak propietate magikoak dituztela.",
 	},
 Items.ItemID.CHAINMAIL:{
-	name = "Katea Posta",
-	description = "Oinarrizko kate-maila, zertxobait herdoilduta eta zulo batzuekin.",
+	name = "Sare-Kota",
+	description = "Oinarrizko sare-kota, zertxobait herdoilduta eta zulo batzuekin.",
 	},
 Items.ItemID.REDLEATHER_COIF:{
 	name = "Larruzko Txano Gorria",
-	description = "Larru Gorriz egindako kaputxa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
+	description = "Larru Gorriz egindako txanoa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
 	},
 Items.ItemID.REDLEATHER_CLOAK:{
-	name ="Larruzko kapa gorria",
+	name ="Larruzko Kapa Gorria",
 	description = "Larru Gorriz egindako kapa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
 	},
 Items.ItemID.HARDENED_CHAPS:{
-	name = "Chaps gogortuak",
-	description = "Larru gogor eta gogor batez egindako txapak. Metalezkoak ez direnez, eraso magikoen aurrean bereziki erresistenteak dira.",
+	name = "Xafla Gogortuak",
+	description = "Larru gogor eta gogor batez egindako xaflak. Metalezkoak ez direnez, eraso magikoen aurrean bereziki erresistenteak dira.",
 	},
 Items.ItemID.CLIFF_CASTERS_HOOD:{
-	name = "Cliff Launcher Hood",
-	description = "Kanpai honek sorginkeriari [color=#77FFFF]UR[/color] gehiago edukitzeko aukera ematen dio.",
+	name = "Labar Jaurtitzailearen Txanoa",
+	description = "Txano honek sorginkeriari [color=#77FFFF]UR[/color] gehiago edukitzeko aukera ematen dio.",
 	},
 Items.ItemID.GOLDEN_HELM:{
-	name = "Decimusen Urrezko Helmuga",
-	description = "Urrezko lema hau Decimusen geratzen dena da, Cypha eta Cyntra uxatzeko borrokatu zen Kontsumoaren amaieran.",
+	name = "Decimusen Urrezko Kasketa",
+	description = "Urrezko kasket hau Decimusetik geratzen dena gauza bakarra da, Cypha eta Cyntra uxatzeko borrokatu zen Kontsumoaren amaieran.",
 	},
 Items.ItemID.YAK_HEAD:{
-	name = "Yak burua",
+	name = "Yakaren burua",
 	description = "Yak baten buruarekin egindako maskara. Mozorro edo txantxa txar gisa sortua ziurrenik",
 	},
 Items.ItemID.DROHMIC_CHESTPLATE:{
-	name = "Bularreko drohmikoa",
-	description = "Drohm esklaboak egindako brontzezko bularra. Nekez egina eskuz, baina pixka bat zikinduta.",
+	name = "Paparreko Drohmikoa",
+	description = "Drohm esklaboak egindako brontzezko paparrekoa. Xeheki eskuz egina, baina pixka bat zikinduta.",
 	},
 Items.ItemID.DROHMIC_LEGGINGS:{
-	name = "Leotardo drohmikoak",
-	description = "Drohm esklaboak egindako brontzezko leotardoen multzoa. Nekez egina eskuz, baina pixka bat zikinduta.",
+	name = "Praka Drohmikoak",
+	description = "Drohm esklaboak egindako brontzezko prakak. Xeheki eskuz egina, baina pixka bat zikinduta.",
 	},
 Items.ItemID.DROHMIC_HELM:{
-	name = "Helmugi Drohmikoa",
-	description = "Drohm esklaboak egindako brontzezko kaskoa. Nekez egina eskuz, baina pixka bat zikinduta.",
+	name = "Kasket Drohmikoa",
+	description = "Drohm esklaboak egindako brontzezko kasketa. Xeheki eskuz egina, baina pixka bat zikinduta.",
 	},
 Items.ItemID.SCHOLARS_CHAINCLOAK:{
-	name = "Adineko fededun kapa",
-	description = "Drohm esklaboak egindako kate-kapa. Bertako Drohmicako armaduran inspiratua, baina magiari erresistenteagoak diren materialekin.",
+	name = "Adineko Fededunaren Kapa",
+	description = "Drohm esklaboak egindako kate-kapa. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_CHAINLEGGINGS:{
-	name = "Elder Believer-en polainak",
-	description = "Drohm esklaboak egindako galtzerdi sorta. Bertako Drohmicako armaduran inspiratua, baina magiari erresistenteagoak diren materialekin.",
+	name = "Adineko Fededunaren Kate-Galtzerdiak",
+	description = "Drohm esklaboak egindako galtzerdi sorta. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_HELM:{
-	name = "Elder Believer-en Helmuga",
-	description = "Drohm esklaboak egindako lema. Bertako Drohmicako armaduran inspiratua, baina magiari erresistenteagoak diren materialekin.",
+	name = "Adineko Fededunaren Kasketa",
+	description = "Drohm esklaboak egindako lema. Bertako Drohmicako armaduran oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_HOOD:{
-	name = "Sinesmen Zaharraren kaputxa zaharkitua",
-	description = "Ahaztutako diseinuaren kanpaia. Kaputxa honek sorgin bati [color=#77FFFF]UR[/color] gehiago edukitzea ahalbidetzen dio.",
+	name = "Adineko Fededunaren Txapel Zaharkitua",
+	description = "Ahaztutako diseinudun kasketa. Kasket honek azti bati [color=#77FFFF]UR[/color] gehiago edukitzea ahalbidetzen dio.",
 	},
 Items.ItemID.FIREPROOF_GREAVES:{
-	name = "Suaren aurkako txitxarroak",
-	description = "Zigilatutako haitzulo batean utzitako txitxarro multzoa.\nErazten duenari erreduraren aurrean immunea ematen diote eta gainazal beroetan eroso ibiltzeko aukera ematen diote.",
+	name = "Suaren aurkako babes-zangoak",
+	description = "Zigilatutako haitzulo batean utzitako babes-zango multzoa.\nJanzten duenari erreduraren aurrean babesa ematen diote eta gainazal beroetan eroso ibiltzeko aukera ematen diote.",
 	},
 	# SWORDS
 				
 Items.ItemID.DULL_STEEL_SWORD:{
-	name = "Dull Steel Ezpata",
+	name = "Altzairuzko Ezpata Sorgortua",
 	description = "Sendoa, baina astuna. Badirudi bere ertzean behin eta berriz erori zela.",
 	},
 Items.ItemID.TRAINING_SWORD:{
-	name = "Prestakuntza Ezpata",
+	name = "Entrenamendu Ezpata",
 	description = "Guardiako errekluta berriek erabiltzen duten egurrezko ezpata arina. Entrenamendutik kanpo erabiltzea ideia txarra da ziurrenik."
 	},
 Items.ItemID.BRASS_SWORD:{
@@ -2960,100 +2960,100 @@ Items.ItemID.BRASS_SWORD:{
 	},
 Items.ItemID.BLACK_BRAND:{
 	name = "Marka Beltza",
-	description = "Egun argitan ere, ezpata honek distira falta du misterioz.",
+	description = "Egun argitan ere, arraroa bada ere, ezpata honek distira falta du.",
 	},
 Items.ItemID.SHARP_STEEL_SWORD:{
-	name = "Sharp Steel Ezpata",
-	description = "Lausotu ondoren, pala ikaragarri hau profesionalki zorroztu da.",
+	name = "Altzairuzko Ezpata Zorroztua",
+	description = "Sorgortu ondoren, xafla ikaragarri hau profesionalki zorroztu da.",
 	},
 Items.ItemID.DULL_CRYSTAL_SHARD:{
-	name = "Kristalezko zati tristea",
-	description = "Ezpata dorpe hau kristal garden eta sendo batekin egina dagoela dirudi. Bere forma berezia hilgarria den arren, bere ertza zorroztu behar da.",
+	name = "Kristalezko Zati Sorgortua",
+	description = "Ezpata dorpe hau kristal garden eta sendo batekin egina dagoela dirudi. Bere xafla berezia hilgarria den arren, bere ertza zorroztu behar da.",
 	},
 Items.ItemID.CRYSTAL_SHARD:{
-	name = "Sharp Crystal Shard",
-	description = "Ezpata zorrotz hau kristal garden eta sendo batez egina dagoela dirudi. Bere forma berezia hilgarria da.",
+	name = "Kristalezko Zati Zorroztua",
+	description = "Ezpata zorrotz hau kristal garden eta sendo batez egina dagoela dirudi. Bere xafla berezia hilgarria da.",
 	},
 Items.ItemID.DROHMIC_SWORD:{
 	name = "Ezpata Drohmikoa",
-	description = "Antzinako kultura drohmikoko ezpata bat, Eliasen agintean debekatua. Ezpata honek erabiltzen duenak osasuntsuago sentiarazten du.",
+	description = "Antzinako kultura drohmikoko ezpata bat, Eliasen agintean debekatua. Ezpata honek erabiltzen duenari osasuntsuago sentiarazten dio.",
 	},
 Items.ItemID.PALACE_SWORD:{
-	name = "Fouraingo ezpata",
-	description = "Fourain jauregiko guardia pribatuak erabiltzen duen ezpata. Bibrazio nabaria sumatzen da botoia ukitzean.",
+	name = "Fourainen Ezpata",
+	description = "Fourain jauregiko guardia pribatuak erabiltzen duen ezpata. Bibrazio nabaria sumatzen da ezpata-sagarra ukitzean.",
 	},
 Items.ItemID.HEALTHY_BROADSWORD:{
-	name = "Ezpata zabal osasuntsua",
-	description = "Ezpata honek erabiltzen duenak osasuntsuago sentiarazten du.",
+	name = "Ezpata Zabal Osasuntsua",
+	description = "Ezpata honek erabiltzen duenari osasuntsuago sentiarazten dio.",
 	},
 Items.ItemID.VELAN_GREATDAGGER:{
 	name = "Velaren Daga Handia",
-	description = "Sastakaia handi honek bere darabilena kementsuagoa bihurtzen du. Overgrowth izurritearen aurreko garai baten aztarna.",
+	description = "Daga handi hau darabilena kementsuagoa bihurtzen du. Gainhazitako izurritearen aurreko garai baten aztarna.",
 	},
 Items.ItemID.STRICKEN_BLADE:{
 	name = "Kaltetutako Ezpata",
 	description = "Tximistak jota, ezpata honen kaltearen erdia deskarga elektriko mehe baten moduan jasotzen da.",
 	},
 Items.ItemID.DULL_RUSTED_SWORD:{
-	name = "Zimitarra herdoildua",
+	name = "Zimitarra Herdoildu Sorgortua",
 	description = "Ezpata arraro honek jatorri arrotza izan behar du. Gaur egungo egoeran ere, errementari trebe batek izugarri indartsu egin lezake.",
 	},
 Items.ItemID.SHINING_SWORD:{
-	name = "Zimitarra distiratsua",
-	description = "Ezpata arraro honek jatorri arrotza izan behar du. Orain zaharberritu dutenez, bere pala laua ispilu bat bezain islatzailea da.",
+	name = "Zimitarra Distiratsua",
+	description = "Ezpata arraro honek jatorri arrotza izan behar du. Orain zaharberritu dutenez, bere xafla laua ispilu bat bezain islatzailea da.",
 	},
 Items.ItemID.CHEAT_SWORD:{
-	name = "Trickster Ezpata",
+	name = "Ezpata Tranpatia",
 	description = "Hau ez da benetako ezpata bat",
 	},
 	
 # TOOLS
 Items.ItemID.HOOK_AND_CHAIN:{
 	name ="Kakoa eta katea",
-	description = "Gordina, baina eraginkorra. Egurrezko gainazalak zula ditzake, erabiltzaileari hutsuneak zeharkatzeko aukera emanez.\n\nKate Maisuak erabiltzen du, Guardiaren esklabo nagusiak.",
+	description = "Gordina, baina eraginkorra. Egurrezko gainazalak zula ditzake, erabiltzaileari hutsuneak zeharkatzeko aukera emanez.\n\nKate Maisuak erabiltzen du, Guardiaren esklabista nagusiak.",
 	},
 Items.ItemID.DASH_RING:{
 	name ="Lasterketa Eraztuna",
 	description = "Eraztun honek eramaten duenari bere arma kulunka batekin azkar jaurtitzeko ahalmena ematen dio.",
 	},
 Items.ItemID.FLUORESCENT_RING:{
-	name ="Zaindariaren Mittens",
-	description = "Jatorriz Formaren Elizak sortua, Otobi eskuoihal hauek oparitu zizkion bere boterea aprobetxatzeko.",
+	name ="Zaindariaren Eskularruak",
+	description = "Jatorriz Formaren Elizak sortua, Otobik eskularru hauek oparitu zizkion bere boterea aprobetxatzeko.",
 	},
 Items.ItemID.LASER_RING:{
 	name ="Laser Eraztuna",
-	description = "Erabiltzaileari argi-distira labur bat deitzeko ahalmena ematen dio.\n\nZailatzailea gizona zen garai batean, eta esperimentazioaren gaia.",
+	description = "Argi-distira labur bati deitzeko ahalmena ematen du.\n\nEl Perro Guardián gizona zen garai batean, eta esperimentuen subjektu.",
 	},
 Items.ItemID.BOMB_RING:{
-	name ="Bonba Talisman",
-	description = "Bere erabiltzaileari masa ezegonkorra sortzeko ahalmena ematen dio.\n\nVarka komandanteari Eliasek magiaren arteetan irakatsi zion.",
+	name ="Bonba Talismana",
+	description = "Masa ezegonkorra sortzeko ahalmena ematen du.\n\nEliasek Varka Komandanteari magia irakatsi zion.",
 	},
 Items.ItemID.DEFLECTION_RING:{
-	name ="Desbideratze eraztuna",
+	name ="Desbideratze Eraztuna",
 	description = "Eraztun honek erabiltzen duenaren zentzumenak zorrozten ditu, ezpatarekin jaurtigaiak desbideratzeko aukera emanez.",
 	},
 Items.ItemID.ROLL_BOOST_RING:{
 	name ="Flip Ring handitua",
-	description = "Eraztun honek pizgarri bat ematen dio eramaileari bere urratsean, distantzia handian jaurtitzeko aukera emanez.",
+	description = "Eraztun honek energia pizgarri bat ematen du, distantzia handian jaurtitzeko aukera emanez.",
 	},
 Items.ItemID.SCUFFED_RING:{
-	name ="Eraztun gastatua",
+	name ="Eraztun Higatua",
 	description = "Ez du ezer egiten.",
 	},
 Items.ItemID.SHODDY_FISHING_ROD:{
-	name ="Berreta Arrantza Kanala",
-	description = "Bota uretara eta saiatu arrain handi bat harrapatzen!\n\n...Baina zorte on, holako haga batekin.",
+	name ="Berreta Arrantza-Kanabera",
+	description = "Bota uretara eta saiatu arrain handi bat harrapatzen!\n\n...Baina zorte on, holako kanabera batekin.",
 	},
 Items.ItemID.APPRENTICE_FISHING_ROD:{
-	name ="Arrantza-kanabera ikastuna",
+	name ="Arrantza-Kanabera Ikastuna",
 	description = "Bota uretara eta saiatu arrain handi bat harrapatzen!\n\nHau kanabera duina da. Zortea baduzu, baliteke zerbait ona harrapatzea.",
 	},
 Items.ItemID.SUPERIOR_FISHING_ROD:{
-	name ="Goi mailako arrantza-kanabera",
+	name ="Goi mailako Arrantza-Kanabera",
 	description = "Bota uretara eta saiatu arrain handi bat harrapatzen!\n\nHau kanabera dotorea da. Zorte ona izango duzu honekin arrantzan.",
 	},
 Items.ItemID.MASTER_FISHING_ROD:{
-	name ="Arrantza-kanabera maisua",
+	name ="Arrantza-Kanabera Nagusia",
 	description = "Bota uretara eta saiatu arrain handi bat harrapatzen!\n\nHorrelako kanabera batekin, zure zortea onenen parekoa izango da!",
 	},
 Items.ItemID.VELAN_RING:{
@@ -3062,85 +3062,85 @@ Items.ItemID.VELAN_RING:{
 	},
 Items.ItemID.SPECTRAL_LANTERN:{
 	name ="Linterna Espektrala",
-	description = "Erregaiaren ordez [color=#77FFFF]URA[/color] erabiltzen duen linterna magikoa. \n\nEtsai ikusezinak ager ditzake, edo, besterik gabe, leku ilun bat argiztatu.",
+	description = "Erregai bezala [color=#77FFFF]URA[/color] erabiltzen duen linterna magikoa. \n\nEtsai ikusezinak ager ditzake, edo, besterik gabe, leku ilun bat argiztatu.",
 	},
 Items.ItemID.WEDDING_RING:{
-	name ="Ezkontza eraztuna",
+	name ="Ezkontza Eraztuna",
 	description = "Eliasen ezkontza eraztuna. Hasitako gerragatik maitasuna galduta, eraztunak Maisuaren mina darama.",
 	},
 Items.ItemID.PAIR_OF_NECKLACES:{
-	name ="Lepoko parea",
+	name ="Lepoko Parea",
 	description = "Erregina bikiak erreinu bakarraren kontrola hartu omen zuten hauek jantzita. Lepokoek egun hartako amorrua dute oraindik.",
 	},
 Items.ItemID.HEAL_RING:{
 	name ="Sendatzeko Eraztuna",
-	description = "Hobetu sendatutako kopurua [color=#77FFFF]URA[/color] erabiliz.\n\nFormako Elizak [color=#77FFFF]URA[/color] aztertzen du forma fisikoa hobetzeko.",
+	description = "Sendatutako kopurua hobetzen du [color=#77FFFF]URA[/color] erabiliz.\n\nFormako Elizak [color=#77FFFF]URA[/color] aztertzen du forma fisikoa hobetzeko.",
 	},
 Items.ItemID.NECROTIC_RING:{
-	name ="Itun Nekrotikoa Eraztuna",
-	description = "[color=#77FFFF]URA[/color] hutsik dagoenean, utzi [color=#ff4c42]BIZITZA[/color] gastatzea.\n\nGuardiak ulertzen du botereak sakrifizioa eskatzen duela.",
+	name ="Itun Nekrotikodun Eraztuna",
+	description = "[color=#77FFFF]URA[/color] hutsik dagoenean, [color=#ff4c42]BIZITZA[/color] gastatzen du.\n\nGuardiak ulertzen du botereak sakrifizioa eskatzen duela.",
 	},
 Items.ItemID.SCHOLARS_RING:{
-	name ="Adineko fededunaren eraztuna",
-	description = "Eraso magikoek eragindako kalteak asko hobetzen ditu.\n\nFedenzale Zaharrenek [color=#77FFFF]URA[/color] aztertzen duten debozioa adierazten du.",
+	name ="Adineko Fededunaren Eraztuna",
+	description = "Eraso magikoek eragindako kalteak asko hobetzen ditu.\n\nAdineko Fededunek [color=#77FFFF]URA[/color] aztertzeari zioten debozioa adierazten du.",
 	},
 Items.ItemID.HEROIC_AMULET:{
-	name ="Amulet heroikoa",
-	description = "Osasuna baxua denean ezpataren kalteak asko hobetzen ditu.\n\nBiziari eutsi zion soldadu batena zen.",
+	name ="Amuleto Heroikoa",
+	description = "Osasuna baxu dagoela ezpataren kaltea asko hobetzen du.\n\nBiziari eutsi zion soldadu batena zen.",
 	},
 Items.ItemID.POETS_BADGE:{
-	name ="Poeta Txapa",
-	description = "UR gehiago irabazten da etsaiak erasotuz.\n\nTxapa honek Poesia Klubeko ohorezko kide bihurtzen zaitu.",
+	name ="Poetaren Bereizgarria",
+	description = "UR gehiago irabazten da etsaiak erasotuz.\n\nBereizgarri honek Poesia Klubeko ohorezko kide bihurtzen zaitu.",
 	},
 Items.ItemID.RESOLUTE_RING:{
-	name ="Ebatzitako eskumuturrekoa",
+	name ="Eskumuturreko Erabakigarria",
 	description = "Erabiltzaileari sendatzen jarraitzeko aukera ematen dio, nahiz eta kalteak hartu.\n\nGuardia-k janzten du Kontsumoan.",
 	},
 Items.ItemID.VELAN_MEDALLION:{
-	name ="Velaren medailoia",
+	name ="Velanoen Medailoia",
 	description = "Erabilitako [color=#baffcd]ENERGI[/color] kopurua murrizten du.\nRicard-ek bere medailoia irabazi zuen borroka erritualean.",
 	},
 Items.ItemID.PERFECTIONISTS_RING:{
-	name ="Eraztun perfekzionista",
-	description = "Asko hobetzen du ezpataren kalteak beteta [color=#ff4c42]BIZI[/color].\n\nFormako Elizak gorputz fisikoaren perfekzioa bilatzen du.",
+	name ="Eraztun Perfektua",
+	description = "Asko hobetzen du ezpataren kalteak [color=#ff4c42]BIZIA[/color] beteta izanez gero.\n\nFormako Elizak gorputz fisikoaren perfekzioa bilatzen du.",
 	},
 Items.ItemID.SOAKED_PENDANT:{
-	name ="Zintzilikario blai",
-	description = "Gehienez [color=#77FFFF]URA[/color] handitzen du.\n\nUrte askotan Marearteko Eremuetan utzita, ezin da inoiz lehortu.",
+	name ="Bustitako Zintzilikaria",
+	description = "[color=#77FFFF]URA[/color] maila handitzen du.\n\nUrte askotan Marearteko Eremuetan utzita, ezin da inoiz lehortu.",
 	},
 	
 # KEYS
 Items.ItemID.WATERFALL_KEY:{
-	name ="Ur-jauziaren giltza",
-	description = "Nahiko herdoilduta dago. Ireki ate bat ur-jauzi baten ondoan.",
+	name ="Ur-Jauziaren Giltza",
+	description = "Nahiko herdoilduta dago. Ate bat irekitzen du ur-jauzi baten ondoan.",
 	},
 Items.ItemID.CRIMSON_KEY:{
-	name ="Crimson Giltza",
-	description = "Ireki ate bat Watch Dog atseden hartzen duen lekuan.",
+	name ="Gorrimin Giltza",
+	description = "Txakur Zaindaria atseden hartzen dagoen lekuko atea irekitzen du.",
 	},
 Items.ItemID.VELAS_KEY:{
 	name ="Tenpluko zigilua",
-	description = "Ireki ate astun bat Beilean.",
+	description = "Beileko ate astun bat irekitzen du.",
 	},
 Items.ItemID.PALACE_KEY:{
 	name ="Jauregiko Giltza",
 	description = "Guardiako jauregiko giltza",
 	},
 Items.ItemID.MOON_KEY:{
-	name ="Ilargiaren giltza",
-	description = "Ilargierdi itxurako heldulekudun giltza",
+	name ="Ilargiaren Giltza",
+	description = "Ilargierdi itxurako kirtena daukan giltza",
 	},
 Items.ItemID.SUN_KEY:{
-	name ="Eguzkiaren giltza",
-	description = "Eguzki itxurako heldulekua duen giltza",
+	name ="Eguzkiaren Giltza",
+	description = "Eguzki itxurako kirtena daukan giltza",
 	},
 Items.ItemID.GOLDEN_KEY:{
 	name ="Urrezko Giltza",
-	description = "Ireki ate ikusgarri bat Fourain jauregiaren barruan.",
+	description = "Fourain jauregiaren barruko ate ikusgarri bat irekitzen du.",
 	},
 Items.ItemID.SMOKE_CHARM:{
-	name ="Ke Talisman",
-	description = "Ke horma bat uxatzeko erabiltzen zen xarma",
+	name ="Ke Talismana",
+	description = "Ke hormak uxatzeko erabiltzen den sorginkeria",
 	},
 
 # USEABLES
@@ -3151,178 +3151,178 @@ Items.ItemID.RED_FUNGUS:{
 	},
 Items.ItemID.BLUE_FUNGUS:{
 	name ="Perretxiko Urdina",
-	description = "Perretxiko altu honek [color=#77FFFF]UR[/color] kopuru txiki bat berreskuratuko du. Eraginkorragoa da behin eta berriz erabiltzen denean.",
+	description = "Perretxiko altu honek [color=#77FFFF]UR[/color] kopuru txiki bat berreskuratuko du. Eraginkortasuna galtzen du behin eta berriz erabiltzen denean.",
 	},
 Items.ItemID.POTION_SLOWNESS:{
 	name ="Moteltasunaren edabea",
-	description = "Edabe honek edateko adina ergelak moteltzen ditu.",
+	description = "Edabe honek edateko adina prest dauden ergelak moteltzen ditu.",
 	},
 Items.ItemID.POTION_SPEED:{
-	name ="Boost edabea",
-	description = "Farmazien mirarien bidez, edonork haizea bezala korrika egin dezake!",
+	name ="Bulkada Edabea",
+	description = "Drogen mirarie esker, edonork haizea bezala korrika egin dezake!",
 	},
 Items.ItemID.SCORCHING_SPICE:{
-	name ="Espezia erretzea",
-	description = "Espezia hau jateko adina ergela denak literalki sutan jarriko du.",
+	name ="Espezia Erretzailea",
+	description = "Espezia hau jateko duten ergelak literalki sutan jarriko ditu.",
 	},
 Items.ItemID.SPICY_BUN:{
-	name ="Zapi pikantea",
+	name ="Zapi Pikantea",
 	description = "Zapi pikante hau jateak su-orba bat sortuko du hurrengo bi erasoetan.",
 	},
 Items.ItemID.TRUE_WATER_RESERVE:{
 	name ="Benetako Ur Erreserba",
-	description = "Edabe honek [color=#77FFFF]UR[/color] bi unitate berreskuratuko ditu. Eraginkorragoa da behin eta berriz erabiltzen denean.",
+	description = "Edabe honek [color=#77FFFF]UR[/color] bi unitate berreskuratuko ditu. Eraginkotasuna galtzen du behin eta berriz erabiltzen denean.",
 	},
 Items.ItemID.SKULL_WATER_RESERVE:{
-	name ="Skull Ur biltegia",
-	description = "Edabe honek [color=#77FFFF]UR[/color] bi unitate berreskuratuko ditu.\n\n...Hau da, giza garezur batetik edaten eroso bazaude.",
+	name ="Kaskezur Ur Biltegia",
+	description = "Edabe honek [color=#77FFFF]UR[/color] bi unitate berreskuratuko ditu.\n\n...Hau da, giza kaskezur batetik edaten eroso baldin bazaude.",
 	},
 				
 Items.ItemID.MEAGER_COIN_PURSE:{
-	name ="Modesto zorroa",
+	name ="Diru-Zorro Apala",
 	description = "16 Piezaz betetako poltsa.\nErabili dirua lortzeko.\nPoltsa honetan gordetako piezak ez dira galduko hiltzen zarenean.",
 	},
 Items.ItemID.MIDDLING_COIN_PURSE:{
-	name ="Erdipurdiko zorroa",
+	name ="Erdipurdiko Diru-Zorroa",
 	description = "32 Piezaz betetako poltsa.\nErabili dirua lortzeko.\nPoltsa honetan gordetako piezak ez dira galduko hiltzen zarenean.",
 	},
 Items.ItemID.MAGNIFICENT_COIN_PURSE:{
-	name ="Piezen poltsa bikaina",
+	name ="Diru-Zorro Bikaina",
 	description = "64 piezaz betetako poltsa.\nErabili dirua lortzeko.\nPoltsa honetan gordetako piezak ez dira galduko hiltzen zarenean.",
 	},
 Items.ItemID.FLAME_HALO:{
 	name ="Suaren Eraztuna",
-	description = "Metalezko eraztun gorri hau beroa da ukimenean.\nBuruan eramateak zure erasoak areagotuko ditu, baina sugarrak itzaliko dira azkenean.",
+	description = "Metalezko eraztun gorri hau ikutzerakoan bero dago.\nBuruan eramateak zure erasoak areagotuko ditu, baina azkenean sugarrak itzaliko dira.",
 	},
 Items.ItemID.CRYSTAL_SNACK:{
-	name ="Crysto taberna",
-	description = "Eliasen Drohm esklaboak egindako mokadu kristalinoa.\nKontsumitu [color=#77FFFF]URA[/color] borroka bikoitza lortzeko denbora tarte batean.",
+	name ="Crysto Mokadua",
+	description = "Eliasen Drohm esklaboak egindako mokadu kristalinoa.\nKontsumitu [color=#77FFFF]URA[/color] bikoitza lortzeko denbora tarte batean.",
 	},
 Items.ItemID.CRISPY_BISCUIT:{
-	name ="Cookie kurruskaria",
-	description = "Galleta kurruskaria eta gazia.\nKontsumitu pixka bat [color=#baffcd]ENERGIA[/color] gutxiago erabiltzeko.",
+	name ="Gaileta Kurruskaria",
+	description = "Gaileta kurruskaria eta gazia.\nKontsumitu [color=#baffcd]ENERGIA[/color] gutxiago erabiltzeko.",
 	},
 Items.ItemID.IMPRESSIVE_BISCUIT:{
-	name ="Cookie zoragarria",
+	name ="Gaileta Ikaragarria",
 	description = "Galleta erraldoi bat.\nKontsumitu [color=#baffcd]ENERGIA[/color] gutxiago erabiltzeko denbora luzez.",
 	},
 	
 # QUEST ITEMS (No use other than for giving to NPCs)
 Items.ItemID.WHETSTONE:{
 	name ="Zorrozteko Harria",
-	description = "Errementari trebe batek hau erabil lezake arma dorpe bat zorrozteko.",
+	description = "Errementari trebe batek hau erabil lezake arma kamuts bat zorrozteko.",
 },
 Items.ItemID.FISH_TOKEN:{
-	name ="Arrain Tokena",
+	name ="Arrain Txanpona",
 	description = "Arrainaren salerosketarako erabiltzen den tarteko txanpona.",
 },
 Items.ItemID.LAKE_PENDANT:{
-	name ="Lake Pendant",
-	description = "Arrantzan aurkitutako zintzilikario berde bat. Zein sekretu gorde ditzake honek?",
+	name ="Lakuko Zintzilikaria",
+	description = "Arrantzan aurkitutako zintzilikari orlegi bat. Zein sekretu gorde ditzake honek?",
 },
 Items.ItemID.FAIRY_RING_PENDANT:{
-	name ="Maitagarrien Eraztun Zintzilikarioa",
-	description = "Fairy Rings-ekin komunikazioa ahalbidetzen du",
+	name ="Maitagarrien Eraztun Zintzilikaria",
+	description = "Maitagarrien eraztunekin komunikatzea ahalbidetzen du",
 },
 Items.ItemID.WOODEN_MASK:{
 	name = "Egurrezko Maskara",
-	description = "Overgrowth biktima batek utzitako maskara. Erabiltzaileari hazitako etsaiekin nahasteko aukera ematen dio."
+	description = "Gainhazitako biktima batek utzitako maskara. Gainhazitako etsaiekin nahasteko aukera ematen dio."
 },
 Items.ItemID.CRYSTAL_WATERS:{
 	name = "Ur kristalizatuak",
-	description = "[color=#77FFFF]UR[/color] zati bat zisterna zahar batetik kristalizatu zen. Drohm-ek behinola indarra jaso zuen ur horien bidez."
+	description = "[color=#77FFFF]UR[/color] zati bat zisterna zahar batetik kristalizatu zen. Drohm-ek noizbait indarra jaso zuten ur horien bidez."
 },
 Items.ItemID.LIFE_FRAGMENT:{
-	name = "Bizitzaren zatia",
-	description = "Pieza bakoitzak potentzialarekin burrunba egiten du.\n\nBildu elkarrekin fusionatzen direnean zure [color=#ff4c42]bizi indarra[/color] handitzen duten lau zati."
+	name = "Bizitzaren Zatia",
+	description = "Pieza bakoitzak burrunba handia egiten du.\n\nBildu elkarrekin bat egiten direnean zure [color=#ff4c42]bizi indarra[/color] handitzen duten lau zati."
 },
 Items.ItemID.CHILDS_DOLL:{
-	name = "Mutil Panpina",
-	description = "Haur batena zen panpina. Pozez beteta, mutilak panpinarekin jolasten zuen egun osoan. Badirudi garai haiek ez direla gehiago."
+	name = "Mutilaren Panpina",
+	description = "Mutiko batena zen panpina. Pozez beteta, mutilak panpinarekin jolasten zuen egun osoan. Badirudi garai haiek pasatu zirela."
 },
 Items.ItemID.GODWELL_CHARM:{
-	name ="Divine Well Amulet",
+	name ="Jainkoen Putzuko  Amuletoa",
 	description = "Ur-jauzi baten azpian aurkitua, Usurpatzailearen Espetxearen antza zuen grabatu baten ondoan.",
 },
 Items.ItemID.OVERGROWN_APPENDAGE:{
-	name ="Gehiegizko gorputz-adarra",
-	description = "Gorputza Overgrowth biktima baten adar baten antzekoa da.",
+	name ="Gainhazitako gorputz-adarra",
+	description = "Gainhazitako biktima baten adar baten antzekoa da.",
 },
 Items.ItemID.HEIRLOOM_COMPASS:{
-	name ="Ondare Iparrorratza",
-	description = "Horrek baliotsua dirudi.",
+	name ="Oinordetutako Iparrorratza",
+	description = "Honek baliotsua dirudi.",
 },
 	
 # Fishing Loot
 Items.ItemID.SHRIMP:{
-	name ="Ganbak",
+	name ="Ganba",
 	description = "Krustazeo txikia, baina goxoa.\n\nEz da zehatz-mehatz laiko batek arrantza-kanabera batekin harrapatzea espero zezakeena.",
 	},
 Items.ItemID.MINNOW:{
-	name ="Alebin",
+	name ="Arrain-kumea",
 	description = "Zer nahi duzu esatea? Txikia da. Ziur zerbait handiagoa harrapatzen duzula.",
 	},
 Items.ItemID.LOBSTER:{
-	name ="abakandoa",
+	name ="Otarraina",
 	description = "Ganba bat bezalakoa da, baina handiagoa.",
 	},
 Items.ItemID.SARDINE:{
-	name ="sardina",
+	name ="Sardina",
 	description = "Arrain txiki eta liraina.",
 	},
 Items.ItemID.MACKAREL:{
-	name ="meroa",
+	name ="Meroa",
 	description = "Tamaina ertaineko arraina, begi handiak dituena.",
 	},
 Items.ItemID.BASS:{
-	name ="Snook",
+	name ="Lupina",
 	description = "Ez utzi!\nHau arrain handia da.",
 	},
 Items.ItemID.SUNFISH:{
-	name ="Eguzki-arraina",
-	description = "Handia eta zirkularra da, eguzkia bezala. Eskerrak eguzkia ez da horren itsusia.",
+	name ="Ataloa",
+	description = "Handia eta zirkularra da, ilargia bezala. Eskerrak ilargia ez da horren itsusia.",
 	},
 Items.ItemID.BRILLIANT_SUNFISH:{
-	name ="Eguzki-arrain distiratsua",
-	description = "Handia eta zirkularra da, eguzkia bezalakoa... eta harritzekoa bada ere, eguzkiak bezala distira egiten du!\n\n Aurpegia nahiko itsusia da oraindik, ordea.",
+	name ="Atalo distiratsua",
+	description = "Handia eta zirkularra da, ilargia bezalakoa... eta harritzekoa bada ere, ilargiak bezala distira egiten du!\n\n Aurpegia nahiko itsusia dauka, ordea.",
 	},
 Items.ItemID.SWORDFISH:{
 	name ="Ezpata-arraina",
-	description = "Noski, ez da benetako ezpata... \nbaina ez al litzateke dibertigarria izango erabiltzen saiatuko bazenu?",
+	description = "Noski, ez da benetako ezpata... \nbaina ez al litzateke dibertigarria izango erabiltzen saiatuko bagina?",
 	},
 Items.ItemID.SHARK:{
-	name ="marrazoa",
-	description = "Harrapari zital bat da. Eta poltsikoan daukazu.",
+	name ="Marrazoa",
+	description = "Harrapari zitala da. Eta patrikan daukazu.",
 	},
 Items.ItemID.OCTOPUS:{
 	name ="Olagarroa",
 	description = "Nola lehiatu zaitezke? Gauza honek zu baino zortzi garro gehiago ditu.",
 	},
 Items.ItemID.OLD_BOOT:{
-	name ="Botín Zaharra",
-	description = "Aizu, beste bat aurkitzen baduzu, pare bat izango duzu!\n\nBigarren pentsatuz gero, usain txarra du gauza honek. Seguruenik kendu beharko zenuke.",
+	name ="Bota Zaharra",
+	description = "Aizu, beste bat aurkitzen baduzu, pare bat izango duzu!\n\nOndo pentsatuz gero, usain txarra du gauza honek. Seguruenik bertan behera utzi beharko zenuke.",
 	},
 Items.ItemID.GLITCH_ITEM:{
 	name ="???",
-	description = "Kendu hura!",
+	description = "Bertan behera utzi! Atoan!",
 	},
 
 # MASCOTAS
 Items.ItemID.IMP_PET: {
 	name = "Iratxoa",
-	description = "Zure iratxo maskota da!\n\nEskerrik asko FOUNTAINS Kickstarter-i laguntzeagatik!"
+	description = "Zure iratxo maskota da!\n\nEskerrik asko FOUNTAINS-en Kickstarter-ean laguntzeagatik!"
 },
 Items.ItemID.DOG_PET: {
-	name = "txakurra",
-	description = "Txakur maskota da! Ea ekartzen dakien."
+	name = "Txakurra",
+	description = "Txakur maskota da! Ikusi ea ekartzen dakien."
 },
 Items.ItemID.CAT_PET: {
-	name = "katua",
+	name = "Katua",
 	description = "Katu maskota da! Saguek beldurra diote."
 },
 Items.ItemID.GOLDEN_GOLEM_PET: {
-	name = "Urrezko Golem",
-	description = "Zure maskota golem da!\n\nEskerrik asko FOUNTAINS Kickstarter-i laguntzeagatik!"
+	name = "Urrezko Golema",
+	description = "Zure maskota golema da!\n\nEskerrik asko FOUNTAINS-en Kickstarter-ean laguntzeagatik!"
 },
 
 },
@@ -3333,16 +3333,16 @@ TEMPLATES = {
 	blank_ahead = "%s aurrera",
 	blank_here = "%s hemen",
 	no_blank_here = "ez %s hemen",
-	impending_blank = "berehalako %s",
-	blank_nearby = "%s itxi",
-	beware_blank = "kontuz ibili %s",
+	impending_blank = "berehala %s",
+	blank_nearby = "%s hurbil",
+	beware_blank = "kontuz ibili %s-rekin",
 	seek_blank = "bilatu %s",
 	try_blank = "saiatu %s",
 	blank_required = "%s beharrezkoa",
 	why_blank = "zergatik %s?",
 	blank = "%s",
 	blank_question_mark = "%s?",
-	is_this_blank_question_mark = "hau da %s?",
+	is_this_blank_question_mark = "hau al da %s?",
 	sweet_blank = "gozoa %s",
 	accursed_blank = "madarikatua %s",
 	blank_exclamation_mark = "%s!",
@@ -3372,10 +3372,10 @@ WORDS = {
 		fountain = "iturria",
 		trap = "tranpa",
 		book = "liburua",
-		chest = "bularra",
+		chest = "kutxa",
 		smoke = "kea",
-		charm = "talisman",
-		coin = "moneta",
+		charm = "talismana",
+		coin = "txanpona",
 		wall = "horma",
 		"floor": "lurra",
 		skeleton = "hezurdura",
@@ -3391,30 +3391,30 @@ WORDS = {
 		automatic_door = "ate automatikoa",
 		bridge = "zubia",
 		tree = "zuhaitza",
-		hook = "kako",
+		hook = "kakoa",
 		wood = "egurra",
 		sword = "ezpata",
 		dirt = "lurra",
 		stairs = "eskailerak",
 		headwear = "burua",
-		chestplate = "dortsala",
+		chestplate = "paparrekoa",
 		shirt = "alkandora",
 		boots = "botak",
 		pants = "prakak",
 		"tool": "tresna",
-		mushroom = "perretxiko",
+		mushroom = "perretxikoa",
 		drink = "edan",
 		meal = "janaria",
 		fish = "arraina",
 		flower = "lorea",
-		ring = "eraztun",
-		spell = "sorgintzea",
+		ring = "eraztuna",
+		spell = "sorginkeria",
 		water = "URA",
 		weapon = "arma",
 		treasure = "altxorra",
 		container = "edukiontzia",
 		key = "giltza",
-		lock = "blokeoa",
+		lock = "sarraila",
 		pile = "pila",
 		spear = "lantza",
 		chair = "aulkia",
@@ -3444,34 +3444,34 @@ WORDS = {
 		livestock = "ganadua",
 		bird = "txoria",
 		amphibian = "anfibioa",
-		lizard = "musker",
-		horrible_sort = "tipo izugarria",
-		creature = "izaki",
+		lizard = "muskerra",
+		horrible_sort = "tipo beldurgarria",
+		creature = "izakia",
 		fish = "arraina",
-		bug = "akatsa",
-		abomination = "higuingarria",
-		undead = "ez hilda",
+		bug = "zomorroa",
+		abomination = "izaki higuingarria",
+		undead = "ez-hildakoa",
 		sloth = "alferkeria",
 		ogre = "ogroa",
 	},
 	people = {
 		_label = "jendea",
 		liar = "gezurtia",
-		shopkeep = "dendari",
-		fisherman = "arrantzale",
+		shopkeep = "dendaria",
+		fisherman = "arrantzalea",
 		poet = "poeta",
-		rogue = "pikarra",
-		mage = "magoa",
+		rogue = "barrabasa",
+		mage = "aztia",
 		witch = "sorgina",
-		dwarf = "ipotx",
+		dwarf = "ipotxa",
 		giant = "erraldoia",
 		fatty = "potoloa",
 		slender_one = "pertsona argala",
-		bastard = "sasikume",
+		bastard = "sasikumea",
 		ally = "aliatua",
 		king = "erregea",
-		usurper = "Usurpatzailea",
-		ageless = "adingabea",
+		usurper = "usurpatzailea",
+		ageless = "betiereko jainkoa",
 		acquaintance = "ezagunak",
 		friend = "laguna",
 		foe = "etsaia",
@@ -3482,33 +3482,33 @@ WORDS = {
 		crew = "tripulazioa",
 		fool = "ergela",
 		prude = "puritanoa",
-		gentleman = "zaldun",
-		glutton = "jalea",
+		gentleman = "zalduna",
+		glutton = "tripontzia",
 		god = "jainkoa",
-		honorable_fellow = "lagun ohorezkoa",
+		honorable_fellow = "ohorezko laguna",
 		sad_fellow = "lagun tristea",
-		rude_fellow = "bazkide zakarra",
-		knight = "zaldun",
-		warrior = "gudari",
+		rude_fellow = "lagun zakarra",
+		knight = "zalduna",
+		warrior = "gudaria",
 		maiden = "neskatxa",
 		lad = "mutila",
 		lass = "neska",
 		convoy = "konboia",
 		worker = "langilea",
-		possessed_one = "jabetu",
+		possessed_one = "deabruak hartuta",
 		aggressive_one = "oldarkorra",
 		handsome_one = "guapoa",
 		oaf = "baldarra",
 		simpleton = "sinplea",
-		polite_one = "adeitsu",
-		short_fellow = "lagun laburra",
-		tall_fellow = "lagun altua",
+		polite_one = "adeitsua",
+		short_fellow = "lagun txikia",
+		tall_fellow = "lagun handia",
 	},
 	directions = {
 		_label = "helbideak",
 		north = "iparraldea",
-		south = "hegoaldera",
-		east = "hau",
+		south = "hegoaldea",
+		east = "ekialdea",
 		west = "mendebaldea",
 		up = "gora",
 		down = "behera",
@@ -3517,17 +3517,17 @@ WORDS = {
 		_label = "kontzeptuak",
 		dark = "iluna",
 		light = "argia",
-		happiness = "zoriona",
+		happiness = "zoriontasuna",
 		sadness = "tristura",
-		curse = "madarikatu",
+		curse = "madarikazioa",
 		blessing = "bedeinkapena",
 		deception = "iruzurra",
 		death = "heriotza",
-		overgrowth = "gehiegizko hazkuntza",
+		overgrowth = "gainhazitakoa",
 		dusty = "hautsez beteta",
 		damp = "bustia",
 		war = "gerra",
-		mindlessness = "arretarik eza",
+		mindlessness = "arreta eza",
 		disgust = "nazka",
 		ingenuity = "asmamena",
 		past = "iragana",
@@ -3541,7 +3541,7 @@ WORDS = {
 		worthless = "alferrikakoa",
 		valuable = "baliotsua",
 		fast = "azkar",
-		slow = "motela",
+		slow = "motel",
 		nature = "natura",
 		weather = "eguraldia",
 		lonely = "bakartia",
@@ -3558,15 +3558,15 @@ WORDS = {
 		above = "gora",
 		below = "behera",
 		fragile = "hauskorra",
-		strong = "indartsu",
+		strong = "indartsua",
 		locked = "blokeatuta",
 		blocked = "blokeatuta",
-		unattainable = "lor ezina",
-		attainable = "lorgarriak",
+		unattainable = "lortezina",
+		attainable = "lorgarria",
 		shiny = "distiratsua",
 		prophecy = "profezia",
 		wooden = "egurrezkoa",
-		working = "lanean",
+		working = "martxan",
 		magic = "magikoa",
 		resistance_to_magic = "erresistentzia magikoa",
 		armor = "armadura",
@@ -3575,17 +3575,17 @@ WORDS = {
 		physical = "fisikoa",
 		metal = "metala",
 		music = "musika",
-		haste = "presaka",
+		haste = "presa",
 		explosive = "lehergailua",
 		large = "handia",
-		miniscule = "txiki-txikia",
+		miniscule = "txikirritinoa",
 		common_sense = "sen ona",
 	},
 	locations = {
 		_label = "kokapenak",
 		road = "bidea",
 		desert = "basamortua",
-		prairie = "belardi",
+		prairie = "belardia",
 		mountain = "mendia",
 		dungeon = "ziegak",
 		jail = "kartzela",
@@ -3594,12 +3594,12 @@ WORDS = {
 		cavern = "kobazuloa",
 		underground = "lurpean",
 		aboveground = "lurretik gora",
-		mine = "nirea",
+		mine = "meategi",
 		shortcut = "lasterbidea",
 		long_path = "ibilbide luzea",
 		forest = "basoa",
 		farm = "baserria",
-		ranch = "ganadutegia",
+		ranch = "etxaldea",
 		pool = "igerilekua",
 		rainforest = "oihana",
 		river = "ibaia",
@@ -3608,12 +3608,12 @@ WORDS = {
 		fishing_spot = "arrantza lekua",
 		dock = "kaia",
 		amazing_view = "ikuspegi harrigarria",
-		distant_place = "urruneko leku",
+		distant_place = "urruneko lekua",
 		field = "eremua",
 		church = "eliza",
 		castle = "gaztelua",
 		tower = "dorrea",
-		home = "etxera",
+		home = "etxea",
 		building = "eraikina",
 		tundra = "tundra",
 		treehouse = "zuhaitz etxea",
@@ -3624,17 +3624,17 @@ WORDS = {
 		open_space = "espazio irekia",
 		cluttered_place = "leku nahasia",
 		empty_place = "leku hutsa",
-		awful_place = "leku izugarria",
+		awful_place = "leku beldurgarria",
 		wonderful_place = "leku zoragarria",
 		meadow = "belardi",
 		town = "herria",
 		city = "hiria",
-		village = "herria",
+		village = "herrixka",
 		closed_space = "espazio itxia",
 		lonely_place = "leku bakartia",
-		pit = "lubanarroa",
+		pit = "zuloa",
 		labyrinth = "labirintoa",
-		barn = "ukuilua"
+		barn = "garautegia"
 	},
 	actions = {
 		_label = "ekintzak",
@@ -3654,40 +3654,40 @@ WORDS = {
 		physical_attack = "eraso fisikoa",
 		dash = "korrika",
 		healing = "sendatu",
-		smashing = "hautsi",
+		smashing = "apurtu",
 		battle = "gudua",
 		ranged_battle = "distantziako borroka",
 		staying_close = "gertu egon",
-		keeping_your_distance = "mantendu distantzia",
-		biding_your_time = "itxaron zure momentua",
+		keeping_your_distance = "distantzia mantendu",
+		biding_your_time = "zure momentua itxaron",
 		slowing_down = "moteldu",
-		focusing = "fokua",
-		rolling = "jaurti",
+		focusing = "fokuratu",
+		rolling = "kroketa egin",
 		speeding_up = "bizkortu",
 		cautious_approach = "hurbilketa zuhurra",
-		rushing_in = "presaka",
-		hunting = "ehiza",
+		rushing_in = "azkartu",
+		hunting = "ehizatu",
 		searching = "bilatu",
-		protecting = "babestuz",
+		protecting = "babesten",
 		traveling = "bidaiatzen",
-		grappling = "borrokan",
+		grappling = "borrokatzen",
 		exploding = "lehertzen",
-		pulling = "tiraka",
+		pulling = "tiratzen",
 		examine = "aztertu",
-		open = "irekita",
+		open = "ireki",
 	},
 	musings = {
 		_label = "gogoetak",
 		come_back_later = "itzuli geroago",
-		i_cant_do_this = "Ezin dut hau egin",
+		i_cant_do_this = "ezin dut hau egin",
 		leave_now = "atera orain",
-		im_lost = "Galduta nago",
+		im_lost = "galduta nago",
 		give_up = "amore eman",
 		i_did_it = "egin nuen",
-		you_bastard = "madarikatua",
+		you_bastard = "zital halakoa",
 		feels_wrong = "gaizki sentitzen da",
 		reminds_me_of_something = "zerbait gogoratzen dit",
-		here_again = "hemen berriz",
+		here_again = "hemen berriz ere",
 		what = "zer",
 	},
 }

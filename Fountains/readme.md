@@ -19,7 +19,7 @@ Ricard Richard
 gotorlekua
 
 utzi -> Utzi
-Regina bikiak -> Erregina
+Regina bikiak -> Erregina bikiak
 
 Gainhazitako Pieza
 
@@ -40,7 +40,7 @@ skull -> KASKEZURRAK
 
 garezur -> kaskezur
 
-Kandele -> Vela
+Kandele / Kandela -> Vela
 
 "Watch Dog" -> ???
 
@@ -48,8 +48,75 @@ Chain Master Godir
 
 Perro de la Guardia / Zakur txakurra
 
-Deporigabea
+El Perro Guardián
+
+Deporigabe -> Betiereko Jainko
 
 ikusten duzu -> begira
 
+Elder Believers -> Zahar Sinismendunak / Sinestun Zaharrek
+
+Elder Believer
+
+Divine Well -> Pozo Divino
+
+Guard Domain -> Dominio de la Guardia
+
+Augustus / Augusto
+
+Mugagabeak -> Betiereko Jainkoak
+
+Andre -> Dama
+
+Cuenca -> ???
+
+Mareetako eremuak / Campos de Marea
+
+Iglesia de la Forma /  ?
+
+Halana Jainkosa /  ?
+
+Par de Collares / ?
+
+Girl Doll / Muñeca
+
+RIMA
+
+Constructo
+
+Burning Spice / Especia Abrasadora
+
+pez espada / 
+
+Iraulketa Eraztun Handitua
+
+Sekako Arroa / 
+
+Modua / Forma
+
+Turtle Race / Carrera de Tortugas
+
+FOUNTAINS / ITURRIAK
+
+Unico Reino / Erreinu Bakarra
+
+Erresuma -> Erreinu
+
+Velano del Oeste Poesia Kluba
+
+bularra -> bularrekoa
+
+El Consumo / Kontsumo
+
+One Kingdom / Erreinu Bakarra
+
+ITEMS errepasa
+
+Flip Ring handitua
+
+Iparrorratza
+
+Items.ItemID.DOG_PET: {
+
 1414
+2192
