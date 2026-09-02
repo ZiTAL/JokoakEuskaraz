@@ -2817,15 +2817,15 @@ ItemText = {
 # ARMOUR
 Items.ItemID.KNIGHTS_CHESTPLATE:{
 	name = "Zaldunaren Paparrekoa",
-	description = "Guardiako Zaldunek zeremoniazko armadura. Zaharra dirudi, baina ondo zainduta dago.",
+	description = "Guardiako Zaldunen zeremoniazko armadura. Zaharra dirudi, baina ondo zainduta dago.",
 	},
 Items.ItemID.KNIGHTS_LEGGINGS:{
 	name = "Zaldunaren Prakak",
-	description = "Guardiako Zaldunek zeremoniazko armadura. Plaka bolumen handikoak eta elkarri lotuta daude, letoi leunduarekin azentua dutenak.",
+	description = "Guardiako Zaldunen zeremoniazko armadura. Plaka bolumen handikoak eta elkarri lotuta daude, letoi leunduarekin nabarmendutakoak.",
 	},
 Items.ItemID.KNIGHTS_HELMET:{
 	name = "Zaldunaren Kaskoa",
-	description = "Guardiako Zaldunek zeremoniako kaskoa. Horrela, janztean ikusgarritasuna ezin hobea da.",
+	description = "Guardiako Zaldunen zeremoniako kaskoa. Horrela, janztean ikusgarriak dira.",
 	},
 Items.ItemID.PALACE_CHESTPLATE:{
 	name = "Fourainen Bular-oskola",
@@ -2833,7 +2833,7 @@ Items.ItemID.PALACE_CHESTPLATE:{
 	},
 Items.ItemID.PALACE_LEGGINGS:{
 	name = "Fourainen Prakak",
-	description = "Fourain jauregiko guardia pribatuak erabiltzen du. Erreginek beraiek emango zien armadura hori beren leialtasuna frogatu zutenei.",
+	description = "Fourain jauregiko guardia pribatuak erabiltzen dute. Erreginek beraiek emango zien armadura hori beren leialtasuna frogatu zutenei.",
 	},
 Items.ItemID.PALACE_HELMET:{
 	name = "Fourainen Kaskoa",
@@ -2841,27 +2841,27 @@ Items.ItemID.PALACE_HELMET:{
 	},
 Items.ItemID.BLOODSTAINED_ROBES:{
 	name = "Tunika Odolostua",
-	description = "Aspaldi utzitako borrokalari batek Kontsumoan. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
+	description = "Kontsumoan aspaldi borrokalari batek utzitakoa. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BLOODSTAINED_CUISSARDES:{
 	name = "Paparretako Odolostua",
-	description = "Aspaldi utzitako borrokalari batek Kontsumoan. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
+	description = "Kontsumoan aspaldi borrokalari batek utzitakoa. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BLOODSTAINED_HOOD:{
 	name = "Txano Odolostua",
-	description = "Aspaldi utzitako borrokalari batek Kontsumoan. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
+	description = "Kontsumoan aspaldi borrokalari batek utzitakoa. Erreinu Bakarraren uniformea ​​dela pentsatuta, ezinezkoa da jabea zein aldetan borrokatu zen jakitea.",
 	},
 Items.ItemID.BISHOPS_WINGS:{
 	name = "Gotzainaren Hegoak",
-	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Hala ere, oraindik beren buruaren kontzientzia mantentzen dute beren forma bihurriak ezkutatzeko.",
+	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Hala ere, oraindik beren buruaren kontzientzia mantentzen dute beren forma maltzurrak ezkutatzeko.",
 	},
 Items.ItemID.BISHOPS_GREAVES:{
 	name = "Gotzainaren Zango-babesak",
-	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide bihurriak ezkutatzeko.",
+	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide maltzurrak ezkutatzeko.",
 	},
 Items.ItemID.BISHOPS_MASK:{
 	name = "Gotzainaren Maskara",
-	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide bihurriak ezkutatzeko.",
+	description = "Gotzainak Inprimaki Handitu baten bidez boterea lortu duten gutxien artean daude. Oraindik beren buruaren kontzientzia mantentzen dute beren bide maltzurrak ezkutatzeko.",
 	},
 Items.ItemID.VELAN_CHESTPLATE:{
 	name = "Velatarren Paparrekoa",
@@ -2877,11 +2877,11 @@ Items.ItemID.VELAN_HELMET:{
 	},
 Items.ItemID.DAMNED_KNIGHTS_HELMET:{
 	name = "Zaldun Madarikatuaren Kaskoa",
-	description = "Zigor gisa diseinatua, kasko handi hau metalezko ordez harriz egina dago.",
+	description = "Zigor gisa diseinatua, kasko handi hau metala ordez harriz egina dago.",
 	},
 Items.ItemID.HUMAN_SKULL:{
 	name = "Giza Kaskezurra",
-	description = "Beste gizaki baten burezurra. Batzuek uste dute burezurrak propietate magikoak dituztela.",
+	description = "Beste gizaki baten kaskezurra. Batzuek uste dute kaskezurrek propietate magikoak dituztela.",
 	},
 Items.ItemID.CHAINMAIL:{
 	name = "Sare-Kota",
@@ -2889,19 +2889,19 @@ Items.ItemID.CHAINMAIL:{
 	},
 Items.ItemID.REDLEATHER_COIF:{
 	name = "Larruzko Txano Gorria",
-	description = "Larru Gorriz egindako txanoa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
+	description = "Larru gorriz egindako txanoa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
 	},
 Items.ItemID.REDLEATHER_CLOAK:{
 	name ="Larruzko Kapa Gorria",
-	description = "Larru Gorriz egindako kapa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
+	description = "Larru gorriz egindako kapa, jatorri misteriotsuko materiala, bere efektu magiko deuseztatzaileengatik ezaguna.",
 	},
 Items.ItemID.HARDENED_CHAPS:{
 	name = "Xafla Gogortuak",
-	description = "Larru gogor eta gogor batez egindako xaflak. Metalezkoak ez direnez, eraso magikoen aurrean bereziki erresistenteak dira.",
+	description = "Larru gogor eta gogor batez egindako xaflak. Metalezkoak ez direnez, eraso magikoen aurrean bereziki gogorrak dira.",
 	},
 Items.ItemID.CLIFF_CASTERS_HOOD:{
 	name = "Labar Jaurtitzailearen Txanoa",
-	description = "Txano honek sorginkeriari [color=#77FFFF]UR[/color] gehiago edukitzeko aukera ematen dio.",
+	description = "Txano honek sorginkeriei [color=#77FFFF]UR[/color] gehiago edukitzeko aukera ematen die.",
 	},
 Items.ItemID.GOLDEN_HELM:{
 	name = "Decimusen Urrezko Kasketa",
@@ -2909,45 +2909,45 @@ Items.ItemID.GOLDEN_HELM:{
 	},
 Items.ItemID.YAK_HEAD:{
 	name = "Yakaren burua",
-	description = "Yak baten buruarekin egindako maskara. Mozorro edo txantxa txar gisa sortua ziurrenik",
+	description = "Yak baten buruarekin egindako maskara. Ziurrenik, Mozorro edo txantxa gisa sortua",
 	},
 Items.ItemID.DROHMIC_CHESTPLATE:{
 	name = "Paparreko Drohmikoa",
-	description = "Drohm esklaboak egindako brontzezko paparrekoa. Xeheki eskuz egina, baina pixka bat zikinduta.",
+	description = "Drohm esklaboak egindako brontzezko paparrekoa. Xeheki eskuz egina, baina pixkat zikinduta.",
 	},
 Items.ItemID.DROHMIC_LEGGINGS:{
 	name = "Praka Drohmikoak",
-	description = "Drohm esklaboak egindako brontzezko prakak. Xeheki eskuz egina, baina pixka bat zikinduta.",
+	description = "Drohm esklaboak egindako brontzezko prakak. Xeheki eskuz egina, baina pixkat zikinduta.",
 	},
 Items.ItemID.DROHMIC_HELM:{
 	name = "Kasket Drohmikoa",
-	description = "Drohm esklaboak egindako brontzezko kasketa. Xeheki eskuz egina, baina pixka bat zikinduta.",
+	description = "Drohm esklaboak egindako brontzezko kasketa. Xeheki eskuz egina, baina pixkat zikinduta.",
 	},
 Items.ItemID.SCHOLARS_CHAINCLOAK:{
 	name = "Adineko Fededunaren Kapa",
-	description = "Drohm esklaboak egindako kate-kapa. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
+	description = "Drohm esklaboak egindako kate-kapa. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka gogorragoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_CHAINLEGGINGS:{
 	name = "Adineko Fededunaren Kate-Galtzerdiak",
-	description = "Drohm esklaboak egindako galtzerdi sorta. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
+	description = "Drohm esklaboak egindako galtzerdi sorta. Bertako Armadura Drohmikoan oinarrituta, baina magiariaren aurka gogorragoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_HELM:{
 	name = "Adineko Fededunaren Kasketa",
-	description = "Drohm esklaboak egindako lema. Bertako Drohmikako armaduran oinarrituta, baina magiariaren aurka erresistenteagoak diren materialekin eginak.",
+	description = "Drohm esklaboak egindako lema. Bertako Drohmikako armaduran oinarrituta, baina magiariaren aurka gogorragoak diren materialekin eginak.",
 	},
 Items.ItemID.SCHOLARS_HOOD:{
 	name = "Adineko Fededunaren Txapel Zaharkitua",
-	description = "Ahaztutako diseinudun kasketa. Kasket honek azti bati [color=#77FFFF]UR[/color] gehiago edukitzea ahalbidetzen dio.",
+	description = "Diseinu zaharkitua daukan kasketa. Kasket honek azti bati [color=#77FFFF]UR[/color] gehiago edukitzea ahalbidetzen dio.",
 	},
 Items.ItemID.FIREPROOF_GREAVES:{
 	name = "Suaren aurkako babes-zangoak",
-	description = "Zigilatutako haitzulo batean utzitako babes-zango multzoa.\nJanzten duenari erreduraren aurrean babesa ematen diote eta gainazal beroetan eroso ibiltzeko aukera ematen diote.",
+	description = "Zigilatutako haitzulo batean utzitako babes-zangoak.\nJanzten duenari erreduraren aurrean babesa ematen diote eta gainazal beroen gainean eroso ibiltzeko aukera ematen diote.",
 	},
 	# SWORDS
 				
 Items.ItemID.DULL_STEEL_SWORD:{
 	name = "Altzairuzko Ezpata Sorgortua",
-	description = "Sendoa, baina astuna. Badirudi bere ertzean behin eta berriz erori zela.",
+	description = "Sendoa, baina astuna. Badirudi bere ertzean behin eta berriz erori zela, kamustuta dago.",
 	},
 Items.ItemID.TRAINING_SWORD:{
 	name = "Entrenamendu Ezpata",
@@ -2959,7 +2959,7 @@ Items.ItemID.BRASS_SWORD:{
 	},
 Items.ItemID.BLACK_BRAND:{
 	name = "Marka Beltza",
-	description = "Egun argitan ere, arraroa bada ere, ezpata honek distira falta du.",
+	description = "Egun argitan ere, arraroa bada ere, ezpata honek ez du distirarik.",
 	},
 Items.ItemID.SHARP_STEEL_SWORD:{
 	name = "Altzairuzko Ezpata Zorroztua",
@@ -3449,7 +3449,7 @@ WORDS = {
 		fish = "arraina",
 		bug = "zomorroa",
 		abomination = "izaki higuingarria",
-		undead = "ez-hildakoa",
+		undead = "sasi-hildakoa",
 		sloth = "alferkeria",
 		ogre = "ogroa",
 	},
