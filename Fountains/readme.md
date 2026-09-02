@@ -37,7 +37,7 @@ Be he gone or deceased,
 So I can unite with my club
 
 Zergatik ezkutatzen naiz sasien artean?
-Velora nindoan bitartean
+Veilera nindoan bitartean
 Garrasi bat entzun nuenean,
 Ez gizon, ez txori...
 Horregatik nago hain zurbil tartean.
@@ -205,6 +205,8 @@ A blade to my throat, and a spear to my chest...
 
 Ez, ez zitzaien gustatu, probara gerturatu
 Ezpata eztarrian, eta lantza bularrean kokatu...
+
+-------------------------------------
 
 2057 - 2058
 	final_rap = {

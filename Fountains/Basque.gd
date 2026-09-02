@@ -1875,16 +1875,15 @@ Dog = {
 # BushMan rhymes his speech, speaking in limericks.
 BushMan = {
 	explanation={
-		text=["Zergatik ezkutatzen naiz hain sasi hauskorren artean?\n[color=#8aff92]Veilerako[/color] bidean nengoen\nNegar bat entzun nuenean,\nEz gizon batena, ezta txoriarena...\nHorregatik nago hain zurbil",
-		"Eliza zaharrean piztiak negar-zotinka egin zuen\nLapurtu ziotela bezala agertu zen\nBaina lapurtutakoa\nEz zen zilarrezkoa ezta urrea ere\nBesoak zitalki moztuak izan ziren.",
-		"Animalia nazkagarria eta zoroa zen\nOso mutil burugogorra zirudien\nBere kaskezurraren sakonean\nNorbaitek\n[color=#ffbb00] brontzezko ezpata[/color] sartu zion, benetan penagarria da.",
-		"Gaur egungo bere presentzia gutxietsia\nHemen ezkutatuta sasi honetan\nPiztia suntsitu,\nAlde ala hil,\nNi nire taldean sartu nadin."
+		text=["Zergatik ezkutatzen naiz sasien artean?\n[color=#8aff92]Veilera[/color] nindoan bitartean\nGarrasi bat entzun nuenean,\nEz gizon, ez txori...\nHorregatik nago hain zurbil tartean", 
+		"Eliza zaharrean zegoen piztia negarrez\nLapurreta egin baliote legez agertu zen haserrez\nBaina lapurtutakoa\nEz zen ez zilarra, ez urrea",
+		"Basatia nazkagarria eta zoratua\nMutil burugogorra zirudien koitatuak\nBere buru sakonean\nNorbait hartu al du\n[color=#ffbb00]Brontzezko ezpata[/color] madarikatua"
+		"Haren presentzia nazkagarria\nZuhaixka honetan ezkutagarria\nKendu basapiztia gainetik\nJoan edo hil\nNire elkartean parte hartzea miragarria"
 		],
 	},
 	thanks={
-		text=["Ai!",
-			"Orain daramazun [color=#ffcf4a]brontzezko ezpata[/color]!\nHorrek asko pozten nau\nHemen pixka bat itxarongo dut,\nDenbora dudan bitartean,\nOndoren [color=#8aff92]Veileko[/color] santutegira itzuliko naiz."
-		],
+		text=["Txo!",
+			"Orain daramazu [color=#ffcf4a]Brontzezko ezpata![/color]\nZoriontasunaren zalaparta\nDenborak uzten duen bezala,\nVeileko Santutegirako itzulera aparta"],
 	},
 	final={
 		text=["Zuhaixka hau nahiko erosoa da.",
@@ -1897,21 +1896,20 @@ BushMan = {
 PoetryClub_BushMan = {
 	thanks={
 		text=[
-			"Hemen elkartzen gara nire elkartearen barruan\nSasi honetan ezkutatzea aukeratu dut\nWoleh-ren lagun bat\nOroitua da gaur\nOngi etorria ematen dizut zentro honetara!",
-			"Nire izena Cornelius da, lagun\nHarrapatu duzun munstro hori\nOrain lurrean dirau\nEta ez da aurkituko\nEskerrak ematen dizkizut munstro horri amaiera eman izanagatik."
-		]
+			"Elkartearen barruan\nZuhaixkaren lekuan\nWolehren lagun bat\nOngi etorri ohorez\nBehar den moduan!"
+			"Cornelius dut izena, lagun\nHarrapatu duzu munstro ilun\nOrain lurrean dago\nEntzun, ez dago oihartzun\nEman diozu amaiera egun."]
 	},
 	help_woleh={
-		text=["Woleh buruan galduta dago\nPentsamenduek itsu utzi dute\nEz daki zer datorren\nNahiko konplexua da...\nMesedez, lagundu iezaiozu bere arazoa konpontzen"]
+		text=["Woleh galduta dago\nNi oso pozik nago\nEz da niregatik\nEz da zuregatik\nLasaitasuna bilatu edo akabo"]		
 	},
 	wait_second_item={
-		text=["Woleh ikaragarri haserre dago\nEsan behar dut nahiko pozik sentitzen naizela\nEz da nigatik\nEz da zugatik\nIkus dezagun nola lasaitu nire bikotea"]
+		text=["Woleh haserre dago\nNi oso pozik nago\nEz da niregatik\nEz da zuregatik\nLasaitasuna bilatu edo akabo"]
 	},
 	wait_third_item={
-		text=["Azkenean bere egoera aldatu da\nKezkatuta nengoen bere espresioa mantenduko zuen\nOrain gauza bakarra dago\nOso zoragarria\nIlusioa zabaldu ahal izateko."]
+		text=["Azkenean lasaituta\nKopeta zimurtuko ote zuen beldurtuta\nOrain gauza bakarra\nEkarri beharra\nHorrela alaitasuna salbatuta."]
 	},
 	final={
-		text=["Woleh pozik dago azkenean\nBere buruko arazoak jada konpondu dira\nBihotzean poza\nHasiera berri bat egingo dugu\nPoesia elkartea berrituta dago!"]
+		text=["Woleh zoriontsua onartu\nBere arazoak ahaztu\nPoza bihotzean sentitu\nBerriro hasiera bilatu\nPoesiaren elkartea maitatu!"]
 	}
 },
 
@@ -2027,10 +2025,11 @@ Woleh={
 Greg={
 	first={
 		text=[
-			"Nire burmuinean uste dudan hitz batzuk botatzen ari naiz\nZin egiten dut [color=#fffab3]Erregina bikiak[/color] erotu behar direla",
-			"Bai, arazo bat izan nuen [color=#fffab3]Bikiak[/color] eta haien erreinuaz\nBeraz, [color=#fffab3]Guardia[/color] atzean utzi nuen, orain ez naiz inoiz kateatuko.",
-			"Wolehk hartu ninduen, eszena utzi nuelako\n[color=#fffab3]Guardia-ri[/color] esan nionak ez zitzaien gustatu",
-			"Ez, ez zitzaien gustatu, beraz probatu ninduten\nEzpata bat eztarrian, eta lantza bat bularrean..."
+			"Buruko hitzak bota\n[color=#fffab3]Erregina Bikiek[/color] daukate porrota",
+			"Bikiekin arazoak\n[color=#fffab3]Guardia[/color] atzean utzi eta kateak apurtzeko gogoak.",
+			"Wolehk eraman ninduen, eszena utzita\n[color=#fffab3]Guardiari[/color] esan nionaren itxura ikusita",
+			"Ez, ez zitzaien gustatu, beraz probatu ninduten\nEzpata bat eztarrian, eta lantza bat bularrean...",
+			"Ez, ez zitzaien gustatu, probara gerturatu\nEzpata eztarrian, eta lantza bularrean kokatu..."
 		]
 	},
 	out_of_ideas={
