@@ -1146,14 +1146,14 @@ Skullhambado = {
 			"Ez, ez da magia, papau. Fenomeno guztiz naturala da, eta dena *kaskezurretatik* dator.",
 			"Pentsa, izaki bizidun guztiek dute [color=#77FFFF]URA[/color].",
 			"Zer gehiago dute izaki guztiek? Hori da, KASKEZURRAK. Logika sinplea da.",
-			"Nire izena [color=#77FFFF]ShambatedSkull[/color] da. Eta bai, galdetu baino lehen, kasualitatea da.",
+			"Nire izena [color=#77FFFF]Skullhambado[/color] da. Eta bai, galdetu baino lehen, kasualitatea da.",
 			"...Hmm, edo agian nominatibo determinatuaren kasu klasiko bat.",
 			"Dena dela, kaskezur gehiago behar ditut. Nire bilduma hemen nahikoa ez baita.",
 			"KASKEZURRAK ekarri, eta trukean, [color=#77FFFF]UR ERRESERBA[/color] batzuk prestatuko dizkizut.",
 		],
 	},
 	menu={
-		prompt="Hambated Skull",
+		prompt="Skullhambado",
 		text=["Beno, badaukazu kaskezur fresko politik?"],
 		answers=["Irten", "Trukatu kaskezurrak"]
 	},
@@ -2946,7 +2946,7 @@ Items.ItemID.FIREPROOF_GREAVES:{
 	# SWORDS
 				
 Items.ItemID.DULL_STEEL_SWORD:{
-	name = "Altzairuzko Ezpata Sorgortua",
+	name = "Altzairuzko Ezpata Kamutsa",
 	description = "Sendoa, baina astuna. Badirudi bere ertzean behin eta berriz erori zela, kamustuta dago.",
 	},
 Items.ItemID.TRAINING_SWORD:{
@@ -2963,10 +2963,10 @@ Items.ItemID.BLACK_BRAND:{
 	},
 Items.ItemID.SHARP_STEEL_SWORD:{
 	name = "Altzairuzko Ezpata Zorroztua",
-	description = "Sorgortu ondoren, xafla ikaragarri hau profesionalki zorroztu da.",
+	description = "Hasieran kamutsa zena, xafla ikaragarri hau profesionalki zorroztu da.",
 	},
 Items.ItemID.DULL_CRYSTAL_SHARD:{
-	name = "Kristalezko Zati Sorgortua",
+	name = "Kristalezko Zati Kamutsa",
 	description = "Ezpata dorpe hau kristal garden eta sendo batekin egina dagoela dirudi. Bere xafla berezia hilgarria den arren, bere ertza zorroztu behar da.",
 	},
 Items.ItemID.CRYSTAL_SHARD:{
@@ -2994,7 +2994,7 @@ Items.ItemID.STRICKEN_BLADE:{
 	description = "Tximistak jota, ezpata honen kaltearen erdia deskarga elektriko mehe baten moduan jasotzen da.",
 	},
 Items.ItemID.DULL_RUSTED_SWORD:{
-	name = "Zimitarra Herdoildu Sorgortua",
+	name = "Zimitarra Herdoildu Kamutsa",
 	description = "Ezpata arraro honek jatorri arrotza izan behar du. Gaur egungo egoeran ere, errementari trebe batek izugarri indartsu egin lezake.",
 	},
 Items.ItemID.SHINING_SWORD:{
