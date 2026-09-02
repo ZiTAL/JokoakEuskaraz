@@ -36,6 +36,29 @@ Get rid of the beast,
 Be he gone or deceased,
 So I can unite with my club
 
+Zergatik ezkutatzen naiz sasien artean?
+Velora nindoan bitartean
+Garrasi bat entzun nuenean,
+Ez gizon, ez txori...
+Horregatik nago hain zurbil tartean.
+
+Eliza zaharrean zegoen piztia negarrez.
+Lapurreta egin baliote legez agertu zen haserrez.
+Baina lapurtutakoa
+Ez zen ez zilarra, ez urrea.
+Bere besoek kalte egin zioten indarrez.
+
+Basatia nazkagarria eta zoratua.
+Mutil burugogorra zirudien koitatuak.
+Bere buru sakonean
+Norbait hartu al du
+Brontzezko ezpata madarikatua.
+
+Haren presentzia nazkagarria.
+Zuhaixka honetan ezkutagarria.
+Kendu basapiztia gainetik.
+Joan edo hil,
+Nire elkartean parte hartzea miragarria.
 
 1889
 "The [color=#ffcf4a]sword made of brass[/color] you now carry!\nThis makes me quite rightfully merry\nI'll wait here a bit,\nAs time will permit,\nThen return to [color=#8aff92]The Veil's[/color] sanctuary"
@@ -44,6 +67,11 @@ The sword made of brass (Brontzezko Ezpata) you now carry!
 This makes me quite rightfully merry
 As time will permit,
 Then return to The Veil's (Veil) sanctuary"
+
+Brontzezko ezpata!
+Zoriontasunaren zalaparta
+Denborak uzten duen bezala,
+Beloaren Santutegirako itzulera aparta.
 
 I'll wait here a bit,
 1903 - 1917
@@ -54,19 +82,6 @@ PoetryClub_BushMan = {
 			"My name is Cornelius, friend\nThat monster you did apprehend\nNow lays in the ground\nAnd shall not be found\nI thank you for bringing its end."
 		]
 	}, 
-	help_woleh = {
-		text = ["Woleh is lost in his mind\nHis thoughts have been leaving him blind\nNot knowing what's next\nIt is quite complex...\nPlease do help him out of his bind"]
-	}, 
-	wait_second_item = {
-		text = ["Woleh's incredibly mad\nI must say I'm feeling quite glad\nIt's not towards me\nIt's not towards thee\nLet's find how to calm my comrade"]
-	}, 
-	wait_third_item = {
-		text = ["Finally he has calmed down\nI worried he would keep his frown\nNow there's just one thing\nThat you need to bring\nSo we may spread joy all around."]
-	}, 
-	final = {
-		text = ["Woleh is happy at last\nHis troubles of mind are now past\nWith joy in his heart\nWe'll make a new start\nThe poetry club shall hold fast!"]
-	}
-}, 
 
 We meet here inside of my club
 I have chosen to hide in this shrub
@@ -74,11 +89,59 @@ A friend to Woleh
 Is honored today
 I welcome you here to this hub!
 
+Elkartearen barruan
+Zuhaixkaren lekuan
+Wolehren lagun bat
+Ongi etorri ohorez 
+Behar den moduan!
+
+My name is Cornelius, friend
+That monster you did apprehend
+Now lays in the ground
+And shall not be found
+I thank you for bringing its end
+
+Cornelius dut izena, lagun
+Harrapatu duzu munstro ilun
+Orain lurrean dago
+Entzun, ez dago oihartzun
+Eman diozu amaiera egun
+
+	help_woleh = {
+		text = ["Woleh is lost in his mind\nHis thoughts have been leaving him blind\nNot knowing what's next\nIt is quite complex...\nPlease do help him out of his bind"]
+	}, 
+
 Woleh is lost in his mind
 I must say I'm feeling quite glad
 It's not towards me
 It's not towards thee
 Let's find how to calm my comrade
+
+Woleh galduta dago
+Ni oso pozik nago
+Ez da niregatik
+Ez da zuregatik
+Lasaitasuna bilatu edo akabo
+
+	wait_second_item = {
+		text = ["Woleh's incredibly mad\nI must say I'm feeling quite glad\nIt's not towards me\nIt's not towards thee\nLet's find how to calm my comrade"]
+	}, 
+
+Woleh's incredibly mad
+I must say I'm feeling quite glad
+It's not towards me
+It's not towards thee
+Let's find how to calm my comrade
+
+Woleh haserre dago
+Ni oso pozik nago
+Ez da niregatik
+Ez da zuregatik
+Lasaitasuna bilatu edo akabo
+
+	wait_third_item = {
+		text = ["Finally he has calmed down\nI worried he would keep his frown\nNow there's just one thing\nThat you need to bring\nSo we may spread joy all around."]
+	}, 
 
 Finally he has calmed down
 I worried he would keep his frown
@@ -86,11 +149,28 @@ Now there's just one thing
 That you need to bring
 So we may spread joy all around
 
+Azkenean lasaituta
+Kopeta zimurtuko ote zuen beldurtuta
+Orain gauza bakarra
+Ekarri beharra
+Horrela alaitasuna salbatuta
+
+	final = {
+		text = ["Woleh is happy at last\nHis troubles of mind are now past\nWith joy in his heart\nWe'll make a new start\nThe poetry club shall hold fast!"]
+	}
+}, 
+
 Woleh is happy at last
 His troubles of mind are now past
 With joy in his heart
 We'll make a new start
 The poetry club shall hold fast!
+
+Woleh zoriontsua onartu
+Bere arazoak ahaztu
+Poza bihotzean sentitu
+Berriro hasiera bilatu
+Poesiaren elkartea maitatu!
 
 2033 - 2036
 Greg = {
@@ -105,14 +185,26 @@ Greg = {
 I'm spitting out some words that I think of in my brain
 I swear the Twin Queens (Erregina Bikiak) must be going insane
 
+Buruko hitzak bota
+Erregina Bikiek daukate porrota
+
 Yeah, I had a problem with the Twins (Bikiak) and their reign
 So I left The Guard (Guardia) behind, now I'll never be in chains.
+
+Bikiekin arazoak
+Guardia atzean utzi eta kateak apurtzeko gogoak
 
 Woleh took me in, 'cause I left the scene
 What I said to The Guard (Guardia) had them looking mean
 
+Wolehk eraman ninduen, eszena utzita
+Guardiari esan nionaren itxura ikusita
+
 Nah, they didn't like it, so they put me to the test
 A blade to my throat, and a spear to my chest...
+
+Ez, ez zitzaien gustatu, probara gerturatu
+Ezpata eztarrian, eta lantza bularrean kokatu...
 
 2057 - 2058
 	final_rap = {
@@ -127,17 +219,23 @@ So they better drop the charade.
 I'm gonna go make 'em afraid.
 I'm getting ready to invade.
 
+Nire ezpatarekin hilko dut Guardia.
+Beraz, hobe uztea fartsa handia.
+Beldur argia.
+Inbasio larria.
+
 And no I'm not telling a lie.
 Got these fools lookin' ready to die.
 They want to talk and talk.
 But they can't with my sword in their eye.
 
+Gezurrik ez.
+Zoro hauek hiltzeko berez.
+Hitz egin minez.
+Baina nire ezpata begian indarrez.
+
 1930 - 2024
 Woleh = {
-	angry = {
-		text = ["You have overstayed your welcome."], 
-		emotion = "angry_loop", 
-	}, 
 	waiting_for_cornelius = {
 		text = ["Our friend has been gone.\nWhat can I do without him?\nI hope he is safe."]
 	}, 
@@ -145,7 +243,11 @@ Woleh = {
     haiku: 5-7-5
     Our friend has been gone
     What can I do without him?
-    nI hope he is safe
+    I hope he is safe
+
+    Gure laguna joanda.
+    Zer egin bera gabe?
+    Seguru dagoela ziur.
 
 	thank_for_rescue = {
 		text = ["You have saved my friend!\nOnce again the poets three\nWe are in your debt"]
@@ -154,7 +256,11 @@ Woleh = {
     haiku: 5-7-5
     You have saved my friend!
     Once again the poets three
-    nWe are in your debt
+    We are in your debt
+
+    Laguna hemen
+    Berriz ere hiru
+    Eskatu nahi beste diru    
 
 	talk_after_rescue = {
 		text = [
@@ -169,15 +275,27 @@ Woleh = {
     In this club here, we are friends
     A club of poets
 
+    Woleh nire deitura
+    Lagun elkarte bilkura
+    Poeten bertsoen ohitura
+
     haiku: 5-7-5
     Have you come from far?
     Whatever do you look for?
     Here there is just us
 
+    Urrutitik etorri
+    Zer berri?
+    Gurekin hemen jarri
+
     haiku: 5-7-5
     We rhyme and speak free
     Thinking of words to play with
     What will you think of?
+
+    Errimekin libre hitz egin
+    Berbak eragin
+    Zer nahi duzu jakin?    
 
 	keep_talking = {
 		text = [
@@ -192,15 +310,27 @@ Woleh = {
     He speaks in rhyme with passion
     Mixing many words
 
+    Cornelius handik
+    Pasioz abesten du barrutik
+    Hitz asko bihotzetik    
+
     haiku: 5-7-5
     Greg is a shy man
     Yet he speaks in flow with ease
     He's got quite the soul
 
+    Greg gizon lotsati
+    Aise hitz egiten ihesi
+    Arima du bizi
+
     haiku: 5-7-5
     I am just a stone
     But my mind is filled with thought
     I am free to speak
+
+    Harri bat besterik ez naiz.
+    Baina burua pentsamenduz beteta maiz.
+    Libre hitz egiteko garaiz.    
 
 	help_prompt = {
 		text = [
@@ -216,10 +346,19 @@ Woleh = {
     Whatever will I think of?
     I have become lost
 
+    Orain zer eman?
+    Zer pentsa barrenean?
+    Galdu naiz bidean    
+
     haiku: 5-7-5
     You there, friend of mine
     Can you help me with my thoughts?
     Finding what is next?
+
+    Zu hor, nire lagun
+    Pentsamenduak ditut ilun
+    Orain zertan jardun?
+
 
 	thank_first_accept = {
 		text = [
@@ -231,6 +370,10 @@ Woleh = {
     Oh fantastic news!
     My thoughts shall flow with wonder
     You helping is kind
+
+    Berri pozgarri!
+    Ez dira izaten sarri
+    Zure laguntza aipagarri    
 	
 	wait_first_item = {
 		text = ["Please, I ask of you\nAn item filled with sadness\nThat would ease my mind"], 
@@ -241,6 +384,10 @@ Woleh = {
     Please, I ask of you
     An item filled with sadness
     That would ease my mind
+
+    Mesedez, eskatu
+    Tristuraz bukatu
+    Izateko askatu    
 
 	has_first_item = {
 		text = ["You return to me\nI sense much inspiration\nSadness surrounds you"], 
@@ -253,6 +400,11 @@ Woleh = {
     You return to me
     I sense much inspiration
     Sadness surrounds you
+
+    Nigana itzuli
+    Inspirazioa erabili
+    Tristurarekin ez ibili
+
 
 	thanks_first_item = {
 		text = [
@@ -269,20 +421,36 @@ Woleh = {
     Holds pain, sorrow, and much grief
     I shall keep it safe
 
+    Emandako elementuak
+    Oinazea eta atsekabea ditu efektuak
+    Salbu edukiko ditut arazoak    
+
     haiku: 5-7-4
     I can see its past
     The memories it carries
     They inspire me
+
+    Iragana ikusi
+    Oroitzapenak bizi
+    Inspirazioa nagusi    
 
     haiku: 5-7-5
     But they come with costs
     I can see the errors made
     They fill me with rage
 
+    Eragozpenak ekarri
+    Akatsak larri
+    Amorru iturri    
+
     haiku: 5-6-5
     Yet there is no point
     The past cannot be challenged
     It seems I am stuck
+
+    Ikusitakoa beldurgarri
+    Iragana ezin zalantzan jarri
+    Harrapatuta nago larri    
 
 	wait_second_item = {
 		text = ["I am lost again\nNow with rage as my partner\nI must find my way"], 
@@ -293,6 +461,11 @@ Woleh = {
     I am lost again
     Now with rage as my partner
     I must find my way
+
+    Berriz galduta
+    Lagunarekin haserretuta
+    Nire bideak salbatuta
+
 
 	has_second_item = {
 		text = [
@@ -309,10 +482,19 @@ Woleh = {
     Yet I do not understand
     Why do I feel this?
 
+    Nire haserrea handituz
+    Ezer ez ulertuz
+    Zergatik hau sentituz?    
+
     haiku: 5-7-5
     That item you hold
     I think it may help me learn
     Would you grant me it?
+
+    Zuk hori daukazunez
+    Ikasten lagunduko ote al nauz zorionez
+    Emango al zenidake mesedez?
+
 
 	thanks_second_item = {
 		text = [
@@ -327,10 +509,18 @@ Woleh = {
     What true rage can bring about
     Ruin and despair
 
+    Orain ikusi
+    Amorruak zer eragin erakutsi
+    Hondamendia eta etsipena nagusi    
+
     haiku: 5-7-5
     These Twin Queens (Erregina Bikiak) we have
     Their rule was built using it
     Why would they do this?
+
+    Gure Erregina Bikiak
+    Haien araua erabiliz eraiki herriak
+    Zergatik egin hondamendiak    
 
 	wait_third_item = {
 		text = ["Betrayal and rage\nWere they shown no love at all?\nThey do not know joy"], 
@@ -341,6 +531,10 @@ Woleh = {
     Betrayal and rage
     Were they shown no love at all?
     They do not know joy
+
+    Amorrua eta traizioa
+    Maitasunaren presioa
+    Ez al zuten ba alaitasunaren desioa    
 
 	has_third_item = {
 		text = ["You return to me\nCarrying joy in your heart\nWhat have you brought me?"], 
@@ -353,6 +547,10 @@ Woleh = {
     You return to me
     Carrying joy in your heart
     What have you brought me?
+
+    Niregana etorri
+    Poza bihotzean iturri
+    Zer didazu ekarri?    
 
 	thanks_third_item = {
 		text = [
@@ -370,25 +568,45 @@ Woleh = {
     It holds much joy and delight
     It is wonderful
 
+    Daramazun panpina
+    Poza eta gozamena jakina
+    Zoragarria eta fina    
+
     haiku: 5-7-5
     I can see its past
     Many days of happiness
     Frolicking through fields
+
+    Bere iragana ikusi
+    Zorion egun asko nagusi
+    Zelaietan zehar izozten itsusi    
 
     haiku: 5-7-5
     Is this what they miss?
     Is this what the Twin Queens (Erregina Bikiak) need?
     A need to know joy?
 
+    Honegatik negar?
+    Erregina Bikiek hau behar
+    Alaitasuna jakiteko beharra izar?    
+
     haiku: 5-7-5
     But that time is gone
     Now they remain as tyrants
     Forsaking their need
 
+    Denbora agortuz
+    Tiranoak sortuz
+    Haien beharra ahaztuz    
+
     haiku: 5-7-5
     So I must be strong
     Since I will bring joy instead
     Fighting through that hate
+
+    Izan indartsu
+    Alaitasuna maitetsu
+    Gorrotoz indartsu    
 
 	final = {
 		text = ["Friend, let me thank you\nI now have a new purpose-\nAnd you in our club"], 
@@ -399,4 +617,8 @@ Woleh = {
     Friend, let me thank you
     I now have a new purpose-
     And you in our club
+
+    Zuri eskerrak
+    Asmo berri bakarra...
+    Zu gure elkartean izarra    
 }, 
