@@ -221,7 +221,7 @@ SecretCodeInvalidCode = "Kodeak ez du balio",
 SecretCodeActivated = "Kodea aktibatuta: ",
 # Opening text
 OpeningText1 = "Hau da erregistratzera ausartu ez zirena:",
-OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere ilaretatik sortu behar izan zen.",
+OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere armadako norbait izan behar zen.",
 PressToSkipPrefix = "Sakatu",
 PressToSkipPostfix = "saltatzeko",
 # Hints
@@ -428,7 +428,7 @@ DKD_Ricard = {
 	greeting={
 		text=["- Oh? Beste bat.",
 		"[color=#fffab3]Guardiak[/color] gaur hona bota duen hirugarrena zara.",
-		"Hau da -edo zen- Usurpatzailearen Kartzela, non [color=#fffab3]Guardiak[/color] [color=#ff4c42]Usurpatzailea[/color] zela susmatzen zuten edonor giltzapetu zuten.",
+		"Hau da -edo zen- Usurpatzailearen Kartzela, non [color=#fffab3]Guardiak[/color] [color=#ff4c42]Usurpatzailea[/color] zela susmatzen zuten edonor giltzapetzen zuten.",
 		"Hala ere, horretarako eraiki zen.",
 		"Gaur, beren autoritate zaharkitua zalantzan jartzen duen edonor botako dute putzu honetara. Baina bere administrazioa hausten den heinean, espetxearen segurtasuna ere aldatzen da.",
 		"Izan ere, zu bezalako norbaitek ere ihes egin dezakeela apustu egingo nuke. Zure izpirituan [color=#77FFFF]URA[/color] duzula dirudi.",
@@ -443,7 +443,7 @@ DKD_Ricard = {
 		"Ai, zulo honetara bota zituzten beste arima koitaduei buruz al zara?",
 		"Beldur naiz ez ote zuten asko iraun. Burua galdu duten beste preso haiek urratuta.",
 		"Zaindu zeure burua edo haiek bezala amaituko duzu txo!",
-		"Orain, utzi nazazu bakean txo! SEP!",					
+		"Orain, utzi nazazu bakean txo! SEP!",
 		],
 	},
 	final={text=["Utz nazazu bakean."]},
