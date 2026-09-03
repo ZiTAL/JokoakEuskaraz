@@ -1877,7 +1877,7 @@ BushMan = {
 	explanation={
 		text=["Zergatik ezkutatzen naiz sasien artean?\n[color=#8aff92]Veilera[/color] nindoan bitartean\nGarrasi bat entzun nuenean,\nEz gizon, ez txori...\nHorregatik nago hain zurbil tartean", 
 		"Eliza zaharrean zegoen piztia negarrez\nLapurreta egin baliote legez agertu zen haserrez\nBaina lapurtutakoa\nEz zen ez zilarra, ez urrea",
-		"Basatia nazkagarria eta zoratua\nMutil burugogorra zirudien koitatuak\nBere buru sakonean\nNorbait hartu al du\n[color=#ffbb00]Brontzezko ezpata[/color] madarikatua"
+		"Basatia nazkagarria eta zoratua\nMutil burugogorra zirudien koitatuak\nBere buru sakonean\nNorbait hartu al du\n[color=#ffbb00]Brontzezko ezpata[/color] madarikatua",
 		"Haren presentzia nazkagarria\nZuhaixka honetan ezkutagarria\nKendu basapiztia gainetik\nJoan edo hil\nNire elkartean parte hartzea miragarria"
 		],
 	},
@@ -1896,7 +1896,7 @@ BushMan = {
 PoetryClub_BushMan = {
 	thanks={
 		text=[
-			"Elkartearen barruan\nZuhaixkaren lekuan\nWolehren lagun bat\nOngi etorri ohorez\nBehar den moduan!"
+			"Elkartearen barruan\nZuhaixkaren lekuan\nWolehren lagun bat\nOngi etorri ohorez\nBehar den moduan!",
 			"Cornelius dut izena, lagun\nHarrapatu duzu munstro ilun\nOrain lurrean dago\nEntzun, ez dago oihartzun\nEman diozu amaiera egun."]
 	},
 	help_woleh={
@@ -1922,67 +1922,68 @@ Woleh={
 		emotion="angry_loop",
 	},
 	waiting_for_cornelius={
-		text=["Gure laguna kanpoan egon da.\nZer egin dezaket bera gabe?\nBabesean dagoela espero dut."]
+		text=["Gure laguna joan.\nBera dugu gogoan.\nEra bera bila noan."]
 	},
 	thank_for_rescue={
-		text=["Nire laguna salbatu duzu!\nBerriro gaude hiru poetak\nZurekin zorretan gaude"]
+		text=["Laguna salbu\nBerriz ere hiru\nEskatu nahi beste diru"]
 	},
 	talk_after_rescue={
 		text=[
-			"Nire izena Woleh da\nHemengo elkarte honetan, lagunak gara\nPoeten elkartea",
-			"Urrutitik etorri zara?\nZer bilatzen ari zara?\nGu bakarrik gaude hemen",
-			"Aske errimatu eta hitz egiten dugu\nJolastu beharreko hitzetan pentsatzen\nZer pentsatuko duzu honetaz?",
+			"Woleh nire deitura\nLagun elkarte bilkura\nPoeten bertsoen ohitura",
+			"Urrutitik etorri\nZer berri?\nGurekin hemen jarri",
+			"Errimekin libre hitz egin\nBerbak eragin\nZer nahi duzu jakin?",
 		]
 	},
 	keep_talking={
 		text=[
-			"Cornelius hor\nPasioz hitz egiten du\nHitz burrunbariak nahastuz",
-			"Greg gizon lotsatia da\nHala ere, ondo hitz egiten du\nArima handia du",
+			"Cornelius handik\nPasioz abesten du barrutik\nHitz asko bihotzetik",
+			"Greg gizon lotsati\nAise hitz egiten ihesi\nArima du bizi",
 			"Harri bat besterik ez naiz\nBaina nire burua pentsamenduz beteta dago\nAske naiz hitz egiteko",
+			"Harri bat besterik ez naiz\nBaina burua pentsamenduz beteta maiz\nLibre hitz egiteko garaiz",
 		],
 	},
 	help_prompt={
 		text=[
-			"Orain zer esango dut?\nZer gertatuko zait?\nGalduta nabil",
-			"Zu, nire lagun\nLagun al didazu nire pentsamenduetan?\nHurrengoa aurkitzen?"
+			"Orain zer eman?\nZer pentsa barrenean?\nGaldu naiz bidean",
+			"Zu hor, nire lagun\nPentsamenduak ditut ilun\nOrain zertan jardun?"
 		],
 		prompt="Woleh-ri lagundu?",
 		answers=["Bai, lagunduko dizut", "Irten"]
 	},
 	thank_first_accept={
 		text=[
-			"Oh, albiste zoragarria!\nNire pentsamenduak zoragarri ibiliko dira\nZure laguntza eskertzen da",
+			"Berri pozgarri!\nEz dira izaten sarri\nZure laguntza aipagarri",
 		],
 	},
 	# NOTE - "emotion" field is used for game logic.
 	# Do not translate the emotion fields.
 	wait_first_item={
-		text=["Mesedez, galdetzen dizut\nTristuraz betetako objektu bat\nHorrek adimena arinduko luke"],
+		text=["Mesedez, eskatu\nTristuraz bukatu\nIzateko askatu"],
 		emotion="sad_loop"
 	},
 	has_first_item={
-		text=["Nigana itzultzen zara\nInspirazio handia sentitzen dut\nTristurak inguratzen zaitu"],
+		text=["Nigana itzuli\nInspirazioa erabili\nTristurarekin ez ibili"],
 		emotion="sad_loop",
 		prompt="Woleh",
-		answers=["Ezkontza eraztuna eman", "Irten"]
+		answers=["Ezkontza Eraztuna Eman", "Irten"]
 	},
 	thanks_first_item={
 		text=[
-			"Zuk ematen duzun objektu honek\nLarritasuna, tristura eta min asko ditu\nLeku seguru batean gordeko dut",
-			"Bere iragana ikusten dut\nDaraman oroitzapenak\nInspiratzen naute",
-			"Baina kontran\nEgindako akatsak ikusten ditut\nHaserrez betetzen naute",
-			"Hala ere, ez dago punturik\nIragana ezin da auzitan jarri\nTrabatuta nagoela dirudi",
+			"Emandako elementuak\nOinazea eta atsekabea ditu efektuak\nSalbu edukiko ditut arazoak",
+			"Iragana ikusi\nOroitzapenak bizi\nInspirazioa nagusi",
+			"Eragozpenak ekarri\nAkatsak larri\nAmorru iturri",
+			"Ikusitakoa beldurgarri\nIragana ezin zalantzan jarri\nHarrapatuta nago larri",
 		],
 		emotion="angry_loop",
 	},
 	wait_second_item={
-		text=["Berriro galduta\nOrain haserrea lagun dudala\nNeure bidea aurkitu behar dut"],
+		text=["Berriz galduta\nLagunarekin haserretuta\nNire bideak salbatuta"],
 		emotion="angry_loop",
 	},
 	has_second_item={
 		text=[
-			"Nire haserrea oraindik hazten dabil\nHala ere, ez dut ulertzen\nZergatik sentitzen naiz horrela?",
-			"Eusten ari zaren objektu hori\nUste dut ikasten lagundu ahal didala\nEmango al zenidake?"
+			"Nire haserrea handituz\nEzer ez ulertuz\nZergatik hau sentituz?",
+			"Zuk hori daukazunez\nIkasten lagunduko ote al nauz zorionez\nEmango al zenidake mesedez?"
 		],
 		emotion="angry_loop",
 		prompt="Woleh",
@@ -1990,33 +1991,33 @@ Woleh={
 	},
 	thanks_second_item={
 		text=[
-			"Orain ikusten dut\nEgiazko haserreak zer ekar dezakeena\nHondamendia eta etsipena",
-			"Dirugun [color=#fffab3]Biki Erregina[/color] hauek\nHaien erregealdia hau erabiliz eraiki zen\nZergatik egingo zuten hau?"
+			"Orain ikusi\nAmorruak zer eragin erakutsi\nHondamendia eta etsipena nagusi",
+			"Gure [color=#fffab3]Erregina Bikiak[/color]\nHaien araua erabiliz eraiki herriak\nZergatik egin hondamendiak"
 		],
 		emotion="angry_loop",
 	},
 	wait_third_item={
-		text=["Haserrea eta traizioa?\nEz al zitzaien maitasunik erakutsi?\nEz dakite zer den dibertimendua"],
+		text=["Amorrua eta traizioa\nMaitasunaren presioa\nEz al zuten ba alaitasunaren desioa"],
 		emotion="sad_loop",
 	},
 	has_third_item={
-		text=["Nigana itzultzen zara\nPoza bihotzean eramanaz\nZer ekarri didazu?"],
+		text=["Niregana etorri\nPoza bihotzean iturri\nZer ote didazu ekarri?"],
 		emotion="sad_loop",
 		prompt="Woleh",
 		answers=["Neskatilaren Panpina Eman", "Irten"]
 	},
 	thanks_third_item={
 		text=[
-			"Daramazun panpin hau\nPoz eta gozamen handia dauka\nZoragarria da",
-			"Bere iragana ikusten dut\nEgun askotako zoriontasuna\nSoroetan jolasten",
-			"Honen falta al dute?\nHau al da [color=#fffab3]Biki Erreginak[/color] behar dutena?\nPoza ezagutu beharra?",
-			"Baina denbora hori joan da\nOrain tirano izaten jarraitzen dute\nBeren beharra alde batera utziz",
-			"Beraz, indartsua izan behar dut\nPoza ekarriko baitut bueltan\nGorroto horren bidez borrokatuz",
+			"Daramazun panpina\nPoza eta gozamena jakina\nZoragarria eta fina",
+			"Bere iragana ikusi\nZorion egun asko nagusi\nZelaietan zehar izozten itsusi",
+			"Honegatik negar?\n[color=#fffab3]Erregina Bikiek[/color] hau behar\nAlaitasuna jakiteko beharra izar?",
+			"Denbora agortuz\nTiranoak sortuz\nHaien beharra ahaztuz",
+			"Izan indartsu\nAlaitasuna maitetsu\nGorrotoz indartsu",
 		],
 		emotion="happy_loop",
 	},
 	final={
-		text=["Lagun, utzidazu eskerrak ematen\nOrain helburu berri bat daukat-\nEta zu gure elkarteko kide egin zara"],
+		text=["Zuri eskerrak\nAsmo berri bakarra...\nZu gure elkartean izarra"],
 		emotion="happy_loop",
 	}
 },
@@ -2050,8 +2051,8 @@ Greg={
 	},
 	final_rap={
 		text=[
-			"Nire ezpatarekin [color=#fffab3]Guardia[/color] hiltzen ari naiz.\nBeraz, hobe duzu iruzurra gelditzea.\nHaiek beldurra izatea lortuko dut.\nMenderatzeko prestatzen ari naiz.",
-			"Eta ez, ez dut gezurrik esaten.\nTontolapiko hauek hiltzeko prest dauzkat.\nHitz egitea bakarrik nahi dute.\nBaina ezin dute nire ezpatari aurre eta men egin.",
+			"[color=#fffab3]Guardia[/color] hiltzeko ezpata hilgarria.\nUtikan fartsa handia.\nBeldur argia.\nInbasio larria.",
+			"Gezurrik ez.\nZoro hauek hiltzeko berez.\nHitz egin minez.\nNire ezpata begian indarrez.",
 		]
 	},
 	final={

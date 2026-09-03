@@ -221,8 +221,8 @@ So they better drop the charade.
 I'm gonna go make 'em afraid.
 I'm getting ready to invade.
 
-Nire ezpatarekin hilko dut Guardia.
-Beraz, hobe uztea fartsa handia.
+Guardia hiltzeko ezpata hilgarria.
+Utikan fartsa handia.
 Beldur argia.
 Inbasio larria.
 
@@ -234,7 +234,7 @@ But they can't with my sword in their eye.
 Gezurrik ez.
 Zoro hauek hiltzeko berez.
 Hitz egin minez.
-Baina nire ezpata begian indarrez.
+Nire ezpata begian indarrez.
 
 1930 - 2024
 Woleh = {
@@ -247,9 +247,9 @@ Woleh = {
     What can I do without him?
     I hope he is safe
 
-    Gure laguna joanda.
-    Zer egin bera gabe?
-    Seguru dagoela ziur.
+    Gure laguna joan.
+    Bera dugu gogoan
+    Era bera bila noan.
 
 	thank_for_rescue = {
 		text = ["You have saved my friend!\nOnce again the poets three\nWe are in your debt"]
@@ -260,9 +260,9 @@ Woleh = {
     Once again the poets three
     We are in your debt
 
-    Laguna hemen
+    Laguna salbu
     Berriz ere hiru
-    Eskatu nahi beste diru    
+    Eskatu nahi beste diru  
 
 	talk_after_rescue = {
 		text = [
@@ -522,7 +522,7 @@ Woleh = {
 
     Gure Erregina Bikiak
     Haien araua erabiliz eraiki herriak
-    Zergatik egin hondamendiak    
+    Zergatik egin hondamendiak
 
 	wait_third_item = {
 		text = ["Betrayal and rage\nWere they shown no love at all?\nThey do not know joy"], 
@@ -536,7 +536,7 @@ Woleh = {
 
     Amorrua eta traizioa
     Maitasunaren presioa
-    Ez al zuten ba alaitasunaren desioa    
+    Ez al zuten ba alaitasunaren desioa
 
 	has_third_item = {
 		text = ["You return to me\nCarrying joy in your heart\nWhat have you brought me?"], 
@@ -552,7 +552,7 @@ Woleh = {
 
     Niregana etorri
     Poza bihotzean iturri
-    Zer didazu ekarri?    
+    Zer didazu ekarri?  
 
 	thanks_third_item = {
 		text = [
