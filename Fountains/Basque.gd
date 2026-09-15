@@ -658,7 +658,7 @@ Tsubasa = {
 
 GodwellEntranceNPC = {
 	inspect_success = {
-		text=["[color=#77FFFF]Putzu Sakratuaren Talismanari[/color] erreakzionatuz, putzuak igarobidea ematen dizu."]
+		text=["[color=#77FFFF]Putzu Sakratuaren Talismanari[/color] erreakzionatuz, putzuak sartzeko baimena ematen dizu."]
 	},
 	inspect_fail = {
 		text=["Putzua distiratsuegia da. Ezin duzu ezer ikusi."]
