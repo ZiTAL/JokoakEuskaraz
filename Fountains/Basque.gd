@@ -221,7 +221,7 @@ SecretCodeInvalidCode = "Kodeak ez du balio",
 SecretCodeActivated = "Kodea aktibatuta: ",
 # Opening text
 OpeningText1 = "Hau da erregistratzera ausartu ez zirena:",
-OpeningText2 = "[color=#ff4c42]Uzurpatzailea[/color] bere armadako norbait izan behar zen.",
+OpeningText2 = "[color=#ff4c42]Usurpatzailea[/color] bere armadako norbait izan behar zen.",
 PressToSkipPrefix = "Sakatu",
 PressToSkipPostfix = "saltatzeko",
 # Hints
