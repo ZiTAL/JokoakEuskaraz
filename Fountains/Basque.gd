@@ -13,6 +13,8 @@ MM_Support = "FOUNTAINS [color=#1d9bf0]TWITTERen[/color]",
 MM_Credits = "KREDITUAK",
 MM_Settings = "EZARPENAK",
 MM_Language = "HIZKUNTZA ¶", # the symbol here is replaced with a language symbol
+MM_DLC = "DESKARGATZEKO EDUKIA",
+MM_DLC_XB = "DESKARGATZEKO EDUKIA",
 MM_Quit = "IRTEN",
 # Only set this if the game has a custom title in the language
 LanguageCustomGameTitle = "",
@@ -279,7 +281,7 @@ BuyNotification = "[color=#77FFFF]%s[/color] x%s %s %s-ren truke erosi duzu.", #
 SellNotification = "[color=#77FFFF]%s[/color] x%s %s %s-ren truke saldu duzu.", # FORMAT: item name, number of items, price, currency name
 UpgradedNotification = "[color=#77FFFF]%s[/color] [color=#77FFFF]%s[/color]-ra hobetu duzu.", # FORMAT: old sword name, new sword name
 Piece = "Eusko", # Name of the in-game money
-NotEnoughMoney = "Ez daukazu nahikoa txanpon [color=#77FFFF]%s[/color] erosteko", # FORMAT: number of items, item name
+NotEnoughMoney = "Ez daukazu nahikoa txanpon %s [color=#77FFFF]%s[/color] erosteko", # FORMAT: number of items, item name
 NotEnoughItem = "Ez daukazu nahikoa %ss %s [color=#77FFFF]%s[/color] erosteko", # FORMAT: currency item, number of items trying to purchase, purchasing item name
 MapMove = "\n\nMUGITU",
 MapAdd = "nMARKATZAILEA\n\nGEHITU",
@@ -1938,7 +1940,6 @@ Woleh={
 		text=[
 			"Cornelius handik\nPasioz abesten du barrutik\nHitz asko bihotzetik",
 			"Greg gizon lotsati\nAise hitz egiten ihesi\nArima du bizi",
-			"Harri bat besterik ez naiz\nBaina nire burua pentsamenduz beteta dago\nAske naiz hitz egiteko",
 			"Harri bat besterik ez naiz\nBaina burua pentsamenduz beteta maiz\nLibre hitz egiteko garaiz",
 		],
 	},
@@ -2029,7 +2030,6 @@ Greg={
 			"Buruko hitzak bota\n[color=#fffab3]Erregina Bikiek[/color] daukate porrota",
 			"Bikiekin arazoak\n[color=#fffab3]Guardia[/color] atzean utzi eta kateak apurtzeko gogoak.",
 			"Wolehk eraman ninduen, eszena utzita\n[color=#fffab3]Guardiari[/color] esan nionaren itxura ikusita",
-			"Ez, ez zitzaien gustatu, beraz probatu ninduten\nEzpata bat eztarrian, eta lantza bat bularrean...",
 			"Ez, ez zitzaien gustatu, probara gerturatu\nEzpata eztarrian, eta lantza bularrean kokatu..."
 		]
 	},
@@ -3376,7 +3376,7 @@ WORDS = {
 		charm = "talismana",
 		coin = "txanpona",
 		wall = "horma",
-		"floor": "lurra",
+		"floor" = "lurra",
 		skeleton = "hezurdura",
 		door = "atea",
 		entrance = "sarrera",
@@ -3400,7 +3400,7 @@ WORDS = {
 		shirt = "alkandora",
 		boots = "botak",
 		pants = "prakak",
-		"tool": "tresna",
+		"tool" = "tresna",
 		mushroom = "perretxikoa",
 		drink = "edan",
 		meal = "janaria",
