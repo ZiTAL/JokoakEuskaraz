@@ -58,6 +58,7 @@ Espainiera - Eric Ramirez-Erosa
 Turkiera - Ichineko Loc.\n\t(Zeynep Nazlı Kolkıran, Işık Çağlar, Nisa Selin Yağız)
 Brasilgo Portugesa - Douglas Brum
 Txinera - Huang "Shuyuan" Teng
+Euskara - zital
 
 JAPONIERAZKO ITZULPENA ETA MARKETINA
 KURONO STUDIOS (kurono.xyz):
